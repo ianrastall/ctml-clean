@@ -49,7 +49,11 @@ impl PartialDate {
         }
     }
 
-    fn is_calendar_day(&self) -> bool {
+    /// Also used by `gameimport.rs` to validate a PGN `Date` tag's
+    /// day-of-month before trusting day precision (some PGN sources
+    /// write a nonexistent date like `2021.02.30`; falls back to month
+    /// precision there rather than accept a calendar-impossible day).
+    pub(crate) fn is_calendar_day(&self) -> bool {
         let (Some(m), Some(d)) = (self.m, self.d) else { return false };
         let leap = self.y % 4 == 0 && (self.y % 100 != 0 || self.y % 400 == 0);
         let days = [0, 31, if leap { 29 } else { 28 }, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];

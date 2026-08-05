@@ -29,6 +29,7 @@ struct Piece {
     kind: u8,
 }
 
+#[derive(Clone)]
 pub struct Board {
     squares: [Option<Piece>; 64],
     turn: u8,
@@ -58,7 +59,7 @@ fn piece_char(kind: u8) -> char {
     }
 }
 
-fn char_piece(c: char) -> Option<(u8, u8)> {
+pub(crate) fn char_piece(c: char) -> Option<(u8, u8)> {
     let kind = match c.to_ascii_lowercase() {
         'p' => PAWN,
         'n' => KNIGHT,
@@ -74,7 +75,7 @@ fn char_piece(c: char) -> Option<(u8, u8)> {
 
 /// `"e4"` -> square index (a1=0 .. h8=63, matching python-chess's own
 /// `chess.SQUARE_NAMES` / `square = rank * 8 + file` convention).
-fn square_from_algebraic(s: &str) -> Option<u8> {
+pub(crate) fn square_from_algebraic(s: &str) -> Option<u8> {
     let bytes = s.as_bytes();
     if bytes.len() != 2 {
         return None;
@@ -85,6 +86,11 @@ fn square_from_algebraic(s: &str) -> Option<u8> {
         return None;
     }
     Some(r * 8 + f)
+}
+
+/// Inverse of [`square_from_algebraic`]: square index -> `"e4"`.
+pub(crate) fn square_to_algebraic(sq: u8) -> String {
+    format!("{}{}", (b'a' + file(sq)) as char, (b'1' + rank(sq)) as char)
 }
 
 pub const STARTING_FEN: &str = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1";
@@ -156,7 +162,17 @@ impl Board {
         let from = square_from_algebraic(&uci[0..2])?;
         let to = square_from_algebraic(&uci[2..4])?;
         let promotion = if bytes.len() >= 5 { char_piece(uci.as_bytes()[4] as char).map(|(_, k)| k) } else { None };
+        self.apply_move(from, to, promotion)
+    }
 
+    /// Same as [`Self::apply_uci`], taking square indices and a decoded
+    /// promotion piece directly — [`crate::movegen`] generates candidate
+    /// moves this way and needs to apply/undo them without a UCI-string
+    /// round-trip. No legality checking here either: `movegen` is what
+    /// filters pseudo-legal moves down to legal ones, by applying each to
+    /// a clone and checking whether it leaves the mover's own king in
+    /// check.
+    pub fn apply_move(&mut self, from: u8, to: u8, promotion: Option<u8>) -> Option<()> {
         let moving = self.squares[from as usize]?;
         let mut captured = self.squares[to as usize];
         let prev_ep = self.ep_square;
@@ -286,6 +302,33 @@ impl Board {
         }
 
         h
+    }
+
+    // -------------------------------------------------------------
+    // Accessors for crate::movegen. Kept as accessors (rather than
+    // making the fields themselves `pub(crate)`) so this file stays the
+    // one place that knows the board's internal representation.
+    // -------------------------------------------------------------
+
+    pub fn turn(&self) -> u8 {
+        self.turn
+    }
+
+    pub fn castling_rights(&self) -> [bool; 4] {
+        self.castling
+    }
+
+    pub fn ep_square(&self) -> Option<u8> {
+        self.ep_square
+    }
+
+    /// `(color, piece_type)` at `sq`, or `None` if empty.
+    pub fn piece_at(&self, sq: u8) -> Option<(u8, u8)> {
+        self.squares[sq as usize].map(|p| (p.color, p.kind))
+    }
+
+    pub fn king_square(&self, color: u8) -> Option<u8> {
+        (0u8..64).find(|&sq| self.squares[sq as usize].is_some_and(|p| p.color == color && p.kind == KING))
     }
 
     /// For diagnostics only — not used by the fingerprint path.

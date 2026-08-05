@@ -1,16 +1,24 @@
 # CTML Handoff
 
 Last updated: 2026-08-05
-Status: the Rust program's purpose is DECIDED (see below). Four real
-commands exist: `ctml-clean stats`, `ctml-clean diff-players` (exact
-529,403/529,403 field parity against the XML player registry), `ctml-clean
-ingest-crosstables` (crosstables.json → ctml:tournament, full corpus
-schema-validated), and `ctml-clean fingerprint-selftest` (the
-`zobrist-polyglot-1` scheme, 10/10 spec test vectors passing — see its
-section below). `.gitignore` now excludes the SSP/crosstables.json/
+Status: the Rust program's purpose is DECIDED (see below), and the repo is
+now actually on GitHub (`github.com/ianrastall/ctml-clean`, pushed by the
+project owner). Seven real commands exist: `ctml-clean stats`,
+`ctml-clean diff-players` (exact 529,403/529,403 field parity against the
+XML player registry), `ctml-clean ingest-crosstables` (crosstables.json →
+ctml:tournament, full corpus schema-validated), `ctml-clean
+fingerprint-selftest` (the `zobrist-polyglot-1` scheme, 10/10 spec test
+vectors passing), `ctml-clean movegen-selftest`/`perft` (legal move
+generator, 27/27 perft cases exact against `python-chess`), and
+`ctml-clean pgn-import`/`pgn-selftest` (PGN → SAN-resolved UCI moves +
+fingerprints, 65/65 self-test games exact, then run against the real
+1.88M-game `mega-database-2025-filtered.pgn` — see its section below for
+the result). `.gitignore` excludes the SSP/crosstables.json/
 player-registry shards (multiple blow GitHub's 100MB push limit) — see
-"Repo size" below. Next, per the project owner, in order: PGN import,
-then cross-source tournament dedup.
+"Repo size" below. Next: SAN parsing + PGN tag extraction on top of the
+move generator built this session (that generator is a building block for
+PGN import, not the whole of it — see "Next real unit of work"), then
+cross-source tournament dedup.
 
 ## Honesty markers
 
@@ -487,8 +495,141 @@ move legality (moves are trusted, per the spec's own "moves may be
 consumed in any notation" framing — legality is PGN import's job, not
 fingerprinting's).
 
+## Legal move generator — this session, verified
+
+`src/movegen.rs` on top of `src/chess.rs` (which gained `pub` accessors —
+`turn`/`castling_rights`/`ep_square`/`piece_at`/`king_square` — and a
+square-index `apply_move` factored out of `apply_uci`, plus `Clone`, so
+movegen can apply a candidate to a scratch copy). Standard chess only, no
+Chess960, same scope as `chess.rs`.
+
+**Why this exists**: PGN import needs it, not fingerprinting. SAN
+(`"Nf3"`, `"exd5"`, `"O-O"`) names a piece kind and a destination, and
+resolving that to one `(from, to)` pair requires knowing every *legal*
+move in the position — not just which pieces could geometrically reach
+that square, since a pinned piece or a move that walks into check has to
+be excluded. That's the actual reason a move generator had to come before
+PGN parsing, not just a convenient place to start.
+
+**Approach, stated plainly**: pseudo-legal generation per piece
+(unconditional — doesn't check the mover's own king), then a legality
+filter that clones the board, applies each candidate, and checks whether
+the mover's own king is left in check. Correct and simple over fast — no
+pin detection, no incremental check tracking. Matches this project's
+established pattern of getting correctness verified first and profiling
+once there's a real workload to profile against, not a guess.
+
+**Verified against `python-chess`, not just against itself.** Generated
+`spec/perft-vectors.tsv` by running `python-chess`'s own `board.legal_moves`
+recursively (`perft`, the standard node-counting correctness check for a
+move generator) against the six canonical "Perft Results" stress
+positions from the chess-programming community — start position, Kiwipete
+(castling + pins + promotions), position3 (en passant-heavy pawn
+endgame), position4 and its color-mirrored twin (promotions + castling,
+checked both colors independently rather than trusting symmetry), position5,
+position6 — at depths chosen to keep total runtime reasonable (1-3 to
+1-5 depending on branching factor). `ctml-clean movegen-selftest` reads
+that TSV and reruns the same perft in Rust:
+
+```
+27 cases; all match.
+```
+
+27/27, including `startpos` depth 5 (4,865,609 nodes) and `kiwipete`
+depth 4 (4,085,603 nodes) — both exact. `position4-mirrored` matching
+independently of `position4` is worth calling out specifically: it's not
+proof by symmetry (the two are different positions with different piece
+sets, not literal mirror-move replays of each other), it's two separate
+real cross-checks that happen to stress the same rules (castling,
+promotion) from both colors' perspective.
+
+**Performance, noted not chased**: Rust `perft(5)` on the start position
+is 310ms; `python-chess`'s own recursive perft for the same took 7.94s
+generating the vectors — about 25x, even with the deliberately
+unoptimized clone-per-move approach above. Good enough that there's no
+pressure to optimize before there's a real workload driving it.
+
+## PGN import: SAN parsing + tag extraction — this session
+
+`src/pgn.rs` (tokenizer), `src/san.rs` (SAN grammar + resolution against
+`movegen::legal_moves`), `src/gameimport.rs` (ties tokenizer + SAN
+resolver + `fingerprint::compute` together into a `ParsedGame`, and
+renders `xsd/ctml-game.xsd`'s `GameType` — read directly before writing
+the emitter, same as every other schema target this session). Wired up
+as `ctml-clean pgn-import <file> [source-kind]` (diagnostic: parses,
+imports, reports pass/fail, prints one example `<ctml:game>`) and
+`ctml-clean pgn-selftest`.
+
+**Why the move generator had to come first**: SAN (`"Nf3"`, `"exd5"`,
+`"O-O"`) names a piece kind and destination, sometimes with a
+disambiguating file/rank — resolving it to one `(from, to)` requires the
+position's actual legal-move list (a pinned piece or a move into check
+has to be excluded), which is exactly what `movegen.rs` provides.
+`san::resolve` filters `legal_moves(board)` down by piece kind,
+destination, promotion, and disambiguator, erroring distinctly on zero
+matches vs. more than one (both are real parse failures, not the same
+failure for debugging).
+
+**Tokenizer scope, stated plainly**: extracts mainline SAN tokens only —
+move numbers, comments (`{...}` and `;...`), NAGs (`$n`), and variations
+(`(...)`, which can nest) are consumed and discarded, matching
+`scripts/pgn_to_ctml.py`'s own scope (it only ever stores
+`game.mainline_moves()`; CTML's `ctml:moves` has no home for comments or
+side lines regardless).
+
+**One real bug, found by testing against real PGN text, not invented
+edge cases:** the first self-test run (5 hand-picked games + 60 random
+legal self-play games, generated via `python-chess`, expected UCI move
+lists computed by the same) came back 22/65 passing — every failure was
+a SAN token ending in `+` or `#`. The tokenizer stripped informal `!`/`?`
+annotation glyphs but the actual check/mate markers were never in that
+strip set at all — an omission, not a subtle bug, and exactly the kind
+of thing that's invisible until tested against text that actually
+contains a check. One-line fix (`trim_end_matches(['!', '?', '+', '#'])`
+instead of `['!', '?']`); reran clean: **65/65**.
+
+**Then verified against real-world data, not just generated test cases —
+the entire file, not a sample.** `scripts/pgn_to_ctml.py`'s own docstring
+names its production input as `mega-database-2025-filtered.pgn`; it
+turned out to still be on disk
+(`D:\..Bookstacks\mega-database-2025-filtered.pgn`, 1.58GB, real games
+spanning 1821 to present — counted precisely with `grep -cE
+'^\[Event "'`, not the sloppier `'^\[Event'` which also matches
+`EventDate`/`EventCountry` and overcounts by ~4x). A 200MB/252,136-game
+slice ran first (252,136/252,136, zero failures, 101s), then the full
+file:
+
+```
+parsed 1881897 games from mega-database-2025-filtered.pgn     49.58s
+imported 1881897/1881897 games (0 failed), 157648988 total plies    810.72s
+```
+
+**1,881,897/1,881,897 — every real game in the actual production
+database, zero failures**, ~157.6M plies total, ~2,320 games/sec (move
+resolution phase) with no throughput degradation from the 200MB sample to
+the full 1.58GB file. Two centuries of real, messy PGN — mixed
+conventions, unknown dates, every check/mate marker, every castling and
+promotion and en passant a real game corpus contains — not a
+hand-picked or synthetic set.
+
+**Explicit scope boundary, not yet done:** this converts one game at a
+time. It does **not** implement `pgn_to_ctml.py`'s tournament-grouping
+(games clustered by normalized Event+Site, split on a 21-day gap),
+registry resolution (player/event/place index lookups against the real
+registries), the rating-floor admission rule, or dedup-safe corpus
+writing (`corpus_writer.py`'s merge-by-fingerprint logic) — all of that
+is a distinct, separate layer on top of what's built here, not
+discovered scope creep to chase down now.
+
 ## Next real unit of work
 
-Per the project owner, in order: (1) — done, see above. (2) PGN import.
-(3) Cross-source tournament dedup/clustering (the
-`curate_source_tournaments.py` gap noted above).
+Per the project owner, in order: (1) Zobrist fingerprint spec — done.
+(1b) Legal move generator — done. (2) PGN import — done for single-game
+SAN resolution + tag extraction (see above); tournament
+grouping/registry-resolution/corpus-writing is real remaining scope
+within "PGN import" broadly, not yet started. (3) Cross-source
+tournament dedup/clustering (the `curate_source_tournaments.py` gap noted
+earlier) — overlaps significantly with item 2's remaining scope, since
+both need the same event-clustering logic; likely worth doing together
+rather than as strictly sequential items. Say how you want to sequence
+that, or something else.

@@ -16,9 +16,13 @@ mod crosstable;
 mod diff;
 mod eco;
 mod fingerprint;
+mod gameimport;
+mod movegen;
 mod names;
+mod pgn;
 mod polyglot_array;
 mod registry;
+mod san;
 mod ssp;
 mod tournament;
 mod xmlplayers;
@@ -90,13 +94,209 @@ fn main() -> ExitCode {
                 }
             }
         }
+        Some("perft") => {
+            let depth: u32 = args.next().and_then(|s| s.parse().ok()).unwrap_or(4);
+            let fen = args.next();
+            run_perft(depth, fen.as_deref());
+            ExitCode::SUCCESS
+        }
+        Some("movegen-selftest") => {
+            let data_path = args
+                .next()
+                .map(PathBuf::from)
+                .unwrap_or_else(|| PathBuf::from("spec/perft-vectors.tsv"));
+            match run_movegen_selftest(&data_path) {
+                Ok(true) => ExitCode::SUCCESS,
+                Ok(false) => ExitCode::FAILURE,
+                Err(err) => {
+                    eprintln!("error: {err}");
+                    ExitCode::FAILURE
+                }
+            }
+        }
+        Some("pgn-import") => {
+            let Some(pgn_path) = args.next().map(PathBuf::from) else {
+                eprintln!("usage: ctml-clean pgn-import <file.pgn> [source-kind]");
+                return ExitCode::FAILURE;
+            };
+            let source_kind = args.next().unwrap_or_else(|| "pgn".to_string());
+            match run_pgn_import(&pgn_path, &source_kind) {
+                Ok(()) => ExitCode::SUCCESS,
+                Err(err) => {
+                    eprintln!("error: {err}");
+                    ExitCode::FAILURE
+                }
+            }
+        }
+        Some("pgn-selftest") => {
+            let pgn_path = args
+                .next()
+                .map(PathBuf::from)
+                .unwrap_or_else(|| PathBuf::from("spec/pgn-test-games.pgn"));
+            let expected_path = args
+                .next()
+                .map(PathBuf::from)
+                .unwrap_or_else(|| PathBuf::from("spec/pgn-test-games.expected.tsv"));
+            match run_pgn_selftest(&pgn_path, &expected_path) {
+                Ok(true) => ExitCode::SUCCESS,
+                Ok(false) => ExitCode::FAILURE,
+                Err(err) => {
+                    eprintln!("error: {err}");
+                    ExitCode::FAILURE
+                }
+            }
+        }
         Some(other) => {
             eprintln!(
-                "ctml-clean: unknown command '{other}'\nusage: ctml-clean <stats|diff-players|ingest-crosstables|fingerprint-selftest> [args...]"
+                "ctml-clean: unknown command '{other}'\nusage: ctml-clean <stats|diff-players|ingest-crosstables|fingerprint-selftest|perft|movegen-selftest|pgn-import|pgn-selftest> [args...]"
             );
             ExitCode::FAILURE
         }
     }
+}
+
+fn run_pgn_import(pgn_path: &Path, source_kind: &str) -> std::io::Result<()> {
+    let text = std::fs::read_to_string(pgn_path)?;
+    let t = Instant::now();
+    let games = pgn::parse_games(&text);
+    println!("parsed {} games from {}   {:>8.2?}\n", games.len(), pgn_path.display(), t.elapsed());
+
+    let mut imported = 0u64;
+    let mut failed = 0u64;
+    let mut total_plies = 0u64;
+    let t = Instant::now();
+    let mut first_example: Option<String> = None;
+
+    for g in &games {
+        match gameimport::import_game(g) {
+            Ok(parsed) => {
+                imported += 1;
+                total_plies += parsed.uci_moves.len() as u64;
+                if first_example.is_none() {
+                    first_example =
+                        Some(gameimport::game_xml(&parsed, "p0001", "p0002", source_kind, "  "));
+                }
+            }
+            Err(err) => {
+                failed += 1;
+                eprintln!("  FAILED: {err}");
+            }
+        }
+    }
+
+    println!(
+        "imported {imported}/{} games ({failed} failed), {total_plies} total plies   {:>8.2?}",
+        games.len(),
+        t.elapsed()
+    );
+
+    if let Some(example) = first_example {
+        println!("\nexample <ctml:game> (participant ids are placeholders — tournament grouping isn't wired up yet):\n{example}");
+    }
+
+    Ok(())
+}
+
+/// Cross-checks `pgn::parse_games` + `gameimport::import_game` against
+/// UCI move lists `python-chess` computed for the same PGN text — see
+/// `HANDOFF.md` for how `spec/pgn-test-games.pgn` and its `.expected.tsv`
+/// were generated.
+fn run_pgn_selftest(pgn_path: &Path, expected_path: &Path) -> std::io::Result<bool> {
+    let pgn_text = std::fs::read_to_string(pgn_path)?;
+    let expected_text = std::fs::read_to_string(expected_path)?;
+    let expected: Vec<&str> = expected_text.lines().filter(|l| !l.trim_start().starts_with('#')).collect();
+
+    let games = pgn::parse_games(&pgn_text);
+    if games.len() != expected.len() {
+        eprintln!(
+            "game count mismatch: parsed {} games from {}, but {} has {} expected lines",
+            games.len(),
+            pgn_path.display(),
+            expected_path.display(),
+            expected.len()
+        );
+        return Ok(false);
+    }
+
+    let mut all_ok = true;
+    let mut pass = 0u32;
+    for (i, (g, want)) in games.iter().zip(expected.iter()).enumerate() {
+        let event = g.tags.get("Event").cloned().unwrap_or_default();
+        match gameimport::import_game(g) {
+            Ok(parsed) => {
+                let got = parsed.uci_moves.join(" ");
+                if got == *want {
+                    pass += 1;
+                } else {
+                    all_ok = false;
+                    println!("FAIL game {i} ({event}):");
+                    println!("    got:  {got}");
+                    println!("    want: {want}");
+                }
+            }
+            Err(err) => {
+                all_ok = false;
+                println!("FAIL game {i} ({event}): import error: {err}");
+            }
+        }
+    }
+
+    println!("{pass}/{} games matched python-chess exactly", games.len());
+    Ok(all_ok)
+}
+
+fn run_perft(depth: u32, fen: Option<&str>) {
+    let board = match fen {
+        Some(f) => chess::Board::from_fen(f).expect("invalid FEN"),
+        None => chess::Board::starting_position(),
+    };
+    for d in 1..=depth {
+        let t = Instant::now();
+        let nodes = movegen::perft(&board, d);
+        println!("perft({d}) = {nodes:>12}   {:>8.2?}", t.elapsed());
+    }
+}
+
+/// `spec/perft-vectors.tsv`: `label\tfen\tdepth\texpected_nodes` per line,
+/// generated against `python-chess`'s own `board.legal_moves` — see
+/// `HANDOFF.md` for how.
+fn run_movegen_selftest(data_path: &Path) -> std::io::Result<bool> {
+    let text = std::fs::read_to_string(data_path)?;
+    let mut all_ok = true;
+    let mut count = 0u32;
+
+    for line in text.lines() {
+        let line = line.trim();
+        if line.is_empty() || line.starts_with('#') {
+            continue;
+        }
+        let fields: Vec<&str> = line.split('\t').collect();
+        let [label, fen, depth_s, expected_s] = fields[..] else {
+            eprintln!("skipping malformed line: {line}");
+            continue;
+        };
+        let depth: u32 = depth_s.parse().expect("depth must be an integer");
+        let expected: u64 = expected_s.parse().expect("expected node count must be an integer");
+        count += 1;
+
+        let Some(board) = chess::Board::from_fen(fen) else {
+            println!("FAIL {label}  (unparseable FEN: {fen})");
+            all_ok = false;
+            continue;
+        };
+        let t = Instant::now();
+        let got = movegen::perft(&board, depth);
+        let ok = got == expected;
+        all_ok &= ok;
+        println!(
+            "{} {label}  perft({depth}) = {got} (want {expected})   {:>8.2?}",
+            if ok { "PASS" } else { "FAIL" },
+            t.elapsed()
+        );
+    }
+
+    println!("\n{count} cases; {}", if all_ok { "all match." } else { "MISMATCH — see above." });
+    Ok(all_ok)
 }
 
 /// Parses the test-vector table directly out of `spec/fingerprint.md`
