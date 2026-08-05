@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:CAF-17296" kind="city">
+    <ctml:name>Bamingui</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Bamingui-Bangoran</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-BB</ctml:parentRef>
+    <ctml:wikiDataId>Q805946</ctml:wikiDataId>
+    <ctml:latitude>7.88897000</ctml:latitude>
+    <ctml:longitude>20.04875000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17329" kind="city">
+    <ctml:name>Ndélé</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Bamingui-Bangoran</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-BB</ctml:parentRef>
+    <ctml:wikiDataId>Q969825</ctml:wikiDataId>
+    <ctml:latitude>8.74287000</ctml:latitude>
+    <ctml:longitude>20.89108000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17298" kind="city">
+    <ctml:name>Bangui</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Bangui</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-BGF</ctml:parentRef>
+    <ctml:wikiDataId>Q3832</ctml:wikiDataId>
+    <ctml:latitude>4.36122000</ctml:latitude>
+    <ctml:longitude>18.55496000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17294" kind="city">
+    <ctml:name>Alindao</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Basse-Kotto</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-BK</ctml:parentRef>
+    <ctml:wikiDataId>Q153512</ctml:wikiDataId>
+    <ctml:latitude>5.02667000</ctml:latitude>
+    <ctml:longitude>21.20876000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17323" kind="city">
+    <ctml:name>Kembé</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Basse-Kotto</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-BK</ctml:parentRef>
+    <ctml:wikiDataId>Q2428213</ctml:wikiDataId>
+    <ctml:latitude>4.62275000</ctml:latitude>
+    <ctml:longitude>21.88645000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17338" kind="city">
+    <ctml:name>Zemio</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Haut-Mbomou</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q1771417</ctml:wikiDataId>
+    <ctml:latitude>5.03144000</ctml:latitude>
+    <ctml:longitude>25.13614000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17332" kind="city">
+    <ctml:name>Ouadda</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Haute-Kotto</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-HK</ctml:parentRef>
+    <ctml:wikiDataId>Q2428058</ctml:wikiDataId>
+    <ctml:latitude>8.07771000</ctml:latitude>
+    <ctml:longitude>22.40075000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17307" kind="city">
+    <ctml:name>Boda</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Lobaye</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-LB</ctml:parentRef>
+    <ctml:wikiDataId>Q2543954</ctml:wikiDataId>
+    <ctml:latitude>4.31887000</ctml:latitude>
+    <ctml:longitude>17.46953000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17308" kind="city">
+    <ctml:name>Boganangone</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Lobaye</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-LB</ctml:parentRef>
+    <ctml:wikiDataId>Q17175000</ctml:wikiDataId>
+    <ctml:latitude>4.73558000</ctml:latitude>
+    <ctml:longitude>17.14047000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17328" kind="city">
+    <ctml:name>Mongoumba</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Lobaye</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-LB</ctml:parentRef>
+    <ctml:wikiDataId>Q969825</ctml:wikiDataId>
+    <ctml:latitude>3.64153000</ctml:latitude>
+    <ctml:longitude>18.59364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17317" kind="city">
+    <ctml:name>Gamboula</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Mambéré-Kadéï</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-HS</ctml:parentRef>
+    <ctml:wikiDataId>Q962947</ctml:wikiDataId>
+    <ctml:latitude>4.11775000</ctml:latitude>
+    <ctml:longitude>15.13926000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17316" kind="city">
+    <ctml:name>Gambo</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Mbomou</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-MB</ctml:parentRef>
+    <ctml:wikiDataId>Q3094950</ctml:wikiDataId>
+    <ctml:latitude>4.64816000</ctml:latitude>
+    <ctml:longitude>22.26331000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17334" kind="city">
+    <ctml:name>Ouango</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Mbomou</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-MB</ctml:parentRef>
+    <ctml:wikiDataId>Q3357928</ctml:wikiDataId>
+    <ctml:latitude>4.31325000</ctml:latitude>
+    <ctml:longitude>22.55524000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17336" kind="city">
+    <ctml:name>Rafai</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Mbomou</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-MB</ctml:parentRef>
+    <ctml:wikiDataId>Q665219</ctml:wikiDataId>
+    <ctml:latitude>5.81012000</ctml:latitude>
+    <ctml:longitude>24.20305000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17299" kind="city">
+    <ctml:name>Baoro</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Nana-Mambéré</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-NM</ctml:parentRef>
+    <ctml:wikiDataId>Q1772389</ctml:wikiDataId>
+    <ctml:latitude>5.66667000</ctml:latitude>
+    <ctml:longitude>15.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17305" kind="city">
+    <ctml:name>Boali</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Ombella-M'Poko</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q1772369</ctml:wikiDataId>
+    <ctml:latitude>4.80048000</ctml:latitude>
+    <ctml:longitude>18.12747000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17315" kind="city">
+    <ctml:name>Damara</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Ombella-M'Poko</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q2423381</ctml:wikiDataId>
+    <ctml:latitude>4.96075000</ctml:latitude>
+    <ctml:longitude>18.70350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17318" kind="city">
+    <ctml:name>Grimari</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Ouaka</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-UK</ctml:parentRef>
+    <ctml:wikiDataId>Q962947</ctml:wikiDataId>
+    <ctml:latitude>5.73549000</ctml:latitude>
+    <ctml:longitude>19.91209000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17319" kind="city">
+    <ctml:name>Ippy</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Ouaka</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-UK</ctml:parentRef>
+    <ctml:wikiDataId>Q2428110</ctml:wikiDataId>
+    <ctml:latitude>6.26793000</ctml:latitude>
+    <ctml:longitude>21.22468000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17324" kind="city">
+    <ctml:name>Kouango</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Ouaka</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-UK</ctml:parentRef>
+    <ctml:wikiDataId>Q1772378</ctml:wikiDataId>
+    <ctml:latitude>4.99337000</ctml:latitude>
+    <ctml:longitude>19.96186000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17311" kind="city">
+    <ctml:name>Bouca</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Ouham</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-AC</ctml:parentRef>
+    <ctml:wikiDataId>Q2428295</ctml:wikiDataId>
+    <ctml:latitude>6.50734000</ctml:latitude>
+    <ctml:longitude>18.27670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17320" kind="city">
+    <ctml:name>Kabo</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Ouham</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-AC</ctml:parentRef>
+    <ctml:wikiDataId>Q2428075</ctml:wikiDataId>
+    <ctml:latitude>7.69937000</ctml:latitude>
+    <ctml:longitude>18.62903000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17306" kind="city">
+    <ctml:name>Bocaranga</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Ouham-Pendé</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-OP</ctml:parentRef>
+    <ctml:wikiDataId>Q1772369</ctml:wikiDataId>
+    <ctml:latitude>6.76546000</ctml:latitude>
+    <ctml:longitude>15.77873000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CAF-17333" kind="city">
+    <ctml:name>Ouanda-Djallé</ctml:name>
+    <ctml:country>CAF</ctml:country>
+    <ctml:admin1>Vakaga</ctml:admin1>
+    <ctml:parentRef>place:admin1:CF-VK</ctml:parentRef>
+    <ctml:wikiDataId>Q2428058</ctml:wikiDataId>
+    <ctml:latitude>9.05877000</ctml:latitude>
+    <ctml:longitude>22.42741000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

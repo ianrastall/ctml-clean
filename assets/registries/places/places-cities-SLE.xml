@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SLE-104606" kind="city">
+    <ctml:name>Barma</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q31911183</ctml:wikiDataId>
+    <ctml:latitude>8.34959000</ctml:latitude>
+    <ctml:longitude>-11.33059000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104609" kind="city">
+    <ctml:name>Blama</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q31916963</ctml:wikiDataId>
+    <ctml:latitude>7.87481000</ctml:latitude>
+    <ctml:longitude>-11.34548000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104612" kind="city">
+    <ctml:name>Boajibu</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q4931229</ctml:wikiDataId>
+    <ctml:latitude>8.18763000</ctml:latitude>
+    <ctml:longitude>-11.34026000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104617" kind="city">
+    <ctml:name>Buedu</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q34783819</ctml:wikiDataId>
+    <ctml:latitude>8.27960000</ctml:latitude>
+    <ctml:longitude>-10.37135000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104620" kind="city">
+    <ctml:name>Bunumbu</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q34784512</ctml:wikiDataId>
+    <ctml:latitude>8.17421000</ctml:latitude>
+    <ctml:longitude>-10.86432000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104621" kind="city">
+    <ctml:name>Daru</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q34784512</ctml:wikiDataId>
+    <ctml:latitude>7.98976000</ctml:latitude>
+    <ctml:longitude>-10.84223000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104627" kind="city">
+    <ctml:name>Giehun</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q3012892</ctml:wikiDataId>
+    <ctml:latitude>7.88405000</ctml:latitude>
+    <ctml:longitude>-11.04908000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104628" kind="city">
+    <ctml:name>Gorahun</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q3012892</ctml:wikiDataId>
+    <ctml:latitude>7.46439000</ctml:latitude>
+    <ctml:longitude>-11.23952000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104629" kind="city">
+    <ctml:name>Hangha</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q3012892</ctml:wikiDataId>
+    <ctml:latitude>7.93974000</ctml:latitude>
+    <ctml:longitude>-11.14132000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104631" kind="city">
+    <ctml:name>Jojoima</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q3012892</ctml:wikiDataId>
+    <ctml:latitude>7.87815000</ctml:latitude>
+    <ctml:longitude>-10.78976000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104633" kind="city">
+    <ctml:name>Kailahun</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1721432</ctml:wikiDataId>
+    <ctml:latitude>8.27890000</ctml:latitude>
+    <ctml:longitude>-10.57300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104634" kind="city">
+    <ctml:name>Kailahun District</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1721443</ctml:wikiDataId>
+    <ctml:latitude>8.10768000</ctml:latitude>
+    <ctml:longitude>-10.75146000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104638" kind="city">
+    <ctml:name>Kayima</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1722889</ctml:wikiDataId>
+    <ctml:latitude>8.88790000</ctml:latitude>
+    <ctml:longitude>-11.15932000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104640" kind="city">
+    <ctml:name>Kenema District</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1738741</ctml:wikiDataId>
+    <ctml:latitude>7.95171000</ctml:latitude>
+    <ctml:longitude>-11.19004000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104642" kind="city">
+    <ctml:name>Koidu</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1002580</ctml:wikiDataId>
+    <ctml:latitude>8.64387000</ctml:latitude>
+    <ctml:longitude>-10.97140000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104645" kind="city">
+    <ctml:name>Kono</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1781849</ctml:wikiDataId>
+    <ctml:latitude>8.70687000</ctml:latitude>
+    <ctml:longitude>-10.93368000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104647" kind="city">
+    <ctml:name>Koyima</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1781849</ctml:wikiDataId>
+    <ctml:latitude>8.70552000</ctml:latitude>
+    <ctml:longitude>-11.02241000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104658" kind="city">
+    <ctml:name>Manowa</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q42678</ctml:wikiDataId>
+    <ctml:latitude>8.17392000</ctml:latitude>
+    <ctml:longitude>-10.74834000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104662" kind="city">
+    <ctml:name>Mobai</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q42678</ctml:wikiDataId>
+    <ctml:latitude>7.99343000</ctml:latitude>
+    <ctml:longitude>-10.75355000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104664" kind="city">
+    <ctml:name>Motema</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q42678</ctml:wikiDataId>
+    <ctml:latitude>8.61427000</ctml:latitude>
+    <ctml:longitude>-11.01252000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104668" kind="city">
+    <ctml:name>Panguma</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q4843232</ctml:wikiDataId>
+    <ctml:latitude>8.18507000</ctml:latitude>
+    <ctml:longitude>-11.13290000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104669" kind="city">
+    <ctml:name>Pendembu</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q2913209</ctml:wikiDataId>
+    <ctml:latitude>8.09807000</ctml:latitude>
+    <ctml:longitude>-10.69429000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104677" kind="city">
+    <ctml:name>Segbwema</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q2946720</ctml:wikiDataId>
+    <ctml:latitude>7.99471000</ctml:latitude>
+    <ctml:longitude>-10.95020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104680" kind="city">
+    <ctml:name>Simbakoro</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q2946720</ctml:wikiDataId>
+    <ctml:latitude>8.61243000</ctml:latitude>
+    <ctml:longitude>-11.00755000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104682" kind="city">
+    <ctml:name>Tefeya</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q49368461</ctml:wikiDataId>
+    <ctml:latitude>8.70395000</ctml:latitude>
+    <ctml:longitude>-11.21260000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104684" kind="city">
+    <ctml:name>Tombodu</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q7818691</ctml:wikiDataId>
+    <ctml:latitude>8.13526000</ctml:latitude>
+    <ctml:longitude>-10.61960000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104685" kind="city">
+    <ctml:name>Tombu</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q7818691</ctml:wikiDataId>
+    <ctml:latitude>8.53991000</ctml:latitude>
+    <ctml:longitude>-10.73132000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104689" kind="city">
+    <ctml:name>Wima</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q623241</ctml:wikiDataId>
+    <ctml:latitude>8.30052000</ctml:latitude>
+    <ctml:longitude>-11.20455000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104690" kind="city">
+    <ctml:name>Yengema</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1000327</ctml:wikiDataId>
+    <ctml:latitude>8.71441000</ctml:latitude>
+    <ctml:longitude>-11.17057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104635" kind="city">
+    <ctml:name>Kamakwie</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>North Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q6355344</ctml:wikiDataId>
+    <ctml:latitude>9.49689000</ctml:latitude>
+    <ctml:longitude>-12.24061000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104636" kind="city">
+    <ctml:name>Kambia</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>North Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q1722889</ctml:wikiDataId>
+    <ctml:latitude>9.12504000</ctml:latitude>
+    <ctml:longitude>-12.91816000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104651" kind="city">
+    <ctml:name>Lunsar</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>North Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q995392</ctml:wikiDataId>
+    <ctml:latitude>8.68439000</ctml:latitude>
+    <ctml:longitude>-12.53499000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104670" kind="city">
+    <ctml:name>Pepel</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>North Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q3466506</ctml:wikiDataId>
+    <ctml:latitude>8.58611000</ctml:latitude>
+    <ctml:longitude>-13.05444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104674" kind="city">
+    <ctml:name>Rokupr</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>North Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q927464</ctml:wikiDataId>
+    <ctml:latitude>8.67121000</ctml:latitude>
+    <ctml:longitude>-12.38497000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104603" kind="city">
+    <ctml:name>Alikalia</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q4726610</ctml:wikiDataId>
+    <ctml:latitude>9.15356000</ctml:latitude>
+    <ctml:longitude>-11.38712000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104607" kind="city">
+    <ctml:name>Bindi</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q31916070</ctml:wikiDataId>
+    <ctml:latitude>9.91376000</ctml:latitude>
+    <ctml:longitude>-11.44669000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104608" kind="city">
+    <ctml:name>Binkolo</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q9298703</ctml:wikiDataId>
+    <ctml:latitude>8.95225000</ctml:latitude>
+    <ctml:longitude>-11.98029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104613" kind="city">
+    <ctml:name>Bombali</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q891767</ctml:wikiDataId>
+    <ctml:latitude>9.28444000</ctml:latitude>
+    <ctml:longitude>-12.16449000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104618" kind="city">
+    <ctml:name>Bumbuna</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q4817928</ctml:wikiDataId>
+    <ctml:latitude>9.04466000</ctml:latitude>
+    <ctml:longitude>-11.74576000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104625" kind="city">
+    <ctml:name>Gberia Fotombu</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q3012892</ctml:wikiDataId>
+    <ctml:latitude>9.87852000</ctml:latitude>
+    <ctml:longitude>-11.16548000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104632" kind="city">
+    <ctml:name>Kabala</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q930789</ctml:wikiDataId>
+    <ctml:latitude>9.58893000</ctml:latitude>
+    <ctml:longitude>-11.55256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104637" kind="city">
+    <ctml:name>Kassiri</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1722889</ctml:wikiDataId>
+    <ctml:latitude>8.93814000</ctml:latitude>
+    <ctml:longitude>-13.11541000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104643" kind="city">
+    <ctml:name>Koinadugu</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1778860</ctml:wikiDataId>
+    <ctml:latitude>9.50991000</ctml:latitude>
+    <ctml:longitude>-11.34601000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104644" kind="city">
+    <ctml:name>Konakridee</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1778860</ctml:wikiDataId>
+    <ctml:latitude>8.69778000</ctml:latitude>
+    <ctml:longitude>-13.23917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104648" kind="city">
+    <ctml:name>Kukuna</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1781849</ctml:wikiDataId>
+    <ctml:latitude>9.39841000</ctml:latitude>
+    <ctml:longitude>-12.66476000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104650" kind="city">
+    <ctml:name>Loma</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1781849</ctml:wikiDataId>
+    <ctml:latitude>9.75931000</ctml:latitude>
+    <ctml:longitude>-12.03383000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104652" kind="city">
+    <ctml:name>Magburaka</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1883766</ctml:wikiDataId>
+    <ctml:latitude>8.72306000</ctml:latitude>
+    <ctml:longitude>-11.94880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104653" kind="city">
+    <ctml:name>Makali</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1883766</ctml:wikiDataId>
+    <ctml:latitude>8.62964000</ctml:latitude>
+    <ctml:longitude>-11.66168000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104655" kind="city">
+    <ctml:name>Mambolo</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q42678</ctml:wikiDataId>
+    <ctml:latitude>8.91860000</ctml:latitude>
+    <ctml:longitude>-13.03674000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104657" kind="city">
+    <ctml:name>Mange</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q42678</ctml:wikiDataId>
+    <ctml:latitude>8.92262000</ctml:latitude>
+    <ctml:longitude>-12.85688000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104659" kind="city">
+    <ctml:name>Masaka</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q42678</ctml:wikiDataId>
+    <ctml:latitude>8.66492000</ctml:latitude>
+    <ctml:longitude>-11.80260000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104660" kind="city">
+    <ctml:name>Masingbi</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q42678</ctml:wikiDataId>
+    <ctml:latitude>8.78197000</ctml:latitude>
+    <ctml:longitude>-11.95171000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104661" kind="city">
+    <ctml:name>Masoyila</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q42678</ctml:wikiDataId>
+    <ctml:latitude>8.61119000</ctml:latitude>
+    <ctml:longitude>-13.19101000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104676" kind="city">
+    <ctml:name>Sawkta</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q7370541</ctml:wikiDataId>
+    <ctml:latitude>8.63230000</ctml:latitude>
+    <ctml:longitude>-13.20250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104678" kind="city">
+    <ctml:name>Seidu</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q2946720</ctml:wikiDataId>
+    <ctml:latitude>9.01801000</ctml:latitude>
+    <ctml:longitude>-10.59496000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104683" kind="city">
+    <ctml:name>Tintafor</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q49368461</ctml:wikiDataId>
+    <ctml:latitude>8.62667000</ctml:latitude>
+    <ctml:longitude>-13.21500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104687" kind="city">
+    <ctml:name>Tonkolili</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1852020</ctml:wikiDataId>
+    <ctml:latitude>8.61885000</ctml:latitude>
+    <ctml:longitude>-11.84173000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104691" kind="city">
+    <ctml:name>Yonibana</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-N</ctml:parentRef>
+    <ctml:wikiDataId>Q289747</ctml:wikiDataId>
+    <ctml:latitude>8.44347000</ctml:latitude>
+    <ctml:longitude>-12.23929000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104604" kind="city">
+    <ctml:name>Baiima</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q31898780</ctml:wikiDataId>
+    <ctml:latitude>8.10826000</ctml:latitude>
+    <ctml:longitude>-11.84772000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104605" kind="city">
+    <ctml:name>Baoma</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q4857461</ctml:wikiDataId>
+    <ctml:latitude>7.99344000</ctml:latitude>
+    <ctml:longitude>-11.71468000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104611" kind="city">
+    <ctml:name>Bo District</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q887317</ctml:wikiDataId>
+    <ctml:latitude>7.98877000</ctml:latitude>
+    <ctml:longitude>-11.67340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104614" kind="city">
+    <ctml:name>Bomi</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q31924184</ctml:wikiDataId>
+    <ctml:latitude>7.24611000</ctml:latitude>
+    <ctml:longitude>-11.52583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104615" kind="city">
+    <ctml:name>Bonthe</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q892886</ctml:wikiDataId>
+    <ctml:latitude>7.52639000</ctml:latitude>
+    <ctml:longitude>-12.50500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104616" kind="city">
+    <ctml:name>Bonthe District</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q892889</ctml:wikiDataId>
+    <ctml:latitude>7.51622000</ctml:latitude>
+    <ctml:longitude>-12.33591000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104619" kind="city">
+    <ctml:name>Bumpe</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q2946676</ctml:wikiDataId>
+    <ctml:latitude>7.89209000</ctml:latitude>
+    <ctml:longitude>-11.90541000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104622" kind="city">
+    <ctml:name>Foindu</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q34784512</ctml:wikiDataId>
+    <ctml:latitude>7.40906000</ctml:latitude>
+    <ctml:longitude>-11.54328000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104624" kind="city">
+    <ctml:name>Gandorhun</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q3012892</ctml:wikiDataId>
+    <ctml:latitude>7.55502000</ctml:latitude>
+    <ctml:longitude>-11.69260000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104626" kind="city">
+    <ctml:name>Gbewebu</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q3012892</ctml:wikiDataId>
+    <ctml:latitude>7.55091000</ctml:latitude>
+    <ctml:longitude>-11.60750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104646" kind="city">
+    <ctml:name>Koribundu</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1781849</ctml:wikiDataId>
+    <ctml:latitude>7.70952000</ctml:latitude>
+    <ctml:longitude>-11.69354000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104649" kind="city">
+    <ctml:name>Largo</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1781849</ctml:wikiDataId>
+    <ctml:latitude>8.27903000</ctml:latitude>
+    <ctml:longitude>-12.15780000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104656" kind="city">
+    <ctml:name>Mamboma</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q42678</ctml:wikiDataId>
+    <ctml:latitude>8.08742000</ctml:latitude>
+    <ctml:longitude>-11.68841000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104663" kind="city">
+    <ctml:name>Mogbwemo</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q42678</ctml:wikiDataId>
+    <ctml:latitude>7.76237000</ctml:latitude>
+    <ctml:longitude>-12.30864000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104665" kind="city">
+    <ctml:name>Moyamba</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q913292</ctml:wikiDataId>
+    <ctml:latitude>8.15898000</ctml:latitude>
+    <ctml:longitude>-12.43168000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104666" kind="city">
+    <ctml:name>Moyamba District</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q597538</ctml:wikiDataId>
+    <ctml:latitude>8.06290000</ctml:latitude>
+    <ctml:longitude>-12.44401000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104667" kind="city">
+    <ctml:name>Palima</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q4843232</ctml:wikiDataId>
+    <ctml:latitude>8.11996000</ctml:latitude>
+    <ctml:longitude>-11.50702000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104671" kind="city">
+    <ctml:name>Potoru</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q3466506</ctml:wikiDataId>
+    <ctml:latitude>7.50596000</ctml:latitude>
+    <ctml:longitude>-11.47897000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104672" kind="city">
+    <ctml:name>Pujehun</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q623298</ctml:wikiDataId>
+    <ctml:latitude>7.35806000</ctml:latitude>
+    <ctml:longitude>-11.72083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104673" kind="city">
+    <ctml:name>Pujehun District</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q927464</ctml:wikiDataId>
+    <ctml:latitude>7.31855000</ctml:latitude>
+    <ctml:longitude>-11.57920000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104675" kind="city">
+    <ctml:name>Rotifunk</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q7370541</ctml:wikiDataId>
+    <ctml:latitude>8.22591000</ctml:latitude>
+    <ctml:longitude>-12.67760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104679" kind="city">
+    <ctml:name>Serabu</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q2946720</ctml:wikiDataId>
+    <ctml:latitude>7.79311000</ctml:latitude>
+    <ctml:longitude>-12.05294000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104681" kind="city">
+    <ctml:name>Sumbuya</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q49368461</ctml:wikiDataId>
+    <ctml:latitude>7.64789000</ctml:latitude>
+    <ctml:longitude>-11.96060000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104686" kind="city">
+    <ctml:name>Tongole</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q7818691</ctml:wikiDataId>
+    <ctml:latitude>7.45092000</ctml:latitude>
+    <ctml:longitude>-11.90071000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104692" kind="city">
+    <ctml:name>Zimmi</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-S</ctml:parentRef>
+    <ctml:wikiDataId>Q289747</ctml:wikiDataId>
+    <ctml:latitude>7.31356000</ctml:latitude>
+    <ctml:longitude>-11.30818000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104623" kind="city">
+    <ctml:name>Freetown</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-W</ctml:parentRef>
+    <ctml:wikiDataId>Q3780</ctml:wikiDataId>
+    <ctml:latitude>8.48714000</ctml:latitude>
+    <ctml:longitude>-13.23560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104630" kind="city">
+    <ctml:name>Hastings</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-W</ctml:parentRef>
+    <ctml:wikiDataId>Q3012892</ctml:wikiDataId>
+    <ctml:latitude>8.37994000</ctml:latitude>
+    <ctml:longitude>-13.13693000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104641" kind="city">
+    <ctml:name>Kent</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1738741</ctml:wikiDataId>
+    <ctml:latitude>8.33333000</ctml:latitude>
+    <ctml:longitude>-13.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLE-104688" kind="city">
+    <ctml:name>Waterloo</ctml:name>
+    <ctml:country>SLE</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:SL-W</ctml:parentRef>
+    <ctml:wikiDataId>Q623241</ctml:wikiDataId>
+    <ctml:latitude>8.33890000</ctml:latitude>
+    <ctml:longitude>-13.07091000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

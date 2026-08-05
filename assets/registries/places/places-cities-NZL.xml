@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:NZL-79823" kind="city">
+    <ctml:name>Mangere</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q742714</ctml:wikiDataId>
+    <ctml:latitude>-36.96807000</ctml:latitude>
+    <ctml:longitude>174.79875000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79824" kind="city">
+    <ctml:name>Manukau City</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q986198</ctml:wikiDataId>
+    <ctml:latitude>-36.99282000</ctml:latitude>
+    <ctml:longitude>174.87986000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79833" kind="city">
+    <ctml:name>Muriwai Beach</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q495500</ctml:wikiDataId>
+    <ctml:latitude>-36.81667000</ctml:latitude>
+    <ctml:longitude>174.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79834" kind="city">
+    <ctml:name>Murrays Bay</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q495500</ctml:wikiDataId>
+    <ctml:latitude>-36.72819000</ctml:latitude>
+    <ctml:longitude>174.75019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79843" kind="city">
+    <ctml:name>North Shore</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q868671</ctml:wikiDataId>
+    <ctml:latitude>-36.80000000</ctml:latitude>
+    <ctml:longitude>174.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79852" kind="city">
+    <ctml:name>Pakuranga</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q7126082</ctml:wikiDataId>
+    <ctml:latitude>-36.88333000</ctml:latitude>
+    <ctml:longitude>174.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79854" kind="city">
+    <ctml:name>Papakura</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q1014616</ctml:wikiDataId>
+    <ctml:latitude>-37.06573000</ctml:latitude>
+    <ctml:longitude>174.94393000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79856" kind="city">
+    <ctml:name>Parakai</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q7615649</ctml:wikiDataId>
+    <ctml:latitude>-36.65000000</ctml:latitude>
+    <ctml:longitude>174.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79865" kind="city">
+    <ctml:name>Pukekohe East</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q176330</ctml:wikiDataId>
+    <ctml:latitude>-37.20000000</ctml:latitude>
+    <ctml:longitude>174.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79869" kind="city">
+    <ctml:name>Red Hill</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q1015735</ctml:wikiDataId>
+    <ctml:latitude>-37.05820000</ctml:latitude>
+    <ctml:longitude>174.97019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79873" kind="city">
+    <ctml:name>Rosebank</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q1099966</ctml:wikiDataId>
+    <ctml:latitude>-36.87495000</ctml:latitude>
+    <ctml:longitude>174.66991000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79874" kind="city">
+    <ctml:name>Rothesay Bay</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q3941757</ctml:wikiDataId>
+    <ctml:latitude>-36.72602000</ctml:latitude>
+    <ctml:longitude>174.74064000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79885" kind="city">
+    <ctml:name>Takanini</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q151841</ctml:wikiDataId>
+    <ctml:latitude>-37.04820000</ctml:latitude>
+    <ctml:longitude>174.90019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79886" kind="city">
+    <ctml:name>Tamaki</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q151841</ctml:wikiDataId>
+    <ctml:latitude>-36.88820000</ctml:latitude>
+    <ctml:longitude>174.86019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79896" kind="city">
+    <ctml:name>Titirangi</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q6517338</ctml:wikiDataId>
+    <ctml:latitude>-36.93754000</ctml:latitude>
+    <ctml:longitude>174.65584000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79907" kind="city">
+    <ctml:name>Waitakere</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q782760</ctml:wikiDataId>
+    <ctml:latitude>-36.91754000</ctml:latitude>
+    <ctml:longitude>174.65773000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79910" kind="city">
+    <ctml:name>Waiuku</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q584671</ctml:wikiDataId>
+    <ctml:latitude>-37.24806000</ctml:latitude>
+    <ctml:longitude>174.73489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79914" kind="city">
+    <ctml:name>Warkworth</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q590475</ctml:wikiDataId>
+    <ctml:latitude>-36.40000000</ctml:latitude>
+    <ctml:longitude>174.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79917" kind="city">
+    <ctml:name>Wellsford</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q618344</ctml:wikiDataId>
+    <ctml:latitude>-36.28333000</ctml:latitude>
+    <ctml:longitude>174.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79924" kind="city">
+    <ctml:name>Wiri</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Auckland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-AUK</ctml:parentRef>
+    <ctml:wikiDataId>Q1721802</ctml:wikiDataId>
+    <ctml:latitude>-36.99820000</ctml:latitude>
+    <ctml:longitude>174.86019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79791" kind="city">
+    <ctml:name>Edgecumbe</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Bay of Plenty</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-BOP</ctml:parentRef>
+    <ctml:wikiDataId>Q151981</ctml:wikiDataId>
+    <ctml:latitude>-37.98333000</ctml:latitude>
+    <ctml:longitude>176.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79809" kind="city">
+    <ctml:name>Katikati</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Bay of Plenty</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-BOP</ctml:parentRef>
+    <ctml:wikiDataId>Q911377</ctml:wikiDataId>
+    <ctml:latitude>-37.55000000</ctml:latitude>
+    <ctml:longitude>175.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79811" kind="city">
+    <ctml:name>Kawerau</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Bay of Plenty</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-BOP</ctml:parentRef>
+    <ctml:wikiDataId>Q1674085</ctml:wikiDataId>
+    <ctml:latitude>-38.10000000</ctml:latitude>
+    <ctml:longitude>176.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79821" kind="city">
+    <ctml:name>Maketu</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Bay of Plenty</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-BOP</ctml:parentRef>
+    <ctml:wikiDataId>Q1886343</ctml:wikiDataId>
+    <ctml:latitude>-37.76667000</ctml:latitude>
+    <ctml:longitude>176.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79835" kind="city">
+    <ctml:name>Murupara</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Bay of Plenty</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-BOP</ctml:parentRef>
+    <ctml:wikiDataId>Q999066</ctml:wikiDataId>
+    <ctml:latitude>-38.46667000</ctml:latitude>
+    <ctml:longitude>176.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NZL-79845" kind="admin2">
+    <ctml:name>Opotiki</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Bay of Plenty</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-BOP</ctml:parentRef>
+    <ctml:wikiDataId>Q953871</ctml:wikiDataId>
+    <ctml:latitude>-38.00915000</ctml:latitude>
+    <ctml:longitude>177.28706000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NZL-79875" kind="admin2">
+    <ctml:name>Rotorua</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Bay of Plenty</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-BOP</ctml:parentRef>
+    <ctml:wikiDataId>Q208948</ctml:wikiDataId>
+    <ctml:latitude>-38.13874000</ctml:latitude>
+    <ctml:longitude>176.24516000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NZL-79889" kind="admin2">
+    <ctml:name>Tauranga</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Bay of Plenty</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-BOP</ctml:parentRef>
+    <ctml:wikiDataId>Q207756</ctml:wikiDataId>
+    <ctml:latitude>-37.68611000</ctml:latitude>
+    <ctml:longitude>176.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79901" kind="city">
+    <ctml:name>Waihi Beach</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Bay of Plenty</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-BOP</ctml:parentRef>
+    <ctml:wikiDataId>Q1520662</ctml:wikiDataId>
+    <ctml:latitude>-37.40000000</ctml:latitude>
+    <ctml:longitude>175.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79769" kind="city">
+    <ctml:name>Amberley</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q457210</ctml:wikiDataId>
+    <ctml:latitude>-43.15589000</ctml:latitude>
+    <ctml:longitude>172.72975000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79771" kind="city">
+    <ctml:name>Ashburton</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q724923</ctml:wikiDataId>
+    <ctml:latitude>-43.89834000</ctml:latitude>
+    <ctml:longitude>171.73011000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79772" kind="city">
+    <ctml:name>Ashburton District</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q15784197</ctml:wikiDataId>
+    <ctml:latitude>-43.90000000</ctml:latitude>
+    <ctml:longitude>171.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79780" kind="city">
+    <ctml:name>Burnham</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q137105</ctml:wikiDataId>
+    <ctml:latitude>-43.61667000</ctml:latitude>
+    <ctml:longitude>172.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79788" kind="city">
+    <ctml:name>Darfield</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1165830</ctml:wikiDataId>
+    <ctml:latitude>-43.48333000</ctml:latitude>
+    <ctml:longitude>172.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79795" kind="city">
+    <ctml:name>Geraldine</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1002934</ctml:wikiDataId>
+    <ctml:latitude>-44.09061000</ctml:latitude>
+    <ctml:longitude>171.24458000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79805" kind="city">
+    <ctml:name>Kaiapoi</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1013339</ctml:wikiDataId>
+    <ctml:latitude>-43.37832000</ctml:latitude>
+    <ctml:longitude>172.64013000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79816" kind="city">
+    <ctml:name>Leeston</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q985373</ctml:wikiDataId>
+    <ctml:latitude>-43.76667000</ctml:latitude>
+    <ctml:longitude>172.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79818" kind="city">
+    <ctml:name>Lincoln</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1186226</ctml:wikiDataId>
+    <ctml:latitude>-43.65000000</ctml:latitude>
+    <ctml:longitude>172.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79820" kind="city">
+    <ctml:name>Mackenzie</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1760822</ctml:wikiDataId>
+    <ctml:latitude>-43.93987000</ctml:latitude>
+    <ctml:longitude>170.51913000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79829" kind="city">
+    <ctml:name>Methven</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1925567</ctml:wikiDataId>
+    <ctml:latitude>-43.63333000</ctml:latitude>
+    <ctml:longitude>171.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79849" kind="city">
+    <ctml:name>Oxford</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1936464</ctml:wikiDataId>
+    <ctml:latitude>-43.30000000</ctml:latitude>
+    <ctml:longitude>172.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79861" kind="city">
+    <ctml:name>Pleasant Point</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1474784</ctml:wikiDataId>
+    <ctml:latitude>-44.26667000</ctml:latitude>
+    <ctml:longitude>171.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79864" kind="city">
+    <ctml:name>Prebbleton</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q176330</ctml:wikiDataId>
+    <ctml:latitude>-43.58333000</ctml:latitude>
+    <ctml:longitude>172.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79868" kind="city">
+    <ctml:name>Rakaia</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1015735</ctml:wikiDataId>
+    <ctml:latitude>-43.75000000</ctml:latitude>
+    <ctml:longitude>172.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79872" kind="city">
+    <ctml:name>Rolleston</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1099966</ctml:wikiDataId>
+    <ctml:latitude>-43.58333000</ctml:latitude>
+    <ctml:longitude>172.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79877" kind="city">
+    <ctml:name>Selwyn</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1210763</ctml:wikiDataId>
+    <ctml:latitude>-43.32226000</ctml:latitude>
+    <ctml:longitude>171.87064000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79893" kind="city">
+    <ctml:name>Timaru</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1016574</ctml:wikiDataId>
+    <ctml:latitude>-44.39672000</ctml:latitude>
+    <ctml:longitude>171.25364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79894" kind="city">
+    <ctml:name>Timaru District</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q14395599</ctml:wikiDataId>
+    <ctml:latitude>-44.40000000</ctml:latitude>
+    <ctml:longitude>171.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79895" kind="city">
+    <ctml:name>Tinwald</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q14395599</ctml:wikiDataId>
+    <ctml:latitude>-43.91667000</ctml:latitude>
+    <ctml:longitude>171.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79902" kind="city">
+    <ctml:name>Waimakariri</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1542322</ctml:wikiDataId>
+    <ctml:latitude>-43.20750000</ctml:latitude>
+    <ctml:longitude>172.33286000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79925" kind="city">
+    <ctml:name>Woodend</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Canterbury</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-CAN</ctml:parentRef>
+    <ctml:wikiDataId>Q8032610</ctml:wikiDataId>
+    <ctml:latitude>-43.31667000</ctml:latitude>
+    <ctml:longitude>172.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79800" kind="city">
+    <ctml:name>Hastings</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Hawke's Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-HKB</ctml:parentRef>
+    <ctml:wikiDataId>Q1015690</ctml:wikiDataId>
+    <ctml:latitude>-39.63810000</ctml:latitude>
+    <ctml:longitude>176.84918000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79887" kind="city">
+    <ctml:name>Taradale</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Hawke's Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-HKB</ctml:parentRef>
+    <ctml:wikiDataId>Q151841</ctml:wikiDataId>
+    <ctml:latitude>-39.53333000</ctml:latitude>
+    <ctml:longitude>176.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79906" kind="city">
+    <ctml:name>Wairoa</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Hawke's Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-HKB</ctml:parentRef>
+    <ctml:wikiDataId>Q599594</ctml:wikiDataId>
+    <ctml:latitude>-39.03333000</ctml:latitude>
+    <ctml:longitude>177.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79779" kind="city">
+    <ctml:name>Bulls</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Manawatu-Whanganui</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-MWT</ctml:parentRef>
+    <ctml:wikiDataId>Q834869</ctml:wikiDataId>
+    <ctml:latitude>-40.17487000</ctml:latitude>
+    <ctml:longitude>175.38463000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79794" kind="city">
+    <ctml:name>Foxton</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Manawatu-Whanganui</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-MWT</ctml:parentRef>
+    <ctml:wikiDataId>Q985095</ctml:wikiDataId>
+    <ctml:latitude>-40.46667000</ctml:latitude>
+    <ctml:longitude>175.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79803" kind="city">
+    <ctml:name>Horowhenua</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Manawatu-Whanganui</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-MWT</ctml:parentRef>
+    <ctml:wikiDataId>Q1232367</ctml:wikiDataId>
+    <ctml:latitude>-40.57733000</ctml:latitude>
+    <ctml:longitude>175.38071000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79817" kind="city">
+    <ctml:name>Levin</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Manawatu-Whanganui</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-MWT</ctml:parentRef>
+    <ctml:wikiDataId>Q985373</ctml:wikiDataId>
+    <ctml:latitude>-40.63333000</ctml:latitude>
+    <ctml:longitude>175.27500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79822" kind="city">
+    <ctml:name>Manawatu</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Manawatu-Whanganui</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-MWT</ctml:parentRef>
+    <ctml:wikiDataId>Q613305</ctml:wikiDataId>
+    <ctml:latitude>-40.11979000</ctml:latitude>
+    <ctml:longitude>175.67426000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79904" kind="city">
+    <ctml:name>Waiouru</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Manawatu-Whanganui</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-MWT</ctml:parentRef>
+    <ctml:wikiDataId>Q912379</ctml:wikiDataId>
+    <ctml:latitude>-39.47753000</ctml:latitude>
+    <ctml:longitude>175.66834000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79913" kind="city">
+    <ctml:name>Wanganui</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Manawatu-Whanganui</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-MWT</ctml:parentRef>
+    <ctml:wikiDataId>Q1015672</ctml:wikiDataId>
+    <ctml:latitude>-39.93333000</ctml:latitude>
+    <ctml:longitude>175.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79860" kind="city">
+    <ctml:name>Picton</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Marlborough</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-MBH</ctml:parentRef>
+    <ctml:wikiDataId>Q1362879</ctml:wikiDataId>
+    <ctml:latitude>-41.29067000</ctml:latitude>
+    <ctml:longitude>174.00801000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79768" kind="city">
+    <ctml:name>Ahipara</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q400269</ctml:wikiDataId>
+    <ctml:latitude>-35.16667000</ctml:latitude>
+    <ctml:longitude>173.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79789" kind="city">
+    <ctml:name>Dargaville</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q1165830</ctml:wikiDataId>
+    <ctml:latitude>-35.93333000</ctml:latitude>
+    <ctml:longitude>173.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79793" kind="city">
+    <ctml:name>Far North</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q1365839</ctml:wikiDataId>
+    <ctml:latitude>-35.03359000</ctml:latitude>
+    <ctml:longitude>173.48841000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79806" kind="city">
+    <ctml:name>Kaipara</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q163982</ctml:wikiDataId>
+    <ctml:latitude>-35.99546000</ctml:latitude>
+    <ctml:longitude>174.04688000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79807" kind="city">
+    <ctml:name>Kaitaia</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q257417</ctml:wikiDataId>
+    <ctml:latitude>-35.11485000</ctml:latitude>
+    <ctml:longitude>173.26366000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79810" kind="city">
+    <ctml:name>Kawakawa</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q1013579</ctml:wikiDataId>
+    <ctml:latitude>-35.38333000</ctml:latitude>
+    <ctml:longitude>174.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79813" kind="city">
+    <ctml:name>Kerikeri</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q1185949</ctml:wikiDataId>
+    <ctml:latitude>-35.22676000</ctml:latitude>
+    <ctml:longitude>173.94739000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79828" kind="city">
+    <ctml:name>Maungatapere</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q691739</ctml:wikiDataId>
+    <ctml:latitude>-35.75000000</ctml:latitude>
+    <ctml:longitude>174.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-163962" kind="city">
+    <ctml:name>Maungaturoto</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q3300200</ctml:wikiDataId>
+    <ctml:latitude>-36.12955650</ctml:latitude>
+    <ctml:longitude>174.34624500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79831" kind="city">
+    <ctml:name>Moerewa</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q952307</ctml:wikiDataId>
+    <ctml:latitude>-35.38333000</ctml:latitude>
+    <ctml:longitude>174.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79842" kind="city">
+    <ctml:name>Ngunguru</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q513626</ctml:wikiDataId>
+    <ctml:latitude>-35.61667000</ctml:latitude>
+    <ctml:longitude>174.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79851" kind="city">
+    <ctml:name>Paihia</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q152017</ctml:wikiDataId>
+    <ctml:latitude>-35.28067000</ctml:latitude>
+    <ctml:longitude>174.09103000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79876" kind="city">
+    <ctml:name>Ruakaka</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q208948</ctml:wikiDataId>
+    <ctml:latitude>-35.90818000</ctml:latitude>
+    <ctml:longitude>174.45019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79882" kind="city">
+    <ctml:name>Taipa</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q1972706</ctml:wikiDataId>
+    <ctml:latitude>-34.99604000</ctml:latitude>
+    <ctml:longitude>173.46665000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79903" kind="city">
+    <ctml:name>Waimate North</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Northland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-NTL</ctml:parentRef>
+    <ctml:wikiDataId>Q1542322</ctml:wikiDataId>
+    <ctml:latitude>-35.31667000</ctml:latitude>
+    <ctml:longitude>173.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79770" kind="city">
+    <ctml:name>Arrowtown</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Otago</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-OTA</ctml:parentRef>
+    <ctml:wikiDataId>Q703016</ctml:wikiDataId>
+    <ctml:latitude>-44.93837000</ctml:latitude>
+    <ctml:longitude>168.81007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79774" kind="city">
+    <ctml:name>Balclutha</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Otago</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-OTA</ctml:parentRef>
+    <ctml:wikiDataId>Q804717</ctml:wikiDataId>
+    <ctml:latitude>-46.23389000</ctml:latitude>
+    <ctml:longitude>169.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79785" kind="city">
+    <ctml:name>Clutha</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Otago</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-OTA</ctml:parentRef>
+    <ctml:wikiDataId>Q1103566</ctml:wikiDataId>
+    <ctml:latitude>-46.03883000</ctml:latitude>
+    <ctml:longitude>169.60617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79787" kind="city">
+    <ctml:name>Cromwell</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Otago</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-OTA</ctml:parentRef>
+    <ctml:wikiDataId>Q973355</ctml:wikiDataId>
+    <ctml:latitude>-45.03837000</ctml:latitude>
+    <ctml:longitude>169.20008000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79815" kind="city">
+    <ctml:name>Kingston</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Otago</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-OTA</ctml:parentRef>
+    <ctml:wikiDataId>Q128090</ctml:wikiDataId>
+    <ctml:latitude>-45.33288000</ctml:latitude>
+    <ctml:longitude>168.71476000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79830" kind="city">
+    <ctml:name>Milton</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Otago</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-OTA</ctml:parentRef>
+    <ctml:wikiDataId>Q203424</ctml:wikiDataId>
+    <ctml:latitude>-46.12083000</ctml:latitude>
+    <ctml:longitude>169.96944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79844" kind="city">
+    <ctml:name>Oamaru</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Otago</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-OTA</ctml:parentRef>
+    <ctml:wikiDataId>Q4782</ctml:wikiDataId>
+    <ctml:latitude>-45.09758000</ctml:latitude>
+    <ctml:longitude>170.97087000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79855" kind="city">
+    <ctml:name>Papatowai</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Otago</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-OTA</ctml:parentRef>
+    <ctml:wikiDataId>Q7615649</ctml:wikiDataId>
+    <ctml:latitude>-46.56069000</ctml:latitude>
+    <ctml:longitude>169.47068000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79863" kind="city">
+    <ctml:name>Portobello</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Otago</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-OTA</ctml:parentRef>
+    <ctml:wikiDataId>Q1322072</ctml:wikiDataId>
+    <ctml:latitude>-45.85000000</ctml:latitude>
+    <ctml:longitude>170.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79866" kind="city">
+    <ctml:name>Queenstown</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Otago</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-OTA</ctml:parentRef>
+    <ctml:wikiDataId>Q613602</ctml:wikiDataId>
+    <ctml:latitude>-45.03023000</ctml:latitude>
+    <ctml:longitude>168.66271000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79912" kind="city">
+    <ctml:name>Wanaka</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Otago</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-OTA</ctml:parentRef>
+    <ctml:wikiDataId>Q930344</ctml:wikiDataId>
+    <ctml:latitude>-44.70000000</ctml:latitude>
+    <ctml:longitude>169.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79776" kind="city">
+    <ctml:name>Bluff</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Southland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-STL</ctml:parentRef>
+    <ctml:wikiDataId>Q152028</ctml:wikiDataId>
+    <ctml:latitude>-46.60000000</ctml:latitude>
+    <ctml:longitude>168.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79797" kind="city">
+    <ctml:name>Gore</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Southland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-STL</ctml:parentRef>
+    <ctml:wikiDataId>Q597409</ctml:wikiDataId>
+    <ctml:latitude>-46.10282000</ctml:latitude>
+    <ctml:longitude>168.94357000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79871" kind="city">
+    <ctml:name>Riverton</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Southland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-STL</ctml:parentRef>
+    <ctml:wikiDataId>Q152152</ctml:wikiDataId>
+    <ctml:latitude>-46.35000000</ctml:latitude>
+    <ctml:longitude>168.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79881" kind="city">
+    <ctml:name>Southland</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Southland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-STL</ctml:parentRef>
+    <ctml:wikiDataId>Q1972706</ctml:wikiDataId>
+    <ctml:latitude>-45.77256000</ctml:latitude>
+    <ctml:longitude>167.85266000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79890" kind="city">
+    <ctml:name>Te Anau</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Southland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-STL</ctml:parentRef>
+    <ctml:wikiDataId>Q1154973</ctml:wikiDataId>
+    <ctml:latitude>-45.41667000</ctml:latitude>
+    <ctml:longitude>167.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79923" kind="city">
+    <ctml:name>Winton</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Southland</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-STL</ctml:parentRef>
+    <ctml:wikiDataId>Q1721802</ctml:wikiDataId>
+    <ctml:latitude>-46.15000000</ctml:latitude>
+    <ctml:longitude>168.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79792" kind="city">
+    <ctml:name>Eltham</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Taranaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-TKI</ctml:parentRef>
+    <ctml:wikiDataId>Q378717</ctml:wikiDataId>
+    <ctml:latitude>-39.42917000</ctml:latitude>
+    <ctml:longitude>174.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79801" kind="city">
+    <ctml:name>Hawera</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Taranaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-TKI</ctml:parentRef>
+    <ctml:wikiDataId>Q998452</ctml:wikiDataId>
+    <ctml:latitude>-39.59167000</ctml:latitude>
+    <ctml:longitude>174.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79839" kind="city">
+    <ctml:name>New Plymouth District</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Taranaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-TKI</ctml:parentRef>
+    <ctml:wikiDataId>Q4846747</ctml:wikiDataId>
+    <ctml:latitude>-39.05865000</ctml:latitude>
+    <ctml:longitude>174.10309000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79846" kind="city">
+    <ctml:name>Opunake</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Taranaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-TKI</ctml:parentRef>
+    <ctml:wikiDataId>Q995218</ctml:wikiDataId>
+    <ctml:latitude>-39.45556000</ctml:latitude>
+    <ctml:longitude>173.85833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79858" kind="city">
+    <ctml:name>Patea</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Taranaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-TKI</ctml:parentRef>
+    <ctml:wikiDataId>Q2056659</ctml:wikiDataId>
+    <ctml:latitude>-39.75833000</ctml:latitude>
+    <ctml:longitude>174.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79878" kind="city">
+    <ctml:name>South Taranaki</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Taranaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-TKI</ctml:parentRef>
+    <ctml:wikiDataId>Q1972712</ctml:wikiDataId>
+    <ctml:latitude>-39.52156000</ctml:latitude>
+    <ctml:longitude>174.37160000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-153921" kind="city">
+    <ctml:name>Stratford</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Taranaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-TKI</ctml:parentRef>
+    <ctml:wikiDataId>Q1972491</ctml:wikiDataId>
+    <ctml:latitude>-39.32215170</ctml:latitude>
+    <ctml:longitude>174.26298160</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79909" kind="city">
+    <ctml:name>Waitara</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Taranaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-TKI</ctml:parentRef>
+    <ctml:wikiDataId>Q727199</ctml:wikiDataId>
+    <ctml:latitude>-39.00158000</ctml:latitude>
+    <ctml:longitude>174.23836000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79777" kind="city">
+    <ctml:name>Brightwater</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Tasman</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-TAS</ctml:parentRef>
+    <ctml:wikiDataId>Q915930</ctml:wikiDataId>
+    <ctml:latitude>-41.38333000</ctml:latitude>
+    <ctml:longitude>173.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79825" kind="city">
+    <ctml:name>Mapua</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Tasman</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-TAS</ctml:parentRef>
+    <ctml:wikiDataId>Q1892126</ctml:wikiDataId>
+    <ctml:latitude>-41.25000000</ctml:latitude>
+    <ctml:longitude>173.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79832" kind="city">
+    <ctml:name>Motueka</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Tasman</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-TAS</ctml:parentRef>
+    <ctml:wikiDataId>Q489458</ctml:wikiDataId>
+    <ctml:latitude>-41.13333000</ctml:latitude>
+    <ctml:longitude>173.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79884" kind="city">
+    <ctml:name>Takaka</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Tasman</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-TAS</ctml:parentRef>
+    <ctml:wikiDataId>Q151841</ctml:wikiDataId>
+    <ctml:latitude>-40.85000000</ctml:latitude>
+    <ctml:longitude>172.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79911" kind="city">
+    <ctml:name>Wakefield</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Tasman</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-TAS</ctml:parentRef>
+    <ctml:wikiDataId>Q683323</ctml:wikiDataId>
+    <ctml:latitude>-41.40000000</ctml:latitude>
+    <ctml:longitude>173.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79781" kind="city">
+    <ctml:name>Cambridge</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q1028261</ctml:wikiDataId>
+    <ctml:latitude>-37.87822000</ctml:latitude>
+    <ctml:longitude>175.44020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79786" kind="city">
+    <ctml:name>Coromandel</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q1134464</ctml:wikiDataId>
+    <ctml:latitude>-36.76110000</ctml:latitude>
+    <ctml:longitude>175.49634000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-163963" kind="city">
+    <ctml:name>Huntly</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q907941</ctml:wikiDataId>
+    <ctml:latitude>-37.57972700</ctml:latitude>
+    <ctml:longitude>175.15530700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79827" kind="city">
+    <ctml:name>Matamata</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q691739</ctml:wikiDataId>
+    <ctml:latitude>-37.81060000</ctml:latitude>
+    <ctml:longitude>175.76237000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79840" kind="city">
+    <ctml:name>Ngaruawahia</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q771298</ctml:wikiDataId>
+    <ctml:latitude>-37.66738000</ctml:latitude>
+    <ctml:longitude>175.15554000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79841" kind="city">
+    <ctml:name>Ngatea</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q513626</ctml:wikiDataId>
+    <ctml:latitude>-37.28333000</ctml:latitude>
+    <ctml:longitude>175.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-163964" kind="city">
+    <ctml:name>Otaua</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:latitude>-37.15085000</ctml:latitude>
+    <ctml:longitude>174.65189930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79848" kind="city">
+    <ctml:name>Otorohanga</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q1936464</ctml:wikiDataId>
+    <ctml:latitude>-38.18333000</ctml:latitude>
+    <ctml:longitude>175.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79850" kind="city">
+    <ctml:name>Paeroa</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q834005</ctml:wikiDataId>
+    <ctml:latitude>-37.36667000</ctml:latitude>
+    <ctml:longitude>175.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79867" kind="city">
+    <ctml:name>Raglan</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q984803</ctml:wikiDataId>
+    <ctml:latitude>-37.80000000</ctml:latitude>
+    <ctml:longitude>174.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79879" kind="city">
+    <ctml:name>South Waikato</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q1760808</ctml:wikiDataId>
+    <ctml:latitude>-38.16797000</ctml:latitude>
+    <ctml:longitude>175.88624000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79883" kind="city">
+    <ctml:name>Tairua</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q2388791</ctml:wikiDataId>
+    <ctml:latitude>-37.01667000</ctml:latitude>
+    <ctml:longitude>175.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79888" kind="city">
+    <ctml:name>Taupo</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q2397257</ctml:wikiDataId>
+    <ctml:latitude>-38.68333000</ctml:latitude>
+    <ctml:longitude>176.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79891" kind="city">
+    <ctml:name>Te Kauwhata</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q1526617</ctml:wikiDataId>
+    <ctml:latitude>-37.40000000</ctml:latitude>
+    <ctml:longitude>175.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79892" kind="city">
+    <ctml:name>Thames</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q1691479</ctml:wikiDataId>
+    <ctml:latitude>-37.13832000</ctml:latitude>
+    <ctml:longitude>175.54011000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79897" kind="city">
+    <ctml:name>Tokoroa</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q112685</ctml:wikiDataId>
+    <ctml:latitude>-38.23333000</ctml:latitude>
+    <ctml:longitude>175.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79898" kind="city">
+    <ctml:name>Turangi</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q1026386</ctml:wikiDataId>
+    <ctml:latitude>-38.99037000</ctml:latitude>
+    <ctml:longitude>175.80837000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79900" kind="city">
+    <ctml:name>Waihi</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q498833</ctml:wikiDataId>
+    <ctml:latitude>-37.38333000</ctml:latitude>
+    <ctml:longitude>175.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79920" kind="city">
+    <ctml:name>Whangamata</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q917136</ctml:wikiDataId>
+    <ctml:latitude>-37.20000000</ctml:latitude>
+    <ctml:longitude>175.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79922" kind="city">
+    <ctml:name>Whitianga</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Waikato</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WKO</ctml:parentRef>
+    <ctml:wikiDataId>Q1375183</ctml:wikiDataId>
+    <ctml:latitude>-36.83333000</ctml:latitude>
+    <ctml:longitude>175.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79778" kind="city">
+    <ctml:name>Brooklyn</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q4974716</ctml:wikiDataId>
+    <ctml:latitude>-41.30586000</ctml:latitude>
+    <ctml:longitude>174.76257000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79782" kind="city">
+    <ctml:name>Castlepoint</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q5050567</ctml:wikiDataId>
+    <ctml:latitude>-40.90000000</ctml:latitude>
+    <ctml:longitude>176.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79808" kind="city">
+    <ctml:name>Kapiti Coast</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q1533839</ctml:wikiDataId>
+    <ctml:latitude>-40.85682000</ctml:latitude>
+    <ctml:longitude>175.14690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79812" kind="city">
+    <ctml:name>Kelburn</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q1674085</ctml:wikiDataId>
+    <ctml:latitude>-41.28333000</ctml:latitude>
+    <ctml:longitude>174.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79814" kind="city">
+    <ctml:name>Khandallah</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q1185949</ctml:wikiDataId>
+    <ctml:latitude>-41.24500000</ctml:latitude>
+    <ctml:longitude>174.79422000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79819" kind="city">
+    <ctml:name>Lower Hutt</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q1015681</ctml:wikiDataId>
+    <ctml:latitude>-41.21667000</ctml:latitude>
+    <ctml:longitude>174.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79826" kind="city">
+    <ctml:name>Masterton</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q1223916</ctml:wikiDataId>
+    <ctml:latitude>-40.95972000</ctml:latitude>
+    <ctml:longitude>175.65750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79847" kind="city">
+    <ctml:name>Otaki</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q984998</ctml:wikiDataId>
+    <ctml:latitude>-40.75833000</ctml:latitude>
+    <ctml:longitude>175.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79857" kind="city">
+    <ctml:name>Paraparaumu</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q1115332</ctml:wikiDataId>
+    <ctml:latitude>-40.91667000</ctml:latitude>
+    <ctml:longitude>175.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79859" kind="city">
+    <ctml:name>Petone</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q120070</ctml:wikiDataId>
+    <ctml:latitude>-41.22827000</ctml:latitude>
+    <ctml:longitude>174.87019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79862" kind="city">
+    <ctml:name>Porirua</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q1015773</ctml:wikiDataId>
+    <ctml:latitude>-41.13333000</ctml:latitude>
+    <ctml:longitude>174.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79880" kind="city">
+    <ctml:name>South Wairarapa</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q1760817</ctml:wikiDataId>
+    <ctml:latitude>-41.26731000</ctml:latitude>
+    <ctml:longitude>175.38442000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79899" kind="city">
+    <ctml:name>Upper Hutt</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q166002</ctml:wikiDataId>
+    <ctml:latitude>-41.13827000</ctml:latitude>
+    <ctml:longitude>175.05020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79905" kind="city">
+    <ctml:name>Waipawa</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q912379</ctml:wikiDataId>
+    <ctml:latitude>-41.41222000</ctml:latitude>
+    <ctml:longitude>175.51528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79915" kind="city">
+    <ctml:name>Wellington</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>Wellington</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WGN</ctml:parentRef>
+    <ctml:wikiDataId>Q23661</ctml:wikiDataId>
+    <ctml:latitude>-41.28664000</ctml:latitude>
+    <ctml:longitude>174.77557000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79802" kind="city">
+    <ctml:name>Hokitika</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>West Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WTC</ctml:parentRef>
+    <ctml:wikiDataId>Q1549557</ctml:wikiDataId>
+    <ctml:latitude>-42.71667000</ctml:latitude>
+    <ctml:longitude>170.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NZL-79918" kind="city">
+    <ctml:name>Westport</ctml:name>
+    <ctml:country>NZL</ctml:country>
+    <ctml:admin1>West Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NZ-WTC</ctml:parentRef>
+    <ctml:wikiDataId>Q1349217</ctml:wikiDataId>
+    <ctml:latitude>-41.75262000</ctml:latitude>
+    <ctml:longitude>171.60370000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

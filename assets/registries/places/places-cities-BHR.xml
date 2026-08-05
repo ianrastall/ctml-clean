@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BHR-9757" kind="city">
+    <ctml:name>Jidd Ḩafş</ctml:name>
+    <ctml:country>BHR</ctml:country>
+    <ctml:admin1>Capital</ctml:admin1>
+    <ctml:parentRef>place:admin1:BH-13</ctml:parentRef>
+    <ctml:wikiDataId>Q248302</ctml:wikiDataId>
+    <ctml:latitude>26.21861000</ctml:latitude>
+    <ctml:longitude>50.54778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BHR-9760" kind="city">
+    <ctml:name>Manama</ctml:name>
+    <ctml:country>BHR</ctml:country>
+    <ctml:admin1>Capital</ctml:admin1>
+    <ctml:parentRef>place:admin1:BH-13</ctml:parentRef>
+    <ctml:wikiDataId>Q3882</ctml:wikiDataId>
+    <ctml:latitude>26.22787000</ctml:latitude>
+    <ctml:longitude>50.58565000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BHR-9761" kind="city">
+    <ctml:name>Sitrah</ctml:name>
+    <ctml:country>BHR</ctml:country>
+    <ctml:admin1>Capital</ctml:admin1>
+    <ctml:parentRef>place:admin1:BH-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1416753</ctml:wikiDataId>
+    <ctml:latitude>26.15472000</ctml:latitude>
+    <ctml:longitude>50.62056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BHR-9754" kind="city">
+    <ctml:name>Al Ḩadd</ctml:name>
+    <ctml:country>BHR</ctml:country>
+    <ctml:admin1>Muharraq</ctml:admin1>
+    <ctml:parentRef>place:admin1:BH-15</ctml:parentRef>
+    <ctml:wikiDataId>Q3360322</ctml:wikiDataId>
+    <ctml:latitude>26.24556000</ctml:latitude>
+    <ctml:longitude>50.65417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BHR-9753" kind="city">
+    <ctml:name>Al Muharraq</ctml:name>
+    <ctml:country>BHR</ctml:country>
+    <ctml:admin1>Muharraq</ctml:admin1>
+    <ctml:parentRef>place:admin1:BH-15</ctml:parentRef>
+    <ctml:wikiDataId>Q270500</ctml:wikiDataId>
+    <ctml:latitude>26.25722000</ctml:latitude>
+    <ctml:longitude>50.61194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BHR-9758" kind="city">
+    <ctml:name>Madīnat Ḩamad</ctml:name>
+    <ctml:country>BHR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:BH-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2088687</ctml:wikiDataId>
+    <ctml:latitude>26.11528000</ctml:latitude>
+    <ctml:longitude>50.50694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BHR-9755" kind="city">
+    <ctml:name>Ar Rifā‘</ctml:name>
+    <ctml:country>BHR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:BH-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1771398</ctml:wikiDataId>
+    <ctml:latitude>26.13000000</ctml:latitude>
+    <ctml:longitude>50.55500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BHR-9756" kind="city">
+    <ctml:name>Dār Kulayb</ctml:name>
+    <ctml:country>BHR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:BH-14</ctml:parentRef>
+    <ctml:wikiDataId>Q5221908</ctml:wikiDataId>
+    <ctml:latitude>26.06861000</ctml:latitude>
+    <ctml:longitude>50.50389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BHR-9759" kind="city">
+    <ctml:name>Madīnat ‘Īsá</ctml:name>
+    <ctml:country>BHR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:BH-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1017673</ctml:wikiDataId>
+    <ctml:latitude>26.17361000</ctml:latitude>
+    <ctml:longitude>50.54778000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

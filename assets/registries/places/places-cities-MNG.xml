@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:MNG-67706" kind="admin2">
+    <ctml:name>Altay</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Bayan-Ölgii</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-071</ctml:parentRef>
+    <ctml:wikiDataId>Q2593952</ctml:wikiDataId>
+    <ctml:latitude>48.29359000</ctml:latitude>
+    <ctml:longitude>89.51488000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MNG-67733" kind="admin2">
+    <ctml:name>Tsengel</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Bayan-Ölgii</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-071</ctml:parentRef>
+    <ctml:wikiDataId>Q46319</ctml:wikiDataId>
+    <ctml:latitude>48.94314000</ctml:latitude>
+    <ctml:longitude>89.14358000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MNG-67718" kind="admin2">
+    <ctml:name>Ereencav</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Dornod</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-061</ctml:parentRef>
+    <ctml:wikiDataId>Q230628</ctml:wikiDataId>
+    <ctml:latitude>49.88070000</ctml:latitude>
+    <ctml:longitude>115.72526000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNG-67728" kind="city">
+    <ctml:name>Möst</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Khovd</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-043</ctml:parentRef>
+    <ctml:wikiDataId>Q10950043</ctml:wikiDataId>
+    <ctml:latitude>46.67712000</ctml:latitude>
+    <ctml:longitude>92.78521000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MNG-67741" kind="admin2">
+    <ctml:name>Üyönch</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Khovd</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-043</ctml:parentRef>
+    <ctml:wikiDataId>Q3404181</ctml:wikiDataId>
+    <ctml:latitude>46.04786000</ctml:latitude>
+    <ctml:longitude>92.02612000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MNG-67719" kind="admin2">
+    <ctml:name>Hanh</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Khövsgöl</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-041</ctml:parentRef>
+    <ctml:wikiDataId>Q2607700</ctml:wikiDataId>
+    <ctml:latitude>51.50265000</ctml:latitude>
+    <ctml:longitude>100.66395000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MNG-67732" kind="admin2">
+    <ctml:name>Tsengel</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Khövsgöl</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-041</ctml:parentRef>
+    <ctml:wikiDataId>Q46319</ctml:wikiDataId>
+    <ctml:latitude>49.47833000</ctml:latitude>
+    <ctml:longitude>100.88944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MNG-67735" kind="admin2">
+    <ctml:name>Turt</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Khövsgöl</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-041</ctml:parentRef>
+    <ctml:wikiDataId>Q529834</ctml:wikiDataId>
+    <ctml:latitude>51.50725000</ctml:latitude>
+    <ctml:longitude>100.66257000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MNG-67720" kind="admin2">
+    <ctml:name>Hanhongor</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Ömnögovi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-053</ctml:parentRef>
+    <ctml:wikiDataId>Q3402358</ctml:wikiDataId>
+    <ctml:latitude>43.77345000</ctml:latitude>
+    <ctml:longitude>104.47998000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNG-67730" kind="city">
+    <ctml:name>Nomgon Sum</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Ömnögovi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-053</ctml:parentRef>
+    <ctml:wikiDataId>Q3402154</ctml:wikiDataId>
+    <ctml:latitude>42.41462000</ctml:latitude>
+    <ctml:longitude>105.05640000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MNG-67721" kind="admin2">
+    <ctml:name>Harhorin</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Övörkhangai</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-055</ctml:parentRef>
+    <ctml:wikiDataId>Q3402358</ctml:wikiDataId>
+    <ctml:latitude>47.19753000</ctml:latitude>
+    <ctml:longitude>102.82379000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNG-67722" kind="city">
+    <ctml:name>Hovd</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Övörkhangai</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-055</ctml:parentRef>
+    <ctml:wikiDataId>Q3402358</ctml:wikiDataId>
+    <ctml:latitude>44.67024000</ctml:latitude>
+    <ctml:longitude>102.17491000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MNG-67723" kind="admin2">
+    <ctml:name>Kharkhorin</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Övörkhangai</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-055</ctml:parentRef>
+    <ctml:wikiDataId>Q3402358</ctml:wikiDataId>
+    <ctml:latitude>47.19245000</ctml:latitude>
+    <ctml:longitude>102.81349000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNG-67729" kind="city">
+    <ctml:name>Nariynteel</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Övörkhangai</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-055</ctml:parentRef>
+    <ctml:wikiDataId>Q3402273</ctml:wikiDataId>
+    <ctml:latitude>45.95950000</ctml:latitude>
+    <ctml:longitude>101.45977000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNG-67716" kind="city">
+    <ctml:name>Dzüünharaa</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Selenge</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-049</ctml:parentRef>
+    <ctml:wikiDataId>Q917690</ctml:wikiDataId>
+    <ctml:latitude>48.85229000</ctml:latitude>
+    <ctml:longitude>106.45786000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNG-67742" kind="city">
+    <ctml:name>Centipede</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Töv</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-047</ctml:parentRef>
+    <ctml:wikiDataId>Q3404181</ctml:wikiDataId>
+    <ctml:latitude>47.70693000</ctml:latitude>
+    <ctml:longitude>106.95276000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MNG-67727" kind="admin2">
+    <ctml:name>Möngönmorĭt</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Töv</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-047</ctml:parentRef>
+    <ctml:wikiDataId>Q3403761</ctml:wikiDataId>
+    <ctml:latitude>48.19504000</ctml:latitude>
+    <ctml:longitude>108.48295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MNG-67737" kind="admin2">
+    <ctml:name>Ulaanhudag</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Töv</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-047</ctml:parentRef>
+    <ctml:wikiDataId>Q822815</ctml:wikiDataId>
+    <ctml:latitude>47.33333000</ctml:latitude>
+    <ctml:longitude>104.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNG-153783" kind="city">
+    <ctml:name>Ulan Bator</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Töv</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-047</ctml:parentRef>
+    <ctml:wikiDataId>Q23430</ctml:wikiDataId>
+    <ctml:latitude>47.89176240</ctml:latitude>
+    <ctml:longitude>106.73706000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNG-157016" kind="city">
+    <ctml:name>Ulaanbaatar</ctml:name>
+    <ctml:country>MNG</ctml:country>
+    <ctml:admin1>Ulaanbaatar</ctml:admin1>
+    <ctml:parentRef>place:admin1:MN-001</ctml:parentRef>
+    <ctml:wikiDataId>Q23430</ctml:wikiDataId>
+    <ctml:latitude>47.89153170</ctml:latitude>
+    <ctml:longitude>106.73672220</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

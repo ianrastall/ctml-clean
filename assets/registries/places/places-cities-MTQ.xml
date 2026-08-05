@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MTQ-154980" kind="city">
+    <ctml:name>Fort-de-France</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Fort-de-France</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q81621</ctml:wikiDataId>
+    <ctml:latitude>14.64924180</ctml:latitude>
+    <ctml:longitude>-61.10984450</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154981" kind="city">
+    <ctml:name>Le Lamentin</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Fort-de-France</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q947069</ctml:wikiDataId>
+    <ctml:latitude>14.62308620</ctml:latitude>
+    <ctml:longitude>-61.03347490</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154982" kind="city">
+    <ctml:name>Saint-Joseph</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Fort-de-France</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q918737</ctml:wikiDataId>
+    <ctml:latitude>14.68353400</ctml:latitude>
+    <ctml:longitude>-61.08186620</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154983" kind="city">
+    <ctml:name>Schœlcher</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Fort-de-France</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q617806</ctml:wikiDataId>
+    <ctml:latitude>14.65179970</ctml:latitude>
+    <ctml:longitude>-61.14128670</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154985" kind="city">
+    <ctml:name>Basse-Pointe</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>La Trinité</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1648481</ctml:wikiDataId>
+    <ctml:latitude>14.84097080</ctml:latitude>
+    <ctml:longitude>-61.16485230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154986" kind="city">
+    <ctml:name>Grand'Rivière</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>La Trinité</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1650045</ctml:wikiDataId>
+    <ctml:latitude>14.84696630</ctml:latitude>
+    <ctml:longitude>-61.20427640</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154987" kind="city">
+    <ctml:name>Gros-Morne</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>La Trinité</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1778192</ctml:wikiDataId>
+    <ctml:latitude>14.70841840</ctml:latitude>
+    <ctml:longitude>-61.11271220</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154984" kind="city">
+    <ctml:name>L'Ajoupa-Bouillon</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>La Trinité</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1234080</ctml:wikiDataId>
+    <ctml:latitude>14.81597180</ctml:latitude>
+    <ctml:longitude>-61.17170630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154993" kind="city">
+    <ctml:name>La Trinité</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>La Trinité</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q671787</ctml:wikiDataId>
+    <ctml:latitude>14.73804150</ctml:latitude>
+    <ctml:longitude>-61.02929560</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154988" kind="city">
+    <ctml:name>Le Lorrain</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>La Trinité</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q595351</ctml:wikiDataId>
+    <ctml:latitude>14.79952560</ctml:latitude>
+    <ctml:longitude>-61.11513740</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154990" kind="city">
+    <ctml:name>Le Marigot</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>La Trinité</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1778234</ctml:wikiDataId>
+    <ctml:latitude>14.77958180</ctml:latitude>
+    <ctml:longitude>-61.09424580</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154991" kind="city">
+    <ctml:name>Le Robert</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>La Trinité</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1617674</ctml:wikiDataId>
+    <ctml:latitude>14.67443270</ctml:latitude>
+    <ctml:longitude>-61.01692720</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154989" kind="city">
+    <ctml:name>Macouba</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>La Trinité</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q545210</ctml:wikiDataId>
+    <ctml:latitude>14.84743860</ctml:latitude>
+    <ctml:longitude>-61.16709460</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154992" kind="city">
+    <ctml:name>Sainte-Marie</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>La Trinité</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1758414</ctml:wikiDataId>
+    <ctml:latitude>14.77300930</ctml:latitude>
+    <ctml:longitude>-61.04959970</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154996" kind="city">
+    <ctml:name>Ducos</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Le Marin</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1928113</ctml:wikiDataId>
+    <ctml:latitude>14.57854420</ctml:latitude>
+    <ctml:longitude>-61.00973860</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154995" kind="city">
+    <ctml:name>Le Diamant</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Le Marin</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1928084</ctml:wikiDataId>
+    <ctml:latitude>14.47680040</ctml:latitude>
+    <ctml:longitude>-61.05973840</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154997" kind="city">
+    <ctml:name>Le François</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Le Marin</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q282944</ctml:wikiDataId>
+    <ctml:latitude>14.60928850</ctml:latitude>
+    <ctml:longitude>-60.97999110</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154998" kind="city">
+    <ctml:name>Le Marin</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Le Marin</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q265373</ctml:wikiDataId>
+    <ctml:latitude>14.48221690</ctml:latitude>
+    <ctml:longitude>-60.90011410</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-155005" kind="city">
+    <ctml:name>Le Vauclin</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Le Marin</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1831094</ctml:wikiDataId>
+    <ctml:latitude>14.54208600</ctml:latitude>
+    <ctml:longitude>-60.90060060</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154994" kind="city">
+    <ctml:name>Les Anses-d'Arlet</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Le Marin</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1928126</ctml:wikiDataId>
+    <ctml:latitude>14.49954780</ctml:latitude>
+    <ctml:longitude>-61.11481620</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-155004" kind="city">
+    <ctml:name>Les Trois-Îlets</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Le Marin</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1650786</ctml:wikiDataId>
+    <ctml:latitude>14.53287460</ctml:latitude>
+    <ctml:longitude>-61.07877690</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-154999" kind="city">
+    <ctml:name>Rivière-Pilote</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Le Marin</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1918091</ctml:wikiDataId>
+    <ctml:latitude>14.50266970</ctml:latitude>
+    <ctml:longitude>-60.93819210</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-155000" kind="city">
+    <ctml:name>Rivière-Salée</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Le Marin</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1928099</ctml:wikiDataId>
+    <ctml:latitude>14.52621400</ctml:latitude>
+    <ctml:longitude>-61.00353090</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-155001" kind="city">
+    <ctml:name>Saint-Esprit</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Le Marin</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1928039</ctml:wikiDataId>
+    <ctml:latitude>14.56175950</ctml:latitude>
+    <ctml:longitude>-60.96451110</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-155002" kind="city">
+    <ctml:name>Sainte-Anne</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Le Marin</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q655146</ctml:wikiDataId>
+    <ctml:latitude>14.43142200</ctml:latitude>
+    <ctml:longitude>-60.89278760</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-155003" kind="city">
+    <ctml:name>Sainte-Luce</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Le Marin</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1772486</ctml:wikiDataId>
+    <ctml:latitude>14.49040930</ctml:latitude>
+    <ctml:longitude>-60.98793650</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-155006" kind="city">
+    <ctml:name>Bellefontaine</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1778187</ctml:wikiDataId>
+    <ctml:latitude>14.67474760</ctml:latitude>
+    <ctml:longitude>-61.16653080</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-155008" kind="city">
+    <ctml:name>Case-Pilote</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1928049</ctml:wikiDataId>
+    <ctml:latitude>14.65933990</ctml:latitude>
+    <ctml:longitude>-61.15026120</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-155009" kind="city">
+    <ctml:name>Fonds-Saint-Denis</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1928060</ctml:wikiDataId>
+    <ctml:latitude>14.72275460</ctml:latitude>
+    <ctml:longitude>-61.16189190</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-155007" kind="city">
+    <ctml:name>Le Carbet</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q747519</ctml:wikiDataId>
+    <ctml:latitude>14.70521580</ctml:latitude>
+    <ctml:longitude>-61.19444680</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-155010" kind="city">
+    <ctml:name>Le Morne-Rouge</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q974759</ctml:wikiDataId>
+    <ctml:latitude>14.76953640</ctml:latitude>
+    <ctml:longitude>-61.16292840</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-155011" kind="city">
+    <ctml:name>Le Morne-Vert</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q943994</ctml:wikiDataId>
+    <ctml:latitude>14.70464330</ctml:latitude>
+    <ctml:longitude>-61.15679770</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-155012" kind="city">
+    <ctml:name>Le Prêcheur</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1778157</ctml:wikiDataId>
+    <ctml:latitude>14.82202610</ctml:latitude>
+    <ctml:longitude>-61.23746860</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MTQ-155013" kind="city">
+    <ctml:name>Saint-Pierre</ctml:name>
+    <ctml:country>MTQ</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:MQ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q589980</ctml:wikiDataId>
+    <ctml:latitude>14.77167190</ctml:latitude>
+    <ctml:longitude>-61.21475010</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

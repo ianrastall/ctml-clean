@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:VCT-130030" kind="city">
+    <ctml:name>Biabou</ctml:name>
+    <ctml:country>VCT</ctml:country>
+    <ctml:admin1>Charlotte</ctml:admin1>
+    <ctml:parentRef>place:admin1:VC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q767607</ctml:wikiDataId>
+    <ctml:latitude>13.19430000</ctml:latitude>
+    <ctml:longitude>-61.13904000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VCT-130031" kind="city">
+    <ctml:name>Byera Village</ctml:name>
+    <ctml:country>VCT</ctml:country>
+    <ctml:admin1>Charlotte</ctml:admin1>
+    <ctml:parentRef>place:admin1:VC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q5004057</ctml:wikiDataId>
+    <ctml:latitude>13.25636000</ctml:latitude>
+    <ctml:longitude>-61.11954000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VCT-130034" kind="city">
+    <ctml:name>Kingstown</ctml:name>
+    <ctml:country>VCT</ctml:country>
+    <ctml:admin1>Saint George</ctml:admin1>
+    <ctml:parentRef>place:admin1:VC-04</ctml:parentRef>
+    <ctml:wikiDataId>Q41474</ctml:wikiDataId>
+    <ctml:latitude>13.15527000</ctml:latitude>
+    <ctml:longitude>-61.22742000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VCT-130035" kind="city">
+    <ctml:name>Kingstown Park</ctml:name>
+    <ctml:country>VCT</ctml:country>
+    <ctml:admin1>Saint George</ctml:admin1>
+    <ctml:parentRef>place:admin1:VC-04</ctml:parentRef>
+    <ctml:wikiDataId>Q41474</ctml:wikiDataId>
+    <ctml:latitude>13.15924000</ctml:latitude>
+    <ctml:longitude>-61.23161000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

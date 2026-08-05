@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:QAT-89856" kind="city">
+    <ctml:name>Al Ghuwayrīyah</ctml:name>
+    <ctml:country>QAT</ctml:country>
+    <ctml:admin1>Al Khor</ctml:admin1>
+    <ctml:parentRef>place:admin1:QA-KH</ctml:parentRef>
+    <ctml:wikiDataId>Q2475423</ctml:wikiDataId>
+    <ctml:latitude>25.82882000</ctml:latitude>
+    <ctml:longitude>51.24567000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:QAT-89869" kind="city">
+    <ctml:name>Umm Bāb</ctml:name>
+    <ctml:country>QAT</ctml:country>
+    <ctml:admin1>Al Rayyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:QA-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q3296219</ctml:wikiDataId>
+    <ctml:latitude>25.21417000</ctml:latitude>
+    <ctml:longitude>50.80722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:QAT-89860" kind="city">
+    <ctml:name>Al Wukayr</ctml:name>
+    <ctml:country>QAT</ctml:country>
+    <ctml:admin1>Al Wakrah</ctml:admin1>
+    <ctml:parentRef>place:admin1:QA-WA</ctml:parentRef>
+    <ctml:wikiDataId>Q31876054</ctml:wikiDataId>
+    <ctml:latitude>25.15107000</ctml:latitude>
+    <ctml:longitude>51.53718000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:QAT-89868" kind="city">
+    <ctml:name>Musay‘īd</ctml:name>
+    <ctml:country>QAT</ctml:country>
+    <ctml:admin1>Al Wakrah</ctml:admin1>
+    <ctml:parentRef>place:admin1:QA-WA</ctml:parentRef>
+    <ctml:wikiDataId>Q1069900</ctml:wikiDataId>
+    <ctml:latitude>24.99226000</ctml:latitude>
+    <ctml:longitude>51.55067000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:QAT-89857" kind="city">
+    <ctml:name>Al Jumaylīyah</ctml:name>
+    <ctml:country>QAT</ctml:country>
+    <ctml:admin1>Al-Shahaniya</ctml:admin1>
+    <ctml:parentRef>place:admin1:QA-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q1147593</ctml:wikiDataId>
+    <ctml:latitude>25.61068000</ctml:latitude>
+    <ctml:longitude>51.09108000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:QAT-89865" kind="city">
+    <ctml:name>Dukhān</ctml:name>
+    <ctml:country>QAT</ctml:country>
+    <ctml:admin1>Al-Shahaniya</ctml:admin1>
+    <ctml:parentRef>place:admin1:QA-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q3296633</ctml:wikiDataId>
+    <ctml:latitude>25.42485000</ctml:latitude>
+    <ctml:longitude>50.78227000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:QAT-89864" kind="city">
+    <ctml:name>Doha</ctml:name>
+    <ctml:country>QAT</ctml:country>
+    <ctml:admin1>Doha</ctml:admin1>
+    <ctml:parentRef>place:admin1:QA-DA</ctml:parentRef>
+    <ctml:wikiDataId>Q3861</ctml:wikiDataId>
+    <ctml:latitude>25.28545000</ctml:latitude>
+    <ctml:longitude>51.53096000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:QAT-89862" kind="city">
+    <ctml:name>Ar Ruways</ctml:name>
+    <ctml:country>QAT</ctml:country>
+    <ctml:admin1>Madinat ash Shamal</ctml:admin1>
+    <ctml:parentRef>place:admin1:QA-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q3298589</ctml:wikiDataId>
+    <ctml:latitude>26.13978000</ctml:latitude>
+    <ctml:longitude>51.21493000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:QAT-89866" kind="city">
+    <ctml:name>Fuwayriţ</ctml:name>
+    <ctml:country>QAT</ctml:country>
+    <ctml:admin1>Madinat ash Shamal</ctml:admin1>
+    <ctml:parentRef>place:admin1:QA-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q3296633</ctml:wikiDataId>
+    <ctml:latitude>26.02565000</ctml:latitude>
+    <ctml:longitude>51.36971000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:QAT-89870" kind="city">
+    <ctml:name>Umm Şalāl Muḩammad</ctml:name>
+    <ctml:country>QAT</ctml:country>
+    <ctml:admin1>Umm Salal</ctml:admin1>
+    <ctml:parentRef>place:admin1:QA-US</ctml:parentRef>
+    <ctml:wikiDataId>Q3298627</ctml:wikiDataId>
+    <ctml:latitude>25.41524000</ctml:latitude>
+    <ctml:longitude>51.40647000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

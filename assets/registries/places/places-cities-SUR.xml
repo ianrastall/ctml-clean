@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SUR-104823" kind="city">
+    <ctml:name>Brownsweg</ctml:name>
+    <ctml:country>SUR</ctml:country>
+    <ctml:admin1>Brokopondo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SR-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q926060</ctml:wikiDataId>
+    <ctml:latitude>5.00435000</ctml:latitude>
+    <ctml:longitude>-55.15333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SUR-104826" kind="city">
+    <ctml:name>Mariënburg</ctml:name>
+    <ctml:country>SUR</ctml:country>
+    <ctml:admin1>Commewijne</ctml:admin1>
+    <ctml:parentRef>place:admin1:SR-CM</ctml:parentRef>
+    <ctml:wikiDataId>Q908006</ctml:wikiDataId>
+    <ctml:latitude>5.87722000</ctml:latitude>
+    <ctml:longitude>-55.04322000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SUR-104827" kind="city">
+    <ctml:name>Moengo</ctml:name>
+    <ctml:country>SUR</ctml:country>
+    <ctml:admin1>Marowijne</ctml:admin1>
+    <ctml:parentRef>place:admin1:SR-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q24226</ctml:wikiDataId>
+    <ctml:latitude>5.61411000</ctml:latitude>
+    <ctml:longitude>-54.40121000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SUR-104833" kind="city">
+    <ctml:name>Wageningen</ctml:name>
+    <ctml:country>SUR</ctml:country>
+    <ctml:admin1>Nickerie</ctml:admin1>
+    <ctml:parentRef>place:admin1:SR-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q24224</ctml:wikiDataId>
+    <ctml:latitude>5.76010000</ctml:latitude>
+    <ctml:longitude>-56.66523000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SUR-104831" kind="city">
+    <ctml:name>Paramaribo</ctml:name>
+    <ctml:country>SUR</ctml:country>
+    <ctml:admin1>Paramaribo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SR-PM</ctml:parentRef>
+    <ctml:wikiDataId>Q3001</ctml:wikiDataId>
+    <ctml:latitude>5.86638000</ctml:latitude>
+    <ctml:longitude>-55.16682000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

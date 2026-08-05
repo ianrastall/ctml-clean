@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ZWE-131425" kind="city">
+    <ctml:name>Chitungwiza</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Harare</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q399119</ctml:wikiDataId>
+    <ctml:latitude>-18.01274000</ctml:latitude>
+    <ctml:longitude>31.07555000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131431" kind="city">
+    <ctml:name>Epworth</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Harare</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q2084814</ctml:wikiDataId>
+    <ctml:latitude>-17.89000000</ctml:latitude>
+    <ctml:longitude>31.14750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131443" kind="city">
+    <ctml:name>Harare</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Harare</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q5623288</ctml:wikiDataId>
+    <ctml:latitude>-17.82772000</ctml:latitude>
+    <ctml:longitude>31.05337000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131410" kind="city">
+    <ctml:name>Buhera</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q1002632</ctml:wikiDataId>
+    <ctml:latitude>-19.45658000</ctml:latitude>
+    <ctml:longitude>31.93156000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131417" kind="city">
+    <ctml:name>Chimanimani</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q31904480</ctml:wikiDataId>
+    <ctml:latitude>-19.80000000</ctml:latitude>
+    <ctml:longitude>32.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131418" kind="city">
+    <ctml:name>Chimanimani District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q31904480</ctml:wikiDataId>
+    <ctml:latitude>-19.78295000</ctml:latitude>
+    <ctml:longitude>32.73338000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131420" kind="city">
+    <ctml:name>Chipinge</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q31905194</ctml:wikiDataId>
+    <ctml:latitude>-20.18833000</ctml:latitude>
+    <ctml:longitude>32.62365000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131421" kind="city">
+    <ctml:name>Chipinge District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q31905194</ctml:wikiDataId>
+    <ctml:latitude>-20.54959000</ctml:latitude>
+    <ctml:longitude>32.43110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131430" kind="city">
+    <ctml:name>Dorowa Mining Lease</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q5298711</ctml:wikiDataId>
+    <ctml:latitude>-19.06667000</ctml:latitude>
+    <ctml:longitude>31.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131444" kind="city">
+    <ctml:name>Headlands</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q15223422</ctml:wikiDataId>
+    <ctml:latitude>-18.27733000</ctml:latitude>
+    <ctml:longitude>32.05150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131464" kind="city">
+    <ctml:name>Makoni</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q1783697</ctml:wikiDataId>
+    <ctml:latitude>-18.33550000</ctml:latitude>
+    <ctml:longitude>32.14650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131481" kind="city">
+    <ctml:name>Mutare District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q1953653</ctml:wikiDataId>
+    <ctml:latitude>-19.25512000</ctml:latitude>
+    <ctml:longitude>32.44327000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131482" kind="city">
+    <ctml:name>Mutasa</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q1953653</ctml:wikiDataId>
+    <ctml:latitude>-18.66283000</ctml:latitude>
+    <ctml:longitude>32.74547000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131489" kind="city">
+    <ctml:name>Nyanga</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q994406</ctml:wikiDataId>
+    <ctml:latitude>-18.21667000</ctml:latitude>
+    <ctml:longitude>32.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131490" kind="city">
+    <ctml:name>Nyanga District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q994406</ctml:wikiDataId>
+    <ctml:latitude>-17.92951000</ctml:latitude>
+    <ctml:longitude>32.76561000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131491" kind="city">
+    <ctml:name>Nyazura</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q1664602</ctml:wikiDataId>
+    <ctml:latitude>-18.70587000</ctml:latitude>
+    <ctml:longitude>32.16796000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131492" kind="city">
+    <ctml:name>Odzi</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2014843</ctml:wikiDataId>
+    <ctml:latitude>-18.96167000</ctml:latitude>
+    <ctml:longitude>32.40557000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131493" kind="city">
+    <ctml:name>Penhalonga</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2068894</ctml:wikiDataId>
+    <ctml:latitude>-18.89112000</ctml:latitude>
+    <ctml:longitude>32.69781000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131497" kind="city">
+    <ctml:name>Rusape</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Manicaland</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q991725</ctml:wikiDataId>
+    <ctml:latitude>-18.52785000</ctml:latitude>
+    <ctml:longitude>32.12843000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131406" kind="city">
+    <ctml:name>Bindura District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q863727</ctml:wikiDataId>
+    <ctml:latitude>-17.21230000</ctml:latitude>
+    <ctml:longitude>31.30300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131412" kind="city">
+    <ctml:name>Centenary</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q428532</ctml:wikiDataId>
+    <ctml:latitude>-16.72289000</ctml:latitude>
+    <ctml:longitude>31.11462000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131413" kind="city">
+    <ctml:name>Centenary District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q428532</ctml:wikiDataId>
+    <ctml:latitude>-16.41667000</ctml:latitude>
+    <ctml:longitude>31.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131428" kind="city">
+    <ctml:name>Concession</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q5158594</ctml:wikiDataId>
+    <ctml:latitude>-17.38333000</ctml:latitude>
+    <ctml:longitude>30.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131434" kind="city">
+    <ctml:name>Glendale</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q31917291</ctml:wikiDataId>
+    <ctml:latitude>-17.35514000</ctml:latitude>
+    <ctml:longitude>31.06718000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131437" kind="city">
+    <ctml:name>Guruve</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q3756018</ctml:wikiDataId>
+    <ctml:latitude>-16.37206000</ctml:latitude>
+    <ctml:longitude>30.60607000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131472" kind="city">
+    <ctml:name>Mazowe</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q6798645</ctml:wikiDataId>
+    <ctml:latitude>-17.50404000</ctml:latitude>
+    <ctml:longitude>30.97388000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131473" kind="city">
+    <ctml:name>Mazowe District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q1756321</ctml:wikiDataId>
+    <ctml:latitude>-17.28080000</ctml:latitude>
+    <ctml:longitude>30.93231000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131476" kind="city">
+    <ctml:name>Mount Darwin</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q127792</ctml:wikiDataId>
+    <ctml:latitude>-16.77251000</ctml:latitude>
+    <ctml:longitude>31.58381000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131485" kind="city">
+    <ctml:name>Mvurwi</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q6944595</ctml:wikiDataId>
+    <ctml:latitude>-17.03333000</ctml:latitude>
+    <ctml:longitude>30.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131498" kind="city">
+    <ctml:name>Rushinga</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q991725</ctml:wikiDataId>
+    <ctml:latitude>-16.60792000</ctml:latitude>
+    <ctml:longitude>32.31434000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131500" kind="city">
+    <ctml:name>Shamva</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q606345</ctml:wikiDataId>
+    <ctml:latitude>-17.31159000</ctml:latitude>
+    <ctml:longitude>31.57561000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131501" kind="city">
+    <ctml:name>Shamva District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q606345</ctml:wikiDataId>
+    <ctml:latitude>-17.12366000</ctml:latitude>
+    <ctml:longitude>31.64146000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131401" kind="city">
+    <ctml:name>Beatrice</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland East</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q31879111</ctml:wikiDataId>
+    <ctml:latitude>-18.25283000</ctml:latitude>
+    <ctml:longitude>30.84730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131426" kind="city">
+    <ctml:name>Chivhu</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland East</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q1021903</ctml:wikiDataId>
+    <ctml:latitude>-19.02112000</ctml:latitude>
+    <ctml:longitude>30.89218000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131436" kind="city">
+    <ctml:name>Goromonzi</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland East</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q3756018</ctml:wikiDataId>
+    <ctml:latitude>-17.80695000</ctml:latitude>
+    <ctml:longitude>31.36372000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131462" kind="city">
+    <ctml:name>Macheke</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland East</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q6723480</ctml:wikiDataId>
+    <ctml:latitude>-18.13901000</ctml:latitude>
+    <ctml:longitude>31.84933000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131467" kind="city">
+    <ctml:name>Marondera District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland East</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q4996407</ctml:wikiDataId>
+    <ctml:latitude>-18.29214000</ctml:latitude>
+    <ctml:longitude>31.51252000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131477" kind="city">
+    <ctml:name>Mudzi</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland East</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q127792</ctml:wikiDataId>
+    <ctml:latitude>-17.04711000</ctml:latitude>
+    <ctml:longitude>32.65279000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131478" kind="city">
+    <ctml:name>Murehwa</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland East</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q1953653</ctml:wikiDataId>
+    <ctml:latitude>-17.64322000</ctml:latitude>
+    <ctml:longitude>31.78400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131479" kind="city">
+    <ctml:name>Murehwa District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland East</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q1953653</ctml:wikiDataId>
+    <ctml:latitude>-17.80057000</ctml:latitude>
+    <ctml:longitude>31.83083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131483" kind="city">
+    <ctml:name>Mutoko</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland East</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q489569</ctml:wikiDataId>
+    <ctml:latitude>-17.39699000</ctml:latitude>
+    <ctml:longitude>32.22677000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131499" kind="city">
+    <ctml:name>Ruwa</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland East</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q1972938</ctml:wikiDataId>
+    <ctml:latitude>-17.88972000</ctml:latitude>
+    <ctml:longitude>31.24472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131400" kind="city">
+    <ctml:name>Banket</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q4856279</ctml:wikiDataId>
+    <ctml:latitude>-17.38333000</ctml:latitude>
+    <ctml:longitude>30.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131414" kind="city">
+    <ctml:name>Chakari</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q428532</ctml:wikiDataId>
+    <ctml:latitude>-18.06294000</ctml:latitude>
+    <ctml:longitude>29.89246000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131415" kind="city">
+    <ctml:name>Chegutu</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q1068972</ctml:wikiDataId>
+    <ctml:latitude>-18.13021000</ctml:latitude>
+    <ctml:longitude>30.14074000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131416" kind="city">
+    <ctml:name>Chegutu District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q1068972</ctml:wikiDataId>
+    <ctml:latitude>-18.13097000</ctml:latitude>
+    <ctml:longitude>30.40046000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131424" kind="city">
+    <ctml:name>Chirundu</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q5102022</ctml:wikiDataId>
+    <ctml:latitude>-16.03333000</ctml:latitude>
+    <ctml:longitude>28.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131445" kind="city">
+    <ctml:name>Hurungwe</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q15223422</ctml:wikiDataId>
+    <ctml:latitude>-16.41301000</ctml:latitude>
+    <ctml:longitude>29.58580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131451" kind="city">
+    <ctml:name>Kadoma</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q381560</ctml:wikiDataId>
+    <ctml:latitude>-18.33328000</ctml:latitude>
+    <ctml:longitude>29.91534000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131452" kind="city">
+    <ctml:name>Kadoma District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q6345648</ctml:wikiDataId>
+    <ctml:latitude>-18.34049000</ctml:latitude>
+    <ctml:longitude>29.82831000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131454" kind="city">
+    <ctml:name>Kariba</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q1025799</ctml:wikiDataId>
+    <ctml:latitude>-16.51667000</ctml:latitude>
+    <ctml:longitude>28.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131455" kind="city">
+    <ctml:name>Kariba District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q1025799</ctml:wikiDataId>
+    <ctml:latitude>-16.91011000</ctml:latitude>
+    <ctml:longitude>28.65983000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131456" kind="city">
+    <ctml:name>Karoi</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q994419</ctml:wikiDataId>
+    <ctml:latitude>-16.80993000</ctml:latitude>
+    <ctml:longitude>29.69247000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131463" kind="city">
+    <ctml:name>Makonde</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q6739880</ctml:wikiDataId>
+    <ctml:latitude>-17.16667000</ctml:latitude>
+    <ctml:longitude>30.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131475" kind="city">
+    <ctml:name>Mhangura</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q1926508</ctml:wikiDataId>
+    <ctml:latitude>-16.89387000</ctml:latitude>
+    <ctml:longitude>30.16828000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131488" kind="city">
+    <ctml:name>Norton</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q994406</ctml:wikiDataId>
+    <ctml:latitude>-17.88333000</ctml:latitude>
+    <ctml:longitude>30.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131495" kind="city">
+    <ctml:name>Raffingora</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Mashonaland West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MW</ctml:parentRef>
+    <ctml:wikiDataId>Q7282560</ctml:wikiDataId>
+    <ctml:latitude>-17.03333000</ctml:latitude>
+    <ctml:longitude>30.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131404" kind="city">
+    <ctml:name>Bikita</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Masvingo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MV</ctml:parentRef>
+    <ctml:wikiDataId>Q4907418</ctml:wikiDataId>
+    <ctml:latitude>-20.13752000</ctml:latitude>
+    <ctml:longitude>31.93156000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131422" kind="city">
+    <ctml:name>Chiredzi</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Masvingo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MV</ctml:parentRef>
+    <ctml:wikiDataId>Q31905408</ctml:wikiDataId>
+    <ctml:latitude>-21.05000000</ctml:latitude>
+    <ctml:longitude>31.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131423" kind="city">
+    <ctml:name>Chiredzi District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Masvingo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MV</ctml:parentRef>
+    <ctml:wikiDataId>Q5101881</ctml:wikiDataId>
+    <ctml:latitude>-21.28585000</ctml:latitude>
+    <ctml:longitude>31.77039000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131427" kind="city">
+    <ctml:name>Chivi</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Masvingo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MV</ctml:parentRef>
+    <ctml:wikiDataId>Q5102586</ctml:wikiDataId>
+    <ctml:latitude>-20.50000000</ctml:latitude>
+    <ctml:longitude>30.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131438" kind="city">
+    <ctml:name>Gutu</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Masvingo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MV</ctml:parentRef>
+    <ctml:wikiDataId>Q489622</ctml:wikiDataId>
+    <ctml:latitude>-19.60884000</ctml:latitude>
+    <ctml:longitude>31.25059000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131468" kind="city">
+    <ctml:name>Mashava</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Masvingo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MV</ctml:parentRef>
+    <ctml:wikiDataId>Q1907062</ctml:wikiDataId>
+    <ctml:latitude>-20.03665000</ctml:latitude>
+    <ctml:longitude>30.48225000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131470" kind="city">
+    <ctml:name>Masvingo District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Masvingo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MV</ctml:parentRef>
+    <ctml:wikiDataId>Q6785738</ctml:wikiDataId>
+    <ctml:latitude>-20.31481000</ctml:latitude>
+    <ctml:longitude>30.90008000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131486" kind="city">
+    <ctml:name>Mwenezi</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Masvingo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MV</ctml:parentRef>
+    <ctml:wikiDataId>Q15260492</ctml:wikiDataId>
+    <ctml:latitude>-21.35838000</ctml:latitude>
+    <ctml:longitude>30.70668000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131507" kind="city">
+    <ctml:name>Zvishavane</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Masvingo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MV</ctml:parentRef>
+    <ctml:wikiDataId>Q231399</ctml:wikiDataId>
+    <ctml:latitude>-20.32674000</ctml:latitude>
+    <ctml:longitude>30.06648000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131407" kind="city">
+    <ctml:name>Binga</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland North</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q31880578</ctml:wikiDataId>
+    <ctml:latitude>-17.62027000</ctml:latitude>
+    <ctml:longitude>27.34139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131408" kind="city">
+    <ctml:name>Binga District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland North</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q863750</ctml:wikiDataId>
+    <ctml:latitude>-17.80460000</ctml:latitude>
+    <ctml:longitude>27.70088000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131409" kind="city">
+    <ctml:name>Bubi</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland North</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q4982301</ctml:wikiDataId>
+    <ctml:latitude>-19.52508000</ctml:latitude>
+    <ctml:longitude>28.67998000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131429" kind="city">
+    <ctml:name>Dete</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland North</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q1201090</ctml:wikiDataId>
+    <ctml:latitude>-18.61667000</ctml:latitude>
+    <ctml:longitude>26.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131446" kind="city">
+    <ctml:name>Hwange</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland North</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q1202229</ctml:wikiDataId>
+    <ctml:latitude>-18.36446000</ctml:latitude>
+    <ctml:longitude>26.49877000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131447" kind="city">
+    <ctml:name>Hwange District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland North</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q5951997</ctml:wikiDataId>
+    <ctml:latitude>-18.75000000</ctml:latitude>
+    <ctml:longitude>26.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131450" kind="city">
+    <ctml:name>Inyati</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland North</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q1671835</ctml:wikiDataId>
+    <ctml:latitude>-19.67563000</ctml:latitude>
+    <ctml:longitude>28.84687000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131453" kind="city">
+    <ctml:name>Kamativi Mine</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland North</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q31929450</ctml:wikiDataId>
+    <ctml:latitude>-18.31563000</ctml:latitude>
+    <ctml:longitude>27.05729000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131461" kind="city">
+    <ctml:name>Lupane District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland North</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q997614</ctml:wikiDataId>
+    <ctml:latitude>-18.83608000</ctml:latitude>
+    <ctml:longitude>27.99098000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131487" kind="city">
+    <ctml:name>Nkayi</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland North</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q15260492</ctml:wikiDataId>
+    <ctml:latitude>-18.92472000</ctml:latitude>
+    <ctml:longitude>28.71221000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131506" kind="city">
+    <ctml:name>Victoria Falls</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland North</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q1393804</ctml:wikiDataId>
+    <ctml:latitude>-17.93285000</ctml:latitude>
+    <ctml:longitude>25.83066000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131402" kind="city">
+    <ctml:name>Beitbridge</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland South</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q814922</ctml:wikiDataId>
+    <ctml:latitude>-22.21667000</ctml:latitude>
+    <ctml:longitude>30.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131403" kind="city">
+    <ctml:name>Beitbridge District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland South</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q4881482</ctml:wikiDataId>
+    <ctml:latitude>-21.89829000</ctml:latitude>
+    <ctml:longitude>30.07409000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131432" kind="city">
+    <ctml:name>Esigodini</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland South</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q1367662</ctml:wikiDataId>
+    <ctml:latitude>-20.28979000</ctml:latitude>
+    <ctml:longitude>28.92261000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131433" kind="city">
+    <ctml:name>Filabusi</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland South</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q5448263</ctml:wikiDataId>
+    <ctml:latitude>-20.53333000</ctml:latitude>
+    <ctml:longitude>29.28502000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131440" kind="city">
+    <ctml:name>Gwanda District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland South</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q5623288</ctml:wikiDataId>
+    <ctml:latitude>-21.20929000</ctml:latitude>
+    <ctml:longitude>29.17557000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131448" kind="city">
+    <ctml:name>Insiza</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland South</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q31923095</ctml:wikiDataId>
+    <ctml:latitude>-19.78333000</ctml:latitude>
+    <ctml:longitude>29.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131449" kind="city">
+    <ctml:name>Insiza District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland South</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q6038184</ctml:wikiDataId>
+    <ctml:latitude>-20.26431000</ctml:latitude>
+    <ctml:longitude>29.47392000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131465" kind="city">
+    <ctml:name>Mangwe</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland South</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q4996407</ctml:wikiDataId>
+    <ctml:latitude>-20.95545000</ctml:latitude>
+    <ctml:longitude>27.98292000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131471" kind="city">
+    <ctml:name>Matobo</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland South</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q31952019</ctml:wikiDataId>
+    <ctml:latitude>-20.95545000</ctml:latitude>
+    <ctml:longitude>28.49463000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131494" kind="city">
+    <ctml:name>Plumtree</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland South</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q1974068</ctml:wikiDataId>
+    <ctml:latitude>-20.48333000</ctml:latitude>
+    <ctml:longitude>27.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131505" kind="city">
+    <ctml:name>Umzingwane</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Matabeleland South</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q32037668</ctml:wikiDataId>
+    <ctml:latitude>-20.34704000</ctml:latitude>
+    <ctml:longitude>28.94994000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131435" kind="city">
+    <ctml:name>Gokwe</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Midlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q1534487</ctml:wikiDataId>
+    <ctml:latitude>-18.20476000</ctml:latitude>
+    <ctml:longitude>28.93490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131442" kind="city">
+    <ctml:name>Gweru District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Midlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q5623288</ctml:wikiDataId>
+    <ctml:latitude>-19.45665000</ctml:latitude>
+    <ctml:longitude>29.64495000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131457" kind="city">
+    <ctml:name>Kwekwe</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Midlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q31937270</ctml:wikiDataId>
+    <ctml:latitude>-18.92809000</ctml:latitude>
+    <ctml:longitude>29.81486000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131458" kind="city">
+    <ctml:name>Kwekwe District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Midlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q6450306</ctml:wikiDataId>
+    <ctml:latitude>-18.75000000</ctml:latitude>
+    <ctml:longitude>29.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131459" kind="city">
+    <ctml:name>Lalapanzi</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Midlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q6480198</ctml:wikiDataId>
+    <ctml:latitude>-19.33225000</ctml:latitude>
+    <ctml:longitude>30.17768000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131474" kind="city">
+    <ctml:name>Mberengwa</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Midlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q1686393</ctml:wikiDataId>
+    <ctml:latitude>-20.72579000</ctml:latitude>
+    <ctml:longitude>30.00962000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131484" kind="city">
+    <ctml:name>Mvuma</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Midlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q1770169</ctml:wikiDataId>
+    <ctml:latitude>-19.27924000</ctml:latitude>
+    <ctml:longitude>30.52828000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131496" kind="city">
+    <ctml:name>Redcliff</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Midlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q584001</ctml:wikiDataId>
+    <ctml:latitude>-19.03333000</ctml:latitude>
+    <ctml:longitude>29.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131502" kind="city">
+    <ctml:name>Shangani</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Midlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q32017959</ctml:wikiDataId>
+    <ctml:latitude>-19.78333000</ctml:latitude>
+    <ctml:longitude>29.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131503" kind="city">
+    <ctml:name>Shurugwi</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Midlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q32019023</ctml:wikiDataId>
+    <ctml:latitude>-19.67016000</ctml:latitude>
+    <ctml:longitude>30.00589000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131504" kind="city">
+    <ctml:name>Shurugwi District</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Midlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q7505444</ctml:wikiDataId>
+    <ctml:latitude>-19.75000000</ctml:latitude>
+    <ctml:longitude>30.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZWE-131508" kind="city">
+    <ctml:name>Zvishavane</ctml:name>
+    <ctml:country>ZWE</ctml:country>
+    <ctml:admin1>Midlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZW-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q24235929</ctml:wikiDataId>
+    <ctml:latitude>-20.30345000</ctml:latitude>
+    <ctml:longitude>30.07514000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

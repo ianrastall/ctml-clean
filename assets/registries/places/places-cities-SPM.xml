@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SPM-162132" kind="city">
+    <ctml:name>Miquelon-Langlade</ctml:name>
+    <ctml:country>SPM</ctml:country>
+    <ctml:admin1>Saint-Pierre and Miquelon</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-PM</ctml:parentRef>
+    <ctml:wikiDataId>Q570289</ctml:wikiDataId>
+    <ctml:latitude>47.09722222</ctml:latitude>
+    <ctml:longitude>-56.38138889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SPM-162133" kind="city">
+    <ctml:name>Saint-Pierre</ctml:name>
+    <ctml:country>SPM</ctml:country>
+    <ctml:admin1>Saint-Pierre and Miquelon</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-PM</ctml:parentRef>
+    <ctml:wikiDataId>Q185678</ctml:wikiDataId>
+    <ctml:latitude>46.77833333</ctml:latitude>
+    <ctml:longitude>-56.17750000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

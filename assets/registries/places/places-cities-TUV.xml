@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:TUV-108993" kind="city">
+    <ctml:name>Alapi Village</ctml:name>
+    <ctml:country>TUV</ctml:country>
+    <ctml:admin1>Funafuti</ctml:admin1>
+    <ctml:parentRef>place:admin1:TV-FUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1444575</ctml:wikiDataId>
+    <ctml:latitude>-8.52074000</ctml:latitude>
+    <ctml:longitude>179.19680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUV-108995" kind="city">
+    <ctml:name>Fakaifou Village</ctml:name>
+    <ctml:country>TUV</ctml:country>
+    <ctml:admin1>Funafuti</ctml:admin1>
+    <ctml:parentRef>place:admin1:TV-FUN</ctml:parentRef>
+    <ctml:wikiDataId>Q2481883</ctml:wikiDataId>
+    <ctml:latitude>-8.51758000</ctml:latitude>
+    <ctml:longitude>179.20094000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUV-108996" kind="city">
+    <ctml:name>Funafuti</ctml:name>
+    <ctml:country>TUV</ctml:country>
+    <ctml:admin1>Funafuti</ctml:admin1>
+    <ctml:parentRef>place:admin1:TV-FUN</ctml:parentRef>
+    <ctml:wikiDataId>Q2481883</ctml:wikiDataId>
+    <ctml:latitude>-8.52425000</ctml:latitude>
+    <ctml:longitude>179.19417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUV-108998" kind="city">
+    <ctml:name>Niulakita</ctml:name>
+    <ctml:country>TUV</ctml:country>
+    <ctml:admin1>Niutao Island Council</ctml:admin1>
+    <ctml:parentRef>place:admin1:TV-NIT</ctml:parentRef>
+    <ctml:wikiDataId>Q2481883</ctml:wikiDataId>
+    <ctml:latitude>-10.78800000</ctml:latitude>
+    <ctml:longitude>179.46600000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

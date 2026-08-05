@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:JEY-154101" kind="city">
+    <ctml:name>Vingtaine de la Rocque</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>Grouville</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3560208</ctml:wikiDataId>
+    <ctml:latitude>49.17048880</ctml:latitude>
+    <ctml:longitude>-2.03389140</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154098" kind="city">
+    <ctml:name>Vingtaine des Marais</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>Grouville</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3560224</ctml:wikiDataId>
+    <ctml:latitude>49.18556300</ctml:latitude>
+    <ctml:longitude>-2.05042200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154105" kind="city">
+    <ctml:name>Vingtaine de la Moye</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Brelade</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3560207</ctml:wikiDataId>
+    <ctml:latitude>49.18445480</ctml:latitude>
+    <ctml:longitude>-2.23950470</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154102" kind="city">
+    <ctml:name>Vingtaine de Noirmont</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Brelade</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3560193</ctml:wikiDataId>
+    <ctml:latitude>49.17269850</ctml:latitude>
+    <ctml:longitude>-2.22550510</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154104" kind="city">
+    <ctml:name>Vingtaine des Quennevais</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Brelade</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3560225</ctml:wikiDataId>
+    <ctml:latitude>49.19704320</ctml:latitude>
+    <ctml:longitude>-2.21618080</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154103" kind="city">
+    <ctml:name>Vingtaine du Coin</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Brelade</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3560226</ctml:wikiDataId>
+    <ctml:latitude>49.18753960</ctml:latitude>
+    <ctml:longitude>-2.18473710</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154108" kind="city">
+    <ctml:name>Vingtaine de Samarès</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Clement</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3560199</ctml:wikiDataId>
+    <ctml:latitude>49.16497580</ctml:latitude>
+    <ctml:longitude>-2.09880290</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154111" kind="city">
+    <ctml:name>Vingtaine de Bas du Mont au Prêtre</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Helier</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3560182</ctml:wikiDataId>
+    <ctml:latitude>49.19939590</ctml:latitude>
+    <ctml:longitude>-2.11964080</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154112" kind="city">
+    <ctml:name>Vingtaine de Haut du Mont au Prêtre</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Helier</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3560183</ctml:wikiDataId>
+    <ctml:latitude>49.20242510</ctml:latitude>
+    <ctml:longitude>-2.09919230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154109" kind="city">
+    <ctml:name>Vingtaine de la Ville</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Helier</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3560216</ctml:wikiDataId>
+    <ctml:latitude>49.17883320</ctml:latitude>
+    <ctml:longitude>-2.10357590</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154113" kind="city">
+    <ctml:name>Vingtaine du Mont à l'Abbé</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Helier</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3560246</ctml:wikiDataId>
+    <ctml:latitude>49.20036330</ctml:latitude>
+    <ctml:longitude>-2.13384390</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154114" kind="city">
+    <ctml:name>Vingtaine du Mont Cochon</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Helier</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3560243</ctml:wikiDataId>
+    <ctml:latitude>49.19975370</ctml:latitude>
+    <ctml:longitude>-2.14757550</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154110" kind="city">
+    <ctml:name>Vingtaine du Rouge Bouillon</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Helier</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3560257</ctml:wikiDataId>
+    <ctml:latitude>49.19291200</ctml:latitude>
+    <ctml:longitude>-2.10935300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154116" kind="city">
+    <ctml:name>Vingtaine de Hérupe</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St John</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3560186</ctml:wikiDataId>
+    <ctml:latitude>49.23330120</ctml:latitude>
+    <ctml:longitude>-2.12357080</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154117" kind="city">
+    <ctml:name>Vingtaine du Douet</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St John</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3560238</ctml:wikiDataId>
+    <ctml:latitude>49.23459620</ctml:latitude>
+    <ctml:longitude>-2.17227710</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154115" kind="city">
+    <ctml:name>Vingtaine du Nord</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St John</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3560244</ctml:wikiDataId>
+    <ctml:latitude>49.23938780</ctml:latitude>
+    <ctml:longitude>-2.12069720</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154119" kind="city">
+    <ctml:name>Vingtaine Bas de la Vallée</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Lawrence</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-06</ctml:parentRef>
+    <ctml:wikiDataId>Q7932512</ctml:wikiDataId>
+    <ctml:latitude>49.19584680</ctml:latitude>
+    <ctml:longitude>-2.15669220</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154120" kind="city">
+    <ctml:name>Vingtaine du Coin Hatain</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Lawrence</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3560229</ctml:wikiDataId>
+    <ctml:latitude>49.22074360</ctml:latitude>
+    <ctml:longitude>-2.12697490</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154121" kind="city">
+    <ctml:name>Vingtaine du Coin Motier</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Lawrence</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-06</ctml:parentRef>
+    <ctml:wikiDataId>Q634949</ctml:wikiDataId>
+    <ctml:latitude>49.22490170</ctml:latitude>
+    <ctml:longitude>-2.13965400</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154122" kind="city">
+    <ctml:name>Vingtaine du Coin Tourgis Nord</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Lawrence</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3560234</ctml:wikiDataId>
+    <ctml:latitude>49.22924990</ctml:latitude>
+    <ctml:longitude>-2.15092570</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154123" kind="city">
+    <ctml:name>Vingtaine du Coin Tourgis Sud</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Lawrence</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3560236</ctml:wikiDataId>
+    <ctml:latitude>49.21059460</ctml:latitude>
+    <ctml:longitude>-2.15264330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154128" kind="city">
+    <ctml:name>Vingtaine du Fief de la Reine</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Martin</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3560240</ctml:wikiDataId>
+    <ctml:latitude>49.21842770</ctml:latitude>
+    <ctml:longitude>-2.03518790</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154130" kind="city">
+    <ctml:name>Vingtaine du Nord</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Mary</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3560249</ctml:wikiDataId>
+    <ctml:latitude>49.24426390</ctml:latitude>
+    <ctml:longitude>-2.18082260</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154129" kind="city">
+    <ctml:name>Vingtaine du Sud</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Mary</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3560254</ctml:wikiDataId>
+    <ctml:latitude>49.23404250</ctml:latitude>
+    <ctml:longitude>-2.16730840</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154133" kind="city">
+    <ctml:name>Cueillette de Grantez</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Ouen</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3006750</ctml:wikiDataId>
+    <ctml:latitude>49.23123970</ctml:latitude>
+    <ctml:longitude>-2.22339030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154136" kind="city">
+    <ctml:name>Cueillette de Léoville</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Ouen</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3006749</ctml:wikiDataId>
+    <ctml:latitude>49.23803240</ctml:latitude>
+    <ctml:longitude>-2.22634870</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154134" kind="city">
+    <ctml:name>Cueillette de Millais</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Ouen</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3006751</ctml:wikiDataId>
+    <ctml:latitude>49.24085370</ctml:latitude>
+    <ctml:longitude>-2.24330420</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154135" kind="city">
+    <ctml:name>Cueillette de Vinchelez</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Ouen</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3006752</ctml:wikiDataId>
+    <ctml:latitude>49.24447800</ctml:latitude>
+    <ctml:longitude>-2.23905430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154132" kind="city">
+    <ctml:name>Grande Cueillette</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Ouen</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3114931</ctml:wikiDataId>
+    <ctml:latitude>49.22331000</ctml:latitude>
+    <ctml:longitude>-2.21609880</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154131" kind="city">
+    <ctml:name>Petite Cueillette</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Ouen</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3377350</ctml:wikiDataId>
+    <ctml:latitude>49.22456770</ctml:latitude>
+    <ctml:longitude>-2.19656550</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154138" kind="city">
+    <ctml:name>Grande Vingtaine</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Peter</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-10</ctml:parentRef>
+    <ctml:wikiDataId>Q15813115</ctml:wikiDataId>
+    <ctml:latitude>49.21065500</ctml:latitude>
+    <ctml:longitude>-2.19606360</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154139" kind="city">
+    <ctml:name>Vingtaine des Augerez</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Peter</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3560218</ctml:wikiDataId>
+    <ctml:latitude>49.20776790</ctml:latitude>
+    <ctml:longitude>-2.18629780</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154140" kind="city">
+    <ctml:name>Vingtaine du Coin Varin</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Peter</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3560232</ctml:wikiDataId>
+    <ctml:latitude>49.21451950</ctml:latitude>
+    <ctml:longitude>-2.18722550</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154137" kind="city">
+    <ctml:name>Vingtaine du Douet</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Peter</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3560237</ctml:wikiDataId>
+    <ctml:latitude>49.20988070</ctml:latitude>
+    <ctml:longitude>-2.18453420</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154141" kind="city">
+    <ctml:name>Vingtaine de la Petite Longueville</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Saviour</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2424564</ctml:wikiDataId>
+    <ctml:latitude>49.18090340</ctml:latitude>
+    <ctml:longitude>-2.08121620</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154143" kind="city">
+    <ctml:name>Vingtaine de Maufant</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Saviour</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3560189</ctml:wikiDataId>
+    <ctml:latitude>49.20822960</ctml:latitude>
+    <ctml:longitude>-2.10060600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154144" kind="city">
+    <ctml:name>Vingtaine de Sous la Hougue</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Saviour</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3560200</ctml:wikiDataId>
+    <ctml:latitude>49.21377110</ctml:latitude>
+    <ctml:longitude>-2.13576620</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154145" kind="city">
+    <ctml:name>Vingtaine des Pigneaux</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>St Saviour</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3560222</ctml:wikiDataId>
+    <ctml:latitude>49.20262700</ctml:latitude>
+    <ctml:longitude>-2.07080670</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154151" kind="city">
+    <ctml:name>Vingtaine de la Croiserie</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>Trinity</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-12</ctml:parentRef>
+    <ctml:wikiDataId>Q3560201</ctml:wikiDataId>
+    <ctml:latitude>49.21646930</ctml:latitude>
+    <ctml:longitude>-2.09164410</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154147" kind="city">
+    <ctml:name>Vingtaine de la Ville-à-l'Évêque</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>Trinity</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-12</ctml:parentRef>
+    <ctml:wikiDataId>Q3560214</ctml:wikiDataId>
+    <ctml:latitude>49.23176480</ctml:latitude>
+    <ctml:longitude>-2.12236840</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154150" kind="city">
+    <ctml:name>Vingtaine des Augrès</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>Trinity</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-12</ctml:parentRef>
+    <ctml:wikiDataId>Q3560219</ctml:wikiDataId>
+    <ctml:latitude>49.22857290</ctml:latitude>
+    <ctml:longitude>-2.08235050</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JEY-154149" kind="city">
+    <ctml:name>Vingtaine du Rondin</ctml:name>
+    <ctml:country>JEY</ctml:country>
+    <ctml:admin1>Trinity</ctml:admin1>
+    <ctml:parentRef>place:admin1:JE-12</ctml:parentRef>
+    <ctml:wikiDataId>Q3560251</ctml:wikiDataId>
+    <ctml:latitude>49.23706240</ctml:latitude>
+    <ctml:longitude>-2.08753310</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

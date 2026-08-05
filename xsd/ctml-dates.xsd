@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:ctml="urn:ctml:2.0"
+  targetNamespace="urn:ctml:2.0"
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified">
+
+  <xs:annotation>
+    <xs:documentation>
+      CTML 2.0 - Partial dates and date ranges.
+
+      Split out of the v1 ctml-namedate.xsd module (see
+      reference/v1-xsd/ctml-namedate.xsd) so that names and dates are two
+      independently-cohesive modules instead of one bundled "added later"
+      file.
+
+      v1's PartialDateType used an XSD 1.1 xs:assert to enforce that the set
+      of present attributes (@m, @d, @iso) matched the declared @precision.
+      XSD 1.0 has no cross-attribute conditional-required mechanism (xs:choice
+      only works over element content, not attributes), so this is
+      restructured as a choice of three distinct precision-specific complex
+      types (YearPrecisionDateType / MonthPrecisionDateType /
+      DayPrecisionDateType), selected via a child element (year/month/day)
+      instead of a single flat attribute bag. This makes each precision
+      level's required fields structurally required rather than
+      assert-enforced, and makes the old @precision attribute redundant (it's
+      now implied by which child element is present), so it's dropped.
+
+      The old DateRangeType assert enforcing start/@iso &lt;= end/@iso is a
+      true cross-sibling comparison, which XSD 1.0 genuinely cannot express.
+      That check moves to the Python import pipeline.
+    </xs:documentation>
+  </xs:annotation>
+
+  <xs:simpleType name="YearType">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="9999"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="MonthType">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="1"/>
+      <xs:maxInclusive value="12"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="DayType">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="1"/>
+      <xs:maxInclusive value="31"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="YearPrecisionDateType">
+    <xs:attribute name="y" type="ctml:YearType" use="required"/>
+    <xs:attribute name="raw" type="xs:string" use="optional"/>
+  </xs:complexType>
+
+  <xs:complexType name="MonthPrecisionDateType">
+    <xs:attribute name="y" type="ctml:YearType" use="required"/>
+    <xs:attribute name="m" type="ctml:MonthType" use="required"/>
+    <xs:attribute name="raw" type="xs:string" use="optional"/>
+  </xs:complexType>
+
+  <xs:complexType name="DayPrecisionDateType">
+    <xs:attribute name="y" type="ctml:YearType" use="required"/>
+    <xs:attribute name="m" type="ctml:MonthType" use="required"/>
+    <xs:attribute name="d" type="ctml:DayType" use="required"/>
+    <!-- Only meaningful (and only allowed) at day precision, so it lives
+         here rather than as a cross-checked optional attribute on a flat type. -->
+    <xs:attribute name="iso" type="xs:date" use="optional"/>
+    <xs:attribute name="raw" type="xs:string" use="optional"/>
+  </xs:complexType>
+
+  <!-- A partial date is exactly one of year/month/day precision. The
+       precision is the element name itself; there is no separate
+       @precision attribute to keep in sync. -->
+  <xs:complexType name="PartialDateType">
+    <xs:choice>
+      <xs:element name="year" type="ctml:YearPrecisionDateType"/>
+      <xs:element name="month" type="ctml:MonthPrecisionDateType"/>
+      <xs:element name="day" type="ctml:DayPrecisionDateType"/>
+    </xs:choice>
+  </xs:complexType>
+
+  <xs:complexType name="DateRangeType">
+    <xs:sequence>
+      <xs:element name="start" type="ctml:PartialDateType"/>
+      <xs:element name="end" type="ctml:PartialDateType"/>
+    </xs:sequence>
+    <!-- start <= end (when both are day-precision with @iso) is enforced by
+         the Python import pipeline, not here: a true cross-sibling value
+         comparison, which XSD 1.0 cannot express. -->
+  </xs:complexType>
+
+</xs:schema>

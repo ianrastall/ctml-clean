@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:GRD-52032" kind="city">
+    <ctml:name>Saint George's</ctml:name>
+    <ctml:country>GRD</ctml:country>
+    <ctml:admin1>Saint George</ctml:admin1>
+    <ctml:parentRef>place:admin1:GD-03</ctml:parentRef>
+    <ctml:wikiDataId>Q41547</ctml:wikiDataId>
+    <ctml:latitude>12.05288000</ctml:latitude>
+    <ctml:longitude>-61.75226000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

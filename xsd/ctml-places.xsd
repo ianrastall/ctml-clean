@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:ctml="urn:ctml:2.0"
+  targetNamespace="urn:ctml:2.0"
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified">
+
+  <xs:annotation>
+    <xs:documentation>
+      CTML 2.0 - Places: place references (for tournaments) and place
+      registry (canonical places). Carried over unchanged from
+      reference/v1-xsd/ctml-places.xsd; this module had no XSD 1.1 asserts.
+    </xs:documentation>
+  </xs:annotation>
+
+  <xs:element name="placeRef" type="ctml:PlaceRefType"/>
+  <xs:element name="placeRegistry" type="ctml:PlaceRegistryType"/>
+
+  <!-- For tournament/event files -->
+  <xs:complexType name="PlaceRefType">
+    <xs:sequence>
+      <xs:element name="name" type="xs:string" minOccurs="0"/>
+      <xs:element name="country" type="ctml:Iso3CountryCodeType" minOccurs="0"/>
+      <xs:element name="admin1" type="xs:string" minOccurs="0"/>
+      <xs:element name="admin2" type="xs:string" minOccurs="0"/>
+      <xs:element name="city" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute name="ref" type="xs:token" use="required"/>
+    <xs:attribute name="kind" type="ctml:PlaceKindType" use="optional"/>
+    <xs:attribute name="source" type="xs:anyURI" use="optional"/>
+  </xs:complexType>
+
+  <!-- Canonical place record extends the reference -->
+  <xs:complexType name="PlaceType">
+    <xs:complexContent>
+      <xs:extension base="ctml:PlaceRefType">
+        <xs:sequence>
+          <xs:element name="parentRef" type="xs:token" minOccurs="0"/>
+          <xs:element name="iso2" type="ctml:Iso2CountryCodeType" minOccurs="0"/>
+          <xs:element name="iso3" type="ctml:Iso3CountryCodeType" minOccurs="0"/>
+          <xs:element name="wikiDataId" type="xs:token" minOccurs="0"/>
+          <xs:element name="latitude" type="xs:decimal" minOccurs="0"/>
+          <xs:element name="longitude" type="xs:decimal" minOccurs="0"/>
+          <xs:element name="altNames" type="ctml:AltNameSetType" minOccurs="0"/>
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+
+  <xs:complexType name="AltNameSetType">
+    <xs:sequence>
+      <xs:element name="altName" type="ctml:AltNameType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="AltNameType" mixed="true">
+    <xs:attribute name="lang" type="ctml:LanguageTagType" use="optional"/>
+  </xs:complexType>
+
+  <xs:complexType name="PlaceRegistryType">
+    <xs:sequence>
+      <xs:element name="place" type="ctml:PlaceType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="ctmlVersion" type="xs:token" use="required"/>
+    <xs:attribute name="generated" type="xs:dateTime" use="optional"/>
+    <xs:attribute name="source" type="xs:anyURI" use="optional"/>
+  </xs:complexType>
+
+</xs:schema>

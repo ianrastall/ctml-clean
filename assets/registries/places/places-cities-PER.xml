@@ -1,0 +1,4125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:PER-80572" kind="city">
+    <ctml:name>Bagua Grande</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AMA</ctml:parentRef>
+    <ctml:wikiDataId>Q793765</ctml:wikiDataId>
+    <ctml:latitude>-5.75611000</ctml:latitude>
+    <ctml:longitude>-78.44111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80582" kind="city">
+    <ctml:name>Cajaruro</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AMA</ctml:parentRef>
+    <ctml:wikiDataId>Q205119</ctml:wikiDataId>
+    <ctml:latitude>-5.73639000</ctml:latitude>
+    <ctml:longitude>-78.42556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80632" kind="city">
+    <ctml:name>Condorcanqui</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AMA</ctml:parentRef>
+    <ctml:wikiDataId>Q1288434</ctml:wikiDataId>
+    <ctml:latitude>-4.16515000</ctml:latitude>
+    <ctml:longitude>-78.03840000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80689" kind="city">
+    <ctml:name>La Peca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AMA</ctml:parentRef>
+    <ctml:wikiDataId>Q1759360</ctml:wikiDataId>
+    <ctml:latitude>-5.61111000</ctml:latitude>
+    <ctml:longitude>-78.43500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80781" kind="city">
+    <ctml:name>Provincia de Bagua</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AMA</ctml:parentRef>
+    <ctml:wikiDataId>Q1366082</ctml:wikiDataId>
+    <ctml:latitude>-5.09006000</ctml:latitude>
+    <ctml:longitude>-78.39972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80784" kind="city">
+    <ctml:name>Provincia de Bongará</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AMA</ctml:parentRef>
+    <ctml:wikiDataId>Q1342814</ctml:wikiDataId>
+    <ctml:latitude>-5.68341000</ctml:latitude>
+    <ctml:longitude>-77.87308000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80803" kind="city">
+    <ctml:name>Provincia de Chachapoyas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AMA</ctml:parentRef>
+    <ctml:wikiDataId>Q997406</ctml:wikiDataId>
+    <ctml:latitude>-6.27480000</ctml:latitude>
+    <ctml:longitude>-77.81067000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80857" kind="city">
+    <ctml:name>Provincia de Luya</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AMA</ctml:parentRef>
+    <ctml:wikiDataId>Q268277</ctml:wikiDataId>
+    <ctml:latitude>-6.41667000</ctml:latitude>
+    <ctml:longitude>-78.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80885" kind="city">
+    <ctml:name>Provincia de Rodríguez de Mendoza</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AMA</ctml:parentRef>
+    <ctml:wikiDataId>Q1366038</ctml:wikiDataId>
+    <ctml:latitude>-6.33333000</ctml:latitude>
+    <ctml:longitude>-77.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81006" kind="city">
+    <ctml:name>Utcubamba</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AMA</ctml:parentRef>
+    <ctml:wikiDataId>Q941183</ctml:wikiDataId>
+    <ctml:latitude>-5.77031000</ctml:latitude>
+    <ctml:longitude>-78.32850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80564" kind="city">
+    <ctml:name>Asuncion</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1166116</ctml:wikiDataId>
+    <ctml:latitude>-9.18987000</ctml:latitude>
+    <ctml:longitude>-77.39878000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80594" kind="city">
+    <ctml:name>Carás</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1035471</ctml:wikiDataId>
+    <ctml:latitude>-9.04692000</ctml:latitude>
+    <ctml:longitude>-77.80901000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80592" kind="city">
+    <ctml:name>Carhuaz</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1036082</ctml:wikiDataId>
+    <ctml:latitude>-9.28194000</ctml:latitude>
+    <ctml:longitude>-77.64472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80593" kind="city">
+    <ctml:name>Carlos Fermin Fitzcarrald</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q633478</ctml:wikiDataId>
+    <ctml:latitude>-9.04415000</ctml:latitude>
+    <ctml:longitude>-77.24168000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80615" kind="city">
+    <ctml:name>Chimbote</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q518431</ctml:wikiDataId>
+    <ctml:latitude>-9.08528000</ctml:latitude>
+    <ctml:longitude>-78.57833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80628" kind="city">
+    <ctml:name>Coishco</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q3344173</ctml:wikiDataId>
+    <ctml:latitude>-9.02306000</ctml:latitude>
+    <ctml:longitude>-78.61556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80658" kind="city">
+    <ctml:name>Huarmey</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q430862</ctml:wikiDataId>
+    <ctml:latitude>-10.06806000</ctml:latitude>
+    <ctml:longitude>-78.15222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80766" kind="city">
+    <ctml:name>Pomabamba</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q3322611</ctml:wikiDataId>
+    <ctml:latitude>-8.83333000</ctml:latitude>
+    <ctml:longitude>-77.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80770" kind="city">
+    <ctml:name>Provincia de Aija</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q615891</ctml:wikiDataId>
+    <ctml:latitude>-9.83333000</ctml:latitude>
+    <ctml:longitude>-77.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80776" kind="city">
+    <ctml:name>Provincia de Antonio Raymondi</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1166121</ctml:wikiDataId>
+    <ctml:latitude>-9.08333000</ctml:latitude>
+    <ctml:longitude>-77.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80782" kind="city">
+    <ctml:name>Provincia de Bolognesi</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1166113</ctml:wikiDataId>
+    <ctml:latitude>-10.10723000</ctml:latitude>
+    <ctml:longitude>-77.14804000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80796" kind="city">
+    <ctml:name>Provincia de Carhuaz</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1166126</ctml:wikiDataId>
+    <ctml:latitude>-9.31700000</ctml:latitude>
+    <ctml:longitude>-77.55100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80797" kind="city">
+    <ctml:name>Provincia de Casma</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q747503</ctml:wikiDataId>
+    <ctml:latitude>-9.47638000</ctml:latitude>
+    <ctml:longitude>-78.24738000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80816" kind="city">
+    <ctml:name>Provincia de Corongo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1166124</ctml:wikiDataId>
+    <ctml:latitude>-8.58333000</ctml:latitude>
+    <ctml:longitude>-77.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80837" kind="city">
+    <ctml:name>Provincia de Huaraz</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1140995</ctml:wikiDataId>
+    <ctml:latitude>-9.56109000</ctml:latitude>
+    <ctml:longitude>-77.64605000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80838" kind="city">
+    <ctml:name>Provincia de Huari</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1779705</ctml:wikiDataId>
+    <ctml:latitude>-9.33333000</ctml:latitude>
+    <ctml:longitude>-77.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80839" kind="city">
+    <ctml:name>Provincia de Huarmey</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1779624</ctml:wikiDataId>
+    <ctml:latitude>-9.91667000</ctml:latitude>
+    <ctml:longitude>-78.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80841" kind="city">
+    <ctml:name>Provincia de Huaylas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1779670</ctml:wikiDataId>
+    <ctml:latitude>-8.91667000</ctml:latitude>
+    <ctml:longitude>-77.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80861" kind="city">
+    <ctml:name>Provincia de Mariscal Luzuriaga</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1779663</ctml:wikiDataId>
+    <ctml:latitude>-8.83333000</ctml:latitude>
+    <ctml:longitude>-77.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80871" kind="city">
+    <ctml:name>Provincia de Pallasca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1779654</ctml:wikiDataId>
+    <ctml:latitude>-8.33333000</ctml:latitude>
+    <ctml:longitude>-77.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80880" kind="city">
+    <ctml:name>Provincia de Pomabamba</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1779643</ctml:wikiDataId>
+    <ctml:latitude>-8.82311000</ctml:latitude>
+    <ctml:longitude>-77.47559000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80883" kind="city">
+    <ctml:name>Provincia de Recuay</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1779720</ctml:wikiDataId>
+    <ctml:latitude>-10.00000000</ctml:latitude>
+    <ctml:longitude>-77.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80890" kind="city">
+    <ctml:name>Provincia de Santa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1779734</ctml:wikiDataId>
+    <ctml:latitude>-9.00000000</ctml:latitude>
+    <ctml:longitude>-78.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80894" kind="city">
+    <ctml:name>Provincia de Sihuas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1779714</ctml:wikiDataId>
+    <ctml:latitude>-8.50000000</ctml:latitude>
+    <ctml:longitude>-77.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80911" kind="city">
+    <ctml:name>Provincia de Yungay</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q1798739</ctml:wikiDataId>
+    <ctml:latitude>-9.16667000</ctml:latitude>
+    <ctml:longitude>-77.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80919" kind="city">
+    <ctml:name>Puerto Santa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q541435</ctml:wikiDataId>
+    <ctml:latitude>-8.98772000</ctml:latitude>
+    <ctml:longitude>-78.64727000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81017" kind="city">
+    <ctml:name>Yauya</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q2088849</ctml:wikiDataId>
+    <ctml:latitude>-8.98333000</ctml:latitude>
+    <ctml:longitude>-77.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81018" kind="city">
+    <ctml:name>Yungay</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Áncash</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ANC</ctml:parentRef>
+    <ctml:wikiDataId>Q919678</ctml:wikiDataId>
+    <ctml:latitude>-9.13833000</ctml:latitude>
+    <ctml:longitude>-77.74361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80559" kind="city">
+    <ctml:name>Andahuaylas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Apurímac</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-APU</ctml:parentRef>
+    <ctml:wikiDataId>Q489660</ctml:wikiDataId>
+    <ctml:latitude>-13.65556000</ctml:latitude>
+    <ctml:longitude>-73.38722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80772" kind="city">
+    <ctml:name>Provincia de Andahuaylas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Apurímac</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-APU</ctml:parentRef>
+    <ctml:wikiDataId>Q1798747</ctml:wikiDataId>
+    <ctml:latitude>-13.66667000</ctml:latitude>
+    <ctml:longitude>-73.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80775" kind="city">
+    <ctml:name>Provincia de Antabamba</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Apurímac</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-APU</ctml:parentRef>
+    <ctml:wikiDataId>Q1814228</ctml:wikiDataId>
+    <ctml:latitude>-14.41667000</ctml:latitude>
+    <ctml:longitude>-72.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80779" kind="city">
+    <ctml:name>Provincia de Aymaraes</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Apurímac</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-APU</ctml:parentRef>
+    <ctml:wikiDataId>Q1814234</ctml:wikiDataId>
+    <ctml:latitude>-14.41667000</ctml:latitude>
+    <ctml:longitude>-73.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80817" kind="city">
+    <ctml:name>Provincia de Cotabambas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Apurímac</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-APU</ctml:parentRef>
+    <ctml:wikiDataId>Q1814244</ctml:wikiDataId>
+    <ctml:latitude>-14.00000000</ctml:latitude>
+    <ctml:longitude>-72.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80825" kind="city">
+    <ctml:name>Provincia de Grau</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Apurímac</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-APU</ctml:parentRef>
+    <ctml:wikiDataId>Q1814172</ctml:wikiDataId>
+    <ctml:latitude>-14.00000000</ctml:latitude>
+    <ctml:longitude>-72.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80984" kind="city">
+    <ctml:name>Talavera</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Apurímac</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-APU</ctml:parentRef>
+    <ctml:wikiDataId>Q723584</ctml:wikiDataId>
+    <ctml:latitude>-13.65306000</ctml:latitude>
+    <ctml:longitude>-73.42917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80555" kind="city">
+    <ctml:name>Acarí</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q25247498</ctml:wikiDataId>
+    <ctml:latitude>-15.42393000</ctml:latitude>
+    <ctml:longitude>-74.61361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80588" kind="city">
+    <ctml:name>Camaná</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q1028011</ctml:wikiDataId>
+    <ctml:latitude>-16.62375000</ctml:latitude>
+    <ctml:longitude>-72.71055000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80598" kind="city">
+    <ctml:name>Ccolo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q3312424</ctml:wikiDataId>
+    <ctml:latitude>-15.50611000</ctml:latitude>
+    <ctml:longitude>-71.49184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80619" kind="city">
+    <ctml:name>Chivay</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q2351933</ctml:wikiDataId>
+    <ctml:latitude>-15.63833000</ctml:latitude>
+    <ctml:longitude>-71.60111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80627" kind="city">
+    <ctml:name>Cocachacra</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q3344173</ctml:wikiDataId>
+    <ctml:latitude>-17.08833000</ctml:latitude>
+    <ctml:longitude>-71.75750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80634" kind="city">
+    <ctml:name>Cotahuasi</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q2638258</ctml:wikiDataId>
+    <ctml:latitude>-15.21306000</ctml:latitude>
+    <ctml:longitude>-72.88861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80655" kind="city">
+    <ctml:name>Huarancante</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q723677</ctml:wikiDataId>
+    <ctml:latitude>-15.76803000</ctml:latitude>
+    <ctml:longitude>-71.45952000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80657" kind="city">
+    <ctml:name>Huarichancara</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q793809</ctml:wikiDataId>
+    <ctml:latitude>-15.63972000</ctml:latitude>
+    <ctml:longitude>-71.06111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80673" kind="city">
+    <ctml:name>Jatun Orcochiri</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q1000341</ctml:wikiDataId>
+    <ctml:latitude>-15.75003000</ctml:latitude>
+    <ctml:longitude>-71.34641000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80677" kind="city">
+    <ctml:name>Jayune</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q917434</ctml:wikiDataId>
+    <ctml:latitude>-15.56277000</ctml:latitude>
+    <ctml:longitude>-71.30312000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80704" kind="city">
+    <ctml:name>Llongasora</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q3344864</ctml:wikiDataId>
+    <ctml:latitude>-15.63951000</ctml:latitude>
+    <ctml:longitude>-71.29921000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80705" kind="city">
+    <ctml:name>Lluta</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q3344864</ctml:wikiDataId>
+    <ctml:latitude>-16.01472000</ctml:latitude>
+    <ctml:longitude>-72.01417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80717" kind="city">
+    <ctml:name>Mollendo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q2351948</ctml:wikiDataId>
+    <ctml:latitude>-17.02306000</ctml:latitude>
+    <ctml:longitude>-72.01472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80733" kind="city">
+    <ctml:name>Orcopampa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q916382</ctml:wikiDataId>
+    <ctml:latitude>-15.26611000</ctml:latitude>
+    <ctml:longitude>-72.34167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80777" kind="city">
+    <ctml:name>Provincia de Arequipa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q601118</ctml:wikiDataId>
+    <ctml:latitude>-16.33333000</ctml:latitude>
+    <ctml:longitude>-71.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80789" kind="city">
+    <ctml:name>Provincia de Camaná</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q1784851</ctml:wikiDataId>
+    <ctml:latitude>-16.41667000</ctml:latitude>
+    <ctml:longitude>-72.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80795" kind="city">
+    <ctml:name>Provincia de Caravelí</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q1779727</ctml:wikiDataId>
+    <ctml:latitude>-15.58333000</ctml:latitude>
+    <ctml:longitude>-74.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80798" kind="city">
+    <ctml:name>Provincia de Castilla</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q614628</ctml:wikiDataId>
+    <ctml:latitude>-15.58333000</ctml:latitude>
+    <ctml:longitude>-72.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80800" kind="city">
+    <ctml:name>Provincia de Caylloma</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q1806435</ctml:wikiDataId>
+    <ctml:latitude>-15.66667000</ctml:latitude>
+    <ctml:longitude>-71.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80812" kind="city">
+    <ctml:name>Provincia de Condesuyos</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q1814253</ctml:wikiDataId>
+    <ctml:latitude>-15.58333000</ctml:latitude>
+    <ctml:longitude>-72.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80845" kind="city">
+    <ctml:name>Provincia de Islay</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q1779688</ctml:wikiDataId>
+    <ctml:latitude>-17.00000000</ctml:latitude>
+    <ctml:longitude>-71.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80851" kind="city">
+    <ctml:name>Provincia de La Unión</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q1779698</ctml:wikiDataId>
+    <ctml:latitude>-15.00000000</ctml:latitude>
+    <ctml:longitude>-72.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80914" kind="city">
+    <ctml:name>Pucara</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q217071</ctml:wikiDataId>
+    <ctml:latitude>-15.97993000</ctml:latitude>
+    <ctml:longitude>-71.45988000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80923" kind="city">
+    <ctml:name>Punta de Bombón</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q232842</ctml:wikiDataId>
+    <ctml:latitude>-17.17190000</ctml:latitude>
+    <ctml:longitude>-71.79240000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81012" kind="city">
+    <ctml:name>Vizcachane</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q3344843</ctml:wikiDataId>
+    <ctml:latitude>-15.80861000</ctml:latitude>
+    <ctml:longitude>-71.20111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81020" kind="city">
+    <ctml:name>Yura</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Arequipa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ARE</ctml:parentRef>
+    <ctml:wikiDataId>Q2306609</ctml:wikiDataId>
+    <ctml:latitude>-16.25223000</ctml:latitude>
+    <ctml:longitude>-71.67969000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80570" kind="city">
+    <ctml:name>Ayna</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q3344141</ctml:wikiDataId>
+    <ctml:latitude>-12.65000000</ctml:latitude>
+    <ctml:longitude>-73.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80633" kind="city">
+    <ctml:name>Coracora</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q763662</ctml:wikiDataId>
+    <ctml:latitude>-15.03333000</ctml:latitude>
+    <ctml:longitude>-73.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80653" kind="city">
+    <ctml:name>Huanta</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q2158344</ctml:wikiDataId>
+    <ctml:latitude>-12.93333000</ctml:latitude>
+    <ctml:longitude>-74.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80755" kind="city">
+    <ctml:name>Paucar Del Sara Sara</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q1806437</ctml:wikiDataId>
+    <ctml:latitude>-15.12275000</ctml:latitude>
+    <ctml:longitude>-73.26177000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80792" kind="city">
+    <ctml:name>Provincia de Cangallo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q1814190</ctml:wikiDataId>
+    <ctml:latitude>-13.57300000</ctml:latitude>
+    <ctml:longitude>-74.38900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80829" kind="city">
+    <ctml:name>Provincia de Huamanga</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q1784857</ctml:wikiDataId>
+    <ctml:latitude>-13.20000000</ctml:latitude>
+    <ctml:longitude>-74.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80830" kind="city">
+    <ctml:name>Provincia de Huanca Sancos</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q1808513</ctml:wikiDataId>
+    <ctml:latitude>-14.07600000</ctml:latitude>
+    <ctml:longitude>-74.42800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80835" kind="city">
+    <ctml:name>Provincia de Huanta</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q930214</ctml:wikiDataId>
+    <ctml:latitude>-12.50000000</ctml:latitude>
+    <ctml:longitude>-74.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80850" kind="city">
+    <ctml:name>Provincia de La Mar</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q514494</ctml:wikiDataId>
+    <ctml:latitude>-12.91667000</ctml:latitude>
+    <ctml:longitude>-73.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80856" kind="city">
+    <ctml:name>Provincia de Lucanas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q1814203</ctml:wikiDataId>
+    <ctml:latitude>-14.50000000</ctml:latitude>
+    <ctml:longitude>-74.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80873" kind="city">
+    <ctml:name>Provincia de Parinacochas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q549969</ctml:wikiDataId>
+    <ctml:latitude>-15.02965000</ctml:latitude>
+    <ctml:longitude>-73.63487000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80895" kind="city">
+    <ctml:name>Provincia de Sucre</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q1814180</ctml:wikiDataId>
+    <ctml:latitude>-14.10300000</ctml:latitude>
+    <ctml:longitude>-73.78600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80908" kind="city">
+    <ctml:name>Provincia de Víctor Fajardo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q1947116</ctml:wikiDataId>
+    <ctml:latitude>-13.75000000</ctml:latitude>
+    <ctml:longitude>-74.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80907" kind="city">
+    <ctml:name>Provincia de Vilcas Huamán</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q537708</ctml:wikiDataId>
+    <ctml:latitude>-13.63200000</ctml:latitude>
+    <ctml:longitude>-73.88800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80924" kind="city">
+    <ctml:name>Puquio</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q2726653</ctml:wikiDataId>
+    <ctml:latitude>-14.70000000</ctml:latitude>
+    <ctml:longitude>-74.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PER-80951" kind="admin2">
+    <ctml:name>San Miguel</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q2726675</ctml:wikiDataId>
+    <ctml:latitude>-13.01250000</ctml:latitude>
+    <ctml:longitude>-73.98083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80985" kind="city">
+    <ctml:name>Tambo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ayacucho</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-AYA</ctml:parentRef>
+    <ctml:wikiDataId>Q723584</ctml:wikiDataId>
+    <ctml:latitude>-14.79847000</ctml:latitude>
+    <ctml:longitude>-73.92438000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80573" kind="city">
+    <ctml:name>Bambamarca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3348274</ctml:wikiDataId>
+    <ctml:latitude>-6.68333000</ctml:latitude>
+    <ctml:longitude>-78.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80580" kind="city">
+    <ctml:name>Cajabamba</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3344351</ctml:wikiDataId>
+    <ctml:latitude>-7.61667000</ctml:latitude>
+    <ctml:longitude>-78.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PER-80600" kind="admin2">
+    <ctml:name>Celendín</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3344002</ctml:wikiDataId>
+    <ctml:latitude>-6.86590000</ctml:latitude>
+    <ctml:longitude>-78.14585000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80623" kind="city">
+    <ctml:name>Chota</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2964558</ctml:wikiDataId>
+    <ctml:latitude>-6.55000000</ctml:latitude>
+    <ctml:longitude>-78.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80678" kind="city">
+    <ctml:name>Jaén</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1229885</ctml:wikiDataId>
+    <ctml:latitude>-5.70729000</ctml:latitude>
+    <ctml:longitude>-78.80785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80785" kind="city">
+    <ctml:name>Provincia de Cajabamba</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q751373</ctml:wikiDataId>
+    <ctml:latitude>-7.50000000</ctml:latitude>
+    <ctml:longitude>-78.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80786" kind="city">
+    <ctml:name>Provincia de Cajamarca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1431135</ctml:wikiDataId>
+    <ctml:latitude>-7.33333000</ctml:latitude>
+    <ctml:longitude>-78.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80802" kind="city">
+    <ctml:name>Provincia de Celendín</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1431153</ctml:wikiDataId>
+    <ctml:latitude>-6.83333000</ctml:latitude>
+    <ctml:longitude>-78.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80806" kind="city">
+    <ctml:name>Provincia de Chota</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1431140</ctml:wikiDataId>
+    <ctml:latitude>-6.38332000</ctml:latitude>
+    <ctml:longitude>-79.18055000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80814" kind="city">
+    <ctml:name>Provincia de Contumazá</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1948003</ctml:wikiDataId>
+    <ctml:latitude>-7.33333000</ctml:latitude>
+    <ctml:longitude>-78.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80819" kind="city">
+    <ctml:name>Provincia de Cutervo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1947910</ctml:wikiDataId>
+    <ctml:latitude>-6.36667000</ctml:latitude>
+    <ctml:longitude>-78.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80826" kind="city">
+    <ctml:name>Provincia de Hualgayoc</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1947926</ctml:wikiDataId>
+    <ctml:latitude>-6.68000000</ctml:latitude>
+    <ctml:longitude>-78.53000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80847" kind="city">
+    <ctml:name>Provincia de Jaén</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q683949</ctml:wikiDataId>
+    <ctml:latitude>-5.71074000</ctml:latitude>
+    <ctml:longitude>-79.00438000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80886" kind="city">
+    <ctml:name>Provincia de San Ignacio</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1814197</ctml:wikiDataId>
+    <ctml:latitude>-5.08333000</ctml:latitude>
+    <ctml:longitude>-79.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80888" kind="city">
+    <ctml:name>Provincia de San Miguel</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1947960</ctml:wikiDataId>
+    <ctml:latitude>-7.00000000</ctml:latitude>
+    <ctml:longitude>-79.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80891" kind="city">
+    <ctml:name>Provincia de Santa Cruz</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2084630</ctml:wikiDataId>
+    <ctml:latitude>-6.83333000</ctml:latitude>
+    <ctml:longitude>-79.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80944" kind="city">
+    <ctml:name>San Ignacio</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cajamarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q11011907</ctml:wikiDataId>
+    <ctml:latitude>-5.14583000</ctml:latitude>
+    <ctml:longitude>-79.00139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80560" kind="city">
+    <ctml:name>Anta</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q3348268</ctml:wikiDataId>
+    <ctml:latitude>-13.47056000</ctml:latitude>
+    <ctml:longitude>-72.14833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80579" kind="city">
+    <ctml:name>Cahuanuyo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q3344055</ctml:wikiDataId>
+    <ctml:latitude>-14.34147000</ctml:latitude>
+    <ctml:longitude>-71.46311000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80584" kind="city">
+    <ctml:name>Calca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q3344215</ctml:wikiDataId>
+    <ctml:latitude>-13.33333000</ctml:latitude>
+    <ctml:longitude>-71.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80586" kind="city">
+    <ctml:name>Callanca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q3344215</ctml:wikiDataId>
+    <ctml:latitude>-14.18137000</ctml:latitude>
+    <ctml:longitude>-71.14070000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80597" kind="city">
+    <ctml:name>Ccaquiracunca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q3312424</ctml:wikiDataId>
+    <ctml:latitude>-14.27683000</ctml:latitude>
+    <ctml:longitude>-71.45026000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80599" kind="city">
+    <ctml:name>Ccuntuma</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q3312424</ctml:wikiDataId>
+    <ctml:latitude>-14.12540000</ctml:latitude>
+    <ctml:longitude>-71.41216000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80607" kind="city">
+    <ctml:name>Checacupe</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q765311</ctml:wikiDataId>
+    <ctml:latitude>-14.02694000</ctml:latitude>
+    <ctml:longitude>-71.45278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80608" kind="city">
+    <ctml:name>Checca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q765311</ctml:wikiDataId>
+    <ctml:latitude>-14.47278000</ctml:latitude>
+    <ctml:longitude>-71.39389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80613" kind="city">
+    <ctml:name>Chignayhua</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q260911</ctml:wikiDataId>
+    <ctml:latitude>-14.24610000</ctml:latitude>
+    <ctml:longitude>-71.44442000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80617" kind="city">
+    <ctml:name>Chinchero</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q26764442</ctml:wikiDataId>
+    <ctml:latitude>-13.39222000</ctml:latitude>
+    <ctml:longitude>-72.04778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80629" kind="city">
+    <ctml:name>Combapata</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q3344173</ctml:wikiDataId>
+    <ctml:latitude>-14.10111000</ctml:latitude>
+    <ctml:longitude>-71.42944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80631" kind="city">
+    <ctml:name>Conchopata</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q43418</ctml:wikiDataId>
+    <ctml:latitude>-14.46968000</ctml:latitude>
+    <ctml:longitude>-71.19843000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80635" kind="city">
+    <ctml:name>Cullcuyre</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q2638258</ctml:wikiDataId>
+    <ctml:latitude>-14.09272000</ctml:latitude>
+    <ctml:longitude>-71.33119000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80661" kind="city">
+    <ctml:name>Huayna Alcalde</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q16576408</ctml:wikiDataId>
+    <ctml:latitude>-14.26989000</ctml:latitude>
+    <ctml:longitude>-71.09599000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80676" kind="city">
+    <ctml:name>Jayobamba</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q917434</ctml:wikiDataId>
+    <ctml:latitude>-14.09425000</ctml:latitude>
+    <ctml:longitude>-71.33922000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80696" kind="city">
+    <ctml:name>Langui</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q2638295</ctml:wikiDataId>
+    <ctml:latitude>-14.43194000</ctml:latitude>
+    <ctml:longitude>-71.27306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80700" kind="city">
+    <ctml:name>Layo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q11172311</ctml:wikiDataId>
+    <ctml:latitude>-14.49361000</ctml:latitude>
+    <ctml:longitude>-71.15500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80702" kind="city">
+    <ctml:name>Lima Pampa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q2868</ctml:wikiDataId>
+    <ctml:latitude>-14.08976000</ctml:latitude>
+    <ctml:longitude>-71.33664000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80709" kind="city">
+    <ctml:name>Maranganí</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q13190024</ctml:wikiDataId>
+    <ctml:latitude>-14.35672000</ctml:latitude>
+    <ctml:longitude>-71.16924000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80710" kind="city">
+    <ctml:name>Maras</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q1026235</ctml:wikiDataId>
+    <ctml:latitude>-13.33500000</ctml:latitude>
+    <ctml:longitude>-72.15667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80723" kind="city">
+    <ctml:name>Mosoc Cancha</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q6024431</ctml:wikiDataId>
+    <ctml:latitude>-14.28514000</ctml:latitude>
+    <ctml:longitude>-71.08773000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80724" kind="city">
+    <ctml:name>Mosoc Llacta</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q6024431</ctml:wikiDataId>
+    <ctml:latitude>-14.12000000</ctml:latitude>
+    <ctml:longitude>-71.47278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80731" kind="city">
+    <ctml:name>Ollantaytambo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q916382</ctml:wikiDataId>
+    <ctml:latitude>-13.25722000</ctml:latitude>
+    <ctml:longitude>-72.26306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80735" kind="city">
+    <ctml:name>Oropesa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q916382</ctml:wikiDataId>
+    <ctml:latitude>-13.59278000</ctml:latitude>
+    <ctml:longitude>-71.77194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80748" kind="city">
+    <ctml:name>Pampamarca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q2640020</ctml:wikiDataId>
+    <ctml:latitude>-14.14639000</ctml:latitude>
+    <ctml:longitude>-71.45944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80750" kind="city">
+    <ctml:name>Pangoa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q2725364</ctml:wikiDataId>
+    <ctml:latitude>-12.11667000</ctml:latitude>
+    <ctml:longitude>-73.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80763" kind="city">
+    <ctml:name>Pisac</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q3344087</ctml:wikiDataId>
+    <ctml:latitude>-13.42250000</ctml:latitude>
+    <ctml:longitude>-71.84667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80769" kind="city">
+    <ctml:name>Provincia de Acomayo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q1920602</ctml:wikiDataId>
+    <ctml:latitude>-13.91667000</ctml:latitude>
+    <ctml:longitude>-71.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80774" kind="city">
+    <ctml:name>Provincia de Anta</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q1920482</ctml:wikiDataId>
+    <ctml:latitude>-13.50000000</ctml:latitude>
+    <ctml:longitude>-72.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80788" kind="city">
+    <ctml:name>Provincia de Calca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q1948019</ctml:wikiDataId>
+    <ctml:latitude>-13.00000000</ctml:latitude>
+    <ctml:longitude>-72.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80790" kind="city">
+    <ctml:name>Provincia de Canas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q1920500</ctml:wikiDataId>
+    <ctml:latitude>-14.41083000</ctml:latitude>
+    <ctml:longitude>-71.33694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80791" kind="city">
+    <ctml:name>Provincia de Canchis</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q951287</ctml:wikiDataId>
+    <ctml:latitude>-14.08194000</ctml:latitude>
+    <ctml:longitude>-71.18556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80808" kind="city">
+    <ctml:name>Provincia de Chumbivilcas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q584864</ctml:wikiDataId>
+    <ctml:latitude>-14.41667000</ctml:latitude>
+    <ctml:longitude>-72.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80818" kind="city">
+    <ctml:name>Provincia de Cusco</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q1132101</ctml:wikiDataId>
+    <ctml:latitude>-13.50000000</ctml:latitude>
+    <ctml:longitude>-72.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80822" kind="city">
+    <ctml:name>Provincia de Espinar</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q1947973</ctml:wikiDataId>
+    <ctml:latitude>-14.75000000</ctml:latitude>
+    <ctml:longitude>-71.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80849" kind="city">
+    <ctml:name>Provincia de La Convención</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q1343276</ctml:wikiDataId>
+    <ctml:latitude>-12.00000000</ctml:latitude>
+    <ctml:longitude>-73.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80874" kind="city">
+    <ctml:name>Provincia de Paruro</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q1920613</ctml:wikiDataId>
+    <ctml:latitude>-13.91667000</ctml:latitude>
+    <ctml:longitude>-71.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80877" kind="city">
+    <ctml:name>Provincia de Paucartambo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q746434</ctml:wikiDataId>
+    <ctml:latitude>-13.16667000</ctml:latitude>
+    <ctml:longitude>-71.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80882" kind="city">
+    <ctml:name>Provincia de Quispicanchis</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q1920520</ctml:wikiDataId>
+    <ctml:latitude>-13.41667000</ctml:latitude>
+    <ctml:longitude>-71.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80906" kind="city">
+    <ctml:name>Provincia de Urubamba</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q1771879</ctml:wikiDataId>
+    <ctml:latitude>-13.25000000</ctml:latitude>
+    <ctml:longitude>-72.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80926" kind="city">
+    <ctml:name>Qquea</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q672921</ctml:wikiDataId>
+    <ctml:latitude>-14.05417000</ctml:latitude>
+    <ctml:longitude>-71.38583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80928" kind="city">
+    <ctml:name>Queromarca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q672921</ctml:wikiDataId>
+    <ctml:latitude>-14.18391000</ctml:latitude>
+    <ctml:longitude>-71.38343000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80960" kind="city">
+    <ctml:name>Santa Ana</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q1944245</ctml:wikiDataId>
+    <ctml:latitude>-12.86667000</ctml:latitude>
+    <ctml:longitude>-72.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80968" kind="city">
+    <ctml:name>Santo Tomas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q3344084</ctml:wikiDataId>
+    <ctml:latitude>-14.44556000</ctml:latitude>
+    <ctml:longitude>-72.08417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80975" kind="city">
+    <ctml:name>Sicuani</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q4419079</ctml:wikiDataId>
+    <ctml:latitude>-14.26944000</ctml:latitude>
+    <ctml:longitude>-71.22611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80993" kind="city">
+    <ctml:name>Tinta</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q1974467</ctml:wikiDataId>
+    <ctml:latitude>-14.14500000</ctml:latitude>
+    <ctml:longitude>-71.40694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81000" kind="city">
+    <ctml:name>Tungasuca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q49278346</ctml:wikiDataId>
+    <ctml:latitude>-14.16389000</ctml:latitude>
+    <ctml:longitude>-71.47667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81004" kind="city">
+    <ctml:name>Urcos</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q2989619</ctml:wikiDataId>
+    <ctml:latitude>-13.68611000</ctml:latitude>
+    <ctml:longitude>-71.62278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81005" kind="city">
+    <ctml:name>Urubamba</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q2304483</ctml:wikiDataId>
+    <ctml:latitude>-13.30472000</ctml:latitude>
+    <ctml:longitude>-72.11583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81015" kind="city">
+    <ctml:name>Yanaoca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Cusco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q2989624</ctml:wikiDataId>
+    <ctml:latitude>-14.21806000</ctml:latitude>
+    <ctml:longitude>-71.43167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80662" kind="city">
+    <ctml:name>Huaytara</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huancavelica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUV</ctml:parentRef>
+    <ctml:wikiDataId>Q629736</ctml:wikiDataId>
+    <ctml:latitude>-13.65616000</ctml:latitude>
+    <ctml:longitude>-75.09234000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PER-80749" kind="admin2">
+    <ctml:name>Pampas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huancavelica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUV</ctml:parentRef>
+    <ctml:wikiDataId>Q2725364</ctml:wikiDataId>
+    <ctml:latitude>-12.39490000</ctml:latitude>
+    <ctml:longitude>-74.86687000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80768" kind="city">
+    <ctml:name>Provincia de Acobamba</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huancavelica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUV</ctml:parentRef>
+    <ctml:wikiDataId>Q1948039</ctml:wikiDataId>
+    <ctml:latitude>-12.75000000</ctml:latitude>
+    <ctml:longitude>-74.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80773" kind="city">
+    <ctml:name>Provincia de Angaraes</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huancavelica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUV</ctml:parentRef>
+    <ctml:wikiDataId>Q2084862</ctml:wikiDataId>
+    <ctml:latitude>-13.00000000</ctml:latitude>
+    <ctml:longitude>-74.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80799" kind="city">
+    <ctml:name>Provincia de Castrovirreyna</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huancavelica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUV</ctml:parentRef>
+    <ctml:wikiDataId>Q1944312</ctml:wikiDataId>
+    <ctml:latitude>-13.14535000</ctml:latitude>
+    <ctml:longitude>-75.40598000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80810" kind="city">
+    <ctml:name>Provincia de Churcampa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huancavelica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUV</ctml:parentRef>
+    <ctml:wikiDataId>Q639598</ctml:wikiDataId>
+    <ctml:latitude>-12.60000000</ctml:latitude>
+    <ctml:longitude>-74.52000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80833" kind="city">
+    <ctml:name>Provincia de Huancavelica</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huancavelica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUV</ctml:parentRef>
+    <ctml:wikiDataId>Q2088859</ctml:wikiDataId>
+    <ctml:latitude>-12.66667000</ctml:latitude>
+    <ctml:longitude>-75.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80903" kind="city">
+    <ctml:name>Provincia de Tayacaja</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huancavelica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUV</ctml:parentRef>
+    <ctml:wikiDataId>Q1948195</ctml:wikiDataId>
+    <ctml:latitude>-12.25000000</ctml:latitude>
+    <ctml:longitude>-74.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80558" kind="city">
+    <ctml:name>Ambo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q3317423</ctml:wikiDataId>
+    <ctml:latitude>-10.13083000</ctml:latitude>
+    <ctml:longitude>-76.20472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80646" kind="city">
+    <ctml:name>Huacaybamba</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q2084668</ctml:wikiDataId>
+    <ctml:latitude>-8.99480000</ctml:latitude>
+    <ctml:longitude>-76.81027000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80699" kind="city">
+    <ctml:name>Lauricocha</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q188098</ctml:wikiDataId>
+    <ctml:latitude>-10.20055000</ctml:latitude>
+    <ctml:longitude>-76.70359000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80703" kind="city">
+    <ctml:name>Llata</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q3344864</ctml:wikiDataId>
+    <ctml:latitude>-9.41667000</ctml:latitude>
+    <ctml:longitude>-76.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80771" kind="city">
+    <ctml:name>Provincia de Ambo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q980098</ctml:wikiDataId>
+    <ctml:latitude>-10.16667000</ctml:latitude>
+    <ctml:longitude>-76.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80821" kind="city">
+    <ctml:name>Provincia de Dos de Mayo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q2088810</ctml:wikiDataId>
+    <ctml:latitude>-9.91667000</ctml:latitude>
+    <ctml:longitude>-76.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80828" kind="city">
+    <ctml:name>Provincia de Huamalíes</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q1819840</ctml:wikiDataId>
+    <ctml:latitude>-9.25000000</ctml:latitude>
+    <ctml:longitude>-76.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80842" kind="city">
+    <ctml:name>Provincia de Huánuco</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q2100624</ctml:wikiDataId>
+    <ctml:latitude>-9.66667000</ctml:latitude>
+    <ctml:longitude>-76.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80855" kind="city">
+    <ctml:name>Provincia de Leoncio Prado</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q1468138</ctml:wikiDataId>
+    <ctml:latitude>-9.16667000</ctml:latitude>
+    <ctml:longitude>-76.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80859" kind="city">
+    <ctml:name>Provincia de Marañón</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q764487</ctml:wikiDataId>
+    <ctml:latitude>-8.75000000</ctml:latitude>
+    <ctml:longitude>-76.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80869" kind="city">
+    <ctml:name>Provincia de Pachitea</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q2084641</ctml:wikiDataId>
+    <ctml:latitude>-9.95262000</ctml:latitude>
+    <ctml:longitude>-75.81390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80917" kind="city">
+    <ctml:name>Puerto Inca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q1944276</ctml:wikiDataId>
+    <ctml:latitude>-9.36696000</ctml:latitude>
+    <ctml:longitude>-75.08958000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80952" kind="city">
+    <ctml:name>San Miguel de Cauri</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q2726675</ctml:wikiDataId>
+    <ctml:latitude>-10.13818000</ctml:latitude>
+    <ctml:longitude>-76.62288000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80992" kind="city">
+    <ctml:name>Tingo María</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q1974467</ctml:wikiDataId>
+    <ctml:latitude>-9.29532000</ctml:latitude>
+    <ctml:longitude>-75.99574000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81014" kind="city">
+    <ctml:name>Yanacancha</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q3344843</ctml:wikiDataId>
+    <ctml:latitude>-10.24111000</ctml:latitude>
+    <ctml:longitude>-76.64556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81016" kind="city">
+    <ctml:name>Yarowilca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Huanuco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-HUC</ctml:parentRef>
+    <ctml:wikiDataId>Q2088849</ctml:wikiDataId>
+    <ctml:latitude>-9.80263000</ctml:latitude>
+    <ctml:longitude>-76.59516000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80616" kind="city">
+    <ctml:name>Chincha Alta</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q990685</ctml:wikiDataId>
+    <ctml:latitude>-13.40985000</ctml:latitude>
+    <ctml:longitude>-76.13235000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80706" kind="city">
+    <ctml:name>Los Aquijes</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q3344864</ctml:wikiDataId>
+    <ctml:latitude>-14.09667000</ctml:latitude>
+    <ctml:longitude>-75.69083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80714" kind="city">
+    <ctml:name>Minas de Marcona</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q580017</ctml:wikiDataId>
+    <ctml:latitude>-15.21194000</ctml:latitude>
+    <ctml:longitude>-75.11028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80729" kind="city">
+    <ctml:name>Nazca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q1711521</ctml:wikiDataId>
+    <ctml:latitude>-14.83098000</ctml:latitude>
+    <ctml:longitude>-74.93895000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80747" kind="city">
+    <ctml:name>Palpa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q2640020</ctml:wikiDataId>
+    <ctml:latitude>-14.53361000</ctml:latitude>
+    <ctml:longitude>-75.18556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80752" kind="city">
+    <ctml:name>Paracas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q2725364</ctml:wikiDataId>
+    <ctml:latitude>-13.86667000</ctml:latitude>
+    <ctml:longitude>-76.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80764" kind="city">
+    <ctml:name>Pisco</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q290504</ctml:wikiDataId>
+    <ctml:latitude>-13.71029000</ctml:latitude>
+    <ctml:longitude>-76.20538000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80805" kind="city">
+    <ctml:name>Provincia de Chincha</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q1325771</ctml:wikiDataId>
+    <ctml:latitude>-13.31791000</ctml:latitude>
+    <ctml:longitude>-75.93930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80843" kind="city">
+    <ctml:name>Provincia de Ica</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q2084696</ctml:wikiDataId>
+    <ctml:latitude>-14.33861000</ctml:latitude>
+    <ctml:longitude>-75.64833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80865" kind="city">
+    <ctml:name>Provincia de Nazca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q938322</ctml:wikiDataId>
+    <ctml:latitude>-15.00000000</ctml:latitude>
+    <ctml:longitude>-75.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80872" kind="city">
+    <ctml:name>Provincia de Palpa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q783136</ctml:wikiDataId>
+    <ctml:latitude>-14.41667000</ctml:latitude>
+    <ctml:longitude>-75.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80878" kind="city">
+    <ctml:name>Provincia de Pisco</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q1366050</ctml:wikiDataId>
+    <ctml:latitude>-13.80377000</ctml:latitude>
+    <ctml:longitude>-75.94264000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80935" kind="city">
+    <ctml:name>Río Grande</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q3344069</ctml:wikiDataId>
+    <ctml:latitude>-14.51600000</ctml:latitude>
+    <ctml:longitude>-75.19933000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80943" kind="city">
+    <ctml:name>San Clemente</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q1935565</ctml:wikiDataId>
+    <ctml:latitude>-13.66667000</ctml:latitude>
+    <ctml:longitude>-76.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80949" kind="city">
+    <ctml:name>San Juan Bautista</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q11011907</ctml:wikiDataId>
+    <ctml:latitude>-14.01083000</ctml:latitude>
+    <ctml:longitude>-75.73583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80964" kind="city">
+    <ctml:name>Santiago</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q1944245</ctml:wikiDataId>
+    <ctml:latitude>-14.18469000</ctml:latitude>
+    <ctml:longitude>-75.71124000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80978" kind="city">
+    <ctml:name>Subtanjalla</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q11034041</ctml:wikiDataId>
+    <ctml:latitude>-14.01889000</ctml:latitude>
+    <ctml:longitude>-75.75806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81009" kind="city">
+    <ctml:name>Villa Tupac Amaru</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ica</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-ICA</ctml:parentRef>
+    <ctml:wikiDataId>Q941183</ctml:wikiDataId>
+    <ctml:latitude>-13.71135000</ctml:latitude>
+    <ctml:longitude>-76.14980000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80556" kind="city">
+    <ctml:name>Acolla</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q25247498</ctml:wikiDataId>
+    <ctml:latitude>-11.73193000</ctml:latitude>
+    <ctml:longitude>-75.54634000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80591" kind="city">
+    <ctml:name>Carhuamayo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q3344236</ctml:wikiDataId>
+    <ctml:latitude>-10.91667000</ctml:latitude>
+    <ctml:longitude>-76.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80604" kind="city">
+    <ctml:name>Chanchamayo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q765311</ctml:wikiDataId>
+    <ctml:latitude>-11.05000000</ctml:latitude>
+    <ctml:longitude>-75.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80625" kind="city">
+    <ctml:name>Chupaca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q3344173</ctml:wikiDataId>
+    <ctml:latitude>-12.06667000</ctml:latitude>
+    <ctml:longitude>-75.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80630" kind="city">
+    <ctml:name>Concepción</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q43418</ctml:wikiDataId>
+    <ctml:latitude>-11.91762000</ctml:latitude>
+    <ctml:longitude>-75.31401000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80659" kind="city">
+    <ctml:name>Huasahuasi</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q430862</ctml:wikiDataId>
+    <ctml:latitude>-11.26527000</ctml:latitude>
+    <ctml:longitude>-75.64722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80663" kind="city">
+    <ctml:name>Huayucachi</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q629736</ctml:wikiDataId>
+    <ctml:latitude>-12.13333000</ctml:latitude>
+    <ctml:longitude>-75.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80674" kind="city">
+    <ctml:name>Jauja</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q917434</ctml:wikiDataId>
+    <ctml:latitude>-11.77584000</ctml:latitude>
+    <ctml:longitude>-75.49656000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80685" kind="city">
+    <ctml:name>Junín</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q2640092</ctml:wikiDataId>
+    <ctml:latitude>-11.15895000</ctml:latitude>
+    <ctml:longitude>-75.99304000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80688" kind="city">
+    <ctml:name>La Oroya</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1759360</ctml:wikiDataId>
+    <ctml:latitude>-11.51893000</ctml:latitude>
+    <ctml:longitude>-75.89935000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80713" kind="city">
+    <ctml:name>Mazamari</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q580017</ctml:wikiDataId>
+    <ctml:latitude>-11.32583000</ctml:latitude>
+    <ctml:longitude>-74.53083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80720" kind="city">
+    <ctml:name>Morococha</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q766735</ctml:wikiDataId>
+    <ctml:latitude>-11.59972000</ctml:latitude>
+    <ctml:longitude>-76.14111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80734" kind="city">
+    <ctml:name>Orcotuna</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q916382</ctml:wikiDataId>
+    <ctml:latitude>-11.96886000</ctml:latitude>
+    <ctml:longitude>-75.30780000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80758" kind="city">
+    <ctml:name>Perené</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q2070443</ctml:wikiDataId>
+    <ctml:latitude>-10.94510000</ctml:latitude>
+    <ctml:longitude>-75.22394000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80761" kind="city">
+    <ctml:name>Pilcomay</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q3344087</ctml:wikiDataId>
+    <ctml:latitude>-12.04722000</ctml:latitude>
+    <ctml:longitude>-75.24931000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80809" kind="city">
+    <ctml:name>Provincia de Chupaca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1777631</ctml:wikiDataId>
+    <ctml:latitude>-12.30000000</ctml:latitude>
+    <ctml:longitude>-75.43300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80811" kind="city">
+    <ctml:name>Provincia de Concepción</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1991124</ctml:wikiDataId>
+    <ctml:latitude>-11.75000000</ctml:latitude>
+    <ctml:longitude>-75.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80834" kind="city">
+    <ctml:name>Provincia de Huancayo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1777621</ctml:wikiDataId>
+    <ctml:latitude>-12.17319000</ctml:latitude>
+    <ctml:longitude>-75.16169000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80846" kind="city">
+    <ctml:name>Provincia de Jauja</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q922867</ctml:wikiDataId>
+    <ctml:latitude>-11.72600000</ctml:latitude>
+    <ctml:longitude>-75.54700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80848" kind="city">
+    <ctml:name>Provincia de Junín</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q644721</ctml:wikiDataId>
+    <ctml:latitude>-11.08333000</ctml:latitude>
+    <ctml:longitude>-76.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80893" kind="city">
+    <ctml:name>Provincia de Satipo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1335384</ctml:wikiDataId>
+    <ctml:latitude>-11.50000000</ctml:latitude>
+    <ctml:longitude>-74.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80902" kind="city">
+    <ctml:name>Provincia de Tarma</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q946269</ctml:wikiDataId>
+    <ctml:latitude>-11.40562000</ctml:latitude>
+    <ctml:longitude>-75.69129000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80909" kind="city">
+    <ctml:name>Provincia de Yauli</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1342828</ctml:wikiDataId>
+    <ctml:latitude>-11.66667000</ctml:latitude>
+    <ctml:longitude>-76.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80940" kind="city">
+    <ctml:name>San Agustin</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q3348291</ctml:wikiDataId>
+    <ctml:latitude>-11.97195000</ctml:latitude>
+    <ctml:longitude>-75.25562000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80946" kind="city">
+    <ctml:name>San Jerónimo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q11011907</ctml:wikiDataId>
+    <ctml:latitude>-11.95591000</ctml:latitude>
+    <ctml:longitude>-75.28411000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80954" kind="city">
+    <ctml:name>San Pedro de Cajas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q25400021</ctml:wikiDataId>
+    <ctml:latitude>-11.25061000</ctml:latitude>
+    <ctml:longitude>-75.86116000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80956" kind="city">
+    <ctml:name>San Ramón</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q2219996</ctml:wikiDataId>
+    <ctml:latitude>-11.12417000</ctml:latitude>
+    <ctml:longitude>-75.35733000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80970" kind="city">
+    <ctml:name>Satipo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q3057885</ctml:wikiDataId>
+    <ctml:latitude>-11.25222000</ctml:latitude>
+    <ctml:longitude>-74.63861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80974" kind="city">
+    <ctml:name>Sicaya</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q7507402</ctml:wikiDataId>
+    <ctml:latitude>-12.03333000</ctml:latitude>
+    <ctml:longitude>-75.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80991" kind="city">
+    <ctml:name>Tarma</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Junín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-JUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1759366</ctml:wikiDataId>
+    <ctml:latitude>-11.41899000</ctml:latitude>
+    <ctml:longitude>-75.68992000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80562" kind="city">
+    <ctml:name>Ascope</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q3344017</ctml:wikiDataId>
+    <ctml:latitude>-7.71444000</ctml:latitude>
+    <ctml:longitude>-79.10778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80595" kind="city">
+    <ctml:name>Cascas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q3344040</ctml:wikiDataId>
+    <ctml:latitude>-7.48333000</ctml:latitude>
+    <ctml:longitude>-78.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80609" kind="city">
+    <ctml:name>Chepen</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q1920599</ctml:wikiDataId>
+    <ctml:latitude>-7.14367000</ctml:latitude>
+    <ctml:longitude>-79.45674000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80611" kind="city">
+    <ctml:name>Chicama</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q7258550</ctml:wikiDataId>
+    <ctml:latitude>-7.84472000</ctml:latitude>
+    <ctml:longitude>-79.14694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80620" kind="city">
+    <ctml:name>Chocope</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q5103685</ctml:wikiDataId>
+    <ctml:latitude>-7.79139000</ctml:latitude>
+    <ctml:longitude>-79.22167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80643" kind="city">
+    <ctml:name>Gran Chimu</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q1920564</ctml:wikiDataId>
+    <ctml:latitude>-7.57976000</ctml:latitude>
+    <ctml:longitude>-78.64718000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80644" kind="city">
+    <ctml:name>Guadalupe</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q2117510</ctml:wikiDataId>
+    <ctml:latitude>-7.25000000</ctml:latitude>
+    <ctml:longitude>-79.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80649" kind="city">
+    <ctml:name>Huamachuco</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q1632770</ctml:wikiDataId>
+    <ctml:latitude>-7.80000000</ctml:latitude>
+    <ctml:longitude>-78.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80682" kind="city">
+    <ctml:name>Julcan</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q1920491</ctml:wikiDataId>
+    <ctml:latitude>-8.17238000</ctml:latitude>
+    <ctml:longitude>-78.46356000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80697" kind="city">
+    <ctml:name>Laredo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q6488869</ctml:wikiDataId>
+    <ctml:latitude>-8.08965000</ctml:latitude>
+    <ctml:longitude>-78.96020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80715" kind="city">
+    <ctml:name>Moche</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q6887544</ctml:wikiDataId>
+    <ctml:latitude>-8.17111000</ctml:latitude>
+    <ctml:longitude>-79.00917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80736" kind="city">
+    <ctml:name>Otuzco</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q3056421</ctml:wikiDataId>
+    <ctml:latitude>-7.90000000</ctml:latitude>
+    <ctml:longitude>-78.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80741" kind="city">
+    <ctml:name>Pacanga</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q7121871</ctml:wikiDataId>
+    <ctml:latitude>-7.16667000</ctml:latitude>
+    <ctml:longitude>-79.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80742" kind="city">
+    <ctml:name>Pacasmayo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q1279608</ctml:wikiDataId>
+    <ctml:latitude>-7.40056000</ctml:latitude>
+    <ctml:longitude>-79.57139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80745" kind="city">
+    <ctml:name>Paiján</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q7124745</ctml:wikiDataId>
+    <ctml:latitude>-7.73291000</ctml:latitude>
+    <ctml:longitude>-79.30150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80783" kind="city">
+    <ctml:name>Provincia de Bolívar</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q951816</ctml:wikiDataId>
+    <ctml:latitude>-7.33333000</ctml:latitude>
+    <ctml:longitude>-77.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80866" kind="city">
+    <ctml:name>Provincia de Otuzco</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q583300</ctml:wikiDataId>
+    <ctml:latitude>-7.90457000</ctml:latitude>
+    <ctml:longitude>-78.56362000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80868" kind="city">
+    <ctml:name>Provincia de Pacasmayo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q1944266</ctml:wikiDataId>
+    <ctml:latitude>-7.25000000</ctml:latitude>
+    <ctml:longitude>-79.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80876" kind="city">
+    <ctml:name>Provincia de Pataz</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q1948180</ctml:wikiDataId>
+    <ctml:latitude>-8.25000000</ctml:latitude>
+    <ctml:longitude>-77.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80892" kind="city">
+    <ctml:name>Provincia de Santiago de Chuco</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q1944238</ctml:wikiDataId>
+    <ctml:latitude>-8.33333000</ctml:latitude>
+    <ctml:longitude>-78.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80904" kind="city">
+    <ctml:name>Provincia de Trujillo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q2013427</ctml:wikiDataId>
+    <ctml:latitude>-8.08333000</ctml:latitude>
+    <ctml:longitude>-78.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80931" kind="city">
+    <ctml:name>Quiruvilca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q27194717</ctml:wikiDataId>
+    <ctml:latitude>-7.96667000</ctml:latitude>
+    <ctml:longitude>-78.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80936" kind="city">
+    <ctml:name>Salaverry</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q7403730</ctml:wikiDataId>
+    <ctml:latitude>-8.22100000</ctml:latitude>
+    <ctml:longitude>-78.97698000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80955" kind="city">
+    <ctml:name>San Pedro de Lloc</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q1014474</ctml:wikiDataId>
+    <ctml:latitude>-7.42890000</ctml:latitude>
+    <ctml:longitude>-79.50416000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80959" kind="city">
+    <ctml:name>Sanchez Carrion</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q1944245</ctml:wikiDataId>
+    <ctml:latitude>-7.78538000</ctml:latitude>
+    <ctml:longitude>-77.92586000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80965" kind="city">
+    <ctml:name>Santiago de Cao</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q15275280</ctml:wikiDataId>
+    <ctml:latitude>-7.95889000</ctml:latitude>
+    <ctml:longitude>-79.23917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80966" kind="city">
+    <ctml:name>Santiago de Chuco</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q3344084</ctml:wikiDataId>
+    <ctml:latitude>-8.14099000</ctml:latitude>
+    <ctml:longitude>-78.17329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81010" kind="city">
+    <ctml:name>Viru</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAL</ctml:parentRef>
+    <ctml:wikiDataId>Q1948051</ctml:wikiDataId>
+    <ctml:latitude>-8.52199000</ctml:latitude>
+    <ctml:longitude>-78.60355000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80621" kind="city">
+    <ctml:name>Chongoyape</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q5767159</ctml:wikiDataId>
+    <ctml:latitude>-6.64056000</ctml:latitude>
+    <ctml:longitude>-79.38917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80641" kind="city">
+    <ctml:name>Eten</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q2084675</ctml:wikiDataId>
+    <ctml:latitude>-6.90806000</ctml:latitude>
+    <ctml:longitude>-79.86417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80642" kind="city">
+    <ctml:name>Ferreñafe</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q2143690</ctml:wikiDataId>
+    <ctml:latitude>-6.63889000</ctml:latitude>
+    <ctml:longitude>-79.78889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80675" kind="city">
+    <ctml:name>Jayanca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q917434</ctml:wikiDataId>
+    <ctml:latitude>-6.39083000</ctml:latitude>
+    <ctml:longitude>-79.82194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80694" kind="city">
+    <ctml:name>Lambayeque</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q768086</ctml:wikiDataId>
+    <ctml:latitude>-6.70111000</ctml:latitude>
+    <ctml:longitude>-79.90611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80716" kind="city">
+    <ctml:name>Mochumí</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q27194530</ctml:wikiDataId>
+    <ctml:latitude>-6.54364000</ctml:latitude>
+    <ctml:longitude>-79.86217000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80718" kind="city">
+    <ctml:name>Monsefú</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q10976116</ctml:wikiDataId>
+    <ctml:latitude>-6.87431000</ctml:latitude>
+    <ctml:longitude>-79.86871000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80728" kind="city">
+    <ctml:name>Mórrope</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q27194532</ctml:wikiDataId>
+    <ctml:latitude>-6.53536000</ctml:latitude>
+    <ctml:longitude>-80.01104000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80725" kind="city">
+    <ctml:name>Motupe</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q6024431</ctml:wikiDataId>
+    <ctml:latitude>-6.15194000</ctml:latitude>
+    <ctml:longitude>-79.71417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80732" kind="city">
+    <ctml:name>Olmos</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q916382</ctml:wikiDataId>
+    <ctml:latitude>-5.98472000</ctml:latitude>
+    <ctml:longitude>-79.74528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80739" kind="city">
+    <ctml:name>Oyotún</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q27557971</ctml:wikiDataId>
+    <ctml:latitude>-6.84438000</ctml:latitude>
+    <ctml:longitude>-79.30093000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80760" kind="city">
+    <ctml:name>Picsi</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q3344087</ctml:wikiDataId>
+    <ctml:latitude>-6.71778000</ctml:latitude>
+    <ctml:longitude>-79.76972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80762" kind="city">
+    <ctml:name>Pimentel</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q3344087</ctml:wikiDataId>
+    <ctml:latitude>-6.83667000</ctml:latitude>
+    <ctml:longitude>-79.93417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80823" kind="city">
+    <ctml:name>Provincia de Ferreñafe</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q1948067</ctml:wikiDataId>
+    <ctml:latitude>-6.33333000</ctml:latitude>
+    <ctml:longitude>-79.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80853" kind="city">
+    <ctml:name>Provincia de Lambayeque</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q632826</ctml:wikiDataId>
+    <ctml:latitude>-6.08333000</ctml:latitude>
+    <ctml:longitude>-80.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80915" kind="city">
+    <ctml:name>Pueblo Nuevo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q217071</ctml:wikiDataId>
+    <ctml:latitude>-5.71667000</ctml:latitude>
+    <ctml:longitude>-79.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80932" kind="city">
+    <ctml:name>Reque</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q27194717</ctml:wikiDataId>
+    <ctml:latitude>-6.86556000</ctml:latitude>
+    <ctml:longitude>-79.81778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80948" kind="city">
+    <ctml:name>San José</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q11011907</ctml:wikiDataId>
+    <ctml:latitude>-6.73813000</ctml:latitude>
+    <ctml:longitude>-79.82750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80972" kind="city">
+    <ctml:name>Saña</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q6171043</ctml:wikiDataId>
+    <ctml:latitude>-6.91888000</ctml:latitude>
+    <ctml:longitude>-79.58200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80963" kind="city">
+    <ctml:name>Santa Rosa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q1944245</ctml:wikiDataId>
+    <ctml:latitude>-6.75772000</ctml:latitude>
+    <ctml:longitude>-79.82747000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81001" kind="city">
+    <ctml:name>Túcume</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lambayeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LAM</ctml:parentRef>
+    <ctml:wikiDataId>Q1677131</ctml:wikiDataId>
+    <ctml:latitude>-6.50637000</ctml:latitude>
+    <ctml:longitude>-79.85725000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80563" kind="city">
+    <ctml:name>Asentamiento Humano Nicolas de Pierola</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q3344017</ctml:wikiDataId>
+    <ctml:latitude>-11.93573000</ctml:latitude>
+    <ctml:longitude>-76.70611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80574" kind="city">
+    <ctml:name>Barranca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q2582671</ctml:wikiDataId>
+    <ctml:latitude>-10.75000000</ctml:latitude>
+    <ctml:longitude>-77.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80585" kind="city">
+    <ctml:name>Caleta de Carquín</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q3344215</ctml:wikiDataId>
+    <ctml:latitude>-11.09250000</ctml:latitude>
+    <ctml:longitude>-77.62667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80603" kind="city">
+    <ctml:name>Chancay</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q757133</ctml:wikiDataId>
+    <ctml:latitude>-11.57139000</ctml:latitude>
+    <ctml:longitude>-77.26722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80614" kind="city">
+    <ctml:name>Chilca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q260911</ctml:wikiDataId>
+    <ctml:latitude>-12.52111000</ctml:latitude>
+    <ctml:longitude>-76.73722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80622" kind="city">
+    <ctml:name>Chosica</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q5767299</ctml:wikiDataId>
+    <ctml:latitude>-11.94306000</ctml:latitude>
+    <ctml:longitude>-76.70944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80648" kind="city">
+    <ctml:name>Hualmay</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1002052</ctml:wikiDataId>
+    <ctml:latitude>-11.09639000</ctml:latitude>
+    <ctml:longitude>-77.61389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80654" kind="city">
+    <ctml:name>Huaral</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q723677</ctml:wikiDataId>
+    <ctml:latitude>-11.49500000</ctml:latitude>
+    <ctml:longitude>-77.20778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80660" kind="city">
+    <ctml:name>Huaura</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q16576408</ctml:wikiDataId>
+    <ctml:latitude>-11.07000000</ctml:latitude>
+    <ctml:longitude>-77.59944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80671" kind="city">
+    <ctml:name>Imperial</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1000341</ctml:wikiDataId>
+    <ctml:latitude>-13.05927000</ctml:latitude>
+    <ctml:longitude>-76.35269000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80672" kind="city">
+    <ctml:name>Independencia</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1000341</ctml:wikiDataId>
+    <ctml:latitude>-11.99000000</ctml:latitude>
+    <ctml:longitude>-77.04583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80701" kind="city">
+    <ctml:name>Lima</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q2868</ctml:wikiDataId>
+    <ctml:latitude>-12.04318000</ctml:latitude>
+    <ctml:longitude>-77.02824000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80708" kind="city">
+    <ctml:name>Mala</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q3348229</ctml:wikiDataId>
+    <ctml:latitude>-12.65806000</ctml:latitude>
+    <ctml:longitude>-76.63083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80712" kind="city">
+    <ctml:name>Matucana</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q580017</ctml:wikiDataId>
+    <ctml:latitude>-11.85000000</ctml:latitude>
+    <ctml:longitude>-76.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80730" kind="city">
+    <ctml:name>Nuevo Imperial</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1711521</ctml:wikiDataId>
+    <ctml:latitude>-13.07541000</ctml:latitude>
+    <ctml:longitude>-76.31719000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80738" kind="city">
+    <ctml:name>Oyon</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1422624</ctml:wikiDataId>
+    <ctml:latitude>-10.75869000</ctml:latitude>
+    <ctml:longitude>-76.87634000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80753" kind="city">
+    <ctml:name>Paramonga</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q25768004</ctml:wikiDataId>
+    <ctml:latitude>-10.66667000</ctml:latitude>
+    <ctml:longitude>-77.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80754" kind="city">
+    <ctml:name>Pativilca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q3368805</ctml:wikiDataId>
+    <ctml:latitude>-10.70000000</ctml:latitude>
+    <ctml:longitude>-77.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80787" kind="city">
+    <ctml:name>Provincia de Cajatambo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1422587</ctml:wikiDataId>
+    <ctml:latitude>-10.66667000</ctml:latitude>
+    <ctml:longitude>-77.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80801" kind="city">
+    <ctml:name>Provincia de Cañete</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1431156</ctml:wikiDataId>
+    <ctml:latitude>-12.75000000</ctml:latitude>
+    <ctml:longitude>-76.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80793" kind="city">
+    <ctml:name>Provincia de Canta</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1422611</ctml:wikiDataId>
+    <ctml:latitude>-11.46667000</ctml:latitude>
+    <ctml:longitude>-76.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80836" kind="city">
+    <ctml:name>Provincia de Huaral</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1422606</ctml:wikiDataId>
+    <ctml:latitude>-11.25000000</ctml:latitude>
+    <ctml:longitude>-76.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80840" kind="city">
+    <ctml:name>Provincia de Huarochirí</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1367991</ctml:wikiDataId>
+    <ctml:latitude>-11.91667000</ctml:latitude>
+    <ctml:longitude>-76.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80910" kind="city">
+    <ctml:name>Provincia de Yauyos</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1422601</ctml:wikiDataId>
+    <ctml:latitude>-12.41667000</ctml:latitude>
+    <ctml:longitude>-76.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80920" kind="city">
+    <ctml:name>Puerto Supe</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q3504032</ctml:wikiDataId>
+    <ctml:latitude>-10.80135000</ctml:latitude>
+    <ctml:longitude>-77.74333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80930" kind="city">
+    <ctml:name>Quilmaná</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q27194717</ctml:wikiDataId>
+    <ctml:latitude>-12.94860000</ctml:latitude>
+    <ctml:longitude>-76.38112000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80933" kind="city">
+    <ctml:name>Ricardo Palma</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q27194717</ctml:wikiDataId>
+    <ctml:latitude>-11.91978000</ctml:latitude>
+    <ctml:longitude>-76.65610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80942" kind="city">
+    <ctml:name>San Bartolo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1935565</ctml:wikiDataId>
+    <ctml:latitude>-12.38333000</ctml:latitude>
+    <ctml:longitude>-76.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80950" kind="city">
+    <ctml:name>San Luis</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q11011907</ctml:wikiDataId>
+    <ctml:latitude>-12.07674000</ctml:latitude>
+    <ctml:longitude>-76.99435000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80958" kind="city">
+    <ctml:name>San Vicente de Cañete</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1853969</ctml:wikiDataId>
+    <ctml:latitude>-13.07556000</ctml:latitude>
+    <ctml:longitude>-76.38528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80962" kind="city">
+    <ctml:name>Santa María</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1944245</ctml:wikiDataId>
+    <ctml:latitude>-12.00538000</ctml:latitude>
+    <ctml:longitude>-76.89329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80971" kind="city">
+    <ctml:name>Sayán</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q3057885</ctml:wikiDataId>
+    <ctml:latitude>-11.13333000</ctml:latitude>
+    <ctml:longitude>-77.19460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80980" kind="city">
+    <ctml:name>Supe</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q510413</ctml:wikiDataId>
+    <ctml:latitude>-10.79750000</ctml:latitude>
+    <ctml:longitude>-77.71306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81003" kind="city">
+    <ctml:name>Urb. Santo Domingo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q1677131</ctml:wikiDataId>
+    <ctml:latitude>-11.87655000</ctml:latitude>
+    <ctml:longitude>-77.03345000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81013" kind="city">
+    <ctml:name>Végueta</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LIM</ctml:parentRef>
+    <ctml:wikiDataId>Q3344843</ctml:wikiDataId>
+    <ctml:latitude>-11.02253000</ctml:latitude>
+    <ctml:longitude>-77.64378000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-147944" kind="city">
+    <ctml:name>Andoas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q3649471</ctml:wikiDataId>
+    <ctml:latitude>-2.90250000</ctml:latitude>
+    <ctml:longitude>-76.40250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-147941" kind="city">
+    <ctml:name>Borja</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q4945551</ctml:wikiDataId>
+    <ctml:latitude>-4.43333333</ctml:latitude>
+    <ctml:longitude>-77.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-147949" kind="city">
+    <ctml:name>Caballococha</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q3317724</ctml:wikiDataId>
+    <ctml:latitude>-3.90583333</ctml:latitude>
+    <ctml:longitude>-70.51638889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-147947" kind="city">
+    <ctml:name>Cape Pantoja</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q19206831</ctml:wikiDataId>
+    <ctml:latitude>-0.96435000</ctml:latitude>
+    <ctml:longitude>-75.18144000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-147952" kind="city">
+    <ctml:name>Indiana</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q6022990</ctml:wikiDataId>
+    <ctml:latitude>-3.50142700</ctml:latitude>
+    <ctml:longitude>-73.04809600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-147945" kind="city">
+    <ctml:name>Jeberos</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q27094722</ctml:wikiDataId>
+    <ctml:latitude>-5.28333000</ctml:latitude>
+    <ctml:longitude>-76.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-147946" kind="city">
+    <ctml:name>Jenaro Herrera</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q15696655</ctml:wikiDataId>
+    <ctml:latitude>-4.90741000</ctml:latitude>
+    <ctml:longitude>-73.66779000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-147948" kind="city">
+    <ctml:name>Lagunas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q27194615</ctml:wikiDataId>
+    <ctml:latitude>-5.22694000</ctml:latitude>
+    <ctml:longitude>-75.67528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-147942" kind="city">
+    <ctml:name>Nauta</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q3309417</ctml:wikiDataId>
+    <ctml:latitude>-4.50833333</ctml:latitude>
+    <ctml:longitude>-73.58333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-147953" kind="city">
+    <ctml:name>Punchana</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q7259962</ctml:wikiDataId>
+    <ctml:latitude>-3.71666667</ctml:latitude>
+    <ctml:longitude>-73.23333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-147954" kind="city">
+    <ctml:name>Requena</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q3344103</ctml:wikiDataId>
+    <ctml:latitude>-6.74797000</ctml:latitude>
+    <ctml:longitude>-75.05491000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PER-147955" kind="admin2">
+    <ctml:name>San Antonio del Estrecho</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q19799162</ctml:wikiDataId>
+    <ctml:latitude>-2.45012000</ctml:latitude>
+    <ctml:longitude>-72.66896000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-147950" kind="city">
+    <ctml:name>San Lorenzo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q3317765</ctml:wikiDataId>
+    <ctml:latitude>-4.81667000</ctml:latitude>
+    <ctml:longitude>-76.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80953" kind="city">
+    <ctml:name>San Pablo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q28905458</ctml:wikiDataId>
+    <ctml:latitude>-4.01922000</ctml:latitude>
+    <ctml:longitude>-71.10281000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-147951" kind="city">
+    <ctml:name>Tamshiyacu</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q3514886</ctml:wikiDataId>
+    <ctml:latitude>-4.00320000</ctml:latitude>
+    <ctml:longitude>-73.15850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-147956" kind="city">
+    <ctml:name>Yurimaguas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Loreto</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LOR</ctml:parentRef>
+    <ctml:wikiDataId>Q117625</ctml:wikiDataId>
+    <ctml:latitude>-5.90000000</ctml:latitude>
+    <ctml:longitude>-76.08333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80666" kind="city">
+    <ctml:name>Iberia</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Madre de Dios</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-MDD</ctml:parentRef>
+    <ctml:wikiDataId>Q504394</ctml:wikiDataId>
+    <ctml:latitude>-11.35000000</ctml:latitude>
+    <ctml:longitude>-69.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80858" kind="city">
+    <ctml:name>Provincia de Manú</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Madre de Dios</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-MDD</ctml:parentRef>
+    <ctml:wikiDataId>Q2320717</ctml:wikiDataId>
+    <ctml:latitude>-12.25000000</ctml:latitude>
+    <ctml:longitude>-71.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80898" kind="city">
+    <ctml:name>Provincia de Tahuamanú</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Madre de Dios</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-MDD</ctml:parentRef>
+    <ctml:wikiDataId>Q945636</ctml:wikiDataId>
+    <ctml:latitude>-11.25000000</ctml:latitude>
+    <ctml:longitude>-70.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80900" kind="city">
+    <ctml:name>Provincia de Tambopata</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Madre de Dios</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-MDD</ctml:parentRef>
+    <ctml:wikiDataId>Q1999122</ctml:wikiDataId>
+    <ctml:latitude>-12.19948000</ctml:latitude>
+    <ctml:longitude>-70.05006000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80939" kind="city">
+    <ctml:name>Salvación</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Madre de Dios</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-MDD</ctml:parentRef>
+    <ctml:wikiDataId>Q3348291</ctml:wikiDataId>
+    <ctml:latitude>-12.83605000</ctml:latitude>
+    <ctml:longitude>-71.36490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80987" kind="city">
+    <ctml:name>Tambopata</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Madre de Dios</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-MDD</ctml:parentRef>
+    <ctml:wikiDataId>Q723584</ctml:wikiDataId>
+    <ctml:latitude>-12.67191000</ctml:latitude>
+    <ctml:longitude>-69.35547000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80670" kind="city">
+    <ctml:name>Ilo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Moquegua</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-MOQ</ctml:parentRef>
+    <ctml:wikiDataId>Q1000341</ctml:wikiDataId>
+    <ctml:latitude>-17.63185000</ctml:latitude>
+    <ctml:longitude>-71.34108000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80743" kind="city">
+    <ctml:name>Pacocha</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Moquegua</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-MOQ</ctml:parentRef>
+    <ctml:wikiDataId>Q1279608</ctml:wikiDataId>
+    <ctml:latitude>-17.64604000</ctml:latitude>
+    <ctml:longitude>-71.34481000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80824" kind="city">
+    <ctml:name>Provincia de General Sánchez Cerro</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Moquegua</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-MOQ</ctml:parentRef>
+    <ctml:wikiDataId>Q1947893</ctml:wikiDataId>
+    <ctml:latitude>-16.50000000</ctml:latitude>
+    <ctml:longitude>-70.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80844" kind="city">
+    <ctml:name>Provincia de Ilo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Moquegua</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-MOQ</ctml:parentRef>
+    <ctml:wikiDataId>Q1944257</ctml:wikiDataId>
+    <ctml:latitude>-17.49694000</ctml:latitude>
+    <ctml:longitude>-71.16722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80862" kind="city">
+    <ctml:name>Provincia de Mariscal Nieto</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Moquegua</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-MOQ</ctml:parentRef>
+    <ctml:wikiDataId>Q1944431</ctml:wikiDataId>
+    <ctml:latitude>-17.08361000</ctml:latitude>
+    <ctml:longitude>-71.00333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80996" kind="city">
+    <ctml:name>Torata</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Moquegua</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-MOQ</ctml:parentRef>
+    <ctml:wikiDataId>Q3344048</ctml:wikiDataId>
+    <ctml:latitude>-17.07694000</ctml:latitude>
+    <ctml:longitude>-70.84333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-160102" kind="city">
+    <ctml:name>Barranco</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Municipalidad Metropolitana de Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LMA</ctml:parentRef>
+    <ctml:wikiDataId>Q893053</ctml:wikiDataId>
+    <ctml:latitude>-12.14540000</ctml:latitude>
+    <ctml:longitude>-77.02070000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-160106" kind="city">
+    <ctml:name>Jesús María</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Municipalidad Metropolitana de Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LMA</ctml:parentRef>
+    <ctml:wikiDataId>Q2711638</ctml:wikiDataId>
+    <ctml:latitude>-12.07290000</ctml:latitude>
+    <ctml:longitude>-77.04160000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-160103" kind="city">
+    <ctml:name>La Molina</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Municipalidad Metropolitana de Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LMA</ctml:parentRef>
+    <ctml:wikiDataId>Q1016388</ctml:wikiDataId>
+    <ctml:latitude>-12.08070000</ctml:latitude>
+    <ctml:longitude>-76.93510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-160108" kind="city">
+    <ctml:name>Lince</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Municipalidad Metropolitana de Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LMA</ctml:parentRef>
+    <ctml:wikiDataId>Q2711642</ctml:wikiDataId>
+    <ctml:latitude>-12.08210000</ctml:latitude>
+    <ctml:longitude>-77.03030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-160107" kind="city">
+    <ctml:name>Magdalena del Mar</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Municipalidad Metropolitana de Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LMA</ctml:parentRef>
+    <ctml:wikiDataId>Q986395</ctml:wikiDataId>
+    <ctml:latitude>-12.09160000</ctml:latitude>
+    <ctml:longitude>-77.07320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-160101" kind="city">
+    <ctml:name>Miraflores</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Municipalidad Metropolitana de Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LMA</ctml:parentRef>
+    <ctml:wikiDataId>Q747840</ctml:wikiDataId>
+    <ctml:latitude>-12.11940000</ctml:latitude>
+    <ctml:longitude>-77.02820000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-160105" kind="city">
+    <ctml:name>Pueblo Libre</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Municipalidad Metropolitana de Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LMA</ctml:parentRef>
+    <ctml:wikiDataId>Q2711629</ctml:wikiDataId>
+    <ctml:latitude>-12.07570000</ctml:latitude>
+    <ctml:longitude>-77.06340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-160104" kind="city">
+    <ctml:name>San Borja</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Municipalidad Metropolitana de Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LMA</ctml:parentRef>
+    <ctml:wikiDataId>Q2004830</ctml:wikiDataId>
+    <ctml:latitude>-12.10150000</ctml:latitude>
+    <ctml:longitude>-76.99670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80945" kind="city">
+    <ctml:name>San Isidro</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Municipalidad Metropolitana de Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LMA</ctml:parentRef>
+    <ctml:wikiDataId>Q2004827</ctml:wikiDataId>
+    <ctml:latitude>-12.09560000</ctml:latitude>
+    <ctml:longitude>-77.03490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80967" kind="city">
+    <ctml:name>Santiago de Surco</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Municipalidad Metropolitana de Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-LMA</ctml:parentRef>
+    <ctml:wikiDataId>Q833073</ctml:wikiDataId>
+    <ctml:latitude>-12.14780000</ctml:latitude>
+    <ctml:longitude>-76.99370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80605" kind="city">
+    <ctml:name>Chaupimarca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Pasco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PAS</ctml:parentRef>
+    <ctml:wikiDataId>Q765311</ctml:wikiDataId>
+    <ctml:latitude>-10.40696000</ctml:latitude>
+    <ctml:longitude>-76.46168000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PER-80737" kind="admin2">
+    <ctml:name>Oxapampa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Pasco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PAS</ctml:parentRef>
+    <ctml:wikiDataId>Q1014523</ctml:wikiDataId>
+    <ctml:latitude>-10.57750000</ctml:latitude>
+    <ctml:longitude>-75.40167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80756" kind="city">
+    <ctml:name>Paucartambo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Pasco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PAS</ctml:parentRef>
+    <ctml:wikiDataId>Q27194421</ctml:wikiDataId>
+    <ctml:latitude>-10.77326000</ctml:latitude>
+    <ctml:longitude>-75.81109000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80820" kind="city">
+    <ctml:name>Provincia de Daniel Carrión</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Pasco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PAS</ctml:parentRef>
+    <ctml:wikiDataId>Q1944288</ctml:wikiDataId>
+    <ctml:latitude>-10.50000000</ctml:latitude>
+    <ctml:longitude>-76.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80867" kind="city">
+    <ctml:name>Provincia de Oxapampa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Pasco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PAS</ctml:parentRef>
+    <ctml:wikiDataId>Q960169</ctml:wikiDataId>
+    <ctml:latitude>-10.33333000</ctml:latitude>
+    <ctml:longitude>-75.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80875" kind="city">
+    <ctml:name>Provincia de Pasco</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Pasco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PAS</ctml:parentRef>
+    <ctml:wikiDataId>Q976034</ctml:wikiDataId>
+    <ctml:latitude>-10.66667000</ctml:latitude>
+    <ctml:longitude>-76.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80994" kind="city">
+    <ctml:name>Tinyahuarco</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Pasco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PAS</ctml:parentRef>
+    <ctml:wikiDataId>Q1974467</ctml:wikiDataId>
+    <ctml:latitude>-10.76771000</ctml:latitude>
+    <ctml:longitude>-76.27523000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81008" kind="city">
+    <ctml:name>Villa Rica</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Pasco</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PAS</ctml:parentRef>
+    <ctml:wikiDataId>Q941183</ctml:wikiDataId>
+    <ctml:latitude>-10.73944000</ctml:latitude>
+    <ctml:longitude>-75.26972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80567" kind="city">
+    <ctml:name>Ayabaca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q792713</ctml:wikiDataId>
+    <ctml:latitude>-4.63983000</ctml:latitude>
+    <ctml:longitude>-79.71491000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80577" kind="city">
+    <ctml:name>Bernal</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q3344055</ctml:wikiDataId>
+    <ctml:latitude>-5.45000000</ctml:latitude>
+    <ctml:longitude>-80.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80578" kind="city">
+    <ctml:name>Buenos Aires</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q3344055</ctml:wikiDataId>
+    <ctml:latitude>-5.26083000</ctml:latitude>
+    <ctml:longitude>-79.96417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80596" kind="city">
+    <ctml:name>Catacaos</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q3312424</ctml:wikiDataId>
+    <ctml:latitude>-5.26667000</ctml:latitude>
+    <ctml:longitude>-80.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80624" kind="city">
+    <ctml:name>Chulucanas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q1089449</ctml:wikiDataId>
+    <ctml:latitude>-5.09250000</ctml:latitude>
+    <ctml:longitude>-80.16250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80638" kind="city">
+    <ctml:name>El Alto</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q5582862</ctml:wikiDataId>
+    <ctml:latitude>-4.26851000</ctml:latitude>
+    <ctml:longitude>-81.21719000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80650" kind="city">
+    <ctml:name>Huancabamba</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q2307821</ctml:wikiDataId>
+    <ctml:latitude>-5.23861000</ctml:latitude>
+    <ctml:longitude>-79.45056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80686" kind="city">
+    <ctml:name>La Breita</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q2640092</ctml:wikiDataId>
+    <ctml:latitude>-4.25691000</ctml:latitude>
+    <ctml:longitude>-80.88599000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80687" kind="city">
+    <ctml:name>La Huaca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q2640092</ctml:wikiDataId>
+    <ctml:latitude>-4.91167000</ctml:latitude>
+    <ctml:longitude>-80.96000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80691" kind="city">
+    <ctml:name>La Unión</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q595441</ctml:wikiDataId>
+    <ctml:latitude>-5.40232000</ctml:latitude>
+    <ctml:longitude>-80.74224000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80698" kind="city">
+    <ctml:name>Las Lomas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q6488869</ctml:wikiDataId>
+    <ctml:latitude>-4.65333000</ctml:latitude>
+    <ctml:longitude>-80.24667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80727" kind="city">
+    <ctml:name>Máncora</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q529807</ctml:wikiDataId>
+    <ctml:latitude>-4.10778000</ctml:latitude>
+    <ctml:longitude>-81.04750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80711" kind="city">
+    <ctml:name>Marcavelica</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q1026235</ctml:wikiDataId>
+    <ctml:latitude>-4.87778000</ctml:latitude>
+    <ctml:longitude>-80.70528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80721" kind="city">
+    <ctml:name>Morropon</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q384980</ctml:wikiDataId>
+    <ctml:latitude>-5.25000000</ctml:latitude>
+    <ctml:longitude>-80.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80746" kind="city">
+    <ctml:name>Paita</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q1026270</ctml:wikiDataId>
+    <ctml:latitude>-5.08917000</ctml:latitude>
+    <ctml:longitude>-81.11444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80778" kind="city">
+    <ctml:name>Provincia de Ayabaca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q1367672</ctml:wikiDataId>
+    <ctml:latitude>-4.75000000</ctml:latitude>
+    <ctml:longitude>-79.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80831" kind="city">
+    <ctml:name>Provincia de Huancabamba</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q1422619</ctml:wikiDataId>
+    <ctml:latitude>-5.50000000</ctml:latitude>
+    <ctml:longitude>-79.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80870" kind="city">
+    <ctml:name>Provincia de Paita</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q2084618</ctml:wikiDataId>
+    <ctml:latitude>-5.10189000</ctml:latitude>
+    <ctml:longitude>-81.09695000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80879" kind="city">
+    <ctml:name>Provincia de Piura</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q676572</ctml:wikiDataId>
+    <ctml:latitude>-5.21416000</ctml:latitude>
+    <ctml:longitude>-80.40617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80896" kind="city">
+    <ctml:name>Provincia de Sullana</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q612923</ctml:wikiDataId>
+    <ctml:latitude>-4.50000000</ctml:latitude>
+    <ctml:longitude>-80.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80899" kind="city">
+    <ctml:name>Provincia de Talara</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q2287241</ctml:wikiDataId>
+    <ctml:latitude>-4.41667000</ctml:latitude>
+    <ctml:longitude>-81.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80927" kind="city">
+    <ctml:name>Querecotillo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q672921</ctml:wikiDataId>
+    <ctml:latitude>-4.83778000</ctml:latitude>
+    <ctml:longitude>-80.64556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80937" kind="city">
+    <ctml:name>Salinera Colán</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q7403730</ctml:wikiDataId>
+    <ctml:latitude>-5.03333000</ctml:latitude>
+    <ctml:longitude>-81.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80938" kind="city">
+    <ctml:name>Salitral</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q7403730</ctml:wikiDataId>
+    <ctml:latitude>-4.85722000</ctml:latitude>
+    <ctml:longitude>-80.68111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80973" kind="city">
+    <ctml:name>Sechura</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q3236446</ctml:wikiDataId>
+    <ctml:latitude>-5.55694000</ctml:latitude>
+    <ctml:longitude>-80.82222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80979" kind="city">
+    <ctml:name>Sullana</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q510413</ctml:wikiDataId>
+    <ctml:latitude>-4.90389000</ctml:latitude>
+    <ctml:longitude>-80.68528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80983" kind="city">
+    <ctml:name>Talara</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q723584</ctml:wikiDataId>
+    <ctml:latitude>-4.57722000</ctml:latitude>
+    <ctml:longitude>-81.27194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80986" kind="city">
+    <ctml:name>Tambo Grande</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q723584</ctml:wikiDataId>
+    <ctml:latitude>-4.92694000</ctml:latitude>
+    <ctml:longitude>-80.34472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81007" kind="city">
+    <ctml:name>Vice</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Piura</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PIU</ctml:parentRef>
+    <ctml:wikiDataId>Q941183</ctml:wikiDataId>
+    <ctml:latitude>-5.41667000</ctml:latitude>
+    <ctml:longitude>-80.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80566" kind="city">
+    <ctml:name>Atuncolla</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1920509</ctml:wikiDataId>
+    <ctml:latitude>-15.68333000</ctml:latitude>
+    <ctml:longitude>-70.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80569" kind="city">
+    <ctml:name>Ayaviri</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q3344141</ctml:wikiDataId>
+    <ctml:latitude>-14.88639000</ctml:latitude>
+    <ctml:longitude>-70.58889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PER-80571" kind="admin2">
+    <ctml:name>Azángaro</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q2638284</ctml:wikiDataId>
+    <ctml:latitude>-14.90843000</ctml:latitude>
+    <ctml:longitude>-70.19616000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80637" kind="city">
+    <ctml:name>Desaguadero</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q5582862</ctml:wikiDataId>
+    <ctml:latitude>-16.56556000</ctml:latitude>
+    <ctml:longitude>-69.04167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80639" kind="city">
+    <ctml:name>El Collao</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q2088833</ctml:wikiDataId>
+    <ctml:latitude>-16.72641000</ctml:latitude>
+    <ctml:longitude>-69.75515000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80645" kind="city">
+    <ctml:name>Hacienda Huancane</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q2117510</ctml:wikiDataId>
+    <ctml:latitude>-15.82327000</ctml:latitude>
+    <ctml:longitude>-70.88540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80669" kind="city">
+    <ctml:name>Ilave</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q3348236</ctml:wikiDataId>
+    <ctml:latitude>-16.08333000</ctml:latitude>
+    <ctml:longitude>-69.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80683" kind="city">
+    <ctml:name>Juli</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q2588438</ctml:wikiDataId>
+    <ctml:latitude>-16.21667000</ctml:latitude>
+    <ctml:longitude>-69.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80684" kind="city">
+    <ctml:name>Juliaca</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q696074</ctml:wikiDataId>
+    <ctml:latitude>-15.50000000</ctml:latitude>
+    <ctml:longitude>-70.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80690" kind="city">
+    <ctml:name>La Rinconada</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q852929</ctml:wikiDataId>
+    <ctml:latitude>-14.63126000</ctml:latitude>
+    <ctml:longitude>-69.44638000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80695" kind="city">
+    <ctml:name>Lampa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q2638295</ctml:wikiDataId>
+    <ctml:latitude>-15.35000000</ctml:latitude>
+    <ctml:longitude>-70.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80707" kind="city">
+    <ctml:name>Macusani</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q3348229</ctml:wikiDataId>
+    <ctml:latitude>-14.08333000</ctml:latitude>
+    <ctml:longitude>-70.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81023" kind="city">
+    <ctml:name>Ñuñoa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q27194667</ctml:wikiDataId>
+    <ctml:latitude>-14.47788000</ctml:latitude>
+    <ctml:longitude>-70.63583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PER-80780" kind="admin2">
+    <ctml:name>Provincia de Azángaro</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q2088824</ctml:wikiDataId>
+    <ctml:latitude>-14.83333000</ctml:latitude>
+    <ctml:longitude>-70.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80794" kind="city">
+    <ctml:name>Provincia de Carabaya</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1944216</ctml:wikiDataId>
+    <ctml:latitude>-13.83333000</ctml:latitude>
+    <ctml:longitude>-70.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80807" kind="city">
+    <ctml:name>Provincia de Chucuito</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q2088871</ctml:wikiDataId>
+    <ctml:latitude>-16.60545000</ctml:latitude>
+    <ctml:longitude>-69.35761000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80832" kind="city">
+    <ctml:name>Provincia de Huancané</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1944227</ctml:wikiDataId>
+    <ctml:latitude>-15.16667000</ctml:latitude>
+    <ctml:longitude>-69.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80854" kind="city">
+    <ctml:name>Provincia de Lampa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1944347</ctml:wikiDataId>
+    <ctml:latitude>-15.41667000</ctml:latitude>
+    <ctml:longitude>-70.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80863" kind="city">
+    <ctml:name>Provincia de Melgar</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1944356</ctml:wikiDataId>
+    <ctml:latitude>-14.75000000</ctml:latitude>
+    <ctml:longitude>-70.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80881" kind="city">
+    <ctml:name>Provincia de Puno</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q2084681</ctml:wikiDataId>
+    <ctml:latitude>-16.00000000</ctml:latitude>
+    <ctml:longitude>-70.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80889" kind="city">
+    <ctml:name>Provincia de Sandia</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1948135</ctml:wikiDataId>
+    <ctml:latitude>-13.83333000</ctml:latitude>
+    <ctml:longitude>-69.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80941" kind="city">
+    <ctml:name>San Antonio De Putina</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1935565</ctml:wikiDataId>
+    <ctml:latitude>-14.71175000</ctml:latitude>
+    <ctml:longitude>-69.61559000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80957" kind="city">
+    <ctml:name>San Roman</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1944337</ctml:wikiDataId>
+    <ctml:latitude>-15.83333000</ctml:latitude>
+    <ctml:longitude>-70.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80961" kind="city">
+    <ctml:name>Santa Lucía</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q1944245</ctml:wikiDataId>
+    <ctml:latitude>-15.69788000</ctml:latitude>
+    <ctml:longitude>-70.60610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80988" kind="city">
+    <ctml:name>Taquile</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q723584</ctml:wikiDataId>
+    <ctml:latitude>-15.76667000</ctml:latitude>
+    <ctml:longitude>-69.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81019" kind="city">
+    <ctml:name>Yunguyo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Puno</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-PUN</ctml:parentRef>
+    <ctml:wikiDataId>Q2306609</ctml:wikiDataId>
+    <ctml:latitude>-16.25000000</ctml:latitude>
+    <ctml:longitude>-69.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80575" kind="city">
+    <ctml:name>Bellavista</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q3344055</ctml:wikiDataId>
+    <ctml:latitude>-7.05614000</ctml:latitude>
+    <ctml:longitude>-76.59110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80606" kind="city">
+    <ctml:name>Chazuta</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q765311</ctml:wikiDataId>
+    <ctml:latitude>-6.57087000</ctml:latitude>
+    <ctml:longitude>-76.13753000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80640" kind="city">
+    <ctml:name>El Dorado</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q2084675</ctml:wikiDataId>
+    <ctml:latitude>-6.56298000</ctml:latitude>
+    <ctml:longitude>-76.74130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80664" kind="city">
+    <ctml:name>Huicungo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q629736</ctml:wikiDataId>
+    <ctml:latitude>-7.31860000</ctml:latitude>
+    <ctml:longitude>-76.77556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80679" kind="city">
+    <ctml:name>Jepelacio</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q1229885</ctml:wikiDataId>
+    <ctml:latitude>-6.11667000</ctml:latitude>
+    <ctml:longitude>-76.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80681" kind="city">
+    <ctml:name>Juanjuí</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q2671983</ctml:wikiDataId>
+    <ctml:latitude>-7.17697000</ctml:latitude>
+    <ctml:longitude>-76.72774000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80693" kind="city">
+    <ctml:name>Lamas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q3139869</ctml:wikiDataId>
+    <ctml:latitude>-6.41667000</ctml:latitude>
+    <ctml:longitude>-76.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80759" kind="city">
+    <ctml:name>Picota</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q3344087</ctml:wikiDataId>
+    <ctml:latitude>-6.92033000</ctml:latitude>
+    <ctml:longitude>-76.33142000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80827" kind="city">
+    <ctml:name>Provincia de Huallaga</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q731515</ctml:wikiDataId>
+    <ctml:latitude>-6.75664000</ctml:latitude>
+    <ctml:longitude>-76.90143000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80852" kind="city">
+    <ctml:name>Provincia de Lamas</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q2281473</ctml:wikiDataId>
+    <ctml:latitude>-6.33333000</ctml:latitude>
+    <ctml:longitude>-76.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80860" kind="city">
+    <ctml:name>Provincia de Mariscal Cáceres</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q1947944</ctml:wikiDataId>
+    <ctml:latitude>-7.27390000</ctml:latitude>
+    <ctml:longitude>-77.18216000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80864" kind="city">
+    <ctml:name>Provincia de Moyobamba</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q1948150</ctml:wikiDataId>
+    <ctml:latitude>-5.75000000</ctml:latitude>
+    <ctml:longitude>-77.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80884" kind="city">
+    <ctml:name>Provincia de Rioja</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q2084648</ctml:wikiDataId>
+    <ctml:latitude>-6.00000000</ctml:latitude>
+    <ctml:longitude>-77.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80887" kind="city">
+    <ctml:name>Provincia de San Martín</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q588491</ctml:wikiDataId>
+    <ctml:latitude>-6.58333000</ctml:latitude>
+    <ctml:longitude>-76.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80934" kind="city">
+    <ctml:name>Rioja</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q3344069</ctml:wikiDataId>
+    <ctml:latitude>-6.05675000</ctml:latitude>
+    <ctml:longitude>-77.16651000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80969" kind="city">
+    <ctml:name>Saposoa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q3344065</ctml:wikiDataId>
+    <ctml:latitude>-6.93395000</ctml:latitude>
+    <ctml:longitude>-76.77158000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80976" kind="city">
+    <ctml:name>Sisa</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q11034041</ctml:wikiDataId>
+    <ctml:latitude>-6.61085000</ctml:latitude>
+    <ctml:longitude>-76.69302000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80977" kind="city">
+    <ctml:name>Soritor</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q11034041</ctml:wikiDataId>
+    <ctml:latitude>-6.13917000</ctml:latitude>
+    <ctml:longitude>-77.10389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80981" kind="city">
+    <ctml:name>Tabalosos</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q510413</ctml:wikiDataId>
+    <ctml:latitude>-6.35000000</ctml:latitude>
+    <ctml:longitude>-76.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80989" kind="city">
+    <ctml:name>Tarapoto</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q927933</ctml:wikiDataId>
+    <ctml:latitude>-6.50139000</ctml:latitude>
+    <ctml:longitude>-76.36556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80995" kind="city">
+    <ctml:name>Tocache</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q3344048</ctml:wikiDataId>
+    <ctml:latitude>-8.18770000</ctml:latitude>
+    <ctml:longitude>-76.52046000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81002" kind="city">
+    <ctml:name>Uchiza</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>San Martín</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q1677131</ctml:wikiDataId>
+    <ctml:latitude>-8.45917000</ctml:latitude>
+    <ctml:longitude>-76.46333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80583" kind="city">
+    <ctml:name>Calana</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tacna</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TAC</ctml:parentRef>
+    <ctml:wikiDataId>Q205119</ctml:wikiDataId>
+    <ctml:latitude>-17.94167000</ctml:latitude>
+    <ctml:longitude>-70.18694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80590" kind="city">
+    <ctml:name>Candarave</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tacna</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TAC</ctml:parentRef>
+    <ctml:wikiDataId>Q3344236</ctml:wikiDataId>
+    <ctml:latitude>-17.26778000</ctml:latitude>
+    <ctml:longitude>-70.24944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80618" kind="city">
+    <ctml:name>Chipispaya</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tacna</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TAC</ctml:parentRef>
+    <ctml:wikiDataId>Q26764442</ctml:wikiDataId>
+    <ctml:latitude>-17.49790000</ctml:latitude>
+    <ctml:longitude>-70.21714000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80626" kind="city">
+    <ctml:name>Chuquitira</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tacna</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TAC</ctml:parentRef>
+    <ctml:wikiDataId>Q3344173</ctml:wikiDataId>
+    <ctml:latitude>-17.28891000</ctml:latitude>
+    <ctml:longitude>-70.04363000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80668" kind="city">
+    <ctml:name>Ilabaya</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tacna</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TAC</ctml:parentRef>
+    <ctml:wikiDataId>Q840712</ctml:wikiDataId>
+    <ctml:latitude>-17.42083000</ctml:latitude>
+    <ctml:longitude>-70.51333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80680" kind="city">
+    <ctml:name>Jorge Basadre</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tacna</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TAC</ctml:parentRef>
+    <ctml:wikiDataId>Q589047</ctml:wikiDataId>
+    <ctml:latitude>-17.57919000</ctml:latitude>
+    <ctml:longitude>-70.73083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80897" kind="city">
+    <ctml:name>Provincia de Tacna</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tacna</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TAC</ctml:parentRef>
+    <ctml:wikiDataId>Q1355960</ctml:wikiDataId>
+    <ctml:latitude>-17.83333000</ctml:latitude>
+    <ctml:longitude>-70.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80901" kind="city">
+    <ctml:name>Provincia de Tarata</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tacna</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TAC</ctml:parentRef>
+    <ctml:wikiDataId>Q1410654</ctml:wikiDataId>
+    <ctml:latitude>-17.41667000</ctml:latitude>
+    <ctml:longitude>-70.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80921" kind="city">
+    <ctml:name>Pujocucho</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tacna</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TAC</ctml:parentRef>
+    <ctml:wikiDataId>Q3504032</ctml:wikiDataId>
+    <ctml:latitude>-17.15778000</ctml:latitude>
+    <ctml:longitude>-70.35222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80929" kind="city">
+    <ctml:name>Quilahuani</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tacna</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TAC</ctml:parentRef>
+    <ctml:wikiDataId>Q672921</ctml:wikiDataId>
+    <ctml:latitude>-17.31778000</ctml:latitude>
+    <ctml:longitude>-70.25806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80990" kind="city">
+    <ctml:name>Tarata</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tacna</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TAC</ctml:parentRef>
+    <ctml:wikiDataId>Q2588449</ctml:wikiDataId>
+    <ctml:latitude>-17.47444000</ctml:latitude>
+    <ctml:longitude>-70.03278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80997" kind="city">
+    <ctml:name>Totoral</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tacna</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TAC</ctml:parentRef>
+    <ctml:wikiDataId>Q3344048</ctml:wikiDataId>
+    <ctml:latitude>-17.40620000</ctml:latitude>
+    <ctml:longitude>-70.36464000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80557" kind="city">
+    <ctml:name>Aguas Verdes</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tumbes</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TUM</ctml:parentRef>
+    <ctml:wikiDataId>Q5660311</ctml:wikiDataId>
+    <ctml:latitude>-3.48139000</ctml:latitude>
+    <ctml:longitude>-80.24500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80751" kind="city">
+    <ctml:name>Papayal</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tumbes</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TUM</ctml:parentRef>
+    <ctml:wikiDataId>Q2725364</ctml:wikiDataId>
+    <ctml:latitude>-4.07771000</ctml:latitude>
+    <ctml:longitude>-80.73690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80813" kind="city">
+    <ctml:name>Provincia de Contralmirante Villar</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tumbes</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TUM</ctml:parentRef>
+    <ctml:wikiDataId>Q1422590</ctml:wikiDataId>
+    <ctml:latitude>-4.00000000</ctml:latitude>
+    <ctml:longitude>-80.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80905" kind="city">
+    <ctml:name>Provincia de Tumbes</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tumbes</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TUM</ctml:parentRef>
+    <ctml:wikiDataId>Q1479348</ctml:wikiDataId>
+    <ctml:latitude>-3.75000000</ctml:latitude>
+    <ctml:longitude>-80.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80912" kind="city">
+    <ctml:name>Provincia de Zarumilla</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tumbes</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TUM</ctml:parentRef>
+    <ctml:wikiDataId>Q1477797</ctml:wikiDataId>
+    <ctml:latitude>-3.66667000</ctml:latitude>
+    <ctml:longitude>-80.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81021" kind="city">
+    <ctml:name>Zarumilla</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tumbes</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TUM</ctml:parentRef>
+    <ctml:wikiDataId>Q2877763</ctml:wikiDataId>
+    <ctml:latitude>-3.50306000</ctml:latitude>
+    <ctml:longitude>-80.27306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-81022" kind="city">
+    <ctml:name>Zorritos</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Tumbes</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-TUM</ctml:parentRef>
+    <ctml:wikiDataId>Q3317432</ctml:wikiDataId>
+    <ctml:latitude>-3.68046000</ctml:latitude>
+    <ctml:longitude>-80.67819000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80565" kind="city">
+    <ctml:name>Atalaya</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ucayali</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-UCA</ctml:parentRef>
+    <ctml:wikiDataId>Q1920509</ctml:wikiDataId>
+    <ctml:latitude>-10.38980000</ctml:latitude>
+    <ctml:longitude>-73.21977000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80589" kind="city">
+    <ctml:name>Campoverde</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ucayali</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-UCA</ctml:parentRef>
+    <ctml:wikiDataId>Q34789572</ctml:wikiDataId>
+    <ctml:latitude>-8.47533000</ctml:latitude>
+    <ctml:longitude>-74.80709000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80744" kind="city">
+    <ctml:name>Padre Abad</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ucayali</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-UCA</ctml:parentRef>
+    <ctml:wikiDataId>Q548556</ctml:wikiDataId>
+    <ctml:latitude>-8.79680000</ctml:latitude>
+    <ctml:longitude>-75.42850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80815" kind="city">
+    <ctml:name>Provincia de Coronel Portillo</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ucayali</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-UCA</ctml:parentRef>
+    <ctml:wikiDataId>Q579906</ctml:wikiDataId>
+    <ctml:latitude>-9.50000000</ctml:latitude>
+    <ctml:longitude>-73.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PER-80925" kind="city">
+    <ctml:name>Purus</ctml:name>
+    <ctml:country>PER</ctml:country>
+    <ctml:admin1>Ucayali</ctml:admin1>
+    <ctml:parentRef>place:admin1:PE-UCA</ctml:parentRef>
+    <ctml:wikiDataId>Q672921</ctml:wikiDataId>
+    <ctml:latitude>-10.37331000</ctml:latitude>
+    <ctml:longitude>-71.58231000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

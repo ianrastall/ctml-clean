@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SLV-104848" kind="city">
+    <ctml:name>Atiquizaya</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Ahuachapán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q2779447</ctml:wikiDataId>
+    <ctml:latitude>13.97694000</ctml:latitude>
+    <ctml:longitude>-89.75250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104863" kind="city">
+    <ctml:name>Concepción de Ataco</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Ahuachapán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q1123798</ctml:wikiDataId>
+    <ctml:latitude>13.87028000</ctml:latitude>
+    <ctml:longitude>-89.84861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104873" kind="city">
+    <ctml:name>Guaymango</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Ahuachapán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q2779410</ctml:wikiDataId>
+    <ctml:latitude>13.75028000</ctml:latitude>
+    <ctml:longitude>-89.84222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104883" kind="city">
+    <ctml:name>Jujutla</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Ahuachapán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q2779408</ctml:wikiDataId>
+    <ctml:latitude>13.78694000</ctml:latitude>
+    <ctml:longitude>-89.85722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104906" kind="city">
+    <ctml:name>San Francisco Menéndez</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Ahuachapán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q766174</ctml:wikiDataId>
+    <ctml:latitude>13.84306000</ctml:latitude>
+    <ctml:longitude>-90.01583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104931" kind="city">
+    <ctml:name>Tacuba</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Ahuachapán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q1283898</ctml:wikiDataId>
+    <ctml:latitude>13.90111000</ctml:latitude>
+    <ctml:longitude>-89.92972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104937" kind="city">
+    <ctml:name>Victoria</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Cabañas</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q1154188</ctml:wikiDataId>
+    <ctml:latitude>13.95000000</ctml:latitude>
+    <ctml:longitude>-88.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104891" kind="city">
+    <ctml:name>Nueva Concepción</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Chalatenango</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-CH</ctml:parentRef>
+    <ctml:wikiDataId>Q2779443</ctml:wikiDataId>
+    <ctml:latitude>14.13333000</ctml:latitude>
+    <ctml:longitude>-89.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104909" kind="city">
+    <ctml:name>San Martín</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Cuscatlán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-CU</ctml:parentRef>
+    <ctml:wikiDataId>Q31943460</ctml:wikiDataId>
+    <ctml:latitude>13.78333000</ctml:latitude>
+    <ctml:longitude>-88.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104930" kind="city">
+    <ctml:name>Suchitoto</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Cuscatlán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-CU</ctml:parentRef>
+    <ctml:wikiDataId>Q2779509</ctml:wikiDataId>
+    <ctml:latitude>13.93806000</ctml:latitude>
+    <ctml:longitude>-89.02778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104932" kind="city">
+    <ctml:name>Tecoluca</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Cuscatlán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-CU</ctml:parentRef>
+    <ctml:wikiDataId>Q31943487</ctml:wikiDataId>
+    <ctml:latitude>13.78917000</ctml:latitude>
+    <ctml:longitude>-89.00528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104933" kind="city">
+    <ctml:name>Tenancingo</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Cuscatlán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-CU</ctml:parentRef>
+    <ctml:wikiDataId>Q3983398</ctml:wikiDataId>
+    <ctml:latitude>13.83333000</ctml:latitude>
+    <ctml:longitude>-88.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104844" kind="city">
+    <ctml:name>Antiguo Cuscatlán</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q575756</ctml:wikiDataId>
+    <ctml:latitude>13.66492000</ctml:latitude>
+    <ctml:longitude>-89.25319000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104858" kind="city">
+    <ctml:name>Ciudad Arce</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q649241</ctml:wikiDataId>
+    <ctml:latitude>13.84028000</ctml:latitude>
+    <ctml:longitude>-89.44722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104884" kind="city">
+    <ctml:name>La Libertad</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q2631462</ctml:wikiDataId>
+    <ctml:latitude>13.48833000</ctml:latitude>
+    <ctml:longitude>-89.32222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104894" kind="city">
+    <ctml:name>Nuevo Cuscatlán</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q3879293</ctml:wikiDataId>
+    <ctml:latitude>13.64861000</ctml:latitude>
+    <ctml:longitude>-89.26528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104900" kind="city">
+    <ctml:name>Quezaltepeque</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q1154058</ctml:wikiDataId>
+    <ctml:latitude>13.83124000</ctml:latitude>
+    <ctml:longitude>-89.27221000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104907" kind="city">
+    <ctml:name>San Juan Opico</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q2003995</ctml:wikiDataId>
+    <ctml:latitude>13.87611000</ctml:latitude>
+    <ctml:longitude>-89.35972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104911" kind="city">
+    <ctml:name>San Pablo Tacachico</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q3947747</ctml:wikiDataId>
+    <ctml:latitude>13.97556000</ctml:latitude>
+    <ctml:longitude>-89.34000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104939" kind="city">
+    <ctml:name>Zaragoza</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Libertad</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q4023866</ctml:wikiDataId>
+    <ctml:latitude>13.58944000</ctml:latitude>
+    <ctml:longitude>-89.28889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104870" kind="city">
+    <ctml:name>El Rosario</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Paz</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q11100824</ctml:wikiDataId>
+    <ctml:latitude>13.49778000</ctml:latitude>
+    <ctml:longitude>-89.02972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104895" kind="city">
+    <ctml:name>Olocuilta</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Paz</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q1154537</ctml:wikiDataId>
+    <ctml:latitude>13.56972000</ctml:latitude>
+    <ctml:longitude>-89.11722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104912" kind="city">
+    <ctml:name>San Pedro Masahuat</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Paz</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q432350</ctml:wikiDataId>
+    <ctml:latitude>13.54361000</ctml:latitude>
+    <ctml:longitude>-89.03861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104921" kind="city">
+    <ctml:name>Santiago Nonualco</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Paz</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q647944</ctml:wikiDataId>
+    <ctml:latitude>13.51667000</ctml:latitude>
+    <ctml:longitude>-88.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104843" kind="city">
+    <ctml:name>Anamorós</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Unión </ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-UN</ctml:parentRef>
+    <ctml:wikiDataId>Q3615033</ctml:wikiDataId>
+    <ctml:latitude>13.74056000</ctml:latitude>
+    <ctml:longitude>-87.87361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104864" kind="city">
+    <ctml:name>Conchagua</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Unión </ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-UN</ctml:parentRef>
+    <ctml:wikiDataId>Q3686207</ctml:wikiDataId>
+    <ctml:latitude>13.30778000</ctml:latitude>
+    <ctml:longitude>-87.86472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104876" kind="city">
+    <ctml:name>Intipucá</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Unión </ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-UN</ctml:parentRef>
+    <ctml:wikiDataId>Q3800717</ctml:wikiDataId>
+    <ctml:latitude>13.19694000</ctml:latitude>
+    <ctml:longitude>-88.05444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104892" kind="city">
+    <ctml:name>Nueva Esparta</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Unión </ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-UN</ctml:parentRef>
+    <ctml:wikiDataId>Q550044</ctml:wikiDataId>
+    <ctml:latitude>13.78361000</ctml:latitude>
+    <ctml:longitude>-87.83861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104898" kind="city">
+    <ctml:name>Pasaquina</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Unión </ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-UN</ctml:parentRef>
+    <ctml:wikiDataId>Q3896916</ctml:wikiDataId>
+    <ctml:latitude>13.58444000</ctml:latitude>
+    <ctml:longitude>-87.84111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104903" kind="city">
+    <ctml:name>San Alejo</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Unión </ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-UN</ctml:parentRef>
+    <ctml:wikiDataId>Q927114</ctml:wikiDataId>
+    <ctml:latitude>13.43139000</ctml:latitude>
+    <ctml:longitude>-87.96306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104919" kind="city">
+    <ctml:name>Santa Rosa de Lima</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>La Unión </ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-UN</ctml:parentRef>
+    <ctml:wikiDataId>Q2308276</ctml:wikiDataId>
+    <ctml:latitude>13.62472000</ctml:latitude>
+    <ctml:longitude>-87.89361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104851" kind="city">
+    <ctml:name>Cacaopera</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Morazán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q2289165</ctml:wikiDataId>
+    <ctml:latitude>13.76667000</ctml:latitude>
+    <ctml:longitude>-88.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104865" kind="city">
+    <ctml:name>Corinto</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Morazán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q3693570</ctml:wikiDataId>
+    <ctml:latitude>13.81083000</ctml:latitude>
+    <ctml:longitude>-87.97139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104872" kind="city">
+    <ctml:name>Guatajiagua</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Morazán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q3778448</ctml:wikiDataId>
+    <ctml:latitude>13.66667000</ctml:latitude>
+    <ctml:longitude>-88.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104879" kind="city">
+    <ctml:name>Jocoro</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Morazán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q3808621</ctml:wikiDataId>
+    <ctml:latitude>13.61667000</ctml:latitude>
+    <ctml:longitude>-88.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104926" kind="city">
+    <ctml:name>Sociedad</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Morazán</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q765679</ctml:wikiDataId>
+    <ctml:latitude>13.70000000</ctml:latitude>
+    <ctml:longitude>-88.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104855" kind="city">
+    <ctml:name>Chapeltique</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Miguel</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q3666268</ctml:wikiDataId>
+    <ctml:latitude>13.63333000</ctml:latitude>
+    <ctml:longitude>-88.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104856" kind="city">
+    <ctml:name>Chinameca</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Miguel</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q3674976</ctml:wikiDataId>
+    <ctml:latitude>13.50000000</ctml:latitude>
+    <ctml:longitude>-88.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104857" kind="city">
+    <ctml:name>Chirilagua</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Miguel</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q3675145</ctml:wikiDataId>
+    <ctml:latitude>13.22028000</ctml:latitude>
+    <ctml:longitude>-88.13861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104859" kind="city">
+    <ctml:name>Ciudad Barrios</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Miguel</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q1157078</ctml:wikiDataId>
+    <ctml:latitude>13.76667000</ctml:latitude>
+    <ctml:longitude>-88.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104871" kind="city">
+    <ctml:name>El Tránsito</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Miguel</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q1157240</ctml:wikiDataId>
+    <ctml:latitude>13.35000000</ctml:latitude>
+    <ctml:longitude>-88.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104886" kind="city">
+    <ctml:name>Lolotique</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Miguel</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q3836527</ctml:wikiDataId>
+    <ctml:latitude>13.55000000</ctml:latitude>
+    <ctml:longitude>-88.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104889" kind="city">
+    <ctml:name>Moncagua</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Miguel</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q3860588</ctml:wikiDataId>
+    <ctml:latitude>13.53333000</ctml:latitude>
+    <ctml:longitude>-88.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104893" kind="city">
+    <ctml:name>Nueva Guadalupe</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Miguel</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q3879289</ctml:wikiDataId>
+    <ctml:latitude>13.53333000</ctml:latitude>
+    <ctml:longitude>-88.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104913" kind="city">
+    <ctml:name>San Rafael Oriente</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Miguel</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q949719</ctml:wikiDataId>
+    <ctml:latitude>13.38333000</ctml:latitude>
+    <ctml:longitude>-88.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104925" kind="city">
+    <ctml:name>Sesori</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Miguel</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q3958151</ctml:wikiDataId>
+    <ctml:latitude>13.71667000</ctml:latitude>
+    <ctml:longitude>-88.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104841" kind="city">
+    <ctml:name>Aguilares</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q2289978</ctml:wikiDataId>
+    <ctml:latitude>13.95722000</ctml:latitude>
+    <ctml:longitude>-89.18972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104846" kind="city">
+    <ctml:name>Apopa</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q619646</ctml:wikiDataId>
+    <ctml:latitude>13.80722000</ctml:latitude>
+    <ctml:longitude>-89.17917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104849" kind="city">
+    <ctml:name>Ayutuxtepeque</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q793367</ctml:wikiDataId>
+    <ctml:latitude>13.74556000</ctml:latitude>
+    <ctml:longitude>-89.20639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104866" kind="city">
+    <ctml:name>Cuscatancingo</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q1003783</ctml:wikiDataId>
+    <ctml:latitude>13.73611000</ctml:latitude>
+    <ctml:longitude>-89.18139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104867" kind="city">
+    <ctml:name>Delgado</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q723792</ctml:wikiDataId>
+    <ctml:latitude>13.72417000</ctml:latitude>
+    <ctml:longitude>-89.17028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104869" kind="city">
+    <ctml:name>El Paisnal</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q984328</ctml:wikiDataId>
+    <ctml:latitude>13.97361000</ctml:latitude>
+    <ctml:longitude>-89.21861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104874" kind="city">
+    <ctml:name>Guazapa</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q984133</ctml:wikiDataId>
+    <ctml:latitude>13.87694000</ctml:latitude>
+    <ctml:longitude>-89.17306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104875" kind="city">
+    <ctml:name>Ilopango</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q1659066</ctml:wikiDataId>
+    <ctml:latitude>13.70167000</ctml:latitude>
+    <ctml:longitude>-89.10944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104887" kind="city">
+    <ctml:name>Mejicanos</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q723411</ctml:wikiDataId>
+    <ctml:latitude>13.74028000</ctml:latitude>
+    <ctml:longitude>-89.21306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104897" kind="city">
+    <ctml:name>Panchimalco</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q927563</ctml:wikiDataId>
+    <ctml:latitude>13.61278000</ctml:latitude>
+    <ctml:longitude>-89.18000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104901" kind="city">
+    <ctml:name>Rosario de Mora</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q3941398</ctml:wikiDataId>
+    <ctml:latitude>13.57528000</ctml:latitude>
+    <ctml:longitude>-89.20889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104908" kind="city">
+    <ctml:name>San Marcos</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q1157132</ctml:wikiDataId>
+    <ctml:latitude>13.65889000</ctml:latitude>
+    <ctml:longitude>-89.18306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104914" kind="city">
+    <ctml:name>San Salvador</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q3110</ctml:wikiDataId>
+    <ctml:latitude>13.68935000</ctml:latitude>
+    <ctml:longitude>-89.18718000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104923" kind="city">
+    <ctml:name>Santo Tomás</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q3949527</ctml:wikiDataId>
+    <ctml:latitude>13.64083000</ctml:latitude>
+    <ctml:longitude>-89.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104929" kind="city">
+    <ctml:name>Soyapango</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q956031</ctml:wikiDataId>
+    <ctml:latitude>13.71024000</ctml:latitude>
+    <ctml:longitude>-89.13989000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104935" kind="city">
+    <ctml:name>Tonacatepeque</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Salvador</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SS</ctml:parentRef>
+    <ctml:wikiDataId>Q1003568</ctml:wikiDataId>
+    <ctml:latitude>13.78111000</ctml:latitude>
+    <ctml:longitude>-89.11861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104845" kind="city">
+    <ctml:name>Apastepeque</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Vicente</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q617890</ctml:wikiDataId>
+    <ctml:latitude>13.66667000</ctml:latitude>
+    <ctml:longitude>-88.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104915" kind="city">
+    <ctml:name>San Sebastián</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>San Vicente</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q383546</ctml:wikiDataId>
+    <ctml:latitude>13.73333000</ctml:latitude>
+    <ctml:longitude>-88.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104852" kind="city">
+    <ctml:name>Candelaria de La Frontera</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Santa Ana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q1154656</ctml:wikiDataId>
+    <ctml:latitude>14.11667000</ctml:latitude>
+    <ctml:longitude>-89.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104854" kind="city">
+    <ctml:name>Chalchuapa</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Santa Ana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q2565837</ctml:wikiDataId>
+    <ctml:latitude>13.98667000</ctml:latitude>
+    <ctml:longitude>-89.68111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104860" kind="city">
+    <ctml:name>Coatepeque</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Santa Ana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q3681838</ctml:wikiDataId>
+    <ctml:latitude>13.92861000</ctml:latitude>
+    <ctml:longitude>-89.50417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104868" kind="city">
+    <ctml:name>El Congo</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Santa Ana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q3720891</ctml:wikiDataId>
+    <ctml:latitude>13.90889000</ctml:latitude>
+    <ctml:longitude>-89.49583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104888" kind="city">
+    <ctml:name>Metapán</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Santa Ana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q2537220</ctml:wikiDataId>
+    <ctml:latitude>14.33333000</ctml:latitude>
+    <ctml:longitude>-89.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104934" kind="city">
+    <ctml:name>Texistepeque</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Santa Ana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q3985393</ctml:wikiDataId>
+    <ctml:latitude>14.13333000</ctml:latitude>
+    <ctml:longitude>-89.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104840" kind="city">
+    <ctml:name>Acajutla</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Sonsonate</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q937292</ctml:wikiDataId>
+    <ctml:latitude>13.59278000</ctml:latitude>
+    <ctml:longitude>-89.82750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104847" kind="city">
+    <ctml:name>Armenia</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Sonsonate</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q682015</ctml:wikiDataId>
+    <ctml:latitude>13.74361000</ctml:latitude>
+    <ctml:longitude>-89.49889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104877" kind="city">
+    <ctml:name>Izalco</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Sonsonate</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q682226</ctml:wikiDataId>
+    <ctml:latitude>13.74472000</ctml:latitude>
+    <ctml:longitude>-89.67306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104880" kind="city">
+    <ctml:name>Juayúa</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Sonsonate</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q1006979</ctml:wikiDataId>
+    <ctml:latitude>13.84139000</ctml:latitude>
+    <ctml:longitude>-89.74556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104890" kind="city">
+    <ctml:name>Nahuizalco</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Sonsonate</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q224791</ctml:wikiDataId>
+    <ctml:latitude>13.77750000</ctml:latitude>
+    <ctml:longitude>-89.73667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104904" kind="city">
+    <ctml:name>San Antonio del Monte</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Sonsonate</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q3946809</ctml:wikiDataId>
+    <ctml:latitude>13.71639000</ctml:latitude>
+    <ctml:longitude>-89.73833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104928" kind="city">
+    <ctml:name>Sonzacate</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Sonsonate</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q2287976</ctml:wikiDataId>
+    <ctml:latitude>13.73417000</ctml:latitude>
+    <ctml:longitude>-89.71472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104850" kind="city">
+    <ctml:name>Berlín</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Usulután</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-US</ctml:parentRef>
+    <ctml:wikiDataId>Q582242</ctml:wikiDataId>
+    <ctml:latitude>13.50000000</ctml:latitude>
+    <ctml:longitude>-88.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104862" kind="city">
+    <ctml:name>Concepción Batres</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Usulután</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-US</ctml:parentRef>
+    <ctml:wikiDataId>Q1154651</ctml:wikiDataId>
+    <ctml:latitude>13.35000000</ctml:latitude>
+    <ctml:longitude>-88.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104878" kind="city">
+    <ctml:name>Jiquilisco</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Usulután</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-US</ctml:parentRef>
+    <ctml:wikiDataId>Q1154953</ctml:wikiDataId>
+    <ctml:latitude>13.31667000</ctml:latitude>
+    <ctml:longitude>-88.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104881" kind="city">
+    <ctml:name>Jucuapa</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Usulután</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-US</ctml:parentRef>
+    <ctml:wikiDataId>Q1154949</ctml:wikiDataId>
+    <ctml:latitude>13.51667000</ctml:latitude>
+    <ctml:longitude>-88.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104882" kind="city">
+    <ctml:name>Jucuarán</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Usulután</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-US</ctml:parentRef>
+    <ctml:wikiDataId>Q1154960</ctml:wikiDataId>
+    <ctml:latitude>13.25389000</ctml:latitude>
+    <ctml:longitude>-88.24778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104896" kind="city">
+    <ctml:name>Ozatlán</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Usulután</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-US</ctml:parentRef>
+    <ctml:wikiDataId>Q2842672</ctml:wikiDataId>
+    <ctml:latitude>13.38333000</ctml:latitude>
+    <ctml:longitude>-88.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104899" kind="city">
+    <ctml:name>Puerto El Triunfo</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Usulután</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-US</ctml:parentRef>
+    <ctml:wikiDataId>Q164920</ctml:wikiDataId>
+    <ctml:latitude>13.28333000</ctml:latitude>
+    <ctml:longitude>-88.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104902" kind="city">
+    <ctml:name>San Agustín</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Usulután</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-US</ctml:parentRef>
+    <ctml:wikiDataId>Q1154943</ctml:wikiDataId>
+    <ctml:latitude>13.43333000</ctml:latitude>
+    <ctml:longitude>-88.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104918" kind="city">
+    <ctml:name>Santa Elena</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Usulután</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-US</ctml:parentRef>
+    <ctml:wikiDataId>Q1154924</ctml:wikiDataId>
+    <ctml:latitude>13.38333000</ctml:latitude>
+    <ctml:longitude>-88.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SLV-104922" kind="city">
+    <ctml:name>Santiago de María</ctml:name>
+    <ctml:country>SLV</ctml:country>
+    <ctml:admin1>Usulután</ctml:admin1>
+    <ctml:parentRef>place:admin1:SV-US</ctml:parentRef>
+    <ctml:wikiDataId>Q1438464</ctml:wikiDataId>
+    <ctml:latitude>13.48333000</ctml:latitude>
+    <ctml:longitude>-88.46667000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

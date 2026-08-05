@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:TJK-160121" kind="city">
+    <ctml:name>Dushanbe</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Dushanbe</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-DU</ctml:parentRef>
+    <ctml:wikiDataId>Q9365</ctml:wikiDataId>
+    <ctml:latitude>38.53666667</ctml:latitude>
+    <ctml:longitude>68.78000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106776" kind="admin2">
+    <ctml:name>Ishqoshim</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Gorno-Badakhshan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-GB</ctml:parentRef>
+    <ctml:wikiDataId>Q913494</ctml:wikiDataId>
+    <ctml:latitude>36.72484000</ctml:latitude>
+    <ctml:longitude>71.61331000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106790" kind="admin2">
+    <ctml:name>Murghob</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Gorno-Badakhshan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-GB</ctml:parentRef>
+    <ctml:wikiDataId>Q1018209</ctml:wikiDataId>
+    <ctml:latitude>38.17023000</ctml:latitude>
+    <ctml:longitude>73.96674000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106796" kind="city">
+    <ctml:name>Nohiyai Shughnon</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Gorno-Badakhshan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-GB</ctml:parentRef>
+    <ctml:wikiDataId>Q2669442</ctml:wikiDataId>
+    <ctml:latitude>37.70004000</ctml:latitude>
+    <ctml:longitude>72.16748000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106760" kind="admin2">
+    <ctml:name>Abdurahmoni Jomí</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q6449099</ctml:wikiDataId>
+    <ctml:latitude>37.94636000</ctml:latitude>
+    <ctml:longitude>68.80878000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106763" kind="city">
+    <ctml:name>Boshchorbogh</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q3298847</ctml:wikiDataId>
+    <ctml:latitude>37.52027000</ctml:latitude>
+    <ctml:longitude>68.12825000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106765" kind="city">
+    <ctml:name>Bŭstonqal’a</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q4148725</ctml:wikiDataId>
+    <ctml:latitude>37.84783000</ctml:latitude>
+    <ctml:longitude>68.83125000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106767" kind="city">
+    <ctml:name>Chubek</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2997217</ctml:wikiDataId>
+    <ctml:latitude>37.61453000</ctml:latitude>
+    <ctml:longitude>69.70525000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106768" kind="admin2">
+    <ctml:name>Danghara</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2997217</ctml:wikiDataId>
+    <ctml:latitude>38.09578000</ctml:latitude>
+    <ctml:longitude>69.33998000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106770" kind="admin2">
+    <ctml:name>Dŭstí</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q722396</ctml:wikiDataId>
+    <ctml:latitude>37.34812000</ctml:latitude>
+    <ctml:longitude>68.66398000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106771" kind="admin2">
+    <ctml:name>Farkhor</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1376803</ctml:wikiDataId>
+    <ctml:latitude>37.49219000</ctml:latitude>
+    <ctml:longitude>69.40356000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106773" kind="city">
+    <ctml:name>Gharavŭtí</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q187977</ctml:wikiDataId>
+    <ctml:latitude>37.56703000</ctml:latitude>
+    <ctml:longitude>68.44668000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106778" kind="admin2">
+    <ctml:name>Jilikŭl</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q936510</ctml:wikiDataId>
+    <ctml:latitude>37.49167000</ctml:latitude>
+    <ctml:longitude>68.53106000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106784" kind="city">
+    <ctml:name>Kirov</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q6408306</ctml:wikiDataId>
+    <ctml:latitude>37.81908000</ctml:latitude>
+    <ctml:longitude>68.85905000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106785" kind="admin2">
+    <ctml:name>Kolkhozobod</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1935682</ctml:wikiDataId>
+    <ctml:latitude>37.58823000</ctml:latitude>
+    <ctml:longitude>68.65886000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106788" kind="admin2">
+    <ctml:name>Kŭlob</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q132043</ctml:wikiDataId>
+    <ctml:latitude>37.91459000</ctml:latitude>
+    <ctml:longitude>69.78454000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106789" kind="city">
+    <ctml:name>Moskovskiy</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q132043</ctml:wikiDataId>
+    <ctml:latitude>37.60931000</ctml:latitude>
+    <ctml:longitude>68.58094000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106791" kind="admin2">
+    <ctml:name>Mŭ’minobod</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q4122080</ctml:wikiDataId>
+    <ctml:latitude>38.10714000</ctml:latitude>
+    <ctml:longitude>70.03213000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106793" kind="city">
+    <ctml:name>Nohiyai Kolkhozobod</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q3563282</ctml:wikiDataId>
+    <ctml:latitude>37.57277000</ctml:latitude>
+    <ctml:longitude>68.81528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106795" kind="city">
+    <ctml:name>Nohiyai Panj</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2564823</ctml:wikiDataId>
+    <ctml:latitude>37.31611000</ctml:latitude>
+    <ctml:longitude>69.16679000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106797" kind="city">
+    <ctml:name>Nohiyai Vakhsh</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2565367</ctml:wikiDataId>
+    <ctml:latitude>37.75602000</ctml:latitude>
+    <ctml:longitude>68.94138000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106798" kind="admin2">
+    <ctml:name>Norak</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1018201</ctml:wikiDataId>
+    <ctml:latitude>38.38917000</ctml:latitude>
+    <ctml:longitude>69.32272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106803" kind="city">
+    <ctml:name>Orzu</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q8214642</ctml:wikiDataId>
+    <ctml:latitude>37.55820000</ctml:latitude>
+    <ctml:longitude>68.81952000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106806" kind="admin2">
+    <ctml:name>Panj</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2567960</ctml:wikiDataId>
+    <ctml:latitude>37.23634000</ctml:latitude>
+    <ctml:longitude>69.09911000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106814" kind="admin2">
+    <ctml:name>Shahritus</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2507706</ctml:wikiDataId>
+    <ctml:latitude>37.26206000</ctml:latitude>
+    <ctml:longitude>68.13849000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106817" kind="admin2">
+    <ctml:name>Sovet</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2499450</ctml:wikiDataId>
+    <ctml:latitude>38.04670000</ctml:latitude>
+    <ctml:longitude>69.58822000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106820" kind="city">
+    <ctml:name>Tartiki</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q16704248</ctml:wikiDataId>
+    <ctml:latitude>37.58221000</ctml:latitude>
+    <ctml:longitude>68.13347000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106824" kind="admin2">
+    <ctml:name>Vakhsh</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2640253</ctml:wikiDataId>
+    <ctml:latitude>37.71485000</ctml:latitude>
+    <ctml:longitude>68.83456000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106828" kind="admin2">
+    <ctml:name>Vose’</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2465110</ctml:wikiDataId>
+    <ctml:latitude>37.80396000</ctml:latitude>
+    <ctml:longitude>69.64417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106829" kind="admin2">
+    <ctml:name>Yovon</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Khatlon</ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2465110</ctml:wikiDataId>
+    <ctml:latitude>38.31408000</ctml:latitude>
+    <ctml:longitude>69.03784000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106769" kind="admin2">
+    <ctml:name>Darband</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q2997217</ctml:wikiDataId>
+    <ctml:latitude>38.86776000</ctml:latitude>
+    <ctml:longitude>69.96642000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106774" kind="admin2">
+    <ctml:name>Hisor</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q655771</ctml:wikiDataId>
+    <ctml:latitude>38.52504000</ctml:latitude>
+    <ctml:longitude>68.55124000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106779" kind="city">
+    <ctml:name>Karakenja</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q936510</ctml:wikiDataId>
+    <ctml:latitude>39.23585000</ctml:latitude>
+    <ctml:longitude>71.52412000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106780" kind="city">
+    <ctml:name>Khodzha-Maston</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q936510</ctml:wikiDataId>
+    <ctml:latitude>38.74457000</ctml:latitude>
+    <ctml:longitude>68.62702000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106800" kind="city">
+    <ctml:name>Novobod</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q8099814</ctml:wikiDataId>
+    <ctml:latitude>39.01084000</ctml:latitude>
+    <ctml:longitude>70.15082000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106801" kind="city">
+    <ctml:name>Obigarm</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q8214642</ctml:wikiDataId>
+    <ctml:latitude>38.71731000</ctml:latitude>
+    <ctml:longitude>69.70885000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106811" kind="admin2">
+    <ctml:name>Rasht</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q1018180</ctml:wikiDataId>
+    <ctml:latitude>39.02871000</ctml:latitude>
+    <ctml:longitude>70.37446000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106812" kind="admin2">
+    <ctml:name>Roghun</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q2565349</ctml:wikiDataId>
+    <ctml:latitude>38.69331000</ctml:latitude>
+    <ctml:longitude>69.73692000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106813" kind="admin2">
+    <ctml:name>Shahrinav</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q2565349</ctml:wikiDataId>
+    <ctml:latitude>38.57085000</ctml:latitude>
+    <ctml:longitude>68.33498000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106819" kind="city">
+    <ctml:name>Tagob</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q16704248</ctml:wikiDataId>
+    <ctml:latitude>38.83827000</ctml:latitude>
+    <ctml:longitude>68.89847000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106821" kind="admin2">
+    <ctml:name>Tursunzoda</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q648709</ctml:wikiDataId>
+    <ctml:latitude>38.51271000</ctml:latitude>
+    <ctml:longitude>68.23163000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106822" kind="admin2">
+    <ctml:name>Vahdat</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q1018025</ctml:wikiDataId>
+    <ctml:latitude>38.55632000</ctml:latitude>
+    <ctml:longitude>69.01354000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106823" kind="city">
+    <ctml:name>Vahdat District</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q2640253</ctml:wikiDataId>
+    <ctml:latitude>38.83333000</ctml:latitude>
+    <ctml:longitude>69.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106825" kind="city">
+    <ctml:name>Varzob</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q2997247</ctml:wikiDataId>
+    <ctml:latitude>38.77369000</ctml:latitude>
+    <ctml:longitude>68.81776000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106826" kind="city">
+    <ctml:name>Varzob District</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Nohiyahoi Tobei Jumhurí </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q2669430</ctml:wikiDataId>
+    <ctml:latitude>38.75000000</ctml:latitude>
+    <ctml:longitude>68.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106761" kind="city">
+    <ctml:name>Adrasmon</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2470205</ctml:wikiDataId>
+    <ctml:latitude>40.64928000</ctml:latitude>
+    <ctml:longitude>69.98472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106762" kind="admin2">
+    <ctml:name>Ayní</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q3298847</ctml:wikiDataId>
+    <ctml:latitude>39.39406000</ctml:latitude>
+    <ctml:longitude>68.53766000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106764" kind="admin2">
+    <ctml:name>Bŭston</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q4148725</ctml:wikiDataId>
+    <ctml:latitude>40.52286000</ctml:latitude>
+    <ctml:longitude>69.33307000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106766" kind="city">
+    <ctml:name>Chkalov</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2997217</ctml:wikiDataId>
+    <ctml:latitude>40.23417000</ctml:latitude>
+    <ctml:longitude>69.69481000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106772" kind="admin2">
+    <ctml:name>Ghafurov</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q187977</ctml:wikiDataId>
+    <ctml:latitude>40.21571000</ctml:latitude>
+    <ctml:longitude>69.72867000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106775" kind="admin2">
+    <ctml:name>Isfara</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q695330</ctml:wikiDataId>
+    <ctml:latitude>40.12649000</ctml:latitude>
+    <ctml:longitude>70.62526000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106777" kind="admin2">
+    <ctml:name>Istaravshan</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q936510</ctml:wikiDataId>
+    <ctml:latitude>39.91420000</ctml:latitude>
+    <ctml:longitude>69.00328000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106783" kind="city">
+    <ctml:name>Kim</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q6408306</ctml:wikiDataId>
+    <ctml:latitude>40.20798000</ctml:latitude>
+    <ctml:longitude>70.46882000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106786" kind="admin2">
+    <ctml:name>Konibodom</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q1015752</ctml:wikiDataId>
+    <ctml:latitude>40.29414000</ctml:latitude>
+    <ctml:longitude>70.43122000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106787" kind="city">
+    <ctml:name>Konsoy</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q1015752</ctml:wikiDataId>
+    <ctml:latitude>40.49155000</ctml:latitude>
+    <ctml:longitude>69.70245000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106792" kind="city">
+    <ctml:name>Neftobod</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q4122080</ctml:wikiDataId>
+    <ctml:latitude>40.21524000</ctml:latitude>
+    <ctml:longitude>70.57193000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106794" kind="city">
+    <ctml:name>Nohiyai Konibodom</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2588415</ctml:wikiDataId>
+    <ctml:latitude>40.26877000</ctml:latitude>
+    <ctml:longitude>70.33057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106799" kind="admin2">
+    <ctml:name>Nov</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q4122089</ctml:wikiDataId>
+    <ctml:latitude>40.15220000</ctml:latitude>
+    <ctml:longitude>69.37076000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106802" kind="city">
+    <ctml:name>Oltintopkan</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q8214642</ctml:wikiDataId>
+    <ctml:latitude>40.65425000</ctml:latitude>
+    <ctml:longitude>69.59811000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106804" kind="city">
+    <ctml:name>Pakhtakoron</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q16685192</ctml:wikiDataId>
+    <ctml:latitude>40.15709000</ctml:latitude>
+    <ctml:longitude>68.74659000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106805" kind="city">
+    <ctml:name>Palos</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q16685192</ctml:wikiDataId>
+    <ctml:latitude>40.31628000</ctml:latitude>
+    <ctml:longitude>69.73743000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106807" kind="admin2">
+    <ctml:name>Panjakent</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q630805</ctml:wikiDataId>
+    <ctml:latitude>39.49524000</ctml:latitude>
+    <ctml:longitude>67.60931000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106808" kind="admin2">
+    <ctml:name>Proletar</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q4122081</ctml:wikiDataId>
+    <ctml:latitude>40.16713000</ctml:latitude>
+    <ctml:longitude>69.50163000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106809" kind="city">
+    <ctml:name>Quruqsoy</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q7272972</ctml:wikiDataId>
+    <ctml:latitude>40.57648000</ctml:latitude>
+    <ctml:longitude>69.37962000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TJK-106815" kind="admin2">
+    <ctml:name>Shaydon</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2507706</ctml:wikiDataId>
+    <ctml:latitude>40.66992000</ctml:latitude>
+    <ctml:longitude>70.35020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106816" kind="city">
+    <ctml:name>Shŭrob</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2499450</ctml:wikiDataId>
+    <ctml:latitude>40.04605000</ctml:latitude>
+    <ctml:longitude>70.54117000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106818" kind="city">
+    <ctml:name>Taboshar</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2391218</ctml:wikiDataId>
+    <ctml:latitude>40.57017000</ctml:latitude>
+    <ctml:longitude>69.64175000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TJK-106827" kind="city">
+    <ctml:name>Vorukh</ctml:name>
+    <ctml:country>TJK</ctml:country>
+    <ctml:admin1>Sughd </ctml:admin1>
+    <ctml:parentRef>place:admin1:TJ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2465110</ctml:wikiDataId>
+    <ctml:latitude>39.85125000</ctml:latitude>
+    <ctml:longitude>70.58012000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

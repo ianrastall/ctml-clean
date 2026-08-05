@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:NIC-77163" kind="admin2">
+    <ctml:name>Camoapa</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Boaco</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q2605022</ctml:wikiDataId>
+    <ctml:latitude>12.38383000</ctml:latitude>
+    <ctml:longitude>-85.51277000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77260" kind="admin2">
+    <ctml:name>San José de los Remates</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Boaco</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q2215558</ctml:wikiDataId>
+    <ctml:latitude>12.59750000</ctml:latitude>
+    <ctml:longitude>-85.76174000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77265" kind="admin2">
+    <ctml:name>San Lorenzo</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Boaco</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q1647826</ctml:wikiDataId>
+    <ctml:latitude>12.37830000</ctml:latitude>
+    <ctml:longitude>-85.66646000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77273" kind="admin2">
+    <ctml:name>Santa Lucía</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Boaco</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q1647681</ctml:wikiDataId>
+    <ctml:latitude>12.53262000</ctml:latitude>
+    <ctml:longitude>-85.71074000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77285" kind="admin2">
+    <ctml:name>Teustepe</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Boaco</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q2216040</ctml:wikiDataId>
+    <ctml:latitude>12.42030000</ctml:latitude>
+    <ctml:longitude>-85.79798000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77176" kind="admin2">
+    <ctml:name>Diriamba</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Carazo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q1227687</ctml:wikiDataId>
+    <ctml:latitude>11.85812000</ctml:latitude>
+    <ctml:longitude>-86.23922000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77179" kind="admin2">
+    <ctml:name>Dolores</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Carazo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q1647920</ctml:wikiDataId>
+    <ctml:latitude>11.85672000</ctml:latitude>
+    <ctml:longitude>-86.21552000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77187" kind="city">
+    <ctml:name>El Rosario</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Carazo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q1648222</ctml:wikiDataId>
+    <ctml:latitude>11.77756000</ctml:latitude>
+    <ctml:longitude>-86.37374000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77202" kind="admin2">
+    <ctml:name>La Conquista</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Carazo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q3820751</ctml:wikiDataId>
+    <ctml:latitude>11.73426000</ctml:latitude>
+    <ctml:longitude>-86.19279000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77206" kind="admin2">
+    <ctml:name>La Paz de Carazo</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Carazo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q2215549</ctml:wikiDataId>
+    <ctml:latitude>11.82311000</ctml:latitude>
+    <ctml:longitude>-86.12781000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77236" kind="admin2">
+    <ctml:name>Municipio de San Marcos</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Carazo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q2214920</ctml:wikiDataId>
+    <ctml:latitude>11.91784000</ctml:latitude>
+    <ctml:longitude>-86.27474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77267" kind="admin2">
+    <ctml:name>San Marcos</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Carazo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q1013654</ctml:wikiDataId>
+    <ctml:latitude>11.90949000</ctml:latitude>
+    <ctml:longitude>-86.20351000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77275" kind="city">
+    <ctml:name>Santa Teresa</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Carazo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q21054785</ctml:wikiDataId>
+    <ctml:latitude>11.74321000</ctml:latitude>
+    <ctml:longitude>-86.21413000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77165" kind="admin2">
+    <ctml:name>Chichigalpa</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chinandega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CI</ctml:parentRef>
+    <ctml:wikiDataId>Q1072117</ctml:wikiDataId>
+    <ctml:latitude>12.57758000</ctml:latitude>
+    <ctml:longitude>-87.02705000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77167" kind="admin2">
+    <ctml:name>Cinco Pinos</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chinandega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CI</ctml:parentRef>
+    <ctml:wikiDataId>Q1647867</ctml:wikiDataId>
+    <ctml:latitude>13.22956000</ctml:latitude>
+    <ctml:longitude>-86.86808000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77172" kind="admin2">
+    <ctml:name>Corinto</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chinandega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CI</ctml:parentRef>
+    <ctml:wikiDataId>Q1132939</ctml:wikiDataId>
+    <ctml:latitude>12.48250000</ctml:latitude>
+    <ctml:longitude>-87.17304000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77186" kind="admin2">
+    <ctml:name>El Realejo</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chinandega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CI</ctml:parentRef>
+    <ctml:wikiDataId>Q368227</ctml:wikiDataId>
+    <ctml:latitude>12.54333000</ctml:latitude>
+    <ctml:longitude>-87.16517000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77190" kind="admin2">
+    <ctml:name>El Viejo</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chinandega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CI</ctml:parentRef>
+    <ctml:wikiDataId>Q516482</ctml:wikiDataId>
+    <ctml:latitude>12.66348000</ctml:latitude>
+    <ctml:longitude>-87.16663000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77196" kind="city">
+    <ctml:name>Jiquilillo</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chinandega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CI</ctml:parentRef>
+    <ctml:wikiDataId>Q21054284</ctml:wikiDataId>
+    <ctml:latitude>12.74593000</ctml:latitude>
+    <ctml:longitude>-87.45160000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77232" kind="admin2">
+    <ctml:name>Municipio de San Francisco del Norte</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chinandega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CI</ctml:parentRef>
+    <ctml:wikiDataId>Q2214920</ctml:wikiDataId>
+    <ctml:latitude>13.21187000</ctml:latitude>
+    <ctml:longitude>-86.77107000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77246" kind="admin2">
+    <ctml:name>Posoltega</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chinandega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CI</ctml:parentRef>
+    <ctml:wikiDataId>Q2604656</ctml:wikiDataId>
+    <ctml:latitude>12.54422000</ctml:latitude>
+    <ctml:longitude>-86.97982000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77251" kind="city">
+    <ctml:name>Puerto Morazán</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chinandega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CI</ctml:parentRef>
+    <ctml:wikiDataId>Q2605034</ctml:wikiDataId>
+    <ctml:latitude>12.85042000</ctml:latitude>
+    <ctml:longitude>-87.17167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77278" kind="admin2">
+    <ctml:name>Santo Tomás del Norte</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chinandega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CI</ctml:parentRef>
+    <ctml:wikiDataId>Q31513084</ctml:wikiDataId>
+    <ctml:latitude>13.18610000</ctml:latitude>
+    <ctml:longitude>-86.92267000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77280" kind="admin2">
+    <ctml:name>Somotillo</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chinandega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CI</ctml:parentRef>
+    <ctml:wikiDataId>Q2604179</ctml:wikiDataId>
+    <ctml:latitude>13.04387000</ctml:latitude>
+    <ctml:longitude>-86.90506000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77155" kind="admin2">
+    <ctml:name>Acoyapa</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chontales</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q1186803</ctml:wikiDataId>
+    <ctml:latitude>11.97028000</ctml:latitude>
+    <ctml:longitude>-85.17113000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77170" kind="admin2">
+    <ctml:name>Comalapa</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chontales</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q677924</ctml:wikiDataId>
+    <ctml:latitude>12.28345000</ctml:latitude>
+    <ctml:longitude>-85.51081000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77174" kind="admin2">
+    <ctml:name>Cuapa</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chontales</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q2215598</ctml:wikiDataId>
+    <ctml:latitude>12.26875000</ctml:latitude>
+    <ctml:longitude>-85.38205000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77181" kind="city">
+    <ctml:name>El Ayote</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chontales</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q2215912</ctml:wikiDataId>
+    <ctml:latitude>12.19046000</ctml:latitude>
+    <ctml:longitude>-85.28737000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77204" kind="admin2">
+    <ctml:name>La Libertad</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chontales</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q2606938</ctml:wikiDataId>
+    <ctml:latitude>12.21635000</ctml:latitude>
+    <ctml:longitude>-85.16595000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77276" kind="admin2">
+    <ctml:name>Santo Domingo</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chontales</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q1647902</ctml:wikiDataId>
+    <ctml:latitude>12.26438000</ctml:latitude>
+    <ctml:longitude>-85.08235000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77277" kind="admin2">
+    <ctml:name>Santo Tomás</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chontales</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q31513084</ctml:wikiDataId>
+    <ctml:latitude>12.06938000</ctml:latitude>
+    <ctml:longitude>-85.09059000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77293" kind="admin2">
+    <ctml:name>Villa Sandino</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Chontales</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q21054975</ctml:wikiDataId>
+    <ctml:latitude>12.04830000</ctml:latitude>
+    <ctml:longitude>-84.99362000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77171" kind="admin2">
+    <ctml:name>Condega</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Estelí</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q1012589</ctml:wikiDataId>
+    <ctml:latitude>13.36502000</ctml:latitude>
+    <ctml:longitude>-86.39846000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77207" kind="admin2">
+    <ctml:name>La Trinidad</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Estelí</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q993829</ctml:wikiDataId>
+    <ctml:latitude>12.96881000</ctml:latitude>
+    <ctml:longitude>-86.23534000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77249" kind="admin2">
+    <ctml:name>Pueblo Nuevo</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Estelí</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q1647679</ctml:wikiDataId>
+    <ctml:latitude>13.37984000</ctml:latitude>
+    <ctml:longitude>-86.48075000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77261" kind="admin2">
+    <ctml:name>San Juan de Limay</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Estelí</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q2215462</ctml:wikiDataId>
+    <ctml:latitude>13.17603000</ctml:latitude>
+    <ctml:longitude>-86.61234000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77178" kind="admin2">
+    <ctml:name>Diriá</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Granada</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1647847</ctml:wikiDataId>
+    <ctml:latitude>11.88420000</ctml:latitude>
+    <ctml:longitude>-86.05508000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77177" kind="admin2">
+    <ctml:name>Diriomo</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Granada</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2215569</ctml:wikiDataId>
+    <ctml:latitude>11.87631000</ctml:latitude>
+    <ctml:longitude>-86.05184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77240" kind="admin2">
+    <ctml:name>Nandaime</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Granada</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1964554</ctml:wikiDataId>
+    <ctml:latitude>11.75696000</ctml:latitude>
+    <ctml:longitude>-86.05286000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77183" kind="admin2">
+    <ctml:name>El Cuá</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Jinotega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q2214906</ctml:wikiDataId>
+    <ctml:latitude>13.41667000</ctml:latitude>
+    <ctml:longitude>-85.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77201" kind="admin2">
+    <ctml:name>La Concordia</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Jinotega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q2395382</ctml:wikiDataId>
+    <ctml:latitude>13.19528000</ctml:latitude>
+    <ctml:longitude>-86.16659000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77210" kind="admin2">
+    <ctml:name>Las Praderas</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Jinotega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q2217474</ctml:wikiDataId>
+    <ctml:latitude>13.17000000</ctml:latitude>
+    <ctml:longitude>-85.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77199" kind="city">
+    <ctml:name>LLano de La Cruz</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Jinotega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q1647889</ctml:wikiDataId>
+    <ctml:latitude>13.12449000</ctml:latitude>
+    <ctml:longitude>-86.00833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77258" kind="admin2">
+    <ctml:name>San José de Bocay</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Jinotega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q2215147</ctml:wikiDataId>
+    <ctml:latitude>13.54204000</ctml:latitude>
+    <ctml:longitude>-85.53942000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77269" kind="admin2">
+    <ctml:name>San Rafael del Norte</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Jinotega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q2604700</ctml:wikiDataId>
+    <ctml:latitude>13.21248000</ctml:latitude>
+    <ctml:longitude>-86.11089000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77272" kind="admin2">
+    <ctml:name>San Sebastián de Yalí</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Jinotega</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q2215401</ctml:wikiDataId>
+    <ctml:latitude>13.30540000</ctml:latitude>
+    <ctml:longitude>-86.18641000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77154" kind="admin2">
+    <ctml:name>Achuapa</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>León</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-LE</ctml:parentRef>
+    <ctml:wikiDataId>Q8075286</ctml:wikiDataId>
+    <ctml:latitude>13.05370000</ctml:latitude>
+    <ctml:longitude>-86.59004000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77184" kind="admin2">
+    <ctml:name>El Jicaral</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>León</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-LE</ctml:parentRef>
+    <ctml:wikiDataId>Q369423</ctml:wikiDataId>
+    <ctml:latitude>12.72676000</ctml:latitude>
+    <ctml:longitude>-86.38057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77188" kind="admin2">
+    <ctml:name>El Sauce</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>León</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-LE</ctml:parentRef>
+    <ctml:wikiDataId>Q1647835</ctml:wikiDataId>
+    <ctml:latitude>12.88687000</ctml:latitude>
+    <ctml:longitude>-86.53903000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77205" kind="admin2">
+    <ctml:name>La Paz Centro</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>León</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-LE</ctml:parentRef>
+    <ctml:wikiDataId>Q21052193</ctml:wikiDataId>
+    <ctml:latitude>12.34000000</ctml:latitude>
+    <ctml:longitude>-86.67528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77209" kind="city">
+    <ctml:name>Larreynaga</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>León</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-LE</ctml:parentRef>
+    <ctml:wikiDataId>Q2215577</ctml:wikiDataId>
+    <ctml:latitude>12.67692000</ctml:latitude>
+    <ctml:longitude>-86.57193000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77239" kind="admin2">
+    <ctml:name>Nagarote</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>León</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-LE</ctml:parentRef>
+    <ctml:wikiDataId>Q2604568</ctml:wikiDataId>
+    <ctml:latitude>12.26593000</ctml:latitude>
+    <ctml:longitude>-86.56474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77252" kind="admin2">
+    <ctml:name>Quezalguaque</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>León</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-LE</ctml:parentRef>
+    <ctml:wikiDataId>Q739841</ctml:wikiDataId>
+    <ctml:latitude>12.50683000</ctml:latitude>
+    <ctml:longitude>-86.90292000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77274" kind="admin2">
+    <ctml:name>Santa Rosa del Peñón</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>León</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-LE</ctml:parentRef>
+    <ctml:wikiDataId>Q2215566</ctml:wikiDataId>
+    <ctml:latitude>12.80116000</ctml:latitude>
+    <ctml:longitude>-86.36994000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77282" kind="admin2">
+    <ctml:name>Telica</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>León</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-LE</ctml:parentRef>
+    <ctml:wikiDataId>Q1647817</ctml:wikiDataId>
+    <ctml:latitude>12.52200000</ctml:latitude>
+    <ctml:longitude>-86.85938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77211" kind="admin2">
+    <ctml:name>Las Sabanas</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Madriz</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MD</ctml:parentRef>
+    <ctml:wikiDataId>Q2215117</ctml:wikiDataId>
+    <ctml:latitude>13.34302000</ctml:latitude>
+    <ctml:longitude>-86.62184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77245" kind="admin2">
+    <ctml:name>Palacagüina</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Madriz</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MD</ctml:parentRef>
+    <ctml:wikiDataId>Q2215620</ctml:wikiDataId>
+    <ctml:latitude>13.45566000</ctml:latitude>
+    <ctml:longitude>-86.40622000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77259" kind="admin2">
+    <ctml:name>San José de Cusmapa</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Madriz</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MD</ctml:parentRef>
+    <ctml:wikiDataId>Q2215949</ctml:wikiDataId>
+    <ctml:latitude>13.28841000</ctml:latitude>
+    <ctml:longitude>-86.65539000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77263" kind="admin2">
+    <ctml:name>San Juan de Río Coco</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Madriz</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MD</ctml:parentRef>
+    <ctml:wikiDataId>Q1647654</ctml:wikiDataId>
+    <ctml:latitude>13.54476000</ctml:latitude>
+    <ctml:longitude>-86.16499000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77266" kind="admin2">
+    <ctml:name>San Lucas</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Madriz</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MD</ctml:parentRef>
+    <ctml:wikiDataId>Q1647851</ctml:wikiDataId>
+    <ctml:latitude>13.41380000</ctml:latitude>
+    <ctml:longitude>-86.61110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77283" kind="admin2">
+    <ctml:name>Telpaneca</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Madriz</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MD</ctml:parentRef>
+    <ctml:wikiDataId>Q2216981</ctml:wikiDataId>
+    <ctml:latitude>13.53151000</ctml:latitude>
+    <ctml:longitude>-86.28710000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77290" kind="admin2">
+    <ctml:name>Totogalpa</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Madriz</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MD</ctml:parentRef>
+    <ctml:wikiDataId>Q2216999</ctml:wikiDataId>
+    <ctml:latitude>13.56284000</ctml:latitude>
+    <ctml:longitude>-86.49254000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77296" kind="admin2">
+    <ctml:name>Yalagüina</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Madriz</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MD</ctml:parentRef>
+    <ctml:wikiDataId>Q2216994</ctml:wikiDataId>
+    <ctml:latitude>13.48383000</ctml:latitude>
+    <ctml:longitude>-86.49305000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77169" kind="admin2">
+    <ctml:name>Ciudad Sandino</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Managua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q2720849</ctml:wikiDataId>
+    <ctml:latitude>12.15889000</ctml:latitude>
+    <ctml:longitude>-86.34417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77182" kind="admin2">
+    <ctml:name>El Crucero</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Managua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q2605353</ctml:wikiDataId>
+    <ctml:latitude>11.99008000</ctml:latitude>
+    <ctml:longitude>-86.30954000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77213" kind="city">
+    <ctml:name>Managua</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Managua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q3274</ctml:wikiDataId>
+    <ctml:latitude>12.13282000</ctml:latitude>
+    <ctml:longitude>-86.25040000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77214" kind="city">
+    <ctml:name>Masachapa</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Managua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q21053389</ctml:wikiDataId>
+    <ctml:latitude>11.78687000</ctml:latitude>
+    <ctml:longitude>-86.51416000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77270" kind="admin2">
+    <ctml:name>San Rafael del Sur</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Managua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q964406</ctml:wikiDataId>
+    <ctml:latitude>11.84854000</ctml:latitude>
+    <ctml:longitude>-86.43839000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77286" kind="admin2">
+    <ctml:name>Ticuantepe</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Managua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q2216951</ctml:wikiDataId>
+    <ctml:latitude>12.02263000</ctml:latitude>
+    <ctml:longitude>-86.20493000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77287" kind="admin2">
+    <ctml:name>Tipitapa</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Managua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q1365146</ctml:wikiDataId>
+    <ctml:latitude>12.19732000</ctml:latitude>
+    <ctml:longitude>-86.09706000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77291" kind="city">
+    <ctml:name>Valle San Francisco</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Managua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q21054823</ctml:wikiDataId>
+    <ctml:latitude>12.51667000</ctml:latitude>
+    <ctml:longitude>-86.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77292" kind="admin2">
+    <ctml:name>Villa El Carmen</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Managua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q21054975</ctml:wikiDataId>
+    <ctml:latitude>11.98009000</ctml:latitude>
+    <ctml:longitude>-86.50571000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77164" kind="admin2">
+    <ctml:name>Catarina</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Masaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q1647897</ctml:wikiDataId>
+    <ctml:latitude>11.91197000</ctml:latitude>
+    <ctml:longitude>-86.07383000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77200" kind="admin2">
+    <ctml:name>La Concepción</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Masaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q538269</ctml:wikiDataId>
+    <ctml:latitude>11.93711000</ctml:latitude>
+    <ctml:longitude>-86.18976000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77215" kind="admin2">
+    <ctml:name>Masatepe</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Masaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q2720586</ctml:wikiDataId>
+    <ctml:latitude>11.91445000</ctml:latitude>
+    <ctml:longitude>-86.14458000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77226" kind="admin2">
+    <ctml:name>Municipio de Masatepe</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Masaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q1647907</ctml:wikiDataId>
+    <ctml:latitude>11.90567000</ctml:latitude>
+    <ctml:longitude>-86.14946000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77228" kind="admin2">
+    <ctml:name>Municipio de Nandasmo</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Masaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q1647907</ctml:wikiDataId>
+    <ctml:latitude>11.93333000</ctml:latitude>
+    <ctml:longitude>-86.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77229" kind="admin2">
+    <ctml:name>Municipio de Niquinohomo</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Masaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q1647907</ctml:wikiDataId>
+    <ctml:latitude>11.88228000</ctml:latitude>
+    <ctml:longitude>-86.10035000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77234" kind="admin2">
+    <ctml:name>Municipio de San Juan de Oriente</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Masaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q2214920</ctml:wikiDataId>
+    <ctml:latitude>11.90517000</ctml:latitude>
+    <ctml:longitude>-86.07460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77241" kind="admin2">
+    <ctml:name>Nandasmo</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Masaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q641207</ctml:wikiDataId>
+    <ctml:latitude>11.92411000</ctml:latitude>
+    <ctml:longitude>-86.12072000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77242" kind="admin2">
+    <ctml:name>Nindirí</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Masaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q2215135</ctml:wikiDataId>
+    <ctml:latitude>12.00386000</ctml:latitude>
+    <ctml:longitude>-86.12128000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77243" kind="admin2">
+    <ctml:name>Niquinohomo</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Masaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q1514478</ctml:wikiDataId>
+    <ctml:latitude>11.90518000</ctml:latitude>
+    <ctml:longitude>-86.09446000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77262" kind="admin2">
+    <ctml:name>San Juan de Oriente</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Masaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q384555</ctml:wikiDataId>
+    <ctml:latitude>11.90624000</ctml:latitude>
+    <ctml:longitude>-86.07343000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77288" kind="admin2">
+    <ctml:name>Tisma</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Masaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MS</ctml:parentRef>
+    <ctml:wikiDataId>Q2216452</ctml:wikiDataId>
+    <ctml:latitude>12.08194000</ctml:latitude>
+    <ctml:longitude>-86.01739000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77168" kind="admin2">
+    <ctml:name>Ciudad Darío</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Matagalpa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q1015865</ctml:wikiDataId>
+    <ctml:latitude>12.73143000</ctml:latitude>
+    <ctml:longitude>-86.12402000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77218" kind="admin2">
+    <ctml:name>Matiguás</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Matagalpa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q2215416</ctml:wikiDataId>
+    <ctml:latitude>12.83734000</ctml:latitude>
+    <ctml:longitude>-85.46218000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77238" kind="admin2">
+    <ctml:name>Muy Muy</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Matagalpa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q2215631</ctml:wikiDataId>
+    <ctml:latitude>12.76224000</ctml:latitude>
+    <ctml:longitude>-85.62915000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77254" kind="admin2">
+    <ctml:name>Río Blanco</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Matagalpa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q2605369</ctml:wikiDataId>
+    <ctml:latitude>12.93435000</ctml:latitude>
+    <ctml:longitude>-85.22354000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77256" kind="admin2">
+    <ctml:name>San Dionisio</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Matagalpa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q1647872</ctml:wikiDataId>
+    <ctml:latitude>12.76023000</ctml:latitude>
+    <ctml:longitude>-85.85018000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77271" kind="admin2">
+    <ctml:name>San Ramón</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Matagalpa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q2395748</ctml:wikiDataId>
+    <ctml:latitude>12.92344000</ctml:latitude>
+    <ctml:longitude>-85.83898000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77284" kind="admin2">
+    <ctml:name>Terrabona</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Matagalpa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q664620</ctml:wikiDataId>
+    <ctml:latitude>12.73028000</ctml:latitude>
+    <ctml:longitude>-85.96474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77161" kind="admin2">
+    <ctml:name>Bonanza</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>North Caribbean Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q892092</ctml:wikiDataId>
+    <ctml:latitude>14.02885000</ctml:latitude>
+    <ctml:longitude>-84.59103000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77248" kind="admin2">
+    <ctml:name>Prinzapolka</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>North Caribbean Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q1018776</ctml:wikiDataId>
+    <ctml:latitude>13.40708000</ctml:latitude>
+    <ctml:longitude>-83.56452000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77279" kind="admin2">
+    <ctml:name>Siuna</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>North Caribbean Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q1329302</ctml:wikiDataId>
+    <ctml:latitude>13.73321000</ctml:latitude>
+    <ctml:longitude>-84.77725000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77294" kind="city">
+    <ctml:name>Waslala</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>North Caribbean Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q1018767</ctml:wikiDataId>
+    <ctml:latitude>13.23333000</ctml:latitude>
+    <ctml:longitude>-85.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77295" kind="admin2">
+    <ctml:name>Waspán</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>North Caribbean Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2217458</ctml:wikiDataId>
+    <ctml:latitude>14.74189000</ctml:latitude>
+    <ctml:longitude>-83.97170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-149132" kind="admin2">
+    <ctml:name>Ciudad Antigua</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Nueva Segovia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-NS</ctml:parentRef>
+    <ctml:wikiDataId>Q2215588</ctml:wikiDataId>
+    <ctml:latitude>13.63929030</ctml:latitude>
+    <ctml:longitude>-86.31189830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-149133" kind="admin2">
+    <ctml:name>Dipilto</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Nueva Segovia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-NS</ctml:parentRef>
+    <ctml:wikiDataId>Q2215450</ctml:wikiDataId>
+    <ctml:latitude>13.72225520</ctml:latitude>
+    <ctml:longitude>-86.51366060</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-149134" kind="admin2">
+    <ctml:name>El Jícaro</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Nueva Segovia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-NS</ctml:parentRef>
+    <ctml:wikiDataId>Q2394975</ctml:wikiDataId>
+    <ctml:latitude>13.72222480</ctml:latitude>
+    <ctml:longitude>-86.14115420</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-149135" kind="admin2">
+    <ctml:name>Jalapa</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Nueva Segovia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-NS</ctml:parentRef>
+    <ctml:wikiDataId>Q2395471</ctml:wikiDataId>
+    <ctml:latitude>13.92071420</ctml:latitude>
+    <ctml:longitude>-86.14212330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-149136" kind="admin2">
+    <ctml:name>Macuelizo</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Nueva Segovia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-NS</ctml:parentRef>
+    <ctml:wikiDataId>Q1647684</ctml:wikiDataId>
+    <ctml:latitude>13.65192960</ctml:latitude>
+    <ctml:longitude>-86.61427170</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-149137" kind="admin2">
+    <ctml:name>Mozonte</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Nueva Segovia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-NS</ctml:parentRef>
+    <ctml:wikiDataId>Q2215922</ctml:wikiDataId>
+    <ctml:latitude>13.65956840</ctml:latitude>
+    <ctml:longitude>-86.44536490</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-149138" kind="admin2">
+    <ctml:name>Murra</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Nueva Segovia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-NS</ctml:parentRef>
+    <ctml:wikiDataId>Q2215609</ctml:wikiDataId>
+    <ctml:latitude>13.75927550</ctml:latitude>
+    <ctml:longitude>-86.02196840</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-149139" kind="admin2">
+    <ctml:name>Ocotal</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Nueva Segovia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-NS</ctml:parentRef>
+    <ctml:wikiDataId>Q1025830</ctml:wikiDataId>
+    <ctml:latitude>13.63411380</ctml:latitude>
+    <ctml:longitude>-86.50107470</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-149140" kind="admin2">
+    <ctml:name>Quilalí</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Nueva Segovia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-NS</ctml:parentRef>
+    <ctml:wikiDataId>Q2604559</ctml:wikiDataId>
+    <ctml:latitude>13.56491080</ctml:latitude>
+    <ctml:longitude>-86.02921480</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-149141" kind="admin2">
+    <ctml:name>San Fernando</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Nueva Segovia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-NS</ctml:parentRef>
+    <ctml:wikiDataId>Q1647665</ctml:wikiDataId>
+    <ctml:latitude>13.67873430</ctml:latitude>
+    <ctml:longitude>-86.32079750</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-149142" kind="admin2">
+    <ctml:name>Santa María</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Nueva Segovia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-NS</ctml:parentRef>
+    <ctml:wikiDataId>Q1647660</ctml:wikiDataId>
+    <ctml:latitude>13.74665480</ctml:latitude>
+    <ctml:longitude>-86.71124070</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-149143" kind="admin2">
+    <ctml:name>Wiwilí</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Nueva Segovia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-NS</ctml:parentRef>
+    <ctml:wikiDataId>Q1014671</ctml:wikiDataId>
+    <ctml:latitude>13.62076450</ctml:latitude>
+    <ctml:longitude>-85.83169700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77180" kind="admin2">
+    <ctml:name>El Almendro</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Río San Juan</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2621532</ctml:wikiDataId>
+    <ctml:latitude>11.67859000</ctml:latitude>
+    <ctml:longitude>-84.70269000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77193" kind="city">
+    <ctml:name>Greytown</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Río San Juan</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2063725</ctml:wikiDataId>
+    <ctml:latitude>10.94684000</ctml:latitude>
+    <ctml:longitude>-83.73467000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77219" kind="admin2">
+    <ctml:name>Morrito</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Río San Juan</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2621523</ctml:wikiDataId>
+    <ctml:latitude>11.62118000</ctml:latitude>
+    <ctml:longitude>-85.08052000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77268" kind="admin2">
+    <ctml:name>San Miguelito</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Río San Juan</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1015364</ctml:wikiDataId>
+    <ctml:latitude>11.40255000</ctml:latitude>
+    <ctml:longitude>-84.89991000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77156" kind="city">
+    <ctml:name>Altagracia</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q1186803</ctml:wikiDataId>
+    <ctml:latitude>11.56615000</ctml:latitude>
+    <ctml:longitude>-85.57840000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77157" kind="admin2">
+    <ctml:name>Belén</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q1647916</ctml:wikiDataId>
+    <ctml:latitude>11.50299000</ctml:latitude>
+    <ctml:longitude>-85.88935000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77162" kind="admin2">
+    <ctml:name>Buenos Aires</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q1648230</ctml:wikiDataId>
+    <ctml:latitude>11.46916000</ctml:latitude>
+    <ctml:longitude>-85.81661000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77175" kind="admin2">
+    <ctml:name>Cárdenas</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q1647924</ctml:wikiDataId>
+    <ctml:latitude>11.19639000</ctml:latitude>
+    <ctml:longitude>-85.50890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77220" kind="admin2">
+    <ctml:name>Moyogalpa</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q2215641</ctml:wikiDataId>
+    <ctml:latitude>11.54006000</ctml:latitude>
+    <ctml:longitude>-85.69795000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77222" kind="city">
+    <ctml:name>Municipio de Altagracia</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q1647907</ctml:wikiDataId>
+    <ctml:latitude>11.47983000</ctml:latitude>
+    <ctml:longitude>-85.54166000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77223" kind="admin2">
+    <ctml:name>Municipio de Belén</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q1647907</ctml:wikiDataId>
+    <ctml:latitude>11.57193000</ctml:latitude>
+    <ctml:longitude>-85.96316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77224" kind="admin2">
+    <ctml:name>Municipio de Buenos Aires</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q1647907</ctml:wikiDataId>
+    <ctml:latitude>11.51760000</ctml:latitude>
+    <ctml:longitude>-85.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77225" kind="city">
+    <ctml:name>Municipio de Cárdenas</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q1647907</ctml:wikiDataId>
+    <ctml:latitude>11.14912000</ctml:latitude>
+    <ctml:longitude>-85.42323000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77227" kind="admin2">
+    <ctml:name>Municipio de Moyogalpa</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q1647907</ctml:wikiDataId>
+    <ctml:latitude>11.52632000</ctml:latitude>
+    <ctml:longitude>-85.67329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77230" kind="admin2">
+    <ctml:name>Municipio de Potosí</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q1647907</ctml:wikiDataId>
+    <ctml:latitude>11.57854000</ctml:latitude>
+    <ctml:longitude>-85.87764000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77233" kind="admin2">
+    <ctml:name>Municipio de San Jorge</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q2214920</ctml:wikiDataId>
+    <ctml:latitude>11.42703000</ctml:latitude>
+    <ctml:longitude>-85.78904000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77235" kind="admin2">
+    <ctml:name>Municipio de San Juan del Sur</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q2214920</ctml:wikiDataId>
+    <ctml:latitude>11.22368000</ctml:latitude>
+    <ctml:longitude>-85.78289000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77237" kind="admin2">
+    <ctml:name>Municipio de Tola</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q2214920</ctml:wikiDataId>
+    <ctml:latitude>11.46009000</ctml:latitude>
+    <ctml:longitude>-86.00789000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77247" kind="admin2">
+    <ctml:name>Potosí</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q1647911</ctml:wikiDataId>
+    <ctml:latitude>11.49416000</ctml:latitude>
+    <ctml:longitude>-85.85680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77257" kind="admin2">
+    <ctml:name>San Jorge</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q956573</ctml:wikiDataId>
+    <ctml:latitude>11.45584000</ctml:latitude>
+    <ctml:longitude>-85.80308000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77264" kind="admin2">
+    <ctml:name>San Juan del Sur</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q240247</ctml:wikiDataId>
+    <ctml:latitude>11.25292000</ctml:latitude>
+    <ctml:longitude>-85.87049000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77289" kind="admin2">
+    <ctml:name>Tola</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>Rivas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q942590</ctml:wikiDataId>
+    <ctml:latitude>11.43927000</ctml:latitude>
+    <ctml:longitude>-85.93891000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77160" kind="admin2">
+    <ctml:name>Bocana de Paiwas</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>South Caribbean Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-AS</ctml:parentRef>
+    <ctml:wikiDataId>Q691374</ctml:wikiDataId>
+    <ctml:latitude>12.78571000</ctml:latitude>
+    <ctml:longitude>-85.12269000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77173" kind="admin2">
+    <ctml:name>Corn Island</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>South Caribbean Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-AS</ctml:parentRef>
+    <ctml:wikiDataId>Q22280935</ctml:wikiDataId>
+    <ctml:latitude>12.17575000</ctml:latitude>
+    <ctml:longitude>-83.06145000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77185" kind="admin2">
+    <ctml:name>El Rama</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>South Caribbean Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-AS</ctml:parentRef>
+    <ctml:wikiDataId>Q21054015</ctml:wikiDataId>
+    <ctml:latitude>12.15965000</ctml:latitude>
+    <ctml:longitude>-84.21952000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77189" kind="admin2">
+    <ctml:name>El Tortuguero</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>South Caribbean Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-AS</ctml:parentRef>
+    <ctml:wikiDataId>Q21053675</ctml:wikiDataId>
+    <ctml:latitude>12.82247000</ctml:latitude>
+    <ctml:longitude>-84.19629000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77198" kind="admin2">
+    <ctml:name>Kukrahill</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>South Caribbean Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-AS</ctml:parentRef>
+    <ctml:wikiDataId>Q1647889</ctml:wikiDataId>
+    <ctml:latitude>12.24096000</ctml:latitude>
+    <ctml:longitude>-83.74517000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77203" kind="admin2">
+    <ctml:name>La Cruz de Río Grande</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>South Caribbean Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-AS</ctml:parentRef>
+    <ctml:wikiDataId>Q963732</ctml:wikiDataId>
+    <ctml:latitude>13.11290000</ctml:latitude>
+    <ctml:longitude>-84.18588000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NIC-77208" kind="city">
+    <ctml:name>Laguna de Perlas</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>South Caribbean Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-AS</ctml:parentRef>
+    <ctml:wikiDataId>Q2215086</ctml:wikiDataId>
+    <ctml:latitude>12.34294000</ctml:latitude>
+    <ctml:longitude>-83.67123000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77221" kind="admin2">
+    <ctml:name>Muelle de los Bueyes</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>South Caribbean Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-AS</ctml:parentRef>
+    <ctml:wikiDataId>Q2215047</ctml:wikiDataId>
+    <ctml:latitude>12.06999000</ctml:latitude>
+    <ctml:longitude>-84.53503000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NIC-77244" kind="admin2">
+    <ctml:name>Nueva Guinea</ctml:name>
+    <ctml:country>NIC</ctml:country>
+    <ctml:admin1>South Caribbean Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:NI-AS</ctml:parentRef>
+    <ctml:wikiDataId>Q2554341</ctml:wikiDataId>
+    <ctml:latitude>11.68758000</ctml:latitude>
+    <ctml:longitude>-84.45616000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

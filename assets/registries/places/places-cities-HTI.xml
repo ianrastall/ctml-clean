@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:HTI-55046" kind="city">
+    <ctml:name>Anse Rouge</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Artibonite</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q394257</ctml:wikiDataId>
+    <ctml:latitude>19.63382000</ctml:latitude>
+    <ctml:longitude>-73.05530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55064" kind="city">
+    <ctml:name>Arrondissement de Saint-Marc</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Artibonite</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>19.00000000</ctml:latitude>
+    <ctml:longitude>-72.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55094" kind="city">
+    <ctml:name>Désarmes</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Artibonite</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2430230</ctml:wikiDataId>
+    <ctml:latitude>18.99345000</ctml:latitude>
+    <ctml:longitude>-72.39058000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55091" kind="city">
+    <ctml:name>Dessalines</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Artibonite</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2076213</ctml:wikiDataId>
+    <ctml:latitude>19.26177000</ctml:latitude>
+    <ctml:longitude>-72.51611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55095" kind="city">
+    <ctml:name>Ennery</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Artibonite</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2637933</ctml:wikiDataId>
+    <ctml:latitude>19.48342000</ctml:latitude>
+    <ctml:longitude>-72.48537000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55104" kind="city">
+    <ctml:name>Grande Saline</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Artibonite</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2637925</ctml:wikiDataId>
+    <ctml:latitude>19.26513000</ctml:latitude>
+    <ctml:longitude>-72.76897000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55107" kind="city">
+    <ctml:name>Gros Morne</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Artibonite</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2373404</ctml:wikiDataId>
+    <ctml:latitude>19.67080000</ctml:latitude>
+    <ctml:longitude>-72.67808000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55126" kind="city">
+    <ctml:name>Marmelade</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Artibonite</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q687275</ctml:wikiDataId>
+    <ctml:latitude>19.51736000</ctml:latitude>
+    <ctml:longitude>-72.36133000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55155" kind="city">
+    <ctml:name>Saint-Marc</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Artibonite</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2637880</ctml:wikiDataId>
+    <ctml:latitude>19.10819000</ctml:latitude>
+    <ctml:longitude>-72.69379000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55166" kind="city">
+    <ctml:name>Verrettes</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Artibonite</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q777676</ctml:wikiDataId>
+    <ctml:latitude>19.05050000</ctml:latitude>
+    <ctml:longitude>-72.46585000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55054" kind="city">
+    <ctml:name>Arrondissement de Cerca La Source</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>19.11667000</ctml:latitude>
+    <ctml:longitude>-71.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55082" kind="city">
+    <ctml:name>Cerca la Source</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q2638005</ctml:wikiDataId>
+    <ctml:latitude>19.16696000</ctml:latitude>
+    <ctml:longitude>-71.79015000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55117" kind="city">
+    <ctml:name>Lascahobas</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q1806510</ctml:wikiDataId>
+    <ctml:latitude>18.83047000</ctml:latitude>
+    <ctml:longitude>-71.93563000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55127" kind="city">
+    <ctml:name>Mayisad</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q1914855</ctml:wikiDataId>
+    <ctml:latitude>19.17607000</ctml:latitude>
+    <ctml:longitude>-72.13958000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55130" kind="city">
+    <ctml:name>Mirebalais</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q1707505</ctml:wikiDataId>
+    <ctml:latitude>18.83455000</ctml:latitude>
+    <ctml:longitude>-72.10480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55158" kind="city">
+    <ctml:name>Thomassique</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q662452</ctml:wikiDataId>
+    <ctml:latitude>19.08209000</ctml:latitude>
+    <ctml:longitude>-71.83855000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55160" kind="city">
+    <ctml:name>Thomonde</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q1880895</ctml:wikiDataId>
+    <ctml:latitude>19.01730000</ctml:latitude>
+    <ctml:longitude>-71.96235000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55049" kind="city">
+    <ctml:name>Anse-à-Veau</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Grand'Anse</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>18.50110000</ctml:latitude>
+    <ctml:longitude>-73.34490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55083" kind="city">
+    <ctml:name>Chambellan</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Grand'Anse</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q2086326</ctml:wikiDataId>
+    <ctml:latitude>18.55037000</ctml:latitude>
+    <ctml:longitude>-74.31317000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55086" kind="city">
+    <ctml:name>Corail</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Grand'Anse</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q2711053</ctml:wikiDataId>
+    <ctml:latitude>18.56766000</ctml:latitude>
+    <ctml:longitude>-73.88942000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55089" kind="city">
+    <ctml:name>Dame-Marie</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Grand'Anse</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q2076213</ctml:wikiDataId>
+    <ctml:latitude>18.56107000</ctml:latitude>
+    <ctml:longitude>-74.42167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55111" kind="city">
+    <ctml:name>Jeremi</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Grand'Anse</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q1317264</ctml:wikiDataId>
+    <ctml:latitude>18.58333000</ctml:latitude>
+    <ctml:longitude>-74.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55119" kind="city">
+    <ctml:name>Les Abricots</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Grand'Anse</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q2229438</ctml:wikiDataId>
+    <ctml:latitude>18.64901000</ctml:latitude>
+    <ctml:longitude>-74.30786000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55122" kind="city">
+    <ctml:name>Les Irois</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Grand'Anse</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q2711224</ctml:wikiDataId>
+    <ctml:latitude>18.40490000</ctml:latitude>
+    <ctml:longitude>-74.45280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55132" kind="city">
+    <ctml:name>Moron</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Grand'Anse</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q2432649</ctml:wikiDataId>
+    <ctml:latitude>18.56039000</ctml:latitude>
+    <ctml:longitude>-74.25777000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55139" kind="city">
+    <ctml:name>Petite Rivière de Nippes</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Grand'Anse</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q2637915</ctml:wikiDataId>
+    <ctml:latitude>18.47611000</ctml:latitude>
+    <ctml:longitude>-73.23495000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55045" kind="city">
+    <ctml:name>Ansavo</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nippes</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q394257</ctml:wikiDataId>
+    <ctml:latitude>18.41667000</ctml:latitude>
+    <ctml:longitude>-73.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55072" kind="city">
+    <ctml:name>Baradères</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nippes</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q2147526</ctml:wikiDataId>
+    <ctml:latitude>18.48255000</ctml:latitude>
+    <ctml:longitude>-73.63884000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55137" kind="city">
+    <ctml:name>Petit Trou de Nippes</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nippes</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q2637915</ctml:wikiDataId>
+    <ctml:latitude>18.52535000</ctml:latitude>
+    <ctml:longitude>-73.50815000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55044" kind="city">
+    <ctml:name>Acul du Nord</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q394257</ctml:wikiDataId>
+    <ctml:latitude>19.66667000</ctml:latitude>
+    <ctml:longitude>-72.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55065" kind="city">
+    <ctml:name>Arrondissement de la Grande Rivière du Nord</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>19.51667000</ctml:latitude>
+    <ctml:longitude>-72.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55059" kind="city">
+    <ctml:name>Arrondissement de Plaisance</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>19.66756000</ctml:latitude>
+    <ctml:longitude>-72.54908000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55067" kind="city">
+    <ctml:name>Arrondissement du Borgne</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>19.75000000</ctml:latitude>
+    <ctml:longitude>-72.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55070" kind="city">
+    <ctml:name>Bahon</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q2637944</ctml:wikiDataId>
+    <ctml:latitude>19.46959000</ctml:latitude>
+    <ctml:longitude>-72.11466000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55075" kind="city">
+    <ctml:name>Borgne</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q2670981</ctml:wikiDataId>
+    <ctml:latitude>19.84507000</ctml:latitude>
+    <ctml:longitude>-72.52349000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55092" kind="city">
+    <ctml:name>Dondon</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q2430230</ctml:wikiDataId>
+    <ctml:latitude>19.52734000</ctml:latitude>
+    <ctml:longitude>-72.24337000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55103" kind="city">
+    <ctml:name>Grande Rivière du Nord</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q852550</ctml:wikiDataId>
+    <ctml:latitude>19.57744000</ctml:latitude>
+    <ctml:longitude>-72.16872000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55118" kind="city">
+    <ctml:name>Lenbe</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q2229438</ctml:wikiDataId>
+    <ctml:latitude>19.70603000</ctml:latitude>
+    <ctml:longitude>-72.40336000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55123" kind="city">
+    <ctml:name>Limonade</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q2711224</ctml:wikiDataId>
+    <ctml:latitude>19.67014000</ctml:latitude>
+    <ctml:longitude>-72.12430000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55128" kind="city">
+    <ctml:name>Milot</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q1257589</ctml:wikiDataId>
+    <ctml:latitude>19.60837000</ctml:latitude>
+    <ctml:longitude>-72.21319000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55141" kind="city">
+    <ctml:name>Pignon</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q385720</ctml:wikiDataId>
+    <ctml:latitude>19.33594000</ctml:latitude>
+    <ctml:longitude>-72.11662000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55142" kind="city">
+    <ctml:name>Pilate</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q2430177</ctml:wikiDataId>
+    <ctml:latitude>19.66745000</ctml:latitude>
+    <ctml:longitude>-72.55229000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55143" kind="city">
+    <ctml:name>Plaine du Nord</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q2430177</ctml:wikiDataId>
+    <ctml:latitude>19.67707000</ctml:latitude>
+    <ctml:longitude>-72.26969000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55144" kind="city">
+    <ctml:name>Plaisance</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q2430177</ctml:wikiDataId>
+    <ctml:latitude>19.59795000</ctml:latitude>
+    <ctml:longitude>-72.46994000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55145" kind="city">
+    <ctml:name>Port-Margot</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q2430177</ctml:wikiDataId>
+    <ctml:latitude>19.75180000</ctml:latitude>
+    <ctml:longitude>-72.43006000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55150" kind="city">
+    <ctml:name>Quartier Morin</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q1001440</ctml:wikiDataId>
+    <ctml:latitude>19.69696000</ctml:latitude>
+    <ctml:longitude>-72.15712000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55151" kind="city">
+    <ctml:name>Ranquitte</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q662012</ctml:wikiDataId>
+    <ctml:latitude>19.41327000</ctml:latitude>
+    <ctml:longitude>-72.08077000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55156" kind="city">
+    <ctml:name>Saint-Raphaël</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q2637880</ctml:wikiDataId>
+    <ctml:latitude>19.43877000</ctml:latitude>
+    <ctml:longitude>-72.19910000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55056" kind="city">
+    <ctml:name>Arrondissement de Fort Liberté</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>19.56667000</ctml:latitude>
+    <ctml:longitude>-71.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55069" kind="city">
+    <ctml:name>Arrondissement du Trou du Nord</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>19.55000000</ctml:latitude>
+    <ctml:longitude>-71.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55077" kind="city">
+    <ctml:name>Caracol</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q2670981</ctml:wikiDataId>
+    <ctml:latitude>19.69274000</ctml:latitude>
+    <ctml:longitude>-72.01733000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55078" kind="city">
+    <ctml:name>Carice</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q2638036</ctml:wikiDataId>
+    <ctml:latitude>19.37795000</ctml:latitude>
+    <ctml:longitude>-71.83030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55093" kind="city">
+    <ctml:name>Dérac</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q2430230</ctml:wikiDataId>
+    <ctml:latitude>19.65476000</ctml:latitude>
+    <ctml:longitude>-71.81451000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55096" kind="city">
+    <ctml:name>Ferrier</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q2637933</ctml:wikiDataId>
+    <ctml:latitude>19.61549000</ctml:latitude>
+    <ctml:longitude>-71.77792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55131" kind="city">
+    <ctml:name>Montòrganize</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q1707505</ctml:wikiDataId>
+    <ctml:latitude>19.40815000</ctml:latitude>
+    <ctml:longitude>-71.78132000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55135" kind="city">
+    <ctml:name>Ouanaminthe</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q1013066</ctml:wikiDataId>
+    <ctml:latitude>19.54934000</ctml:latitude>
+    <ctml:longitude>-71.72475000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55136" kind="city">
+    <ctml:name>Perches</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q1013066</ctml:wikiDataId>
+    <ctml:latitude>19.52201000</ctml:latitude>
+    <ctml:longitude>-71.92323000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55140" kind="city">
+    <ctml:name>Phaëton</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q2637915</ctml:wikiDataId>
+    <ctml:latitude>19.67525000</ctml:latitude>
+    <ctml:longitude>-71.89691000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55165" kind="city">
+    <ctml:name>Trou du Nord</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q2198738</ctml:wikiDataId>
+    <ctml:latitude>19.61668000</ctml:latitude>
+    <ctml:longitude>-72.02442000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55167" kind="city">
+    <ctml:name>Wanament</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q777676</ctml:wikiDataId>
+    <ctml:latitude>19.48333000</ctml:latitude>
+    <ctml:longitude>-71.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55051" kind="city">
+    <ctml:name>Arcahaie</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>19.81667000</ctml:latitude>
+    <ctml:longitude>-72.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55062" kind="city">
+    <ctml:name>Arrondissement de Port-de-Paix</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>19.83333000</ctml:latitude>
+    <ctml:longitude>-72.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55063" kind="city">
+    <ctml:name>Arrondissement de Saint-Louis du Nord</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>19.85000000</ctml:latitude>
+    <ctml:longitude>-72.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55068" kind="city">
+    <ctml:name>Arrondissement du Môle Saint-Nicolas</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>19.75000000</ctml:latitude>
+    <ctml:longitude>-73.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55071" kind="city">
+    <ctml:name>Baie de Henne</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2637944</ctml:wikiDataId>
+    <ctml:latitude>19.66307000</ctml:latitude>
+    <ctml:longitude>-73.20943000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55074" kind="city">
+    <ctml:name>Bombardopolis</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2670981</ctml:wikiDataId>
+    <ctml:latitude>19.69142000</ctml:latitude>
+    <ctml:longitude>-73.33769000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55097" kind="city">
+    <ctml:name>Fond Bassin Bleu</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2637933</ctml:wikiDataId>
+    <ctml:latitude>19.79445000</ctml:latitude>
+    <ctml:longitude>-72.79949000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55110" kind="city">
+    <ctml:name>Jean-Rabel</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q1317264</ctml:wikiDataId>
+    <ctml:latitude>19.85379000</ctml:latitude>
+    <ctml:longitude>-73.19131000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55133" kind="city">
+    <ctml:name>Môle Saint-Nicolas</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2429630</ctml:wikiDataId>
+    <ctml:latitude>19.80700000</ctml:latitude>
+    <ctml:longitude>-73.37605000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55138" kind="city">
+    <ctml:name>Petite Anse</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2637915</ctml:wikiDataId>
+    <ctml:latitude>19.63011000</ctml:latitude>
+    <ctml:longitude>-73.15499000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55153" kind="city">
+    <ctml:name>Saint-Louis du Nord</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2637880</ctml:wikiDataId>
+    <ctml:latitude>19.93397000</ctml:latitude>
+    <ctml:longitude>-72.72138000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55161" kind="city">
+    <ctml:name>Ti Port-de-Paix</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Nord-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q1880895</ctml:wikiDataId>
+    <ctml:latitude>19.93333000</ctml:latitude>
+    <ctml:longitude>-72.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55047" kind="city">
+    <ctml:name>Anse à Galets</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q26228056</ctml:wikiDataId>
+    <ctml:latitude>18.83449000</ctml:latitude>
+    <ctml:longitude>-72.86644000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55052" kind="city">
+    <ctml:name>Arcahaie</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>18.83333000</ctml:latitude>
+    <ctml:longitude>-72.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55055" kind="city">
+    <ctml:name>Arrondissement de Croix des Bouquets</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>18.48333000</ctml:latitude>
+    <ctml:longitude>-72.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55058" kind="city">
+    <ctml:name>Arrondissement de Léogâne</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>18.41667000</ctml:latitude>
+    <ctml:longitude>-72.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55061" kind="city">
+    <ctml:name>Arrondissement de Port-au-Prince</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>18.50000000</ctml:latitude>
+    <ctml:longitude>-72.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55076" kind="city">
+    <ctml:name>Cabaret</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2670981</ctml:wikiDataId>
+    <ctml:latitude>18.73582000</ctml:latitude>
+    <ctml:longitude>-72.41929000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55079" kind="city">
+    <ctml:name>Carrefour</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2638036</ctml:wikiDataId>
+    <ctml:latitude>18.54114000</ctml:latitude>
+    <ctml:longitude>-72.39922000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55087" kind="city">
+    <ctml:name>Cornillon</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q26226970</ctml:wikiDataId>
+    <ctml:latitude>18.67546000</ctml:latitude>
+    <ctml:longitude>-71.95271000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:HTI-55088" kind="admin2">
+    <ctml:name>Croix-des-Bouquets</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2076213</ctml:wikiDataId>
+    <ctml:latitude>18.57677000</ctml:latitude>
+    <ctml:longitude>-72.22625000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55090" kind="city">
+    <ctml:name>Delmas 73</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2076213</ctml:wikiDataId>
+    <ctml:latitude>18.54472000</ctml:latitude>
+    <ctml:longitude>-72.30278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55098" kind="city">
+    <ctml:name>Fond Parisien</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q3075771</ctml:wikiDataId>
+    <ctml:latitude>18.50547000</ctml:latitude>
+    <ctml:longitude>-71.98122000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55100" kind="city">
+    <ctml:name>Fonds Verrettes</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2711238</ctml:wikiDataId>
+    <ctml:latitude>18.39566000</ctml:latitude>
+    <ctml:longitude>-71.85634000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55105" kind="city">
+    <ctml:name>Grangwav</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2536972</ctml:wikiDataId>
+    <ctml:latitude>18.42590000</ctml:latitude>
+    <ctml:longitude>-72.76995000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55106" kind="city">
+    <ctml:name>Gressier</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2373404</ctml:wikiDataId>
+    <ctml:latitude>18.54091000</ctml:latitude>
+    <ctml:longitude>-72.52679000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55113" kind="city">
+    <ctml:name>Kenscoff</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q1739016</ctml:wikiDataId>
+    <ctml:latitude>18.44773000</ctml:latitude>
+    <ctml:longitude>-72.28398000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55124" kind="city">
+    <ctml:name>Léogâne</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q583445</ctml:wikiDataId>
+    <ctml:latitude>18.51110000</ctml:latitude>
+    <ctml:longitude>-72.63343000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55149" kind="city">
+    <ctml:name>Pétionville</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q1001440</ctml:wikiDataId>
+    <ctml:latitude>18.51250000</ctml:latitude>
+    <ctml:longitude>-72.28528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55146" kind="city">
+    <ctml:name>Port-au-Prince</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q34261</ctml:wikiDataId>
+    <ctml:latitude>18.54349000</ctml:latitude>
+    <ctml:longitude>-72.33881000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55159" kind="city">
+    <ctml:name>Thomazeau</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q662452</ctml:wikiDataId>
+    <ctml:latitude>18.65297000</ctml:latitude>
+    <ctml:longitude>-72.09391000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55163" kind="city">
+    <ctml:name>Tigwav</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2009853</ctml:wikiDataId>
+    <ctml:latitude>18.43117000</ctml:latitude>
+    <ctml:longitude>-72.86521000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55050" kind="city">
+    <ctml:name>Aquin</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>18.27974000</ctml:latitude>
+    <ctml:longitude>-73.39433000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55060" kind="city">
+    <ctml:name>Arrondissement de Port-Salut</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>18.13333000</ctml:latitude>
+    <ctml:longitude>-73.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55066" kind="city">
+    <ctml:name>Arrondissement des Cayes</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>18.30000000</ctml:latitude>
+    <ctml:longitude>-73.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55080" kind="city">
+    <ctml:name>Cavaillon</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2400714</ctml:wikiDataId>
+    <ctml:latitude>18.29987000</ctml:latitude>
+    <ctml:longitude>-73.65455000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55084" kind="city">
+    <ctml:name>Chantal</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2636470</ctml:wikiDataId>
+    <ctml:latitude>18.20169000</ctml:latitude>
+    <ctml:longitude>-73.88957000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55085" kind="city">
+    <ctml:name>Chardonnière</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2711053</ctml:wikiDataId>
+    <ctml:latitude>18.27484000</ctml:latitude>
+    <ctml:longitude>-74.16613000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55099" kind="city">
+    <ctml:name>Fond des Blancs</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3075313</ctml:wikiDataId>
+    <ctml:latitude>18.27782000</ctml:latitude>
+    <ctml:longitude>-73.12733000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55115" kind="city">
+    <ctml:name>Koto</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2256742</ctml:wikiDataId>
+    <ctml:latitude>18.20601000</ctml:latitude>
+    <ctml:longitude>-74.04013000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55120" kind="city">
+    <ctml:name>Les Anglais</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2229438</ctml:wikiDataId>
+    <ctml:latitude>18.30540000</ctml:latitude>
+    <ctml:longitude>-74.21968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55148" kind="city">
+    <ctml:name>Port-à-Piment</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2383968</ctml:wikiDataId>
+    <ctml:latitude>18.24963000</ctml:latitude>
+    <ctml:longitude>-74.09710000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55152" kind="city">
+    <ctml:name>Roche-à-Bateau</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2637880</ctml:wikiDataId>
+    <ctml:latitude>18.18182000</ctml:latitude>
+    <ctml:longitude>-74.00345000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55154" kind="city">
+    <ctml:name>Saint-Louis du Sud</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2637880</ctml:wikiDataId>
+    <ctml:latitude>18.26241000</ctml:latitude>
+    <ctml:longitude>-73.54603000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55162" kind="city">
+    <ctml:name>Tiburon</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1111397</ctml:wikiDataId>
+    <ctml:latitude>18.32589000</ctml:latitude>
+    <ctml:longitude>-74.39598000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55164" kind="city">
+    <ctml:name>Torbeck</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2198738</ctml:wikiDataId>
+    <ctml:latitude>18.16338000</ctml:latitude>
+    <ctml:longitude>-73.80949000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55048" kind="city">
+    <ctml:name>Anse-à-Pitre</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q2258426</ctml:wikiDataId>
+    <ctml:latitude>18.05000000</ctml:latitude>
+    <ctml:longitude>-71.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55053" kind="city">
+    <ctml:name>Arrondissement de Bainet</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>18.25000000</ctml:latitude>
+    <ctml:longitude>-72.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55057" kind="city">
+    <ctml:name>Arrondissement de Jacmel</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q2703974</ctml:wikiDataId>
+    <ctml:latitude>18.33333000</ctml:latitude>
+    <ctml:longitude>-72.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55073" kind="city">
+    <ctml:name>Belle-Anse</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q1888075</ctml:wikiDataId>
+    <ctml:latitude>18.23768000</ctml:latitude>
+    <ctml:longitude>-72.06638000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55081" kind="city">
+    <ctml:name>Cayes-Jacmel</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q2400714</ctml:wikiDataId>
+    <ctml:latitude>18.23110000</ctml:latitude>
+    <ctml:longitude>-72.39545000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55114" kind="city">
+    <ctml:name>Kotdefè</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q2256742</ctml:wikiDataId>
+    <ctml:latitude>18.18872000</ctml:latitude>
+    <ctml:longitude>-73.00287000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55125" kind="city">
+    <ctml:name>Marigot</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q1504977</ctml:wikiDataId>
+    <ctml:latitude>18.23167000</ctml:latitude>
+    <ctml:longitude>-72.32289000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HTI-55157" kind="city">
+    <ctml:name>Thiotte</ctml:name>
+    <ctml:country>HTI</ctml:country>
+    <ctml:admin1>Sud-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:HT-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q2241009</ctml:wikiDataId>
+    <ctml:latitude>18.24384000</ctml:latitude>
+    <ctml:longitude>-71.84157000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

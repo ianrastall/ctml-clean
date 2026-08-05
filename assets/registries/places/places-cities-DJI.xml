@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:DJI-30567" kind="city">
+    <ctml:name>Goubétto</ctml:name>
+    <ctml:country>DJI</ctml:country>
+    <ctml:admin1>Ali Sabieh</ctml:admin1>
+    <ctml:parentRef>place:admin1:DJ-AS</ctml:parentRef>
+    <ctml:wikiDataId>Q5588130</ctml:wikiDataId>
+    <ctml:latitude>11.42389000</ctml:latitude>
+    <ctml:longitude>43.00028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DJI-30569" kind="city">
+    <ctml:name>Holhol</ctml:name>
+    <ctml:country>DJI</ctml:country>
+    <ctml:admin1>Ali Sabieh</ctml:admin1>
+    <ctml:parentRef>place:admin1:DJ-AS</ctml:parentRef>
+    <ctml:wikiDataId>Q924549</ctml:wikiDataId>
+    <ctml:latitude>11.31028000</ctml:latitude>
+    <ctml:longitude>42.92944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DJI-30568" kind="city">
+    <ctml:name>Gâlâfi</ctml:name>
+    <ctml:country>DJI</ctml:country>
+    <ctml:admin1>Dikhil</ctml:admin1>
+    <ctml:parentRef>place:admin1:DJ-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q1491656</ctml:wikiDataId>
+    <ctml:latitude>11.71583000</ctml:latitude>
+    <ctml:longitude>41.83611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DJI-30565" kind="city">
+    <ctml:name>Djibouti</ctml:name>
+    <ctml:country>DJI</ctml:country>
+    <ctml:admin1>Djibouti</ctml:admin1>
+    <ctml:parentRef>place:admin1:DJ-DJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3604</ctml:wikiDataId>
+    <ctml:latitude>11.58901000</ctml:latitude>
+    <ctml:longitude>43.14503000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DJI-30570" kind="city">
+    <ctml:name>Loyada</ctml:name>
+    <ctml:country>DJI</ctml:country>
+    <ctml:admin1>Djibouti</ctml:admin1>
+    <ctml:parentRef>place:admin1:DJ-DJ</ctml:parentRef>
+    <ctml:wikiDataId>Q983900</ctml:wikiDataId>
+    <ctml:latitude>11.46111000</ctml:latitude>
+    <ctml:longitude>43.25278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DJI-30562" kind="city">
+    <ctml:name>Alaïli Ḏaḏḏa‘</ctml:name>
+    <ctml:country>DJI</ctml:country>
+    <ctml:admin1>Obock</ctml:admin1>
+    <ctml:parentRef>place:admin1:DJ-OB</ctml:parentRef>
+    <ctml:wikiDataId>Q1708992</ctml:wikiDataId>
+    <ctml:latitude>12.42167000</ctml:latitude>
+    <ctml:longitude>42.89556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DJI-30566" kind="city">
+    <ctml:name>Dorra</ctml:name>
+    <ctml:country>DJI</ctml:country>
+    <ctml:admin1>Tadjourah</ctml:admin1>
+    <ctml:parentRef>place:admin1:DJ-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q970073</ctml:wikiDataId>
+    <ctml:latitude>12.15028000</ctml:latitude>
+    <ctml:longitude>42.47624000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

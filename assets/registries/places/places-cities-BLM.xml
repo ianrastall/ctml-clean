@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BLM-161653" kind="city">
+    <ctml:name>Gustavia</ctml:name>
+    <ctml:country>BLM</ctml:country>
+    <ctml:admin1>Saint-Barthélemy</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q34112</ctml:wikiDataId>
+    <ctml:latitude>17.89790833</ctml:latitude>
+    <ctml:longitude>-62.85055556</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

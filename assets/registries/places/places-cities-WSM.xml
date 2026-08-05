@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:WSM-130647" kind="city">
+    <ctml:name>Fasito‘outa</ctml:name>
+    <ctml:country>WSM</ctml:country>
+    <ctml:admin1>A'ana</ctml:admin1>
+    <ctml:parentRef>place:admin1:WS-AA</ctml:parentRef>
+    <ctml:wikiDataId>Q31915201</ctml:wikiDataId>
+    <ctml:latitude>-13.81163000</ctml:latitude>
+    <ctml:longitude>-171.94063000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:WSM-130655" kind="city">
+    <ctml:name>Nofoali‘i</ctml:name>
+    <ctml:country>WSM</ctml:country>
+    <ctml:admin1>A'ana</ctml:admin1>
+    <ctml:parentRef>place:admin1:WS-AA</ctml:parentRef>
+    <ctml:wikiDataId>Q31971483</ctml:wikiDataId>
+    <ctml:latitude>-13.82170000</ctml:latitude>
+    <ctml:longitude>-171.95873000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:WSM-130658" kind="city">
+    <ctml:name>Satapuala</ctml:name>
+    <ctml:country>WSM</ctml:country>
+    <ctml:admin1>A'ana</ctml:admin1>
+    <ctml:parentRef>place:admin1:WS-AA</ctml:parentRef>
+    <ctml:wikiDataId>Q7425943</ctml:wikiDataId>
+    <ctml:latitude>-13.83535000</ctml:latitude>
+    <ctml:longitude>-171.97963000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:WSM-130646" kind="city">
+    <ctml:name>Falefa</ctml:name>
+    <ctml:country>WSM</ctml:country>
+    <ctml:admin1>Atua</ctml:admin1>
+    <ctml:parentRef>place:admin1:WS-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q5431847</ctml:wikiDataId>
+    <ctml:latitude>-13.88695000</ctml:latitude>
+    <ctml:longitude>-171.58805000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:WSM-130650" kind="city">
+    <ctml:name>Lotofagā</ctml:name>
+    <ctml:country>WSM</ctml:country>
+    <ctml:admin1>Atua</ctml:admin1>
+    <ctml:parentRef>place:admin1:WS-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q31943898</ctml:wikiDataId>
+    <ctml:latitude>-13.97643000</ctml:latitude>
+    <ctml:longitude>-171.85781000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:WSM-130659" kind="city">
+    <ctml:name>Solosolo</ctml:name>
+    <ctml:country>WSM</ctml:country>
+    <ctml:admin1>Atua</ctml:admin1>
+    <ctml:parentRef>place:admin1:WS-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q7558846</ctml:wikiDataId>
+    <ctml:latitude>-13.87504000</ctml:latitude>
+    <ctml:longitude>-171.64181000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:WSM-130653" kind="city">
+    <ctml:name>Matavai</ctml:name>
+    <ctml:country>WSM</ctml:country>
+    <ctml:admin1>Gaga'ifomauga</ctml:admin1>
+    <ctml:parentRef>place:admin1:WS-GI</ctml:parentRef>
+    <ctml:wikiDataId>Q31951719</ctml:wikiDataId>
+    <ctml:latitude>-14.03208000</ctml:latitude>
+    <ctml:longitude>-171.64768000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:WSM-130648" kind="city">
+    <ctml:name>Gataivai</ctml:name>
+    <ctml:country>WSM</ctml:country>
+    <ctml:admin1>Palauli</ctml:admin1>
+    <ctml:parentRef>place:admin1:WS-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q5526936</ctml:wikiDataId>
+    <ctml:latitude>-13.77360000</ctml:latitude>
+    <ctml:longitude>-172.38802000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:WSM-130644" kind="city">
+    <ctml:name>Apia</ctml:name>
+    <ctml:country>WSM</ctml:country>
+    <ctml:admin1>Tuamasaga</ctml:admin1>
+    <ctml:parentRef>place:admin1:WS-TU</ctml:parentRef>
+    <ctml:wikiDataId>Q36260</ctml:wikiDataId>
+    <ctml:latitude>-13.83333000</ctml:latitude>
+    <ctml:longitude>-171.76666000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:WSM-130652" kind="city">
+    <ctml:name>Malie</ctml:name>
+    <ctml:country>WSM</ctml:country>
+    <ctml:admin1>Tuamasaga</ctml:admin1>
+    <ctml:parentRef>place:admin1:WS-TU</ctml:parentRef>
+    <ctml:wikiDataId>Q6743481</ctml:wikiDataId>
+    <ctml:latitude>-13.80044000</ctml:latitude>
+    <ctml:longitude>-171.84690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:WSM-130660" kind="city">
+    <ctml:name>Vailima</ctml:name>
+    <ctml:country>WSM</ctml:country>
+    <ctml:admin1>Tuamasaga</ctml:admin1>
+    <ctml:parentRef>place:admin1:WS-TU</ctml:parentRef>
+    <ctml:wikiDataId>Q548806</ctml:wikiDataId>
+    <ctml:latitude>-13.86417000</ctml:latitude>
+    <ctml:longitude>-171.76126000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:WSM-130662" kind="city">
+    <ctml:name>Vaiusu</ctml:name>
+    <ctml:country>WSM</ctml:country>
+    <ctml:admin1>Tuamasaga</ctml:admin1>
+    <ctml:parentRef>place:admin1:WS-TU</ctml:parentRef>
+    <ctml:wikiDataId>Q7908901</ctml:wikiDataId>
+    <ctml:latitude>-13.82678000</ctml:latitude>
+    <ctml:longitude>-171.79333000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

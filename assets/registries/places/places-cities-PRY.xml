@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:PRY-161645" kind="city">
+    <ctml:name>Agua Dulce de Santa María</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraguay</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-16</ctml:parentRef>
+    <ctml:wikiDataId>Q124049205</ctml:wikiDataId>
+    <ctml:latitude>-19.98378500</ctml:latitude>
+    <ctml:longitude>-59.75844700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-161646" kind="city">
+    <ctml:name>Bahía Negra</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraguay</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-16</ctml:parentRef>
+    <ctml:wikiDataId>Q3321191</ctml:wikiDataId>
+    <ctml:latitude>-20.22861111</ctml:latitude>
+    <ctml:longitude>-58.16777778</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-161647" kind="city">
+    <ctml:name>Capitán Carmelo Peralta</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraguay</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-16</ctml:parentRef>
+    <ctml:wikiDataId>Q15958259</ctml:wikiDataId>
+    <ctml:latitude>-21.67830556</ctml:latitude>
+    <ctml:longitude>-57.91458333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89736" kind="city">
+    <ctml:name>Capitán Pablo Lagerenza</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraguay</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-16</ctml:parentRef>
+    <ctml:wikiDataId>Q302441</ctml:wikiDataId>
+    <ctml:latitude>-19.91667000</ctml:latitude>
+    <ctml:longitude>-60.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-161651" kind="city">
+    <ctml:name>Puerto Casado</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraguay</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2636535</ctml:wikiDataId>
+    <ctml:latitude>-22.29000000</ctml:latitude>
+    <ctml:longitude>-57.94000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89743" kind="city">
+    <ctml:name>Cedrales</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraná</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q733792</ctml:wikiDataId>
+    <ctml:latitude>-25.65668000</ctml:latitude>
+    <ctml:longitude>-54.72272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89745" kind="city">
+    <ctml:name>Ciudad del Este</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraná</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q192235</ctml:wikiDataId>
+    <ctml:latitude>-25.50972000</ctml:latitude>
+    <ctml:longitude>-54.61111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89751" kind="city">
+    <ctml:name>Colonia Minga Porá</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraná</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q34796137</ctml:wikiDataId>
+    <ctml:latitude>-24.86667000</ctml:latitude>
+    <ctml:longitude>-54.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89759" kind="city">
+    <ctml:name>Doctor Juan León Mallorquín</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraná</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q935504</ctml:wikiDataId>
+    <ctml:latitude>-25.43053000</ctml:latitude>
+    <ctml:longitude>-55.25412000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89782" kind="city">
+    <ctml:name>Itakyry</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraná</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1988977</ctml:wikiDataId>
+    <ctml:latitude>-24.98611000</ctml:latitude>
+    <ctml:longitude>-55.14963000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89799" kind="city">
+    <ctml:name>Naranjal</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraná</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q541522</ctml:wikiDataId>
+    <ctml:latitude>-25.96667000</ctml:latitude>
+    <ctml:longitude>-55.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89812" kind="city">
+    <ctml:name>Presidente Franco</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraná</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q135970</ctml:wikiDataId>
+    <ctml:latitude>-25.56384000</ctml:latitude>
+    <ctml:longitude>-54.61097000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PRY-89818" kind="admin2">
+    <ctml:name>San Alberto</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraná</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q135983</ctml:wikiDataId>
+    <ctml:latitude>-24.96667000</ctml:latitude>
+    <ctml:longitude>-54.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89835" kind="city">
+    <ctml:name>Santa Rita</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraná</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1751103</ctml:wikiDataId>
+    <ctml:latitude>-25.78333000</ctml:latitude>
+    <ctml:longitude>-55.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89852" kind="city">
+    <ctml:name>Yguazú</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Alto Paraná</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q34796144</ctml:wikiDataId>
+    <ctml:latitude>-25.46187000</ctml:latitude>
+    <ctml:longitude>-55.00007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89725" kind="city">
+    <ctml:name>Bella Vista</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Amambay</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q31913669</ctml:wikiDataId>
+    <ctml:latitude>-22.13333000</ctml:latitude>
+    <ctml:longitude>-56.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89734" kind="city">
+    <ctml:name>Capitán Bado</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Amambay</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2717429</ctml:wikiDataId>
+    <ctml:latitude>-23.26667000</ctml:latitude>
+    <ctml:longitude>-55.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89750" kind="city">
+    <ctml:name>Colonia Menno</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Boquerón</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-19</ctml:parentRef>
+    <ctml:wikiDataId>Q6817183</ctml:wikiDataId>
+    <ctml:latitude>-22.36667000</ctml:latitude>
+    <ctml:longitude>-59.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89752" kind="city">
+    <ctml:name>Colonia Neuland</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Boquerón</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1709409</ctml:wikiDataId>
+    <ctml:latitude>-22.66667000</ctml:latitude>
+    <ctml:longitude>-60.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-161648" kind="city">
+    <ctml:name>Fortín Boquerón</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Boquerón</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-19</ctml:parentRef>
+    <ctml:wikiDataId>Q116250380</ctml:wikiDataId>
+    <ctml:latitude>-22.78333000</ctml:latitude>
+    <ctml:longitude>-59.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-161649" kind="city">
+    <ctml:name>Fortín General Eugenio Garay</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Boquerón</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-19</ctml:parentRef>
+    <ctml:wikiDataId>Q124304538</ctml:wikiDataId>
+    <ctml:latitude>-20.51666670</ctml:latitude>
+    <ctml:longitude>-62.13333330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-161650" kind="city">
+    <ctml:name>Mariscal José Félix Estigarribia</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Boquerón</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1093167</ctml:wikiDataId>
+    <ctml:latitude>-22.03055556</ctml:latitude>
+    <ctml:longitude>-60.61111111</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89730" kind="city">
+    <ctml:name>Caaguazú</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caaguazú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-5</ctml:parentRef>
+    <ctml:wikiDataId>Q858120</ctml:wikiDataId>
+    <ctml:latitude>-25.47104000</ctml:latitude>
+    <ctml:longitude>-56.01603000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89740" kind="city">
+    <ctml:name>Carayaó</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caaguazú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-5</ctml:parentRef>
+    <ctml:wikiDataId>Q17564711</ctml:wikiDataId>
+    <ctml:latitude>-25.19750000</ctml:latitude>
+    <ctml:longitude>-56.39878000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89742" kind="city">
+    <ctml:name>Cecilio Baez</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caaguazú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-5</ctml:parentRef>
+    <ctml:wikiDataId>Q733792</ctml:wikiDataId>
+    <ctml:latitude>-25.07158000</ctml:latitude>
+    <ctml:longitude>-56.24386000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89748" kind="city">
+    <ctml:name>Colonia General Alfredo Stroessner</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caaguazú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-5</ctml:parentRef>
+    <ctml:wikiDataId>Q34796112</ctml:wikiDataId>
+    <ctml:latitude>-25.36395000</ctml:latitude>
+    <ctml:longitude>-55.70690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89760" kind="city">
+    <ctml:name>Doctor Juan Manuel Frutos</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caaguazú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-5</ctml:parentRef>
+    <ctml:wikiDataId>Q935504</ctml:wikiDataId>
+    <ctml:latitude>-25.38380000</ctml:latitude>
+    <ctml:longitude>-55.83215000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89796" kind="city">
+    <ctml:name>Mbutuý</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caaguazú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-5</ctml:parentRef>
+    <ctml:wikiDataId>Q1751124</ctml:wikiDataId>
+    <ctml:latitude>-24.97518000</ctml:latitude>
+    <ctml:longitude>-56.30927000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89816" kind="city">
+    <ctml:name>Repatriación</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caaguazú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-5</ctml:parentRef>
+    <ctml:wikiDataId>Q135970</ctml:wikiDataId>
+    <ctml:latitude>-25.53333000</ctml:latitude>
+    <ctml:longitude>-55.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PRY-89823" kind="admin2">
+    <ctml:name>San Joaquín</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caaguazú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-5</ctml:parentRef>
+    <ctml:wikiDataId>Q135983</ctml:wikiDataId>
+    <ctml:latitude>-25.02853000</ctml:latitude>
+    <ctml:longitude>-56.04280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89824" kind="city">
+    <ctml:name>San José</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caaguazú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-5</ctml:parentRef>
+    <ctml:wikiDataId>Q135983</ctml:wikiDataId>
+    <ctml:latitude>-25.53333000</ctml:latitude>
+    <ctml:longitude>-56.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PRY-89853" kind="admin2">
+    <ctml:name>Yhú</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caaguazú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-5</ctml:parentRef>
+    <ctml:wikiDataId>Q1751168</ctml:wikiDataId>
+    <ctml:latitude>-25.05784000</ctml:latitude>
+    <ctml:longitude>-55.92267000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89716" kind="city">
+    <ctml:name>Abaí</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caazapá</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-6</ctml:parentRef>
+    <ctml:wikiDataId>Q3481073</ctml:wikiDataId>
+    <ctml:latitude>-26.03333000</ctml:latitude>
+    <ctml:longitude>-55.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89728" kind="city">
+    <ctml:name>Buena Vista</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caazapá</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-6</ctml:parentRef>
+    <ctml:wikiDataId>Q34783829</ctml:wikiDataId>
+    <ctml:latitude>-26.18387000</ctml:latitude>
+    <ctml:longitude>-56.08171000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89772" kind="city">
+    <ctml:name>General Higinio Morínigo</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caazapá</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-6</ctml:parentRef>
+    <ctml:wikiDataId>Q47062</ctml:wikiDataId>
+    <ctml:latitude>-25.95000000</ctml:latitude>
+    <ctml:longitude>-55.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89826" kind="city">
+    <ctml:name>San Juan Nepomuceno</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caazapá</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-6</ctml:parentRef>
+    <ctml:wikiDataId>Q135983</ctml:wikiDataId>
+    <ctml:latitude>-26.11229000</ctml:latitude>
+    <ctml:longitude>-55.93861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89850" kind="city">
+    <ctml:name>Yegros</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caazapá</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-6</ctml:parentRef>
+    <ctml:wikiDataId>Q1983624</ctml:wikiDataId>
+    <ctml:latitude>-26.45000000</ctml:latitude>
+    <ctml:longitude>-56.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89855" kind="city">
+    <ctml:name>Yuty</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Caazapá</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-6</ctml:parentRef>
+    <ctml:wikiDataId>Q2475423</ctml:wikiDataId>
+    <ctml:latitude>-26.61471000</ctml:latitude>
+    <ctml:longitude>-56.24607000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89747" kind="city">
+    <ctml:name>Colonia Catuete</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Canindeyú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-14</ctml:parentRef>
+    <ctml:wikiDataId>Q34796107</ctml:wikiDataId>
+    <ctml:latitude>-24.13333000</ctml:latitude>
+    <ctml:longitude>-54.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89758" kind="city">
+    <ctml:name>Corpus Christi</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Canindeyú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-14</ctml:parentRef>
+    <ctml:wikiDataId>Q935504</ctml:wikiDataId>
+    <ctml:latitude>-24.08040000</ctml:latitude>
+    <ctml:longitude>-54.93933000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89790" kind="city">
+    <ctml:name>La Paloma</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Canindeyú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1988977</ctml:wikiDataId>
+    <ctml:latitude>-24.12957000</ctml:latitude>
+    <ctml:longitude>-54.61376000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89803" kind="city">
+    <ctml:name>Nueva Esperanza</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Canindeyú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-14</ctml:parentRef>
+    <ctml:wikiDataId>Q541522</ctml:wikiDataId>
+    <ctml:latitude>-24.50760000</ctml:latitude>
+    <ctml:longitude>-54.85510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89822" kind="city">
+    <ctml:name>San Isidro de Curuguaty</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Canindeyú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-14</ctml:parentRef>
+    <ctml:wikiDataId>Q135983</ctml:wikiDataId>
+    <ctml:latitude>-24.47184000</ctml:latitude>
+    <ctml:longitude>-55.69227000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89851" kind="city">
+    <ctml:name>Ygatimi</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Canindeyú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1987369</ctml:wikiDataId>
+    <ctml:latitude>-24.12371000</ctml:latitude>
+    <ctml:longitude>-55.64418000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89733" kind="city">
+    <ctml:name>Capiatá</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q723811</ctml:wikiDataId>
+    <ctml:latitude>-25.35520000</ctml:latitude>
+    <ctml:longitude>-57.44545000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89765" kind="city">
+    <ctml:name>Fernando de la Mora</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q47062</ctml:wikiDataId>
+    <ctml:latitude>-25.33860000</ctml:latitude>
+    <ctml:longitude>-57.52167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89774" kind="city">
+    <ctml:name>Guarambaré</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q47062</ctml:wikiDataId>
+    <ctml:latitude>-25.49096000</ctml:latitude>
+    <ctml:longitude>-57.45567000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89786" kind="city">
+    <ctml:name>Itá</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1988977</ctml:wikiDataId>
+    <ctml:latitude>-25.50054000</ctml:latitude>
+    <ctml:longitude>-57.36717000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89784" kind="city">
+    <ctml:name>Itauguá</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1988977</ctml:wikiDataId>
+    <ctml:latitude>-25.39258000</ctml:latitude>
+    <ctml:longitude>-57.35421000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-157022" kind="city">
+    <ctml:name>Julián Augusto Saldívar</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2717412</ctml:wikiDataId>
+    <ctml:latitude>-25.44390000</ctml:latitude>
+    <ctml:longitude>-57.44304610</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89791" kind="city">
+    <ctml:name>Lambaré</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q47052</ctml:wikiDataId>
+    <ctml:latitude>-25.34682000</ctml:latitude>
+    <ctml:longitude>-57.60647000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89793" kind="city">
+    <ctml:name>Limpio</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q47052</ctml:wikiDataId>
+    <ctml:latitude>-25.16611000</ctml:latitude>
+    <ctml:longitude>-57.48562000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-157023" kind="city">
+    <ctml:name>Luque</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q946497</ctml:wikiDataId>
+    <ctml:latitude>-25.26654170</ctml:latitude>
+    <ctml:longitude>-57.49269280</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89794" kind="city">
+    <ctml:name>Mariano Roque Alonso</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q47052</ctml:wikiDataId>
+    <ctml:latitude>-25.20791000</ctml:latitude>
+    <ctml:longitude>-57.53202000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89802" kind="city">
+    <ctml:name>Nemby</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q541522</ctml:wikiDataId>
+    <ctml:latitude>-25.39490000</ctml:latitude>
+    <ctml:longitude>-57.53574000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89804" kind="city">
+    <ctml:name>Nueva Italia</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q541522</ctml:wikiDataId>
+    <ctml:latitude>-25.61080000</ctml:latitude>
+    <ctml:longitude>-57.46563000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89819" kind="city">
+    <ctml:name>San Antonio</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q135983</ctml:wikiDataId>
+    <ctml:latitude>-25.42126000</ctml:latitude>
+    <ctml:longitude>-57.54725000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89828" kind="city">
+    <ctml:name>San Lorenzo</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q938739</ctml:wikiDataId>
+    <ctml:latitude>-25.33968000</ctml:latitude>
+    <ctml:longitude>-57.50879000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89843" kind="city">
+    <ctml:name>Villa Elisa</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1092820</ctml:wikiDataId>
+    <ctml:latitude>-25.36760000</ctml:latitude>
+    <ctml:longitude>-57.59274000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-157024" kind="city">
+    <ctml:name>Villeta</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1093439</ctml:wikiDataId>
+    <ctml:latitude>-25.50451920</ctml:latitude>
+    <ctml:longitude>-57.56937890</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89854" kind="city">
+    <ctml:name>Ypacarai</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1751168</ctml:wikiDataId>
+    <ctml:latitude>-25.40777000</ctml:latitude>
+    <ctml:longitude>-57.28889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-157025" kind="city">
+    <ctml:name>Ypané</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2717436</ctml:wikiDataId>
+    <ctml:latitude>-25.45735190</ctml:latitude>
+    <ctml:longitude>-57.50925750</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89726" kind="city">
+    <ctml:name>Belén</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Concepción</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-1</ctml:parentRef>
+    <ctml:wikiDataId>Q31913669</ctml:wikiDataId>
+    <ctml:latitude>-23.46611000</ctml:latitude>
+    <ctml:longitude>-57.26194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89777" kind="city">
+    <ctml:name>Horqueta</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Concepción</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-1</ctml:parentRef>
+    <ctml:wikiDataId>Q47062</ctml:wikiDataId>
+    <ctml:latitude>-23.34278000</ctml:latitude>
+    <ctml:longitude>-57.05972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89718" kind="city">
+    <ctml:name>Altos</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Cordillera</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-3</ctml:parentRef>
+    <ctml:wikiDataId>Q926511</ctml:wikiDataId>
+    <ctml:latitude>-25.26263000</ctml:latitude>
+    <ctml:longitude>-57.25443000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89722" kind="city">
+    <ctml:name>Arroyos y Esteros</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Cordillera</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-3</ctml:parentRef>
+    <ctml:wikiDataId>Q2639218</ctml:wikiDataId>
+    <ctml:latitude>-25.05478000</ctml:latitude>
+    <ctml:longitude>-57.09873000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89723" kind="city">
+    <ctml:name>Atyrá</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Cordillera</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-3</ctml:parentRef>
+    <ctml:wikiDataId>Q2639218</ctml:wikiDataId>
+    <ctml:latitude>-25.27876000</ctml:latitude>
+    <ctml:longitude>-57.17192000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89738" kind="city">
+    <ctml:name>Caraguatay</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Cordillera</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-3</ctml:parentRef>
+    <ctml:wikiDataId>Q17564711</ctml:wikiDataId>
+    <ctml:latitude>-25.23844000</ctml:latitude>
+    <ctml:longitude>-56.82693000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89762" kind="city">
+    <ctml:name>Emboscada</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Cordillera</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-3</ctml:parentRef>
+    <ctml:wikiDataId>Q935504</ctml:wikiDataId>
+    <ctml:latitude>-25.15000000</ctml:latitude>
+    <ctml:longitude>-57.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89764" kind="city">
+    <ctml:name>Eusebio Ayala</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Cordillera</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-3</ctml:parentRef>
+    <ctml:wikiDataId>Q47138</ctml:wikiDataId>
+    <ctml:latitude>-25.38276000</ctml:latitude>
+    <ctml:longitude>-56.96088000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89779" kind="city">
+    <ctml:name>Isla Pucú</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Cordillera</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-3</ctml:parentRef>
+    <ctml:wikiDataId>Q47062</ctml:wikiDataId>
+    <ctml:latitude>-25.30853000</ctml:latitude>
+    <ctml:longitude>-56.89986000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89780" kind="city">
+    <ctml:name>Itacurubí de la Cordillera</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Cordillera</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-3</ctml:parentRef>
+    <ctml:wikiDataId>Q47062</ctml:wikiDataId>
+    <ctml:latitude>-25.46158000</ctml:latitude>
+    <ctml:longitude>-56.85333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89811" kind="city">
+    <ctml:name>Piribebuy</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Cordillera</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-3</ctml:parentRef>
+    <ctml:wikiDataId>Q135970</ctml:wikiDataId>
+    <ctml:latitude>-25.46498000</ctml:latitude>
+    <ctml:longitude>-57.04183000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89820" kind="city">
+    <ctml:name>San Bernardino</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Cordillera</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-3</ctml:parentRef>
+    <ctml:wikiDataId>Q135983</ctml:wikiDataId>
+    <ctml:latitude>-25.31067000</ctml:latitude>
+    <ctml:longitude>-57.29628000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89833" kind="city">
+    <ctml:name>Santa Elena</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Cordillera</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-3</ctml:parentRef>
+    <ctml:wikiDataId>Q1751103</ctml:wikiDataId>
+    <ctml:latitude>-25.41327000</ctml:latitude>
+    <ctml:longitude>-56.79708000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89840" kind="city">
+    <ctml:name>Tobatí</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Cordillera</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-3</ctml:parentRef>
+    <ctml:wikiDataId>Q1092820</ctml:wikiDataId>
+    <ctml:latitude>-25.26111000</ctml:latitude>
+    <ctml:longitude>-57.08329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89749" kind="city">
+    <ctml:name>Colonia Mauricio José Troche</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Guairá</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-4</ctml:parentRef>
+    <ctml:wikiDataId>Q34796123</ctml:wikiDataId>
+    <ctml:latitude>-25.56667000</ctml:latitude>
+    <ctml:longitude>-56.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89756" kind="city">
+    <ctml:name>Coronel Martínez</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Guairá</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-4</ctml:parentRef>
+    <ctml:wikiDataId>Q840962</ctml:wikiDataId>
+    <ctml:latitude>-25.75862000</ctml:latitude>
+    <ctml:longitude>-56.61677000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89778" kind="city">
+    <ctml:name>Independencia</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Guairá</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-4</ctml:parentRef>
+    <ctml:wikiDataId>Q47062</ctml:wikiDataId>
+    <ctml:latitude>-25.69100000</ctml:latitude>
+    <ctml:longitude>-56.26781000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89783" kind="city">
+    <ctml:name>Itapé</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Guairá</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-4</ctml:parentRef>
+    <ctml:wikiDataId>Q1988977</ctml:wikiDataId>
+    <ctml:latitude>-25.85172000</ctml:latitude>
+    <ctml:longitude>-56.61385000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89785" kind="city">
+    <ctml:name>Iturbe</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Guairá</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-4</ctml:parentRef>
+    <ctml:wikiDataId>Q1988977</ctml:wikiDataId>
+    <ctml:latitude>-26.05508000</ctml:latitude>
+    <ctml:longitude>-56.48463000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89795" kind="city">
+    <ctml:name>Mbocayaty</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Guairá</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-4</ctml:parentRef>
+    <ctml:wikiDataId>Q47052</ctml:wikiDataId>
+    <ctml:latitude>-25.71938000</ctml:latitude>
+    <ctml:longitude>-56.42179000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89800" kind="city">
+    <ctml:name>Natalicio Talavera</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Guairá</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-4</ctml:parentRef>
+    <ctml:wikiDataId>Q541522</ctml:wikiDataId>
+    <ctml:latitude>-25.63333000</ctml:latitude>
+    <ctml:longitude>-56.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89721" kind="city">
+    <ctml:name>Arquitecto Tomás Romero Pereira</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q31884178</ctml:wikiDataId>
+    <ctml:latitude>-26.48333000</ctml:latitude>
+    <ctml:longitude>-55.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89724" kind="city">
+    <ctml:name>Bella Vista</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q2639218</ctml:wikiDataId>
+    <ctml:latitude>-27.05000000</ctml:latitude>
+    <ctml:longitude>-55.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89735" kind="city">
+    <ctml:name>Capitán Miranda</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q2717429</ctml:wikiDataId>
+    <ctml:latitude>-27.20000000</ctml:latitude>
+    <ctml:longitude>-55.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89741" kind="city">
+    <ctml:name>Carmen del Paraná</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q17564711</ctml:wikiDataId>
+    <ctml:latitude>-27.22232000</ctml:latitude>
+    <ctml:longitude>-56.15243000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89746" kind="city">
+    <ctml:name>Colonia Carlos Antonio López</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q192235</ctml:wikiDataId>
+    <ctml:latitude>-26.39853000</ctml:latitude>
+    <ctml:longitude>-54.75690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89754" kind="city">
+    <ctml:name>Colonia San Lorenzo</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q1709409</ctml:wikiDataId>
+    <ctml:latitude>-26.49324000</ctml:latitude>
+    <ctml:longitude>-54.79989000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89761" kind="city">
+    <ctml:name>Edelira</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q935504</ctml:wikiDataId>
+    <ctml:latitude>-26.76734000</ctml:latitude>
+    <ctml:longitude>-55.27872000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89767" kind="city">
+    <ctml:name>Fram</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q47062</ctml:wikiDataId>
+    <ctml:latitude>-26.98333000</ctml:latitude>
+    <ctml:longitude>-55.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89769" kind="city">
+    <ctml:name>General Artigas</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q47062</ctml:wikiDataId>
+    <ctml:latitude>-26.93522000</ctml:latitude>
+    <ctml:longitude>-56.22168000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89770" kind="city">
+    <ctml:name>General Delgado</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q47062</ctml:wikiDataId>
+    <ctml:latitude>-27.09046000</ctml:latitude>
+    <ctml:longitude>-56.52474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PRY-89776" kind="admin2">
+    <ctml:name>Hohenau</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q47062</ctml:wikiDataId>
+    <ctml:latitude>-27.07315000</ctml:latitude>
+    <ctml:longitude>-55.64247000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89787" kind="city">
+    <ctml:name>Jesús</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q1988977</ctml:wikiDataId>
+    <ctml:latitude>-27.05598000</ctml:latitude>
+    <ctml:longitude>-55.74130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89801" kind="city">
+    <ctml:name>Natalio</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q541522</ctml:wikiDataId>
+    <ctml:latitude>-26.75702000</ctml:latitude>
+    <ctml:longitude>-55.13777000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89805" kind="city">
+    <ctml:name>Obligado</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q541522</ctml:wikiDataId>
+    <ctml:latitude>-27.03333000</ctml:latitude>
+    <ctml:longitude>-55.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89809" kind="city">
+    <ctml:name>Pirapó</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q135970</ctml:wikiDataId>
+    <ctml:latitude>-26.86012000</ctml:latitude>
+    <ctml:longitude>-55.54357000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89813" kind="city">
+    <ctml:name>Puerto Mayor Otaño</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q135970</ctml:wikiDataId>
+    <ctml:latitude>-26.40000000</ctml:latitude>
+    <ctml:longitude>-54.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89821" kind="city">
+    <ctml:name>San Cosme y Damián</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q135983</ctml:wikiDataId>
+    <ctml:latitude>-27.31741000</ctml:latitude>
+    <ctml:longitude>-56.33087000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89827" kind="city">
+    <ctml:name>San Juan del Paraná</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q135983</ctml:wikiDataId>
+    <ctml:latitude>-27.30168000</ctml:latitude>
+    <ctml:longitude>-55.96509000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89832" kind="city">
+    <ctml:name>San Pedro del Paraná</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q135993</ctml:wikiDataId>
+    <ctml:latitude>-26.83268000</ctml:latitude>
+    <ctml:longitude>-56.20575000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89841" kind="city">
+    <ctml:name>Trinidad</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Itapúa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-7</ctml:parentRef>
+    <ctml:wikiDataId>Q1092820</ctml:wikiDataId>
+    <ctml:latitude>-27.11667000</ctml:latitude>
+    <ctml:longitude>-55.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89788" kind="city">
+    <ctml:name>Juan de Ayolas</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Misiones</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-8</ctml:parentRef>
+    <ctml:wikiDataId>Q1988977</ctml:wikiDataId>
+    <ctml:latitude>-27.38662000</ctml:latitude>
+    <ctml:longitude>-56.84724000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89829" kind="city">
+    <ctml:name>San Miguel</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Misiones</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-8</ctml:parentRef>
+    <ctml:wikiDataId>Q938739</ctml:wikiDataId>
+    <ctml:latitude>-26.50000000</ctml:latitude>
+    <ctml:longitude>-57.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89830" kind="city">
+    <ctml:name>San Patricio</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Misiones</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-8</ctml:parentRef>
+    <ctml:wikiDataId>Q938739</ctml:wikiDataId>
+    <ctml:latitude>-26.96667000</ctml:latitude>
+    <ctml:longitude>-56.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89834" kind="city">
+    <ctml:name>Santa María</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Misiones</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-8</ctml:parentRef>
+    <ctml:wikiDataId>Q1751103</ctml:wikiDataId>
+    <ctml:latitude>-26.78333000</ctml:latitude>
+    <ctml:longitude>-56.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89836" kind="city">
+    <ctml:name>Santa Rosa Misiones</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Misiones</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-8</ctml:parentRef>
+    <ctml:wikiDataId>Q1751103</ctml:wikiDataId>
+    <ctml:latitude>-26.88730000</ctml:latitude>
+    <ctml:longitude>-56.84905000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89837" kind="city">
+    <ctml:name>Santiago</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Misiones</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-8</ctml:parentRef>
+    <ctml:wikiDataId>Q1751103</ctml:wikiDataId>
+    <ctml:latitude>-27.14310000</ctml:latitude>
+    <ctml:longitude>-56.76803000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89844" kind="city">
+    <ctml:name>Villa Florida</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Misiones</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-8</ctml:parentRef>
+    <ctml:wikiDataId>Q1092820</ctml:wikiDataId>
+    <ctml:latitude>-26.38333000</ctml:latitude>
+    <ctml:longitude>-57.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89744" kind="city">
+    <ctml:name>Cerrito</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Ñeembucú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q733792</ctml:wikiDataId>
+    <ctml:latitude>-27.34215000</ctml:latitude>
+    <ctml:longitude>-57.64119000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89773" kind="city">
+    <ctml:name>General José Eduvigis Díaz</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Ñeembucú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q47062</ctml:wikiDataId>
+    <ctml:latitude>-27.20136000</ctml:latitude>
+    <ctml:longitude>-58.36740000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-161652" kind="city">
+    <ctml:name>Villa Oliva</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Ñeembucú</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1750358</ctml:wikiDataId>
+    <ctml:latitude>-26.02000000</ctml:latitude>
+    <ctml:longitude>-57.87000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89731" kind="city">
+    <ctml:name>Caapucú</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Paraguarí</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-9</ctml:parentRef>
+    <ctml:wikiDataId>Q2410335</ctml:wikiDataId>
+    <ctml:latitude>-26.23523000</ctml:latitude>
+    <ctml:longitude>-57.18212000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89739" kind="city">
+    <ctml:name>Carapeguá</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Paraguarí</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-9</ctml:parentRef>
+    <ctml:wikiDataId>Q17564711</ctml:wikiDataId>
+    <ctml:latitude>-25.80000000</ctml:latitude>
+    <ctml:longitude>-57.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89789" kind="city">
+    <ctml:name>La Colmena</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Paraguarí</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-9</ctml:parentRef>
+    <ctml:wikiDataId>Q1988977</ctml:wikiDataId>
+    <ctml:latitude>-25.88627000</ctml:latitude>
+    <ctml:longitude>-56.84084000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89797" kind="city">
+    <ctml:name>Mbuyapey</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Paraguarí</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-9</ctml:parentRef>
+    <ctml:wikiDataId>Q2410379</ctml:wikiDataId>
+    <ctml:latitude>-26.21921000</ctml:latitude>
+    <ctml:longitude>-56.75777000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89810" kind="city">
+    <ctml:name>Pirayú</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Paraguarí</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-9</ctml:parentRef>
+    <ctml:wikiDataId>Q135970</ctml:wikiDataId>
+    <ctml:latitude>-25.48406000</ctml:latitude>
+    <ctml:longitude>-57.23490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89815" kind="city">
+    <ctml:name>Quiindy</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Paraguarí</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-9</ctml:parentRef>
+    <ctml:wikiDataId>Q135970</ctml:wikiDataId>
+    <ctml:latitude>-25.97606000</ctml:latitude>
+    <ctml:longitude>-57.23353000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PRY-89838" kind="admin2">
+    <ctml:name>Sapucaí</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Paraguarí</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-9</ctml:parentRef>
+    <ctml:wikiDataId>Q1751103</ctml:wikiDataId>
+    <ctml:latitude>-25.66652000</ctml:latitude>
+    <ctml:longitude>-56.95215000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89847" kind="city">
+    <ctml:name>Yaguarón</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Paraguarí</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-9</ctml:parentRef>
+    <ctml:wikiDataId>Q2638696</ctml:wikiDataId>
+    <ctml:latitude>-25.56139000</ctml:latitude>
+    <ctml:longitude>-57.28343000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89849" kind="city">
+    <ctml:name>Ybycuí</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Paraguarí</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-9</ctml:parentRef>
+    <ctml:wikiDataId>Q2410864</ctml:wikiDataId>
+    <ctml:latitude>-26.01667000</ctml:latitude>
+    <ctml:longitude>-57.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89727" kind="city">
+    <ctml:name>Benjamín Aceval</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Presidente Hayes</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-15</ctml:parentRef>
+    <ctml:wikiDataId>Q31913669</ctml:wikiDataId>
+    <ctml:latitude>-24.96667000</ctml:latitude>
+    <ctml:longitude>-57.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89798" kind="city">
+    <ctml:name>Nanawua</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>Presidente Hayes</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-15</ctml:parentRef>
+    <ctml:wikiDataId>Q541522</ctml:wikiDataId>
+    <ctml:latitude>-25.27930000</ctml:latitude>
+    <ctml:longitude>-57.70307000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89719" kind="city">
+    <ctml:name>Antequera</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>San Pedro</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-2</ctml:parentRef>
+    <ctml:wikiDataId>Q31884178</ctml:wikiDataId>
+    <ctml:latitude>-24.08526000</ctml:latitude>
+    <ctml:longitude>-57.20221000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89737" kind="city">
+    <ctml:name>Capiíbary</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>San Pedro</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-2</ctml:parentRef>
+    <ctml:wikiDataId>Q17564711</ctml:wikiDataId>
+    <ctml:latitude>-24.80000000</ctml:latitude>
+    <ctml:longitude>-56.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PRY-89753" kind="admin2">
+    <ctml:name>Colonia Nueva Germania</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>San Pedro</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-2</ctml:parentRef>
+    <ctml:wikiDataId>Q1709409</ctml:wikiDataId>
+    <ctml:latitude>-23.91137000</ctml:latitude>
+    <ctml:longitude>-56.70091000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89771" kind="city">
+    <ctml:name>General Elizardo Aquino</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>San Pedro</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-2</ctml:parentRef>
+    <ctml:wikiDataId>Q47062</ctml:wikiDataId>
+    <ctml:latitude>-24.44417000</ctml:latitude>
+    <ctml:longitude>-56.90061000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89775" kind="city">
+    <ctml:name>Guayaybi</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>San Pedro</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-2</ctml:parentRef>
+    <ctml:wikiDataId>Q47062</ctml:wikiDataId>
+    <ctml:latitude>-24.53333000</ctml:latitude>
+    <ctml:longitude>-56.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89781" kind="city">
+    <ctml:name>Itacurubí del Rosario</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>San Pedro</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-2</ctml:parentRef>
+    <ctml:wikiDataId>Q1988977</ctml:wikiDataId>
+    <ctml:latitude>-24.53541000</ctml:latitude>
+    <ctml:longitude>-56.82352000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89792" kind="city">
+    <ctml:name>Lima</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>San Pedro</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-2</ctml:parentRef>
+    <ctml:wikiDataId>Q47052</ctml:wikiDataId>
+    <ctml:latitude>-23.88327000</ctml:latitude>
+    <ctml:longitude>-56.48217000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89814" kind="city">
+    <ctml:name>Puerto Rosario</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>San Pedro</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-2</ctml:parentRef>
+    <ctml:wikiDataId>Q135970</ctml:wikiDataId>
+    <ctml:latitude>-24.44127000</ctml:latitude>
+    <ctml:longitude>-57.14272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89839" kind="city">
+    <ctml:name>Tacuatí</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>San Pedro</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-2</ctml:parentRef>
+    <ctml:wikiDataId>Q1751103</ctml:wikiDataId>
+    <ctml:latitude>-23.45000000</ctml:latitude>
+    <ctml:longitude>-56.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89842" kind="city">
+    <ctml:name>Unión</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>San Pedro</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-2</ctml:parentRef>
+    <ctml:wikiDataId>Q1092820</ctml:wikiDataId>
+    <ctml:latitude>-24.80790000</ctml:latitude>
+    <ctml:longitude>-56.52148000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRY-89848" kind="city">
+    <ctml:name>Yataity del Norte</ctml:name>
+    <ctml:country>PRY</ctml:country>
+    <ctml:admin1>San Pedro</ctml:admin1>
+    <ctml:parentRef>place:admin1:PY-2</ctml:parentRef>
+    <ctml:wikiDataId>Q2638696</ctml:wikiDataId>
+    <ctml:latitude>-24.83333000</ctml:latitude>
+    <ctml:longitude>-56.35000000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

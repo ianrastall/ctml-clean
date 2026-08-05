@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ATF-162135" kind="city">
+    <ctml:name>Dumont d'Urville Station</ctml:name>
+    <ctml:country>ATF</ctml:country>
+    <ctml:admin1>Adélie Land</ctml:admin1>
+    <ctml:parentRef>place:admin1:ATF-5822</ctml:parentRef>
+    <ctml:wikiDataId>Q610476</ctml:wikiDataId>
+    <ctml:latitude>-66.66277778</ctml:latitude>
+    <ctml:longitude>140.00111111</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ATF-162134" kind="city">
+    <ctml:name>Alfred Faure</ctml:name>
+    <ctml:country>ATF</ctml:country>
+    <ctml:admin1>Crozet Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ATF-5823</ctml:parentRef>
+    <ctml:wikiDataId>Q940837</ctml:wikiDataId>
+    <ctml:latitude>-46.43250000</ctml:latitude>
+    <ctml:longitude>51.85763889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ATF-162137" kind="city">
+    <ctml:name>Port-aux-Français</ctml:name>
+    <ctml:country>ATF</ctml:country>
+    <ctml:admin1>Kerguelen Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ATF-5824</ctml:parentRef>
+    <ctml:wikiDataId>Q839559</ctml:wikiDataId>
+    <ctml:latitude>-49.35000000</ctml:latitude>
+    <ctml:longitude>70.21888889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ATF-162136" kind="city">
+    <ctml:name>Martin-de-Viviès</ctml:name>
+    <ctml:country>ATF</ctml:country>
+    <ctml:admin1>Saint-Paul and Amsterdam Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ATF-5825</ctml:parentRef>
+    <ctml:wikiDataId>Q1908459</ctml:wikiDataId>
+    <ctml:latitude>-37.79555556</ctml:latitude>
+    <ctml:longitude>77.57333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ATF-162138" kind="city">
+    <ctml:name>Tromelin</ctml:name>
+    <ctml:country>ATF</ctml:country>
+    <ctml:admin1>Scattered Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:ATF-5826</ctml:parentRef>
+    <ctml:wikiDataId>Q132724</ctml:wikiDataId>
+    <ctml:latitude>-15.89222222</ctml:latitude>
+    <ctml:longitude>54.52083333</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:CUB-21804" kind="admin2">
+    <ctml:name>Alquízar</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q23805305</ctml:wikiDataId>
+    <ctml:latitude>22.80517000</ctml:latitude>
+    <ctml:longitude>-82.58392000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21808" kind="admin2">
+    <ctml:name>Bahía Honda</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q571968</ctml:wikiDataId>
+    <ctml:latitude>22.90332000</ctml:latitude>
+    <ctml:longitude>-83.15994000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21814" kind="admin2">
+    <ctml:name>Bauta</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q809538</ctml:wikiDataId>
+    <ctml:latitude>22.98226000</ctml:latitude>
+    <ctml:longitude>-82.54719000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21820" kind="city">
+    <ctml:name>Cabañas</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q5737954</ctml:wikiDataId>
+    <ctml:latitude>22.97944000</ctml:latitude>
+    <ctml:longitude>-82.92214000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21828" kind="admin2">
+    <ctml:name>Candelaria</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q280628</ctml:wikiDataId>
+    <ctml:latitude>22.74057000</ctml:latitude>
+    <ctml:longitude>-82.95912000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21858" kind="admin2">
+    <ctml:name>Guanajay</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q23796070</ctml:wikiDataId>
+    <ctml:latitude>22.92639000</ctml:latitude>
+    <ctml:longitude>-82.68750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21865" kind="admin2">
+    <ctml:name>Güira de Melena</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1935474</ctml:wikiDataId>
+    <ctml:latitude>22.79613000</ctml:latitude>
+    <ctml:longitude>-82.50667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21895" kind="admin2">
+    <ctml:name>Mariel</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q23793608</ctml:wikiDataId>
+    <ctml:latitude>22.98931000</ctml:latitude>
+    <ctml:longitude>-82.75376000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21904" kind="city">
+    <ctml:name>Municipio de Artemisa</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q115006</ctml:wikiDataId>
+    <ctml:latitude>22.77383000</ctml:latitude>
+    <ctml:longitude>-82.80419000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21906" kind="admin2">
+    <ctml:name>Municipio de Bauta</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q114970</ctml:wikiDataId>
+    <ctml:latitude>22.96957000</ctml:latitude>
+    <ctml:longitude>-82.49997000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21914" kind="admin2">
+    <ctml:name>Municipio de Guanajay</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q114977</ctml:wikiDataId>
+    <ctml:latitude>22.89215000</ctml:latitude>
+    <ctml:longitude>-82.70873000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21923" kind="city">
+    <ctml:name>Municipio de Mariel</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q116156</ctml:wikiDataId>
+    <ctml:latitude>22.96515000</ctml:latitude>
+    <ctml:longitude>-82.80324000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21931" kind="city">
+    <ctml:name>Municipio de San Cristóbal</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q559801</ctml:wikiDataId>
+    <ctml:latitude>22.71446000</ctml:latitude>
+    <ctml:longitude>-83.04561000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21959" kind="admin2">
+    <ctml:name>San Antonio de los Baños</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q114984</ctml:wikiDataId>
+    <ctml:latitude>22.89018000</ctml:latitude>
+    <ctml:longitude>-82.50099000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21960" kind="city">
+    <ctml:name>San Cristobal</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q114984</ctml:wikiDataId>
+    <ctml:latitude>22.71658000</ctml:latitude>
+    <ctml:longitude>-83.05647000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21976" kind="city">
+    <ctml:name>Soroa</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Artemisa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2303484</ctml:wikiDataId>
+    <ctml:latitude>22.80000000</ctml:latitude>
+    <ctml:longitude>-83.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21848" kind="city">
+    <ctml:name>El Caney</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Camagüey</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2397948</ctml:wikiDataId>
+    <ctml:latitude>21.30000000</ctml:latitude>
+    <ctml:longitude>-78.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21851" kind="admin2">
+    <ctml:name>Esmeralda</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Camagüey</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-09</ctml:parentRef>
+    <ctml:wikiDataId>Q23797650</ctml:wikiDataId>
+    <ctml:latitude>21.85139000</ctml:latitude>
+    <ctml:longitude>-78.11725000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21854" kind="admin2">
+    <ctml:name>Florida</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Camagüey</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1007702</ctml:wikiDataId>
+    <ctml:latitude>21.52536000</ctml:latitude>
+    <ctml:longitude>-78.22579000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21863" kind="admin2">
+    <ctml:name>Guáimaro</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Camagüey</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1935474</ctml:wikiDataId>
+    <ctml:latitude>21.05222000</ctml:latitude>
+    <ctml:longitude>-77.34990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21876" kind="admin2">
+    <ctml:name>Jimaguayú</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Camagüey</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-09</ctml:parentRef>
+    <ctml:wikiDataId>Q179701</ctml:wikiDataId>
+    <ctml:latitude>21.24224000</ctml:latitude>
+    <ctml:longitude>-77.82625000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21899" kind="admin2">
+    <ctml:name>Minas</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Camagüey</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-09</ctml:parentRef>
+    <ctml:wikiDataId>Q643025</ctml:wikiDataId>
+    <ctml:latitude>21.48802000</ctml:latitude>
+    <ctml:longitude>-77.61033000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21913" kind="city">
+    <ctml:name>Municipio de Florida</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Camagüey</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-09</ctml:parentRef>
+    <ctml:wikiDataId>Q643617</ctml:wikiDataId>
+    <ctml:latitude>21.46582000</ctml:latitude>
+    <ctml:longitude>-78.34848000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21928" kind="city">
+    <ctml:name>Municipio de Nuevitas</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Camagüey</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-09</ctml:parentRef>
+    <ctml:wikiDataId>Q643081</ctml:wikiDataId>
+    <ctml:latitude>21.55000000</ctml:latitude>
+    <ctml:longitude>-77.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21938" kind="city">
+    <ctml:name>Nuevitas</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Camagüey</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-09</ctml:parentRef>
+    <ctml:wikiDataId>Q23792936</ctml:wikiDataId>
+    <ctml:latitude>21.54585000</ctml:latitude>
+    <ctml:longitude>-77.26504000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21971" kind="admin2">
+    <ctml:name>Santa Cruz del Sur</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Camagüey</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-09</ctml:parentRef>
+    <ctml:wikiDataId>Q12896967</ctml:wikiDataId>
+    <ctml:latitude>20.71633000</ctml:latitude>
+    <ctml:longitude>-77.99816000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21975" kind="admin2">
+    <ctml:name>Sibanicú</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Camagüey</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-09</ctml:parentRef>
+    <ctml:wikiDataId>Q537161</ctml:wikiDataId>
+    <ctml:latitude>21.23631000</ctml:latitude>
+    <ctml:longitude>-77.52561000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21982" kind="admin2">
+    <ctml:name>Vertientes</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Camagüey</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-09</ctml:parentRef>
+    <ctml:wikiDataId>Q643047</ctml:wikiDataId>
+    <ctml:latitude>21.25817000</ctml:latitude>
+    <ctml:longitude>-78.14979000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21811" kind="admin2">
+    <ctml:name>Baraguá</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Ciego de Ávila</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1816192</ctml:wikiDataId>
+    <ctml:latitude>21.68216000</ctml:latitude>
+    <ctml:longitude>-78.62567000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21832" kind="admin2">
+    <ctml:name>Chambas</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Ciego de Ávila</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1060628</ctml:wikiDataId>
+    <ctml:latitude>22.19534000</ctml:latitude>
+    <ctml:longitude>-78.91230000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21836" kind="admin2">
+    <ctml:name>Ciro Redondo</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Ciego de Ávila</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1020273</ctml:wikiDataId>
+    <ctml:latitude>22.01921000</ctml:latitude>
+    <ctml:longitude>-78.70365000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21853" kind="admin2">
+    <ctml:name>Florencia</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Ciego de Ávila</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1007702</ctml:wikiDataId>
+    <ctml:latitude>22.14610000</ctml:latitude>
+    <ctml:longitude>-78.97328000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21902" kind="admin2">
+    <ctml:name>Morón</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Ciego de Ávila</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-08</ctml:parentRef>
+    <ctml:wikiDataId>Q168965</ctml:wikiDataId>
+    <ctml:latitude>22.10774000</ctml:latitude>
+    <ctml:longitude>-78.62667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21926" kind="city">
+    <ctml:name>Municipio de Morón</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Ciego de Ávila</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-08</ctml:parentRef>
+    <ctml:wikiDataId>Q959528</ctml:wikiDataId>
+    <ctml:latitude>22.29980000</ctml:latitude>
+    <ctml:longitude>-78.56875000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21945" kind="admin2">
+    <ctml:name>Primero de Enero</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Ciego de Ávila</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1020104</ctml:wikiDataId>
+    <ctml:latitude>21.94501000</ctml:latitude>
+    <ctml:longitude>-78.43130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21981" kind="admin2">
+    <ctml:name>Venezuela</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Ciego de Ávila</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-08</ctml:parentRef>
+    <ctml:wikiDataId>Q593830</ctml:wikiDataId>
+    <ctml:latitude>21.73748000</ctml:latitude>
+    <ctml:longitude>-78.79336000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21800" kind="city">
+    <ctml:name>Abreus</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Cienfuegos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-06</ctml:parentRef>
+    <ctml:wikiDataId>Q23806009</ctml:wikiDataId>
+    <ctml:latitude>22.27797000</ctml:latitude>
+    <ctml:longitude>-80.56931000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21801" kind="city">
+    <ctml:name>Aguada de Pasajeros</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Cienfuegos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-06</ctml:parentRef>
+    <ctml:wikiDataId>Q23806009</ctml:wikiDataId>
+    <ctml:latitude>22.38520000</ctml:latitude>
+    <ctml:longitude>-80.84792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21843" kind="admin2">
+    <ctml:name>Cruces</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Cienfuegos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1129122</ctml:wikiDataId>
+    <ctml:latitude>22.34203000</ctml:latitude>
+    <ctml:longitude>-80.27021000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21845" kind="admin2">
+    <ctml:name>Cumanayagua</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Cienfuegos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-06</ctml:parentRef>
+    <ctml:wikiDataId>Q5044</ctml:wikiDataId>
+    <ctml:latitude>22.15247000</ctml:latitude>
+    <ctml:longitude>-80.20354000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21883" kind="admin2">
+    <ctml:name>Lajas</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Cienfuegos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-06</ctml:parentRef>
+    <ctml:wikiDataId>Q5045</ctml:wikiDataId>
+    <ctml:latitude>22.41479000</ctml:latitude>
+    <ctml:longitude>-80.29310000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21903" kind="city">
+    <ctml:name>Municipio de Abreus</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Cienfuegos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-06</ctml:parentRef>
+    <ctml:wikiDataId>Q331384</ctml:wikiDataId>
+    <ctml:latitude>22.19229000</ctml:latitude>
+    <ctml:longitude>-80.71465000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21940" kind="admin2">
+    <ctml:name>Palmira</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Cienfuegos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-06</ctml:parentRef>
+    <ctml:wikiDataId>Q5008</ctml:wikiDataId>
+    <ctml:latitude>22.24126000</ctml:latitude>
+    <ctml:longitude>-80.39110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21953" kind="admin2">
+    <ctml:name>Rodas</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Cienfuegos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-06</ctml:parentRef>
+    <ctml:wikiDataId>Q21610104</ctml:wikiDataId>
+    <ctml:latitude>22.34184000</ctml:latitude>
+    <ctml:longitude>-80.55596000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21812" kind="admin2">
+    <ctml:name>Bartolomé Masó</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Granma</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-12</ctml:parentRef>
+    <ctml:wikiDataId>Q809538</ctml:wikiDataId>
+    <ctml:latitude>20.16635000</ctml:latitude>
+    <ctml:longitude>-76.94291000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21827" kind="admin2">
+    <ctml:name>Campechuela</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Granma</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-12</ctml:parentRef>
+    <ctml:wikiDataId>Q280628</ctml:wikiDataId>
+    <ctml:latitude>20.23329000</ctml:latitude>
+    <ctml:longitude>-77.27990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21829" kind="city">
+    <ctml:name>Cauto Cristo</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Granma</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1332179</ctml:wikiDataId>
+    <ctml:latitude>20.55709000</ctml:latitude>
+    <ctml:longitude>-76.47270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21862" kind="admin2">
+    <ctml:name>Guisa</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Granma</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1935474</ctml:wikiDataId>
+    <ctml:latitude>20.25494000</ctml:latitude>
+    <ctml:longitude>-76.53930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21875" kind="admin2">
+    <ctml:name>Jiguaní</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Granma</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1332144</ctml:wikiDataId>
+    <ctml:latitude>20.36785000</ctml:latitude>
+    <ctml:longitude>-76.42741000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21894" kind="admin2">
+    <ctml:name>Manzanillo</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Granma</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-12</ctml:parentRef>
+    <ctml:wikiDataId>Q23793608</ctml:wikiDataId>
+    <ctml:latitude>20.34173000</ctml:latitude>
+    <ctml:longitude>-77.12126000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21898" kind="admin2">
+    <ctml:name>Media Luna</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Granma</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-12</ctml:parentRef>
+    <ctml:wikiDataId>Q995690</ctml:wikiDataId>
+    <ctml:latitude>20.14298000</ctml:latitude>
+    <ctml:longitude>-77.43532000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21922" kind="admin2">
+    <ctml:name>Municipio de Manzanillo</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Granma</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-12</ctml:parentRef>
+    <ctml:wikiDataId>Q115403</ctml:wikiDataId>
+    <ctml:latitude>20.24732000</ctml:latitude>
+    <ctml:longitude>-77.10273000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21927" kind="admin2">
+    <ctml:name>Municipio de Niquero</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Granma</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-12</ctml:parentRef>
+    <ctml:wikiDataId>Q972546</ctml:wikiDataId>
+    <ctml:latitude>19.93912000</ctml:latitude>
+    <ctml:longitude>-77.57085000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21936" kind="admin2">
+    <ctml:name>Niquero</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Granma</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-12</ctml:parentRef>
+    <ctml:wikiDataId>Q319272</ctml:wikiDataId>
+    <ctml:latitude>20.04698000</ctml:latitude>
+    <ctml:longitude>-77.58089000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21954" kind="admin2">
+    <ctml:name>Río Cauto</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Granma</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-12</ctml:parentRef>
+    <ctml:wikiDataId>Q178931</ctml:wikiDataId>
+    <ctml:latitude>20.55971000</ctml:latitude>
+    <ctml:longitude>-76.91673000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21985" kind="admin2">
+    <ctml:name>Yara</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Granma</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-12</ctml:parentRef>
+    <ctml:wikiDataId>Q643047</ctml:wikiDataId>
+    <ctml:latitude>20.27465000</ctml:latitude>
+    <ctml:longitude>-76.95132000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21810" kind="admin2">
+    <ctml:name>Baracoa</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Guantánamo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-14</ctml:parentRef>
+    <ctml:wikiDataId>Q23804595</ctml:wikiDataId>
+    <ctml:latitude>20.34711000</ctml:latitude>
+    <ctml:longitude>-74.49624000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21889" kind="city">
+    <ctml:name>Maisí</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Guantánamo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-14</ctml:parentRef>
+    <ctml:wikiDataId>Q911750</ctml:wikiDataId>
+    <ctml:latitude>20.24673000</ctml:latitude>
+    <ctml:longitude>-74.15181000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21916" kind="city">
+    <ctml:name>Municipio de Guantánamo</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Guantánamo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-14</ctml:parentRef>
+    <ctml:wikiDataId>Q185156</ctml:wikiDataId>
+    <ctml:latitude>20.26723000</ctml:latitude>
+    <ctml:longitude>-75.15546000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21955" kind="city">
+    <ctml:name>Río Guayabal de Yateras</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Guantánamo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-14</ctml:parentRef>
+    <ctml:wikiDataId>Q20592832</ctml:wikiDataId>
+    <ctml:latitude>20.36667000</ctml:latitude>
+    <ctml:longitude>-75.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21958" kind="admin2">
+    <ctml:name>San Antonio del Sur</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Guantánamo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-14</ctml:parentRef>
+    <ctml:wikiDataId>Q281213</ctml:wikiDataId>
+    <ctml:latitude>20.05564000</ctml:latitude>
+    <ctml:longitude>-74.80750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21803" kind="city">
+    <ctml:name>Alamar</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Havana</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-03</ctml:parentRef>
+    <ctml:wikiDataId>Q23805305</ctml:wikiDataId>
+    <ctml:latitude>23.15794000</ctml:latitude>
+    <ctml:longitude>-82.27837000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21806" kind="city">
+    <ctml:name>Arroyo Naranjo</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Havana</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1936053</ctml:wikiDataId>
+    <ctml:latitude>23.03677000</ctml:latitude>
+    <ctml:longitude>-82.36937000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21818" kind="city">
+    <ctml:name>Boyeros</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Havana</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1936076</ctml:wikiDataId>
+    <ctml:latitude>23.00720000</ctml:latitude>
+    <ctml:longitude>-82.40170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21830" kind="city">
+    <ctml:name>Centro Habana</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Havana</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1054312</ctml:wikiDataId>
+    <ctml:latitude>23.13833000</ctml:latitude>
+    <ctml:longitude>-82.36417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21831" kind="city">
+    <ctml:name>Cerro</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Havana</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1055715</ctml:wikiDataId>
+    <ctml:latitude>23.10861000</ctml:latitude>
+    <ctml:longitude>-82.37778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21847" kind="city">
+    <ctml:name>Diez de Octubre</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Havana</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2397948</ctml:wikiDataId>
+    <ctml:latitude>23.08810000</ctml:latitude>
+    <ctml:longitude>-82.35970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21857" kind="city">
+    <ctml:name>Guanabacoa</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Havana</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-03</ctml:parentRef>
+    <ctml:wikiDataId>Q23796070</ctml:wikiDataId>
+    <ctml:latitude>23.12360000</ctml:latitude>
+    <ctml:longitude>-82.30082000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21866" kind="city">
+    <ctml:name>Habana del Este</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Havana</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1566695</ctml:wikiDataId>
+    <ctml:latitude>23.15917000</ctml:latitude>
+    <ctml:longitude>-82.33056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21867" kind="city">
+    <ctml:name>Havana</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Havana</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1563</ctml:wikiDataId>
+    <ctml:latitude>23.13302000</ctml:latitude>
+    <ctml:longitude>-82.38304000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21880" kind="city">
+    <ctml:name>La Habana Vieja</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Havana</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1165566</ctml:wikiDataId>
+    <ctml:latitude>23.13028000</ctml:latitude>
+    <ctml:longitude>-82.35306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21952" kind="city">
+    <ctml:name>Regla</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Havana</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-03</ctml:parentRef>
+    <ctml:wikiDataId>Q21610104</ctml:wikiDataId>
+    <ctml:latitude>23.12500000</ctml:latitude>
+    <ctml:longitude>-82.33194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21966" kind="city">
+    <ctml:name>San Miguel del Padrón</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Havana</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2234391</ctml:wikiDataId>
+    <ctml:latitude>23.06639000</ctml:latitude>
+    <ctml:longitude>-82.29472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21973" kind="city">
+    <ctml:name>Santiago de las Vegas</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Havana</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1747267</ctml:wikiDataId>
+    <ctml:latitude>22.97000000</ctml:latitude>
+    <ctml:longitude>-82.38694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21809" kind="admin2">
+    <ctml:name>Banes</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Holguín</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-11</ctml:parentRef>
+    <ctml:wikiDataId>Q23804595</ctml:wikiDataId>
+    <ctml:latitude>20.96116000</ctml:latitude>
+    <ctml:longitude>-75.72200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21821" kind="admin2">
+    <ctml:name>Cacocum</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Holguín</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-11</ctml:parentRef>
+    <ctml:wikiDataId>Q281104</ctml:wikiDataId>
+    <ctml:latitude>20.73775000</ctml:latitude>
+    <ctml:longitude>-76.32574000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21844" kind="city">
+    <ctml:name>Cueto</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Holguín</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-11</ctml:parentRef>
+    <ctml:wikiDataId>Q280984</ctml:wikiDataId>
+    <ctml:latitude>20.64855000</ctml:latitude>
+    <ctml:longitude>-75.92967000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21856" kind="admin2">
+    <ctml:name>Gibara</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Holguín</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-11</ctml:parentRef>
+    <ctml:wikiDataId>Q23796526</ctml:wikiDataId>
+    <ctml:latitude>21.10988000</ctml:latitude>
+    <ctml:longitude>-76.13145000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21877" kind="city">
+    <ctml:name>Jobabo</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Holguín</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-11</ctml:parentRef>
+    <ctml:wikiDataId>Q179701</ctml:wikiDataId>
+    <ctml:latitude>20.96917000</ctml:latitude>
+    <ctml:longitude>-76.29944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21901" kind="admin2">
+    <ctml:name>Moa</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Holguín</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-11</ctml:parentRef>
+    <ctml:wikiDataId>Q168965</ctml:wikiDataId>
+    <ctml:latitude>20.65776000</ctml:latitude>
+    <ctml:longitude>-74.95075000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21905" kind="admin2">
+    <ctml:name>Municipio de Banes</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Holguín</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-11</ctml:parentRef>
+    <ctml:wikiDataId>Q806424</ctml:wikiDataId>
+    <ctml:latitude>20.98008000</ctml:latitude>
+    <ctml:longitude>-75.74933000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21956" kind="admin2">
+    <ctml:name>Sagua de Tánamo</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Holguín</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-11</ctml:parentRef>
+    <ctml:wikiDataId>Q281213</ctml:wikiDataId>
+    <ctml:latitude>20.58269000</ctml:latitude>
+    <ctml:longitude>-75.24116000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21962" kind="admin2">
+    <ctml:name>San Germán</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Holguín</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-11</ctml:parentRef>
+    <ctml:wikiDataId>Q280929</ctml:wikiDataId>
+    <ctml:latitude>20.60009000</ctml:latitude>
+    <ctml:longitude>-76.13364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21805" kind="admin2">
+    <ctml:name>Amancio</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Las Tunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1936063</ctml:wikiDataId>
+    <ctml:latitude>20.81914000</ctml:latitude>
+    <ctml:longitude>-77.57958000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21837" kind="admin2">
+    <ctml:name>Colombia</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Las Tunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2733738</ctml:wikiDataId>
+    <ctml:latitude>20.98812000</ctml:latitude>
+    <ctml:longitude>-77.42598000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21874" kind="admin2">
+    <ctml:name>Jesús Menéndez</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Las Tunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1332144</ctml:wikiDataId>
+    <ctml:latitude>21.16139000</ctml:latitude>
+    <ctml:longitude>-76.47919000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21878" kind="admin2">
+    <ctml:name>Jobabo</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Las Tunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-10</ctml:parentRef>
+    <ctml:wikiDataId>Q600105</ctml:wikiDataId>
+    <ctml:latitude>20.90748000</ctml:latitude>
+    <ctml:longitude>-77.28194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21890" kind="admin2">
+    <ctml:name>Manatí</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Las Tunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2234381</ctml:wikiDataId>
+    <ctml:latitude>21.31070000</ctml:latitude>
+    <ctml:longitude>-76.93403000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21947" kind="admin2">
+    <ctml:name>Puerto Padre</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Las Tunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-10</ctml:parentRef>
+    <ctml:wikiDataId>Q23794731</ctml:wikiDataId>
+    <ctml:latitude>21.19517000</ctml:latitude>
+    <ctml:longitude>-76.60358000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21802" kind="city">
+    <ctml:name>Alacranes</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q23805305</ctml:wikiDataId>
+    <ctml:latitude>22.76719000</ctml:latitude>
+    <ctml:longitude>-81.56803000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21817" kind="city">
+    <ctml:name>Bolondrón</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q23803811</ctml:wikiDataId>
+    <ctml:latitude>22.76307000</ctml:latitude>
+    <ctml:longitude>-81.44780000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21824" kind="admin2">
+    <ctml:name>Calimete</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q4999</ctml:wikiDataId>
+    <ctml:latitude>22.53420000</ctml:latitude>
+    <ctml:longitude>-80.91105000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21846" kind="admin2">
+    <ctml:name>Cárdenas</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q5044</ctml:wikiDataId>
+    <ctml:latitude>23.03661000</ctml:latitude>
+    <ctml:longitude>-81.20596000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21838" kind="admin2">
+    <ctml:name>Colón</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2733738</ctml:wikiDataId>
+    <ctml:latitude>22.72064000</ctml:latitude>
+    <ctml:longitude>-80.90492000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21870" kind="admin2">
+    <ctml:name>Jagüey Grande</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1563</ctml:wikiDataId>
+    <ctml:latitude>22.52694000</ctml:latitude>
+    <ctml:longitude>-81.12861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21879" kind="admin2">
+    <ctml:name>Jovellanos</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q600105</ctml:wikiDataId>
+    <ctml:latitude>22.80375000</ctml:latitude>
+    <ctml:longitude>-81.19127000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21885" kind="admin2">
+    <ctml:name>Limonar</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2737469</ctml:wikiDataId>
+    <ctml:latitude>22.95035000</ctml:latitude>
+    <ctml:longitude>-81.41059000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21886" kind="admin2">
+    <ctml:name>Los Arabos</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2737469</ctml:wikiDataId>
+    <ctml:latitude>22.72969000</ctml:latitude>
+    <ctml:longitude>-80.72081000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21891" kind="city">
+    <ctml:name>Manguito</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q23794180</ctml:wikiDataId>
+    <ctml:latitude>22.58733000</ctml:latitude>
+    <ctml:longitude>-80.91451000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21896" kind="admin2">
+    <ctml:name>Martí</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q23793608</ctml:wikiDataId>
+    <ctml:latitude>22.94714000</ctml:latitude>
+    <ctml:longitude>-80.91902000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21912" kind="admin2">
+    <ctml:name>Municipio de Cárdenas</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q986387</ctml:wikiDataId>
+    <ctml:latitude>22.98978000</ctml:latitude>
+    <ctml:longitude>-81.23520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21941" kind="admin2">
+    <ctml:name>Pedro Betancourt</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q5008</ctml:wikiDataId>
+    <ctml:latitude>22.72709000</ctml:latitude>
+    <ctml:longitude>-81.28963000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21942" kind="admin2">
+    <ctml:name>Perico</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q5008</ctml:wikiDataId>
+    <ctml:latitude>22.76987000</ctml:latitude>
+    <ctml:longitude>-81.01830000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21979" kind="admin2">
+    <ctml:name>Unión de Reyes</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q20600096</ctml:wikiDataId>
+    <ctml:latitude>22.79505000</ctml:latitude>
+    <ctml:longitude>-81.53617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21980" kind="city">
+    <ctml:name>Varadero</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Matanzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-04</ctml:parentRef>
+    <ctml:wikiDataId>Q726751</ctml:wikiDataId>
+    <ctml:latitude>23.15678000</ctml:latitude>
+    <ctml:longitude>-81.24441000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21813" kind="admin2">
+    <ctml:name>Batabanó</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Mayabeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-16</ctml:parentRef>
+    <ctml:wikiDataId>Q809538</ctml:wikiDataId>
+    <ctml:latitude>22.71794000</ctml:latitude>
+    <ctml:longitude>-82.28965000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21816" kind="admin2">
+    <ctml:name>Bejucal</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Mayabeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-16</ctml:parentRef>
+    <ctml:wikiDataId>Q814979</ctml:wikiDataId>
+    <ctml:latitude>22.92861000</ctml:latitude>
+    <ctml:longitude>-82.38861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21864" kind="admin2">
+    <ctml:name>Güines</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Mayabeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1935474</ctml:wikiDataId>
+    <ctml:latitude>22.83727000</ctml:latitude>
+    <ctml:longitude>-82.02641000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21871" kind="city">
+    <ctml:name>Jamaica</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Mayabeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-16</ctml:parentRef>
+    <ctml:wikiDataId>Q23795053</ctml:wikiDataId>
+    <ctml:latitude>22.97559000</ctml:latitude>
+    <ctml:longitude>-82.16852000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21872" kind="admin2">
+    <ctml:name>Jaruco</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Mayabeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-16</ctml:parentRef>
+    <ctml:wikiDataId>Q23795053</ctml:wikiDataId>
+    <ctml:latitude>23.04419000</ctml:latitude>
+    <ctml:longitude>-82.00919000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21881" kind="city">
+    <ctml:name>La Salud</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Mayabeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-16</ctml:parentRef>
+    <ctml:wikiDataId>Q23794891</ctml:wikiDataId>
+    <ctml:latitude>22.87199000</ctml:latitude>
+    <ctml:longitude>-82.42328000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21888" kind="admin2">
+    <ctml:name>Madruga</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Mayabeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2737469</ctml:wikiDataId>
+    <ctml:latitude>22.91000000</ctml:latitude>
+    <ctml:longitude>-81.85639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21917" kind="admin2">
+    <ctml:name>Municipio de Güines</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Mayabeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-16</ctml:parentRef>
+    <ctml:wikiDataId>Q270297</ctml:wikiDataId>
+    <ctml:latitude>22.78712000</ctml:latitude>
+    <ctml:longitude>-82.01602000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21925" kind="admin2">
+    <ctml:name>Municipio de Melena del Sur</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Mayabeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-16</ctml:parentRef>
+    <ctml:wikiDataId>Q272471</ctml:wikiDataId>
+    <ctml:latitude>22.78821000</ctml:latitude>
+    <ctml:longitude>-82.15113000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21949" kind="admin2">
+    <ctml:name>Quivicán</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Mayabeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-16</ctml:parentRef>
+    <ctml:wikiDataId>Q23794731</ctml:wikiDataId>
+    <ctml:latitude>22.82313000</ctml:latitude>
+    <ctml:longitude>-82.35558000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21967" kind="city">
+    <ctml:name>San Nicolás de Bari</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Mayabeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2234391</ctml:wikiDataId>
+    <ctml:latitude>22.78444000</ctml:latitude>
+    <ctml:longitude>-81.91333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21970" kind="admin2">
+    <ctml:name>Santa Cruz del Norte</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Mayabeque</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-16</ctml:parentRef>
+    <ctml:wikiDataId>Q12896967</ctml:wikiDataId>
+    <ctml:latitude>23.15424000</ctml:latitude>
+    <ctml:longitude>-81.92556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21840" kind="admin2">
+    <ctml:name>Consolación del Sur</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Pinar del Río</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-01</ctml:parentRef>
+    <ctml:wikiDataId>Q23798614</ctml:wikiDataId>
+    <ctml:latitude>22.50419000</ctml:latitude>
+    <ctml:longitude>-83.51442000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21859" kind="city">
+    <ctml:name>Guane</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Pinar del Río</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-01</ctml:parentRef>
+    <ctml:wikiDataId>Q23796097</ctml:wikiDataId>
+    <ctml:latitude>22.20179000</ctml:latitude>
+    <ctml:longitude>-84.08484000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21887" kind="admin2">
+    <ctml:name>Los Palacios</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Pinar del Río</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2737469</ctml:wikiDataId>
+    <ctml:latitude>22.58882000</ctml:latitude>
+    <ctml:longitude>-83.24671000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21893" kind="city">
+    <ctml:name>Mantua</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Pinar del Río</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-01</ctml:parentRef>
+    <ctml:wikiDataId>Q23793608</ctml:wikiDataId>
+    <ctml:latitude>22.29058000</ctml:latitude>
+    <ctml:longitude>-84.28599000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21900" kind="admin2">
+    <ctml:name>Minas de Matahambre</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Pinar del Río</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2204246</ctml:wikiDataId>
+    <ctml:latitude>22.58691000</ctml:latitude>
+    <ctml:longitude>-83.94551000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21911" kind="city">
+    <ctml:name>Municipio de Consolación del Sur</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Pinar del Río</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1127452</ctml:wikiDataId>
+    <ctml:latitude>22.44095000</ctml:latitude>
+    <ctml:longitude>-83.41985000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21915" kind="city">
+    <ctml:name>Municipio de Guane</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Pinar del Río</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-01</ctml:parentRef>
+    <ctml:wikiDataId>Q535537</ctml:wikiDataId>
+    <ctml:latitude>22.24591000</ctml:latitude>
+    <ctml:longitude>-84.03660000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21920" kind="admin2">
+    <ctml:name>Municipio de La Palma</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Pinar del Río</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2234325</ctml:wikiDataId>
+    <ctml:latitude>22.75000000</ctml:latitude>
+    <ctml:longitude>-83.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21921" kind="admin2">
+    <ctml:name>Municipio de Los Palacios</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Pinar del Río</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1870561</ctml:wikiDataId>
+    <ctml:latitude>22.58333000</ctml:latitude>
+    <ctml:longitude>-83.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21946" kind="city">
+    <ctml:name>Puerto Esperanza</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Pinar del Río</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-01</ctml:parentRef>
+    <ctml:wikiDataId>Q23794731</ctml:wikiDataId>
+    <ctml:latitude>22.77041000</ctml:latitude>
+    <ctml:longitude>-83.73138000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21961" kind="city">
+    <ctml:name>San Diego de Los Baños</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Pinar del Río</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-01</ctml:parentRef>
+    <ctml:wikiDataId>Q23789756</ctml:wikiDataId>
+    <ctml:latitude>22.64667000</ctml:latitude>
+    <ctml:longitude>-83.36972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21965" kind="admin2">
+    <ctml:name>San Luis</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Pinar del Río</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-01</ctml:parentRef>
+    <ctml:wikiDataId>Q555956</ctml:wikiDataId>
+    <ctml:latitude>22.27898000</ctml:latitude>
+    <ctml:longitude>-83.75956000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21983" kind="admin2">
+    <ctml:name>Viñales</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Pinar del Río</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-01</ctml:parentRef>
+    <ctml:wikiDataId>Q643047</ctml:wikiDataId>
+    <ctml:latitude>22.61892000</ctml:latitude>
+    <ctml:longitude>-83.70694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21819" kind="admin2">
+    <ctml:name>Cabaiguán</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Sancti Spíritus</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1936076</ctml:wikiDataId>
+    <ctml:latitude>22.07874000</ctml:latitude>
+    <ctml:longitude>-79.49726000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21839" kind="city">
+    <ctml:name>Condado</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Sancti Spíritus</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-07</ctml:parentRef>
+    <ctml:wikiDataId>Q23798614</ctml:wikiDataId>
+    <ctml:latitude>21.87670000</ctml:latitude>
+    <ctml:longitude>-79.84014000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21855" kind="admin2">
+    <ctml:name>Fomento</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Sancti Spíritus</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1007702</ctml:wikiDataId>
+    <ctml:latitude>22.10475000</ctml:latitude>
+    <ctml:longitude>-79.72141000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21861" kind="city">
+    <ctml:name>Guayos</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Sancti Spíritus</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-07</ctml:parentRef>
+    <ctml:wikiDataId>Q5614403</ctml:wikiDataId>
+    <ctml:latitude>22.04956000</ctml:latitude>
+    <ctml:longitude>-79.46106000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21873" kind="admin2">
+    <ctml:name>Jatibonico</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Sancti Spíritus</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-07</ctml:parentRef>
+    <ctml:wikiDataId>Q23795053</ctml:wikiDataId>
+    <ctml:latitude>21.94333000</ctml:latitude>
+    <ctml:longitude>-79.16906000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21882" kind="admin2">
+    <ctml:name>La Sierpe</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Sancti Spíritus</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-07</ctml:parentRef>
+    <ctml:wikiDataId>Q861630</ctml:wikiDataId>
+    <ctml:latitude>21.77241000</ctml:latitude>
+    <ctml:longitude>-79.26832000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21908" kind="admin2">
+    <ctml:name>Municipio de Cabaiguán</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Sancti Spíritus</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-07</ctml:parentRef>
+    <ctml:wikiDataId>Q862728</ctml:wikiDataId>
+    <ctml:latitude>22.08333000</ctml:latitude>
+    <ctml:longitude>-79.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21919" kind="admin2">
+    <ctml:name>Municipio de Jatibonico</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Sancti Spíritus</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-07</ctml:parentRef>
+    <ctml:wikiDataId>Q861575</ctml:wikiDataId>
+    <ctml:latitude>21.93333000</ctml:latitude>
+    <ctml:longitude>-79.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21932" kind="city">
+    <ctml:name>Municipio de Sancti Spíritus</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Sancti Spíritus</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-07</ctml:parentRef>
+    <ctml:wikiDataId>Q845720</ctml:wikiDataId>
+    <ctml:latitude>21.82176000</ctml:latitude>
+    <ctml:longitude>-79.51036000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21935" kind="city">
+    <ctml:name>Municipio de Trinidad</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Sancti Spíritus</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-07</ctml:parentRef>
+    <ctml:wikiDataId>Q319272</ctml:wikiDataId>
+    <ctml:latitude>21.83195000</ctml:latitude>
+    <ctml:longitude>-79.88362000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21977" kind="city">
+    <ctml:name>Topes de Collantes</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Sancti Spíritus</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-07</ctml:parentRef>
+    <ctml:wikiDataId>Q23787154</ctml:wikiDataId>
+    <ctml:latitude>21.91524000</ctml:latitude>
+    <ctml:longitude>-80.01929000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21978" kind="admin2">
+    <ctml:name>Trinidad</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Sancti Spíritus</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-07</ctml:parentRef>
+    <ctml:wikiDataId>Q31877141</ctml:wikiDataId>
+    <ctml:latitude>21.80224000</ctml:latitude>
+    <ctml:longitude>-79.98467000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21984" kind="admin2">
+    <ctml:name>Yaguajay</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Sancti Spíritus</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-07</ctml:parentRef>
+    <ctml:wikiDataId>Q643047</ctml:wikiDataId>
+    <ctml:latitude>22.32691000</ctml:latitude>
+    <ctml:longitude>-79.23567000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21986" kind="city">
+    <ctml:name>Zaza del Medio</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Sancti Spíritus</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-07</ctml:parentRef>
+    <ctml:wikiDataId>Q20600881</ctml:wikiDataId>
+    <ctml:latitude>21.99712000</ctml:latitude>
+    <ctml:longitude>-79.36678000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21841" kind="admin2">
+    <ctml:name>Contramaestre</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Santiago de Cuba</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1129122</ctml:wikiDataId>
+    <ctml:latitude>20.29879000</ctml:latitude>
+    <ctml:longitude>-76.24511000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21849" kind="city">
+    <ctml:name>El Cobre</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Santiago de Cuba</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-13</ctml:parentRef>
+    <ctml:wikiDataId>Q23797650</ctml:wikiDataId>
+    <ctml:latitude>20.04850000</ctml:latitude>
+    <ctml:longitude>-75.94579000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21929" kind="city">
+    <ctml:name>Municipio de Palma Soriano</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Santiago de Cuba</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-13</ctml:parentRef>
+    <ctml:wikiDataId>Q742835</ctml:wikiDataId>
+    <ctml:latitude>20.20897000</ctml:latitude>
+    <ctml:longitude>-76.05776000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21934" kind="city">
+    <ctml:name>Municipio de Santiago de Cuba</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Santiago de Cuba</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-13</ctml:parentRef>
+    <ctml:wikiDataId>Q117040</ctml:wikiDataId>
+    <ctml:latitude>20.00617000</ctml:latitude>
+    <ctml:longitude>-75.70816000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21939" kind="admin2">
+    <ctml:name>Palma Soriano</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Santiago de Cuba</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-13</ctml:parentRef>
+    <ctml:wikiDataId>Q12895071</ctml:wikiDataId>
+    <ctml:latitude>20.21130000</ctml:latitude>
+    <ctml:longitude>-75.99362000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21964" kind="admin2">
+    <ctml:name>San Luis</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Santiago de Cuba</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-13</ctml:parentRef>
+    <ctml:wikiDataId>Q555956</ctml:wikiDataId>
+    <ctml:latitude>20.18809000</ctml:latitude>
+    <ctml:longitude>-75.85031000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21822" kind="admin2">
+    <ctml:name>Caibarién</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q289328</ctml:wikiDataId>
+    <ctml:latitude>22.51996000</ctml:latitude>
+    <ctml:longitude>-79.46599000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21823" kind="city">
+    <ctml:name>Calabazar de Sagua</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q289328</ctml:wikiDataId>
+    <ctml:latitude>22.64515000</ctml:latitude>
+    <ctml:longitude>-79.89510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21826" kind="city">
+    <ctml:name>Camajuaní</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q280628</ctml:wikiDataId>
+    <ctml:latitude>22.48333000</ctml:latitude>
+    <ctml:longitude>-79.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21835" kind="city">
+    <ctml:name>Cifuentes</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1060628</ctml:wikiDataId>
+    <ctml:latitude>22.64930000</ctml:latitude>
+    <ctml:longitude>-80.04935000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21842" kind="admin2">
+    <ctml:name>Corralillo</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1129122</ctml:wikiDataId>
+    <ctml:latitude>22.98212000</ctml:latitude>
+    <ctml:longitude>-80.58556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21850" kind="admin2">
+    <ctml:name>Encrucijada</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q23797650</ctml:wikiDataId>
+    <ctml:latitude>22.61802000</ctml:latitude>
+    <ctml:longitude>-79.86603000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21852" kind="city">
+    <ctml:name>Esperanza</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q23796982</ctml:wikiDataId>
+    <ctml:latitude>22.44680000</ctml:latitude>
+    <ctml:longitude>-80.09711000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21869" kind="city">
+    <ctml:name>Isabela de Sagua</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1563</ctml:wikiDataId>
+    <ctml:latitude>22.93924000</ctml:latitude>
+    <ctml:longitude>-80.01185000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21892" kind="admin2">
+    <ctml:name>Manicaragua</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2573328</ctml:wikiDataId>
+    <ctml:latitude>22.15021000</ctml:latitude>
+    <ctml:longitude>-79.97867000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21930" kind="city">
+    <ctml:name>Municipio de Placetas</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q861701</ctml:wikiDataId>
+    <ctml:latitude>22.22248000</ctml:latitude>
+    <ctml:longitude>-79.74268000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21944" kind="admin2">
+    <ctml:name>Placetas</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q5008</ctml:wikiDataId>
+    <ctml:latitude>22.31184000</ctml:latitude>
+    <ctml:longitude>-79.65440000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21948" kind="admin2">
+    <ctml:name>Quemado de Güines</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q23794731</ctml:wikiDataId>
+    <ctml:latitude>22.78816000</ctml:latitude>
+    <ctml:longitude>-80.25226000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21950" kind="city">
+    <ctml:name>Rancho Veloz</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q21610104</ctml:wikiDataId>
+    <ctml:latitude>22.88042000</ctml:latitude>
+    <ctml:longitude>-80.39098000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CUB-21951" kind="city">
+    <ctml:name>Ranchuelo</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q21610104</ctml:wikiDataId>
+    <ctml:latitude>22.37266000</ctml:latitude>
+    <ctml:longitude>-80.15046000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21957" kind="admin2">
+    <ctml:name>Sagua la Grande</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q281213</ctml:wikiDataId>
+    <ctml:latitude>22.80667000</ctml:latitude>
+    <ctml:longitude>-80.07556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CUB-21974" kind="admin2">
+    <ctml:name>Santo Domingo</ctml:name>
+    <ctml:country>CUB</ctml:country>
+    <ctml:admin1>Villa Clara</ctml:admin1>
+    <ctml:parentRef>place:admin1:CU-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1747267</ctml:wikiDataId>
+    <ctml:latitude>22.58677000</ctml:latitude>
+    <ctml:longitude>-80.24261000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

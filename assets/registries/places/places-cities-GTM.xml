@@ -1,0 +1,3225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:GTM-53437" kind="admin2">
+    <ctml:name>Cahabón</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Alta Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2403031</ctml:wikiDataId>
+    <ctml:latitude>15.56667000</ctml:latitude>
+    <ctml:longitude>-89.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53444" kind="city">
+    <ctml:name>Chahal Guatemala</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Alta Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-16</ctml:parentRef>
+    <ctml:wikiDataId>Q275804</ctml:wikiDataId>
+    <ctml:latitude>15.79122000</ctml:latitude>
+    <ctml:longitude>-89.60518000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53457" kind="admin2">
+    <ctml:name>Chisec</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Alta Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-16</ctml:parentRef>
+    <ctml:wikiDataId>Q275980</ctml:wikiDataId>
+    <ctml:latitude>15.81667000</ctml:latitude>
+    <ctml:longitude>-90.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53523" kind="admin2">
+    <ctml:name>La Tinta</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Alta Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-16</ctml:parentRef>
+    <ctml:wikiDataId>Q590722</ctml:wikiDataId>
+    <ctml:latitude>15.31667000</ctml:latitude>
+    <ctml:longitude>-89.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53524" kind="admin2">
+    <ctml:name>Lanquín</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Alta Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-16</ctml:parentRef>
+    <ctml:wikiDataId>Q275883</ctml:wikiDataId>
+    <ctml:latitude>15.56667000</ctml:latitude>
+    <ctml:longitude>-89.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53620" kind="admin2">
+    <ctml:name>Panzós</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Alta Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2050264</ctml:wikiDataId>
+    <ctml:latitude>15.40000000</ctml:latitude>
+    <ctml:longitude>-89.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53671" kind="city">
+    <ctml:name>San Cristóbal Verapaz</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Alta Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-16</ctml:parentRef>
+    <ctml:wikiDataId>Q284529</ctml:wikiDataId>
+    <ctml:latitude>15.39632000</ctml:latitude>
+    <ctml:longitude>-90.56513000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53693" kind="admin2">
+    <ctml:name>San Juan Chamelco</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Alta Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-16</ctml:parentRef>
+    <ctml:wikiDataId>Q325793</ctml:wikiDataId>
+    <ctml:latitude>15.43333000</ctml:latitude>
+    <ctml:longitude>-90.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53725" kind="admin2">
+    <ctml:name>San Pedro Carchá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Alta Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-16</ctml:parentRef>
+    <ctml:wikiDataId>Q325586</ctml:wikiDataId>
+    <ctml:latitude>15.48333000</ctml:latitude>
+    <ctml:longitude>-90.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53758" kind="admin2">
+    <ctml:name>Santa Cruz Verapaz</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Alta Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-16</ctml:parentRef>
+    <ctml:wikiDataId>Q332059</ctml:wikiDataId>
+    <ctml:latitude>15.36667000</ctml:latitude>
+    <ctml:longitude>-90.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53777" kind="admin2">
+    <ctml:name>Senahú</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Alta Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-16</ctml:parentRef>
+    <ctml:wikiDataId>Q332072</ctml:wikiDataId>
+    <ctml:latitude>15.40000000</ctml:latitude>
+    <ctml:longitude>-89.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53786" kind="city">
+    <ctml:name>Tactic</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Alta Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-16</ctml:parentRef>
+    <ctml:wikiDataId>Q348201</ctml:wikiDataId>
+    <ctml:latitude>15.32218000</ctml:latitude>
+    <ctml:longitude>-90.35448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53788" kind="city">
+    <ctml:name>Tamahú</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Alta Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-16</ctml:parentRef>
+    <ctml:wikiDataId>Q348216</ctml:wikiDataId>
+    <ctml:latitude>15.30890000</ctml:latitude>
+    <ctml:longitude>-90.23599000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53796" kind="admin2">
+    <ctml:name>Tucurú</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Alta Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-16</ctml:parentRef>
+    <ctml:wikiDataId>Q391295</ctml:wikiDataId>
+    <ctml:latitude>15.30000000</ctml:latitude>
+    <ctml:longitude>-90.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53474" kind="admin2">
+    <ctml:name>Cubulco</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Baja Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2034094</ctml:wikiDataId>
+    <ctml:latitude>15.10452000</ctml:latitude>
+    <ctml:longitude>-90.62871000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53482" kind="admin2">
+    <ctml:name>El Chol</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Baja Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2402509</ctml:wikiDataId>
+    <ctml:latitude>14.96055000</ctml:latitude>
+    <ctml:longitude>-90.48799000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53497" kind="admin2">
+    <ctml:name>Granados</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Baja Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q611941</ctml:wikiDataId>
+    <ctml:latitude>14.91649000</ctml:latitude>
+    <ctml:longitude>-90.52292000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53636" kind="admin2">
+    <ctml:name>Purulhá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Baja Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q536249</ctml:wikiDataId>
+    <ctml:latitude>15.26667000</ctml:latitude>
+    <ctml:longitude>-90.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53640" kind="admin2">
+    <ctml:name>Rabinal</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Baja Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1246149</ctml:wikiDataId>
+    <ctml:latitude>15.08530000</ctml:latitude>
+    <ctml:longitude>-90.49255000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53680" kind="admin2">
+    <ctml:name>San Jerónimo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Baja Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q962529</ctml:wikiDataId>
+    <ctml:latitude>15.06032000</ctml:latitude>
+    <ctml:longitude>-90.24050000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53716" kind="admin2">
+    <ctml:name>San Miguel Chicaj</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Baja Verapaz </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1517461</ctml:wikiDataId>
+    <ctml:latitude>15.09472000</ctml:latitude>
+    <ctml:longitude>-90.39442000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53425" kind="admin2">
+    <ctml:name>Acatenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1523949</ctml:wikiDataId>
+    <ctml:latitude>14.55451000</ctml:latitude>
+    <ctml:longitude>-90.94368000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53465" kind="admin2">
+    <ctml:name>Comalapa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1254234</ctml:wikiDataId>
+    <ctml:latitude>14.74086000</ctml:latitude>
+    <ctml:longitude>-90.88761000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53489" kind="admin2">
+    <ctml:name>El Tejar</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1573447</ctml:wikiDataId>
+    <ctml:latitude>14.64683000</ctml:latitude>
+    <ctml:longitude>-90.79122000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53621" kind="admin2">
+    <ctml:name>Parramos</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q509612</ctml:wikiDataId>
+    <ctml:latitude>14.60891000</ctml:latitude>
+    <ctml:longitude>-90.80303000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53625" kind="admin2">
+    <ctml:name>Patzicía</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1523943</ctml:wikiDataId>
+    <ctml:latitude>14.63194000</ctml:latitude>
+    <ctml:longitude>-90.92659000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53627" kind="admin2">
+    <ctml:name>Patzún</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2574268</ctml:wikiDataId>
+    <ctml:latitude>14.68189000</ctml:latitude>
+    <ctml:longitude>-91.01397000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53630" kind="admin2">
+    <ctml:name>Pochuta</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1254201</ctml:wikiDataId>
+    <ctml:latitude>14.54450000</ctml:latitude>
+    <ctml:longitude>-91.08904000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53650" kind="admin2">
+    <ctml:name>San Andrés Itzapa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1573465</ctml:wikiDataId>
+    <ctml:latitude>14.62222000</ctml:latitude>
+    <ctml:longitude>-90.84314000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53689" kind="admin2">
+    <ctml:name>San José Poaquil</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1254233</ctml:wikiDataId>
+    <ctml:latitude>14.81808000</ctml:latitude>
+    <ctml:longitude>-90.91248000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53710" kind="admin2">
+    <ctml:name>San Martín Jilotepeque</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2607954</ctml:wikiDataId>
+    <ctml:latitude>14.78008000</ctml:latitude>
+    <ctml:longitude>-90.79259000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53745" kind="admin2">
+    <ctml:name>Santa Apolonia</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1254653</ctml:wikiDataId>
+    <ctml:latitude>14.79049000</ctml:latitude>
+    <ctml:longitude>-90.97267000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53754" kind="admin2">
+    <ctml:name>Santa Cruz Balanyá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1523955</ctml:wikiDataId>
+    <ctml:latitude>14.68522000</ctml:latitude>
+    <ctml:longitude>-90.91906000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53790" kind="admin2">
+    <ctml:name>Tecpán Guatemala</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2400650</ctml:wikiDataId>
+    <ctml:latitude>14.76181000</ctml:latitude>
+    <ctml:longitude>-90.99247000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53800" kind="admin2">
+    <ctml:name>Yepocapa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1523937</ctml:wikiDataId>
+    <ctml:latitude>14.50195000</ctml:latitude>
+    <ctml:longitude>-90.95396000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53804" kind="admin2">
+    <ctml:name>Zaragoza</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chimaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1572856</ctml:wikiDataId>
+    <ctml:latitude>14.64968000</ctml:latitude>
+    <ctml:longitude>-90.89034000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53439" kind="admin2">
+    <ctml:name>Camotán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chiquimula </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-20</ctml:parentRef>
+    <ctml:wikiDataId>Q388686</ctml:wikiDataId>
+    <ctml:latitude>14.82017000</ctml:latitude>
+    <ctml:longitude>-89.37224000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53471" kind="admin2">
+    <ctml:name>Concepción Las Minas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chiquimula </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-20</ctml:parentRef>
+    <ctml:wikiDataId>Q1954363</ctml:wikiDataId>
+    <ctml:latitude>14.52173000</ctml:latitude>
+    <ctml:longitude>-89.45717000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53492" kind="admin2">
+    <ctml:name>Esquipulas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chiquimula </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-20</ctml:parentRef>
+    <ctml:wikiDataId>Q3058634</ctml:wikiDataId>
+    <ctml:latitude>14.56571000</ctml:latitude>
+    <ctml:longitude>-89.35166000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53505" kind="admin2">
+    <ctml:name>Ipala</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chiquimula </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-20</ctml:parentRef>
+    <ctml:wikiDataId>Q1748611</ctml:wikiDataId>
+    <ctml:latitude>14.61667000</ctml:latitude>
+    <ctml:longitude>-89.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53514" kind="admin2">
+    <ctml:name>Jocotán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chiquimula </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-20</ctml:parentRef>
+    <ctml:wikiDataId>Q1954342</ctml:wikiDataId>
+    <ctml:latitude>14.82072000</ctml:latitude>
+    <ctml:longitude>-89.38991000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53611" kind="admin2">
+    <ctml:name>Olopa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chiquimula </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-20</ctml:parentRef>
+    <ctml:wikiDataId>Q2025333</ctml:wikiDataId>
+    <ctml:latitude>14.69229000</ctml:latitude>
+    <ctml:longitude>-89.35003000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53639" kind="admin2">
+    <ctml:name>Quezaltepeque</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chiquimula </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-20</ctml:parentRef>
+    <ctml:wikiDataId>Q1981325</ctml:wikiDataId>
+    <ctml:latitude>14.63553000</ctml:latitude>
+    <ctml:longitude>-89.44241000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53679" kind="city">
+    <ctml:name>San Jacinto</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chiquimula </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-20</ctml:parentRef>
+    <ctml:wikiDataId>Q978109</ctml:wikiDataId>
+    <ctml:latitude>14.66667000</ctml:latitude>
+    <ctml:longitude>-89.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53685" kind="admin2">
+    <ctml:name>San José La Arada</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chiquimula </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-20</ctml:parentRef>
+    <ctml:wikiDataId>Q1749098</ctml:wikiDataId>
+    <ctml:latitude>14.71667000</ctml:latitude>
+    <ctml:longitude>-89.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53695" kind="admin2">
+    <ctml:name>San Juan Ermita</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Chiquimula </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-20</ctml:parentRef>
+    <ctml:wikiDataId>Q2025266</ctml:wikiDataId>
+    <ctml:latitude>14.76471000</ctml:latitude>
+    <ctml:longitude>-89.43014000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53484" kind="admin2">
+    <ctml:name>El Jícaro</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>El Progreso </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1020153</ctml:wikiDataId>
+    <ctml:latitude>14.91667000</ctml:latitude>
+    <ctml:longitude>-89.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53538" kind="admin2">
+    <ctml:name>Morazán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>El Progreso </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1020416</ctml:wikiDataId>
+    <ctml:latitude>14.93278000</ctml:latitude>
+    <ctml:longitude>-90.14306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53648" kind="admin2">
+    <ctml:name>San Agustín Acasaguastlán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>El Progreso </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1020409</ctml:wikiDataId>
+    <ctml:latitude>14.95000000</ctml:latitude>
+    <ctml:longitude>-89.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53658" kind="admin2">
+    <ctml:name>San Antonio La Paz</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>El Progreso </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-02</ctml:parentRef>
+    <ctml:wikiDataId>Q962852</ctml:wikiDataId>
+    <ctml:latitude>14.75888000</ctml:latitude>
+    <ctml:longitude>-90.28485000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53668" kind="admin2">
+    <ctml:name>San Cristóbal Acasaguastlán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>El Progreso </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1020799</ctml:wikiDataId>
+    <ctml:latitude>14.91667000</ctml:latitude>
+    <ctml:longitude>-89.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53741" kind="admin2">
+    <ctml:name>Sanarate</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>El Progreso </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1757603</ctml:wikiDataId>
+    <ctml:latitude>14.78828000</ctml:latitude>
+    <ctml:longitude>-90.19876000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53742" kind="admin2">
+    <ctml:name>Sansare</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>El Progreso </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-02</ctml:parentRef>
+    <ctml:wikiDataId>Q178569</ctml:wikiDataId>
+    <ctml:latitude>14.74572000</ctml:latitude>
+    <ctml:longitude>-90.11615000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53498" kind="admin2">
+    <ctml:name>Guanagazapa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Escuintla </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1748573</ctml:wikiDataId>
+    <ctml:latitude>14.22528000</ctml:latitude>
+    <ctml:longitude>-90.64333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53508" kind="admin2">
+    <ctml:name>Iztapa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Escuintla </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2401869</ctml:wikiDataId>
+    <ctml:latitude>13.93333000</ctml:latitude>
+    <ctml:longitude>-90.70750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53517" kind="admin2">
+    <ctml:name>La Democracia</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Escuintla </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-05</ctml:parentRef>
+    <ctml:wikiDataId>Q129369</ctml:wikiDataId>
+    <ctml:latitude>14.23083000</ctml:latitude>
+    <ctml:longitude>-90.94722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53519" kind="admin2">
+    <ctml:name>La Gomera</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Escuintla </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2608447</ctml:wikiDataId>
+    <ctml:latitude>14.08213000</ctml:latitude>
+    <ctml:longitude>-91.05383000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53530" kind="admin2">
+    <ctml:name>Masagua</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Escuintla </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1748359</ctml:wikiDataId>
+    <ctml:latitude>14.20306000</ctml:latitude>
+    <ctml:longitude>-90.84806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53605" kind="admin2">
+    <ctml:name>Nueva Concepción</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Escuintla </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-05</ctml:parentRef>
+    <ctml:wikiDataId>Q317414</ctml:wikiDataId>
+    <ctml:latitude>14.20000000</ctml:latitude>
+    <ctml:longitude>-91.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53618" kind="admin2">
+    <ctml:name>Palín</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Escuintla </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-05</ctml:parentRef>
+    <ctml:wikiDataId>Q523244</ctml:wikiDataId>
+    <ctml:latitude>14.40358000</ctml:latitude>
+    <ctml:longitude>-90.69659000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53635" kind="city">
+    <ctml:name>Puerto San José</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Escuintla </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1266746</ctml:wikiDataId>
+    <ctml:latitude>13.92740000</ctml:latitude>
+    <ctml:longitude>-90.82166000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53740" kind="admin2">
+    <ctml:name>San Vicente Pacaya</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Escuintla </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1748582</ctml:wikiDataId>
+    <ctml:latitude>14.41466000</ctml:latitude>
+    <ctml:longitude>-90.63613000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53762" kind="admin2">
+    <ctml:name>Santa Lucía Cotzumalguapa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Escuintla </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-05</ctml:parentRef>
+    <ctml:wikiDataId>Q404550</ctml:wikiDataId>
+    <ctml:latitude>14.33505000</ctml:latitude>
+    <ctml:longitude>-91.02339000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53781" kind="admin2">
+    <ctml:name>Siquinalá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Escuintla </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1748570</ctml:wikiDataId>
+    <ctml:latitude>14.30611000</ctml:latitude>
+    <ctml:longitude>-90.96500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53793" kind="city">
+    <ctml:name>Tiquisate</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Escuintla </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-05</ctml:parentRef>
+    <ctml:wikiDataId>Q532226</ctml:wikiDataId>
+    <ctml:latitude>14.28356000</ctml:latitude>
+    <ctml:longitude>-91.36063000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53430" kind="admin2">
+    <ctml:name>Amatitlán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q455760</ctml:wikiDataId>
+    <ctml:latitude>14.47740000</ctml:latitude>
+    <ctml:longitude>-90.63489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53453" kind="admin2">
+    <ctml:name>Chinautla</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1027001</ctml:wikiDataId>
+    <ctml:latitude>14.70289000</ctml:latitude>
+    <ctml:longitude>-90.49983000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53458" kind="admin2">
+    <ctml:name>Chuarrancho</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q275678</ctml:wikiDataId>
+    <ctml:latitude>14.81794000</ctml:latitude>
+    <ctml:longitude>-90.51568000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53496" kind="admin2">
+    <ctml:name>Fraijanes</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1440507</ctml:wikiDataId>
+    <ctml:latitude>14.46528000</ctml:latitude>
+    <ctml:longitude>-90.44083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53500" kind="city">
+    <ctml:name>Guatemala City</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1555</ctml:wikiDataId>
+    <ctml:latitude>14.64072000</ctml:latitude>
+    <ctml:longitude>-90.51327000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53534" kind="admin2">
+    <ctml:name>Mixco</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q948953</ctml:wikiDataId>
+    <ctml:latitude>14.63077000</ctml:latitude>
+    <ctml:longitude>-90.60711000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53616" kind="admin2">
+    <ctml:name>Palencia</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q246164</ctml:wikiDataId>
+    <ctml:latitude>14.66715000</ctml:latitude>
+    <ctml:longitude>-90.35721000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53628" kind="admin2">
+    <ctml:name>Petapa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q921966</ctml:wikiDataId>
+    <ctml:latitude>14.50189000</ctml:latitude>
+    <ctml:longitude>-90.56196000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53690" kind="admin2">
+    <ctml:name>San José del Golfo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q275791</ctml:wikiDataId>
+    <ctml:latitude>14.76414000</ctml:latitude>
+    <ctml:longitude>-90.37228000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53688" kind="admin2">
+    <ctml:name>San José Pinula</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q317380</ctml:wikiDataId>
+    <ctml:latitude>14.54600000</ctml:latitude>
+    <ctml:longitude>-90.41288000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53698" kind="admin2">
+    <ctml:name>San Juan Sacatepéquez</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q127622</ctml:wikiDataId>
+    <ctml:latitude>14.71889000</ctml:latitude>
+    <ctml:longitude>-90.64417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53724" kind="admin2">
+    <ctml:name>San Pedro Ayampuc</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q275983</ctml:wikiDataId>
+    <ctml:latitude>14.77943000</ctml:latitude>
+    <ctml:longitude>-90.45318000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53730" kind="admin2">
+    <ctml:name>San Pedro Sacatepéquez</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q317444</ctml:wikiDataId>
+    <ctml:latitude>14.68612000</ctml:latitude>
+    <ctml:longitude>-90.64253000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53736" kind="admin2">
+    <ctml:name>San Raimundo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q275800</ctml:wikiDataId>
+    <ctml:latitude>14.76462000</ctml:latitude>
+    <ctml:longitude>-90.59493000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53752" kind="admin2">
+    <ctml:name>Santa Catarina Pinula</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1671882</ctml:wikiDataId>
+    <ctml:latitude>14.57047000</ctml:latitude>
+    <ctml:longitude>-90.49925000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53798" kind="admin2">
+    <ctml:name>Villa Canales</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q174266</ctml:wikiDataId>
+    <ctml:latitude>14.48285000</ctml:latitude>
+    <ctml:longitude>-90.53425000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53799" kind="admin2">
+    <ctml:name>Villa Nueva</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Guatemala </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1018584</ctml:wikiDataId>
+    <ctml:latitude>14.52512000</ctml:latitude>
+    <ctml:longitude>-90.58544000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53427" kind="admin2">
+    <ctml:name>Aguacatán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2402581</ctml:wikiDataId>
+    <ctml:latitude>15.34222000</ctml:latitude>
+    <ctml:longitude>-91.31141000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53435" kind="admin2">
+    <ctml:name>Barillas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2390990</ctml:wikiDataId>
+    <ctml:latitude>15.80361000</ctml:latitude>
+    <ctml:longitude>-91.31583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53447" kind="admin2">
+    <ctml:name>Chiantla</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2608965</ctml:wikiDataId>
+    <ctml:latitude>15.35484000</ctml:latitude>
+    <ctml:longitude>-91.45807000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53464" kind="admin2">
+    <ctml:name>Colotenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2402611</ctml:wikiDataId>
+    <ctml:latitude>15.40602000</ctml:latitude>
+    <ctml:longitude>-91.71267000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53470" kind="admin2">
+    <ctml:name>Concepción Huista</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2401883</ctml:wikiDataId>
+    <ctml:latitude>15.62378000</ctml:latitude>
+    <ctml:longitude>-91.66521000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53476" kind="admin2">
+    <ctml:name>Cuilco</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2402387</ctml:wikiDataId>
+    <ctml:latitude>15.40719000</ctml:latitude>
+    <ctml:longitude>-91.94667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53507" kind="admin2">
+    <ctml:name>Ixtahuacán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2401814</ctml:wikiDataId>
+    <ctml:latitude>15.41688000</ctml:latitude>
+    <ctml:longitude>-91.76927000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53509" kind="admin2">
+    <ctml:name>Jacaltenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1124580</ctml:wikiDataId>
+    <ctml:latitude>15.66662000</ctml:latitude>
+    <ctml:longitude>-91.71177000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53521" kind="admin2">
+    <ctml:name>La Libertad</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1748790</ctml:wikiDataId>
+    <ctml:latitude>15.51421000</ctml:latitude>
+    <ctml:longitude>-91.86944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53528" kind="admin2">
+    <ctml:name>Malacatancito</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q539311</ctml:wikiDataId>
+    <ctml:latitude>15.24457000</ctml:latitude>
+    <ctml:longitude>-91.49901000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53604" kind="admin2">
+    <ctml:name>Nentón</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2402097</ctml:wikiDataId>
+    <ctml:latitude>15.80070000</ctml:latitude>
+    <ctml:longitude>-91.75464000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53656" kind="admin2">
+    <ctml:name>San Antonio Huista</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2609240</ctml:wikiDataId>
+    <ctml:latitude>15.65010000</ctml:latitude>
+    <ctml:longitude>-91.77163000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53678" kind="admin2">
+    <ctml:name>San Gaspar Ixchil</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q769939</ctml:wikiDataId>
+    <ctml:latitude>15.38796000</ctml:latitude>
+    <ctml:longitude>-91.72564000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53691" kind="admin2">
+    <ctml:name>San Juan Atitán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q531288</ctml:wikiDataId>
+    <ctml:latitude>15.42886000</ctml:latitude>
+    <ctml:longitude>-91.62398000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53696" kind="admin2">
+    <ctml:name>San Juan Ixcoy</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2401833</ctml:wikiDataId>
+    <ctml:latitude>15.60022000</ctml:latitude>
+    <ctml:longitude>-91.44639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53714" kind="admin2">
+    <ctml:name>San Mateo Ixtatán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2609270</ctml:wikiDataId>
+    <ctml:latitude>15.83194000</ctml:latitude>
+    <ctml:longitude>-91.47806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53715" kind="admin2">
+    <ctml:name>San Miguel Acatán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q743437</ctml:wikiDataId>
+    <ctml:latitude>15.70401000</ctml:latitude>
+    <ctml:longitude>-91.59771000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53727" kind="admin2">
+    <ctml:name>San Pedro Necta</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q734440</ctml:wikiDataId>
+    <ctml:latitude>15.49142000</ctml:latitude>
+    <ctml:longitude>-91.76551000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53732" kind="admin2">
+    <ctml:name>San Rafael La Independencia</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2401930</ctml:wikiDataId>
+    <ctml:latitude>15.70150000</ctml:latitude>
+    <ctml:longitude>-91.53553000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53734" kind="admin2">
+    <ctml:name>San Rafael Petzal</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2402524</ctml:wikiDataId>
+    <ctml:latitude>15.40487000</ctml:latitude>
+    <ctml:longitude>-91.66451000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53738" kind="admin2">
+    <ctml:name>San Sebastián Coatán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2402150</ctml:wikiDataId>
+    <ctml:latitude>15.73584000</ctml:latitude>
+    <ctml:longitude>-91.56285000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53739" kind="admin2">
+    <ctml:name>San Sebastián Huehuetenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q951729</ctml:wikiDataId>
+    <ctml:latitude>15.38768000</ctml:latitude>
+    <ctml:longitude>-91.61530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53744" kind="admin2">
+    <ctml:name>Santa Ana Huista</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2402405</ctml:wikiDataId>
+    <ctml:latitude>15.68085000</ctml:latitude>
+    <ctml:longitude>-91.82005000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53747" kind="admin2">
+    <ctml:name>Santa Bárbara</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2401903</ctml:wikiDataId>
+    <ctml:latitude>15.31617000</ctml:latitude>
+    <ctml:longitude>-91.63279000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53760" kind="admin2">
+    <ctml:name>Santa Eulalia</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1748868</ctml:wikiDataId>
+    <ctml:latitude>15.73060000</ctml:latitude>
+    <ctml:longitude>-91.45846000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53771" kind="admin2">
+    <ctml:name>Santiago Chimaltenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2402809</ctml:wikiDataId>
+    <ctml:latitude>15.47658000</ctml:latitude>
+    <ctml:longitude>-91.69656000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53783" kind="admin2">
+    <ctml:name>Soloma</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2402459</ctml:wikiDataId>
+    <ctml:latitude>15.65841000</ctml:latitude>
+    <ctml:longitude>-91.42994000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53791" kind="admin2">
+    <ctml:name>Tectitán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2402198</ctml:wikiDataId>
+    <ctml:latitude>15.30630000</ctml:latitude>
+    <ctml:longitude>-92.06051000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53794" kind="admin2">
+    <ctml:name>Todos Santos Cuchumatán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Huehuetenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2608975</ctml:wikiDataId>
+    <ctml:latitude>15.50846000</ctml:latitude>
+    <ctml:longitude>-91.60382000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53483" kind="admin2">
+    <ctml:name>El Estor</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Izabal </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1020153</ctml:wikiDataId>
+    <ctml:latitude>15.53333000</ctml:latitude>
+    <ctml:longitude>-89.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53526" kind="admin2">
+    <ctml:name>Lívingston</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Izabal </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1192713</ctml:wikiDataId>
+    <ctml:latitude>15.82826000</ctml:latitude>
+    <ctml:longitude>-88.75039000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53525" kind="city">
+    <ctml:name>Los Amates</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Izabal </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1020130</ctml:wikiDataId>
+    <ctml:latitude>15.25645000</ctml:latitude>
+    <ctml:longitude>-89.09723000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53537" kind="admin2">
+    <ctml:name>Morales</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Izabal </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-18</ctml:parentRef>
+    <ctml:wikiDataId>Q41804</ctml:wikiDataId>
+    <ctml:latitude>15.48333000</ctml:latitude>
+    <ctml:longitude>-88.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53571" kind="admin2">
+    <ctml:name>Municipio de Morales</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Izabal </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.44494000</ctml:latitude>
+    <ctml:longitude>-88.76646000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53531" kind="admin2">
+    <ctml:name>Mataquescuintla</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jalapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1749104</ctml:wikiDataId>
+    <ctml:latitude>14.52917000</ctml:latitude>
+    <ctml:longitude>-90.18417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53536" kind="admin2">
+    <ctml:name>Monjas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jalapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2608718</ctml:wikiDataId>
+    <ctml:latitude>14.50000000</ctml:latitude>
+    <ctml:longitude>-89.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53569" kind="admin2">
+    <ctml:name>Municipio de Mataquescuintla</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jalapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.54777000</ctml:latitude>
+    <ctml:longitude>-90.20008000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53706" kind="admin2">
+    <ctml:name>San Luis Jilotepeque</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jalapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q568999</ctml:wikiDataId>
+    <ctml:latitude>14.65000000</ctml:latitude>
+    <ctml:longitude>-89.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53707" kind="admin2">
+    <ctml:name>San Manuel Chaparrón</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jalapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1749101</ctml:wikiDataId>
+    <ctml:latitude>14.51667000</ctml:latitude>
+    <ctml:longitude>-89.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53728" kind="admin2">
+    <ctml:name>San Pedro Pinula</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jalapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q739778</ctml:wikiDataId>
+    <ctml:latitude>14.66667000</ctml:latitude>
+    <ctml:longitude>-89.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53426" kind="admin2">
+    <ctml:name>Agua Blanca</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2403493</ctml:wikiDataId>
+    <ctml:latitude>14.50000000</ctml:latitude>
+    <ctml:longitude>-89.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53432" kind="admin2">
+    <ctml:name>Asunción Mita</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2608750</ctml:wikiDataId>
+    <ctml:latitude>14.33083000</ctml:latitude>
+    <ctml:longitude>-89.71083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53433" kind="admin2">
+    <ctml:name>Atescatempa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2403627</ctml:wikiDataId>
+    <ctml:latitude>14.17444000</ctml:latitude>
+    <ctml:longitude>-89.74250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53466" kind="admin2">
+    <ctml:name>Comapa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2716888</ctml:wikiDataId>
+    <ctml:latitude>14.11667000</ctml:latitude>
+    <ctml:longitude>-89.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53473" kind="admin2">
+    <ctml:name>Conguaco</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2403007</ctml:wikiDataId>
+    <ctml:latitude>14.04417000</ctml:latitude>
+    <ctml:longitude>-90.03111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53480" kind="admin2">
+    <ctml:name>El Adelanto</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q989812</ctml:wikiDataId>
+    <ctml:latitude>14.16667000</ctml:latitude>
+    <ctml:longitude>-89.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53486" kind="admin2">
+    <ctml:name>El Progreso</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q686756</ctml:wikiDataId>
+    <ctml:latitude>14.35000000</ctml:latitude>
+    <ctml:longitude>-89.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53511" kind="admin2">
+    <ctml:name>Jalpatagua</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q676590</ctml:wikiDataId>
+    <ctml:latitude>14.14167000</ctml:latitude>
+    <ctml:longitude>-90.00861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53512" kind="admin2">
+    <ctml:name>Jerez</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1749094</ctml:wikiDataId>
+    <ctml:latitude>14.10000000</ctml:latitude>
+    <ctml:longitude>-89.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53539" kind="admin2">
+    <ctml:name>Moyuta</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.03861000</ctml:latitude>
+    <ctml:longitude>-90.08083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53543" kind="admin2">
+    <ctml:name>Municipio de Asunción Mita</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.30330000</ctml:latitude>
+    <ctml:longitude>-89.67623000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53622" kind="admin2">
+    <ctml:name>Pasaco</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q371987</ctml:wikiDataId>
+    <ctml:latitude>13.97722000</ctml:latitude>
+    <ctml:longitude>-90.20639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53637" kind="admin2">
+    <ctml:name>Quesada</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q536249</ctml:wikiDataId>
+    <ctml:latitude>14.27028000</ctml:latitude>
+    <ctml:longitude>-90.04028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53682" kind="admin2">
+    <ctml:name>San José Acatempa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2403022</ctml:wikiDataId>
+    <ctml:latitude>14.26528000</ctml:latitude>
+    <ctml:longitude>-90.12694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53750" kind="admin2">
+    <ctml:name>Santa Catarina Mita</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1748953</ctml:wikiDataId>
+    <ctml:latitude>14.45000000</ctml:latitude>
+    <ctml:longitude>-89.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53801" kind="admin2">
+    <ctml:name>Yupiltepeque</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1749697</ctml:wikiDataId>
+    <ctml:latitude>14.20000000</ctml:latitude>
+    <ctml:longitude>-89.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53803" kind="admin2">
+    <ctml:name>Zapotitlán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Jutiapa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2723903</ctml:wikiDataId>
+    <ctml:latitude>14.13333000</ctml:latitude>
+    <ctml:longitude>-89.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53479" kind="admin2">
+    <ctml:name>Dolores</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q989812</ctml:wikiDataId>
+    <ctml:latitude>16.51178000</ctml:latitude>
+    <ctml:longitude>-89.41704000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53520" kind="admin2">
+    <ctml:name>La Libertad</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q164481</ctml:wikiDataId>
+    <ctml:latitude>16.78850000</ctml:latitude>
+    <ctml:longitude>-90.11698000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53533" kind="city">
+    <ctml:name>Melchor de Mencos</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q599455</ctml:wikiDataId>
+    <ctml:latitude>17.06606000</ctml:latitude>
+    <ctml:longitude>-89.15229000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53576" kind="city">
+    <ctml:name>Municipio de Poptún</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>16.35687000</ctml:latitude>
+    <ctml:longitude>-89.58912000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53578" kind="city">
+    <ctml:name>Municipio de San Andrés</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>17.49541000</ctml:latitude>
+    <ctml:longitude>-90.39883000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53582" kind="admin2">
+    <ctml:name>Municipio de San Benito</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>16.91289000</ctml:latitude>
+    <ctml:longitude>-89.90979000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53584" kind="admin2">
+    <ctml:name>Municipio de San Francisco</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>16.72425000</ctml:latitude>
+    <ctml:longitude>-89.90877000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53589" kind="city">
+    <ctml:name>Municipio de Santa Ana</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q25175887</ctml:wikiDataId>
+    <ctml:latitude>16.77305000</ctml:latitude>
+    <ctml:longitude>-89.66878000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53596" kind="admin2">
+    <ctml:name>Municipio de Sayaxché</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q119252</ctml:wikiDataId>
+    <ctml:latitude>16.33160000</ctml:latitude>
+    <ctml:longitude>-90.16339000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53631" kind="admin2">
+    <ctml:name>Poptún</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q385588</ctml:wikiDataId>
+    <ctml:latitude>16.33111000</ctml:latitude>
+    <ctml:longitude>-89.41694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53649" kind="admin2">
+    <ctml:name>San Andrés</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1005008</ctml:wikiDataId>
+    <ctml:latitude>16.96667000</ctml:latitude>
+    <ctml:longitude>-89.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53665" kind="admin2">
+    <ctml:name>San Benito</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1113394</ctml:wikiDataId>
+    <ctml:latitude>16.91675000</ctml:latitude>
+    <ctml:longitude>-89.91898000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53673" kind="admin2">
+    <ctml:name>San Francisco</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q796492</ctml:wikiDataId>
+    <ctml:latitude>16.80000000</ctml:latitude>
+    <ctml:longitude>-89.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53681" kind="admin2">
+    <ctml:name>San José</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q741169</ctml:wikiDataId>
+    <ctml:latitude>16.98333000</ctml:latitude>
+    <ctml:longitude>-89.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53704" kind="admin2">
+    <ctml:name>San Luis</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1020572</ctml:wikiDataId>
+    <ctml:latitude>16.19889000</ctml:latitude>
+    <ctml:longitude>-89.44028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53743" kind="admin2">
+    <ctml:name>Santa Ana</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1005733</ctml:wikiDataId>
+    <ctml:latitude>16.80000000</ctml:latitude>
+    <ctml:longitude>-89.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53776" kind="admin2">
+    <ctml:name>Sayaxché</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Petén </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-17</ctml:parentRef>
+    <ctml:wikiDataId>Q796634</ctml:wikiDataId>
+    <ctml:latitude>16.52446000</ctml:latitude>
+    <ctml:longitude>-90.18801000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53428" kind="admin2">
+    <ctml:name>Almolonga</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q284830</ctml:wikiDataId>
+    <ctml:latitude>14.81591000</ctml:latitude>
+    <ctml:longitude>-91.49464000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53436" kind="admin2">
+    <ctml:name>Cabricán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2403031</ctml:wikiDataId>
+    <ctml:latitude>15.07485000</ctml:latitude>
+    <ctml:longitude>-91.64800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53438" kind="admin2">
+    <ctml:name>Cajolá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q388686</ctml:wikiDataId>
+    <ctml:latitude>14.92205000</ctml:latitude>
+    <ctml:longitude>-91.61478000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53441" kind="admin2">
+    <ctml:name>Cantel</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2548726</ctml:wikiDataId>
+    <ctml:latitude>14.81154000</ctml:latitude>
+    <ctml:longitude>-91.45536000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53461" kind="admin2">
+    <ctml:name>Coatepeque</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2445821</ctml:wikiDataId>
+    <ctml:latitude>14.70413000</ctml:latitude>
+    <ctml:longitude>-91.86426000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53463" kind="admin2">
+    <ctml:name>Colomba</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2426806</ctml:wikiDataId>
+    <ctml:latitude>14.70730000</ctml:latitude>
+    <ctml:longitude>-91.73167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53469" kind="admin2">
+    <ctml:name>Concepción Chiquirichapa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2401883</ctml:wikiDataId>
+    <ctml:latitude>14.85510000</ctml:latitude>
+    <ctml:longitude>-91.62360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53485" kind="admin2">
+    <ctml:name>El Palmar</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2717583</ctml:wikiDataId>
+    <ctml:latitude>14.65083000</ctml:latitude>
+    <ctml:longitude>-91.57800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53495" kind="city">
+    <ctml:name>Flores Costa Cuca</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1981317</ctml:wikiDataId>
+    <ctml:latitude>14.65606050</ctml:latitude>
+    <ctml:longitude>-91.82562770</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53502" kind="admin2">
+    <ctml:name>Génova</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3123016</ctml:wikiDataId>
+    <ctml:latitude>14.61667000</ctml:latitude>
+    <ctml:longitude>-91.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53504" kind="admin2">
+    <ctml:name>Huitán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1748611</ctml:wikiDataId>
+    <ctml:latitude>15.04920000</ctml:latitude>
+    <ctml:longitude>-91.63944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53518" kind="admin2">
+    <ctml:name>La Esperanza</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2608447</ctml:wikiDataId>
+    <ctml:latitude>14.87169000</ctml:latitude>
+    <ctml:longitude>-91.56140000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53540" kind="admin2">
+    <ctml:name>Municipio de Almolonga</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.81118000</ctml:latitude>
+    <ctml:longitude>-91.48354000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53544" kind="admin2">
+    <ctml:name>Municipio de Cabricán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.10305000</ctml:latitude>
+    <ctml:longitude>-91.64918000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53546" kind="admin2">
+    <ctml:name>Municipio de Cantel</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.81659000</ctml:latitude>
+    <ctml:longitude>-91.43781000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53555" kind="admin2">
+    <ctml:name>Municipio de Coatepeque</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.64309000</ctml:latitude>
+    <ctml:longitude>-91.97926000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53556" kind="admin2">
+    <ctml:name>Municipio de Colomba</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.71002000</ctml:latitude>
+    <ctml:longitude>-91.74691000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53557" kind="admin2">
+    <ctml:name>Municipio de Concepción Chiquirichapa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.84624000</ctml:latitude>
+    <ctml:longitude>-91.61854000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53561" kind="city">
+    <ctml:name>Municipio de Flores Costa Cuca</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.63238000</ctml:latitude>
+    <ctml:longitude>-91.86341000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53586" kind="admin2">
+    <ctml:name>Municipio de San Juan Ostuncalco</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.87477000</ctml:latitude>
+    <ctml:longitude>-91.68842000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53610" kind="admin2">
+    <ctml:name>Olintepeque</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2608428</ctml:wikiDataId>
+    <ctml:latitude>14.88605000</ctml:latitude>
+    <ctml:longitude>-91.51472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53613" kind="admin2">
+    <ctml:name>Ostuncalco</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2718157</ctml:wikiDataId>
+    <ctml:latitude>14.86899000</ctml:latitude>
+    <ctml:longitude>-91.62137000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53617" kind="admin2">
+    <ctml:name>Palestina de los Altos</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2402624</ctml:wikiDataId>
+    <ctml:latitude>14.93338000</ctml:latitude>
+    <ctml:longitude>-91.69403000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53646" kind="admin2">
+    <ctml:name>Salcajá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2717997</ctml:wikiDataId>
+    <ctml:latitude>14.87964000</ctml:latitude>
+    <ctml:longitude>-91.45699000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53647" kind="city">
+    <ctml:name>Samayac</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q371216</ctml:wikiDataId>
+    <ctml:latitude>14.58084000</ctml:latitude>
+    <ctml:longitude>-91.46135000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53667" kind="admin2">
+    <ctml:name>San Carlos Sija</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2609256</ctml:wikiDataId>
+    <ctml:latitude>14.98436000</ctml:latitude>
+    <ctml:longitude>-91.54912000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53676" kind="admin2">
+    <ctml:name>San Francisco la Unión</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2402566</ctml:wikiDataId>
+    <ctml:latitude>14.92350000</ctml:latitude>
+    <ctml:longitude>-91.54157000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53711" kind="admin2">
+    <ctml:name>San Martín Sacatepéquez</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2402153</ctml:wikiDataId>
+    <ctml:latitude>14.82443000</ctml:latitude>
+    <ctml:longitude>-91.64192000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53713" kind="admin2">
+    <ctml:name>San Mateo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q938168</ctml:wikiDataId>
+    <ctml:latitude>14.85800000</ctml:latitude>
+    <ctml:longitude>-91.59004000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53720" kind="admin2">
+    <ctml:name>San Miguel Sigüilá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2401933</ctml:wikiDataId>
+    <ctml:latitude>14.89547000</ctml:latitude>
+    <ctml:longitude>-91.61457000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53778" kind="admin2">
+    <ctml:name>Sibilia</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2402599</ctml:wikiDataId>
+    <ctml:latitude>14.99391000</ctml:latitude>
+    <ctml:longitude>-91.62371000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53805" kind="admin2">
+    <ctml:name>Zunil</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quetzaltenango </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-09</ctml:parentRef>
+    <ctml:wikiDataId>Q230166</ctml:wikiDataId>
+    <ctml:latitude>14.78463000</ctml:latitude>
+    <ctml:longitude>-91.48345000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53440" kind="admin2">
+    <ctml:name>Canillá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2609266</ctml:wikiDataId>
+    <ctml:latitude>15.16549000</ctml:latitude>
+    <ctml:longitude>-90.85256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53445" kind="admin2">
+    <ctml:name>Chajul</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2717716</ctml:wikiDataId>
+    <ctml:latitude>15.48523000</ctml:latitude>
+    <ctml:longitude>-91.03520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53449" kind="admin2">
+    <ctml:name>Chicamán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2402199</ctml:wikiDataId>
+    <ctml:latitude>15.34786000</ctml:latitude>
+    <ctml:longitude>-90.79968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53451" kind="admin2">
+    <ctml:name>Chiché</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q3177464</ctml:wikiDataId>
+    <ctml:latitude>15.00885000</ctml:latitude>
+    <ctml:longitude>-91.06379000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53450" kind="admin2">
+    <ctml:name>Chichicastenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q603423</ctml:wikiDataId>
+    <ctml:latitude>14.94333000</ctml:latitude>
+    <ctml:longitude>-91.11116000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53454" kind="admin2">
+    <ctml:name>Chinique</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1025536</ctml:wikiDataId>
+    <ctml:latitude>15.04147000</ctml:latitude>
+    <ctml:longitude>-91.02594000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53477" kind="admin2">
+    <ctml:name>Cunén</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2402499</ctml:wikiDataId>
+    <ctml:latitude>15.33626000</ctml:latitude>
+    <ctml:longitude>-91.02776000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53515" kind="admin2">
+    <ctml:name>Joyabaj</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2401953</ctml:wikiDataId>
+    <ctml:latitude>14.99311000</ctml:latitude>
+    <ctml:longitude>-90.80161000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53545" kind="admin2">
+    <ctml:name>Municipio de Canillá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.19546000</ctml:latitude>
+    <ctml:longitude>-90.85970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53548" kind="admin2">
+    <ctml:name>Municipio de Chajul</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.48710000</ctml:latitude>
+    <ctml:longitude>-91.03786000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53549" kind="admin2">
+    <ctml:name>Municipio de Chicaman</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.34833000</ctml:latitude>
+    <ctml:longitude>-90.79944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53551" kind="admin2">
+    <ctml:name>Municipio de Chiché</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.01196000</ctml:latitude>
+    <ctml:longitude>-91.03836000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53550" kind="admin2">
+    <ctml:name>Municipio de Chichicastenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.89203000</ctml:latitude>
+    <ctml:longitude>-91.08808000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53552" kind="admin2">
+    <ctml:name>Municipio de Chinique</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.06947000</ctml:latitude>
+    <ctml:longitude>-91.01803000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53559" kind="admin2">
+    <ctml:name>Municipio de Cunén</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.36312000</ctml:latitude>
+    <ctml:longitude>-91.01889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53563" kind="admin2">
+    <ctml:name>Municipio de Ixcan</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.98333000</ctml:latitude>
+    <ctml:longitude>-90.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53566" kind="admin2">
+    <ctml:name>Municipio de Joyabaj</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.98073000</ctml:latitude>
+    <ctml:longitude>-90.82079000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53573" kind="admin2">
+    <ctml:name>Municipio de Pachalum</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.91798000</ctml:latitude>
+    <ctml:longitude>-90.65443000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53575" kind="admin2">
+    <ctml:name>Municipio de Patzité</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.97097000</ctml:latitude>
+    <ctml:longitude>-91.19722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53579" kind="admin2">
+    <ctml:name>Municipio de San Andrés Sajcabajá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.22527000</ctml:latitude>
+    <ctml:longitude>-90.93018000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53580" kind="admin2">
+    <ctml:name>Municipio de San Antonio Ilotenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.04898000</ctml:latitude>
+    <ctml:longitude>-91.20872000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53585" kind="admin2">
+    <ctml:name>Municipio de San Juan Cotzal</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.42699000</ctml:latitude>
+    <ctml:longitude>-91.02097000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53588" kind="admin2">
+    <ctml:name>Municipio de San Pedro Jocopilas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.15472000</ctml:latitude>
+    <ctml:longitude>-91.15610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53600" kind="admin2">
+    <ctml:name>Municipio de Uspantán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q119252</ctml:wikiDataId>
+    <ctml:latitude>15.44393000</ctml:latitude>
+    <ctml:longitude>-90.84398000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53601" kind="admin2">
+    <ctml:name>Municipio de Zacualpa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q119252</ctml:wikiDataId>
+    <ctml:latitude>15.09239000</ctml:latitude>
+    <ctml:longitude>-90.88514000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53603" kind="admin2">
+    <ctml:name>Nebaj</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q3132625</ctml:wikiDataId>
+    <ctml:latitude>15.40614000</ctml:latitude>
+    <ctml:longitude>-91.14682000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53614" kind="admin2">
+    <ctml:name>Pachalum</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2402484</ctml:wikiDataId>
+    <ctml:latitude>14.92472000</ctml:latitude>
+    <ctml:longitude>-90.66278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53626" kind="admin2">
+    <ctml:name>Patzité</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2402369</ctml:wikiDataId>
+    <ctml:latitude>14.96426000</ctml:latitude>
+    <ctml:longitude>-91.20788000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53629" kind="admin2">
+    <ctml:name>Playa Grande</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2609036</ctml:wikiDataId>
+    <ctml:latitude>15.93333000</ctml:latitude>
+    <ctml:longitude>-90.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53644" kind="admin2">
+    <ctml:name>Sacapulas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2401849</ctml:wikiDataId>
+    <ctml:latitude>15.28801000</ctml:latitude>
+    <ctml:longitude>-91.08914000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53651" kind="admin2">
+    <ctml:name>San Andrés Sajcabajá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2226684</ctml:wikiDataId>
+    <ctml:latitude>15.17603000</ctml:latitude>
+    <ctml:longitude>-90.94220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53657" kind="admin2">
+    <ctml:name>San Antonio Ilotenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2401893</ctml:wikiDataId>
+    <ctml:latitude>15.05472000</ctml:latitude>
+    <ctml:longitude>-91.22986000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53663" kind="admin2">
+    <ctml:name>San Bartolomé Jocotenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2402363</ctml:wikiDataId>
+    <ctml:latitude>15.19153000</ctml:latitude>
+    <ctml:longitude>-91.07806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53694" kind="admin2">
+    <ctml:name>San Juan Cotzal</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2121567</ctml:wikiDataId>
+    <ctml:latitude>15.43368000</ctml:latitude>
+    <ctml:longitude>-91.03481000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53705" kind="city">
+    <ctml:name>San Luis Ixcán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1020572</ctml:wikiDataId>
+    <ctml:latitude>15.78722000</ctml:latitude>
+    <ctml:longitude>-91.09500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53731" kind="admin2">
+    <ctml:name>San Pédro Jocopilas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2621511</ctml:wikiDataId>
+    <ctml:latitude>15.09525000</ctml:latitude>
+    <ctml:longitude>-91.15135000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53797" kind="admin2">
+    <ctml:name>Uspantán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2621539</ctml:wikiDataId>
+    <ctml:latitude>15.34672000</ctml:latitude>
+    <ctml:longitude>-90.87050000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53802" kind="admin2">
+    <ctml:name>Zacualpa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Quiché </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2723903</ctml:wikiDataId>
+    <ctml:latitude>15.02681000</ctml:latitude>
+    <ctml:longitude>-90.87815000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53446" kind="admin2">
+    <ctml:name>Champerico</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Retalhuleu </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-11</ctml:parentRef>
+    <ctml:wikiDataId>Q958349</ctml:wikiDataId>
+    <ctml:latitude>14.29337000</ctml:latitude>
+    <ctml:longitude>-91.91214000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53481" kind="admin2">
+    <ctml:name>El Asintal</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Retalhuleu </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2402509</ctml:wikiDataId>
+    <ctml:latitude>14.59626000</ctml:latitude>
+    <ctml:longitude>-91.72744000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53583" kind="admin2">
+    <ctml:name>Municipio de San Felipe</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Retalhuleu </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.63009000</ctml:latitude>
+    <ctml:longitude>-91.60261000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53608" kind="admin2">
+    <ctml:name>Nuevo San Carlos</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Retalhuleu </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2608234</ctml:wikiDataId>
+    <ctml:latitude>14.59300000</ctml:latitude>
+    <ctml:longitude>-91.69390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53653" kind="admin2">
+    <ctml:name>San Andrés Villa Seca</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Retalhuleu </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2401685</ctml:wikiDataId>
+    <ctml:latitude>14.57801000</ctml:latitude>
+    <ctml:longitude>-91.58539000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53672" kind="admin2">
+    <ctml:name>San Felipe</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Retalhuleu </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1748865</ctml:wikiDataId>
+    <ctml:latitude>14.62304000</ctml:latitude>
+    <ctml:longitude>-91.59500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53712" kind="admin2">
+    <ctml:name>San Martín Zapotitlán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Retalhuleu </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1748755</ctml:wikiDataId>
+    <ctml:latitude>14.60794000</ctml:latitude>
+    <ctml:longitude>-91.60613000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53737" kind="admin2">
+    <ctml:name>San Sebastián</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Retalhuleu </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2402108</ctml:wikiDataId>
+    <ctml:latitude>14.56177000</ctml:latitude>
+    <ctml:longitude>-91.64865000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53756" kind="admin2">
+    <ctml:name>Santa Cruz Muluá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Retalhuleu </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1748852</ctml:wikiDataId>
+    <ctml:latitude>14.58153000</ctml:latitude>
+    <ctml:longitude>-91.62441000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53429" kind="admin2">
+    <ctml:name>Alotenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2608214</ctml:wikiDataId>
+    <ctml:latitude>14.48028000</ctml:latitude>
+    <ctml:longitude>-90.80750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53460" kind="admin2">
+    <ctml:name>Ciudad Vieja</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2445843</ctml:wikiDataId>
+    <ctml:latitude>14.52396000</ctml:latitude>
+    <ctml:longitude>-90.76308000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53513" kind="admin2">
+    <ctml:name>Jocotenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2607781</ctml:wikiDataId>
+    <ctml:latitude>14.57814000</ctml:latitude>
+    <ctml:longitude>-90.73804000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53527" kind="admin2">
+    <ctml:name>Magdalena Milpas Altas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2401074</ctml:wikiDataId>
+    <ctml:latitude>14.54801000</ctml:latitude>
+    <ctml:longitude>-90.67477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53541" kind="admin2">
+    <ctml:name>Municipio de Alotenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.46485000</ctml:latitude>
+    <ctml:longitude>-90.82773000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53554" kind="admin2">
+    <ctml:name>Municipio de Ciudad Vieja</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.50800000</ctml:latitude>
+    <ctml:longitude>-90.77028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53565" kind="admin2">
+    <ctml:name>Municipio de Jocotenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.58658000</ctml:latitude>
+    <ctml:longitude>-90.73579000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53567" kind="admin2">
+    <ctml:name>Municipio de Magdalena Milpas Altas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.54206000</ctml:latitude>
+    <ctml:longitude>-90.67553000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53593" kind="admin2">
+    <ctml:name>Municipio de Santa Lucía Milpas Altas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q25175887</ctml:wikiDataId>
+    <ctml:latitude>14.56753000</ctml:latitude>
+    <ctml:longitude>-90.67551000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53595" kind="admin2">
+    <ctml:name>Municipio de Santa María de Jesús</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q119252</ctml:wikiDataId>
+    <ctml:latitude>14.47849000</ctml:latitude>
+    <ctml:longitude>-90.69989000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53623" kind="admin2">
+    <ctml:name>Pastores</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2644237</ctml:wikiDataId>
+    <ctml:latitude>14.59433000</ctml:latitude>
+    <ctml:longitude>-90.75473000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53655" kind="admin2">
+    <ctml:name>San Antonio Aguas Calientes</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q630216</ctml:wikiDataId>
+    <ctml:latitude>14.54676000</ctml:latitude>
+    <ctml:longitude>-90.78054000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53664" kind="admin2">
+    <ctml:name>San Bartolomé Milpas Altas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2401093</ctml:wikiDataId>
+    <ctml:latitude>14.60690000</ctml:latitude>
+    <ctml:longitude>-90.67807000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53702" kind="admin2">
+    <ctml:name>San Lucas Sacatepéquez</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2607797</ctml:wikiDataId>
+    <ctml:latitude>14.61075000</ctml:latitude>
+    <ctml:longitude>-90.65681000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53717" kind="admin2">
+    <ctml:name>San Miguel Dueñas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2400763</ctml:wikiDataId>
+    <ctml:latitude>14.52241000</ctml:latitude>
+    <ctml:longitude>-90.79938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53748" kind="admin2">
+    <ctml:name>Santa Catarina Barahona</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2400778</ctml:wikiDataId>
+    <ctml:latitude>14.55135000</ctml:latitude>
+    <ctml:longitude>-90.78598000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53763" kind="admin2">
+    <ctml:name>Santa Lucía Milpas Altas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2400752</ctml:wikiDataId>
+    <ctml:latitude>14.57655000</ctml:latitude>
+    <ctml:longitude>-90.67632000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53768" kind="admin2">
+    <ctml:name>Santa María de Jesús</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1748668</ctml:wikiDataId>
+    <ctml:latitude>14.49452000</ctml:latitude>
+    <ctml:longitude>-90.71036000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53772" kind="admin2">
+    <ctml:name>Santiago Sacatepéquez</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2295832</ctml:wikiDataId>
+    <ctml:latitude>14.63510000</ctml:latitude>
+    <ctml:longitude>-90.67654000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53774" kind="admin2">
+    <ctml:name>Santo Domingo Xenacoj</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2401045</ctml:wikiDataId>
+    <ctml:latitude>14.68057000</ctml:latitude>
+    <ctml:longitude>-90.70012000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53784" kind="admin2">
+    <ctml:name>Sumpango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sacatepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2574245</ctml:wikiDataId>
+    <ctml:latitude>14.64623000</ctml:latitude>
+    <ctml:longitude>-90.73427000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53443" kind="admin2">
+    <ctml:name>Catarina</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1748875</ctml:wikiDataId>
+    <ctml:latitude>14.85354000</ctml:latitude>
+    <ctml:longitude>-92.07682000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53459" kind="admin2">
+    <ctml:name>Ciudad Tecún Umán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2305570</ctml:wikiDataId>
+    <ctml:latitude>14.67737000</ctml:latitude>
+    <ctml:longitude>-92.14039000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53467" kind="admin2">
+    <ctml:name>Comitancillo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2716941</ctml:wikiDataId>
+    <ctml:latitude>15.08937000</ctml:latitude>
+    <ctml:longitude>-91.74971000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53472" kind="admin2">
+    <ctml:name>Concepción Tutuapa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1748770</ctml:wikiDataId>
+    <ctml:latitude>15.23940000</ctml:latitude>
+    <ctml:longitude>-91.84460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53487" kind="admin2">
+    <ctml:name>El Quetzal</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1748870</ctml:wikiDataId>
+    <ctml:latitude>14.76865000</ctml:latitude>
+    <ctml:longitude>-91.81757000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53488" kind="admin2">
+    <ctml:name>El Rodeo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q579733</ctml:wikiDataId>
+    <ctml:latitude>14.91447000</ctml:latitude>
+    <ctml:longitude>-91.97631000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53490" kind="admin2">
+    <ctml:name>El Tumbador</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2422887</ctml:wikiDataId>
+    <ctml:latitude>14.86375000</ctml:latitude>
+    <ctml:longitude>-91.93416000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53493" kind="admin2">
+    <ctml:name>Esquipulas Palo Gordo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1748873</ctml:wikiDataId>
+    <ctml:latitude>14.94135000</ctml:latitude>
+    <ctml:longitude>-91.82564000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53506" kind="admin2">
+    <ctml:name>Ixchiguán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2609056</ctml:wikiDataId>
+    <ctml:latitude>15.16375000</ctml:latitude>
+    <ctml:longitude>-91.93256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53522" kind="admin2">
+    <ctml:name>La Reforma</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1748856</ctml:wikiDataId>
+    <ctml:latitude>14.80104000</ctml:latitude>
+    <ctml:longitude>-91.82233000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53529" kind="admin2">
+    <ctml:name>Malacatán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q539311</ctml:wikiDataId>
+    <ctml:latitude>14.91132000</ctml:latitude>
+    <ctml:longitude>-92.05788000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53558" kind="admin2">
+    <ctml:name>Municipio de Concepción Tutuapa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.28795000</ctml:latitude>
+    <ctml:longitude>-91.86738000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53568" kind="admin2">
+    <ctml:name>Municipio de Malacatán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.91829000</ctml:latitude>
+    <ctml:longitude>-92.10548000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53597" kind="admin2">
+    <ctml:name>Municipio de Sipacapa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q119252</ctml:wikiDataId>
+    <ctml:latitude>15.19243000</ctml:latitude>
+    <ctml:longitude>-91.65541000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53598" kind="admin2">
+    <ctml:name>Municipio de Tejutla</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q119252</ctml:wikiDataId>
+    <ctml:latitude>15.15638000</ctml:latitude>
+    <ctml:longitude>-91.82457000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53607" kind="admin2">
+    <ctml:name>Nuevo Progreso</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q3879296</ctml:wikiDataId>
+    <ctml:latitude>14.79174000</ctml:latitude>
+    <ctml:longitude>-91.91946000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53609" kind="admin2">
+    <ctml:name>Ocós</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1748759</ctml:wikiDataId>
+    <ctml:latitude>14.50998000</ctml:latitude>
+    <ctml:longitude>-92.19298000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53615" kind="admin2">
+    <ctml:name>Pajapita</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2402391</ctml:wikiDataId>
+    <ctml:latitude>14.72152000</ctml:latitude>
+    <ctml:longitude>-92.03521000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53642" kind="admin2">
+    <ctml:name>Río Blanco</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q3943212</ctml:wikiDataId>
+    <ctml:latitude>15.03820000</ctml:latitude>
+    <ctml:longitude>-91.68463000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53660" kind="admin2">
+    <ctml:name>San Antonio Sacatepéquez</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q3946742</ctml:wikiDataId>
+    <ctml:latitude>14.96060000</ctml:latitude>
+    <ctml:longitude>-91.73154000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53669" kind="admin2">
+    <ctml:name>San Cristóbal Cucho</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1748857</ctml:wikiDataId>
+    <ctml:latitude>14.90505000</ctml:latitude>
+    <ctml:longitude>-91.78123000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53686" kind="admin2">
+    <ctml:name>San José Ojetenam</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1748795</ctml:wikiDataId>
+    <ctml:latitude>15.23443000</ctml:latitude>
+    <ctml:longitude>-91.97317000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53687" kind="city">
+    <ctml:name>San José Ojetenán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1748795</ctml:wikiDataId>
+    <ctml:latitude>15.21667000</ctml:latitude>
+    <ctml:longitude>-91.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53700" kind="admin2">
+    <ctml:name>San Lorenzo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q845976</ctml:wikiDataId>
+    <ctml:latitude>15.03087000</ctml:latitude>
+    <ctml:longitude>-91.73534000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53718" kind="admin2">
+    <ctml:name>San Miguel Ixtahuacán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2402417</ctml:wikiDataId>
+    <ctml:latitude>15.27247000</ctml:latitude>
+    <ctml:longitude>-91.74785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53721" kind="admin2">
+    <ctml:name>San Pablo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q3306697</ctml:wikiDataId>
+    <ctml:latitude>14.93269000</ctml:latitude>
+    <ctml:longitude>-92.00415000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53729" kind="admin2">
+    <ctml:name>San Pedro Sacatepéquez</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2608367</ctml:wikiDataId>
+    <ctml:latitude>14.96807000</ctml:latitude>
+    <ctml:longitude>-91.76172000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53735" kind="admin2">
+    <ctml:name>San Rafael Pie de la Cuesta</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2402778</ctml:wikiDataId>
+    <ctml:latitude>14.93052000</ctml:latitude>
+    <ctml:longitude>-91.91388000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53779" kind="admin2">
+    <ctml:name>Sibinal</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1748820</ctml:wikiDataId>
+    <ctml:latitude>15.14963000</ctml:latitude>
+    <ctml:longitude>-92.04892000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53780" kind="admin2">
+    <ctml:name>Sipacapa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1748824</ctml:wikiDataId>
+    <ctml:latitude>15.21246000</ctml:latitude>
+    <ctml:longitude>-91.63416000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53785" kind="admin2">
+    <ctml:name>Tacaná</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2401748</ctml:wikiDataId>
+    <ctml:latitude>15.24058000</ctml:latitude>
+    <ctml:longitude>-92.06721000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53787" kind="admin2">
+    <ctml:name>Tajumulco</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1748863</ctml:wikiDataId>
+    <ctml:latitude>15.08349000</ctml:latitude>
+    <ctml:longitude>-91.92225000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53792" kind="admin2">
+    <ctml:name>Tejutla</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>San Marcos </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1748860</ctml:wikiDataId>
+    <ctml:latitude>15.12254000</ctml:latitude>
+    <ctml:longitude>-91.80635000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53434" kind="admin2">
+    <ctml:name>Barberena</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2718316</ctml:wikiDataId>
+    <ctml:latitude>14.30739000</ctml:latitude>
+    <ctml:longitude>-90.36156000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53442" kind="admin2">
+    <ctml:name>Casillas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1748683</ctml:wikiDataId>
+    <ctml:latitude>14.42222000</ctml:latitude>
+    <ctml:longitude>-90.24417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53456" kind="city">
+    <ctml:name>Chiquimulilla</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q202128</ctml:wikiDataId>
+    <ctml:latitude>14.08380000</ctml:latitude>
+    <ctml:longitude>-90.38547000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53501" kind="admin2">
+    <ctml:name>Guazacapán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2401701</ctml:wikiDataId>
+    <ctml:latitude>14.07417000</ctml:latitude>
+    <ctml:longitude>-90.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53547" kind="admin2">
+    <ctml:name>Municipio de Casillas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.37854000</ctml:latitude>
+    <ctml:longitude>-90.17260000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53553" kind="city">
+    <ctml:name>Municipio de Chiquimulilla</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.09716000</ctml:latitude>
+    <ctml:longitude>-90.37903000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53562" kind="admin2">
+    <ctml:name>Municipio de Guazacapán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.01786000</ctml:latitude>
+    <ctml:longitude>-90.43400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53606" kind="admin2">
+    <ctml:name>Nueva Santa Rosa</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2402348</ctml:wikiDataId>
+    <ctml:latitude>14.38111000</ctml:latitude>
+    <ctml:longitude>-90.27611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53612" kind="admin2">
+    <ctml:name>Oratorio</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3884406</ctml:wikiDataId>
+    <ctml:latitude>14.22806000</ctml:latitude>
+    <ctml:longitude>-90.17583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53633" kind="admin2">
+    <ctml:name>Pueblo Nuevo Viñas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2402134</ctml:wikiDataId>
+    <ctml:latitude>14.22576000</ctml:latitude>
+    <ctml:longitude>-90.47613000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53699" kind="admin2">
+    <ctml:name>San Juan Tecuaco</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2372941</ctml:wikiDataId>
+    <ctml:latitude>14.08361000</ctml:latitude>
+    <ctml:longitude>-90.26649000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53733" kind="admin2">
+    <ctml:name>San Rafael Las Flores</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1748669</ctml:wikiDataId>
+    <ctml:latitude>14.48139000</ctml:latitude>
+    <ctml:longitude>-90.17333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53757" kind="admin2">
+    <ctml:name>Santa Cruz Naranjo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q979193</ctml:wikiDataId>
+    <ctml:latitude>14.38806000</ctml:latitude>
+    <ctml:longitude>-90.36972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53766" kind="admin2">
+    <ctml:name>Santa María Ixhuatán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1748654</ctml:wikiDataId>
+    <ctml:latitude>14.19000000</ctml:latitude>
+    <ctml:longitude>-90.27472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53769" kind="admin2">
+    <ctml:name>Santa Rosa de Lima</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3949243</ctml:wikiDataId>
+    <ctml:latitude>14.38806000</ctml:latitude>
+    <ctml:longitude>-90.29556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53789" kind="city">
+    <ctml:name>Taxisco</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Santa Rosa </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2402116</ctml:wikiDataId>
+    <ctml:latitude>14.06719000</ctml:latitude>
+    <ctml:longitude>-90.46791000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53468" kind="admin2">
+    <ctml:name>Concepción</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1748599</ctml:wikiDataId>
+    <ctml:latitude>14.78417000</ctml:latitude>
+    <ctml:longitude>-91.14754000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53572" kind="admin2">
+    <ctml:name>Municipio de Nahualá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.77548000</ctml:latitude>
+    <ctml:longitude>-91.41616000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53574" kind="admin2">
+    <ctml:name>Municipio de Panajachel</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.74676000</ctml:latitude>
+    <ctml:longitude>-91.14935000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53591" kind="admin2">
+    <ctml:name>Municipio de Santa Catarina Palopó</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q25175887</ctml:wikiDataId>
+    <ctml:latitude>14.71794000</ctml:latitude>
+    <ctml:longitude>-91.13060000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53592" kind="admin2">
+    <ctml:name>Municipio de Santa Cruz La Laguna</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q25175887</ctml:wikiDataId>
+    <ctml:latitude>14.74324000</ctml:latitude>
+    <ctml:longitude>-91.22178000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53602" kind="admin2">
+    <ctml:name>Nahualá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2717990</ctml:wikiDataId>
+    <ctml:latitude>14.84290000</ctml:latitude>
+    <ctml:longitude>-91.31799000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53619" kind="admin2">
+    <ctml:name>Panajachel</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1634223</ctml:wikiDataId>
+    <ctml:latitude>14.74185000</ctml:latitude>
+    <ctml:longitude>-91.15676000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53652" kind="admin2">
+    <ctml:name>San Andrés Semetabaj</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2402766</ctml:wikiDataId>
+    <ctml:latitude>14.74497000</ctml:latitude>
+    <ctml:longitude>-91.13344000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53659" kind="admin2">
+    <ctml:name>San Antonio Palopó</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2609248</ctml:wikiDataId>
+    <ctml:latitude>14.69232000</ctml:latitude>
+    <ctml:longitude>-91.11638000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53683" kind="admin2">
+    <ctml:name>San José Chacayá</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2401917</ctml:wikiDataId>
+    <ctml:latitude>14.77096000</ctml:latitude>
+    <ctml:longitude>-91.21564000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53697" kind="admin2">
+    <ctml:name>San Juan La Laguna</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2403501</ctml:wikiDataId>
+    <ctml:latitude>14.69453000</ctml:latitude>
+    <ctml:longitude>-91.28666000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53703" kind="city">
+    <ctml:name>San Lucas Tolimán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2608186</ctml:wikiDataId>
+    <ctml:latitude>14.59471000</ctml:latitude>
+    <ctml:longitude>-91.14659000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53709" kind="admin2">
+    <ctml:name>San Marcos La Laguna</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2402793</ctml:wikiDataId>
+    <ctml:latitude>14.72504000</ctml:latitude>
+    <ctml:longitude>-91.25844000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53723" kind="admin2">
+    <ctml:name>San Pablo La Laguna</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2402177</ctml:wikiDataId>
+    <ctml:latitude>14.72092000</ctml:latitude>
+    <ctml:longitude>-91.27242000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53726" kind="city">
+    <ctml:name>San Pedro La Laguna</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2548707</ctml:wikiDataId>
+    <ctml:latitude>14.69297000</ctml:latitude>
+    <ctml:longitude>-91.27201000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53749" kind="admin2">
+    <ctml:name>Santa Catarina Ixtahuacán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2402186</ctml:wikiDataId>
+    <ctml:latitude>14.79797000</ctml:latitude>
+    <ctml:longitude>-91.35866000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53751" kind="admin2">
+    <ctml:name>Santa Catarina Palopó</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2608981</ctml:wikiDataId>
+    <ctml:latitude>14.72335000</ctml:latitude>
+    <ctml:longitude>-91.13428000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53753" kind="admin2">
+    <ctml:name>Santa Clara La Laguna</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2401885</ctml:wikiDataId>
+    <ctml:latitude>14.71509000</ctml:latitude>
+    <ctml:longitude>-91.30355000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53755" kind="admin2">
+    <ctml:name>Santa Cruz La Laguna</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2401852</ctml:wikiDataId>
+    <ctml:latitude>14.74421000</ctml:latitude>
+    <ctml:longitude>-91.20716000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53764" kind="admin2">
+    <ctml:name>Santa Lucía Utatlán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2401971</ctml:wikiDataId>
+    <ctml:latitude>14.77135000</ctml:latitude>
+    <ctml:longitude>-91.26700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53767" kind="admin2">
+    <ctml:name>Santa María Visitación</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1748668</ctml:wikiDataId>
+    <ctml:latitude>14.71717000</ctml:latitude>
+    <ctml:longitude>-91.30844000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53770" kind="city">
+    <ctml:name>Santiago Atitlán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Sololá </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-07</ctml:parentRef>
+    <ctml:wikiDataId>Q168622</ctml:wikiDataId>
+    <ctml:latitude>14.63823000</ctml:latitude>
+    <ctml:longitude>-91.22901000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53448" kind="admin2">
+    <ctml:name>Chicacao</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2608636</ctml:wikiDataId>
+    <ctml:latitude>14.54295000</ctml:latitude>
+    <ctml:longitude>-91.32636000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53478" kind="admin2">
+    <ctml:name>Cuyotenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2402824</ctml:wikiDataId>
+    <ctml:latitude>14.54006000</ctml:latitude>
+    <ctml:longitude>-91.57179000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53581" kind="admin2">
+    <ctml:name>Municipio de San Antonio Suchitepéquez</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.51839000</ctml:latitude>
+    <ctml:longitude>-91.40438000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53587" kind="admin2">
+    <ctml:name>Municipio de San Miguel Panán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>14.50525000</ctml:latitude>
+    <ctml:longitude>-91.35956000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53590" kind="admin2">
+    <ctml:name>Municipio de Santa Bárbara</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q25175887</ctml:wikiDataId>
+    <ctml:latitude>14.47317000</ctml:latitude>
+    <ctml:longitude>-91.24688000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53624" kind="admin2">
+    <ctml:name>Patulul</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2608585</ctml:wikiDataId>
+    <ctml:latitude>14.42321000</ctml:latitude>
+    <ctml:longitude>-91.16049000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53632" kind="admin2">
+    <ctml:name>Pueblo Nuevo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3925380</ctml:wikiDataId>
+    <ctml:latitude>14.64709000</ctml:latitude>
+    <ctml:longitude>-91.53946000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GTM-53643" kind="city">
+    <ctml:name>Río Bravo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1748849</ctml:wikiDataId>
+    <ctml:latitude>14.40042000</ctml:latitude>
+    <ctml:longitude>-91.31713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53661" kind="admin2">
+    <ctml:name>San Antonio Suchitepéquez</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1748818</ctml:wikiDataId>
+    <ctml:latitude>14.53938000</ctml:latitude>
+    <ctml:longitude>-91.41442000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53666" kind="admin2">
+    <ctml:name>San Bernardino</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1748616</ctml:wikiDataId>
+    <ctml:latitude>14.54240000</ctml:latitude>
+    <ctml:longitude>-91.45811000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53675" kind="admin2">
+    <ctml:name>San Francisco Zapotitlán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2608452</ctml:wikiDataId>
+    <ctml:latitude>14.58939000</ctml:latitude>
+    <ctml:longitude>-91.52144000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53677" kind="admin2">
+    <ctml:name>San Gabriel</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1748775</ctml:wikiDataId>
+    <ctml:latitude>14.51076000</ctml:latitude>
+    <ctml:longitude>-91.50745000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53684" kind="admin2">
+    <ctml:name>San José El Ídolo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2401870</ctml:wikiDataId>
+    <ctml:latitude>14.45016000</ctml:latitude>
+    <ctml:longitude>-91.42222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53692" kind="admin2">
+    <ctml:name>San Juan Bautista</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1748787</ctml:wikiDataId>
+    <ctml:latitude>14.42274000</ctml:latitude>
+    <ctml:longitude>-91.17904000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53701" kind="admin2">
+    <ctml:name>San Lorenzo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3947493</ctml:wikiDataId>
+    <ctml:latitude>14.48606000</ctml:latitude>
+    <ctml:longitude>-91.51263000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53719" kind="admin2">
+    <ctml:name>San Miguel Panán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2402447</ctml:wikiDataId>
+    <ctml:latitude>14.52865000</ctml:latitude>
+    <ctml:longitude>-91.36733000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53722" kind="admin2">
+    <ctml:name>San Pablo Jocopilas</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2716950</ctml:wikiDataId>
+    <ctml:latitude>14.58882000</ctml:latitude>
+    <ctml:longitude>-91.45188000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53746" kind="admin2">
+    <ctml:name>Santa Bárbara</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1748767</ctml:wikiDataId>
+    <ctml:latitude>14.43563000</ctml:latitude>
+    <ctml:longitude>-91.22685000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53773" kind="admin2">
+    <ctml:name>Santo Domingo Suchitepéquez</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2402403</ctml:wikiDataId>
+    <ctml:latitude>14.47901000</ctml:latitude>
+    <ctml:longitude>-91.48327000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53775" kind="admin2">
+    <ctml:name>Santo Tomás La Unión</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2402120</ctml:wikiDataId>
+    <ctml:latitude>14.63219000</ctml:latitude>
+    <ctml:longitude>-91.41075000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53806" kind="admin2">
+    <ctml:name>Zunilito</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Suchitepéquez </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2608644</ctml:wikiDataId>
+    <ctml:latitude>14.61264000</ctml:latitude>
+    <ctml:longitude>-91.50980000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53535" kind="admin2">
+    <ctml:name>Momostenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Totonicapán </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2718095</ctml:wikiDataId>
+    <ctml:latitude>15.04437000</ctml:latitude>
+    <ctml:longitude>-91.40864000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53570" kind="admin2">
+    <ctml:name>Municipio de Momostenango</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Totonicapán </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2403612</ctml:wikiDataId>
+    <ctml:latitude>15.04726000</ctml:latitude>
+    <ctml:longitude>-91.40625000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53594" kind="admin2">
+    <ctml:name>Municipio de Santa María Chiquimula</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Totonicapán </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-08</ctml:parentRef>
+    <ctml:wikiDataId>Q25175887</ctml:wikiDataId>
+    <ctml:latitude>15.02886000</ctml:latitude>
+    <ctml:longitude>-91.32917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53599" kind="admin2">
+    <ctml:name>Municipio de Totonicapán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Totonicapán </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-08</ctml:parentRef>
+    <ctml:wikiDataId>Q119252</ctml:wikiDataId>
+    <ctml:latitude>14.90193000</ctml:latitude>
+    <ctml:longitude>-91.31999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53654" kind="admin2">
+    <ctml:name>San Andrés Xecul</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Totonicapán </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2609261</ctml:wikiDataId>
+    <ctml:latitude>14.90482000</ctml:latitude>
+    <ctml:longitude>-91.48307000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53662" kind="admin2">
+    <ctml:name>San Bartolo</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Totonicapán </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2401769</ctml:wikiDataId>
+    <ctml:latitude>15.08438000</ctml:latitude>
+    <ctml:longitude>-91.45606000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53670" kind="admin2">
+    <ctml:name>San Cristóbal Totonicapán</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Totonicapán </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2402432</ctml:wikiDataId>
+    <ctml:latitude>14.91682000</ctml:latitude>
+    <ctml:longitude>-91.44060000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53674" kind="admin2">
+    <ctml:name>San Francisco El Alto</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Totonicapán </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2608408</ctml:wikiDataId>
+    <ctml:latitude>14.94490000</ctml:latitude>
+    <ctml:longitude>-91.44310000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53761" kind="admin2">
+    <ctml:name>Santa Lucia La Reforma</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Totonicapán </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3472669</ctml:wikiDataId>
+    <ctml:latitude>15.12819000</ctml:latitude>
+    <ctml:longitude>-91.23619000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GTM-53765" kind="admin2">
+    <ctml:name>Santa María Chiquimula</ctml:name>
+    <ctml:country>GTM</ctml:country>
+    <ctml:admin1>Totonicapán </ctml:admin1>
+    <ctml:parentRef>place:admin1:GT-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2402472</ctml:wikiDataId>
+    <ctml:latitude>15.02992000</ctml:latitude>
+    <ctml:longitude>-91.32920000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

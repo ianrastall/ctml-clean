@@ -1,0 +1,3909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:VNM-130185" kind="city">
+    <ctml:name>Cho Dok</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q373214</ctml:wikiDataId>
+    <ctml:latitude>10.70000000</ctml:latitude>
+    <ctml:longitude>105.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130199" kind="city">
+    <ctml:name>Dương Đông</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q3277075</ctml:wikiDataId>
+    <ctml:latitude>10.21716000</ctml:latitude>
+    <ctml:longitude>103.95929000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130556" kind="admin2">
+    <ctml:name>Hà Tiên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q800154</ctml:wikiDataId>
+    <ctml:latitude>10.38310000</ctml:latitude>
+    <ctml:longitude>104.48753000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130208" kind="admin2">
+    <ctml:name>Huyện An Biên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q724711</ctml:wikiDataId>
+    <ctml:latitude>9.81291000</ctml:latitude>
+    <ctml:longitude>105.05230000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130210" kind="admin2">
+    <ctml:name>Huyện An Minh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q724711</ctml:wikiDataId>
+    <ctml:latitude>9.66704000</ctml:latitude>
+    <ctml:longitude>104.94848000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130211" kind="admin2">
+    <ctml:name>Huyện An Phú</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q2414515</ctml:wikiDataId>
+    <ctml:latitude>10.84274000</ctml:latitude>
+    <ctml:longitude>105.08990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130248" kind="admin2">
+    <ctml:name>Huyện Châu Phú</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q2232482</ctml:wikiDataId>
+    <ctml:latitude>10.57166000</ctml:latitude>
+    <ctml:longitude>105.16991000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130249" kind="admin2">
+    <ctml:name>Huyện Châu Thành</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q2232482</ctml:wikiDataId>
+    <ctml:latitude>9.94372000</ctml:latitude>
+    <ctml:longitude>105.16868000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130262" kind="admin2">
+    <ctml:name>Huyện Chợ Mới</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q1927073</ctml:wikiDataId>
+    <ctml:latitude>10.47730000</ctml:latitude>
+    <ctml:longitude>105.49092000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130290" kind="admin2">
+    <ctml:name>Huyện Giồng Riềng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q3031261</ctml:wikiDataId>
+    <ctml:latitude>9.91224000</ctml:latitude>
+    <ctml:longitude>105.37311000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130295" kind="admin2">
+    <ctml:name>Huyện Gò Quao</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q3710927</ctml:wikiDataId>
+    <ctml:latitude>9.74027000</ctml:latitude>
+    <ctml:longitude>105.29766000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130307" kind="admin2">
+    <ctml:name>Huyện Hòn Đất</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q5874252</ctml:wikiDataId>
+    <ctml:latitude>10.22908000</ctml:latitude>
+    <ctml:longitude>104.95280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130330" kind="admin2">
+    <ctml:name>Huyện Kiên Hải</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q3031344</ctml:wikiDataId>
+    <ctml:latitude>9.83971000</ctml:latitude>
+    <ctml:longitude>104.61560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130400" kind="admin2">
+    <ctml:name>Huyện Phú Quốc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q724739</ctml:wikiDataId>
+    <ctml:latitude>10.25516000</ctml:latitude>
+    <ctml:longitude>104.01455000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130401" kind="admin2">
+    <ctml:name>Huyện Phú Tân</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q1319796</ctml:wikiDataId>
+    <ctml:latitude>10.65716000</ctml:latitude>
+    <ctml:longitude>105.28459000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130481" kind="admin2">
+    <ctml:name>Huyện Tân Hiệp</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q3711512</ctml:wikiDataId>
+    <ctml:latitude>10.09540000</ctml:latitude>
+    <ctml:longitude>105.25936000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130461" kind="admin2">
+    <ctml:name>Huyện Tri Tôn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q1320227</ctml:wikiDataId>
+    <ctml:latitude>10.41416000</ctml:latitude>
+    <ctml:longitude>104.96136000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130502" kind="admin2">
+    <ctml:name>Huyện Vĩnh Thuận</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q7932536</ctml:wikiDataId>
+    <ctml:latitude>9.53306000</ctml:latitude>
+    <ctml:longitude>105.24490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130564" kind="admin2">
+    <ctml:name>Kien Luong Town</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>An Giang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-44</ctml:parentRef>
+    <ctml:wikiDataId>Q36160</ctml:wikiDataId>
+    <ctml:latitude>10.24892000</ctml:latitude>
+    <ctml:longitude>104.59000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130177" kind="admin2">
+    <ctml:name>Bắc Giang</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Bắc Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-56</ctml:parentRef>
+    <ctml:wikiDataId>Q36736</ctml:wikiDataId>
+    <ctml:latitude>21.27307000</ctml:latitude>
+    <ctml:longitude>106.19460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130186" kind="city">
+    <ctml:name>Cung Kiệm</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Bắc Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-56</ctml:parentRef>
+    <ctml:wikiDataId>Q373214</ctml:wikiDataId>
+    <ctml:latitude>21.18697000</ctml:latitude>
+    <ctml:longitude>106.16076000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130285" kind="admin2">
+    <ctml:name>Huyện Gia Bình</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Bắc Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-56</ctml:parentRef>
+    <ctml:wikiDataId>Q3031197</ctml:wikiDataId>
+    <ctml:latitude>21.07795000</ctml:latitude>
+    <ctml:longitude>106.20903000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130353" kind="admin2">
+    <ctml:name>Huyện Lục Nam</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Bắc Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-56</ctml:parentRef>
+    <ctml:wikiDataId>Q1924548</ctml:wikiDataId>
+    <ctml:latitude>21.27548000</ctml:latitude>
+    <ctml:longitude>106.46519000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130354" kind="city">
+    <ctml:name>Huyện Lục Ngạn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Bắc Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-56</ctml:parentRef>
+    <ctml:wikiDataId>Q2226906</ctml:wikiDataId>
+    <ctml:latitude>21.43719000</ctml:latitude>
+    <ctml:longitude>106.65845000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130441" kind="city">
+    <ctml:name>Huyện Thuận Thành</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Bắc Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-56</ctml:parentRef>
+    <ctml:wikiDataId>Q3711534</ctml:wikiDataId>
+    <ctml:latitude>21.04085000</ctml:latitude>
+    <ctml:longitude>106.07515000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130455" kind="admin2">
+    <ctml:name>Huyện Tiên Du</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Bắc Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-56</ctml:parentRef>
+    <ctml:wikiDataId>Q3711538</ctml:wikiDataId>
+    <ctml:latitude>21.12195000</ctml:latitude>
+    <ctml:longitude>106.03995000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130518" kind="admin2">
+    <ctml:name>Huyện Yên Phong</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Bắc Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-56</ctml:parentRef>
+    <ctml:wikiDataId>Q800053</ctml:wikiDataId>
+    <ctml:latitude>21.20676000</ctml:latitude>
+    <ctml:longitude>105.99427000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130521" kind="admin2">
+    <ctml:name>Huyện Yên Thế</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Bắc Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-56</ctml:parentRef>
+    <ctml:wikiDataId>Q1924620</ctml:wikiDataId>
+    <ctml:latitude>21.51667000</ctml:latitude>
+    <ctml:longitude>106.11689000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130175" kind="admin2">
+    <ctml:name>Bạc Liêu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cà Mau</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-59</ctml:parentRef>
+    <ctml:wikiDataId>Q36142</ctml:wikiDataId>
+    <ctml:latitude>9.29414000</ctml:latitude>
+    <ctml:longitude>105.72776000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130267" kind="admin2">
+    <ctml:name>Huyện Cái Nước</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cà Mau</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-59</ctml:parentRef>
+    <ctml:wikiDataId>Q800052</ctml:wikiDataId>
+    <ctml:latitude>9.00094000</ctml:latitude>
+    <ctml:longitude>105.04201000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130540" kind="admin2">
+    <ctml:name>Huyện Đầm Dơi</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cà Mau</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-59</ctml:parentRef>
+    <ctml:wikiDataId>Q3593897</ctml:wikiDataId>
+    <ctml:latitude>8.96029000</ctml:latitude>
+    <ctml:longitude>105.24107000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130289" kind="city">
+    <ctml:name>Huyện Giá Rai</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cà Mau</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-59</ctml:parentRef>
+    <ctml:wikiDataId>Q3031261</ctml:wikiDataId>
+    <ctml:latitude>9.27162000</ctml:latitude>
+    <ctml:longitude>105.40017000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130318" kind="admin2">
+    <ctml:name>Huyện Hồng Dân</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cà Mau</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-59</ctml:parentRef>
+    <ctml:wikiDataId>Q5942590</ctml:wikiDataId>
+    <ctml:latitude>9.53822000</ctml:latitude>
+    <ctml:longitude>105.42242000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130204" kind="city">
+    <ctml:name>Huyen Nam Can</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cà Mau</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-59</ctml:parentRef>
+    <ctml:wikiDataId>Q724711</ctml:wikiDataId>
+    <ctml:latitude>8.81531000</ctml:latitude>
+    <ctml:longitude>105.05574000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130453" kind="admin2">
+    <ctml:name>Huyện Thới Bình</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cà Mau</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-59</ctml:parentRef>
+    <ctml:wikiDataId>Q7786654</ctml:wikiDataId>
+    <ctml:latitude>9.35790000</ctml:latitude>
+    <ctml:longitude>105.16023000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-148322" kind="admin2">
+    <ctml:name>Cần Thơ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cần Thơ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-CT</ctml:parentRef>
+    <ctml:wikiDataId>Q216075</ctml:wikiDataId>
+    <ctml:latitude>10.11667000</ctml:latitude>
+    <ctml:longitude>105.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-148323" kind="admin2">
+    <ctml:name>Cờ Đỏ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cần Thơ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-CT</ctml:parentRef>
+    <ctml:wikiDataId>Q10752716</ctml:wikiDataId>
+    <ctml:latitude>10.09472222</ctml:latitude>
+    <ctml:longitude>105.43194444</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130254" kind="admin2">
+    <ctml:name>Huyện Châu Thành A</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cần Thơ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-CT</ctml:parentRef>
+    <ctml:wikiDataId>Q3710806</ctml:wikiDataId>
+    <ctml:latitude>9.93056000</ctml:latitude>
+    <ctml:longitude>105.64194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130336" kind="admin2">
+    <ctml:name>Huyện Kế Sách</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cần Thơ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-CT</ctml:parentRef>
+    <ctml:wikiDataId>Q6405298</ctml:wikiDataId>
+    <ctml:latitude>9.81771000</ctml:latitude>
+    <ctml:longitude>105.94190000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130343" kind="admin2">
+    <ctml:name>Huyện Long Phú</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cần Thơ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-CT</ctml:parentRef>
+    <ctml:wikiDataId>Q3711115</ctml:wikiDataId>
+    <ctml:latitude>9.63715000</ctml:latitude>
+    <ctml:longitude>106.08226000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130371" kind="admin2">
+    <ctml:name>Huyện Mỹ Tú</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cần Thơ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-CT</ctml:parentRef>
+    <ctml:wikiDataId>Q10796264</ctml:wikiDataId>
+    <ctml:latitude>9.60849000</ctml:latitude>
+    <ctml:longitude>105.80681000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130372" kind="admin2">
+    <ctml:name>Huyện Mỹ Xuyên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cần Thơ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-CT</ctml:parentRef>
+    <ctml:wikiDataId>Q10796264</ctml:wikiDataId>
+    <ctml:latitude>9.44200000</ctml:latitude>
+    <ctml:longitude>105.88546000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130450" kind="admin2">
+    <ctml:name>Huyện Thạnh Trị</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cần Thơ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-CT</ctml:parentRef>
+    <ctml:wikiDataId>Q3711530</ctml:wikiDataId>
+    <ctml:latitude>9.46939000</ctml:latitude>
+    <ctml:longitude>105.71196000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-148324" kind="admin2">
+    <ctml:name>Thới Lai</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cần Thơ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-CT</ctml:parentRef>
+    <ctml:wikiDataId>Q10826644</ctml:wikiDataId>
+    <ctml:latitude>10.06305556</ctml:latitude>
+    <ctml:longitude>105.56083333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-148325" kind="admin2">
+    <ctml:name>Vĩnh Thạnh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cần Thơ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-CT</ctml:parentRef>
+    <ctml:wikiDataId>Q10833701</ctml:wikiDataId>
+    <ctml:latitude>10.21916667</ctml:latitude>
+    <ctml:longitude>105.40111111</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130229" kind="city">
+    <ctml:name>Huyện Bảo Lac</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cao Bằng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3710674</ctml:wikiDataId>
+    <ctml:latitude>22.90085000</ctml:latitude>
+    <ctml:longitude>105.73332000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130231" kind="city">
+    <ctml:name>Huyện Bảo Lâm</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cao Bằng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3710674</ctml:wikiDataId>
+    <ctml:latitude>22.87041000</ctml:latitude>
+    <ctml:longitude>105.48780000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130313" kind="admin2">
+    <ctml:name>Huyện Hạ Lang</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cao Bằng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-04</ctml:parentRef>
+    <ctml:wikiDataId>Q5942590</ctml:wikiDataId>
+    <ctml:latitude>22.70933000</ctml:latitude>
+    <ctml:longitude>106.67657000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130300" kind="admin2">
+    <ctml:name>Huyện Hà Quảng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cao Bằng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3710927</ctml:wikiDataId>
+    <ctml:latitude>22.90763000</ctml:latitude>
+    <ctml:longitude>106.12487000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130386" kind="admin2">
+    <ctml:name>Huyện Nguyên Bình</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cao Bằng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3031601</ctml:wikiDataId>
+    <ctml:latitude>22.62400000</ctml:latitude>
+    <ctml:longitude>105.93248000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130206" kind="admin2">
+    <ctml:name>Huyen Phuc Hoa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cao Bằng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-04</ctml:parentRef>
+    <ctml:wikiDataId>Q724711</ctml:wikiDataId>
+    <ctml:latitude>22.53840000</ctml:latitude>
+    <ctml:longitude>106.51039000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130446" kind="admin2">
+    <ctml:name>Huyện Thạch An</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cao Bằng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3711534</ctml:wikiDataId>
+    <ctml:latitude>22.47654000</ctml:latitude>
+    <ctml:longitude>106.34237000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130444" kind="admin2">
+    <ctml:name>Huyện Thông Nông</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cao Bằng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3711534</ctml:wikiDataId>
+    <ctml:latitude>22.80735000</ctml:latitude>
+    <ctml:longitude>105.95846000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130466" kind="admin2">
+    <ctml:name>Huyện Trà Lĩnh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cao Bằng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-04</ctml:parentRef>
+    <ctml:wikiDataId>Q7831038</ctml:wikiDataId>
+    <ctml:latitude>22.80961000</ctml:latitude>
+    <ctml:longitude>106.32543000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130469" kind="admin2">
+    <ctml:name>Huyện Trùng Khánh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Cao Bằng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-04</ctml:parentRef>
+    <ctml:wikiDataId>Q7831038</ctml:wikiDataId>
+    <ctml:latitude>22.83333000</ctml:latitude>
+    <ctml:longitude>106.56074000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130563" kind="city">
+    <ctml:name>Hội An</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đà Nẵng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-DN</ctml:parentRef>
+    <ctml:wikiDataId>Q36160</ctml:wikiDataId>
+    <ctml:latitude>15.87944000</ctml:latitude>
+    <ctml:longitude>108.33500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130281" kind="admin2">
+    <ctml:name>Huyện Duy Xuyên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đà Nẵng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-DN</ctml:parentRef>
+    <ctml:wikiDataId>Q3031197</ctml:wikiDataId>
+    <ctml:latitude>15.78970000</ctml:latitude>
+    <ctml:longitude>108.20247000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130538" kind="city">
+    <ctml:name>Huyện Đại Lộc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đà Nẵng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-DN</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>15.83721000</ctml:latitude>
+    <ctml:longitude>107.97894000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130529" kind="admin2">
+    <ctml:name>Huyện Điện Bàn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đà Nẵng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-DN</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>15.89917000</ctml:latitude>
+    <ctml:longitude>108.22470000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130296" kind="admin2">
+    <ctml:name>Huyện Hiệp Đức</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đà Nẵng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-DN</ctml:parentRef>
+    <ctml:wikiDataId>Q3710927</ctml:wikiDataId>
+    <ctml:latitude>15.53857000</ctml:latitude>
+    <ctml:longitude>108.09539000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130375" kind="admin2">
+    <ctml:name>Huyện Nam Giang</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đà Nẵng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-DN</ctml:parentRef>
+    <ctml:wikiDataId>Q3711221</ctml:wikiDataId>
+    <ctml:latitude>15.63201000</ctml:latitude>
+    <ctml:longitude>107.60267000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130394" kind="admin2">
+    <ctml:name>Huyện Núi Thành</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đà Nẵng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-DN</ctml:parentRef>
+    <ctml:wikiDataId>Q724739</ctml:wikiDataId>
+    <ctml:latitude>15.43345000</ctml:latitude>
+    <ctml:longitude>108.57438000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130403" kind="city">
+    <ctml:name>Huyện Phước Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đà Nẵng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-DN</ctml:parentRef>
+    <ctml:wikiDataId>Q3091652</ctml:wikiDataId>
+    <ctml:latitude>15.38806000</ctml:latitude>
+    <ctml:longitude>107.85766000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130457" kind="admin2">
+    <ctml:name>Huyện Tiên Phước</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đà Nẵng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-DN</ctml:parentRef>
+    <ctml:wikiDataId>Q3711538</ctml:wikiDataId>
+    <ctml:latitude>15.47090000</ctml:latitude>
+    <ctml:longitude>108.28257000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130467" kind="admin2">
+    <ctml:name>Huyện Trà My</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đà Nẵng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-DN</ctml:parentRef>
+    <ctml:wikiDataId>Q7831038</ctml:wikiDataId>
+    <ctml:latitude>15.25000000</ctml:latitude>
+    <ctml:longitude>108.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130217" kind="city">
+    <ctml:name>Huyện Buôn Đôn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đắk Lắk</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-33</ctml:parentRef>
+    <ctml:wikiDataId>Q3710671</ctml:wikiDataId>
+    <ctml:latitude>12.90396000</ctml:latitude>
+    <ctml:longitude>107.73870000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130283" kind="city">
+    <ctml:name>Huyện Ea H'Leo</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đắk Lắk</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-33</ctml:parentRef>
+    <ctml:wikiDataId>Q3031197</ctml:wikiDataId>
+    <ctml:latitude>13.31814000</ctml:latitude>
+    <ctml:longitude>108.07148000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130284" kind="city">
+    <ctml:name>Huyện Ea Súp</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đắk Lắk</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-33</ctml:parentRef>
+    <ctml:wikiDataId>Q3031197</ctml:wikiDataId>
+    <ctml:latitude>13.18279000</ctml:latitude>
+    <ctml:longitude>107.79954000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130425" kind="admin2">
+    <ctml:name>Huyện Sơn Hòa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đắk Lắk</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-33</ctml:parentRef>
+    <ctml:wikiDataId>Q3711485</ctml:wikiDataId>
+    <ctml:latitude>13.15868000</ctml:latitude>
+    <ctml:longitude>108.97281000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130421" kind="admin2">
+    <ctml:name>Huyện Sông Hinh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đắk Lắk</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-33</ctml:parentRef>
+    <ctml:wikiDataId>Q7395483</ctml:wikiDataId>
+    <ctml:latitude>12.91667000</ctml:latitude>
+    <ctml:longitude>108.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130593" kind="admin2">
+    <ctml:name>Sông Cầu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đắk Lắk</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-33</ctml:parentRef>
+    <ctml:wikiDataId>Q33418</ctml:wikiDataId>
+    <ctml:latitude>13.45560000</ctml:latitude>
+    <ctml:longitude>109.22348000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130528" kind="city">
+    <ctml:name>Huyện Điện Biên Đông</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Điện Biên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-71</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>21.25266000</ctml:latitude>
+    <ctml:longitude>103.26900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130365" kind="city">
+    <ctml:name>Huyện Mường Nhé</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Điện Biên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-71</ctml:parentRef>
+    <ctml:wikiDataId>Q10796264</ctml:wikiDataId>
+    <ctml:latitude>22.10353000</ctml:latitude>
+    <ctml:longitude>102.58465000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130493" kind="admin2">
+    <ctml:name>Huyện Tủa Chùa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Điện Biên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-71</ctml:parentRef>
+    <ctml:wikiDataId>Q7484836</ctml:wikiDataId>
+    <ctml:latitude>21.95357000</ctml:latitude>
+    <ctml:longitude>103.37332000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130478" kind="admin2">
+    <ctml:name>Huyện Tuần Giáo</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Điện Biên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-71</ctml:parentRef>
+    <ctml:wikiDataId>Q2232329</ctml:wikiDataId>
+    <ctml:latitude>21.69481000</ctml:latitude>
+    <ctml:longitude>103.41758000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130611" kind="city">
+    <ctml:name>Thị Xã Mưòng Lay</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Điện Biên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-71</ctml:parentRef>
+    <ctml:wikiDataId>Q3031171</ctml:wikiDataId>
+    <ctml:latitude>22.03374000</ctml:latitude>
+    <ctml:longitude>103.12331000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130174" kind="city">
+    <ctml:name>Bình Long</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Nai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-39</ctml:parentRef>
+    <ctml:wikiDataId>Q33469</ctml:wikiDataId>
+    <ctml:latitude>11.64711000</ctml:latitude>
+    <ctml:longitude>106.60586000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130227" kind="admin2">
+    <ctml:name>Huyện Bù Đốp</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Nai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-39</ctml:parentRef>
+    <ctml:wikiDataId>Q3710726</ctml:wikiDataId>
+    <ctml:latitude>12.00374000</ctml:latitude>
+    <ctml:longitude>106.81545000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130256" kind="admin2">
+    <ctml:name>Huyện Chơn Thành</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Nai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-39</ctml:parentRef>
+    <ctml:wikiDataId>Q1319826</ctml:wikiDataId>
+    <ctml:latitude>11.46283000</ctml:latitude>
+    <ctml:longitude>106.66655000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130546" kind="admin2">
+    <ctml:name>Huyện Định Quán</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Nai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-39</ctml:parentRef>
+    <ctml:wikiDataId>Q3593897</ctml:wikiDataId>
+    <ctml:latitude>11.21866000</ctml:latitude>
+    <ctml:longitude>107.33959000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130547" kind="admin2">
+    <ctml:name>Huyện Đồng Phú</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Nai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-39</ctml:parentRef>
+    <ctml:wikiDataId>Q3593897</ctml:wikiDataId>
+    <ctml:latitude>11.50071000</ctml:latitude>
+    <ctml:longitude>107.01192000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130319" kind="city">
+    <ctml:name>Huyện Hớn Quản</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Nai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-39</ctml:parentRef>
+    <ctml:wikiDataId>Q5942590</ctml:wikiDataId>
+    <ctml:latitude>11.59718000</ctml:latitude>
+    <ctml:longitude>106.62739000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130344" kind="admin2">
+    <ctml:name>Huyện Long Thành</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Nai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-39</ctml:parentRef>
+    <ctml:wikiDataId>Q3711115</ctml:wikiDataId>
+    <ctml:latitude>10.76162000</ctml:latitude>
+    <ctml:longitude>107.02688000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130485" kind="admin2">
+    <ctml:name>Huyện Tân Phú</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Nai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-39</ctml:parentRef>
+    <ctml:wikiDataId>Q3711512</ctml:wikiDataId>
+    <ctml:latitude>11.39867000</ctml:latitude>
+    <ctml:longitude>107.39976000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130452" kind="admin2">
+    <ctml:name>Huyện Thống Nhất</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Nai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-39</ctml:parentRef>
+    <ctml:wikiDataId>Q3711530</ctml:wikiDataId>
+    <ctml:latitude>10.97764000</ctml:latitude>
+    <ctml:longitude>107.15909000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130471" kind="admin2">
+    <ctml:name>Huyện Trảng Bom</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Nai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-39</ctml:parentRef>
+    <ctml:wikiDataId>Q7831038</ctml:wikiDataId>
+    <ctml:latitude>10.96624000</ctml:latitude>
+    <ctml:longitude>107.03614000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130498" kind="admin2">
+    <ctml:name>Huyện Vĩnh Cửu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Nai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-39</ctml:parentRef>
+    <ctml:wikiDataId>Q7484836</ctml:wikiDataId>
+    <ctml:latitude>11.25725000</ctml:latitude>
+    <ctml:longitude>107.02773000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130614" kind="city">
+    <ctml:name>Thị Xã Phước Long</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Nai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-39</ctml:parentRef>
+    <ctml:wikiDataId>Q1320204</ctml:wikiDataId>
+    <ctml:latitude>11.81142000</ctml:latitude>
+    <ctml:longitude>106.99670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130241" kind="city">
+    <ctml:name>Huyện Cai Lậy</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q4838559</ctml:wikiDataId>
+    <ctml:latitude>10.38943000</ctml:latitude>
+    <ctml:longitude>106.06774000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130252" kind="admin2">
+    <ctml:name>Huyện Châu Thành</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q3710806</ctml:wikiDataId>
+    <ctml:latitude>10.38600000</ctml:latitude>
+    <ctml:longitude>106.27311000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130260" kind="city">
+    <ctml:name>Huyện Chợ Gạo</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q1319826</ctml:wikiDataId>
+    <ctml:latitude>10.37373000</ctml:latitude>
+    <ctml:longitude>106.44341000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130293" kind="admin2">
+    <ctml:name>Huyện Gò Công Đông</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q3710927</ctml:wikiDataId>
+    <ctml:latitude>10.36784000</ctml:latitude>
+    <ctml:longitude>106.74592000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130292" kind="admin2">
+    <ctml:name>Huyện Gò Công Tây</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q3710927</ctml:wikiDataId>
+    <ctml:latitude>10.34527000</ctml:latitude>
+    <ctml:longitude>106.59851000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130340" kind="city">
+    <ctml:name>Huyện Lai Vung</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q6473680</ctml:wikiDataId>
+    <ctml:latitude>10.24051000</ctml:latitude>
+    <ctml:longitude>105.66327000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130351" kind="admin2">
+    <ctml:name>Huyện Lấp Vò</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q1320095</ctml:wikiDataId>
+    <ctml:latitude>10.35918000</ctml:latitude>
+    <ctml:longitude>105.60611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130430" kind="admin2">
+    <ctml:name>Huyện Tam Nông</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q3711485</ctml:wikiDataId>
+    <ctml:latitude>10.72761000</ctml:latitude>
+    <ctml:longitude>105.52522000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130483" kind="admin2">
+    <ctml:name>Huyện Tân Hồng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q3711512</ctml:wikiDataId>
+    <ctml:latitude>10.87089000</ctml:latitude>
+    <ctml:longitude>105.49104000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130486" kind="admin2">
+    <ctml:name>Huyện Tân Phước</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q3711512</ctml:wikiDataId>
+    <ctml:latitude>10.51489000</ctml:latitude>
+    <ctml:longitude>106.23312000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130435" kind="admin2">
+    <ctml:name>Huyện Thanh Bình</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q7710095</ctml:wikiDataId>
+    <ctml:latitude>10.60137000</ctml:latitude>
+    <ctml:longitude>105.47811000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130443" kind="city">
+    <ctml:name>Huyện Tháp Mười</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q3711534</ctml:wikiDataId>
+    <ctml:latitude>10.54398000</ctml:latitude>
+    <ctml:longitude>105.81875000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130589" kind="admin2">
+    <ctml:name>Sa Dec</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q36093</ctml:wikiDataId>
+    <ctml:latitude>10.29085000</ctml:latitude>
+    <ctml:longitude>105.75635000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130607" kind="city">
+    <ctml:name>Thị Trấn Tân Thành</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q26581</ctml:wikiDataId>
+    <ctml:latitude>10.25616000</ctml:latitude>
+    <ctml:longitude>105.59280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130610" kind="city">
+    <ctml:name>Thị Xã Gò Công</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Đồng Tháp</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-45</ctml:parentRef>
+    <ctml:wikiDataId>Q3031171</ctml:wikiDataId>
+    <ctml:latitude>10.40005000</ctml:latitude>
+    <ctml:longitude>106.65847000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130209" kind="city">
+    <ctml:name>Huyện An Lão</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q724711</ctml:wikiDataId>
+    <ctml:latitude>14.55676000</ctml:latitude>
+    <ctml:longitude>108.80100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130258" kind="admin2">
+    <ctml:name>Huyện Chư Păh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q1319826</ctml:wikiDataId>
+    <ctml:latitude>14.15941000</ctml:latitude>
+    <ctml:longitude>107.98411000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130257" kind="admin2">
+    <ctml:name>Huyện Chư Prông</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q1319826</ctml:wikiDataId>
+    <ctml:latitude>13.59976000</ctml:latitude>
+    <ctml:longitude>107.81099000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130259" kind="admin2">
+    <ctml:name>Huyện Chư Sê</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q1319826</ctml:wikiDataId>
+    <ctml:latitude>13.74254000</ctml:latitude>
+    <ctml:longitude>108.08663000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130549" kind="admin2">
+    <ctml:name>Huyện Đức Cơ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q5295775</ctml:wikiDataId>
+    <ctml:latitude>13.78454000</ctml:latitude>
+    <ctml:longitude>107.66970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130298" kind="admin2">
+    <ctml:name>Huyện Hoài Nhơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q3710927</ctml:wikiDataId>
+    <ctml:latitude>14.50535000</ctml:latitude>
+    <ctml:longitude>109.02315000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130320" kind="admin2">
+    <ctml:name>Huyện Ia Grai</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q5942590</ctml:wikiDataId>
+    <ctml:latitude>13.98937000</ctml:latitude>
+    <ctml:longitude>107.73740000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130322" kind="city">
+    <ctml:name>Huyện KBang</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q20025812</ctml:wikiDataId>
+    <ctml:latitude>14.30506000</ctml:latitude>
+    <ctml:longitude>108.49779000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130335" kind="city">
+    <ctml:name>Huyện Kông Chro</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q6405298</ctml:wikiDataId>
+    <ctml:latitude>13.73519000</ctml:latitude>
+    <ctml:longitude>108.59697000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130334" kind="admin2">
+    <ctml:name>Huyện Krông Pa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q6405298</ctml:wikiDataId>
+    <ctml:latitude>13.23152000</ctml:latitude>
+    <ctml:longitude>108.65494000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130358" kind="admin2">
+    <ctml:name>Huyện Mang Yang</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q2226906</ctml:wikiDataId>
+    <ctml:latitude>13.92840000</ctml:latitude>
+    <ctml:longitude>108.30246000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130397" kind="admin2">
+    <ctml:name>Huyện Phù Mỹ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q724739</ctml:wikiDataId>
+    <ctml:latitude>14.22304000</ctml:latitude>
+    <ctml:longitude>109.08611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130490" kind="city">
+    <ctml:name>Huyện Tây Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q3711512</ctml:wikiDataId>
+    <ctml:latitude>13.94306000</ctml:latitude>
+    <ctml:longitude>108.87999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130476" kind="admin2">
+    <ctml:name>Huyện Tuy Phước</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q286486</ctml:wikiDataId>
+    <ctml:latitude>13.84564000</ctml:latitude>
+    <ctml:longitude>109.15275000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130503" kind="admin2">
+    <ctml:name>Huyện Vĩnh Thạnh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Gia Lai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-30</ctml:parentRef>
+    <ctml:wikiDataId>Q7932536</ctml:wikiDataId>
+    <ctml:latitude>14.21100000</ctml:latitude>
+    <ctml:longitude>108.74389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130201" kind="admin2">
+    <ctml:name>Ba Đình</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q890194</ctml:wikiDataId>
+    <ctml:latitude>21.03482330</ctml:latitude>
+    <ctml:longitude>105.80854700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-154453" kind="admin2">
+    <ctml:name>Ba Vì</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q1048617</ctml:wikiDataId>
+    <ctml:latitude>21.15590590</ctml:latitude>
+    <ctml:longitude>105.21463610</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130412" kind="admin2">
+    <ctml:name>Bắc Từ Liêm</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q16480194</ctml:wikiDataId>
+    <ctml:latitude>21.07148680</ctml:latitude>
+    <ctml:longitude>105.71992260</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130558" kind="city">
+    <ctml:name>Cầu Giấy</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q267015</ctml:wikiDataId>
+    <ctml:latitude>21.03022160</ctml:latitude>
+    <ctml:longitude>105.74947330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-154454" kind="city">
+    <ctml:name>Chương Mỹ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q5116478</ctml:wikiDataId>
+    <ctml:latitude>20.87863440</ctml:latitude>
+    <ctml:longitude>105.57313240</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-154455" kind="admin2">
+    <ctml:name>Đan Phượng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q5214204</ctml:wikiDataId>
+    <ctml:latitude>21.12073370</ctml:latitude>
+    <ctml:longitude>105.59910760</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-154456" kind="admin2">
+    <ctml:name>Đông Anh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q864787</ctml:wikiDataId>
+    <ctml:latitude>21.13683310</ctml:latitude>
+    <ctml:longitude>105.74753240</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130586" kind="city">
+    <ctml:name>Đống Đa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q1048634</ctml:wikiDataId>
+    <ctml:latitude>21.01466010</ctml:latitude>
+    <ctml:longitude>105.79955140</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-154457" kind="city">
+    <ctml:name>Gia Lâm</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q1134500</ctml:wikiDataId>
+    <ctml:latitude>21.02405790</ctml:latitude>
+    <ctml:longitude>105.78534730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130587" kind="city">
+    <ctml:name>Hà Đông</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q546840</ctml:wikiDataId>
+    <ctml:latitude>20.95394960</ctml:latitude>
+    <ctml:longitude>105.71369010</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130595" kind="city">
+    <ctml:name>Hai Bà Trưng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q1134523</ctml:wikiDataId>
+    <ctml:latitude>21.00675970</ctml:latitude>
+    <ctml:longitude>105.84126630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-154458" kind="admin2">
+    <ctml:name>Hoài Đức</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q864794</ctml:wikiDataId>
+    <ctml:latitude>21.02300260</ctml:latitude>
+    <ctml:longitude>105.61219450</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-154446" kind="city">
+    <ctml:name>Hoàn Kiếm</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q1134529</ctml:wikiDataId>
+    <ctml:latitude>21.03044570</ctml:latitude>
+    <ctml:longitude>105.83358610</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-154447" kind="city">
+    <ctml:name>Hoàng Mai</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q864747</ctml:wikiDataId>
+    <ctml:latitude>20.97404710</ctml:latitude>
+    <ctml:longitude>105.81704700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-154448" kind="admin2">
+    <ctml:name>Long Biên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q864802</ctml:wikiDataId>
+    <ctml:latitude>21.03803170</ctml:latitude>
+    <ctml:longitude>105.84909840</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-154459" kind="admin2">
+    <ctml:name>Mê Linh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q1048241</ctml:wikiDataId>
+    <ctml:latitude>21.18078460</ctml:latitude>
+    <ctml:longitude>105.62112980</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-154460" kind="admin2">
+    <ctml:name>Mỹ Đức</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q864775</ctml:wikiDataId>
+    <ctml:latitude>20.69745440</ctml:latitude>
+    <ctml:longitude>105.56582850</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-154449" kind="city">
+    <ctml:name>Nam Từ Liêm</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q16479957</ctml:wikiDataId>
+    <ctml:latitude>21.01789090</ctml:latitude>
+    <ctml:longitude>105.72108680</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-154461" kind="admin2">
+    <ctml:name>Phú Xuyên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q524144</ctml:wikiDataId>
+    <ctml:latitude>20.72900540</ctml:latitude>
+    <ctml:longitude>105.81491120</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-154462" kind="city">
+    <ctml:name>Phúc Thọ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q5370345</ctml:wikiDataId>
+    <ctml:latitude>21.10993100</ctml:latitude>
+    <ctml:longitude>105.50059130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-154463" kind="city">
+    <ctml:name>Quốc Oai</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q5370368</ctml:wikiDataId>
+    <ctml:latitude>20.97845600</ctml:latitude>
+    <ctml:longitude>105.43800930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-154464" kind="city">
+    <ctml:name>Sóc Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q5370348</ctml:wikiDataId>
+    <ctml:latitude>21.28139310</ctml:latitude>
+    <ctml:longitude>105.66618880</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-154452" kind="admin2">
+    <ctml:name>Sơn Tây</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q10823419</ctml:wikiDataId>
+    <ctml:latitude>21.09683340</ctml:latitude>
+    <ctml:longitude>105.39385950</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-154450" kind="city">
+    <ctml:name>Tây Hồ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q1048642</ctml:wikiDataId>
+    <ctml:latitude>21.06882190</ctml:latitude>
+    <ctml:longitude>105.77920430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-154465" kind="city">
+    <ctml:name>Thạch Thất</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q5370376</ctml:wikiDataId>
+    <ctml:latitude>21.02408830</ctml:latitude>
+    <ctml:longitude>105.35102500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-154466" kind="city">
+    <ctml:name>Thanh Oai</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q5370325</ctml:wikiDataId>
+    <ctml:latitude>20.86002700</ctml:latitude>
+    <ctml:longitude>105.70158360</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-154467" kind="city">
+    <ctml:name>Thanh Trì</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q4403404</ctml:wikiDataId>
+    <ctml:latitude>20.94176020</ctml:latitude>
+    <ctml:longitude>105.76821790</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-154451" kind="admin2">
+    <ctml:name>Thanh Xuân</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q864779</ctml:wikiDataId>
+    <ctml:latitude>20.99482550</ctml:latitude>
+    <ctml:longitude>105.79696040</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-154468" kind="admin2">
+    <ctml:name>Thường Tín</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q864581</ctml:wikiDataId>
+    <ctml:latitude>20.83223420</ctml:latitude>
+    <ctml:longitude>105.79192130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-154469" kind="admin2">
+    <ctml:name>Ứng Hòa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Nội</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HN</ctml:parentRef>
+    <ctml:wikiDataId>Q864798</ctml:wikiDataId>
+    <ctml:latitude>20.71097910</ctml:latitude>
+    <ctml:longitude>105.63648520</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130277" kind="admin2">
+    <ctml:name>Huyện Cẩm Xuyên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Tĩnh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q3031197</ctml:wikiDataId>
+    <ctml:latitude>18.19059000</ctml:latitude>
+    <ctml:longitude>106.00186000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130243" kind="admin2">
+    <ctml:name>Huyện Can Lộc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Tĩnh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q4838559</ctml:wikiDataId>
+    <ctml:latitude>18.44414000</ctml:latitude>
+    <ctml:longitude>105.76350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130525" kind="admin2">
+    <ctml:name>Huyện Ðức Thọ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Tĩnh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>18.49699000</ctml:latitude>
+    <ctml:longitude>105.61016000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130337" kind="city">
+    <ctml:name>Huyện Kỳ Anh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Tĩnh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q6405298</ctml:wikiDataId>
+    <ctml:latitude>18.05805000</ctml:latitude>
+    <ctml:longitude>106.24580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130382" kind="admin2">
+    <ctml:name>Huyện Nghi Xuân</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Tĩnh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q3031601</ctml:wikiDataId>
+    <ctml:latitude>18.62419000</ctml:latitude>
+    <ctml:longitude>105.76829000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130447" kind="city">
+    <ctml:name>Huyện Thạch Hà</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hà Tĩnh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q3711534</ctml:wikiDataId>
+    <ctml:latitude>18.35091000</ctml:latitude>
+    <ctml:longitude>105.81123000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130188" kind="city">
+    <ctml:name>Cát Bà</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hải Phòng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HP</ctml:parentRef>
+    <ctml:wikiDataId>Q25262</ctml:wikiDataId>
+    <ctml:latitude>20.72779000</ctml:latitude>
+    <ctml:longitude>107.04819000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130562" kind="admin2">
+    <ctml:name>Hải Dương</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hải Phòng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HP</ctml:parentRef>
+    <ctml:wikiDataId>Q36354</ctml:wikiDataId>
+    <ctml:latitude>20.94099000</ctml:latitude>
+    <ctml:longitude>106.33302000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130221" kind="admin2">
+    <ctml:name>Huyện Bình Giang</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hải Phòng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HP</ctml:parentRef>
+    <ctml:wikiDataId>Q3031078</ctml:wikiDataId>
+    <ctml:latitude>20.87586000</ctml:latitude>
+    <ctml:longitude>106.19138000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130274" kind="admin2">
+    <ctml:name>Huyện Cẩm Giàng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hải Phòng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HP</ctml:parentRef>
+    <ctml:wikiDataId>Q3031197</ctml:wikiDataId>
+    <ctml:latitude>20.95000000</ctml:latitude>
+    <ctml:longitude>106.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130286" kind="admin2">
+    <ctml:name>Huyện Gia Lộc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hải Phòng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HP</ctml:parentRef>
+    <ctml:wikiDataId>Q3031261</ctml:wikiDataId>
+    <ctml:latitude>20.85164000</ctml:latitude>
+    <ctml:longitude>106.29130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130329" kind="admin2">
+    <ctml:name>Huyện Kinh Môn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hải Phòng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HP</ctml:parentRef>
+    <ctml:wikiDataId>Q3031344</ctml:wikiDataId>
+    <ctml:latitude>21.01634000</ctml:latitude>
+    <ctml:longitude>106.50384000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130376" kind="admin2">
+    <ctml:name>Huyện Nam Sách</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hải Phòng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HP</ctml:parentRef>
+    <ctml:wikiDataId>Q3031601</ctml:wikiDataId>
+    <ctml:latitude>21.00484000</ctml:latitude>
+    <ctml:longitude>106.34042000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130438" kind="admin2">
+    <ctml:name>Huyện Thanh Miện</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hải Phòng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HP</ctml:parentRef>
+    <ctml:wikiDataId>Q3031911</ctml:wikiDataId>
+    <ctml:latitude>20.77953000</ctml:latitude>
+    <ctml:longitude>106.22218000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130609" kind="city">
+    <ctml:name>Thị Xã Chí Linh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hải Phòng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-HP</ctml:parentRef>
+    <ctml:wikiDataId>Q3031171</ctml:wikiDataId>
+    <ctml:latitude>21.13722000</ctml:latitude>
+    <ctml:longitude>106.39638000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130191" kind="admin2">
+    <ctml:name>Cần Giờ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hồ Chí Minh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-SG</ctml:parentRef>
+    <ctml:wikiDataId>Q25262</ctml:wikiDataId>
+    <ctml:latitude>10.41115000</ctml:latitude>
+    <ctml:longitude>106.95474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130189" kind="city">
+    <ctml:name>Côn Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hồ Chí Minh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-SG</ctml:parentRef>
+    <ctml:wikiDataId>Q25262</ctml:wikiDataId>
+    <ctml:latitude>8.68641000</ctml:latitude>
+    <ctml:longitude>106.60824000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130194" kind="admin2">
+    <ctml:name>Củ Chi</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hồ Chí Minh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-SG</ctml:parentRef>
+    <ctml:wikiDataId>Q55963184</ctml:wikiDataId>
+    <ctml:latitude>10.97333000</ctml:latitude>
+    <ctml:longitude>106.49325000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130198" kind="admin2">
+    <ctml:name>Dĩ An</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hồ Chí Minh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-SG</ctml:parentRef>
+    <ctml:wikiDataId>Q1320364</ctml:wikiDataId>
+    <ctml:latitude>10.90682000</ctml:latitude>
+    <ctml:longitude>106.76940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130202" kind="city">
+    <ctml:name>Ho Chi Minh City</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hồ Chí Minh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-SG</ctml:parentRef>
+    <ctml:wikiDataId>Q1854</ctml:wikiDataId>
+    <ctml:latitude>10.82302000</ctml:latitude>
+    <ctml:longitude>106.62965000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130255" kind="admin2">
+    <ctml:name>Huyện Châu Đức</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hồ Chí Minh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-SG</ctml:parentRef>
+    <ctml:wikiDataId>Q1319826</ctml:wikiDataId>
+    <ctml:latitude>10.65805000</ctml:latitude>
+    <ctml:longitude>107.25098000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130539" kind="admin2">
+    <ctml:name>Huyện Đất Đỏ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hồ Chí Minh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-SG</ctml:parentRef>
+    <ctml:wikiDataId>Q2414015</ctml:wikiDataId>
+    <ctml:latitude>10.48025000</ctml:latitude>
+    <ctml:longitude>107.27879000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130487" kind="city">
+    <ctml:name>Huyện Tân Thành</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hồ Chí Minh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-SG</ctml:parentRef>
+    <ctml:wikiDataId>Q3711512</ctml:wikiDataId>
+    <ctml:latitude>10.57381000</ctml:latitude>
+    <ctml:longitude>107.10189000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130510" kind="city">
+    <ctml:name>Huyện Xuyên Mộc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hồ Chí Minh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-SG</ctml:parentRef>
+    <ctml:wikiDataId>Q1758257</ctml:wikiDataId>
+    <ctml:latitude>10.63048000</ctml:latitude>
+    <ctml:longitude>107.46568000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130604" kind="city">
+    <ctml:name>Thành Phố Vũng Tàu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hồ Chí Minh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-SG</ctml:parentRef>
+    <ctml:wikiDataId>Q21194</ctml:wikiDataId>
+    <ctml:latitude>10.40239000</ctml:latitude>
+    <ctml:longitude>107.14239000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130613" kind="city">
+    <ctml:name>Thị Xã Phú Mỹ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hồ Chí Minh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-SG</ctml:parentRef>
+    <ctml:wikiDataId>Q1320204</ctml:wikiDataId>
+    <ctml:latitude>10.56815000</ctml:latitude>
+    <ctml:longitude>107.12999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130626" kind="admin2">
+    <ctml:name>Vũng Tàu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hồ Chí Minh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-SG</ctml:parentRef>
+    <ctml:wikiDataId>Q36088</ctml:wikiDataId>
+    <ctml:latitude>10.34599000</ctml:latitude>
+    <ctml:longitude>107.08426000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130523" kind="admin2">
+    <ctml:name>Huyện Ân Thi</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hưng Yên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-66</ctml:parentRef>
+    <ctml:wikiDataId>Q1924620</ctml:wikiDataId>
+    <ctml:latitude>20.81086000</ctml:latitude>
+    <ctml:longitude>106.09995000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130524" kind="admin2">
+    <ctml:name>Huyện Ðông Hưng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hưng Yên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-66</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>20.54388000</ctml:latitude>
+    <ctml:longitude>106.34090000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130309" kind="admin2">
+    <ctml:name>Huyện Hưng Hà</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hưng Yên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-66</ctml:parentRef>
+    <ctml:wikiDataId>Q5874252</ctml:wikiDataId>
+    <ctml:latitude>20.59464000</ctml:latitude>
+    <ctml:longitude>106.21230000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130323" kind="admin2">
+    <ctml:name>Huyện Khoái Châu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hưng Yên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-66</ctml:parentRef>
+    <ctml:wikiDataId>Q20025812</ctml:wikiDataId>
+    <ctml:latitude>20.82170000</ctml:latitude>
+    <ctml:longitude>105.97455000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130331" kind="admin2">
+    <ctml:name>Huyện Kiến Xương</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hưng Yên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-66</ctml:parentRef>
+    <ctml:wikiDataId>Q6405298</ctml:wikiDataId>
+    <ctml:latitude>20.40081000</ctml:latitude>
+    <ctml:longitude>106.42032000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130328" kind="admin2">
+    <ctml:name>Huyện Kim Động</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hưng Yên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-66</ctml:parentRef>
+    <ctml:wikiDataId>Q20025812</ctml:wikiDataId>
+    <ctml:latitude>20.74645000</ctml:latitude>
+    <ctml:longitude>106.03632000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130369" kind="city">
+    <ctml:name>Huyện Mỹ Hào</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hưng Yên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-66</ctml:parentRef>
+    <ctml:wikiDataId>Q10796264</ctml:wikiDataId>
+    <ctml:latitude>20.93210000</ctml:latitude>
+    <ctml:longitude>106.10630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130396" kind="admin2">
+    <ctml:name>Huyện Phù Cừ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hưng Yên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-66</ctml:parentRef>
+    <ctml:wikiDataId>Q724739</ctml:wikiDataId>
+    <ctml:latitude>20.70997000</ctml:latitude>
+    <ctml:longitude>106.19744000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130417" kind="admin2">
+    <ctml:name>Huyện Quỳnh Phụ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hưng Yên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-66</ctml:parentRef>
+    <ctml:wikiDataId>Q5370368</ctml:wikiDataId>
+    <ctml:latitude>20.65095000</ctml:latitude>
+    <ctml:longitude>106.36359000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130442" kind="admin2">
+    <ctml:name>Huyện Thái Thụy</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hưng Yên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-66</ctml:parentRef>
+    <ctml:wikiDataId>Q3711534</ctml:wikiDataId>
+    <ctml:latitude>20.53916000</ctml:latitude>
+    <ctml:longitude>106.51688000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130459" kind="admin2">
+    <ctml:name>Huyện Tiền Hải</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hưng Yên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-66</ctml:parentRef>
+    <ctml:wikiDataId>Q3711538</ctml:wikiDataId>
+    <ctml:latitude>20.38465000</ctml:latitude>
+    <ctml:longitude>106.52882000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130456" kind="admin2">
+    <ctml:name>Huyện Tiên Lữ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hưng Yên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-66</ctml:parentRef>
+    <ctml:wikiDataId>Q3711538</ctml:wikiDataId>
+    <ctml:latitude>20.68490000</ctml:latitude>
+    <ctml:longitude>106.12513000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130504" kind="admin2">
+    <ctml:name>Huyện Vũ Thư</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hưng Yên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-66</ctml:parentRef>
+    <ctml:wikiDataId>Q7932536</ctml:wikiDataId>
+    <ctml:latitude>20.43732000</ctml:latitude>
+    <ctml:longitude>106.26529000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130605" kind="admin2">
+    <ctml:name>Thái Bình</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Hưng Yên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-66</ctml:parentRef>
+    <ctml:wikiDataId>Q36497</ctml:wikiDataId>
+    <ctml:latitude>20.45000000</ctml:latitude>
+    <ctml:longitude>106.34002000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130182" kind="city">
+    <ctml:name>Cam Ranh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Khánh Hòa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-34</ctml:parentRef>
+    <ctml:wikiDataId>Q31887770</ctml:wikiDataId>
+    <ctml:latitude>11.92144000</ctml:latitude>
+    <ctml:longitude>109.15913000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130278" kind="admin2">
+    <ctml:name>Huyện Diên Khánh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Khánh Hòa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-34</ctml:parentRef>
+    <ctml:wikiDataId>Q3031197</ctml:wikiDataId>
+    <ctml:latitude>12.27341000</ctml:latitude>
+    <ctml:longitude>109.03890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130324" kind="city">
+    <ctml:name>Huyện Khánh Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Khánh Hòa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-34</ctml:parentRef>
+    <ctml:wikiDataId>Q20025812</ctml:wikiDataId>
+    <ctml:latitude>12.02858000</ctml:latitude>
+    <ctml:longitude>108.90814000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130325" kind="city">
+    <ctml:name>Huyện Khánh Vĩnh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Khánh Hòa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-34</ctml:parentRef>
+    <ctml:wikiDataId>Q20025812</ctml:wikiDataId>
+    <ctml:latitude>12.30593000</ctml:latitude>
+    <ctml:longitude>108.83073000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130506" kind="admin2">
+    <ctml:name>Huyện Vạn Ninh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Khánh Hòa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-34</ctml:parentRef>
+    <ctml:wikiDataId>Q7932536</ctml:wikiDataId>
+    <ctml:latitude>12.72344000</ctml:latitude>
+    <ctml:longitude>109.24586000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130598" kind="city">
+    <ctml:name>Thành Phố Cam Ranh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Khánh Hòa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-34</ctml:parentRef>
+    <ctml:wikiDataId>Q36175</ctml:wikiDataId>
+    <ctml:latitude>11.90707000</ctml:latitude>
+    <ctml:longitude>109.14861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130612" kind="admin2">
+    <ctml:name>Thị Xã Ninh Hòa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Khánh Hòa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-34</ctml:parentRef>
+    <ctml:wikiDataId>Q3031171</ctml:wikiDataId>
+    <ctml:latitude>12.53796000</ctml:latitude>
+    <ctml:longitude>109.06057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130361" kind="city">
+    <ctml:name>Huyện Mưòng Tè</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lai Châu</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-01</ctml:parentRef>
+    <ctml:wikiDataId>Q10796264</ctml:wikiDataId>
+    <ctml:latitude>22.37443000</ctml:latitude>
+    <ctml:longitude>102.73835000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130431" kind="admin2">
+    <ctml:name>Huyện Tam Đường</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lai Châu</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3711485</ctml:wikiDataId>
+    <ctml:latitude>22.35391000</ctml:latitude>
+    <ctml:longitude>103.59342000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130433" kind="city">
+    <ctml:name>Huyện Than Uyên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lai Châu</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-01</ctml:parentRef>
+    <ctml:wikiDataId>Q7710095</ctml:wikiDataId>
+    <ctml:latitude>21.91424000</ctml:latitude>
+    <ctml:longitude>103.82857000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130176" kind="admin2">
+    <ctml:name>Bảo Lộc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q35620</ctml:wikiDataId>
+    <ctml:latitude>11.54798000</ctml:latitude>
+    <ctml:longitude>107.80772000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130632" kind="city">
+    <ctml:name>Đam Rong</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q33343</ctml:wikiDataId>
+    <ctml:latitude>12.05409000</ctml:latitude>
+    <ctml:longitude>108.14941000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130633" kind="city">
+    <ctml:name>Đinh Văn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q33343</ctml:wikiDataId>
+    <ctml:latitude>11.78624000</ctml:latitude>
+    <ctml:longitude>108.24282000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130634" kind="admin2">
+    <ctml:name>Đưc Trọng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q33343</ctml:wikiDataId>
+    <ctml:latitude>11.73559000</ctml:latitude>
+    <ctml:longitude>108.37330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130233" kind="city">
+    <ctml:name>Huyện Bắc Bình</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q3710674</ctml:wikiDataId>
+    <ctml:latitude>11.27571000</ctml:latitude>
+    <ctml:longitude>108.38506000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130230" kind="admin2">
+    <ctml:name>Huyện Bảo Lâm</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q3710674</ctml:wikiDataId>
+    <ctml:latitude>11.71163000</ctml:latitude>
+    <ctml:longitude>107.75338000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130269" kind="city">
+    <ctml:name>Huyện Cư Jút</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q800052</ctml:wikiDataId>
+    <ctml:latitude>12.69591000</ctml:latitude>
+    <ctml:longitude>107.76316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130536" kind="admin2">
+    <ctml:name>Huyện Đạ Huoai</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>11.42465000</ctml:latitude>
+    <ctml:longitude>107.63825000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130537" kind="admin2">
+    <ctml:name>Huyện Đạ Tẻh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>11.58446000</ctml:latitude>
+    <ctml:longitude>107.52792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130544" kind="admin2">
+    <ctml:name>Huyện Đắk R’Lấp</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q3593897</ctml:wikiDataId>
+    <ctml:latitude>11.87990000</ctml:latitude>
+    <ctml:longitude>107.52244000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130535" kind="admin2">
+    <ctml:name>Huyện Đơn Dương</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>11.75308000</ctml:latitude>
+    <ctml:longitude>108.55397000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130553" kind="admin2">
+    <ctml:name>Huyện Đức Trọng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q5311201</ctml:wikiDataId>
+    <ctml:latitude>11.62686000</ctml:latitude>
+    <ctml:longitude>108.35330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130304" kind="admin2">
+    <ctml:name>Huyện Hàm Tân</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q5643878</ctml:wikiDataId>
+    <ctml:latitude>10.76856000</ctml:latitude>
+    <ctml:longitude>107.64233000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130302" kind="admin2">
+    <ctml:name>Huyện Hàm Thuận Bắc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q3710927</ctml:wikiDataId>
+    <ctml:latitude>11.14703000</ctml:latitude>
+    <ctml:longitude>108.08172000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130303" kind="admin2">
+    <ctml:name>Huyện Hàm Thuận Nam</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q3710927</ctml:wikiDataId>
+    <ctml:latitude>10.92101000</ctml:latitude>
+    <ctml:longitude>107.93325000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130333" kind="admin2">
+    <ctml:name>Huyện Krông Nô</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q6405298</ctml:wikiDataId>
+    <ctml:latitude>12.36285000</ctml:latitude>
+    <ctml:longitude>107.83445000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130346" kind="admin2">
+    <ctml:name>Huyện Lâm Hà</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q3711115</ctml:wikiDataId>
+    <ctml:latitude>11.81890000</ctml:latitude>
+    <ctml:longitude>108.21215000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130479" kind="admin2">
+    <ctml:name>Huyện Tánh Linh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q2232329</ctml:wikiDataId>
+    <ctml:latitude>11.11367000</ctml:latitude>
+    <ctml:longitude>107.68427000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130475" kind="admin2">
+    <ctml:name>Huyện Tuy Phong</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q286486</ctml:wikiDataId>
+    <ctml:latitude>11.34746000</ctml:latitude>
+    <ctml:longitude>108.70466000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130567" kind="city">
+    <ctml:name>La Gi</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lâm Đồng</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-35</ctml:parentRef>
+    <ctml:wikiDataId>Q6462754</ctml:wikiDataId>
+    <ctml:latitude>10.65993000</ctml:latitude>
+    <ctml:longitude>107.77206000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130237" kind="city">
+    <ctml:name>Huyện Bắc Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lạng Sơn</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-09</ctml:parentRef>
+    <ctml:wikiDataId>Q4838559</ctml:wikiDataId>
+    <ctml:latitude>21.83801000</ctml:latitude>
+    <ctml:longitude>106.27690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130220" kind="city">
+    <ctml:name>Huyện Bình Gia</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lạng Sơn</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3710671</ctml:wikiDataId>
+    <ctml:latitude>22.07281000</ctml:latitude>
+    <ctml:longitude>106.30410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130244" kind="city">
+    <ctml:name>Huyện Cao Lộc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lạng Sơn</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-09</ctml:parentRef>
+    <ctml:wikiDataId>Q4838559</ctml:wikiDataId>
+    <ctml:latitude>21.89857000</ctml:latitude>
+    <ctml:longitude>106.85435000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130246" kind="city">
+    <ctml:name>Huyện Chi Lăng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lạng Sơn</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-09</ctml:parentRef>
+    <ctml:wikiDataId>Q4838559</ctml:wikiDataId>
+    <ctml:latitude>21.67602000</ctml:latitude>
+    <ctml:longitude>106.62925000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130531" kind="admin2">
+    <ctml:name>Huyện Đình Lập</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lạng Sơn</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-09</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>21.54210000</ctml:latitude>
+    <ctml:longitude>107.12925000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130308" kind="admin2">
+    <ctml:name>Huyện Hũu Lũng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lạng Sơn</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-09</ctml:parentRef>
+    <ctml:wikiDataId>Q5874252</ctml:wikiDataId>
+    <ctml:latitude>21.54474000</ctml:latitude>
+    <ctml:longitude>106.34386000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130507" kind="admin2">
+    <ctml:name>Huyện Vặn Quan</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lạng Sơn</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-09</ctml:parentRef>
+    <ctml:wikiDataId>Q7932536</ctml:wikiDataId>
+    <ctml:latitude>21.83333000</ctml:latitude>
+    <ctml:longitude>106.54942000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130234" kind="admin2">
+    <ctml:name>Huyện Bắc Hà</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q4838559</ctml:wikiDataId>
+    <ctml:latitude>22.50998000</ctml:latitude>
+    <ctml:longitude>104.30769000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130232" kind="admin2">
+    <ctml:name>Huyện Bảo Yên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3710674</ctml:wikiDataId>
+    <ctml:latitude>22.26109000</ctml:latitude>
+    <ctml:longitude>104.46424000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130219" kind="city">
+    <ctml:name>Huyện Bát Xát</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3710671</ctml:wikiDataId>
+    <ctml:latitude>22.56767000</ctml:latitude>
+    <ctml:longitude>103.71339000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130355" kind="city">
+    <ctml:name>Huyện Lục Yên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2226906</ctml:wikiDataId>
+    <ctml:latitude>22.10235000</ctml:latitude>
+    <ctml:longitude>104.72538000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130360" kind="admin2">
+    <ctml:name>Huyện Mù Cang Chải</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q10796264</ctml:wikiDataId>
+    <ctml:latitude>21.78815000</ctml:latitude>
+    <ctml:longitude>104.11998000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130362" kind="admin2">
+    <ctml:name>Huyện Mường Khương</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q10796264</ctml:wikiDataId>
+    <ctml:latitude>22.67111000</ctml:latitude>
+    <ctml:longitude>104.11772000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130418" kind="city">
+    <ctml:name>Huyện Sa Pa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q7395483</ctml:wikiDataId>
+    <ctml:latitude>22.33769000</ctml:latitude>
+    <ctml:longitude>103.84037000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130420" kind="admin2">
+    <ctml:name>Huyện Si Ma Cai</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q7395483</ctml:wikiDataId>
+    <ctml:latitude>22.67161000</ctml:latitude>
+    <ctml:longitude>104.27326000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130470" kind="admin2">
+    <ctml:name>Huyện Trạm Tấu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q7831038</ctml:wikiDataId>
+    <ctml:latitude>21.48553000</ctml:latitude>
+    <ctml:longitude>104.42756000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130473" kind="admin2">
+    <ctml:name>Huyện Trấn Yên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q286486</ctml:wikiDataId>
+    <ctml:latitude>21.66586000</ctml:latitude>
+    <ctml:longitude>104.79702000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130495" kind="admin2">
+    <ctml:name>Huyện Văn Bàn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q7484836</ctml:wikiDataId>
+    <ctml:latitude>22.07002000</ctml:latitude>
+    <ctml:longitude>104.18122000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130496" kind="admin2">
+    <ctml:name>Huyện Văn Chấn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q7484836</ctml:wikiDataId>
+    <ctml:latitude>21.55722000</ctml:latitude>
+    <ctml:longitude>104.64038000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130497" kind="city">
+    <ctml:name>Huyện Văn Yên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q7484836</ctml:wikiDataId>
+    <ctml:latitude>21.90022000</ctml:latitude>
+    <ctml:longitude>104.56669000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130568" kind="city">
+    <ctml:name>Lao Chải</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q31942265</ctml:wikiDataId>
+    <ctml:latitude>22.31377000</ctml:latitude>
+    <ctml:longitude>103.86844000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130591" kind="city">
+    <ctml:name>Sa Pa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1000140</ctml:wikiDataId>
+    <ctml:latitude>22.34023000</ctml:latitude>
+    <ctml:longitude>103.84415000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130628" kind="admin2">
+    <ctml:name>Yên Bái</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Lào Cai</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-02</ctml:parentRef>
+    <ctml:wikiDataId>Q26019</ctml:wikiDataId>
+    <ctml:latitude>21.72288000</ctml:latitude>
+    <ctml:longitude>104.91130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130212" kind="admin2">
+    <ctml:name>Huyện Anh Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2414515</ctml:wikiDataId>
+    <ctml:latitude>18.92902000</ctml:latitude>
+    <ctml:longitude>105.08294000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130264" kind="city">
+    <ctml:name>Huyện Con Cuông</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q800052</ctml:wikiDataId>
+    <ctml:latitude>19.03898000</ctml:latitude>
+    <ctml:longitude>104.80353000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130279" kind="admin2">
+    <ctml:name>Huyện Diễn Châu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3031197</ctml:wikiDataId>
+    <ctml:latitude>18.98892000</ctml:latitude>
+    <ctml:longitude>105.57625000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130532" kind="admin2">
+    <ctml:name>Huyện Đô Lương</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>18.89259000</ctml:latitude>
+    <ctml:longitude>105.34027000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130310" kind="admin2">
+    <ctml:name>Huyện Hưng Nguyên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q5942590</ctml:wikiDataId>
+    <ctml:latitude>18.67811000</ctml:latitude>
+    <ctml:longitude>105.62523000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130339" kind="city">
+    <ctml:name>Huyện Kỳ Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q6405298</ctml:wikiDataId>
+    <ctml:latitude>19.42397000</ctml:latitude>
+    <ctml:longitude>104.22199000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130378" kind="admin2">
+    <ctml:name>Huyện Nam Đàn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3031601</ctml:wikiDataId>
+    <ctml:latitude>18.67041000</ctml:latitude>
+    <ctml:longitude>105.52575000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130381" kind="admin2">
+    <ctml:name>Huyện Nghi Lộc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3031601</ctml:wikiDataId>
+    <ctml:latitude>18.83131000</ctml:latitude>
+    <ctml:longitude>105.62411000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130385" kind="city">
+    <ctml:name>Huyện Nghĩa Đàn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3031601</ctml:wikiDataId>
+    <ctml:latitude>19.38234000</ctml:latitude>
+    <ctml:longitude>105.44072000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130411" kind="city">
+    <ctml:name>Huyện Quế Phong</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q596473</ctml:wikiDataId>
+    <ctml:latitude>19.70177000</ctml:latitude>
+    <ctml:longitude>104.87913000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130413" kind="admin2">
+    <ctml:name>Huyện Quỳ Châu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q5370368</ctml:wikiDataId>
+    <ctml:latitude>19.55707000</ctml:latitude>
+    <ctml:longitude>105.09173000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130414" kind="admin2">
+    <ctml:name>Huyện Quỳ Hợp</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q5370368</ctml:wikiDataId>
+    <ctml:latitude>19.32514000</ctml:latitude>
+    <ctml:longitude>105.16009000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130415" kind="city">
+    <ctml:name>Huyện Quỳnh Lưu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q5370368</ctml:wikiDataId>
+    <ctml:latitude>19.22717000</ctml:latitude>
+    <ctml:longitude>105.64354000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130436" kind="city">
+    <ctml:name>Huyện Thanh Chương</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q7710095</ctml:wikiDataId>
+    <ctml:latitude>18.73929000</ctml:latitude>
+    <ctml:longitude>105.24053000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130492" kind="city">
+    <ctml:name>Huyện Tương Dương</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3711512</ctml:wikiDataId>
+    <ctml:latitude>19.30979000</ctml:latitude>
+    <ctml:longitude>104.57788000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130520" kind="admin2">
+    <ctml:name>Huyện Yên Thành</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3711616</ctml:wikiDataId>
+    <ctml:latitude>19.02724000</ctml:latitude>
+    <ctml:longitude>105.43649000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130629" kind="city">
+    <ctml:name>Yên Vinh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Nghệ An</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q49371602</ctml:wikiDataId>
+    <ctml:latitude>18.66667000</ctml:latitude>
+    <ctml:longitude>105.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130223" kind="admin2">
+    <ctml:name>Huyện Bình Lục</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q800057</ctml:wikiDataId>
+    <ctml:latitude>20.50126000</ctml:latitude>
+    <ctml:longitude>106.02959000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130280" kind="admin2">
+    <ctml:name>Huyện Duy Tiên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q3031197</ctml:wikiDataId>
+    <ctml:latitude>20.62803000</ctml:latitude>
+    <ctml:longitude>105.96193000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130287" kind="admin2">
+    <ctml:name>Huyện Giao Thủy</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q3031261</ctml:wikiDataId>
+    <ctml:latitude>20.25706000</ctml:latitude>
+    <ctml:longitude>106.46245000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130315" kind="admin2">
+    <ctml:name>Huyện Hải Hậu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q5942590</ctml:wikiDataId>
+    <ctml:latitude>20.15057000</ctml:latitude>
+    <ctml:longitude>106.27161000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130297" kind="admin2">
+    <ctml:name>Huyện Hoa Lư</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q3710927</ctml:wikiDataId>
+    <ctml:latitude>20.25391000</ctml:latitude>
+    <ctml:longitude>105.90789000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130326" kind="admin2">
+    <ctml:name>Huyện Kim Bảng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q20025812</ctml:wikiDataId>
+    <ctml:latitude>20.57254000</ctml:latitude>
+    <ctml:longitude>105.85043000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130327" kind="city">
+    <ctml:name>Huyện Kim Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q20025812</ctml:wikiDataId>
+    <ctml:latitude>20.06034000</ctml:latitude>
+    <ctml:longitude>106.09863000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130370" kind="admin2">
+    <ctml:name>Huyện Mỹ Lộc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q10796264</ctml:wikiDataId>
+    <ctml:latitude>20.46079000</ctml:latitude>
+    <ctml:longitude>106.12319000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130377" kind="admin2">
+    <ctml:name>Huyện Nam Trực</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q3031601</ctml:wikiDataId>
+    <ctml:latitude>20.34106000</ctml:latitude>
+    <ctml:longitude>106.20821000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130384" kind="admin2">
+    <ctml:name>Huyện Nghĩa Hưng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q3031601</ctml:wikiDataId>
+    <ctml:latitude>20.10598000</ctml:latitude>
+    <ctml:longitude>106.17345000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130390" kind="admin2">
+    <ctml:name>Huyện Nho Quan</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q3711242</ctml:wikiDataId>
+    <ctml:latitude>20.27606000</ctml:latitude>
+    <ctml:longitude>105.75442000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130437" kind="admin2">
+    <ctml:name>Huyện Thanh Liêm</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q7710095</ctml:wikiDataId>
+    <ctml:latitude>20.46249000</ctml:latitude>
+    <ctml:longitude>105.92100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130474" kind="admin2">
+    <ctml:name>Huyện Trực Ninh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q286486</ctml:wikiDataId>
+    <ctml:latitude>20.25690000</ctml:latitude>
+    <ctml:longitude>106.24582000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130509" kind="admin2">
+    <ctml:name>Huyện Vụ Bản</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q7932536</ctml:wikiDataId>
+    <ctml:latitude>20.37705000</ctml:latitude>
+    <ctml:longitude>106.09707000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130526" kind="admin2">
+    <ctml:name>Huyện Ý Yên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>20.31669000</ctml:latitude>
+    <ctml:longitude>106.02327000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130513" kind="admin2">
+    <ctml:name>Huyện Yên Khánh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q8052181</ctml:wikiDataId>
+    <ctml:latitude>20.19017000</ctml:latitude>
+    <ctml:longitude>106.09605000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130517" kind="admin2">
+    <ctml:name>Huyện Yên Mô</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Ninh Bình</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-18</ctml:parentRef>
+    <ctml:wikiDataId>Q8052181</ctml:wikiDataId>
+    <ctml:latitude>20.12984000</ctml:latitude>
+    <ctml:longitude>106.00199000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130559" kind="admin2">
+    <ctml:name>Hòa Bình</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q130324</ctml:wikiDataId>
+    <ctml:latitude>20.81717000</ctml:latitude>
+    <ctml:longitude>105.33759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130225" kind="admin2">
+    <ctml:name>Huyện Bình Xuyên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q800057</ctml:wikiDataId>
+    <ctml:latitude>21.30561000</ctml:latitude>
+    <ctml:longitude>105.66225000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130275" kind="city">
+    <ctml:name>Huyện Cẩm Khê</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q3031197</ctml:wikiDataId>
+    <ctml:latitude>21.40683000</ctml:latitude>
+    <ctml:longitude>105.09845000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130245" kind="admin2">
+    <ctml:name>Huyện Cao Phong</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q4838559</ctml:wikiDataId>
+    <ctml:latitude>20.69532000</ctml:latitude>
+    <ctml:longitude>105.33559000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130530" kind="admin2">
+    <ctml:name>Huyện Đoan Hùng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>21.61776000</ctml:latitude>
+    <ctml:longitude>105.16110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130312" kind="admin2">
+    <ctml:name>Huyện Hạ Hòa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q5942590</ctml:wikiDataId>
+    <ctml:latitude>21.57763000</ctml:latitude>
+    <ctml:longitude>104.99464000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130338" kind="city">
+    <ctml:name>Huyện Kỳ Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q6405298</ctml:wikiDataId>
+    <ctml:latitude>20.89631000</ctml:latitude>
+    <ctml:longitude>105.39659000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130350" kind="admin2">
+    <ctml:name>Huyện Lạc Thủy</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q1320095</ctml:wikiDataId>
+    <ctml:latitude>20.49794000</ctml:latitude>
+    <ctml:longitude>105.74092000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130203" kind="admin2">
+    <ctml:name>Huyen Lam Thao</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q1854</ctml:wikiDataId>
+    <ctml:latitude>21.29971000</ctml:latitude>
+    <ctml:longitude>105.31119000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130349" kind="admin2">
+    <ctml:name>Huyện Lương Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q1320095</ctml:wikiDataId>
+    <ctml:latitude>20.87650000</ctml:latitude>
+    <ctml:longitude>105.51219000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130429" kind="admin2">
+    <ctml:name>Huyện Tam Dương</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q3711485</ctml:wikiDataId>
+    <ctml:latitude>21.36189000</ctml:latitude>
+    <ctml:longitude>105.55690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130432" kind="admin2">
+    <ctml:name>Huyện Tam Đảo</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q3711485</ctml:wikiDataId>
+    <ctml:latitude>21.45690000</ctml:latitude>
+    <ctml:longitude>105.59460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130484" kind="admin2">
+    <ctml:name>Huyện Tân Lạc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q3711512</ctml:wikiDataId>
+    <ctml:latitude>20.60557000</ctml:latitude>
+    <ctml:longitude>105.23399000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130434" kind="admin2">
+    <ctml:name>Huyện Thanh Ba</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q7710095</ctml:wikiDataId>
+    <ctml:latitude>21.47816000</ctml:latitude>
+    <ctml:longitude>105.15881000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130514" kind="admin2">
+    <ctml:name>Huyện Yên Lạc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q8052181</ctml:wikiDataId>
+    <ctml:latitude>21.21845000</ctml:latitude>
+    <ctml:longitude>105.57586000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130515" kind="admin2">
+    <ctml:name>Huyện Yên Lập</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q8052181</ctml:wikiDataId>
+    <ctml:latitude>21.35569000</ctml:latitude>
+    <ctml:longitude>105.00493000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130615" kind="admin2">
+    <ctml:name>Thị xã Phú Thọ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q1320204</ctml:wikiDataId>
+    <ctml:latitude>21.41664000</ctml:latitude>
+    <ctml:longitude>105.23636000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130625" kind="admin2">
+    <ctml:name>Vĩnh Yên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Phú Thọ</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-68</ctml:parentRef>
+    <ctml:wikiDataId>Q36088</ctml:wikiDataId>
+    <ctml:latitude>21.30891000</ctml:latitude>
+    <ctml:longitude>105.60489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130216" kind="admin2">
+    <ctml:name>Huyện Ba Tơ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q3710671</ctml:wikiDataId>
+    <ctml:latitude>14.73973000</ctml:latitude>
+    <ctml:longitude>108.69326000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130224" kind="admin2">
+    <ctml:name>Huyện Bình Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q800057</ctml:wikiDataId>
+    <ctml:latitude>15.31899000</ctml:latitude>
+    <ctml:longitude>108.76383000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130542" kind="admin2">
+    <ctml:name>Huyện Đắk Glei</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q3593897</ctml:wikiDataId>
+    <ctml:latitude>15.11358000</ctml:latitude>
+    <ctml:longitude>107.75093000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130543" kind="admin2">
+    <ctml:name>Huyện Đắk Hà</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q3593897</ctml:wikiDataId>
+    <ctml:latitude>14.60326000</ctml:latitude>
+    <ctml:longitude>107.98547000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130545" kind="admin2">
+    <ctml:name>Huyện Đắk Tô</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q3593897</ctml:wikiDataId>
+    <ctml:latitude>14.70087000</ctml:latitude>
+    <ctml:longitude>107.80816000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130552" kind="admin2">
+    <ctml:name>Huyện Đức Phổ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q5311201</ctml:wikiDataId>
+    <ctml:latitude>14.78000000</ctml:latitude>
+    <ctml:longitude>108.97857000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130321" kind="city">
+    <ctml:name>Huyện Ia H'Drai</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q20025812</ctml:wikiDataId>
+    <ctml:latitude>14.06032000</ctml:latitude>
+    <ctml:longitude>107.46243000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130332" kind="admin2">
+    <ctml:name>Huyện Kon Plông</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q6405298</ctml:wikiDataId>
+    <ctml:latitude>14.75620000</ctml:latitude>
+    <ctml:longitude>108.32057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130348" kind="admin2">
+    <ctml:name>Huyện Lý Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q1320095</ctml:wikiDataId>
+    <ctml:latitude>15.40608000</ctml:latitude>
+    <ctml:longitude>109.09707000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130359" kind="admin2">
+    <ctml:name>Huyện Minh Long</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q2226906</ctml:wikiDataId>
+    <ctml:latitude>14.95375000</ctml:latitude>
+    <ctml:longitude>108.67724000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130366" kind="admin2">
+    <ctml:name>Huyện Mộ Đức</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q10796264</ctml:wikiDataId>
+    <ctml:latitude>14.95515000</ctml:latitude>
+    <ctml:longitude>108.88841000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130383" kind="city">
+    <ctml:name>Huyện Nghĩa Hành</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q3031601</ctml:wikiDataId>
+    <ctml:latitude>14.98712000</ctml:latitude>
+    <ctml:longitude>108.80036000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130388" kind="admin2">
+    <ctml:name>Huyện Ngọc Hồi</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q3711242</ctml:wikiDataId>
+    <ctml:latitude>14.71940000</ctml:latitude>
+    <ctml:longitude>107.62636000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130419" kind="city">
+    <ctml:name>Huyện Sa Thầy</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q7395483</ctml:wikiDataId>
+    <ctml:latitude>14.32050000</ctml:latitude>
+    <ctml:longitude>107.59862000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130424" kind="city">
+    <ctml:name>Huyện Sơn Hà</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q3711485</ctml:wikiDataId>
+    <ctml:latitude>14.98427000</ctml:latitude>
+    <ctml:longitude>108.53643000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130426" kind="city">
+    <ctml:name>Huyện Sơn Tây</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q3711485</ctml:wikiDataId>
+    <ctml:latitude>14.96392000</ctml:latitude>
+    <ctml:longitude>108.36419000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130427" kind="admin2">
+    <ctml:name>Huyện Sơn Tịnh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q3711485</ctml:wikiDataId>
+    <ctml:latitude>15.19090000</ctml:latitude>
+    <ctml:longitude>108.74295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130464" kind="admin2">
+    <ctml:name>Huyện Trà Bồng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q1320227</ctml:wikiDataId>
+    <ctml:latitude>15.23752000</ctml:latitude>
+    <ctml:longitude>108.52633000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130565" kind="admin2">
+    <ctml:name>Kon Tum</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ngãi</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-29</ctml:parentRef>
+    <ctml:wikiDataId>Q36160</ctml:wikiDataId>
+    <ctml:latitude>14.35451000</ctml:latitude>
+    <ctml:longitude>108.00759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130192" kind="admin2">
+    <ctml:name>Cẩm Phả</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1031051</ctml:wikiDataId>
+    <ctml:latitude>21.01004000</ctml:latitude>
+    <ctml:longitude>107.27345000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130193" kind="city">
+    <ctml:name>Cẩm Phả Mines</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q31909451</ctml:wikiDataId>
+    <ctml:latitude>21.01667000</ctml:latitude>
+    <ctml:longitude>107.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130214" kind="city">
+    <ctml:name>Huyện Ba Chẽ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1124233</ctml:wikiDataId>
+    <ctml:latitude>21.29503000</ctml:latitude>
+    <ctml:longitude>107.19298000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130222" kind="city">
+    <ctml:name>Huyện Bình Liêu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q800057</ctml:wikiDataId>
+    <ctml:latitude>21.54389000</ctml:latitude>
+    <ctml:longitude>107.44047000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130268" kind="admin2">
+    <ctml:name>Huyện Cô Tô</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q800052</ctml:wikiDataId>
+    <ctml:latitude>21.05418000</ctml:latitude>
+    <ctml:longitude>107.80698000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130541" kind="city">
+    <ctml:name>Huyện Đầm Hà</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q3593897</ctml:wikiDataId>
+    <ctml:latitude>21.39689000</ctml:latitude>
+    <ctml:longitude>107.56175000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130534" kind="admin2">
+    <ctml:name>Huyện Đông Triều</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>21.11043000</ctml:latitude>
+    <ctml:longitude>106.59662000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130314" kind="city">
+    <ctml:name>Huyện Hải Hà</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q5942590</ctml:wikiDataId>
+    <ctml:latitude>21.49537000</ctml:latitude>
+    <ctml:longitude>107.66790000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130299" kind="admin2">
+    <ctml:name>Huyện Hoành Bồ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q3710927</ctml:wikiDataId>
+    <ctml:latitude>21.11888000</ctml:latitude>
+    <ctml:longitude>107.03149000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130458" kind="city">
+    <ctml:name>Huyện Tiên Yên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q3711538</ctml:wikiDataId>
+    <ctml:latitude>21.37571000</ctml:latitude>
+    <ctml:longitude>107.37468000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130494" kind="city">
+    <ctml:name>Huyện Vân Đồn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q7484836</ctml:wikiDataId>
+    <ctml:latitude>21.04921000</ctml:latitude>
+    <ctml:longitude>107.50971000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130573" kind="admin2">
+    <ctml:name>Móng Cái</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q33204</ctml:wikiDataId>
+    <ctml:latitude>21.52471000</ctml:latitude>
+    <ctml:longitude>107.96619000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130602" kind="city">
+    <ctml:name>Thành Phố Uông Bí</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q7897883</ctml:wikiDataId>
+    <ctml:latitude>21.03433000</ctml:latitude>
+    <ctml:longitude>106.77049000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130242" kind="admin2">
+    <ctml:name>Huyện Cam Lộ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Trị</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-25</ctml:parentRef>
+    <ctml:wikiDataId>Q4838559</ctml:wikiDataId>
+    <ctml:latitude>16.79335000</ctml:latitude>
+    <ctml:longitude>106.96175000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130527" kind="admin2">
+    <ctml:name>Huyện Đa Krông</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Trị</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-25</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>16.55543000</ctml:latitude>
+    <ctml:longitude>106.97208000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130288" kind="admin2">
+    <ctml:name>Huyện Gio Linh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Trị</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-25</ctml:parentRef>
+    <ctml:wikiDataId>Q3031261</ctml:wikiDataId>
+    <ctml:latitude>16.91667000</ctml:latitude>
+    <ctml:longitude>107.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130316" kind="city">
+    <ctml:name>Huyện Hải Lăng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Trị</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-25</ctml:parentRef>
+    <ctml:wikiDataId>Q5942590</ctml:wikiDataId>
+    <ctml:latitude>16.67574000</ctml:latitude>
+    <ctml:longitude>107.23388000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130311" kind="city">
+    <ctml:name>Huyện Hướng Hóa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Trị</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-25</ctml:parentRef>
+    <ctml:wikiDataId>Q5942590</ctml:wikiDataId>
+    <ctml:latitude>16.70132000</ctml:latitude>
+    <ctml:longitude>106.67036000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130352" kind="city">
+    <ctml:name>Huyện Lệ Thủy</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Trị</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1320095</ctml:wikiDataId>
+    <ctml:latitude>17.11239000</ctml:latitude>
+    <ctml:longitude>106.70471000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130407" kind="admin2">
+    <ctml:name>Huyện Quảng Ninh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Trị</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-25</ctml:parentRef>
+    <ctml:wikiDataId>Q596473</ctml:wikiDataId>
+    <ctml:latitude>17.27067000</ctml:latitude>
+    <ctml:longitude>106.51387000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130408" kind="city">
+    <ctml:name>Huyện Quảng Trạch</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Trị</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-25</ctml:parentRef>
+    <ctml:wikiDataId>Q596473</ctml:wikiDataId>
+    <ctml:latitude>17.83447000</ctml:latitude>
+    <ctml:longitude>106.36705000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130462" kind="admin2">
+    <ctml:name>Huyện Triệu Phong</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Trị</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1320227</ctml:wikiDataId>
+    <ctml:latitude>16.78132000</ctml:latitude>
+    <ctml:longitude>107.16034000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130477" kind="admin2">
+    <ctml:name>Huyện Tuyên Hóa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Trị</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-25</ctml:parentRef>
+    <ctml:wikiDataId>Q2232329</ctml:wikiDataId>
+    <ctml:latitude>17.91323000</ctml:latitude>
+    <ctml:longitude>106.02678000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130500" kind="admin2">
+    <ctml:name>Huyện Vĩnh Linh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Trị</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-25</ctml:parentRef>
+    <ctml:wikiDataId>Q7932536</ctml:wikiDataId>
+    <ctml:latitude>17.01600000</ctml:latitude>
+    <ctml:longitude>106.93384000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130566" kind="city">
+    <ctml:name>Kwang Binh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Quảng Trị</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1877</ctml:wikiDataId>
+    <ctml:latitude>17.46885000</ctml:latitude>
+    <ctml:longitude>106.62226000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130238" kind="admin2">
+    <ctml:name>Huyện Bắc Yên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Sơn La</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-05</ctml:parentRef>
+    <ctml:wikiDataId>Q4838559</ctml:wikiDataId>
+    <ctml:latitude>21.25042000</ctml:latitude>
+    <ctml:longitude>104.38501000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130356" kind="city">
+    <ctml:name>Huyện Mai Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Sơn La</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2226906</ctml:wikiDataId>
+    <ctml:latitude>21.15884000</ctml:latitude>
+    <ctml:longitude>104.04821000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130367" kind="admin2">
+    <ctml:name>Huyện Mộc Châu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Sơn La</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-05</ctml:parentRef>
+    <ctml:wikiDataId>Q10796264</ctml:wikiDataId>
+    <ctml:latitude>21.83333000</ctml:latitude>
+    <ctml:longitude>104.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130363" kind="admin2">
+    <ctml:name>Huyện Mường La</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Sơn La</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-05</ctml:parentRef>
+    <ctml:wikiDataId>Q10796264</ctml:wikiDataId>
+    <ctml:latitude>21.52960000</ctml:latitude>
+    <ctml:longitude>104.11113000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130398" kind="city">
+    <ctml:name>Huyện Phù Yên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Sơn La</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-05</ctml:parentRef>
+    <ctml:wikiDataId>Q724739</ctml:wikiDataId>
+    <ctml:latitude>21.21412000</ctml:latitude>
+    <ctml:longitude>104.68993000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130416" kind="city">
+    <ctml:name>Huyện Quỳnh Nhai</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Sơn La</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-05</ctml:parentRef>
+    <ctml:wikiDataId>Q5370368</ctml:wikiDataId>
+    <ctml:latitude>21.77224000</ctml:latitude>
+    <ctml:longitude>103.64920000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130422" kind="city">
+    <ctml:name>Huyện Sông Mã</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Sơn La</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-05</ctml:parentRef>
+    <ctml:wikiDataId>Q7395483</ctml:wikiDataId>
+    <ctml:latitude>21.06971000</ctml:latitude>
+    <ctml:longitude>103.68727000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130440" kind="city">
+    <ctml:name>Huyện Thuận Châu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Sơn La</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3031911</ctml:wikiDataId>
+    <ctml:latitude>21.42319000</ctml:latitude>
+    <ctml:longitude>103.64408000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130512" kind="admin2">
+    <ctml:name>Huyện Yên Châu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Sơn La</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-05</ctml:parentRef>
+    <ctml:wikiDataId>Q8052181</ctml:wikiDataId>
+    <ctml:latitude>21.00500000</ctml:latitude>
+    <ctml:longitude>104.33264000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130190" kind="admin2">
+    <ctml:name>Cần Giuộc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q25262</ctml:wikiDataId>
+    <ctml:latitude>10.60857000</ctml:latitude>
+    <ctml:longitude>106.67135000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130239" kind="admin2">
+    <ctml:name>Huyện Bến Cầu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q4838559</ctml:wikiDataId>
+    <ctml:latitude>11.12889000</ctml:latitude>
+    <ctml:longitude>106.14296000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130240" kind="admin2">
+    <ctml:name>Huyện Bến Lức</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q4838559</ctml:wikiDataId>
+    <ctml:latitude>10.68858000</ctml:latitude>
+    <ctml:longitude>106.45484000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130271" kind="admin2">
+    <ctml:name>Huyện Cần Đước</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q800052</ctml:wikiDataId>
+    <ctml:latitude>10.54148000</ctml:latitude>
+    <ctml:longitude>106.59636000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130270" kind="admin2">
+    <ctml:name>Huyện Cần Giuộc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q800052</ctml:wikiDataId>
+    <ctml:latitude>10.57742000</ctml:latitude>
+    <ctml:longitude>106.67279000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130251" kind="admin2">
+    <ctml:name>Huyện Châu Thành</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q3710806</ctml:wikiDataId>
+    <ctml:latitude>10.45214000</ctml:latitude>
+    <ctml:longitude>106.49015000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130282" kind="admin2">
+    <ctml:name>Huyện Dương Minh Châu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q3031197</ctml:wikiDataId>
+    <ctml:latitude>11.31833000</ctml:latitude>
+    <ctml:longitude>106.25697000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130551" kind="admin2">
+    <ctml:name>Huyện Đức Hòa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q5311201</ctml:wikiDataId>
+    <ctml:latitude>10.87838000</ctml:latitude>
+    <ctml:longitude>106.42422000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130550" kind="admin2">
+    <ctml:name>Huyện Đức Huệ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q5295775</ctml:wikiDataId>
+    <ctml:latitude>10.86473000</ctml:latitude>
+    <ctml:longitude>106.25914000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130294" kind="admin2">
+    <ctml:name>Huyện Gò Dầu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q3710927</ctml:wikiDataId>
+    <ctml:latitude>11.15737000</ctml:latitude>
+    <ctml:longitude>106.27307000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130306" kind="city">
+    <ctml:name>Huyện Hòa Thành</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q5874252</ctml:wikiDataId>
+    <ctml:latitude>11.26706000</ctml:latitude>
+    <ctml:longitude>106.14486000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130368" kind="admin2">
+    <ctml:name>Huyện Mộc Hóa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q10796264</ctml:wikiDataId>
+    <ctml:latitude>10.75166000</ctml:latitude>
+    <ctml:longitude>106.01729000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130480" kind="admin2">
+    <ctml:name>Huyện Tân Châu</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q3711512</ctml:wikiDataId>
+    <ctml:latitude>11.58739000</ctml:latitude>
+    <ctml:longitude>106.28270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130482" kind="admin2">
+    <ctml:name>Huyện Tân Hưng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q3711512</ctml:wikiDataId>
+    <ctml:latitude>10.83380000</ctml:latitude>
+    <ctml:longitude>105.68848000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130488" kind="admin2">
+    <ctml:name>Huyện Tân Thạnh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q3711512</ctml:wikiDataId>
+    <ctml:latitude>10.60351000</ctml:latitude>
+    <ctml:longitude>105.96576000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130489" kind="admin2">
+    <ctml:name>Huyện Tân Trụ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q3711512</ctml:wikiDataId>
+    <ctml:latitude>10.53182000</ctml:latitude>
+    <ctml:longitude>106.51644000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130448" kind="admin2">
+    <ctml:name>Huyện Thạnh Hóa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q7710339</ctml:wikiDataId>
+    <ctml:latitude>10.66667000</ctml:latitude>
+    <ctml:longitude>106.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130454" kind="admin2">
+    <ctml:name>Huyện Thủ Thừa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q7786654</ctml:wikiDataId>
+    <ctml:latitude>10.65639000</ctml:latitude>
+    <ctml:longitude>106.34580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130472" kind="admin2">
+    <ctml:name>Huyện Trảng Bàng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q286486</ctml:wikiDataId>
+    <ctml:latitude>11.05720000</ctml:latitude>
+    <ctml:longitude>106.37539000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130499" kind="admin2">
+    <ctml:name>Huyện Vĩnh Hưng</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q7484836</ctml:wikiDataId>
+    <ctml:latitude>10.88299000</ctml:latitude>
+    <ctml:longitude>105.80364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130581" kind="city">
+    <ctml:name>Phú Khương</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tây Ninh</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-37</ctml:parentRef>
+    <ctml:wikiDataId>Q32224301</ctml:wikiDataId>
+    <ctml:latitude>11.28333000</ctml:latitude>
+    <ctml:longitude>106.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130178" kind="admin2">
+    <ctml:name>Bắc Kạn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thái Nguyên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-69</ctml:parentRef>
+    <ctml:wikiDataId>Q75700</ctml:wikiDataId>
+    <ctml:latitude>22.14701000</ctml:latitude>
+    <ctml:longitude>105.83481000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130213" kind="city">
+    <ctml:name>Huyện Ba Bể</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thái Nguyên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-69</ctml:parentRef>
+    <ctml:wikiDataId>Q1124233</ctml:wikiDataId>
+    <ctml:latitude>22.41667000</ctml:latitude>
+    <ctml:longitude>105.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130228" kind="admin2">
+    <ctml:name>Huyện Bạch Thông</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thái Nguyên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-69</ctml:parentRef>
+    <ctml:wikiDataId>Q3710674</ctml:wikiDataId>
+    <ctml:latitude>22.25758000</ctml:latitude>
+    <ctml:longitude>105.83295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130263" kind="admin2">
+    <ctml:name>Huyện Chợ Đồn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thái Nguyên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-69</ctml:parentRef>
+    <ctml:wikiDataId>Q800052</ctml:wikiDataId>
+    <ctml:latitude>22.18681000</ctml:latitude>
+    <ctml:longitude>105.57280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130374" kind="city">
+    <ctml:name>Huyện Na Rì</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thái Nguyên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-69</ctml:parentRef>
+    <ctml:wikiDataId>Q3711221</ctml:wikiDataId>
+    <ctml:latitude>22.17883000</ctml:latitude>
+    <ctml:longitude>106.11221000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130387" kind="city">
+    <ctml:name>Huyện Ngân Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thái Nguyên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-69</ctml:parentRef>
+    <ctml:wikiDataId>Q3711242</ctml:wikiDataId>
+    <ctml:latitude>22.42962000</ctml:latitude>
+    <ctml:longitude>106.01030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130608" kind="admin2">
+    <ctml:name>Thị Xã Bắc Kạn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thái Nguyên</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-69</ctml:parentRef>
+    <ctml:wikiDataId>Q26581</ctml:wikiDataId>
+    <ctml:latitude>22.14130000</ctml:latitude>
+    <ctml:longitude>105.83867000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130181" kind="city">
+    <ctml:name>Bỉm Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q31887770</ctml:wikiDataId>
+    <ctml:latitude>20.07806000</ctml:latitude>
+    <ctml:longitude>105.86028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130218" kind="admin2">
+    <ctml:name>Huyện Bá Thước</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3710671</ctml:wikiDataId>
+    <ctml:latitude>20.35767000</ctml:latitude>
+    <ctml:longitude>105.25301000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130276" kind="admin2">
+    <ctml:name>Huyện Cẩm Thủy</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3031197</ctml:wikiDataId>
+    <ctml:latitude>20.19586000</ctml:latitude>
+    <ctml:longitude>105.46817000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130533" kind="city">
+    <ctml:name>Huyện Đông Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q5295738</ctml:wikiDataId>
+    <ctml:latitude>19.79742000</ctml:latitude>
+    <ctml:longitude>105.72465000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130301" kind="admin2">
+    <ctml:name>Huyện Hà Trung</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3710927</ctml:wikiDataId>
+    <ctml:latitude>20.02654000</ctml:latitude>
+    <ctml:longitude>105.81931000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130317" kind="admin2">
+    <ctml:name>Huyện Hậu Lộc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q5942590</ctml:wikiDataId>
+    <ctml:latitude>19.93337000</ctml:latitude>
+    <ctml:longitude>105.88894000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130341" kind="city">
+    <ctml:name>Huyện Lang Chánh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q6473680</ctml:wikiDataId>
+    <ctml:latitude>20.15926000</ctml:latitude>
+    <ctml:longitude>105.15071000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130364" kind="admin2">
+    <ctml:name>Huyện Mường Lát</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q10796264</ctml:wikiDataId>
+    <ctml:latitude>20.52763000</ctml:latitude>
+    <ctml:longitude>104.62941000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130380" kind="admin2">
+    <ctml:name>Huyện Nga Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3031601</ctml:wikiDataId>
+    <ctml:latitude>20.01561000</ctml:latitude>
+    <ctml:longitude>105.98975000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130389" kind="admin2">
+    <ctml:name>Huyện Ngọc Lặc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3711242</ctml:wikiDataId>
+    <ctml:latitude>20.06777000</ctml:latitude>
+    <ctml:longitude>105.37386000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130391" kind="admin2">
+    <ctml:name>Huyện Như Thanh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3711242</ctml:wikiDataId>
+    <ctml:latitude>19.57798000</ctml:latitude>
+    <ctml:longitude>105.55616000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130392" kind="admin2">
+    <ctml:name>Huyện Như Xuân</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3711242</ctml:wikiDataId>
+    <ctml:latitude>19.62527000</ctml:latitude>
+    <ctml:longitude>105.38856000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130393" kind="admin2">
+    <ctml:name>Huyện Nông Cống</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3711242</ctml:wikiDataId>
+    <ctml:latitude>19.61376000</ctml:latitude>
+    <ctml:longitude>105.68279000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130404" kind="city">
+    <ctml:name>Huyện Quan Hóa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3091652</ctml:wikiDataId>
+    <ctml:latitude>20.47565000</ctml:latitude>
+    <ctml:longitude>104.95335000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130405" kind="city">
+    <ctml:name>Huyện Quan Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3091652</ctml:wikiDataId>
+    <ctml:latitude>20.25758000</ctml:latitude>
+    <ctml:longitude>104.83416000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130409" kind="admin2">
+    <ctml:name>Huyện Quảng Xương</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q596473</ctml:wikiDataId>
+    <ctml:latitude>19.70252000</ctml:latitude>
+    <ctml:longitude>105.79298000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130439" kind="admin2">
+    <ctml:name>Huyện Thiệu Hóa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3031911</ctml:wikiDataId>
+    <ctml:latitude>19.89713000</ctml:latitude>
+    <ctml:longitude>105.68144000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130451" kind="admin2">
+    <ctml:name>Huyện Thọ Xuân</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3711530</ctml:wikiDataId>
+    <ctml:latitude>19.93114000</ctml:latitude>
+    <ctml:longitude>105.48284000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130445" kind="admin2">
+    <ctml:name>Huyện Thường Xuân</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3711534</ctml:wikiDataId>
+    <ctml:latitude>19.93684000</ctml:latitude>
+    <ctml:longitude>105.24109000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130463" kind="admin2">
+    <ctml:name>Huyện Triệu Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1320227</ctml:wikiDataId>
+    <ctml:latitude>19.82578000</ctml:latitude>
+    <ctml:longitude>105.58293000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130501" kind="admin2">
+    <ctml:name>Huyện Vĩnh Lộc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7932536</ctml:wikiDataId>
+    <ctml:latitude>20.03482000</ctml:latitude>
+    <ctml:longitude>105.65755000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130522" kind="admin2">
+    <ctml:name>Huyện Yên Định</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thanh Hóa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1924620</ctml:wikiDataId>
+    <ctml:latitude>19.98666000</ctml:latitude>
+    <ctml:longitude>105.61482000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130207" kind="city">
+    <ctml:name>Huyện A Lưới</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thừa Thiên-Huế</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-26</ctml:parentRef>
+    <ctml:wikiDataId>Q724711</ctml:wikiDataId>
+    <ctml:latitude>16.23422000</ctml:latitude>
+    <ctml:longitude>107.30650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130379" kind="admin2">
+    <ctml:name>Huyện Nam Đông</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thừa Thiên-Huế</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-26</ctml:parentRef>
+    <ctml:wikiDataId>Q3031601</ctml:wikiDataId>
+    <ctml:latitude>16.12396000</ctml:latitude>
+    <ctml:longitude>107.69270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130395" kind="city">
+    <ctml:name>Huyện Phong Điền</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thừa Thiên-Huế</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-26</ctml:parentRef>
+    <ctml:wikiDataId>Q724739</ctml:wikiDataId>
+    <ctml:latitude>16.48769000</ctml:latitude>
+    <ctml:longitude>107.28889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130399" kind="admin2">
+    <ctml:name>Huyện Phú Lộc</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thừa Thiên-Huế</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-26</ctml:parentRef>
+    <ctml:wikiDataId>Q724739</ctml:wikiDataId>
+    <ctml:latitude>16.27066000</ctml:latitude>
+    <ctml:longitude>107.88545000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130402" kind="admin2">
+    <ctml:name>Huyện Phú Vang</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thừa Thiên-Huế</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-26</ctml:parentRef>
+    <ctml:wikiDataId>Q1319796</ctml:wikiDataId>
+    <ctml:latitude>16.47007000</ctml:latitude>
+    <ctml:longitude>107.71458000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130410" kind="admin2">
+    <ctml:name>Huyện Quảng Ðiền</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Thừa Thiên-Huế</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-26</ctml:parentRef>
+    <ctml:wikiDataId>Q596473</ctml:wikiDataId>
+    <ctml:latitude>16.57941000</ctml:latitude>
+    <ctml:longitude>107.49370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130555" kind="admin2">
+    <ctml:name>Hà Giang</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tuyên Quang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-07</ctml:parentRef>
+    <ctml:wikiDataId>Q36519</ctml:wikiDataId>
+    <ctml:latitude>22.82333000</ctml:latitude>
+    <ctml:longitude>104.98357000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130235" kind="city">
+    <ctml:name>Huyện Bắc Mê</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tuyên Quang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-07</ctml:parentRef>
+    <ctml:wikiDataId>Q4838559</ctml:wikiDataId>
+    <ctml:latitude>22.75477000</ctml:latitude>
+    <ctml:longitude>105.29023000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130236" kind="admin2">
+    <ctml:name>Huyện Bắc Quang</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tuyên Quang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-07</ctml:parentRef>
+    <ctml:wikiDataId>Q4838559</ctml:wikiDataId>
+    <ctml:latitude>22.42301000</ctml:latitude>
+    <ctml:longitude>104.91831000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130247" kind="admin2">
+    <ctml:name>Huyện Chiêm Hóa</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tuyên Quang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3710815</ctml:wikiDataId>
+    <ctml:latitude>22.17895000</ctml:latitude>
+    <ctml:longitude>105.27671000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130548" kind="city">
+    <ctml:name>Huyện Đồng Văn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tuyên Quang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-07</ctml:parentRef>
+    <ctml:wikiDataId>Q5295775</ctml:wikiDataId>
+    <ctml:latitude>23.25449000</ctml:latitude>
+    <ctml:longitude>105.27626000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130305" kind="admin2">
+    <ctml:name>Huyện Hàm Yên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tuyên Quang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3710957</ctml:wikiDataId>
+    <ctml:latitude>22.10935000</ctml:latitude>
+    <ctml:longitude>105.01630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130345" kind="city">
+    <ctml:name>Huyện Lâm Bình</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tuyên Quang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3711115</ctml:wikiDataId>
+    <ctml:latitude>22.46411000</ctml:latitude>
+    <ctml:longitude>105.21903000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130373" kind="admin2">
+    <ctml:name>Huyện Na Hang</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tuyên Quang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3711220</ctml:wikiDataId>
+    <ctml:latitude>22.47522000</ctml:latitude>
+    <ctml:longitude>105.48380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130406" kind="admin2">
+    <ctml:name>Huyện Quang Bình</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tuyên Quang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3091652</ctml:wikiDataId>
+    <ctml:latitude>22.41507000</ctml:latitude>
+    <ctml:longitude>104.66018000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130423" kind="admin2">
+    <ctml:name>Huyện Sơn Dương</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tuyên Quang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3711485</ctml:wikiDataId>
+    <ctml:latitude>21.63623000</ctml:latitude>
+    <ctml:longitude>105.38901000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130508" kind="city">
+    <ctml:name>Huyện Vị Xuyên</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tuyên Quang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-07</ctml:parentRef>
+    <ctml:wikiDataId>Q7932536</ctml:wikiDataId>
+    <ctml:latitude>22.73096000</ctml:latitude>
+    <ctml:longitude>104.90827000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130511" kind="city">
+    <ctml:name>Huyện Xín Mần</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tuyên Quang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1758257</ctml:wikiDataId>
+    <ctml:latitude>22.64148000</ctml:latitude>
+    <ctml:longitude>104.52089000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130516" kind="admin2">
+    <ctml:name>Huyện Yên Minh</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tuyên Quang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-07</ctml:parentRef>
+    <ctml:wikiDataId>Q8052181</ctml:wikiDataId>
+    <ctml:latitude>23.06992000</ctml:latitude>
+    <ctml:longitude>105.17865000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130519" kind="city">
+    <ctml:name>Huyện Yên Sơn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Tuyên Quang</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3711616</ctml:wikiDataId>
+    <ctml:latitude>21.88363000</ctml:latitude>
+    <ctml:longitude>105.27656000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VNM-130635" kind="city">
+    <ctml:name>Ấp Tân Ngãi</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q33343</ctml:wikiDataId>
+    <ctml:latitude>10.23333000</ctml:latitude>
+    <ctml:longitude>106.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130215" kind="admin2">
+    <ctml:name>Huyện Ba Tri</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q3710671</ctml:wikiDataId>
+    <ctml:latitude>10.06627000</ctml:latitude>
+    <ctml:longitude>106.60554000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130226" kind="admin2">
+    <ctml:name>Huyện Bình Đại</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q3710726</ctml:wikiDataId>
+    <ctml:latitude>10.19354000</ctml:latitude>
+    <ctml:longitude>106.64455000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130265" kind="admin2">
+    <ctml:name>Huyện Càng Long</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q800052</ctml:wikiDataId>
+    <ctml:latitude>9.95883000</ctml:latitude>
+    <ctml:longitude>106.21395000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130272" kind="admin2">
+    <ctml:name>Huyện Cầu Kè</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q800052</ctml:wikiDataId>
+    <ctml:latitude>9.86738000</ctml:latitude>
+    <ctml:longitude>106.07916000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130273" kind="admin2">
+    <ctml:name>Huyện Cầu Ngang</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q800052</ctml:wikiDataId>
+    <ctml:latitude>9.77186000</ctml:latitude>
+    <ctml:longitude>106.43654000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130250" kind="admin2">
+    <ctml:name>Huyện Châu Thành</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q3710806</ctml:wikiDataId>
+    <ctml:latitude>10.29212000</ctml:latitude>
+    <ctml:longitude>106.30827000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130261" kind="admin2">
+    <ctml:name>Huyện Chợ Lách</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q567923</ctml:wikiDataId>
+    <ctml:latitude>10.22674000</ctml:latitude>
+    <ctml:longitude>106.17077000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130291" kind="admin2">
+    <ctml:name>Huyện Giồng Trôm</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q3710927</ctml:wikiDataId>
+    <ctml:latitude>10.15909000</ctml:latitude>
+    <ctml:longitude>106.47004000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130342" kind="admin2">
+    <ctml:name>Huyện Long Hồ</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q3711115</ctml:wikiDataId>
+    <ctml:latitude>10.21640000</ctml:latitude>
+    <ctml:longitude>105.98483000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130357" kind="admin2">
+    <ctml:name>Huyện Mang Thít</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q2226906</ctml:wikiDataId>
+    <ctml:latitude>10.18731000</ctml:latitude>
+    <ctml:longitude>106.07472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130428" kind="admin2">
+    <ctml:name>Huyện Tam Bình</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q3711485</ctml:wikiDataId>
+    <ctml:latitude>10.08127000</ctml:latitude>
+    <ctml:longitude>105.95352000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130449" kind="admin2">
+    <ctml:name>Huyện Thạnh Phú</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q3711530</ctml:wikiDataId>
+    <ctml:latitude>9.92993000</ctml:latitude>
+    <ctml:longitude>106.54316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130460" kind="admin2">
+    <ctml:name>Huyện Tiểu Cần</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q3711538</ctml:wikiDataId>
+    <ctml:latitude>9.80350000</ctml:latitude>
+    <ctml:longitude>106.20594000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130465" kind="admin2">
+    <ctml:name>Huyện Trà Cú</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q7831038</ctml:wikiDataId>
+    <ctml:latitude>9.69706000</ctml:latitude>
+    <ctml:longitude>106.29423000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130468" kind="admin2">
+    <ctml:name>Huyện Trà Ôn</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q7831038</ctml:wikiDataId>
+    <ctml:latitude>9.97522000</ctml:latitude>
+    <ctml:longitude>106.00957000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VNM-130505" kind="admin2">
+    <ctml:name>Huyện Vũng Liêm</ctml:name>
+    <ctml:country>VNM</ctml:country>
+    <ctml:admin1>Vĩnh Long</ctml:admin1>
+    <ctml:parentRef>place:admin1:VN-49</ctml:parentRef>
+    <ctml:wikiDataId>Q7932536</ctml:wikiDataId>
+    <ctml:latitude>10.08717000</ctml:latitude>
+    <ctml:longitude>106.16038000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

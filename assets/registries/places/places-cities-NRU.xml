@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:NRU-79762" kind="city">
+    <ctml:name>Arijejen</ctml:name>
+    <ctml:country>NRU</ctml:country>
+    <ctml:admin1>Aiwo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NR-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1835785</ctml:wikiDataId>
+    <ctml:latitude>-0.52545000</ctml:latitude>
+    <ctml:longitude>166.91247000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NRU-79765" kind="city">
+    <ctml:name>Menen</ctml:name>
+    <ctml:country>NRU</ctml:country>
+    <ctml:admin1>Meneng</ctml:admin1>
+    <ctml:parentRef>place:admin1:NR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1835785</ctml:wikiDataId>
+    <ctml:latitude>-0.54539000</ctml:latitude>
+    <ctml:longitude>166.94871000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NRU-79767" kind="city">
+    <ctml:name>Yaren</ctml:name>
+    <ctml:country>NRU</ctml:country>
+    <ctml:admin1>Yaren</ctml:admin1>
+    <ctml:parentRef>place:admin1:NR-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1835785</ctml:wikiDataId>
+    <ctml:latitude>-0.55085000</ctml:latitude>
+    <ctml:longitude>166.92520000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

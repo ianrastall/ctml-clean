@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ALB-153" kind="city">
+    <ctml:name>Banaj</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Berat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3301181</ctml:wikiDataId>
+    <ctml:latitude>40.82492000</ctml:latitude>
+    <ctml:longitude>19.84074000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-154" kind="city">
+    <ctml:name>Bashkia Berat</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Berat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3301181</ctml:wikiDataId>
+    <ctml:latitude>40.69997000</ctml:latitude>
+    <ctml:longitude>19.94983000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-170" kind="city">
+    <ctml:name>Bashkia Kuçovë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Berat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-01</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.82489000</ctml:latitude>
+    <ctml:longitude>19.95350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-180" kind="city">
+    <ctml:name>Bashkia Poliçan</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Berat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-01</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.58608000</ctml:latitude>
+    <ctml:longitude>20.04535000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-186" kind="city">
+    <ctml:name>Bashkia Skrapar</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Berat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-01</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.56036000</ctml:latitude>
+    <ctml:longitude>20.25477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-280" kind="admin2">
+    <ctml:name>Çorovodë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Berat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-01</ctml:parentRef>
+    <ctml:wikiDataId>Q19307</ctml:wikiDataId>
+    <ctml:latitude>40.50417000</ctml:latitude>
+    <ctml:longitude>20.22722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-219" kind="admin2">
+    <ctml:name>Kuçovë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Berat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-01</ctml:parentRef>
+    <ctml:wikiDataId>Q18774</ctml:wikiDataId>
+    <ctml:latitude>40.80028000</ctml:latitude>
+    <ctml:longitude>19.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-238" kind="city">
+    <ctml:name>Poliçan</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Berat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-01</ctml:parentRef>
+    <ctml:wikiDataId>Q18751</ctml:wikiDataId>
+    <ctml:latitude>40.61222000</ctml:latitude>
+    <ctml:longitude>20.09806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-242" kind="city">
+    <ctml:name>Rrethi i Beratit</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Berat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-01</ctml:parentRef>
+    <ctml:wikiDataId>Q202981</ctml:wikiDataId>
+    <ctml:latitude>40.66667000</ctml:latitude>
+    <ctml:longitude>20.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-253" kind="city">
+    <ctml:name>Rrethi i Kuçovës</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Berat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-01</ctml:parentRef>
+    <ctml:wikiDataId>Q211946</ctml:wikiDataId>
+    <ctml:latitude>40.83333000</ctml:latitude>
+    <ctml:longitude>19.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-258" kind="city">
+    <ctml:name>Rrethi i Skraparit</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Berat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-01</ctml:parentRef>
+    <ctml:wikiDataId>Q194381</ctml:wikiDataId>
+    <ctml:latitude>40.55000000</ctml:latitude>
+    <ctml:longitude>20.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-157044" kind="city">
+    <ctml:name>Skrapar</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Berat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-01</ctml:parentRef>
+    <ctml:wikiDataId>Q20850560</ctml:wikiDataId>
+    <ctml:latitude>40.54071390</ctml:latitude>
+    <ctml:longitude>20.10188400</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-273" kind="city">
+    <ctml:name>Ura Vajgurore</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Berat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1524575</ctml:wikiDataId>
+    <ctml:latitude>40.76889000</ctml:latitude>
+    <ctml:longitude>19.87778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-155" kind="city">
+    <ctml:name>Bashkia Bulqizë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Dibër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3301181</ctml:wikiDataId>
+    <ctml:latitude>41.47152000</ctml:latitude>
+    <ctml:longitude>20.33192000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-165" kind="city">
+    <ctml:name>Bashkia Klos</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Dibër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-09</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>41.50826000</ctml:latitude>
+    <ctml:longitude>20.07107000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-176" kind="city">
+    <ctml:name>Bashkia Mat</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Dibër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-09</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>41.63317000</ctml:latitude>
+    <ctml:longitude>20.01228000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-193" kind="admin2">
+    <ctml:name>Bulqizë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Dibër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-09</ctml:parentRef>
+    <ctml:wikiDataId>Q463384</ctml:wikiDataId>
+    <ctml:latitude>41.49167000</ctml:latitude>
+    <ctml:longitude>20.22194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-194" kind="admin2">
+    <ctml:name>Burrel</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Dibër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-09</ctml:parentRef>
+    <ctml:wikiDataId>Q461313</ctml:wikiDataId>
+    <ctml:latitude>41.61028000</ctml:latitude>
+    <ctml:longitude>20.00889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-157052" kind="city">
+    <ctml:name>Dibër</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Dibër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-09</ctml:parentRef>
+    <ctml:wikiDataId>Q13037427</ctml:wikiDataId>
+    <ctml:latitude>41.73099090</ctml:latitude>
+    <ctml:longitude>20.18908580</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-209" kind="city">
+    <ctml:name>Klos</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Dibër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-09</ctml:parentRef>
+    <ctml:wikiDataId>Q278613</ctml:wikiDataId>
+    <ctml:latitude>41.50694000</ctml:latitude>
+    <ctml:longitude>20.08667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-157055" kind="city">
+    <ctml:name>Mat</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Dibër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-09</ctml:parentRef>
+    <ctml:wikiDataId>Q202665</ctml:wikiDataId>
+    <ctml:latitude>41.63648120</ctml:latitude>
+    <ctml:longitude>19.84055600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-243" kind="city">
+    <ctml:name>Rrethi i Bulqizës</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Dibër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-09</ctml:parentRef>
+    <ctml:wikiDataId>Q191872</ctml:wikiDataId>
+    <ctml:latitude>41.50000000</ctml:latitude>
+    <ctml:longitude>20.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-246" kind="city">
+    <ctml:name>Rrethi i Dibrës</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Dibër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-09</ctml:parentRef>
+    <ctml:wikiDataId>Q192123</ctml:wikiDataId>
+    <ctml:latitude>41.75000000</ctml:latitude>
+    <ctml:longitude>20.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-256" kind="city">
+    <ctml:name>Rrethi i Matit</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Dibër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-09</ctml:parentRef>
+    <ctml:wikiDataId>Q202665</ctml:wikiDataId>
+    <ctml:latitude>41.58333000</ctml:latitude>
+    <ctml:longitude>20.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-272" kind="city">
+    <ctml:name>Ulëz</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Dibër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2542462</ctml:wikiDataId>
+    <ctml:latitude>41.68278000</ctml:latitude>
+    <ctml:longitude>19.89333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-159" kind="city">
+    <ctml:name>Bashkia Durrës</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Durrës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-02</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>41.42743000</ctml:latitude>
+    <ctml:longitude>19.48690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-168" kind="city">
+    <ctml:name>Bashkia Krujë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Durrës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-02</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>41.50091000</ctml:latitude>
+    <ctml:longitude>19.72571000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-185" kind="city">
+    <ctml:name>Bashkia Shijak</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Durrës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-02</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>41.33558000</ctml:latitude>
+    <ctml:longitude>19.58977000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-157045" kind="city">
+    <ctml:name>Durrës</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Durrës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-02</ctml:parentRef>
+    <ctml:wikiDataId>Q83285</ctml:wikiDataId>
+    <ctml:latitude>41.33139290</ctml:latitude>
+    <ctml:longitude>19.42515790</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-198" kind="city">
+    <ctml:name>Durrës District</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Durrës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-02</ctml:parentRef>
+    <ctml:wikiDataId>Q37662</ctml:wikiDataId>
+    <ctml:latitude>41.31660000</ctml:latitude>
+    <ctml:longitude>19.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-203" kind="city">
+    <ctml:name>Fushë-Krujë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Durrës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-02</ctml:parentRef>
+    <ctml:wikiDataId>Q22012409</ctml:wikiDataId>
+    <ctml:latitude>41.47833000</ctml:latitude>
+    <ctml:longitude>19.71778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-214" kind="admin2">
+    <ctml:name>Krujë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Durrës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-02</ctml:parentRef>
+    <ctml:wikiDataId>Q194164</ctml:wikiDataId>
+    <ctml:latitude>41.50917000</ctml:latitude>
+    <ctml:longitude>19.79278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-250" kind="city">
+    <ctml:name>Rrethi i Krujës</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Durrës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-02</ctml:parentRef>
+    <ctml:wikiDataId>Q194178</ctml:wikiDataId>
+    <ctml:latitude>41.55000000</ctml:latitude>
+    <ctml:longitude>19.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-265" kind="city">
+    <ctml:name>Shijak</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Durrës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-02</ctml:parentRef>
+    <ctml:wikiDataId>Q18791</ctml:wikiDataId>
+    <ctml:latitude>41.34556000</ctml:latitude>
+    <ctml:longitude>19.56722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-269" kind="city">
+    <ctml:name>Sukth</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Durrës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-02</ctml:parentRef>
+    <ctml:wikiDataId>Q593557</ctml:wikiDataId>
+    <ctml:latitude>41.38056000</ctml:latitude>
+    <ctml:longitude>19.53778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-157048" kind="admin2">
+    <ctml:name>Gramsh</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Elbasan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-03</ctml:parentRef>
+    <ctml:wikiDataId>Q13037411</ctml:wikiDataId>
+    <ctml:latitude>40.86614460</ctml:latitude>
+    <ctml:longitude>20.17637010</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-157046" kind="admin2">
+    <ctml:name>Librazhd</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Elbasan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-03</ctml:parentRef>
+    <ctml:wikiDataId>Q13037422</ctml:wikiDataId>
+    <ctml:latitude>41.18323980</ctml:latitude>
+    <ctml:longitude>20.30362480</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-157047" kind="admin2">
+    <ctml:name>Peqin</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Elbasan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-03</ctml:parentRef>
+    <ctml:wikiDataId>Q13037426</ctml:wikiDataId>
+    <ctml:latitude>41.04641030</ctml:latitude>
+    <ctml:longitude>19.74050040</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-152" kind="admin2">
+    <ctml:name>Ballsh</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Fier</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-04</ctml:parentRef>
+    <ctml:wikiDataId>Q743016</ctml:wikiDataId>
+    <ctml:latitude>40.59889000</ctml:latitude>
+    <ctml:longitude>19.73472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-157" kind="city">
+    <ctml:name>Bashkia Divjakë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Fier</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-04</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.95716000</ctml:latitude>
+    <ctml:longitude>19.52364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-160" kind="city">
+    <ctml:name>Bashkia Fier</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Fier</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-04</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.72937000</ctml:latitude>
+    <ctml:longitude>19.48690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-174" kind="city">
+    <ctml:name>Bashkia Mallakastër</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Fier</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-04</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.55669000</ctml:latitude>
+    <ctml:longitude>19.77347000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-179" kind="city">
+    <ctml:name>Bashkia Patos</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Fier</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-04</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.67793000</ctml:latitude>
+    <ctml:longitude>19.65591000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-196" kind="city">
+    <ctml:name>Divjakë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Fier</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1945622</ctml:wikiDataId>
+    <ctml:latitude>40.99667000</ctml:latitude>
+    <ctml:longitude>19.52944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-201" kind="city">
+    <ctml:name>Fier-Çifçi</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Fier</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-04</ctml:parentRef>
+    <ctml:wikiDataId>Q22012402</ctml:wikiDataId>
+    <ctml:latitude>40.71667000</ctml:latitude>
+    <ctml:longitude>19.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-227" kind="admin2">
+    <ctml:name>Lushnjë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Fier</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-04</ctml:parentRef>
+    <ctml:wikiDataId>Q212680</ctml:wikiDataId>
+    <ctml:latitude>40.94194000</ctml:latitude>
+    <ctml:longitude>19.70500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-157057" kind="city">
+    <ctml:name>Mallakastër</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Fier</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-04</ctml:parentRef>
+    <ctml:wikiDataId>Q6744046</ctml:wikiDataId>
+    <ctml:latitude>40.54335440</ctml:latitude>
+    <ctml:longitude>19.62480730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-234" kind="city">
+    <ctml:name>Patos</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Fier</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-04</ctml:parentRef>
+    <ctml:wikiDataId>Q18709</ctml:wikiDataId>
+    <ctml:latitude>40.68333000</ctml:latitude>
+    <ctml:longitude>19.61944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-235" kind="city">
+    <ctml:name>Patos Fshat</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Fier</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-04</ctml:parentRef>
+    <ctml:wikiDataId>Q13044035</ctml:wikiDataId>
+    <ctml:latitude>40.64278000</ctml:latitude>
+    <ctml:longitude>19.65083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-241" kind="city">
+    <ctml:name>Roskovec</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Fier</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-04</ctml:parentRef>
+    <ctml:wikiDataId>Q18746</ctml:wikiDataId>
+    <ctml:latitude>40.73750000</ctml:latitude>
+    <ctml:longitude>19.70222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-254" kind="city">
+    <ctml:name>Rrethi i Mallakastrës</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Fier</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-04</ctml:parentRef>
+    <ctml:wikiDataId>Q211946</ctml:wikiDataId>
+    <ctml:latitude>40.55000000</ctml:latitude>
+    <ctml:longitude>19.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-164" kind="city">
+    <ctml:name>Bashkia Kelcyrë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Gjirokastër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-05</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.36196000</ctml:latitude>
+    <ctml:longitude>20.16476000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-172" kind="city">
+    <ctml:name>Bashkia Libohovë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Gjirokastër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-05</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.10754000</ctml:latitude>
+    <ctml:longitude>20.25753000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-177" kind="city">
+    <ctml:name>Bashkia Memaliaj</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Gjirokastër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-05</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.41524000</ctml:latitude>
+    <ctml:longitude>19.96911000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-183" kind="city">
+    <ctml:name>Bashkia Përmet</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Gjirokastër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-05</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.23246000</ctml:latitude>
+    <ctml:longitude>20.41091000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-187" kind="city">
+    <ctml:name>Bashkia Tepelenë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Gjirokastër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-05</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.26736000</ctml:latitude>
+    <ctml:longitude>19.97003000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-158" kind="city">
+    <ctml:name>Dropull</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Gjirokastër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-05</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>39.98584000</ctml:latitude>
+    <ctml:longitude>20.30529000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-204" kind="city">
+    <ctml:name>Gjinkar</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Gjirokastër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-05</ctml:parentRef>
+    <ctml:wikiDataId>Q155137</ctml:wikiDataId>
+    <ctml:latitude>40.19944000</ctml:latitude>
+    <ctml:longitude>20.40611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-220" kind="city">
+    <ctml:name>Këlcyrë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Gjirokastër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1007556</ctml:wikiDataId>
+    <ctml:latitude>40.31306000</ctml:latitude>
+    <ctml:longitude>20.18944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-221" kind="city">
+    <ctml:name>Lazarat</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Gjirokastër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2713473</ctml:wikiDataId>
+    <ctml:latitude>40.04667000</ctml:latitude>
+    <ctml:longitude>20.14750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-225" kind="city">
+    <ctml:name>Libohovë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Gjirokastër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-05</ctml:parentRef>
+    <ctml:wikiDataId>Q18738</ctml:wikiDataId>
+    <ctml:latitude>40.03111000</ctml:latitude>
+    <ctml:longitude>20.26306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-231" kind="city">
+    <ctml:name>Memaliaj</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Gjirokastër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-05</ctml:parentRef>
+    <ctml:wikiDataId>Q18749</ctml:wikiDataId>
+    <ctml:latitude>40.35167000</ctml:latitude>
+    <ctml:longitude>19.98028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-240" kind="admin2">
+    <ctml:name>Përmet</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Gjirokastër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-05</ctml:parentRef>
+    <ctml:wikiDataId>Q642856</ctml:wikiDataId>
+    <ctml:latitude>40.23361000</ctml:latitude>
+    <ctml:longitude>20.35167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-270" kind="admin2">
+    <ctml:name>Tepelenë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Gjirokastër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-05</ctml:parentRef>
+    <ctml:wikiDataId>Q81631</ctml:wikiDataId>
+    <ctml:latitude>40.29583000</ctml:latitude>
+    <ctml:longitude>20.01917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-156" kind="city">
+    <ctml:name>Bashkia Devoll</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3301181</ctml:wikiDataId>
+    <ctml:latitude>40.60078000</ctml:latitude>
+    <ctml:longitude>20.93814000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-166" kind="city">
+    <ctml:name>Bashkia Kolonjë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.31420000</ctml:latitude>
+    <ctml:longitude>20.61482000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-173" kind="city">
+    <ctml:name>Bashkia Maliq</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.75508000</ctml:latitude>
+    <ctml:longitude>20.60748000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-192" kind="city">
+    <ctml:name>Bilisht</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q817140</ctml:wikiDataId>
+    <ctml:latitude>40.62750000</ctml:latitude>
+    <ctml:longitude>20.99000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-157050" kind="city">
+    <ctml:name>Devoll</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q13037406</ctml:wikiDataId>
+    <ctml:latitude>40.58998300</ctml:latitude>
+    <ctml:longitude>20.74813130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-199" kind="admin2">
+    <ctml:name>Ersekë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q18793</ctml:wikiDataId>
+    <ctml:latitude>40.33778000</ctml:latitude>
+    <ctml:longitude>20.67889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-157054" kind="city">
+    <ctml:name>Kolonjë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q10780849</ctml:wikiDataId>
+    <ctml:latitude>40.28305450</ctml:latitude>
+    <ctml:longitude>20.45647260</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-223" kind="city">
+    <ctml:name>Leskovik</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q18768</ctml:wikiDataId>
+    <ctml:latitude>40.15139000</ctml:latitude>
+    <ctml:longitude>20.59722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-226" kind="city">
+    <ctml:name>Libonik</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q628181</ctml:wikiDataId>
+    <ctml:latitude>40.70444000</ctml:latitude>
+    <ctml:longitude>20.70861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-228" kind="city">
+    <ctml:name>Maliq</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q772248</ctml:wikiDataId>
+    <ctml:latitude>40.70583000</ctml:latitude>
+    <ctml:longitude>20.69972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-230" kind="city">
+    <ctml:name>Mborje</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q16347657</ctml:wikiDataId>
+    <ctml:latitude>40.60333000</ctml:latitude>
+    <ctml:longitude>20.80306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-237" kind="admin2">
+    <ctml:name>Pogradec</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q73639</ctml:wikiDataId>
+    <ctml:latitude>40.90250000</ctml:latitude>
+    <ctml:longitude>20.65250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-182" kind="city">
+    <ctml:name>Pustec</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.83591000</ctml:latitude>
+    <ctml:longitude>20.89405000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-245" kind="city">
+    <ctml:name>Rrethi i Devollit</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q192126</ctml:wikiDataId>
+    <ctml:latitude>40.58333000</ctml:latitude>
+    <ctml:longitude>20.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-249" kind="admin2">
+    <ctml:name>Rrethi i Kolonjës</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q194178</ctml:wikiDataId>
+    <ctml:latitude>40.25000000</ctml:latitude>
+    <ctml:longitude>20.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-275" kind="city">
+    <ctml:name>Velçan</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q285899</ctml:wikiDataId>
+    <ctml:latitude>40.95472000</ctml:latitude>
+    <ctml:longitude>20.46222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-278" kind="city">
+    <ctml:name>Voskopojë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Korçë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-06</ctml:parentRef>
+    <ctml:wikiDataId>Q757298</ctml:wikiDataId>
+    <ctml:latitude>40.63306000</ctml:latitude>
+    <ctml:longitude>20.58889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-151" kind="admin2">
+    <ctml:name>Bajram Curri</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Kukës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-07</ctml:parentRef>
+    <ctml:wikiDataId>Q18705</ctml:wikiDataId>
+    <ctml:latitude>42.35734000</ctml:latitude>
+    <ctml:longitude>20.07679000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-215" kind="admin2">
+    <ctml:name>Krumë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Kukës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-07</ctml:parentRef>
+    <ctml:wikiDataId>Q958899</ctml:wikiDataId>
+    <ctml:latitude>42.19694000</ctml:latitude>
+    <ctml:longitude>20.41333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-247" kind="city">
+    <ctml:name>Rrethi i Hasit</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Kukës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-07</ctml:parentRef>
+    <ctml:wikiDataId>Q207007</ctml:wikiDataId>
+    <ctml:latitude>42.16667000</ctml:latitude>
+    <ctml:longitude>20.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-251" kind="city">
+    <ctml:name>Rrethi i Kukësit</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Kukës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-07</ctml:parentRef>
+    <ctml:wikiDataId>Q123395</ctml:wikiDataId>
+    <ctml:latitude>42.00000000</ctml:latitude>
+    <ctml:longitude>20.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-157056" kind="city">
+    <ctml:name>Tropojë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Kukës</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-07</ctml:parentRef>
+    <ctml:wikiDataId>Q16350050</ctml:wikiDataId>
+    <ctml:latitude>42.37624000</ctml:latitude>
+    <ctml:longitude>19.74539290</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-169" kind="city">
+    <ctml:name>Bashkia Kurbin</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Lezhë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-08</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>41.62215000</ctml:latitude>
+    <ctml:longitude>19.70734000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-171" kind="city">
+    <ctml:name>Bashkia Lezhë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Lezhë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-08</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>41.81320000</ctml:latitude>
+    <ctml:longitude>19.64121000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-178" kind="city">
+    <ctml:name>Bashkia Mirditë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Lezhë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-08</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>41.80953000</ctml:latitude>
+    <ctml:longitude>19.99024000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-157051" kind="admin2">
+    <ctml:name>Kurbin</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Lezhë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-08</ctml:parentRef>
+    <ctml:wikiDataId>Q13037419</ctml:wikiDataId>
+    <ctml:latitude>41.63891890</ctml:latitude>
+    <ctml:longitude>19.69333630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-218" kind="city">
+    <ctml:name>Kurbnesh</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Lezhë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-08</ctml:parentRef>
+    <ctml:wikiDataId>Q616927</ctml:wikiDataId>
+    <ctml:latitude>41.77972000</ctml:latitude>
+    <ctml:longitude>20.08361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-222" kind="admin2">
+    <ctml:name>Laç</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Lezhë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-08</ctml:parentRef>
+    <ctml:wikiDataId>Q18768</ctml:wikiDataId>
+    <ctml:latitude>41.63556000</ctml:latitude>
+    <ctml:longitude>19.71306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-229" kind="city">
+    <ctml:name>Mamurras</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Lezhë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-08</ctml:parentRef>
+    <ctml:wikiDataId>Q991268</ctml:wikiDataId>
+    <ctml:latitude>41.57750000</ctml:latitude>
+    <ctml:longitude>19.69222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-232" kind="city">
+    <ctml:name>Milot</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Lezhë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-08</ctml:parentRef>
+    <ctml:wikiDataId>Q18749</ctml:wikiDataId>
+    <ctml:latitude>41.68389000</ctml:latitude>
+    <ctml:longitude>19.71556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-157049" kind="city">
+    <ctml:name>Mirditë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Lezhë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-08</ctml:parentRef>
+    <ctml:wikiDataId>Q13037433</ctml:wikiDataId>
+    <ctml:latitude>41.86072800</ctml:latitude>
+    <ctml:longitude>19.66757220</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-261" kind="admin2">
+    <ctml:name>Rrëshen</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Lezhë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-08</ctml:parentRef>
+    <ctml:wikiDataId>Q18737</ctml:wikiDataId>
+    <ctml:latitude>41.76750000</ctml:latitude>
+    <ctml:longitude>19.87556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-252" kind="city">
+    <ctml:name>Rrethi i Kurbinit</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Lezhë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-08</ctml:parentRef>
+    <ctml:wikiDataId>Q123602</ctml:wikiDataId>
+    <ctml:latitude>41.63333000</ctml:latitude>
+    <ctml:longitude>19.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-262" kind="city">
+    <ctml:name>Rubik</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Lezhë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-08</ctml:parentRef>
+    <ctml:wikiDataId>Q19259</ctml:wikiDataId>
+    <ctml:latitude>41.77444000</ctml:latitude>
+    <ctml:longitude>19.78611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-267" kind="city">
+    <ctml:name>Shëngjin</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Lezhë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-08</ctml:parentRef>
+    <ctml:wikiDataId>Q606485</ctml:wikiDataId>
+    <ctml:latitude>41.81361000</ctml:latitude>
+    <ctml:longitude>19.59389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-175" kind="city">
+    <ctml:name>Bashkia Malësi e Madhe</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Shkodër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-10</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>42.36798000</ctml:latitude>
+    <ctml:longitude>19.58977000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-181" kind="city">
+    <ctml:name>Bashkia Pukë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Shkodër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-10</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>42.02997000</ctml:latitude>
+    <ctml:longitude>19.92778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-188" kind="city">
+    <ctml:name>Bashkia Vau i Dejës</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Shkodër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-10</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>42.04834000</ctml:latitude>
+    <ctml:longitude>19.69999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-202" kind="city">
+    <ctml:name>Fushë-Arrëz</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Shkodër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-10</ctml:parentRef>
+    <ctml:wikiDataId>Q22005048</ctml:wikiDataId>
+    <ctml:latitude>42.06222000</ctml:latitude>
+    <ctml:longitude>20.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-211" kind="admin2">
+    <ctml:name>Koplik</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Shkodër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-10</ctml:parentRef>
+    <ctml:wikiDataId>Q991288</ctml:wikiDataId>
+    <ctml:latitude>42.21361000</ctml:latitude>
+    <ctml:longitude>19.43639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-157053" kind="city">
+    <ctml:name>Malësi e Madhe</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Shkodër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-10</ctml:parentRef>
+    <ctml:wikiDataId>Q20821805</ctml:wikiDataId>
+    <ctml:latitude>42.39016310</ctml:latitude>
+    <ctml:longitude>19.19918420</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-239" kind="admin2">
+    <ctml:name>Pukë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Shkodër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-10</ctml:parentRef>
+    <ctml:wikiDataId>Q19310</ctml:wikiDataId>
+    <ctml:latitude>42.04444000</ctml:latitude>
+    <ctml:longitude>19.89972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-255" kind="city">
+    <ctml:name>Rrethi i Malësia e Madhe</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Shkodër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-10</ctml:parentRef>
+    <ctml:wikiDataId>Q236845</ctml:wikiDataId>
+    <ctml:latitude>42.33333000</ctml:latitude>
+    <ctml:longitude>19.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-257" kind="city">
+    <ctml:name>Rrethi i Shkodrës</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Shkodër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-10</ctml:parentRef>
+    <ctml:wikiDataId>Q194176</ctml:wikiDataId>
+    <ctml:latitude>42.06917000</ctml:latitude>
+    <ctml:longitude>19.53506000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-274" kind="city">
+    <ctml:name>Vau i Dejës</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Shkodër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1787536</ctml:wikiDataId>
+    <ctml:latitude>42.01000000</ctml:latitude>
+    <ctml:longitude>19.62472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-279" kind="city">
+    <ctml:name>Vukatanë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Shkodër</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-10</ctml:parentRef>
+    <ctml:wikiDataId>Q757298</ctml:wikiDataId>
+    <ctml:latitude>42.02806000</ctml:latitude>
+    <ctml:longitude>19.54778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-163" kind="city">
+    <ctml:name>Bashkia Kavajë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Tirana</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-11</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>41.18127000</ctml:latitude>
+    <ctml:longitude>19.55579000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-190" kind="city">
+    <ctml:name>Bashkia Vorë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Tirana</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-11</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>41.39804000</ctml:latitude>
+    <ctml:longitude>19.67703000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-207" kind="city">
+    <ctml:name>Kamëz</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Tirana</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-11</ctml:parentRef>
+    <ctml:wikiDataId>Q605160</ctml:wikiDataId>
+    <ctml:latitude>41.38167000</ctml:latitude>
+    <ctml:longitude>19.76028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-208" kind="admin2">
+    <ctml:name>Kavajë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Tirana</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-11</ctml:parentRef>
+    <ctml:wikiDataId>Q46702</ctml:wikiDataId>
+    <ctml:latitude>41.18556000</ctml:latitude>
+    <ctml:longitude>19.55694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-213" kind="city">
+    <ctml:name>Krrabë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Tirana</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-11</ctml:parentRef>
+    <ctml:wikiDataId>Q22009668</ctml:wikiDataId>
+    <ctml:latitude>41.21556000</ctml:latitude>
+    <ctml:longitude>19.97139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-248" kind="city">
+    <ctml:name>Rrethi i Kavajës</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Tirana</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-11</ctml:parentRef>
+    <ctml:wikiDataId>Q194182</ctml:wikiDataId>
+    <ctml:latitude>41.16667000</ctml:latitude>
+    <ctml:longitude>19.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-259" kind="city">
+    <ctml:name>Rrethi i Tiranës</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Tirana</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-11</ctml:parentRef>
+    <ctml:wikiDataId>Q201073</ctml:wikiDataId>
+    <ctml:latitude>41.33333000</ctml:latitude>
+    <ctml:longitude>19.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-260" kind="city">
+    <ctml:name>Rrogozhinë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Tirana</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-11</ctml:parentRef>
+    <ctml:wikiDataId>Q22008389</ctml:wikiDataId>
+    <ctml:latitude>41.07639000</ctml:latitude>
+    <ctml:longitude>19.66528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-268" kind="city">
+    <ctml:name>Sinaballaj</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Tirana</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-11</ctml:parentRef>
+    <ctml:wikiDataId>Q602969</ctml:wikiDataId>
+    <ctml:latitude>41.06889000</ctml:latitude>
+    <ctml:longitude>19.69944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-271" kind="city">
+    <ctml:name>Tirana</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Tirana</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-11</ctml:parentRef>
+    <ctml:wikiDataId>Q19689</ctml:wikiDataId>
+    <ctml:latitude>41.32750000</ctml:latitude>
+    <ctml:longitude>19.81889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-277" kind="city">
+    <ctml:name>Vorë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Tirana</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-11</ctml:parentRef>
+    <ctml:wikiDataId>Q22007611</ctml:wikiDataId>
+    <ctml:latitude>41.39083000</ctml:latitude>
+    <ctml:longitude>19.65500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-162" kind="city">
+    <ctml:name>Bashkia Himarë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Vlorë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-12</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.11581000</ctml:latitude>
+    <ctml:longitude>19.81389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-167" kind="city">
+    <ctml:name>Bashkia Konispol</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Vlorë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-12</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>39.70064000</ctml:latitude>
+    <ctml:longitude>20.13353000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-184" kind="city">
+    <ctml:name>Bashkia Selenicë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Vlorë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-12</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.39503000</ctml:latitude>
+    <ctml:longitude>19.65958000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-189" kind="city">
+    <ctml:name>Bashkia Vlorë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Vlorë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-12</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>40.41340000</ctml:latitude>
+    <ctml:longitude>19.49792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-195" kind="admin2">
+    <ctml:name>Delvinë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Vlorë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-12</ctml:parentRef>
+    <ctml:wikiDataId>Q372872</ctml:wikiDataId>
+    <ctml:latitude>39.95111000</ctml:latitude>
+    <ctml:longitude>20.09778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-161" kind="city">
+    <ctml:name>Finiq</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Vlorë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-12</ctml:parentRef>
+    <ctml:wikiDataId>Q16350064</ctml:wikiDataId>
+    <ctml:latitude>39.84393000</ctml:latitude>
+    <ctml:longitude>20.16659000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-206" kind="city">
+    <ctml:name>Himarë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Vlorë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-12</ctml:parentRef>
+    <ctml:wikiDataId>Q5765138</ctml:wikiDataId>
+    <ctml:latitude>40.10167000</ctml:latitude>
+    <ctml:longitude>19.74472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-210" kind="city">
+    <ctml:name>Konispol</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Vlorë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-12</ctml:parentRef>
+    <ctml:wikiDataId>Q18731</ctml:wikiDataId>
+    <ctml:latitude>39.65889000</ctml:latitude>
+    <ctml:longitude>20.18139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-216" kind="city">
+    <ctml:name>Ksamil</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Vlorë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1790776</ctml:wikiDataId>
+    <ctml:latitude>39.76889000</ctml:latitude>
+    <ctml:longitude>19.99972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-233" kind="city">
+    <ctml:name>Orikum</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Vlorë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-12</ctml:parentRef>
+    <ctml:wikiDataId>Q22009845</ctml:wikiDataId>
+    <ctml:latitude>40.32528000</ctml:latitude>
+    <ctml:longitude>19.47139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-244" kind="city">
+    <ctml:name>Rrethi i Delvinës</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Vlorë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-12</ctml:parentRef>
+    <ctml:wikiDataId>Q166959</ctml:wikiDataId>
+    <ctml:latitude>39.91667000</ctml:latitude>
+    <ctml:longitude>20.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ALB-263" kind="admin2">
+    <ctml:name>Sarandë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Vlorë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-12</ctml:parentRef>
+    <ctml:wikiDataId>Q193226</ctml:wikiDataId>
+    <ctml:latitude>39.87534000</ctml:latitude>
+    <ctml:longitude>20.00477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALB-264" kind="city">
+    <ctml:name>Selenicë</ctml:name>
+    <ctml:country>ALB</ctml:country>
+    <ctml:admin1>Vlorë</ctml:admin1>
+    <ctml:parentRef>place:admin1:AL-12</ctml:parentRef>
+    <ctml:wikiDataId>Q134613</ctml:wikiDataId>
+    <ctml:latitude>40.53056000</ctml:latitude>
+    <ctml:longitude>19.63583000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

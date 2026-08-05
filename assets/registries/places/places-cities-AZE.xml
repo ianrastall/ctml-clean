@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:AZE-8069" kind="city">
+    <ctml:name>Ceyranbatan</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Absheron</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-ABS</ctml:parentRef>
+    <ctml:wikiDataId>Q4120924</ctml:wikiDataId>
+    <ctml:latitude>40.54194000</ctml:latitude>
+    <ctml:longitude>49.66073000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8073" kind="city">
+    <ctml:name>Digah</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Absheron</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-ABS</ctml:parentRef>
+    <ctml:wikiDataId>Q4120921</ctml:wikiDataId>
+    <ctml:latitude>40.49257000</ctml:latitude>
+    <ctml:longitude>49.87477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8085" kind="city">
+    <ctml:name>Gyuzdek</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Absheron</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-ABS</ctml:parentRef>
+    <ctml:wikiDataId>Q2352148</ctml:wikiDataId>
+    <ctml:latitude>40.37444000</ctml:latitude>
+    <ctml:longitude>49.68194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8148" kind="city">
+    <ctml:name>Qobu</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Absheron</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-ABS</ctml:parentRef>
+    <ctml:wikiDataId>Q4120862</ctml:wikiDataId>
+    <ctml:latitude>40.40472000</ctml:latitude>
+    <ctml:longitude>49.71306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8169" kind="city">
+    <ctml:name>Saray</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Absheron</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-ABS</ctml:parentRef>
+    <ctml:wikiDataId>Q4120861</ctml:wikiDataId>
+    <ctml:latitude>40.53299000</ctml:latitude>
+    <ctml:longitude>49.71681000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8048" kind="city">
+    <ctml:name>Avşar</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Aghjabadi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-AGC</ctml:parentRef>
+    <ctml:wikiDataId>Q21979202</ctml:wikiDataId>
+    <ctml:latitude>39.97389000</ctml:latitude>
+    <ctml:longitude>47.42389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8163" kind="city">
+    <ctml:name>Saloğlu</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Agstafa</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-AGA</ctml:parentRef>
+    <ctml:wikiDataId>Q4618136</ctml:wikiDataId>
+    <ctml:latitude>41.27524000</ctml:latitude>
+    <ctml:longitude>45.35293000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8188" kind="city">
+    <ctml:name>Vurğun</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Agstafa</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-AGA</ctml:parentRef>
+    <ctml:wikiDataId>Q4120923</ctml:wikiDataId>
+    <ctml:latitude>41.09524000</ctml:latitude>
+    <ctml:longitude>45.47111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8103" kind="city">
+    <ctml:name>Kizhaba</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Astara</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-AST</ctml:parentRef>
+    <ctml:wikiDataId>Q3674715</ctml:wikiDataId>
+    <ctml:latitude>38.53461000</ctml:latitude>
+    <ctml:longitude>48.80546000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8042" kind="city">
+    <ctml:name>Amirdzhan</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q3131176</ctml:wikiDataId>
+    <ctml:latitude>40.42639000</ctml:latitude>
+    <ctml:longitude>49.98361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8051" kind="city">
+    <ctml:name>Badamdar</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q10860191</ctml:wikiDataId>
+    <ctml:latitude>40.34024000</ctml:latitude>
+    <ctml:longitude>49.80450000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8053" kind="city">
+    <ctml:name>Bakıxanov</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q3299602</ctml:wikiDataId>
+    <ctml:latitude>40.41894000</ctml:latitude>
+    <ctml:longitude>49.96693000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8052" kind="city">
+    <ctml:name>Baku</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q10860191</ctml:wikiDataId>
+    <ctml:latitude>40.37767000</ctml:latitude>
+    <ctml:longitude>49.89201000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8054" kind="city">
+    <ctml:name>Balakhani</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2081104</ctml:wikiDataId>
+    <ctml:latitude>40.46344000</ctml:latitude>
+    <ctml:longitude>49.91893000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8060" kind="city">
+    <ctml:name>Bilajari</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q21980868</ctml:wikiDataId>
+    <ctml:latitude>40.44440000</ctml:latitude>
+    <ctml:longitude>49.80566000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8061" kind="city">
+    <ctml:name>Bilajer</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q4026907</ctml:wikiDataId>
+    <ctml:latitude>40.56441000</ctml:latitude>
+    <ctml:longitude>50.04002000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8062" kind="city">
+    <ctml:name>Binagadi</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q864153</ctml:wikiDataId>
+    <ctml:latitude>40.46602000</ctml:latitude>
+    <ctml:longitude>49.82783000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8063" kind="city">
+    <ctml:name>Biny Selo</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2339034</ctml:wikiDataId>
+    <ctml:latitude>40.45076000</ctml:latitude>
+    <ctml:longitude>50.08686000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8066" kind="city">
+    <ctml:name>Buzovna</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2671322</ctml:wikiDataId>
+    <ctml:latitude>40.51903000</ctml:latitude>
+    <ctml:longitude>50.11438000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8093" kind="city">
+    <ctml:name>Hövsan</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q3294097</ctml:wikiDataId>
+    <ctml:latitude>40.37444000</ctml:latitude>
+    <ctml:longitude>50.08528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8100" kind="city">
+    <ctml:name>Khodzhi-Gasan</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q3951539</ctml:wikiDataId>
+    <ctml:latitude>40.41293000</ctml:latitude>
+    <ctml:longitude>49.76904000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8104" kind="city">
+    <ctml:name>Korgöz</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q6432243</ctml:wikiDataId>
+    <ctml:latitude>40.30446000</ctml:latitude>
+    <ctml:longitude>49.62360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8111" kind="city">
+    <ctml:name>Lökbatan</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2027140</ctml:wikiDataId>
+    <ctml:latitude>40.32560000</ctml:latitude>
+    <ctml:longitude>49.73376000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8113" kind="city">
+    <ctml:name>Mardakan</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1026043</ctml:wikiDataId>
+    <ctml:latitude>40.49182000</ctml:latitude>
+    <ctml:longitude>50.14292000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8116" kind="city">
+    <ctml:name>Maştağa</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q4026905</ctml:wikiDataId>
+    <ctml:latitude>40.52983000</ctml:latitude>
+    <ctml:longitude>50.00616000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8121" kind="city">
+    <ctml:name>Nardaran</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1965248</ctml:wikiDataId>
+    <ctml:latitude>40.55611000</ctml:latitude>
+    <ctml:longitude>50.00556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8123" kind="city">
+    <ctml:name>Nizami Rayonu</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q3912215</ctml:wikiDataId>
+    <ctml:latitude>40.40970000</ctml:latitude>
+    <ctml:longitude>49.91926000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8131" kind="city">
+    <ctml:name>Pirallahı</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1017630</ctml:wikiDataId>
+    <ctml:latitude>40.47013000</ctml:latitude>
+    <ctml:longitude>50.32476000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8134" kind="city">
+    <ctml:name>Puta</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q4026827</ctml:wikiDataId>
+    <ctml:latitude>40.29667000</ctml:latitude>
+    <ctml:longitude>49.66028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8136" kind="city">
+    <ctml:name>Qala</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q4026864</ctml:wikiDataId>
+    <ctml:latitude>40.44256000</ctml:latitude>
+    <ctml:longitude>50.16759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8142" kind="city">
+    <ctml:name>Qaraçuxur</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q685398</ctml:wikiDataId>
+    <ctml:latitude>40.39667000</ctml:latitude>
+    <ctml:longitude>49.97361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8149" kind="city">
+    <ctml:name>Qobustan</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q685724</ctml:wikiDataId>
+    <ctml:latitude>40.08238000</ctml:latitude>
+    <ctml:longitude>49.41205000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8159" kind="city">
+    <ctml:name>Ramana</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1013460</ctml:wikiDataId>
+    <ctml:latitude>40.44222000</ctml:latitude>
+    <ctml:longitude>49.98056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8162" kind="city">
+    <ctml:name>Sabunçu</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q260503</ctml:wikiDataId>
+    <ctml:latitude>40.44250000</ctml:latitude>
+    <ctml:longitude>49.94806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8168" kind="city">
+    <ctml:name>Sanqaçal</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q4026953</ctml:wikiDataId>
+    <ctml:latitude>40.16991000</ctml:latitude>
+    <ctml:longitude>49.46394000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8184" kind="city">
+    <ctml:name>Türkan</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q4026904</ctml:wikiDataId>
+    <ctml:latitude>40.36460000</ctml:latitude>
+    <ctml:longitude>50.22075000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8197" kind="city">
+    <ctml:name>Yeni Suraxanı</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1026631</ctml:wikiDataId>
+    <ctml:latitude>40.43026000</ctml:latitude>
+    <ctml:longitude>50.03598000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8201" kind="city">
+    <ctml:name>Zabrat</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q4026836</ctml:wikiDataId>
+    <ctml:latitude>40.47746000</ctml:latitude>
+    <ctml:longitude>49.94174000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8205" kind="city">
+    <ctml:name>Zyrya</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Baku</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q4192310</ctml:wikiDataId>
+    <ctml:latitude>40.36613000</ctml:latitude>
+    <ctml:longitude>50.29198000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8135" kind="city">
+    <ctml:name>Qabaqçöl</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Balakan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BAL</ctml:parentRef>
+    <ctml:wikiDataId>Q4617479</ctml:wikiDataId>
+    <ctml:latitude>41.75259000</ctml:latitude>
+    <ctml:longitude>46.27052000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8167" kind="city">
+    <ctml:name>Samuxlu</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Barda</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BAR</ctml:parentRef>
+    <ctml:wikiDataId>Q4617177</ctml:wikiDataId>
+    <ctml:latitude>40.50833000</ctml:latitude>
+    <ctml:longitude>47.16917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8064" kind="city">
+    <ctml:name>Birinci Aşıqlı</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Beylagan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BEY</ctml:parentRef>
+    <ctml:wikiDataId>Q4617886</ctml:wikiDataId>
+    <ctml:latitude>39.81917000</ctml:latitude>
+    <ctml:longitude>47.67944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8078" kind="city">
+    <ctml:name>Dünyamalılar</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Beylagan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BEY</ctml:parentRef>
+    <ctml:wikiDataId>Q4621474</ctml:wikiDataId>
+    <ctml:latitude>39.77278000</ctml:latitude>
+    <ctml:longitude>47.75889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8128" kind="city">
+    <ctml:name>Orjonikidze</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Beylagan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BEY</ctml:parentRef>
+    <ctml:wikiDataId>Q21977623</ctml:wikiDataId>
+    <ctml:latitude>39.63571000</ctml:latitude>
+    <ctml:longitude>47.71199000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8200" kind="city">
+    <ctml:name>Yuxarı Aran</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Beylagan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-BEY</ctml:parentRef>
+    <ctml:wikiDataId>Q4636272</ctml:wikiDataId>
+    <ctml:latitude>39.73361000</ctml:latitude>
+    <ctml:longitude>47.65500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8187" kind="city">
+    <ctml:name>Verkhniy Dashkesan</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Dashkasan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-DAS</ctml:parentRef>
+    <ctml:wikiDataId>Q2660769</ctml:wikiDataId>
+    <ctml:latitude>40.49357000</ctml:latitude>
+    <ctml:longitude>46.07175000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8092" kind="city">
+    <ctml:name>Horadiz</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Fizuli</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-FUZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2658391</ctml:wikiDataId>
+    <ctml:latitude>39.45015000</ctml:latitude>
+    <ctml:longitude>47.33496000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8044" kind="city">
+    <ctml:name>Arıqdam</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Gədəbəy</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-GAD</ctml:parentRef>
+    <ctml:wikiDataId>Q4591265</ctml:wikiDataId>
+    <ctml:latitude>40.59313000</ctml:latitude>
+    <ctml:longitude>45.79900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8045" kind="city">
+    <ctml:name>Arıqıran</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Gədəbəy</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-GAD</ctml:parentRef>
+    <ctml:wikiDataId>Q4591863</ctml:wikiDataId>
+    <ctml:latitude>40.53971000</ctml:latitude>
+    <ctml:longitude>45.61414000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8067" kind="city">
+    <ctml:name>Böyük Qaramurad</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Gədəbəy</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-GAD</ctml:parentRef>
+    <ctml:wikiDataId>Q4595126</ctml:wikiDataId>
+    <ctml:latitude>40.57626000</ctml:latitude>
+    <ctml:longitude>45.63727000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8124" kind="city">
+    <ctml:name>Novosaratovka</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Gədəbəy</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-GAD</ctml:parentRef>
+    <ctml:wikiDataId>Q4593078</ctml:wikiDataId>
+    <ctml:latitude>40.59811000</ctml:latitude>
+    <ctml:longitude>45.60079000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8158" kind="city">
+    <ctml:name>Qızılhacılı</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Goranboy</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-GOR</ctml:parentRef>
+    <ctml:wikiDataId>Q4657516</ctml:wikiDataId>
+    <ctml:latitude>40.57362000</ctml:latitude>
+    <ctml:longitude>46.84900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8082" kind="city">
+    <ctml:name>Geoktschai</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Goychay</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-GOY</ctml:parentRef>
+    <ctml:wikiDataId>Q1822209</ctml:wikiDataId>
+    <ctml:latitude>40.65055000</ctml:latitude>
+    <ctml:longitude>47.74219000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8119" kind="city">
+    <ctml:name>Mughan</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Hajigabul</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-HAC</ctml:parentRef>
+    <ctml:wikiDataId>Q230932</ctml:wikiDataId>
+    <ctml:latitude>40.09902000</ctml:latitude>
+    <ctml:longitude>48.81886000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8056" kind="city">
+    <ctml:name>Basqal</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Ismailli</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-ISM</ctml:parentRef>
+    <ctml:wikiDataId>Q4079031</ctml:wikiDataId>
+    <ctml:latitude>40.75520000</ctml:latitude>
+    <ctml:longitude>48.39104000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8132" kind="city">
+    <ctml:name>Prishibinskoye</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Jalilabad</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-CAL</ctml:parentRef>
+    <ctml:wikiDataId>Q2656617</ctml:wikiDataId>
+    <ctml:latitude>39.11998000</ctml:latitude>
+    <ctml:longitude>48.59383000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8186" kind="city">
+    <ctml:name>Vank</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Kalbajar</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-KAL</ctml:parentRef>
+    <ctml:wikiDataId>Q2660769</ctml:wikiDataId>
+    <ctml:latitude>40.05275000</ctml:latitude>
+    <ctml:longitude>46.54419000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8191" kind="city">
+    <ctml:name>Xudat</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Khachmaz</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-XAC</ctml:parentRef>
+    <ctml:wikiDataId>Q2996307</ctml:wikiDataId>
+    <ctml:latitude>41.63052000</ctml:latitude>
+    <ctml:longitude>48.68161000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-157074" kind="city">
+    <ctml:name>Khankendi</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Khankendi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-XA</ctml:parentRef>
+    <ctml:wikiDataId>Q80415</ctml:wikiDataId>
+    <ctml:latitude>39.82660000</ctml:latitude>
+    <ctml:longitude>46.75560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8041" kind="city">
+    <ctml:name>Altıağac</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Khizi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-XIZ</ctml:parentRef>
+    <ctml:wikiDataId>Q4737076</ctml:wikiDataId>
+    <ctml:latitude>40.85785000</ctml:latitude>
+    <ctml:longitude>48.93540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8102" kind="city">
+    <ctml:name>Kilyazi</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Khizi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-XIZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2468528</ctml:wikiDataId>
+    <ctml:latitude>40.87392000</ctml:latitude>
+    <ctml:longitude>49.34376000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8213" kind="city">
+    <ctml:name>Şuraabad</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Khizi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-XIZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2159352</ctml:wikiDataId>
+    <ctml:latitude>40.81990000</ctml:latitude>
+    <ctml:longitude>49.46774000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8046" kind="city">
+    <ctml:name>Askyaran</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Khojali</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-XCI</ctml:parentRef>
+    <ctml:wikiDataId>Q1433468</ctml:wikiDataId>
+    <ctml:latitude>39.93910000</ctml:latitude>
+    <ctml:longitude>46.83161000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8090" kind="city">
+    <ctml:name>Haftoni</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Lankaran</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q4134282</ctml:wikiDataId>
+    <ctml:latitude>38.76325000</ctml:latitude>
+    <ctml:longitude>48.76223000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8089" kind="city">
+    <ctml:name>Hadrut</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Martuni</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-XVD</ctml:parentRef>
+    <ctml:wikiDataId>Q157919</ctml:wikiDataId>
+    <ctml:latitude>39.52003000</ctml:latitude>
+    <ctml:longitude>47.03190000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8155" kind="city">
+    <ctml:name>Qırmızı Bazar</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Martuni</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-XVD</ctml:parentRef>
+    <ctml:wikiDataId>Q2657762</ctml:wikiDataId>
+    <ctml:latitude>39.67669000</ctml:latitude>
+    <ctml:longitude>46.95123000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8065" kind="city">
+    <ctml:name>Boradigah</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Masally</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-MAS</ctml:parentRef>
+    <ctml:wikiDataId>Q4093443</ctml:wikiDataId>
+    <ctml:latitude>38.93013000</ctml:latitude>
+    <ctml:longitude>48.70920000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8068" kind="city">
+    <ctml:name>Cahri</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q4620218</ctml:wikiDataId>
+    <ctml:latitude>39.34837000</ctml:latitude>
+    <ctml:longitude>45.41557000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8206" kind="city">
+    <ctml:name>Çalxanqala</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q4739286</ctml:wikiDataId>
+    <ctml:latitude>39.44167000</ctml:latitude>
+    <ctml:longitude>45.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AZE-8071" kind="admin2">
+    <ctml:name>Culfa</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q1013454</ctml:wikiDataId>
+    <ctml:latitude>38.95397000</ctml:latitude>
+    <ctml:longitude>45.62961000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8072" kind="city">
+    <ctml:name>Deste</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q4808890</ctml:wikiDataId>
+    <ctml:latitude>38.88375000</ctml:latitude>
+    <ctml:longitude>45.90963000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AZE-8091" kind="admin2">
+    <ctml:name>Heydarabad</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q1888054</ctml:wikiDataId>
+    <ctml:latitude>39.72286000</ctml:latitude>
+    <ctml:longitude>44.84846000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8097" kind="city">
+    <ctml:name>Julfa Rayon</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q644035</ctml:wikiDataId>
+    <ctml:latitude>39.16667000</ctml:latitude>
+    <ctml:longitude>45.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8129" kind="city">
+    <ctml:name>Oğlanqala</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q7116768</ctml:wikiDataId>
+    <ctml:latitude>39.58694000</ctml:latitude>
+    <ctml:longitude>45.04611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AZE-8126" kind="admin2">
+    <ctml:name>Ordubad</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q1000839</ctml:wikiDataId>
+    <ctml:latitude>38.90961000</ctml:latitude>
+    <ctml:longitude>46.02274000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8127" kind="city">
+    <ctml:name>Ordubad Rayon</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q512623</ctml:wikiDataId>
+    <ctml:latitude>39.08333000</ctml:latitude>
+    <ctml:longitude>45.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AZE-8157" kind="admin2">
+    <ctml:name>Qıvraq</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q1849093</ctml:wikiDataId>
+    <ctml:latitude>39.39939000</ctml:latitude>
+    <ctml:longitude>45.11513000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AZE-8211" kind="admin2">
+    <ctml:name>Şahbuz</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q2159352</ctml:wikiDataId>
+    <ctml:latitude>39.40722000</ctml:latitude>
+    <ctml:longitude>45.57389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8170" kind="city">
+    <ctml:name>Sedarak</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q4404519</ctml:wikiDataId>
+    <ctml:latitude>39.71427000</ctml:latitude>
+    <ctml:longitude>44.88455000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AZE-8172" kind="admin2">
+    <ctml:name>Shahbuz Rayon</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q4077334</ctml:wikiDataId>
+    <ctml:latitude>39.41667000</ctml:latitude>
+    <ctml:longitude>45.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AZE-8175" kind="admin2">
+    <ctml:name>Sharur City</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q390783</ctml:wikiDataId>
+    <ctml:latitude>39.55298000</ctml:latitude>
+    <ctml:longitude>44.97993000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8179" kind="city">
+    <ctml:name>Sumbatan-diza</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q4120917</ctml:wikiDataId>
+    <ctml:latitude>38.94804000</ctml:latitude>
+    <ctml:longitude>45.82572000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AZE-8181" kind="admin2">
+    <ctml:name>Tazakend</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q2043944</ctml:wikiDataId>
+    <ctml:latitude>39.15459000</ctml:latitude>
+    <ctml:longitude>45.44282000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8195" kind="city">
+    <ctml:name>Yaycı</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Nakhchivan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NX</ctml:parentRef>
+    <ctml:wikiDataId>Q4725222</ctml:wikiDataId>
+    <ctml:latitude>38.94052000</ctml:latitude>
+    <ctml:longitude>45.73244000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8171" kind="city">
+    <ctml:name>Severo-Vostotchnyi Bank</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Neftchala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NEF</ctml:parentRef>
+    <ctml:wikiDataId>Q4077334</ctml:wikiDataId>
+    <ctml:latitude>39.41117000</ctml:latitude>
+    <ctml:longitude>49.24792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8178" kind="city">
+    <ctml:name>Sovetabad</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Neftchala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NEF</ctml:parentRef>
+    <ctml:wikiDataId>Q4120917</ctml:wikiDataId>
+    <ctml:latitude>39.33667000</ctml:latitude>
+    <ctml:longitude>49.21414000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8192" kind="city">
+    <ctml:name>Xıllı</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Neftchala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-NEF</ctml:parentRef>
+    <ctml:wikiDataId>Q4120919</ctml:wikiDataId>
+    <ctml:latitude>39.43012000</ctml:latitude>
+    <ctml:longitude>49.10166000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8154" kind="city">
+    <ctml:name>Qutqashen</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Qabala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-QAB</ctml:parentRef>
+    <ctml:wikiDataId>Q244236</ctml:wikiDataId>
+    <ctml:latitude>40.98247000</ctml:latitude>
+    <ctml:longitude>47.84909000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8208" kind="city">
+    <ctml:name>Çinarlı</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Qakh</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-QAX</ctml:parentRef>
+    <ctml:wikiDataId>Q4830457</ctml:wikiDataId>
+    <ctml:latitude>41.46965000</ctml:latitude>
+    <ctml:longitude>46.91582000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8145" kind="city">
+    <ctml:name>Qax İngiloy</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Qakh</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-QAX</ctml:parentRef>
+    <ctml:wikiDataId>Q4845996</ctml:wikiDataId>
+    <ctml:latitude>41.42412000</ctml:latitude>
+    <ctml:longitude>46.93859000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8146" kind="city">
+    <ctml:name>Qaxbaş</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Qakh</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-QAX</ctml:parentRef>
+    <ctml:wikiDataId>Q3651697</ctml:wikiDataId>
+    <ctml:latitude>41.43254000</ctml:latitude>
+    <ctml:longitude>46.96460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8087" kind="city">
+    <ctml:name>Hacıhüseynli</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Quba</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-QBA</ctml:parentRef>
+    <ctml:wikiDataId>Q4846302</ctml:wikiDataId>
+    <ctml:latitude>41.45639000</ctml:latitude>
+    <ctml:longitude>48.64889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8165" kind="city">
+    <ctml:name>Samur</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Qusar</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-QUS</ctml:parentRef>
+    <ctml:wikiDataId>Q4140710</ctml:wikiDataId>
+    <ctml:latitude>41.63671000</ctml:latitude>
+    <ctml:longitude>48.43028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8214" kind="city">
+    <ctml:name>Əhmədbəyli</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Saatly</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-SAT</ctml:parentRef>
+    <ctml:wikiDataId>Q4591920</ctml:wikiDataId>
+    <ctml:latitude>39.88074000</ctml:latitude>
+    <ctml:longitude>48.39158000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8141" kind="city">
+    <ctml:name>Qaraçala</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Salyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-SAL</ctml:parentRef>
+    <ctml:wikiDataId>Q4120929</ctml:wikiDataId>
+    <ctml:latitude>39.81614000</ctml:latitude>
+    <ctml:longitude>48.93792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8140" kind="city">
+    <ctml:name>Qarayeri</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Samukh</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-SMX</ctml:parentRef>
+    <ctml:wikiDataId>Q4140315</ctml:wikiDataId>
+    <ctml:latitude>40.78674000</ctml:latitude>
+    <ctml:longitude>46.31365000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8156" kind="city">
+    <ctml:name>Qırmızı Samux</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Samukh</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-SMX</ctml:parentRef>
+    <ctml:wikiDataId>Q4913690</ctml:wikiDataId>
+    <ctml:latitude>40.93972000</ctml:latitude>
+    <ctml:longitude>46.37889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8057" kind="city">
+    <ctml:name>Baş Göynük</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Shaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-SAK</ctml:parentRef>
+    <ctml:wikiDataId>Q4875325</ctml:wikiDataId>
+    <ctml:latitude>41.32582000</ctml:latitude>
+    <ctml:longitude>47.11357000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8075" kind="city">
+    <ctml:name>Dolyar</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Shamkir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-SKR</ctml:parentRef>
+    <ctml:wikiDataId>Q4154188</ctml:wikiDataId>
+    <ctml:latitude>40.86278000</ctml:latitude>
+    <ctml:longitude>46.03493000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8077" kind="city">
+    <ctml:name>Dzagam</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Shamkir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-SKR</ctml:parentRef>
+    <ctml:wikiDataId>Q4140363</ctml:wikiDataId>
+    <ctml:latitude>40.90330000</ctml:latitude>
+    <ctml:longitude>45.88564000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8143" kind="city">
+    <ctml:name>Qasım İsmayılov</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Shamkir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-SKR</ctml:parentRef>
+    <ctml:wikiDataId>Q7267065</ctml:wikiDataId>
+    <ctml:latitude>40.81243000</ctml:latitude>
+    <ctml:longitude>46.25938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8083" kind="city">
+    <ctml:name>Gilgilçay</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Siazan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-SIY</ctml:parentRef>
+    <ctml:wikiDataId>Q4138326</ctml:wikiDataId>
+    <ctml:latitude>41.13932000</ctml:latitude>
+    <ctml:longitude>49.09038000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8070" kind="city">
+    <ctml:name>Corat</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Sumqayit</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q4120953</ctml:wikiDataId>
+    <ctml:latitude>40.57176000</ctml:latitude>
+    <ctml:longitude>49.70509000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8086" kind="city">
+    <ctml:name>Hacı Zeynalabdin</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Sumqayit</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q4120954</ctml:wikiDataId>
+    <ctml:latitude>40.62333000</ctml:latitude>
+    <ctml:longitude>49.55861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8114" kind="city">
+    <ctml:name>Martakert</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Tartar</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-TAR</ctml:parentRef>
+    <ctml:wikiDataId>Q794712</ctml:wikiDataId>
+    <ctml:latitude>40.21127000</ctml:latitude>
+    <ctml:longitude>46.82135000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8207" kind="city">
+    <ctml:name>Çatax</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Tovuz</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-TOV</ctml:parentRef>
+    <ctml:wikiDataId>Q4992165</ctml:wikiDataId>
+    <ctml:latitude>40.72622000</ctml:latitude>
+    <ctml:longitude>45.55919000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8209" kind="city">
+    <ctml:name>Çobansığnaq</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Tovuz</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-TOV</ctml:parentRef>
+    <ctml:wikiDataId>Q12712919</ctml:wikiDataId>
+    <ctml:latitude>40.75244000</ctml:latitude>
+    <ctml:longitude>45.70645000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8076" kind="city">
+    <ctml:name>Dondar Quşçu</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Tovuz</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-TOV</ctml:parentRef>
+    <ctml:wikiDataId>Q4993012</ctml:wikiDataId>
+    <ctml:latitude>40.95390000</ctml:latitude>
+    <ctml:longitude>45.61942000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8139" kind="city">
+    <ctml:name>Qaraxanlı</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Tovuz</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-TOV</ctml:parentRef>
+    <ctml:wikiDataId>Q4991541</ctml:wikiDataId>
+    <ctml:latitude>41.04358000</ctml:latitude>
+    <ctml:longitude>45.65527000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8193" kind="city">
+    <ctml:name>Yanıqlı</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Tovuz</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-TOV</ctml:parentRef>
+    <ctml:wikiDataId>Q4991826</ctml:wikiDataId>
+    <ctml:latitude>40.84320000</ctml:latitude>
+    <ctml:longitude>45.68030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8043" kind="city">
+    <ctml:name>Aran</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Yevlakh</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-YEV</ctml:parentRef>
+    <ctml:wikiDataId>Q4068504</ctml:wikiDataId>
+    <ctml:latitude>40.62528000</ctml:latitude>
+    <ctml:longitude>46.97556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8138" kind="city">
+    <ctml:name>Qaramanlı</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Yevlakh</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-YEV</ctml:parentRef>
+    <ctml:wikiDataId>Q5070570</ctml:wikiDataId>
+    <ctml:latitude>40.48135000</ctml:latitude>
+    <ctml:longitude>46.99339000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8117" kind="city">
+    <ctml:name>Mincivan</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Zangilan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-ZAN</ctml:parentRef>
+    <ctml:wikiDataId>Q2528138</ctml:wikiDataId>
+    <ctml:latitude>39.03023000</ctml:latitude>
+    <ctml:longitude>46.72329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8040" kind="city">
+    <ctml:name>Aliabad</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Zaqatala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-ZAQ</ctml:parentRef>
+    <ctml:wikiDataId>Q3651686</ctml:wikiDataId>
+    <ctml:latitude>41.48290000</ctml:latitude>
+    <ctml:longitude>46.63483000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8079" kind="city">
+    <ctml:name>Faldarlı</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Zaqatala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-ZAQ</ctml:parentRef>
+    <ctml:wikiDataId>Q5070803</ctml:wikiDataId>
+    <ctml:latitude>41.46868000</ctml:latitude>
+    <ctml:longitude>46.51579000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8112" kind="city">
+    <ctml:name>Mamrux</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Zaqatala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-ZAQ</ctml:parentRef>
+    <ctml:wikiDataId>Q4967860</ctml:wikiDataId>
+    <ctml:latitude>41.54243000</ctml:latitude>
+    <ctml:longitude>46.76700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AZE-8137" kind="city">
+    <ctml:name>Qandax</ctml:name>
+    <ctml:country>AZE</ctml:country>
+    <ctml:admin1>Zaqatala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AZ-ZAQ</ctml:parentRef>
+    <ctml:wikiDataId>Q5074564</ctml:wikiDataId>
+    <ctml:latitude>41.47546000</ctml:latitude>
+    <ctml:longitude>46.54128000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

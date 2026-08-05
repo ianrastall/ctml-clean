@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MCO-160046" kind="city">
+    <ctml:name>Fontvieille</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>Fontvieille</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-FO</ctml:parentRef>
+    <ctml:wikiDataId>Q55098</ctml:wikiDataId>
+    <ctml:latitude>43.72944444</ctml:latitude>
+    <ctml:longitude>7.41500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160047" kind="city">
+    <ctml:name>Jardin Exotique</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>Jardin Exotique</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-JE</ctml:parentRef>
+    <ctml:wikiDataId>Q19286504</ctml:wikiDataId>
+    <ctml:latitude>43.73138889</ctml:latitude>
+    <ctml:longitude>7.41388889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160048" kind="city">
+    <ctml:name>La Colle</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>La Colle</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-CL</ctml:parentRef>
+    <ctml:wikiDataId>Q55102</ctml:wikiDataId>
+    <ctml:latitude>43.73274650</ctml:latitude>
+    <ctml:longitude>7.41372760</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160049" kind="city">
+    <ctml:name>La Condamine</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>La Condamine</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q55095</ctml:wikiDataId>
+    <ctml:latitude>43.73506650</ctml:latitude>
+    <ctml:longitude>7.41990600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160050" kind="city">
+    <ctml:name>La Gare</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>La Gare</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-GA</ctml:parentRef>
+    <ctml:latitude>43.73190000</ctml:latitude>
+    <ctml:longitude>7.41680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160051" kind="city">
+    <ctml:name>La Source</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>La Source</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-SO</ctml:parentRef>
+    <ctml:latitude>43.73650000</ctml:latitude>
+    <ctml:longitude>7.41950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160052" kind="city">
+    <ctml:name>Larvotto</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>Larvotto</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q55088</ctml:wikiDataId>
+    <ctml:latitude>43.74666667</ctml:latitude>
+    <ctml:longitude>7.43333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160053" kind="city">
+    <ctml:name>Malbousquet</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>Malbousquet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-MA</ctml:parentRef>
+    <ctml:latitude>43.73450000</ctml:latitude>
+    <ctml:longitude>7.42150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160054" kind="city">
+    <ctml:name>Monaco-Ville</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>Monaco-Ville</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q55103</ctml:wikiDataId>
+    <ctml:latitude>43.73110000</ctml:latitude>
+    <ctml:longitude>7.42000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160055" kind="city">
+    <ctml:name>Moneghetti</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>Moneghetti</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-MG</ctml:parentRef>
+    <ctml:wikiDataId>Q55108</ctml:wikiDataId>
+    <ctml:latitude>43.73649270</ctml:latitude>
+    <ctml:longitude>7.41533830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160056" kind="city">
+    <ctml:name>Monte-Carlo</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>Monte-Carlo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q45240</ctml:wikiDataId>
+    <ctml:latitude>43.73972222</ctml:latitude>
+    <ctml:longitude>7.42722222</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160057" kind="city">
+    <ctml:name>Moulins</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>Moulins</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-MU</ctml:parentRef>
+    <ctml:latitude>43.73890000</ctml:latitude>
+    <ctml:longitude>7.41850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160058" kind="city">
+    <ctml:name>Port-Hercule</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>Port-Hercule</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-PH</ctml:parentRef>
+    <ctml:wikiDataId>Q1416547</ctml:wikiDataId>
+    <ctml:latitude>43.73470000</ctml:latitude>
+    <ctml:longitude>7.42530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160059" kind="city">
+    <ctml:name>Saint-Roman</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>Saint-Roman</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-SR</ctml:parentRef>
+    <ctml:latitude>43.74530000</ctml:latitude>
+    <ctml:longitude>7.43180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160060" kind="city">
+    <ctml:name>Sainte-Dévote</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>Sainte-Dévote</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-SD</ctml:parentRef>
+    <ctml:latitude>43.73720000</ctml:latitude>
+    <ctml:longitude>7.42080000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160061" kind="city">
+    <ctml:name>Spélugues</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>Spélugues</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-SP</ctml:parentRef>
+    <ctml:latitude>43.73920000</ctml:latitude>
+    <ctml:longitude>7.42510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MCO-160062" kind="city">
+    <ctml:name>Vallon de la Rousse</ctml:name>
+    <ctml:country>MCO</ctml:country>
+    <ctml:admin1>Vallon de la Rousse</ctml:admin1>
+    <ctml:parentRef>place:admin1:MC-VR</ctml:parentRef>
+    <ctml:latitude>43.74010000</ctml:latitude>
+    <ctml:longitude>7.41750000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

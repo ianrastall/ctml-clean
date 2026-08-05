@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:JOR-63207" kind="city">
+    <ctml:name>‘Anjarah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Ajloun</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3505801</ctml:wikiDataId>
+    <ctml:latitude>32.30630000</ctml:latitude>
+    <ctml:longitude>35.75653000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63208" kind="city">
+    <ctml:name>‘Ayn Jannah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Ajloun</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2828134</ctml:wikiDataId>
+    <ctml:latitude>32.33466000</ctml:latitude>
+    <ctml:longitude>35.76370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63202" kind="city">
+    <ctml:name>Ḩalāwah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Ajloun</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q15222591</ctml:wikiDataId>
+    <ctml:latitude>32.38433000</ctml:latitude>
+    <ctml:longitude>35.66167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63199" kind="city">
+    <ctml:name>Şakhrah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Ajloun</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q148062</ctml:wikiDataId>
+    <ctml:latitude>32.37087000</ctml:latitude>
+    <ctml:longitude>35.84267000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:JOR-63133" kind="admin2">
+    <ctml:name>Al Jīzah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Amman</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q3505791</ctml:wikiDataId>
+    <ctml:latitude>31.69893000</ctml:latitude>
+    <ctml:longitude>35.95530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:JOR-63132" kind="admin2">
+    <ctml:name>Al Jubayhah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Amman</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q3505791</ctml:wikiDataId>
+    <ctml:latitude>32.01071000</ctml:latitude>
+    <ctml:longitude>35.89802000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63141" kind="city">
+    <ctml:name>Amman</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Amman</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q3805</ctml:wikiDataId>
+    <ctml:latitude>31.95522000</ctml:latitude>
+    <ctml:longitude>35.94503000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63203" kind="city">
+    <ctml:name>Ḩayy al Bunayyāt</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Amman</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q15222591</ctml:wikiDataId>
+    <ctml:latitude>31.89603000</ctml:latitude>
+    <ctml:longitude>35.88465000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63204" kind="city">
+    <ctml:name>Ḩayy al Quwaysimah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Amman</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q3505801</ctml:wikiDataId>
+    <ctml:latitude>31.91037000</ctml:latitude>
+    <ctml:longitude>35.94975000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63162" kind="city">
+    <ctml:name>Jāwā</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Amman</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q31565</ctml:wikiDataId>
+    <ctml:latitude>31.85247000</ctml:latitude>
+    <ctml:longitude>35.93928000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:JOR-63185" kind="admin2">
+    <ctml:name>Saḩāb</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Amman</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q2305496</ctml:wikiDataId>
+    <ctml:latitude>31.87032000</ctml:latitude>
+    <ctml:longitude>36.00479000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63192" kind="city">
+    <ctml:name>Umm as Summāq</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Amman</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q131955</ctml:wikiDataId>
+    <ctml:latitude>31.88542000</ctml:latitude>
+    <ctml:longitude>35.85430000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:JOR-63194" kind="admin2">
+    <ctml:name>Wādī as Sīr</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Amman</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q1020997</ctml:wikiDataId>
+    <ctml:latitude>31.95450000</ctml:latitude>
+    <ctml:longitude>35.81831000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63188" kind="city">
+    <ctml:name>Tala Bay</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Aqaba</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AQ</ctml:parentRef>
+    <ctml:wikiDataId>Q2305496</ctml:wikiDataId>
+    <ctml:latitude>29.40842000</ctml:latitude>
+    <ctml:longitude>34.97918000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63134" kind="city">
+    <ctml:name>Al Karāmah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Balqa</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q3505791</ctml:wikiDataId>
+    <ctml:latitude>31.95439000</ctml:latitude>
+    <ctml:longitude>35.58033000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63195" kind="city">
+    <ctml:name>Yarqā</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Balqa</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1020997</ctml:wikiDataId>
+    <ctml:latitude>31.97583000</ctml:latitude>
+    <ctml:longitude>35.69638000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:JOR-63144" kind="admin2">
+    <ctml:name>Ar Ramthā</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q31594</ctml:wikiDataId>
+    <ctml:latitude>32.55873000</ctml:latitude>
+    <ctml:longitude>36.00816000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63146" kind="city">
+    <ctml:name>Ash Shajarah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q867586</ctml:wikiDataId>
+    <ctml:latitude>32.64391000</ctml:latitude>
+    <ctml:longitude>35.94175000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:JOR-63151" kind="admin2">
+    <ctml:name>Aţ Ţayyibah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q3299624</ctml:wikiDataId>
+    <ctml:latitude>32.54304000</ctml:latitude>
+    <ctml:longitude>35.71756000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63152" kind="city">
+    <ctml:name>Aţ Ţurrah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q3299624</ctml:wikiDataId>
+    <ctml:latitude>32.63979000</ctml:latitude>
+    <ctml:longitude>35.98943000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63148" kind="city">
+    <ctml:name>Aydūn</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q3299624</ctml:wikiDataId>
+    <ctml:latitude>32.50528000</ctml:latitude>
+    <ctml:longitude>35.85809000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63155" kind="city">
+    <ctml:name>Bayt Īdis</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q3299624</ctml:wikiDataId>
+    <ctml:latitude>32.43775000</ctml:latitude>
+    <ctml:longitude>35.69765000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63154" kind="city">
+    <ctml:name>Bayt Yāfā</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q3299624</ctml:wikiDataId>
+    <ctml:latitude>32.52253000</ctml:latitude>
+    <ctml:longitude>35.78618000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63158" kind="city">
+    <ctml:name>Dayr Yūsuf</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q3299624</ctml:wikiDataId>
+    <ctml:latitude>32.48701000</ctml:latitude>
+    <ctml:longitude>35.79635000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63201" kind="city">
+    <ctml:name>Ḩakamā</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q6809601</ctml:wikiDataId>
+    <ctml:latitude>32.59354000</ctml:latitude>
+    <ctml:longitude>35.88320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63205" kind="city">
+    <ctml:name>Ḩātim</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q3505801</ctml:wikiDataId>
+    <ctml:latitude>32.64492000</ctml:latitude>
+    <ctml:longitude>35.77771000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63161" kind="city">
+    <ctml:name>Judita</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q31565</ctml:wikiDataId>
+    <ctml:latitude>32.40792000</ctml:latitude>
+    <ctml:longitude>35.70802000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63163" kind="city">
+    <ctml:name>Kafr Abīl</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q31565</ctml:wikiDataId>
+    <ctml:latitude>32.41752000</ctml:latitude>
+    <ctml:longitude>35.66305000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:JOR-63164" kind="admin2">
+    <ctml:name>Kafr Asad</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q31565</ctml:wikiDataId>
+    <ctml:latitude>32.59800000</ctml:latitude>
+    <ctml:longitude>35.71266000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63165" kind="city">
+    <ctml:name>Kafr Sawm</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q31565</ctml:wikiDataId>
+    <ctml:latitude>32.68527000</ctml:latitude>
+    <ctml:longitude>35.80102000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63167" kind="city">
+    <ctml:name>Kharjā</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q31565</ctml:wikiDataId>
+    <ctml:latitude>32.65988000</ctml:latitude>
+    <ctml:longitude>35.88782000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63168" kind="city">
+    <ctml:name>Kitim</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q31565</ctml:wikiDataId>
+    <ctml:latitude>32.43834000</ctml:latitude>
+    <ctml:longitude>35.89677000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63169" kind="city">
+    <ctml:name>Kurayyimah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q27122897</ctml:wikiDataId>
+    <ctml:latitude>32.27639000</ctml:latitude>
+    <ctml:longitude>35.59938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63172" kind="city">
+    <ctml:name>Malkā</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q12244985</ctml:wikiDataId>
+    <ctml:latitude>32.67645000</ctml:latitude>
+    <ctml:longitude>35.74851000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63176" kind="city">
+    <ctml:name>Qumaym</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q2739446</ctml:wikiDataId>
+    <ctml:latitude>32.57174000</ctml:latitude>
+    <ctml:longitude>35.73452000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63184" kind="city">
+    <ctml:name>Saḩam al Kaffārāt</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q2305496</ctml:wikiDataId>
+    <ctml:latitude>32.69848000</ctml:latitude>
+    <ctml:longitude>35.77438000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63186" kind="city">
+    <ctml:name>Sāl</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q2305496</ctml:wikiDataId>
+    <ctml:latitude>32.56897000</ctml:latitude>
+    <ctml:longitude>35.91185000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63200" kind="city">
+    <ctml:name>Şammā</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q6809601</ctml:wikiDataId>
+    <ctml:latitude>32.57102000</ctml:latitude>
+    <ctml:longitude>35.68984000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63189" kind="city">
+    <ctml:name>Tibnah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q2305496</ctml:wikiDataId>
+    <ctml:latitude>32.47521000</ctml:latitude>
+    <ctml:longitude>35.73056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63190" kind="city">
+    <ctml:name>Umm Qays</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q131955</ctml:wikiDataId>
+    <ctml:latitude>32.65348000</ctml:latitude>
+    <ctml:longitude>35.68457000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63193" kind="city">
+    <ctml:name>Waqqāş</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q131955</ctml:wikiDataId>
+    <ctml:latitude>32.54214000</ctml:latitude>
+    <ctml:longitude>35.60508000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63197" kind="city">
+    <ctml:name>Zaḩar</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Irbid</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-IR</ctml:parentRef>
+    <ctml:wikiDataId>Q148062</ctml:wikiDataId>
+    <ctml:latitude>32.56670000</ctml:latitude>
+    <ctml:longitude>35.77811000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63136" kind="city">
+    <ctml:name>Al Kittah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Jerash</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-JA</ctml:parentRef>
+    <ctml:wikiDataId>Q3505791</ctml:wikiDataId>
+    <ctml:latitude>32.27685000</ctml:latitude>
+    <ctml:longitude>35.84114000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63153" kind="city">
+    <ctml:name>Balīlā</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Jerash</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-JA</ctml:parentRef>
+    <ctml:wikiDataId>Q3299624</ctml:wikiDataId>
+    <ctml:latitude>32.39109000</ctml:latitude>
+    <ctml:longitude>35.93832000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63156" kind="city">
+    <ctml:name>Burmā</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Jerash</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-JA</ctml:parentRef>
+    <ctml:wikiDataId>Q3299624</ctml:wikiDataId>
+    <ctml:latitude>32.21930000</ctml:latitude>
+    <ctml:longitude>35.78507000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63175" kind="city">
+    <ctml:name>Qafqafā</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Jerash</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-JA</ctml:parentRef>
+    <ctml:wikiDataId>Q2739446</ctml:wikiDataId>
+    <ctml:latitude>32.34851000</ctml:latitude>
+    <ctml:longitude>35.93864000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63178" kind="city">
+    <ctml:name>Raymūn</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Jerash</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-JA</ctml:parentRef>
+    <ctml:wikiDataId>Q31572</ctml:wikiDataId>
+    <ctml:latitude>32.28202000</ctml:latitude>
+    <ctml:longitude>35.82779000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63183" kind="city">
+    <ctml:name>Sakib</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Jerash</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-JA</ctml:parentRef>
+    <ctml:wikiDataId>Q2305496</ctml:wikiDataId>
+    <ctml:latitude>32.28431000</ctml:latitude>
+    <ctml:longitude>35.80909000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63187" kind="city">
+    <ctml:name>Sūf</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Jerash</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-JA</ctml:parentRef>
+    <ctml:wikiDataId>Q2305496</ctml:wikiDataId>
+    <ctml:latitude>32.31372000</ctml:latitude>
+    <ctml:longitude>35.83713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:JOR-63209" kind="admin2">
+    <ctml:name>‘Ayy</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Karak</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q2828134</ctml:wikiDataId>
+    <ctml:latitude>31.13371000</ctml:latitude>
+    <ctml:longitude>35.64375000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63210" kind="city">
+    <ctml:name>‘Izrā</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Karak</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q2828134</ctml:wikiDataId>
+    <ctml:latitude>31.15889000</ctml:latitude>
+    <ctml:longitude>35.69278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63129" kind="city">
+    <ctml:name>Adir</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Karak</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q27125599</ctml:wikiDataId>
+    <ctml:latitude>31.20217000</ctml:latitude>
+    <ctml:longitude>35.76155000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63135" kind="city">
+    <ctml:name>Al Khinzīrah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Karak</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q3505791</ctml:wikiDataId>
+    <ctml:latitude>31.05056000</ctml:latitude>
+    <ctml:longitude>35.60606000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:JOR-63137" kind="admin2">
+    <ctml:name>Al Mazār al Janūbī</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Karak</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q3505791</ctml:wikiDataId>
+    <ctml:latitude>31.06722000</ctml:latitude>
+    <ctml:longitude>35.69486000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:JOR-63138" kind="admin2">
+    <ctml:name>Al Qaşr</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Karak</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q3505791</ctml:wikiDataId>
+    <ctml:latitude>31.31407000</ctml:latitude>
+    <ctml:longitude>35.74393000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63143" kind="city">
+    <ctml:name>Ar Rabbah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Karak</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q847351</ctml:wikiDataId>
+    <ctml:latitude>31.26923000</ctml:latitude>
+    <ctml:longitude>35.73829000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63182" kind="city">
+    <ctml:name>Safi</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Karak</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q2361176</ctml:wikiDataId>
+    <ctml:latitude>31.03608000</ctml:latitude>
+    <ctml:longitude>35.46544000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63131" kind="city">
+    <ctml:name>Al Jafr</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Ma'an</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q27125599</ctml:wikiDataId>
+    <ctml:latitude>30.31840000</ctml:latitude>
+    <ctml:longitude>36.17775000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63139" kind="city">
+    <ctml:name>Al Quwayrah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Ma'an</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q3505791</ctml:wikiDataId>
+    <ctml:latitude>29.80045000</ctml:latitude>
+    <ctml:longitude>35.31160000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:JOR-63147" kind="admin2">
+    <ctml:name>Ash Shawbak</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Ma'an</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q3299624</ctml:wikiDataId>
+    <ctml:latitude>30.52134000</ctml:latitude>
+    <ctml:longitude>35.57135000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63150" kind="city">
+    <ctml:name>Aţ Ţayyibah</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Ma'an</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q3299624</ctml:wikiDataId>
+    <ctml:latitude>30.25125000</ctml:latitude>
+    <ctml:longitude>35.46570000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63174" kind="city">
+    <ctml:name>Petra</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Ma'an</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q2739446</ctml:wikiDataId>
+    <ctml:latitude>30.32096000</ctml:latitude>
+    <ctml:longitude>35.47895000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63177" kind="city">
+    <ctml:name>Qīr Moāv</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Ma'an</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q31572</ctml:wikiDataId>
+    <ctml:latitude>31.18248000</ctml:latitude>
+    <ctml:longitude>35.69999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63140" kind="city">
+    <ctml:name>Al Ḩamrā’</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Mafraq</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q3505791</ctml:wikiDataId>
+    <ctml:latitude>32.44017000</ctml:latitude>
+    <ctml:longitude>36.15265000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63179" kind="city">
+    <ctml:name>Rehab</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Mafraq</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q31572</ctml:wikiDataId>
+    <ctml:latitude>32.32341000</ctml:latitude>
+    <ctml:longitude>36.09087000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63180" kind="city">
+    <ctml:name>Rukban</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Mafraq</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q31572</ctml:wikiDataId>
+    <ctml:latitude>33.31405000</ctml:latitude>
+    <ctml:longitude>38.70342000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63198" kind="city">
+    <ctml:name>Şabḩā</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Mafraq</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q148062</ctml:wikiDataId>
+    <ctml:latitude>32.32696000</ctml:latitude>
+    <ctml:longitude>36.50159000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63191" kind="city">
+    <ctml:name>Umm al Qiţţayn</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Mafraq</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q131955</ctml:wikiDataId>
+    <ctml:latitude>32.31449000</ctml:latitude>
+    <ctml:longitude>36.62826000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:JOR-63157" kind="admin2">
+    <ctml:name>Buşayrā</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Tafilah</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q3299624</ctml:wikiDataId>
+    <ctml:latitude>30.73256000</ctml:latitude>
+    <ctml:longitude>35.60943000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63130" kind="city">
+    <ctml:name>Al Azraq ash Shamālī</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Zarqa</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AZ</ctml:parentRef>
+    <ctml:wikiDataId>Q27125599</ctml:wikiDataId>
+    <ctml:latitude>31.88209000</ctml:latitude>
+    <ctml:longitude>36.83017000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:JOR-63181" kind="city">
+    <ctml:name>Russeifa</ctml:name>
+    <ctml:country>JOR</ctml:country>
+    <ctml:admin1>Zarqa</ctml:admin1>
+    <ctml:parentRef>place:admin1:JO-AZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2361176</ctml:wikiDataId>
+    <ctml:latitude>32.01778000</ctml:latitude>
+    <ctml:longitude>36.04639000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

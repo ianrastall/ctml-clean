@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:IRQ-134552" kind="admin2">
+    <ctml:name>‘Anah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Al Anbar</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2627750</ctml:wikiDataId>
+    <ctml:latitude>34.36857000</ctml:latitude>
+    <ctml:longitude>41.98194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134553" kind="city">
+    <ctml:name>‘Anat al Qadīmah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Al Anbar</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2627750</ctml:wikiDataId>
+    <ctml:latitude>34.46934000</ctml:latitude>
+    <ctml:longitude>41.94223000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134478" kind="admin2">
+    <ctml:name>Al Fallūjah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Al Anbar</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q191170</ctml:wikiDataId>
+    <ctml:latitude>33.34913000</ctml:latitude>
+    <ctml:longitude>43.78599000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134495" kind="admin2">
+    <ctml:name>Ar Ruţbah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Al Anbar</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q4532299</ctml:wikiDataId>
+    <ctml:latitude>33.03718000</ctml:latitude>
+    <ctml:longitude>40.28586000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134548" kind="admin2">
+    <ctml:name>Ḩadīthah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Al Anbar</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q944368</ctml:wikiDataId>
+    <ctml:latitude>34.13661000</ctml:latitude>
+    <ctml:longitude>42.37727000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134514" kind="admin2">
+    <ctml:name>Hīt</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Al Anbar</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2422345</ctml:wikiDataId>
+    <ctml:latitude>33.63664000</ctml:latitude>
+    <ctml:longitude>42.82768000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134515" kind="city">
+    <ctml:name>Hīt District</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Al Anbar</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q4119531</ctml:wikiDataId>
+    <ctml:latitude>33.73482000</ctml:latitude>
+    <ctml:longitude>42.68228000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134535" kind="admin2">
+    <ctml:name>Rāwah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Al Anbar</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2354244</ctml:wikiDataId>
+    <ctml:latitude>34.48229000</ctml:latitude>
+    <ctml:longitude>41.91898000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134494" kind="admin2">
+    <ctml:name>Ar Rumaythah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Al Muthanna</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-MU</ctml:parentRef>
+    <ctml:wikiDataId>Q4532299</ctml:wikiDataId>
+    <ctml:latitude>31.52845000</ctml:latitude>
+    <ctml:longitude>45.20377000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134550" kind="admin2">
+    <ctml:name>‘Afak</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Al-Qādisiyyah</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-QA</ctml:parentRef>
+    <ctml:wikiDataId>Q1029650</ctml:wikiDataId>
+    <ctml:latitude>32.06430000</ctml:latitude>
+    <ctml:longitude>45.24743000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134501" kind="admin2">
+    <ctml:name>Ash Shāmīyah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Al-Qādisiyyah</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-QA</ctml:parentRef>
+    <ctml:wikiDataId>Q2669841</ctml:wikiDataId>
+    <ctml:latitude>31.96257000</ctml:latitude>
+    <ctml:longitude>44.60075000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134530" kind="city">
+    <ctml:name>Nāḩiyat ash Shināfīyah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Al-Qādisiyyah</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-QA</ctml:parentRef>
+    <ctml:wikiDataId>Q38811</ctml:wikiDataId>
+    <ctml:latitude>31.58376000</ctml:latitude>
+    <ctml:longitude>44.64675000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134526" kind="city">
+    <ctml:name>Nahiyat Ghammas</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Al-Qādisiyyah</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-QA</ctml:parentRef>
+    <ctml:wikiDataId>Q4133105</ctml:wikiDataId>
+    <ctml:latitude>31.74311000</ctml:latitude>
+    <ctml:longitude>44.61960000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134486" kind="admin2">
+    <ctml:name>Al Musayyib</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Babylon</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BB</ctml:parentRef>
+    <ctml:wikiDataId>Q4120374</ctml:wikiDataId>
+    <ctml:latitude>32.77872000</ctml:latitude>
+    <ctml:longitude>44.29005000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134516" kind="city">
+    <ctml:name>Imam Qasim</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Babylon</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BB</ctml:parentRef>
+    <ctml:wikiDataId>Q4119531</ctml:wikiDataId>
+    <ctml:latitude>32.29799000</ctml:latitude>
+    <ctml:longitude>44.68282000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134531" kind="city">
+    <ctml:name>Nāḩīyat Saddat al Hindīyah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Babylon</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BB</ctml:parentRef>
+    <ctml:wikiDataId>Q4404528</ctml:wikiDataId>
+    <ctml:latitude>32.71557000</ctml:latitude>
+    <ctml:longitude>44.27857000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134473" kind="city">
+    <ctml:name>Abu Ghraib</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q1637459</ctml:wikiDataId>
+    <ctml:latitude>33.29194000</ctml:latitude>
+    <ctml:longitude>44.06919000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134474" kind="admin2">
+    <ctml:name>Abū Ghurayb</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q335021</ctml:wikiDataId>
+    <ctml:latitude>33.30563000</ctml:latitude>
+    <ctml:longitude>44.18477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-153202" kind="admin2">
+    <ctml:name>Adamiyah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q12215048</ctml:wikiDataId>
+    <ctml:latitude>33.36917800</ctml:latitude>
+    <ctml:longitude>44.33955940</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153203" kind="city">
+    <ctml:name>Al Adel</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q4117860</ctml:wikiDataId>
+    <ctml:latitude>33.35912830</ctml:latitude>
+    <ctml:longitude>44.28138680</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153204" kind="city">
+    <ctml:name>Al Baladiyat</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q12184591</ctml:wikiDataId>
+    <ctml:latitude>33.34931610</ctml:latitude>
+    <ctml:longitude>44.41071530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-153205" kind="admin2">
+    <ctml:name>Al Jamaa</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q31174551</ctml:wikiDataId>
+    <ctml:latitude>33.34114470</ctml:latitude>
+    <ctml:longitude>44.34062690</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153206" kind="city">
+    <ctml:name>Al Saadoon Park</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q36498646</ctml:wikiDataId>
+    <ctml:latitude>33.32480360</ctml:latitude>
+    <ctml:longitude>44.41470980</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153207" kind="city">
+    <ctml:name>Al Salhiah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q36498646</ctml:wikiDataId>
+    <ctml:latitude>33.32254010</ctml:latitude>
+    <ctml:longitude>44.38425050</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153208" kind="city">
+    <ctml:name>Al Za'franiya</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q4120505</ctml:wikiDataId>
+    <ctml:latitude>33.31857750</ctml:latitude>
+    <ctml:longitude>44.48686390</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153209" kind="city">
+    <ctml:name>Al-Ubaidi</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q2118592</ctml:wikiDataId>
+    <ctml:latitude>33.32036030</ctml:latitude>
+    <ctml:longitude>44.45955910</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153210" kind="city">
+    <ctml:name>Al-Wahda</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q286301</ctml:wikiDataId>
+    <ctml:latitude>33.31115820</ctml:latitude>
+    <ctml:longitude>44.43352280</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153211" kind="city">
+    <ctml:name>Ameria</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q463033</ctml:wikiDataId>
+    <ctml:latitude>33.29671020</ctml:latitude>
+    <ctml:longitude>44.27076790</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153212" kind="city">
+    <ctml:name>Amil</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.27606090</ctml:latitude>
+    <ctml:longitude>44.31037170</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153213" kind="city">
+    <ctml:name>Amin</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q2843347</ctml:wikiDataId>
+    <ctml:latitude>33.31248740</ctml:latitude>
+    <ctml:longitude>44.48634150</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153214" kind="city">
+    <ctml:name>Arasat AlHindiya</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.29335790</ctml:latitude>
+    <ctml:longitude>44.42302450</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-153215" kind="admin2">
+    <ctml:name>At Taifiya</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q7902296</ctml:wikiDataId>
+    <ctml:latitude>33.35643940</ctml:latitude>
+    <ctml:longitude>44.35791100</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-153216" kind="admin2">
+    <ctml:name>Bab Al Moatham</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q4115517</ctml:wikiDataId>
+    <ctml:latitude>33.36014170</ctml:latitude>
+    <ctml:longitude>44.36507700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153217" kind="city">
+    <ctml:name>Bab Al Sharqi</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q2896966</ctml:wikiDataId>
+    <ctml:latitude>33.33249060</ctml:latitude>
+    <ctml:longitude>44.41407910</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134504" kind="city">
+    <ctml:name>Baghdad</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q1530</ctml:wikiDataId>
+    <ctml:latitude>33.34058000</ctml:latitude>
+    <ctml:longitude>44.40088000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153218" kind="city">
+    <ctml:name>Baghdad Al Jadeeda</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.31335440</ctml:latitude>
+    <ctml:longitude>44.47157920</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-153219" kind="admin2">
+    <ctml:name>Baijai</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.33254000</ctml:latitude>
+    <ctml:longitude>44.34509550</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153220" kind="city">
+    <ctml:name>Bataween</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q130467025</ctml:wikiDataId>
+    <ctml:latitude>33.32112350</ctml:latitude>
+    <ctml:longitude>44.40855680</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153221" kind="city">
+    <ctml:name>Bayaa</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q804061</ctml:wikiDataId>
+    <ctml:latitude>33.28255440</ctml:latitude>
+    <ctml:longitude>44.37528030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153222" kind="city">
+    <ctml:name>Binouk</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.39278120</ctml:latitude>
+    <ctml:longitude>44.41114480</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153223" kind="city">
+    <ctml:name>Bo'aitha</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.24194630</ctml:latitude>
+    <ctml:longitude>44.42695090</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153224" kind="city">
+    <ctml:name>Camp Sarah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.30112930</ctml:latitude>
+    <ctml:longitude>44.44469600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153225" kind="city">
+    <ctml:name>Daoudi</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q37105575</ctml:wikiDataId>
+    <ctml:latitude>33.31214030</ctml:latitude>
+    <ctml:longitude>44.32584820</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-153226" kind="admin2">
+    <ctml:name>Dora</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q226695</ctml:wikiDataId>
+    <ctml:latitude>33.23126860</ctml:latitude>
+    <ctml:longitude>44.36198120</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153227" kind="city">
+    <ctml:name>Ghadeer</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q5555176</ctml:wikiDataId>
+    <ctml:latitude>33.33749740</ctml:latitude>
+    <ctml:longitude>44.46281840</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153228" kind="city">
+    <ctml:name>Ghazaliya</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q12190726</ctml:wikiDataId>
+    <ctml:latitude>33.34143530</ctml:latitude>
+    <ctml:longitude>44.22354420</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153229" kind="city">
+    <ctml:name>Gherai'at</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.39208370</ctml:latitude>
+    <ctml:longitude>44.30443140</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-153230" kind="admin2">
+    <ctml:name>Green Zone</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q1312431</ctml:wikiDataId>
+    <ctml:latitude>33.31376100</ctml:latitude>
+    <ctml:longitude>44.35900560</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153231" kind="city">
+    <ctml:name>Habibiya</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.33920270</ctml:latitude>
+    <ctml:longitude>44.46846120</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153232" kind="city">
+    <ctml:name>Harthiya</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.22626120</ctml:latitude>
+    <ctml:longitude>44.39826750</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153233" kind="city">
+    <ctml:name>Hurriya</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q5948441</ctml:wikiDataId>
+    <ctml:latitude>33.34241870</ctml:latitude>
+    <ctml:longitude>44.30656300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153234" kind="city">
+    <ctml:name>Iskan</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q6081260</ctml:wikiDataId>
+    <ctml:latitude>33.33405930</ctml:latitude>
+    <ctml:longitude>44.32303100</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153235" kind="city">
+    <ctml:name>Jadriyah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.26076360</ctml:latitude>
+    <ctml:longitude>44.41117200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153236" kind="city">
+    <ctml:name>Jamila</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q11927163</ctml:wikiDataId>
+    <ctml:latitude>33.35108840</ctml:latitude>
+    <ctml:longitude>44.41495600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153237" kind="city">
+    <ctml:name>Jihad</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q44311</ctml:wikiDataId>
+    <ctml:latitude>33.25289200</ctml:latitude>
+    <ctml:longitude>44.29231180</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-153238" kind="admin2">
+    <ctml:name>Kadhimiya</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q311315</ctml:wikiDataId>
+    <ctml:latitude>33.38129610</ctml:latitude>
+    <ctml:longitude>44.35139180</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153239" kind="city">
+    <ctml:name>Kamaliyah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q109673798</ctml:wikiDataId>
+    <ctml:latitude>33.35008480</ctml:latitude>
+    <ctml:longitude>44.50894110</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153240" kind="city">
+    <ctml:name>Karada</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q6367812</ctml:wikiDataId>
+    <ctml:latitude>33.29336610</ctml:latitude>
+    <ctml:longitude>44.39641530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153241" kind="city">
+    <ctml:name>Khadra</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q3195934</ctml:wikiDataId>
+    <ctml:latitude>33.31972470</ctml:latitude>
+    <ctml:longitude>44.28764700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153242" kind="city">
+    <ctml:name>Mansour</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q48978401</ctml:wikiDataId>
+    <ctml:latitude>33.31422960</ctml:latitude>
+    <ctml:longitude>44.33631230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153243" kind="city">
+    <ctml:name>Mashtal</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.32443210</ctml:latitude>
+    <ctml:longitude>44.49314830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153244" kind="city">
+    <ctml:name>Mustansiriya</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.36298920</ctml:latitude>
+    <ctml:longitude>44.38695430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153245" kind="city">
+    <ctml:name>Qadisiyah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q285674</ctml:wikiDataId>
+    <ctml:latitude>33.32719630</ctml:latitude>
+    <ctml:longitude>44.31623840</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153246" kind="city">
+    <ctml:name>Sadr City</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q1017715</ctml:wikiDataId>
+    <ctml:latitude>33.37692330</ctml:latitude>
+    <ctml:longitude>44.40446380</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153247" kind="city">
+    <ctml:name>Saidiya</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.26500930</ctml:latitude>
+    <ctml:longitude>44.33159340</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153248" kind="city">
+    <ctml:name>Sha'ab</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q721811</ctml:wikiDataId>
+    <ctml:latitude>33.41309100</ctml:latitude>
+    <ctml:longitude>44.38611030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153249" kind="city">
+    <ctml:name>Sheik Maaruf</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.33896010</ctml:latitude>
+    <ctml:longitude>44.34789580</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153250" kind="city">
+    <ctml:name>Shorjah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.34613940</ctml:latitude>
+    <ctml:longitude>44.39504420</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153251" kind="city">
+    <ctml:name>Suleikh</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.39343320</ctml:latitude>
+    <ctml:longitude>44.36144500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153252" kind="city">
+    <ctml:name>Ur</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.41694000</ctml:latitude>
+    <ctml:longitude>44.39060790</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153253" kind="city">
+    <ctml:name>Wazireya</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q4703341</ctml:wikiDataId>
+    <ctml:latitude>33.36366170</ctml:latitude>
+    <ctml:longitude>44.38196550</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153254" kind="city">
+    <ctml:name>Yarmouk</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:wikiDataId>Q1163870</ctml:wikiDataId>
+    <ctml:latitude>33.33938360</ctml:latitude>
+    <ctml:longitude>44.32212520</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-153255" kind="city">
+    <ctml:name>Ziyouna</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Baghdad</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BG</ctml:parentRef>
+    <ctml:latitude>33.32484340</ctml:latitude>
+    <ctml:longitude>44.45454600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134477" kind="city">
+    <ctml:name>Al Başrah al Qadīmah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Basra</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q694939</ctml:wikiDataId>
+    <ctml:latitude>30.50316000</ctml:latitude>
+    <ctml:longitude>47.81507000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134479" kind="admin2">
+    <ctml:name>Al Fāw</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Basra</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1164081</ctml:wikiDataId>
+    <ctml:latitude>29.97421000</ctml:latitude>
+    <ctml:longitude>48.47309000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134481" kind="city">
+    <ctml:name>Al Hārithah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Basra</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2617657</ctml:wikiDataId>
+    <ctml:latitude>30.58481000</ctml:latitude>
+    <ctml:longitude>47.76114000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134502" kind="admin2">
+    <ctml:name>Az Zubayr</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Basra</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q227509</ctml:wikiDataId>
+    <ctml:latitude>30.39213000</ctml:latitude>
+    <ctml:longitude>47.70175000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134546" kind="city">
+    <ctml:name>Umm Qaşr</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Basra</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q842407</ctml:wikiDataId>
+    <ctml:latitude>30.03620000</ctml:latitude>
+    <ctml:longitude>47.91951000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134500" kind="admin2">
+    <ctml:name>Ash Shaţrah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Dhi Qar</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-DQ</ctml:parentRef>
+    <ctml:wikiDataId>Q2669841</ctml:wikiDataId>
+    <ctml:latitude>31.40906000</ctml:latitude>
+    <ctml:longitude>46.17270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134529" kind="city">
+    <ctml:name>Nāḩiyat al Fuhūd</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Dhi Qar</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-DQ</ctml:parentRef>
+    <ctml:wikiDataId>Q38811</ctml:wikiDataId>
+    <ctml:latitude>30.96972000</ctml:latitude>
+    <ctml:longitude>46.72278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134484" kind="admin2">
+    <ctml:name>Al Miqdādīyah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Diyala</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q2353893</ctml:wikiDataId>
+    <ctml:latitude>33.97861000</ctml:latitude>
+    <ctml:longitude>44.93694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134506" kind="admin2">
+    <ctml:name>Baladrūz</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Diyala</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q804598</ctml:wikiDataId>
+    <ctml:latitude>33.69631000</ctml:latitude>
+    <ctml:longitude>45.07782000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134519" kind="city">
+    <ctml:name>Khāliş</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Diyala</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q199909</ctml:wikiDataId>
+    <ctml:latitude>33.80809000</ctml:latitude>
+    <ctml:longitude>44.53343000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134520" kind="admin2">
+    <ctml:name>Kifrī</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Diyala</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q2626532</ctml:wikiDataId>
+    <ctml:latitude>34.68963000</ctml:latitude>
+    <ctml:longitude>44.96057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134524" kind="city">
+    <ctml:name>Mandalī</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Diyala</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q1382440</ctml:wikiDataId>
+    <ctml:latitude>33.74810000</ctml:latitude>
+    <ctml:longitude>45.55503000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134532" kind="city">
+    <ctml:name>Qaḑā’ Kifrī</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Diyala</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q4404528</ctml:wikiDataId>
+    <ctml:latitude>34.52289000</ctml:latitude>
+    <ctml:longitude>44.85821000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134489" kind="admin2">
+    <ctml:name>Al ‘Amādīyah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Dohuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-DA</ctml:parentRef>
+    <ctml:wikiDataId>Q460736</ctml:wikiDataId>
+    <ctml:latitude>37.09214000</ctml:latitude>
+    <ctml:longitude>43.48769000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134509" kind="admin2">
+    <ctml:name>Batifa</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Dohuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-DA</ctml:parentRef>
+    <ctml:wikiDataId>Q48195</ctml:wikiDataId>
+    <ctml:latitude>37.17454000</ctml:latitude>
+    <ctml:longitude>43.01233000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134541" kind="city">
+    <ctml:name>Sīnah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Dohuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-DA</ctml:parentRef>
+    <ctml:wikiDataId>Q170047</ctml:wikiDataId>
+    <ctml:latitude>36.80851000</ctml:latitude>
+    <ctml:longitude>43.03935000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134547" kind="admin2">
+    <ctml:name>Zaxo</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Dohuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-DA</ctml:parentRef>
+    <ctml:wikiDataId>Q167800</ctml:wikiDataId>
+    <ctml:latitude>37.14871000</ctml:latitude>
+    <ctml:longitude>42.68591000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134522" kind="admin2">
+    <ctml:name>Koysinceq</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Erbil</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q1778824</ctml:wikiDataId>
+    <ctml:latitude>36.08289000</ctml:latitude>
+    <ctml:longitude>44.62873000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134534" kind="admin2">
+    <ctml:name>Ruwāndiz</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Erbil</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q579438</ctml:wikiDataId>
+    <ctml:latitude>36.61207000</ctml:latitude>
+    <ctml:longitude>44.52372000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134536" kind="admin2">
+    <ctml:name>Shaqlāwah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Erbil</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2231235</ctml:wikiDataId>
+    <ctml:latitude>36.40422000</ctml:latitude>
+    <ctml:longitude>44.32563000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134539" kind="admin2">
+    <ctml:name>Soran</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Erbil</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q955690</ctml:wikiDataId>
+    <ctml:latitude>36.65320000</ctml:latitude>
+    <ctml:longitude>44.54407000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134480" kind="admin2">
+    <ctml:name>Al Hindīyah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Karbala</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q2617657</ctml:wikiDataId>
+    <ctml:latitude>32.54671000</ctml:latitude>
+    <ctml:longitude>44.22765000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134551" kind="admin2">
+    <ctml:name>‘Alī al Gharbī</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Maysan</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q1029650</ctml:wikiDataId>
+    <ctml:latitude>32.46186000</ctml:latitude>
+    <ctml:longitude>46.68794000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134493" kind="city">
+    <ctml:name>Al-Mejar Al-Kabi</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Maysan</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2995584</ctml:wikiDataId>
+    <ctml:latitude>31.42940000</ctml:latitude>
+    <ctml:longitude>47.20355000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134485" kind="city">
+    <ctml:name>Al Mishkhāb</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Najaf</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-NA</ctml:parentRef>
+    <ctml:wikiDataId>Q2353893</ctml:wikiDataId>
+    <ctml:latitude>31.80437000</ctml:latitude>
+    <ctml:longitude>44.48930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134523" kind="city">
+    <ctml:name>Kufa</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Najaf</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-NA</ctml:parentRef>
+    <ctml:wikiDataId>Q186234</ctml:wikiDataId>
+    <ctml:latitude>32.05114000</ctml:latitude>
+    <ctml:longitude>44.44017000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134554" kind="admin2">
+    <ctml:name>‘Aqrah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Nineveh</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q421302</ctml:wikiDataId>
+    <ctml:latitude>36.76038000</ctml:latitude>
+    <ctml:longitude>43.89428000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134483" kind="city">
+    <ctml:name>Al Mawşil al Jadīdah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Nineveh</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q328030</ctml:wikiDataId>
+    <ctml:latitude>36.33271000</ctml:latitude>
+    <ctml:longitude>43.10555000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134492" kind="city">
+    <ctml:name>Al-Hamdaniya</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Nineveh</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q2995584</ctml:wikiDataId>
+    <ctml:latitude>36.27093000</ctml:latitude>
+    <ctml:longitude>43.37758000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134499" kind="admin2">
+    <ctml:name>Ash Shaykhān</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Nineveh</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q4058903</ctml:wikiDataId>
+    <ctml:latitude>36.69595000</ctml:latitude>
+    <ctml:longitude>43.35202000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134537" kind="admin2">
+    <ctml:name>Sinjar</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Nineveh</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q7376823</ctml:wikiDataId>
+    <ctml:latitude>36.29548000</ctml:latitude>
+    <ctml:longitude>41.89315000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134542" kind="admin2">
+    <ctml:name>Tall ‘Afar</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Nineveh</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q990427</ctml:wikiDataId>
+    <ctml:latitude>36.37913000</ctml:latitude>
+    <ctml:longitude>42.44806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134543" kind="admin2">
+    <ctml:name>Tallkayf</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Nineveh</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q990427</ctml:wikiDataId>
+    <ctml:latitude>36.49118000</ctml:latitude>
+    <ctml:longitude>43.12114000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134475" kind="city">
+    <ctml:name>Ad Dujayl</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Saladin</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q988430</ctml:wikiDataId>
+    <ctml:latitude>33.84667000</ctml:latitude>
+    <ctml:longitude>44.23444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134505" kind="admin2">
+    <ctml:name>Balad</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Saladin</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1029645</ctml:wikiDataId>
+    <ctml:latitude>34.01485000</ctml:latitude>
+    <ctml:longitude>44.14574000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134510" kind="admin2">
+    <ctml:name>Bayjī</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Saladin</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q803712</ctml:wikiDataId>
+    <ctml:latitude>34.92915000</ctml:latitude>
+    <ctml:longitude>43.48878000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134540" kind="city">
+    <ctml:name>Sāmarrā’</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Saladin</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q170047</ctml:wikiDataId>
+    <ctml:latitude>34.19590000</ctml:latitude>
+    <ctml:longitude>43.88568000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134545" kind="admin2">
+    <ctml:name>Tozkhurmato</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Saladin</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q165444</ctml:wikiDataId>
+    <ctml:latitude>34.88808000</ctml:latitude>
+    <ctml:longitude>44.63256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134511" kind="admin2">
+    <ctml:name>Baynjiwayn</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Sulaymaniyah</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q803712</ctml:wikiDataId>
+    <ctml:latitude>35.62054000</ctml:latitude>
+    <ctml:longitude>45.94908000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRQ-134549" kind="city">
+    <ctml:name>Ḩalabjah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Sulaymaniyah</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q605544</ctml:wikiDataId>
+    <ctml:latitude>35.17778000</ctml:latitude>
+    <ctml:longitude>45.98611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134517" kind="admin2">
+    <ctml:name>Jamjamāl</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Sulaymaniyah</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q870475</ctml:wikiDataId>
+    <ctml:latitude>35.53356000</ctml:latitude>
+    <ctml:longitude>44.83430000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134491" kind="admin2">
+    <ctml:name>Al ‘Azīzīyah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Wasit</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-WA</ctml:parentRef>
+    <ctml:wikiDataId>Q366010</ctml:wikiDataId>
+    <ctml:latitude>32.90941000</ctml:latitude>
+    <ctml:longitude>45.06359000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134487" kind="admin2">
+    <ctml:name>Al Ḩayy</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Wasit</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-WA</ctml:parentRef>
+    <ctml:wikiDataId>Q4120374</ctml:wikiDataId>
+    <ctml:latitude>32.17419000</ctml:latitude>
+    <ctml:longitude>46.04345000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRQ-134503" kind="admin2">
+    <ctml:name>Aş Şuwayrah</ctml:name>
+    <ctml:country>IRQ</ctml:country>
+    <ctml:admin1>Wasit</ctml:admin1>
+    <ctml:parentRef>place:admin1:IQ-WA</ctml:parentRef>
+    <ctml:wikiDataId>Q227509</ctml:wikiDataId>
+    <ctml:latitude>32.92556000</ctml:latitude>
+    <ctml:longitude>44.77583000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

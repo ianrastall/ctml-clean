@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:LBN-65939" kind="city">
+    <ctml:name>Caza de Aakkar</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Akkar</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q419697</ctml:wikiDataId>
+    <ctml:latitude>34.53333000</ctml:latitude>
+    <ctml:longitude>36.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBN-65941" kind="city">
+    <ctml:name>Caza de Baalbek</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Baalbek-Hermel</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-BH</ctml:parentRef>
+    <ctml:wikiDataId>Q782804</ctml:wikiDataId>
+    <ctml:latitude>34.09822000</ctml:latitude>
+    <ctml:longitude>36.27157000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBN-65936" kind="city">
+    <ctml:name>Beirut</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Beirut</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q3820</ctml:wikiDataId>
+    <ctml:latitude>33.89332000</ctml:latitude>
+    <ctml:longitude>35.50157000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBN-65951" kind="city">
+    <ctml:name>Ra’s Bayrūt</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Beirut</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q26134</ctml:wikiDataId>
+    <ctml:latitude>33.90000000</ctml:latitude>
+    <ctml:longitude>35.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBN-65930" kind="city">
+    <ctml:name>Aanjar</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Beqaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q14842846</ctml:wikiDataId>
+    <ctml:latitude>33.72778000</ctml:latitude>
+    <ctml:longitude>35.93111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBN-65937" kind="city">
+    <ctml:name>Bhamdoun</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Mount Lebanon</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-JL</ctml:parentRef>
+    <ctml:wikiDataId>Q3820</ctml:wikiDataId>
+    <ctml:latitude>33.79500000</ctml:latitude>
+    <ctml:longitude>35.65111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBN-65938" kind="city">
+    <ctml:name>Bhamdoûn el Mhatta</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Mount Lebanon</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-JL</ctml:parentRef>
+    <ctml:wikiDataId>Q2900650</ctml:wikiDataId>
+    <ctml:latitude>33.80861000</ctml:latitude>
+    <ctml:longitude>35.65972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBN-65940" kind="city">
+    <ctml:name>Caza de Baabda</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Mount Lebanon</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-JL</ctml:parentRef>
+    <ctml:wikiDataId>Q211370</ctml:wikiDataId>
+    <ctml:latitude>33.84592000</ctml:latitude>
+    <ctml:longitude>35.66791000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LBN-65947" kind="admin2">
+    <ctml:name>Jbaïl</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Mount Lebanon</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-JL</ctml:parentRef>
+    <ctml:wikiDataId>Q173532</ctml:wikiDataId>
+    <ctml:latitude>34.12111000</ctml:latitude>
+    <ctml:longitude>35.64806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LBN-65948" kind="admin2">
+    <ctml:name>Jounieh</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Mount Lebanon</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-JL</ctml:parentRef>
+    <ctml:wikiDataId>Q173532</ctml:wikiDataId>
+    <ctml:latitude>33.98083000</ctml:latitude>
+    <ctml:longitude>35.61778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBN-65931" kind="city">
+    <ctml:name>Ain Ebel</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Nabatieh</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-NA</ctml:parentRef>
+    <ctml:wikiDataId>Q2828135</ctml:wikiDataId>
+    <ctml:latitude>33.11023000</ctml:latitude>
+    <ctml:longitude>35.40251000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBN-65942" kind="city">
+    <ctml:name>Caza de Bent Jbaïl</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Nabatieh</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-NA</ctml:parentRef>
+    <ctml:wikiDataId>Q145355</ctml:wikiDataId>
+    <ctml:latitude>33.15964000</ctml:latitude>
+    <ctml:longitude>35.41137000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LBN-65943" kind="admin2">
+    <ctml:name>Caza de Nabatîyé</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Nabatieh</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-NA</ctml:parentRef>
+    <ctml:wikiDataId>Q680602</ctml:wikiDataId>
+    <ctml:latitude>33.39435000</ctml:latitude>
+    <ctml:longitude>35.44483000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBN-65946" kind="city">
+    <ctml:name>Habboûch</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Nabatieh</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-NA</ctml:parentRef>
+    <ctml:wikiDataId>Q748504</ctml:wikiDataId>
+    <ctml:latitude>33.40729000</ctml:latitude>
+    <ctml:longitude>35.48169000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LBN-65949" kind="admin2">
+    <ctml:name>Marjayoûn</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>Nabatieh</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-NA</ctml:parentRef>
+    <ctml:wikiDataId>Q25659</ctml:wikiDataId>
+    <ctml:latitude>33.36028000</ctml:latitude>
+    <ctml:longitude>35.59111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LBN-65934" kind="admin2">
+    <ctml:name>Batroûn</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>North</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-AS</ctml:parentRef>
+    <ctml:wikiDataId>Q3285145</ctml:wikiDataId>
+    <ctml:latitude>34.25528000</ctml:latitude>
+    <ctml:longitude>35.65806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBN-65935" kind="city">
+    <ctml:name>Bcharré</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>North</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-AS</ctml:parentRef>
+    <ctml:wikiDataId>Q181167</ctml:wikiDataId>
+    <ctml:latitude>34.25083000</ctml:latitude>
+    <ctml:longitude>36.01056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBN-65944" kind="city">
+    <ctml:name>En Nâqoûra</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>South</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-JA</ctml:parentRef>
+    <ctml:wikiDataId>Q748504</ctml:wikiDataId>
+    <ctml:latitude>33.11806000</ctml:latitude>
+    <ctml:longitude>35.13972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBN-65945" kind="city">
+    <ctml:name>Ghazieh</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>South</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-JA</ctml:parentRef>
+    <ctml:wikiDataId>Q748504</ctml:wikiDataId>
+    <ctml:latitude>33.51750000</ctml:latitude>
+    <ctml:longitude>35.36889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LBN-65954" kind="admin2">
+    <ctml:name>Tyre</ctml:name>
+    <ctml:country>LBN</ctml:country>
+    <ctml:admin1>South</ctml:admin1>
+    <ctml:parentRef>place:admin1:LB-JA</ctml:parentRef>
+    <ctml:wikiDataId>Q82070</ctml:wikiDataId>
+    <ctml:latitude>33.27333000</ctml:latitude>
+    <ctml:longitude>35.19389000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

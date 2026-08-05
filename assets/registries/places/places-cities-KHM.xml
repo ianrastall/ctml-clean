@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:KHM-64967" kind="admin2">
+    <ctml:name>Mongkol Borei</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Banteay Meanchey</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-1</ctml:parentRef>
+    <ctml:wikiDataId>Q1945748</ctml:wikiDataId>
+    <ctml:latitude>13.45531000</ctml:latitude>
+    <ctml:longitude>102.99186000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64969" kind="city">
+    <ctml:name>Paoy Paet</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Banteay Meanchey</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-1</ctml:parentRef>
+    <ctml:wikiDataId>Q1015146</ctml:wikiDataId>
+    <ctml:latitude>13.65805000</ctml:latitude>
+    <ctml:longitude>102.56365000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65009" kind="city">
+    <ctml:name>Srŏk Malai</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Banteay Meanchey</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-1</ctml:parentRef>
+    <ctml:wikiDataId>Q4929080</ctml:wikiDataId>
+    <ctml:latitude>13.49902000</ctml:latitude>
+    <ctml:longitude>102.60164000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65028" kind="city">
+    <ctml:name>Srŏk Âk Phnŭm</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Battambang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-2</ctml:parentRef>
+    <ctml:wikiDataId>Q4930600</ctml:wikiDataId>
+    <ctml:latitude>13.23621000</ctml:latitude>
+    <ctml:longitude>103.45894000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64988" kind="city">
+    <ctml:name>Srŏk Banăn</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Battambang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-2</ctml:parentRef>
+    <ctml:wikiDataId>Q4853813</ctml:wikiDataId>
+    <ctml:latitude>12.97067000</ctml:latitude>
+    <ctml:longitude>103.04742000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64995" kind="city">
+    <ctml:name>Srŏk Bâvĭl</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Battambang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-2</ctml:parentRef>
+    <ctml:wikiDataId>Q4873692</ctml:wikiDataId>
+    <ctml:latitude>13.23601000</ctml:latitude>
+    <ctml:longitude>102.82910000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-65017" kind="admin2">
+    <ctml:name>Srŏk Rotanak Mondol</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Battambang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-2</ctml:parentRef>
+    <ctml:wikiDataId>Q4929543</ctml:wikiDataId>
+    <ctml:latitude>12.84048000</ctml:latitude>
+    <ctml:longitude>102.88700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-64941" kind="admin2">
+    <ctml:name>Cheung Prey</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampong Cham</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-3</ctml:parentRef>
+    <ctml:wikiDataId>Q4930086</ctml:wikiDataId>
+    <ctml:latitude>12.10000000</ctml:latitude>
+    <ctml:longitude>105.07000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64944" kind="city">
+    <ctml:name>Kampong Cham</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampong Cham</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-3</ctml:parentRef>
+    <ctml:wikiDataId>Q4930039</ctml:wikiDataId>
+    <ctml:latitude>11.98000000</ctml:latitude>
+    <ctml:longitude>105.44500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64990" kind="city">
+    <ctml:name>Srŏk Bathéay</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampong Cham</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-3</ctml:parentRef>
+    <ctml:wikiDataId>Q4869002</ctml:wikiDataId>
+    <ctml:latitude>12.02986000</ctml:latitude>
+    <ctml:longitude>104.93171000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-64939" kind="admin2">
+    <ctml:name>Baribour</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampong Chhnang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-4</ctml:parentRef>
+    <ctml:wikiDataId>Q4860702</ctml:wikiDataId>
+    <ctml:latitude>12.43000000</ctml:latitude>
+    <ctml:longitude>104.47000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64997" kind="city">
+    <ctml:name>Srŏk Chol Kiri</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampong Chhnang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-4</ctml:parentRef>
+    <ctml:wikiDataId>Q4930069</ctml:wikiDataId>
+    <ctml:latitude>12.15861000</ctml:latitude>
+    <ctml:longitude>104.82287000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65019" kind="city">
+    <ctml:name>Srŏk Sameakki Mean Chey</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampong Chhnang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-4</ctml:parentRef>
+    <ctml:wikiDataId>Q7409232</ctml:wikiDataId>
+    <ctml:latitude>11.86788000</ctml:latitude>
+    <ctml:longitude>104.55549000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64962" kind="city">
+    <ctml:name>Krŏng Chbar Mon</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampong Speu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-5</ctml:parentRef>
+    <ctml:wikiDataId>Q5088735</ctml:wikiDataId>
+    <ctml:latitude>11.47091000</ctml:latitude>
+    <ctml:longitude>104.50655000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64989" kind="city">
+    <ctml:name>Srŏk Basedth</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampong Speu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-5</ctml:parentRef>
+    <ctml:wikiDataId>Q4866644</ctml:wikiDataId>
+    <ctml:latitude>11.18432000</ctml:latitude>
+    <ctml:longitude>104.53584000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65008" kind="city">
+    <ctml:name>Srŏk Kông Pĭsei</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampong Speu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-5</ctml:parentRef>
+    <ctml:wikiDataId>Q4929012</ctml:wikiDataId>
+    <ctml:latitude>11.31648000</ctml:latitude>
+    <ctml:longitude>104.65992000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65032" kind="city">
+    <ctml:name>Srŏk Ŏdŏngk</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampong Speu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-5</ctml:parentRef>
+    <ctml:wikiDataId>Q4929250</ctml:wikiDataId>
+    <ctml:latitude>11.66845000</ctml:latitude>
+    <ctml:longitude>104.61224000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64935" kind="city">
+    <ctml:name>Angkor Chey</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampot</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-7</ctml:parentRef>
+    <ctml:wikiDataId>Q4763325</ctml:wikiDataId>
+    <ctml:latitude>10.76667000</ctml:latitude>
+    <ctml:longitude>104.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64938" kind="city">
+    <ctml:name>Banteay Meas</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampot</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-7</ctml:parentRef>
+    <ctml:wikiDataId>Q4857204</ctml:wikiDataId>
+    <ctml:latitude>10.61667000</ctml:latitude>
+    <ctml:longitude>104.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64942" kind="city">
+    <ctml:name>Chhouk</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampot</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-7</ctml:parentRef>
+    <ctml:wikiDataId>Q4929144</ctml:wikiDataId>
+    <ctml:latitude>10.81667000</ctml:latitude>
+    <ctml:longitude>104.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64943" kind="city">
+    <ctml:name>Kampong Bay</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampot</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-7</ctml:parentRef>
+    <ctml:wikiDataId>Q6359277</ctml:wikiDataId>
+    <ctml:latitude>10.59554000</ctml:latitude>
+    <ctml:longitude>104.17136000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-64947" kind="admin2">
+    <ctml:name>Kampong Tranch</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampot</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-7</ctml:parentRef>
+    <ctml:wikiDataId>Q1385801</ctml:wikiDataId>
+    <ctml:latitude>10.55000000</ctml:latitude>
+    <ctml:longitude>104.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64998" kind="city">
+    <ctml:name>Srŏk Chŭm Kiri</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampot</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-7</ctml:parentRef>
+    <ctml:wikiDataId>Q4929362</ctml:wikiDataId>
+    <ctml:latitude>11.00540000</ctml:latitude>
+    <ctml:longitude>104.44207000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65001" kind="city">
+    <ctml:name>Srŏk Dângtóng</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampot</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-7</ctml:parentRef>
+    <ctml:wikiDataId>Q5215951</ctml:wikiDataId>
+    <ctml:latitude>10.70733000</ctml:latitude>
+    <ctml:longitude>104.42229000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64986" kind="city">
+    <ctml:name>Srok Tuek Chhou</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kampot</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-7</ctml:parentRef>
+    <ctml:wikiDataId>Q6359357</ctml:wikiDataId>
+    <ctml:latitude>10.74557000</ctml:latitude>
+    <ctml:longitude>104.11013000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-64965" kind="admin2">
+    <ctml:name>Krŏng Ta Khmau</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kandal</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-8</ctml:parentRef>
+    <ctml:wikiDataId>Q4929483</ctml:wikiDataId>
+    <ctml:latitude>11.45474000</ctml:latitude>
+    <ctml:longitude>104.94350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65003" kind="city">
+    <ctml:name>Srŏk Khsăch Kândal</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kandal</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-8</ctml:parentRef>
+    <ctml:wikiDataId>Q4930148</ctml:wikiDataId>
+    <ctml:latitude>11.69224000</ctml:latitude>
+    <ctml:longitude>105.03732000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65000" kind="city">
+    <ctml:name>Srŏk Dâmnăk Châng’aeur</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kep</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-23</ctml:parentRef>
+    <ctml:wikiDataId>Q5212727</ctml:wikiDataId>
+    <ctml:latitude>10.53394000</ctml:latitude>
+    <ctml:longitude>104.34855000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-64982" kind="admin2">
+    <ctml:name>Smach Mean Chey</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Koh Kong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-9</ctml:parentRef>
+    <ctml:wikiDataId>Q855717</ctml:wikiDataId>
+    <ctml:latitude>11.54665000</ctml:latitude>
+    <ctml:longitude>103.03569000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-64984" kind="admin2">
+    <ctml:name>Srae Ambel</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Koh Kong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-9</ctml:parentRef>
+    <ctml:wikiDataId>Q4930156</ctml:wikiDataId>
+    <ctml:latitude>11.10968000</ctml:latitude>
+    <ctml:longitude>103.76226000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64991" kind="city">
+    <ctml:name>Srŏk Batum Sakôr</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Koh Kong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-9</ctml:parentRef>
+    <ctml:wikiDataId>Q4929301</ctml:wikiDataId>
+    <ctml:latitude>11.11465000</ctml:latitude>
+    <ctml:longitude>103.38993000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65011" kind="city">
+    <ctml:name>Srŏk Môndôl Seima</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Koh Kong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-9</ctml:parentRef>
+    <ctml:wikiDataId>Q4929448</ctml:wikiDataId>
+    <ctml:latitude>11.81292000</ctml:latitude>
+    <ctml:longitude>103.01159000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64958" kind="city">
+    <ctml:name>Kracheh</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kratie</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-10</ctml:parentRef>
+    <ctml:wikiDataId>Q4929457</ctml:wikiDataId>
+    <ctml:latitude>12.57000000</ctml:latitude>
+    <ctml:longitude>106.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64983" kind="city">
+    <ctml:name>Snuol</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Kratie</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-10</ctml:parentRef>
+    <ctml:wikiDataId>Q4929275</ctml:wikiDataId>
+    <ctml:latitude>12.19373000</ctml:latitude>
+    <ctml:longitude>106.47361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65002" kind="city">
+    <ctml:name>Srŏk Kaev Seima</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Mondulkiri</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-11</ctml:parentRef>
+    <ctml:wikiDataId>Q6346045</ctml:wikiDataId>
+    <ctml:latitude>12.41722000</ctml:latitude>
+    <ctml:longitude>106.77025000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65014" kind="city">
+    <ctml:name>Srŏk Pech Chreada</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Mondulkiri</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-11</ctml:parentRef>
+    <ctml:wikiDataId>Q7158696</ctml:wikiDataId>
+    <ctml:latitude>12.72780000</ctml:latitude>
+    <ctml:longitude>107.09480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64994" kind="city">
+    <ctml:name>Srŏk Bântéay Âmpĭl</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Oddar Meanchey</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-22</ctml:parentRef>
+    <ctml:wikiDataId>Q4857202</ctml:wikiDataId>
+    <ctml:latitude>14.18590000</ctml:latitude>
+    <ctml:longitude>103.25925000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65023" kind="city">
+    <ctml:name>Srŏk Sâmraông</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Oddar Meanchey</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-22</ctml:parentRef>
+    <ctml:wikiDataId>Q7410285</ctml:wikiDataId>
+    <ctml:latitude>14.25039000</ctml:latitude>
+    <ctml:longitude>103.62739000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65026" kind="city">
+    <ctml:name>Srŏk Trâpeăng Prasat</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Oddar Meanchey</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-22</ctml:parentRef>
+    <ctml:wikiDataId>Q4930139</ctml:wikiDataId>
+    <ctml:latitude>14.25809000</ctml:latitude>
+    <ctml:longitude>104.30835000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-64956" kind="admin2">
+    <ctml:name>Khan Sala Krau</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Pailin</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-24</ctml:parentRef>
+    <ctml:wikiDataId>Q7403327</ctml:wikiDataId>
+    <ctml:latitude>12.97984000</ctml:latitude>
+    <ctml:longitude>102.63957000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64949" kind="city">
+    <ctml:name>Khan 7 Makara</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Phnom Penh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-12</ctml:parentRef>
+    <ctml:wikiDataId>Q7238280</ctml:wikiDataId>
+    <ctml:latitude>11.56254000</ctml:latitude>
+    <ctml:longitude>104.91405000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64950" kind="city">
+    <ctml:name>Khan Châmkar Mon</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Phnom Penh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-12</ctml:parentRef>
+    <ctml:wikiDataId>Q5069819</ctml:wikiDataId>
+    <ctml:latitude>11.54390000</ctml:latitude>
+    <ctml:longitude>104.92175000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64952" kind="city">
+    <ctml:name>Khan Dângkaô</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Phnom Penh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-12</ctml:parentRef>
+    <ctml:wikiDataId>Q5216178</ctml:wikiDataId>
+    <ctml:latitude>11.52457000</ctml:latitude>
+    <ctml:longitude>104.83944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64951" kind="city">
+    <ctml:name>Khan Duŏn Pénh</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Phnom Penh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-12</ctml:parentRef>
+    <ctml:wikiDataId>Q5228039</ctml:wikiDataId>
+    <ctml:latitude>11.57561000</ctml:latitude>
+    <ctml:longitude>104.92025000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-64954" kind="admin2">
+    <ctml:name>Khan Russey Keo</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Phnom Penh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-12</ctml:parentRef>
+    <ctml:wikiDataId>Q7381269</ctml:wikiDataId>
+    <ctml:latitude>11.61946000</ctml:latitude>
+    <ctml:longitude>104.90990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-64955" kind="admin2">
+    <ctml:name>Khan Saen Sokh</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Phnom Penh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-12</ctml:parentRef>
+    <ctml:wikiDataId>Q7449896</ctml:wikiDataId>
+    <ctml:latitude>11.61289000</ctml:latitude>
+    <ctml:longitude>104.86078000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64970" kind="city">
+    <ctml:name>Phnom Penh</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Phnom Penh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1850</ctml:wikiDataId>
+    <ctml:latitude>11.56245000</ctml:latitude>
+    <ctml:longitude>104.91601000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64977" kind="city">
+    <ctml:name>Sangkom Thmei</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Preah Vihear</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-13</ctml:parentRef>
+    <ctml:wikiDataId>Q4929184</ctml:wikiDataId>
+    <ctml:latitude>13.47395000</ctml:latitude>
+    <ctml:longitude>104.77051000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64999" kind="city">
+    <ctml:name>Srŏk Ch’êh Sên</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Preah Vihear</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-13</ctml:parentRef>
+    <ctml:wikiDataId>Q4929136</ctml:wikiDataId>
+    <ctml:latitude>13.58215000</ctml:latitude>
+    <ctml:longitude>105.34533000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64996" kind="city">
+    <ctml:name>Srŏk Chhêb</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Preah Vihear</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-13</ctml:parentRef>
+    <ctml:wikiDataId>Q4929159</ctml:wikiDataId>
+    <ctml:latitude>13.91077000</ctml:latitude>
+    <ctml:longitude>105.46180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65005" kind="city">
+    <ctml:name>Srŏk Kulén</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Preah Vihear</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-13</ctml:parentRef>
+    <ctml:wikiDataId>Q4929210</ctml:wikiDataId>
+    <ctml:latitude>13.78597000</ctml:latitude>
+    <ctml:longitude>104.61052000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65018" kind="city">
+    <ctml:name>Srŏk Rôviĕng</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Preah Vihear</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-13</ctml:parentRef>
+    <ctml:wikiDataId>Q4929033</ctml:wikiDataId>
+    <ctml:latitude>13.35105000</ctml:latitude>
+    <ctml:longitude>105.09956000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65025" kind="city">
+    <ctml:name>Srŏk Tbêng Méanchey</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Preah Vihear</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1883679</ctml:wikiDataId>
+    <ctml:latitude>13.78622000</ctml:latitude>
+    <ctml:longitude>105.01586000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65006" kind="city">
+    <ctml:name>Srŏk Kâmpóng Léav</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Prey Veng</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-14</ctml:parentRef>
+    <ctml:wikiDataId>Q4930117</ctml:wikiDataId>
+    <ctml:latitude>11.50970000</ctml:latitude>
+    <ctml:longitude>105.30110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65010" kind="city">
+    <ctml:name>Srŏk Mésang</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Prey Veng</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-14</ctml:parentRef>
+    <ctml:wikiDataId>Q4929602</ctml:wikiDataId>
+    <ctml:latitude>11.35528000</ctml:latitude>
+    <ctml:longitude>105.57235000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65016" kind="city">
+    <ctml:name>Srŏk Preăh Sdéch</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Prey Veng</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-14</ctml:parentRef>
+    <ctml:wikiDataId>Q4930046</ctml:wikiDataId>
+    <ctml:latitude>11.08690000</ctml:latitude>
+    <ctml:longitude>105.37497000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-64936" kind="admin2">
+    <ctml:name>Bakan</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Pursat</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-15</ctml:parentRef>
+    <ctml:wikiDataId>Q4849003</ctml:wikiDataId>
+    <ctml:latitude>12.78000000</ctml:latitude>
+    <ctml:longitude>103.79000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64959" kind="city">
+    <ctml:name>Krakor</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Pursat</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-15</ctml:parentRef>
+    <ctml:wikiDataId>Q4929565</ctml:wikiDataId>
+    <ctml:latitude>12.48000000</ctml:latitude>
+    <ctml:longitude>104.19000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64975" kind="city">
+    <ctml:name>Sampov Meas</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Pursat</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-15</ctml:parentRef>
+    <ctml:wikiDataId>Q4929515</ctml:wikiDataId>
+    <ctml:latitude>12.47055000</ctml:latitude>
+    <ctml:longitude>103.91817000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65007" kind="city">
+    <ctml:name>Srŏk Kândiĕng</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Pursat</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-15</ctml:parentRef>
+    <ctml:wikiDataId>Q6361505</ctml:wikiDataId>
+    <ctml:latitude>12.71245000</ctml:latitude>
+    <ctml:longitude>104.02592000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65027" kind="city">
+    <ctml:name>Srŏk Véal Vêng</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Pursat</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-15</ctml:parentRef>
+    <ctml:wikiDataId>Q4929351</ctml:wikiDataId>
+    <ctml:latitude>12.24230000</ctml:latitude>
+    <ctml:longitude>103.13444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-64966" kind="admin2">
+    <ctml:name>Lumphat</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Ratanakiri</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2235920</ctml:wikiDataId>
+    <ctml:latitude>13.49146000</ctml:latitude>
+    <ctml:longitude>106.98022000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65029" kind="city">
+    <ctml:name>Srŏk Ândong Méas</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Ratanakiri</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-16</ctml:parentRef>
+    <ctml:wikiDataId>Q4754589</ctml:wikiDataId>
+    <ctml:latitude>13.93352000</ctml:latitude>
+    <ctml:longitude>107.31155000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64993" kind="city">
+    <ctml:name>Srŏk Bâ Kêv</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Ratanakiri</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-16</ctml:parentRef>
+    <ctml:wikiDataId>Q4857942</ctml:wikiDataId>
+    <ctml:latitude>13.70749000</ctml:latitude>
+    <ctml:longitude>107.19442000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64987" kind="city">
+    <ctml:name>Srŏk Ban Lŭng</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Ratanakiri</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-16</ctml:parentRef>
+    <ctml:wikiDataId>Q4856829</ctml:wikiDataId>
+    <ctml:latitude>13.68200000</ctml:latitude>
+    <ctml:longitude>107.03025000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65004" kind="city">
+    <ctml:name>Srŏk Koun Mom</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Ratanakiri</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-16</ctml:parentRef>
+    <ctml:wikiDataId>Q4930053</ctml:wikiDataId>
+    <ctml:latitude>13.51772000</ctml:latitude>
+    <ctml:longitude>106.75142000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65012" kind="city">
+    <ctml:name>Srŏk Ou Chum</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Ratanakiri</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-16</ctml:parentRef>
+    <ctml:wikiDataId>Q4930108</ctml:wikiDataId>
+    <ctml:latitude>13.84069000</ctml:latitude>
+    <ctml:longitude>107.03469000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65013" kind="city">
+    <ctml:name>Srŏk Ou Ya Dav</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Ratanakiri</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-16</ctml:parentRef>
+    <ctml:wikiDataId>Q4930220</ctml:wikiDataId>
+    <ctml:latitude>13.54328000</ctml:latitude>
+    <ctml:longitude>107.44636000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-65024" kind="admin2">
+    <ctml:name>Srŏk Ta Vêng</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Ratanakiri</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-16</ctml:parentRef>
+    <ctml:wikiDataId>Q4930210</ctml:wikiDataId>
+    <ctml:latitude>14.29192000</ctml:latitude>
+    <ctml:longitude>107.24031000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65015" kind="city">
+    <ctml:name>Srŏk Prasat Bakong</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Siem Reap</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-17</ctml:parentRef>
+    <ctml:wikiDataId>Q4929377</ctml:wikiDataId>
+    <ctml:latitude>13.21031000</ctml:latitude>
+    <ctml:longitude>103.97689000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65035" kind="city">
+    <ctml:name>Svay Leu</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Siem Reap</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-17</ctml:parentRef>
+    <ctml:wikiDataId>Q4930061</ctml:wikiDataId>
+    <ctml:latitude>13.69168000</ctml:latitude>
+    <ctml:longitude>104.27446000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-65040" kind="admin2">
+    <ctml:name>Varin</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Siem Reap</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2428308</ctml:wikiDataId>
+    <ctml:latitude>13.83574000</ctml:latitude>
+    <ctml:longitude>103.89968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64985" kind="city">
+    <ctml:name>Srok Stueng Hav</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Sihanoukville</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-18</ctml:parentRef>
+    <ctml:wikiDataId>Q4929384</ctml:wikiDataId>
+    <ctml:latitude>10.85249000</ctml:latitude>
+    <ctml:longitude>103.74016000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65020" kind="city">
+    <ctml:name>Srŏk Srêsén</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Stung Treng</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-19</ctml:parentRef>
+    <ctml:wikiDataId>Q4929005</ctml:wikiDataId>
+    <ctml:latitude>13.60530000</ctml:latitude>
+    <ctml:longitude>106.35819000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65033" kind="city">
+    <ctml:name>Stueng Traeng</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Stung Treng</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-19</ctml:parentRef>
+    <ctml:wikiDataId>Q4929505</ctml:wikiDataId>
+    <ctml:latitude>13.65000000</ctml:latitude>
+    <ctml:longitude>106.07000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-65021" kind="city">
+    <ctml:name>Srŏk Svay Chrŭm</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Svay Rieng</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-20</ctml:parentRef>
+    <ctml:wikiDataId>Q4928995</ctml:wikiDataId>
+    <ctml:latitude>11.11160000</ctml:latitude>
+    <ctml:longitude>105.69814000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64971" kind="city">
+    <ctml:name>Phumĭ Véal Srê</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Takeo</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1850</ctml:wikiDataId>
+    <ctml:latitude>10.98081000</ctml:latitude>
+    <ctml:longitude>104.77828000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KHM-65030" kind="admin2">
+    <ctml:name>Srŏk Ângkôr Borei</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Takeo</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-21</ctml:parentRef>
+    <ctml:wikiDataId>Q4763323</ctml:wikiDataId>
+    <ctml:latitude>10.99291000</ctml:latitude>
+    <ctml:longitude>104.95177000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KHM-64992" kind="city">
+    <ctml:name>Srŏk Borei Cholsar</ctml:name>
+    <ctml:country>KHM</ctml:country>
+    <ctml:admin1>Takeo</ctml:admin1>
+    <ctml:parentRef>place:admin1:KH-21</ctml:parentRef>
+    <ctml:wikiDataId>Q4950138</ctml:wikiDataId>
+    <ctml:latitude>10.81414000</ctml:latitude>
+    <ctml:longitude>104.98994000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

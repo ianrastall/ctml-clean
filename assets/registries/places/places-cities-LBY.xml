@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:LBY-160044" kind="city">
+    <ctml:name>Bardia</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Al Butnan</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q141687</ctml:wikiDataId>
+    <ctml:latitude>31.76000000</ctml:latitude>
+    <ctml:longitude>25.07500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-160045" kind="city">
+    <ctml:name>Jaghbub</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Al Butnan</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q284251</ctml:wikiDataId>
+    <ctml:latitude>29.74250000</ctml:latitude>
+    <ctml:longitude>24.51694444</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-66997" kind="city">
+    <ctml:name>Al Burayqah</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Al Wahat</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-WA</ctml:parentRef>
+    <ctml:wikiDataId>Q36219</ctml:wikiDataId>
+    <ctml:latitude>30.40624000</ctml:latitude>
+    <ctml:longitude>19.57386000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67006" kind="city">
+    <ctml:name>Awjilah</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Al Wahat</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-WA</ctml:parentRef>
+    <ctml:wikiDataId>Q137320</ctml:wikiDataId>
+    <ctml:latitude>29.10806000</ctml:latitude>
+    <ctml:longitude>21.28694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67007" kind="city">
+    <ctml:name>Az Zuwaytīnah</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Al Wahat</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-WA</ctml:parentRef>
+    <ctml:wikiDataId>Q3645598</ctml:wikiDataId>
+    <ctml:latitude>30.95220000</ctml:latitude>
+    <ctml:longitude>20.12022000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67017" kind="city">
+    <ctml:name>Gialo</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Al Wahat</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-WA</ctml:parentRef>
+    <ctml:wikiDataId>Q117712</ctml:wikiDataId>
+    <ctml:latitude>29.03333000</ctml:latitude>
+    <ctml:longitude>21.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67020" kind="city">
+    <ctml:name>Marādah</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Al Wahat</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-WA</ctml:parentRef>
+    <ctml:wikiDataId>Q3646468</ctml:wikiDataId>
+    <ctml:latitude>29.22054000</ctml:latitude>
+    <ctml:longitude>19.20454000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67026" kind="city">
+    <ctml:name>Qaryat Sulūq</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Benghazi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q36060</ctml:wikiDataId>
+    <ctml:latitude>31.66818000</ctml:latitude>
+    <ctml:longitude>20.25205000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67003" kind="city">
+    <ctml:name>Al Qubbah</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Derna</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q2552984</ctml:wikiDataId>
+    <ctml:latitude>32.75684000</ctml:latitude>
+    <ctml:longitude>22.24106000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67016" kind="city">
+    <ctml:name>Giado</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Jabal al Gharbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-JG</ctml:parentRef>
+    <ctml:wikiDataId>Q117712</ctml:wikiDataId>
+    <ctml:latitude>31.95506000</ctml:latitude>
+    <ctml:longitude>12.02901000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67022" kind="city">
+    <ctml:name>Mizdah</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Jabal al Gharbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-JG</ctml:parentRef>
+    <ctml:wikiDataId>Q3646468</ctml:wikiDataId>
+    <ctml:latitude>31.44934000</ctml:latitude>
+    <ctml:longitude>12.98530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67036" kind="city">
+    <ctml:name>Yafran</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Jabal al Gharbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-JG</ctml:parentRef>
+    <ctml:wikiDataId>Q1018215</ctml:wikiDataId>
+    <ctml:latitude>32.06329000</ctml:latitude>
+    <ctml:longitude>12.52859000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67039" kind="city">
+    <ctml:name>Zintan</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Jabal al Gharbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-JG</ctml:parentRef>
+    <ctml:wikiDataId>Q221503</ctml:wikiDataId>
+    <ctml:latitude>31.93155000</ctml:latitude>
+    <ctml:longitude>12.25291000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67035" kind="city">
+    <ctml:name>Waddān</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Jufra</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-JU</ctml:parentRef>
+    <ctml:wikiDataId>Q679352</ctml:wikiDataId>
+    <ctml:latitude>29.16140000</ctml:latitude>
+    <ctml:longitude>16.13904000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-66999" kind="city">
+    <ctml:name>Al Jawf</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Kufra</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-KF</ctml:parentRef>
+    <ctml:wikiDataId>Q134086</ctml:wikiDataId>
+    <ctml:latitude>24.19890000</ctml:latitude>
+    <ctml:longitude>23.29093000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67005" kind="city">
+    <ctml:name>At Tāj</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Kufra</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-KF</ctml:parentRef>
+    <ctml:wikiDataId>Q5352218</ctml:wikiDataId>
+    <ctml:latitude>24.20487000</ctml:latitude>
+    <ctml:longitude>23.28570000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-66994" kind="city">
+    <ctml:name>Al Abyār</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Marj</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-MJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1050731</ctml:wikiDataId>
+    <ctml:latitude>32.19000000</ctml:latitude>
+    <ctml:longitude>20.59653000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67033" kind="city">
+    <ctml:name>Tūkrah</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Marj</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-MJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1788306</ctml:wikiDataId>
+    <ctml:latitude>32.53414000</ctml:latitude>
+    <ctml:longitude>20.57911000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67009" kind="city">
+    <ctml:name>Bani Walid</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Misrata</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q244230</ctml:wikiDataId>
+    <ctml:latitude>31.74554000</ctml:latitude>
+    <ctml:longitude>13.98354000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67040" kind="city">
+    <ctml:name>Zliten</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Misrata</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q207259</ctml:wikiDataId>
+    <ctml:latitude>32.46739000</ctml:latitude>
+    <ctml:longitude>14.56874000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67021" kind="city">
+    <ctml:name>Masallātah</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Murqub</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-MB</ctml:parentRef>
+    <ctml:wikiDataId>Q3646468</ctml:wikiDataId>
+    <ctml:latitude>32.61667000</ctml:latitude>
+    <ctml:longitude>14.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67031" kind="city">
+    <ctml:name>Tarhuna</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Murqub</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-MB</ctml:parentRef>
+    <ctml:wikiDataId>Q1642670</ctml:wikiDataId>
+    <ctml:latitude>32.43501000</ctml:latitude>
+    <ctml:longitude>13.63320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67002" kind="city">
+    <ctml:name>Al Qaţrūn</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Murzuq</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-MQ</ctml:parentRef>
+    <ctml:wikiDataId>Q285287</ctml:wikiDataId>
+    <ctml:latitude>24.95139000</ctml:latitude>
+    <ctml:longitude>14.64861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67013" kind="city">
+    <ctml:name>Ghadāmis</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Nalut</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-NL</ctml:parentRef>
+    <ctml:wikiDataId>Q192237</ctml:wikiDataId>
+    <ctml:latitude>30.13366000</ctml:latitude>
+    <ctml:longitude>9.50072000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-66995" kind="city">
+    <ctml:name>Al Ajaylat</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Nuqat al Khams</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-NQ</ctml:parentRef>
+    <ctml:wikiDataId>Q1050731</ctml:wikiDataId>
+    <ctml:latitude>32.75718000</ctml:latitude>
+    <ctml:longitude>12.37633000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67037" kind="city">
+    <ctml:name>Zalţan</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Nuqat al Khams</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-NQ</ctml:parentRef>
+    <ctml:wikiDataId>Q3123958</ctml:wikiDataId>
+    <ctml:latitude>32.94699000</ctml:latitude>
+    <ctml:longitude>11.86668000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-66998" kind="city">
+    <ctml:name>Al Jadīd</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Sabha</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-SB</ctml:parentRef>
+    <ctml:wikiDataId>Q36219</ctml:wikiDataId>
+    <ctml:latitude>27.05000000</ctml:latitude>
+    <ctml:longitude>14.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67027" kind="city">
+    <ctml:name>Qasr Abu Hadi</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Sirte</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-SR</ctml:parentRef>
+    <ctml:wikiDataId>Q68301</ctml:wikiDataId>
+    <ctml:latitude>31.05926000</ctml:latitude>
+    <ctml:longitude>16.65905000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67030" kind="city">
+    <ctml:name>Tagiura</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Tripoli</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-TB</ctml:parentRef>
+    <ctml:wikiDataId>Q2271093</ctml:wikiDataId>
+    <ctml:latitude>32.88167000</ctml:latitude>
+    <ctml:longitude>13.35056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67032" kind="city">
+    <ctml:name>Tripoli</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Tripoli</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-TB</ctml:parentRef>
+    <ctml:wikiDataId>Q3579</ctml:wikiDataId>
+    <ctml:latitude>32.88743000</ctml:latitude>
+    <ctml:longitude>13.18733000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67011" kind="city">
+    <ctml:name>Brak</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Wadi al Shatii</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-WS</ctml:parentRef>
+    <ctml:wikiDataId>Q1196877</ctml:wikiDataId>
+    <ctml:latitude>27.54956000</ctml:latitude>
+    <ctml:longitude>14.27139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67042" kind="city">
+    <ctml:name>Şabrātah</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Zawiya</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-ZA</ctml:parentRef>
+    <ctml:wikiDataId>Q231167</ctml:wikiDataId>
+    <ctml:latitude>32.79335000</ctml:latitude>
+    <ctml:longitude>12.48845000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67043" kind="city">
+    <ctml:name>Şurmān</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Zawiya</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-ZA</ctml:parentRef>
+    <ctml:wikiDataId>Q2075535</ctml:wikiDataId>
+    <ctml:latitude>32.75668000</ctml:latitude>
+    <ctml:longitude>12.57159000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBY-67038" kind="city">
+    <ctml:name>Zawiya</ctml:name>
+    <ctml:country>LBY</ctml:country>
+    <ctml:admin1>Zawiya</ctml:admin1>
+    <ctml:parentRef>place:admin1:LY-ZA</ctml:parentRef>
+    <ctml:wikiDataId>Q221503</ctml:wikiDataId>
+    <ctml:latitude>32.75222000</ctml:latitude>
+    <ctml:longitude>12.72778000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

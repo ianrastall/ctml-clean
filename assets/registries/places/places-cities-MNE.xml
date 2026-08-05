@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MNE-67369" kind="city">
+    <ctml:name>Stari Bar</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Bar</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1190321</ctml:wikiDataId>
+    <ctml:latitude>42.09700000</ctml:latitude>
+    <ctml:longitude>19.13600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-67375" kind="city">
+    <ctml:name>Šušanj</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Bar</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2533313</ctml:wikiDataId>
+    <ctml:latitude>42.11556000</ctml:latitude>
+    <ctml:longitude>19.08833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-67370" kind="city">
+    <ctml:name>Sutomore</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Bar</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-02</ctml:parentRef>
+    <ctml:wikiDataId>Q685112</ctml:wikiDataId>
+    <ctml:latitude>42.14278000</ctml:latitude>
+    <ctml:longitude>19.04667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-67360" kind="city">
+    <ctml:name>Petrovac na Moru</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Budva</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-05</ctml:parentRef>
+    <ctml:wikiDataId>Q990088</ctml:wikiDataId>
+    <ctml:latitude>42.20556000</ctml:latitude>
+    <ctml:longitude>18.94250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-67368" kind="city">
+    <ctml:name>Spuž</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Danilovgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3123315</ctml:wikiDataId>
+    <ctml:latitude>42.51500000</ctml:latitude>
+    <ctml:longitude>19.19500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-160067" kind="city">
+    <ctml:name>Bijela</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Herceg-Novi</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-08</ctml:parentRef>
+    <ctml:wikiDataId>Q808104</ctml:wikiDataId>
+    <ctml:latitude>42.44778000</ctml:latitude>
+    <ctml:longitude>18.65972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-160065" kind="city">
+    <ctml:name>Igalo</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Herceg-Novi</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-08</ctml:parentRef>
+    <ctml:wikiDataId>Q988315</ctml:wikiDataId>
+    <ctml:latitude>42.45583000</ctml:latitude>
+    <ctml:longitude>18.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-67350" kind="city">
+    <ctml:name>Dobrota</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Kotor</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1008132</ctml:wikiDataId>
+    <ctml:latitude>42.45417000</ctml:latitude>
+    <ctml:longitude>18.76833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-67365" kind="city">
+    <ctml:name>Prčanj</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Kotor</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2158623</ctml:wikiDataId>
+    <ctml:latitude>42.45750000</ctml:latitude>
+    <ctml:longitude>18.74222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-67366" kind="city">
+    <ctml:name>Risan</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Kotor</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-10</ctml:parentRef>
+    <ctml:wikiDataId>Q994211</ctml:wikiDataId>
+    <ctml:latitude>42.51500000</ctml:latitude>
+    <ctml:longitude>18.69556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-67352" kind="city">
+    <ctml:name>Goričani</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Podgorica</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1190698</ctml:wikiDataId>
+    <ctml:latitude>42.33222000</ctml:latitude>
+    <ctml:longitude>19.21194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-67357" kind="city">
+    <ctml:name>Mojanovići</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Podgorica</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-16</ctml:parentRef>
+    <ctml:wikiDataId>Q3182910</ctml:wikiDataId>
+    <ctml:latitude>42.34167000</ctml:latitude>
+    <ctml:longitude>19.22139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-67364" kind="city">
+    <ctml:name>Podgorica</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Podgorica</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-16</ctml:parentRef>
+    <ctml:wikiDataId>Q23564</ctml:wikiDataId>
+    <ctml:latitude>42.44111000</ctml:latitude>
+    <ctml:longitude>19.26361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-160068" kind="city">
+    <ctml:name>Dinoša</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Tuzi</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-24</ctml:parentRef>
+    <ctml:wikiDataId>Q3028133</ctml:wikiDataId>
+    <ctml:latitude>42.38333000</ctml:latitude>
+    <ctml:longitude>19.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-67356" kind="city">
+    <ctml:name>Mataguži</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Tuzi</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-24</ctml:parentRef>
+    <ctml:wikiDataId>Q2908906</ctml:wikiDataId>
+    <ctml:latitude>42.35000000</ctml:latitude>
+    <ctml:longitude>19.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-67372" kind="city">
+    <ctml:name>Tuzi</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Tuzi</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-24</ctml:parentRef>
+    <ctml:wikiDataId>Q1020982</ctml:wikiDataId>
+    <ctml:latitude>42.36667000</ctml:latitude>
+    <ctml:longitude>19.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-67351" kind="city">
+    <ctml:name>Golubovci</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Zeta</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-25</ctml:parentRef>
+    <ctml:wikiDataId>Q983622</ctml:wikiDataId>
+    <ctml:latitude>42.36667000</ctml:latitude>
+    <ctml:longitude>19.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MNE-160069" kind="city">
+    <ctml:name>Ponari</ctml:name>
+    <ctml:country>MNE</ctml:country>
+    <ctml:admin1>Zeta</ctml:admin1>
+    <ctml:parentRef>place:admin1:ME-25</ctml:parentRef>
+    <ctml:wikiDataId>Q23932994</ctml:wikiDataId>
+    <ctml:latitude>42.40000000</ctml:latitude>
+    <ctml:longitude>19.28333000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

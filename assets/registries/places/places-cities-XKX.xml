@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:XKX-160139" kind="admin2">
+    <ctml:name>Hani i Elezit</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Ferizaj</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XUF</ctml:parentRef>
+    <ctml:latitude>42.15000000</ctml:latitude>
+    <ctml:longitude>21.29667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160140" kind="admin2">
+    <ctml:name>Kačanik</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Ferizaj</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XUF</ctml:parentRef>
+    <ctml:latitude>42.23194000</ctml:latitude>
+    <ctml:longitude>21.25944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160141" kind="admin2">
+    <ctml:name>Shtime</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Ferizaj</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XUF</ctml:parentRef>
+    <ctml:latitude>42.43306000</ctml:latitude>
+    <ctml:longitude>21.03972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160142" kind="admin2">
+    <ctml:name>Štrpce</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Ferizaj</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XUF</ctml:parentRef>
+    <ctml:latitude>42.23944000</ctml:latitude>
+    <ctml:longitude>21.02722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160147" kind="admin2">
+    <ctml:name>Deçan</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjakove</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XDG</ctml:parentRef>
+    <ctml:latitude>42.54018000</ctml:latitude>
+    <ctml:longitude>20.28793000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160149" kind="city">
+    <ctml:name>Dranoc</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjakove</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XDG</ctml:parentRef>
+    <ctml:latitude>42.51556000</ctml:latitude>
+    <ctml:longitude>20.29222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160150" kind="city">
+    <ctml:name>Gllogjan</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjakove</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XDG</ctml:parentRef>
+    <ctml:latitude>42.50722000</ctml:latitude>
+    <ctml:longitude>20.36278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160158" kind="city">
+    <ctml:name>Irzniq</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjakove</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XDG</ctml:parentRef>
+    <ctml:latitude>42.52000000</ctml:latitude>
+    <ctml:longitude>20.34722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160153" kind="city">
+    <ctml:name>Isniq</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjakove</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XDG</ctml:parentRef>
+    <ctml:latitude>42.55750000</ctml:latitude>
+    <ctml:longitude>20.30278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160154" kind="city">
+    <ctml:name>Lëbushë</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjakove</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XDG</ctml:parentRef>
+    <ctml:latitude>42.56306000</ctml:latitude>
+    <ctml:longitude>20.29083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160144" kind="city">
+    <ctml:name>Lloqan</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjakove</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XDG</ctml:parentRef>
+    <ctml:latitude>42.52444000</ctml:latitude>
+    <ctml:longitude>20.28083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160151" kind="city">
+    <ctml:name>Lluka e Eperme</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjakove</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XDG</ctml:parentRef>
+    <ctml:latitude>42.54500000</ctml:latitude>
+    <ctml:longitude>20.30778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160155" kind="city">
+    <ctml:name>Lumbardhi</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjakove</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XDG</ctml:parentRef>
+    <ctml:latitude>42.54667000</ctml:latitude>
+    <ctml:longitude>20.34667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160156" kind="admin2">
+    <ctml:name>Orahovac</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjakove</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XDG</ctml:parentRef>
+    <ctml:latitude>42.39944000</ctml:latitude>
+    <ctml:longitude>20.65472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160145" kind="city">
+    <ctml:name>Papraqan</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjakove</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XDG</ctml:parentRef>
+    <ctml:latitude>42.55278000</ctml:latitude>
+    <ctml:longitude>20.33111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160157" kind="city">
+    <ctml:name>Prilep</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjakove</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XDG</ctml:parentRef>
+    <ctml:latitude>42.50750000</ctml:latitude>
+    <ctml:longitude>20.31778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160152" kind="city">
+    <ctml:name>Strellc i Epërm</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjakove</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XDG</ctml:parentRef>
+    <ctml:latitude>42.57843000</ctml:latitude>
+    <ctml:longitude>20.29398000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160148" kind="city">
+    <ctml:name>Strellc i Ulët</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjakove</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XDG</ctml:parentRef>
+    <ctml:latitude>42.58063000</ctml:latitude>
+    <ctml:longitude>20.31619000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160161" kind="admin2">
+    <ctml:name>Kamenica</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjilan</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XGJ</ctml:parentRef>
+    <ctml:latitude>42.57806000</ctml:latitude>
+    <ctml:longitude>21.58028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160160" kind="admin2">
+    <ctml:name>Klokot</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjilan</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XGJ</ctml:parentRef>
+    <ctml:latitude>42.37139000</ctml:latitude>
+    <ctml:longitude>21.37444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160162" kind="admin2">
+    <ctml:name>Partesh</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjilan</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XGJ</ctml:parentRef>
+    <ctml:latitude>42.40194000</ctml:latitude>
+    <ctml:longitude>21.43361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160163" kind="city">
+    <ctml:name>Pasjane</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjilan</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XGJ</ctml:parentRef>
+    <ctml:latitude>42.40694000</ctml:latitude>
+    <ctml:longitude>21.49556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160164" kind="admin2">
+    <ctml:name>Ranilug</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjilan</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XGJ</ctml:parentRef>
+    <ctml:latitude>42.49222000</ctml:latitude>
+    <ctml:longitude>21.59889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160165" kind="admin2">
+    <ctml:name>Vitina</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Gjilan</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XGJ</ctml:parentRef>
+    <ctml:latitude>42.32139000</ctml:latitude>
+    <ctml:longitude>21.35833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160167" kind="admin2">
+    <ctml:name>Leposaviq</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Mitrovica</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XKM</ctml:parentRef>
+    <ctml:latitude>43.10389000</ctml:latitude>
+    <ctml:longitude>20.80278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160168" kind="admin2">
+    <ctml:name>Srbica</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Mitrovica</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XKM</ctml:parentRef>
+    <ctml:latitude>42.74667000</ctml:latitude>
+    <ctml:longitude>20.78861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160169" kind="admin2">
+    <ctml:name>Vushtrri</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Mitrovica</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XKM</ctml:parentRef>
+    <ctml:latitude>42.82306000</ctml:latitude>
+    <ctml:longitude>20.96750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160170" kind="admin2">
+    <ctml:name>Zubin Potok</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Mitrovica</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XKM</ctml:parentRef>
+    <ctml:latitude>42.91444000</ctml:latitude>
+    <ctml:longitude>20.68972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160171" kind="admin2">
+    <ctml:name>Zvečan</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Mitrovica</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XKM</ctml:parentRef>
+    <ctml:latitude>42.90750000</ctml:latitude>
+    <ctml:longitude>20.84028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160181" kind="city">
+    <ctml:name>Dubova (Driloni)</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Peja</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PEJ</ctml:parentRef>
+    <ctml:latitude>42.71194000</ctml:latitude>
+    <ctml:longitude>20.36972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160182" kind="admin2">
+    <ctml:name>Istok</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Peja</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PEJ</ctml:parentRef>
+    <ctml:latitude>42.78083000</ctml:latitude>
+    <ctml:longitude>20.48750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160183" kind="admin2">
+    <ctml:name>Klina</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Peja</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PEJ</ctml:parentRef>
+    <ctml:latitude>42.62167000</ctml:latitude>
+    <ctml:longitude>20.57778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160184" kind="city">
+    <ctml:name>Kosuriq</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Peja</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PEJ</ctml:parentRef>
+    <ctml:latitude>42.57028000</ctml:latitude>
+    <ctml:longitude>20.46472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160172" kind="city">
+    <ctml:name>Bradash</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Pristina</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XPI</ctml:parentRef>
+    <ctml:latitude>42.94028000</ctml:latitude>
+    <ctml:longitude>21.13806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160173" kind="admin2">
+    <ctml:name>Glogovac</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Pristina</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XPI</ctml:parentRef>
+    <ctml:latitude>42.62833000</ctml:latitude>
+    <ctml:longitude>20.89389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160174" kind="city">
+    <ctml:name>Gračanica</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Pristina</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XPI</ctml:parentRef>
+    <ctml:latitude>42.60111000</ctml:latitude>
+    <ctml:longitude>21.19583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160175" kind="admin2">
+    <ctml:name>Kosovo Polje</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Pristina</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XPI</ctml:parentRef>
+    <ctml:latitude>42.66394000</ctml:latitude>
+    <ctml:longitude>21.09611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160176" kind="admin2">
+    <ctml:name>Lipljan</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Pristina</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XPI</ctml:parentRef>
+    <ctml:latitude>42.52167000</ctml:latitude>
+    <ctml:longitude>21.12583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160177" kind="admin2">
+    <ctml:name>Novo Brdo</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Pristina</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XPI</ctml:parentRef>
+    <ctml:latitude>42.61590000</ctml:latitude>
+    <ctml:longitude>21.43405000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160178" kind="admin2">
+    <ctml:name>Obiliq</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Pristina</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XPI</ctml:parentRef>
+    <ctml:latitude>42.68694000</ctml:latitude>
+    <ctml:longitude>21.07028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160179" kind="admin2">
+    <ctml:name>Podujeva</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Pristina</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XPI</ctml:parentRef>
+    <ctml:latitude>42.91056000</ctml:latitude>
+    <ctml:longitude>21.19306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160180" kind="city">
+    <ctml:name>Pristina</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Pristina</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-XPI</ctml:parentRef>
+    <ctml:latitude>42.67272000</ctml:latitude>
+    <ctml:longitude>21.16688000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160186" kind="city">
+    <ctml:name>Budakovo</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Prizren</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PRI</ctml:parentRef>
+    <ctml:latitude>42.35500000</ctml:latitude>
+    <ctml:longitude>20.92500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160188" kind="admin2">
+    <ctml:name>Dragash</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Prizren</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PRI</ctml:parentRef>
+    <ctml:latitude>42.02650000</ctml:latitude>
+    <ctml:longitude>20.65333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160187" kind="city">
+    <ctml:name>Gjinoc</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Prizren</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PRI</ctml:parentRef>
+    <ctml:latitude>42.31833000</ctml:latitude>
+    <ctml:longitude>20.81861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160189" kind="city">
+    <ctml:name>Leshan</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Prizren</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PRI</ctml:parentRef>
+    <ctml:latitude>42.32778000</ctml:latitude>
+    <ctml:longitude>20.78111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160190" kind="city">
+    <ctml:name>Llazicë</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Prizren</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PRI</ctml:parentRef>
+    <ctml:latitude>42.55528000</ctml:latitude>
+    <ctml:longitude>20.76333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160191" kind="admin2">
+    <ctml:name>Mališevo</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Prizren</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PRI</ctml:parentRef>
+    <ctml:latitude>42.48222000</ctml:latitude>
+    <ctml:longitude>20.74583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160192" kind="admin2">
+    <ctml:name>Mamuša</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Prizren</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PRI</ctml:parentRef>
+    <ctml:latitude>42.33083000</ctml:latitude>
+    <ctml:longitude>20.72694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160193" kind="city">
+    <ctml:name>Nishor</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Prizren</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PRI</ctml:parentRef>
+    <ctml:latitude>42.42389000</ctml:latitude>
+    <ctml:longitude>20.80167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160194" kind="city">
+    <ctml:name>Pagaruša</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Prizren</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PRI</ctml:parentRef>
+    <ctml:latitude>42.42000000</ctml:latitude>
+    <ctml:longitude>20.74222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:XKX-160195" kind="city">
+    <ctml:name>Peqan</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Prizren</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PRI</ctml:parentRef>
+    <ctml:latitude>42.38361000</ctml:latitude>
+    <ctml:longitude>20.82194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:XKX-160197" kind="admin2">
+    <ctml:name>Suva Reka</ctml:name>
+    <ctml:country>XKX</ctml:country>
+    <ctml:admin1>Prizren</ctml:admin1>
+    <ctml:parentRef>place:admin1:XK-PRI</ctml:parentRef>
+    <ctml:latitude>42.35861000</ctml:latitude>
+    <ctml:longitude>20.82500000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:NCL-153638" kind="city">
+    <ctml:name>Lifou</ctml:name>
+    <ctml:country>NCL</ctml:country>
+    <ctml:admin1>Loyalty Islands Province</ctml:admin1>
+    <ctml:parentRef>place:admin1:NC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q9728</ctml:wikiDataId>
+    <ctml:latitude>-20.96670000</ctml:latitude>
+    <ctml:longitude>167.23330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NCL-153639" kind="city">
+    <ctml:name>Maré</ctml:name>
+    <ctml:country>NCL</ctml:country>
+    <ctml:admin1>Loyalty Islands Province</ctml:admin1>
+    <ctml:parentRef>place:admin1:NC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q9729</ctml:wikiDataId>
+    <ctml:latitude>-21.51670000</ctml:latitude>
+    <ctml:longitude>167.98330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NCL-153637" kind="city">
+    <ctml:name>Houaïlou</ctml:name>
+    <ctml:country>NCL</ctml:country>
+    <ctml:admin1>North Province</ctml:admin1>
+    <ctml:parentRef>place:admin1:NC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q9716</ctml:wikiDataId>
+    <ctml:latitude>-21.29090000</ctml:latitude>
+    <ctml:longitude>165.62170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NCL-153636" kind="city">
+    <ctml:name>Poindimié</ctml:name>
+    <ctml:country>NCL</ctml:country>
+    <ctml:admin1>North Province</ctml:admin1>
+    <ctml:parentRef>place:admin1:NC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q9740</ctml:wikiDataId>
+    <ctml:latitude>-20.94960000</ctml:latitude>
+    <ctml:longitude>165.32930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NCL-153634" kind="city">
+    <ctml:name>Bourail</ctml:name>
+    <ctml:country>NCL</ctml:country>
+    <ctml:admin1>South Province</ctml:admin1>
+    <ctml:parentRef>place:admin1:NC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q9709</ctml:wikiDataId>
+    <ctml:latitude>-21.57010000</ctml:latitude>
+    <ctml:longitude>165.48040000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NCL-153632" kind="city">
+    <ctml:name>Dumbéa</ctml:name>
+    <ctml:country>NCL</ctml:country>
+    <ctml:admin1>South Province</ctml:admin1>
+    <ctml:parentRef>place:admin1:NC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q597896</ctml:wikiDataId>
+    <ctml:latitude>-22.15000000</ctml:latitude>
+    <ctml:longitude>166.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NCL-153631" kind="city">
+    <ctml:name>Le Mont-Dore</ctml:name>
+    <ctml:country>NCL</ctml:country>
+    <ctml:admin1>South Province</ctml:admin1>
+    <ctml:parentRef>place:admin1:NC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q9732</ctml:wikiDataId>
+    <ctml:latitude>-22.21570000</ctml:latitude>
+    <ctml:longitude>166.46650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NCL-153630" kind="city">
+    <ctml:name>Nouméa</ctml:name>
+    <ctml:country>NCL</ctml:country>
+    <ctml:admin1>South Province</ctml:admin1>
+    <ctml:parentRef>place:admin1:NC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q9733</ctml:wikiDataId>
+    <ctml:latitude>-22.27580000</ctml:latitude>
+    <ctml:longitude>166.45800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NCL-153633" kind="city">
+    <ctml:name>Païta</ctml:name>
+    <ctml:country>NCL</ctml:country>
+    <ctml:admin1>South Province</ctml:admin1>
+    <ctml:parentRef>place:admin1:NC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q9737</ctml:wikiDataId>
+    <ctml:latitude>-22.13370000</ctml:latitude>
+    <ctml:longitude>166.35050000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

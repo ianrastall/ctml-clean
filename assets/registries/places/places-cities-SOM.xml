@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SOM-104815" kind="city">
+    <ctml:name>Tayeeglow</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Bakool</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-BK</ctml:parentRef>
+    <ctml:wikiDataId>Q3991272</ctml:wikiDataId>
+    <ctml:latitude>4.01897000</ctml:latitude>
+    <ctml:longitude>44.51111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104816" kind="city">
+    <ctml:name>Waajid</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Bakool</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-BK</ctml:parentRef>
+    <ctml:wikiDataId>Q2064657</ctml:wikiDataId>
+    <ctml:latitude>3.80958000</ctml:latitude>
+    <ctml:longitude>43.24627000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104820" kind="city">
+    <ctml:name>Yeed</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Bakool</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-BK</ctml:parentRef>
+    <ctml:wikiDataId>Q1017160</ctml:wikiDataId>
+    <ctml:latitude>4.55000000</ctml:latitude>
+    <ctml:longitude>43.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104810" kind="city">
+    <ctml:name>Mogadishu</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Banaadir</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-BN</ctml:parentRef>
+    <ctml:wikiDataId>Q2449</ctml:wikiDataId>
+    <ctml:latitude>2.03711000</ctml:latitude>
+    <ctml:longitude>45.34375000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104778" kind="city">
+    <ctml:name>Bandarbeyla</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Bari</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q2737490</ctml:wikiDataId>
+    <ctml:latitude>9.49420000</ctml:latitude>
+    <ctml:longitude>50.81220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104779" kind="city">
+    <ctml:name>Bargaal</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Bari</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q808131</ctml:wikiDataId>
+    <ctml:latitude>11.28636000</ctml:latitude>
+    <ctml:longitude>51.07730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104781" kind="city">
+    <ctml:name>Bereeda</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Bari</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q15873036</ctml:wikiDataId>
+    <ctml:latitude>11.87037000</ctml:latitude>
+    <ctml:longitude>51.05795000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SOM-104788" kind="admin2">
+    <ctml:name>Caluula</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Bari</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q448076</ctml:wikiDataId>
+    <ctml:latitude>11.96611000</ctml:latitude>
+    <ctml:longitude>50.75694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104800" kind="city">
+    <ctml:name>Iskushuban</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Bari</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q1017200</ctml:wikiDataId>
+    <ctml:latitude>10.28370000</ctml:latitude>
+    <ctml:longitude>50.23000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104812" kind="city">
+    <ctml:name>Qandala</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Bari</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q1668870</ctml:wikiDataId>
+    <ctml:latitude>11.47197000</ctml:latitude>
+    <ctml:longitude>49.87282000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SOM-104786" kind="admin2">
+    <ctml:name>Buurhakaba</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-BY</ctml:parentRef>
+    <ctml:wikiDataId>Q1018270</ctml:wikiDataId>
+    <ctml:latitude>2.80257000</ctml:latitude>
+    <ctml:longitude>44.07805000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104790" kind="city">
+    <ctml:name>Ceelbuur</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Galguduud</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q2737496</ctml:wikiDataId>
+    <ctml:latitude>4.68501000</ctml:latitude>
+    <ctml:longitude>46.61760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104791" kind="city">
+    <ctml:name>Ceeldheer</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Galguduud</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q1325602</ctml:wikiDataId>
+    <ctml:latitude>3.84878000</ctml:latitude>
+    <ctml:longitude>47.18064000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104776" kind="city">
+    <ctml:name>Baardheere</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Gedo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-GE</ctml:parentRef>
+    <ctml:wikiDataId>Q383218</ctml:wikiDataId>
+    <ctml:latitude>2.34464000</ctml:latitude>
+    <ctml:longitude>42.27644000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104807" kind="city">
+    <ctml:name>Luuq</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Gedo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-GE</ctml:parentRef>
+    <ctml:wikiDataId>Q1878274</ctml:wikiDataId>
+    <ctml:latitude>3.80315000</ctml:latitude>
+    <ctml:longitude>42.54417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104784" kind="city">
+    <ctml:name>Buulobarde</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Hiran</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q1018265</ctml:wikiDataId>
+    <ctml:latitude>3.85375000</ctml:latitude>
+    <ctml:longitude>45.56744000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104801" kind="city">
+    <ctml:name>Jalalaqsi</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Hiran</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q694851</ctml:wikiDataId>
+    <ctml:latitude>3.37660000</ctml:latitude>
+    <ctml:longitude>45.59960000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104785" kind="city">
+    <ctml:name>Buur Gaabo</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Lower Juba</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-JH</ctml:parentRef>
+    <ctml:wikiDataId>Q1018265</ctml:wikiDataId>
+    <ctml:latitude>-1.21917000</ctml:latitude>
+    <ctml:longitude>41.83725000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104802" kind="city">
+    <ctml:name>Jamaame</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Lower Juba</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-JH</ctml:parentRef>
+    <ctml:wikiDataId>Q1017154</ctml:wikiDataId>
+    <ctml:latitude>0.06968000</ctml:latitude>
+    <ctml:longitude>42.74497000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SOM-104775" kind="admin2">
+    <ctml:name>Afgooye</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Lower Shebelle</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q383218</ctml:wikiDataId>
+    <ctml:latitude>2.13810000</ctml:latitude>
+    <ctml:longitude>45.12120000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SOM-104813" kind="admin2">
+    <ctml:name>Qoryooley</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Lower Shebelle</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2054709</ctml:wikiDataId>
+    <ctml:latitude>1.78784000</ctml:latitude>
+    <ctml:longitude>44.52999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104817" kind="city">
+    <ctml:name>Wanlaweyn</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Lower Shebelle</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q1444410</ctml:wikiDataId>
+    <ctml:latitude>2.61850000</ctml:latitude>
+    <ctml:longitude>44.89380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104794" kind="city">
+    <ctml:name>Dujuuma</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Middle Juba</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-JD</ctml:parentRef>
+    <ctml:wikiDataId>Q634063</ctml:wikiDataId>
+    <ctml:latitude>1.25311000</ctml:latitude>
+    <ctml:longitude>42.57377000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104804" kind="city">
+    <ctml:name>Jilib</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Middle Juba</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-JD</ctml:parentRef>
+    <ctml:wikiDataId>Q1509787</ctml:wikiDataId>
+    <ctml:latitude>0.48829000</ctml:latitude>
+    <ctml:longitude>42.78535000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104814" kind="city">
+    <ctml:name>Saacow</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Middle Juba</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-JD</ctml:parentRef>
+    <ctml:wikiDataId>Q2054709</ctml:wikiDataId>
+    <ctml:latitude>1.62794000</ctml:latitude>
+    <ctml:longitude>42.44067000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104787" kind="city">
+    <ctml:name>Cadale</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Middle Shebelle</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q348107</ctml:wikiDataId>
+    <ctml:latitude>2.76030000</ctml:latitude>
+    <ctml:longitude>46.32220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104808" kind="city">
+    <ctml:name>Mahaddayweyne</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Middle Shebelle</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1878274</ctml:wikiDataId>
+    <ctml:latitude>2.97260000</ctml:latitude>
+    <ctml:longitude>45.53470000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SOM-104799" kind="admin2">
+    <ctml:name>Hobyo</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Mudug</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-MU</ctml:parentRef>
+    <ctml:wikiDataId>Q1016908</ctml:wikiDataId>
+    <ctml:latitude>5.35050000</ctml:latitude>
+    <ctml:longitude>48.52680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104818" kind="city">
+    <ctml:name>Xarardheere</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Mudug</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-MU</ctml:parentRef>
+    <ctml:wikiDataId>Q598676</ctml:wikiDataId>
+    <ctml:latitude>4.65440000</ctml:latitude>
+    <ctml:longitude>47.85750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104795" kind="city">
+    <ctml:name>Eyl</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Nugal</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-NU</ctml:parentRef>
+    <ctml:wikiDataId>Q1019060</ctml:wikiDataId>
+    <ctml:latitude>7.98030000</ctml:latitude>
+    <ctml:longitude>49.81640000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SOM-104806" kind="admin2">
+    <ctml:name>Las Khorey</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Sanaag</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q1017225</ctml:wikiDataId>
+    <ctml:latitude>11.15950000</ctml:latitude>
+    <ctml:longitude>48.19670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-160113" kind="city">
+    <ctml:name>Aynaba</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Sool</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q4058907</ctml:wikiDataId>
+    <ctml:latitude>8.95000000</ctml:latitude>
+    <ctml:longitude>46.41666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-160114" kind="city">
+    <ctml:name>Hudun</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Sool</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q3388333</ctml:wikiDataId>
+    <ctml:latitude>9.15416667</ctml:latitude>
+    <ctml:longitude>47.47694444</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104789" kind="city">
+    <ctml:name>Ceek</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Togdheer</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q448076</ctml:wikiDataId>
+    <ctml:latitude>8.99907000</ctml:latitude>
+    <ctml:longitude>45.35824000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-104811" kind="city">
+    <ctml:name>Oodweyne</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Togdheer</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q7095260</ctml:wikiDataId>
+    <ctml:latitude>9.40920000</ctml:latitude>
+    <ctml:longitude>45.06397000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SOM-160116" kind="city">
+    <ctml:name>Gabiley</ctml:name>
+    <ctml:country>SOM</ctml:country>
+    <ctml:admin1>Woqooyi Galbeed</ctml:admin1>
+    <ctml:parentRef>place:admin1:SO-WO</ctml:parentRef>
+    <ctml:wikiDataId>Q1016892</ctml:wikiDataId>
+    <ctml:latitude>9.70000000</ctml:latitude>
+    <ctml:longitude>43.62361111</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

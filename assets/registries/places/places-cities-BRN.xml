@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BRN-9823" kind="city">
+    <ctml:name>Seria</ctml:name>
+    <ctml:country>BRN</ctml:country>
+    <ctml:admin1>Belait</ctml:admin1>
+    <ctml:parentRef>place:admin1:BN-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q2159472</ctml:wikiDataId>
+    <ctml:latitude>4.60637000</ctml:latitude>
+    <ctml:longitude>114.32476000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BRN-9816" kind="city">
+    <ctml:name>Bandar Seri Begawan</ctml:name>
+    <ctml:country>BRN</ctml:country>
+    <ctml:admin1>Brunei-Muara</ctml:admin1>
+    <ctml:parentRef>place:admin1:BN-BM</ctml:parentRef>
+    <ctml:wikiDataId>Q9279</ctml:wikiDataId>
+    <ctml:latitude>4.89035000</ctml:latitude>
+    <ctml:longitude>114.94006000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BRN-9818" kind="city">
+    <ctml:name>Berakas A</ctml:name>
+    <ctml:country>BRN</ctml:country>
+    <ctml:admin1>Brunei-Muara</ctml:admin1>
+    <ctml:parentRef>place:admin1:BN-BM</ctml:parentRef>
+    <ctml:wikiDataId>Q1125479</ctml:wikiDataId>
+    <ctml:latitude>4.97032000</ctml:latitude>
+    <ctml:longitude>114.92989000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BRN-9819" kind="city">
+    <ctml:name>Kapok</ctml:name>
+    <ctml:country>BRN</ctml:country>
+    <ctml:admin1>Brunei-Muara</ctml:admin1>
+    <ctml:parentRef>place:admin1:BN-BM</ctml:parentRef>
+    <ctml:wikiDataId>Q1125479</ctml:wikiDataId>
+    <ctml:latitude>5.02447000</ctml:latitude>
+    <ctml:longitude>115.04664000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BRN-9821" kind="city">
+    <ctml:name>Mentiri</ctml:name>
+    <ctml:country>BRN</ctml:country>
+    <ctml:admin1>Brunei-Muara</ctml:admin1>
+    <ctml:parentRef>place:admin1:BN-BM</ctml:parentRef>
+    <ctml:wikiDataId>Q588045</ctml:wikiDataId>
+    <ctml:latitude>4.97058000</ctml:latitude>
+    <ctml:longitude>115.02078000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BRN-9822" kind="city">
+    <ctml:name>Serasa</ctml:name>
+    <ctml:country>BRN</ctml:country>
+    <ctml:admin1>Brunei-Muara</ctml:admin1>
+    <ctml:parentRef>place:admin1:BN-BM</ctml:parentRef>
+    <ctml:wikiDataId>Q588045</ctml:wikiDataId>
+    <ctml:latitude>5.01718000</ctml:latitude>
+    <ctml:longitude>115.05841000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

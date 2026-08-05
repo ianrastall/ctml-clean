@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MWI-67950" kind="city">
+    <ctml:name>Chipoka</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1074598</ctml:wikiDataId>
+    <ctml:latitude>-13.99329000</ctml:latitude>
+    <ctml:longitude>34.51566000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67955" kind="admin2">
+    <ctml:name>Dedza</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1182266</ctml:wikiDataId>
+    <ctml:latitude>-14.37790000</ctml:latitude>
+    <ctml:longitude>34.33322000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67956" kind="city">
+    <ctml:name>Dedza District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q667153</ctml:wikiDataId>
+    <ctml:latitude>-14.26273000</ctml:latitude>
+    <ctml:longitude>34.18559000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67957" kind="admin2">
+    <ctml:name>Dowa</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1253056</ctml:wikiDataId>
+    <ctml:latitude>-13.65399000</ctml:latitude>
+    <ctml:longitude>33.93754000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67958" kind="city">
+    <ctml:name>Dowa District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q195356</ctml:wikiDataId>
+    <ctml:latitude>-13.60098000</ctml:latitude>
+    <ctml:longitude>33.82378000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67961" kind="admin2">
+    <ctml:name>Kasungu</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q195309</ctml:wikiDataId>
+    <ctml:latitude>-13.03333000</ctml:latitude>
+    <ctml:longitude>33.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67962" kind="city">
+    <ctml:name>Kasungu District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q868778</ctml:wikiDataId>
+    <ctml:latitude>-13.00000000</ctml:latitude>
+    <ctml:longitude>33.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67964" kind="city">
+    <ctml:name>Lilongwe</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q3876</ctml:wikiDataId>
+    <ctml:latitude>-13.96692000</ctml:latitude>
+    <ctml:longitude>33.78725000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67965" kind="city">
+    <ctml:name>Lilongwe District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1058453</ctml:wikiDataId>
+    <ctml:latitude>-14.01962000</ctml:latitude>
+    <ctml:longitude>33.68407000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67973" kind="admin2">
+    <ctml:name>Mchinji</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1188150</ctml:wikiDataId>
+    <ctml:latitude>-13.79841000</ctml:latitude>
+    <ctml:longitude>32.88019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67974" kind="city">
+    <ctml:name>Mchinji District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q868792</ctml:wikiDataId>
+    <ctml:latitude>-13.76230000</ctml:latitude>
+    <ctml:longitude>33.07998000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67976" kind="city">
+    <ctml:name>Mponela</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1253227</ctml:wikiDataId>
+    <ctml:latitude>-13.53194000</ctml:latitude>
+    <ctml:longitude>33.74008000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67987" kind="admin2">
+    <ctml:name>Nkhotakota</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1022510</ctml:wikiDataId>
+    <ctml:latitude>-12.92744000</ctml:latitude>
+    <ctml:longitude>34.29614000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67988" kind="city">
+    <ctml:name>Nkhotakota District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q687248</ctml:wikiDataId>
+    <ctml:latitude>-12.80417000</ctml:latitude>
+    <ctml:longitude>34.08298000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67991" kind="admin2">
+    <ctml:name>Ntcheu</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1022517</ctml:wikiDataId>
+    <ctml:latitude>-14.82027000</ctml:latitude>
+    <ctml:longitude>34.63586000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67992" kind="city">
+    <ctml:name>Ntcheu District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q797937</ctml:wikiDataId>
+    <ctml:latitude>-14.75000000</ctml:latitude>
+    <ctml:longitude>34.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67993" kind="admin2">
+    <ctml:name>Ntchisi</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q912391</ctml:wikiDataId>
+    <ctml:latitude>-13.52775000</ctml:latitude>
+    <ctml:longitude>33.91490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67994" kind="city">
+    <ctml:name>Ntchisi District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q798235</ctml:wikiDataId>
+    <ctml:latitude>-13.29574000</ctml:latitude>
+    <ctml:longitude>33.90798000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67999" kind="admin2">
+    <ctml:name>Salima</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q979028</ctml:wikiDataId>
+    <ctml:latitude>-13.78040000</ctml:latitude>
+    <ctml:longitude>34.45870000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-68000" kind="city">
+    <ctml:name>Salima District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-C</ctml:parentRef>
+    <ctml:wikiDataId>Q195353</ctml:wikiDataId>
+    <ctml:latitude>-13.71959000</ctml:latitude>
+    <ctml:longitude>34.40184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67953" kind="admin2">
+    <ctml:name>Chitipa</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1074915</ctml:wikiDataId>
+    <ctml:latitude>-9.70237000</ctml:latitude>
+    <ctml:longitude>33.26969000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67954" kind="city">
+    <ctml:name>Chitipa District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1044337</ctml:wikiDataId>
+    <ctml:latitude>-9.92727000</ctml:latitude>
+    <ctml:longitude>33.42541000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67959" kind="admin2">
+    <ctml:name>Karonga</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1022512</ctml:wikiDataId>
+    <ctml:latitude>-9.93333000</ctml:latitude>
+    <ctml:longitude>33.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67960" kind="city">
+    <ctml:name>Karonga District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-N</ctml:parentRef>
+    <ctml:wikiDataId>Q868819</ctml:wikiDataId>
+    <ctml:latitude>-10.11153000</ctml:latitude>
+    <ctml:longitude>33.88151000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67963" kind="city">
+    <ctml:name>Likoma</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-N</ctml:parentRef>
+    <ctml:wikiDataId>Q740622</ctml:wikiDataId>
+    <ctml:latitude>-12.06065000</ctml:latitude>
+    <ctml:longitude>34.73608000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67966" kind="city">
+    <ctml:name>Livingstonia</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-N</ctml:parentRef>
+    <ctml:wikiDataId>Q502416</ctml:wikiDataId>
+    <ctml:latitude>-10.60602000</ctml:latitude>
+    <ctml:longitude>34.10628000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67981" kind="admin2">
+    <ctml:name>Mzimba</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1666876</ctml:wikiDataId>
+    <ctml:latitude>-11.90000000</ctml:latitude>
+    <ctml:longitude>33.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67982" kind="city">
+    <ctml:name>Mzimba District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1045435</ctml:wikiDataId>
+    <ctml:latitude>-11.85428000</ctml:latitude>
+    <ctml:longitude>33.60778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67985" kind="admin2">
+    <ctml:name>Nkhata Bay</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1370650</ctml:wikiDataId>
+    <ctml:latitude>-11.60659000</ctml:latitude>
+    <ctml:longitude>34.29073000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67986" kind="city">
+    <ctml:name>Nkhata Bay District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1051505</ctml:wikiDataId>
+    <ctml:latitude>-11.65304000</ctml:latitude>
+    <ctml:longitude>34.05322000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67997" kind="admin2">
+    <ctml:name>Rumphi</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1022535</ctml:wikiDataId>
+    <ctml:latitude>-11.01863000</ctml:latitude>
+    <ctml:longitude>33.85746000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67998" kind="city">
+    <ctml:name>Rumphi District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1044312</ctml:wikiDataId>
+    <ctml:latitude>-10.80292000</ctml:latitude>
+    <ctml:longitude>33.80524000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67944" kind="admin2">
+    <ctml:name>Balaka</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q804607</ctml:wikiDataId>
+    <ctml:latitude>-14.97928000</ctml:latitude>
+    <ctml:longitude>34.95575000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67945" kind="city">
+    <ctml:name>Balaka District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q870044</ctml:wikiDataId>
+    <ctml:latitude>-15.04839000</ctml:latitude>
+    <ctml:longitude>35.05910000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67947" kind="city">
+    <ctml:name>Blantyre District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1059262</ctml:wikiDataId>
+    <ctml:latitude>-15.64732000</ctml:latitude>
+    <ctml:longitude>34.93956000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67948" kind="admin2">
+    <ctml:name>Chikwawa</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1022541</ctml:wikiDataId>
+    <ctml:latitude>-16.03352000</ctml:latitude>
+    <ctml:longitude>34.80091000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67949" kind="city">
+    <ctml:name>Chikwawa District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q722509</ctml:wikiDataId>
+    <ctml:latitude>-16.16667000</ctml:latitude>
+    <ctml:longitude>34.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67951" kind="admin2">
+    <ctml:name>Chiradzulu</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1022529</ctml:wikiDataId>
+    <ctml:latitude>-15.67461000</ctml:latitude>
+    <ctml:longitude>35.14071000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67952" kind="city">
+    <ctml:name>Chiradzulu District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q722501</ctml:wikiDataId>
+    <ctml:latitude>-15.75268000</ctml:latitude>
+    <ctml:longitude>35.21576000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67967" kind="city">
+    <ctml:name>Liwonde</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1377361</ctml:wikiDataId>
+    <ctml:latitude>-15.06665000</ctml:latitude>
+    <ctml:longitude>35.22543000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67968" kind="city">
+    <ctml:name>Luchenza</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q993322</ctml:wikiDataId>
+    <ctml:latitude>-16.00693000</ctml:latitude>
+    <ctml:longitude>35.30947000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67969" kind="admin2">
+    <ctml:name>Machinga</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q12810684</ctml:wikiDataId>
+    <ctml:latitude>-15.16849000</ctml:latitude>
+    <ctml:longitude>35.30002000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67970" kind="city">
+    <ctml:name>Machinga District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q198585</ctml:wikiDataId>
+    <ctml:latitude>-14.94583000</ctml:latitude>
+    <ctml:longitude>35.57367000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67971" kind="admin2">
+    <ctml:name>Mangochi</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1890257</ctml:wikiDataId>
+    <ctml:latitude>-14.47815000</ctml:latitude>
+    <ctml:longitude>35.26448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67972" kind="city">
+    <ctml:name>Mangochi District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q722505</ctml:wikiDataId>
+    <ctml:latitude>-14.39296000</ctml:latitude>
+    <ctml:longitude>35.34658000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67975" kind="city">
+    <ctml:name>Monkey Bay</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1944901</ctml:wikiDataId>
+    <ctml:latitude>-14.08239000</ctml:latitude>
+    <ctml:longitude>34.91652000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67977" kind="admin2">
+    <ctml:name>Mulanje</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1865092</ctml:wikiDataId>
+    <ctml:latitude>-16.03163000</ctml:latitude>
+    <ctml:longitude>35.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67978" kind="city">
+    <ctml:name>Mulanje District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q509097</ctml:wikiDataId>
+    <ctml:latitude>-15.93440000</ctml:latitude>
+    <ctml:longitude>35.49990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67979" kind="admin2">
+    <ctml:name>Mwanza</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1416015</ctml:wikiDataId>
+    <ctml:latitude>-15.60262000</ctml:latitude>
+    <ctml:longitude>34.52479000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67980" kind="city">
+    <ctml:name>Mwanza District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q797933</ctml:wikiDataId>
+    <ctml:latitude>-15.63337000</ctml:latitude>
+    <ctml:longitude>34.51682000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67984" kind="city">
+    <ctml:name>Neno</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1195298</ctml:wikiDataId>
+    <ctml:latitude>-15.45051000</ctml:latitude>
+    <ctml:longitude>34.70034000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67989" kind="admin2">
+    <ctml:name>Nsanje</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1939876</ctml:wikiDataId>
+    <ctml:latitude>-16.91995000</ctml:latitude>
+    <ctml:longitude>35.26199000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67990" kind="city">
+    <ctml:name>Nsanje District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q198587</ctml:wikiDataId>
+    <ctml:latitude>-16.75000000</ctml:latitude>
+    <ctml:longitude>35.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-67995" kind="admin2">
+    <ctml:name>Phalombe</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1975329</ctml:wikiDataId>
+    <ctml:latitude>-15.80635000</ctml:latitude>
+    <ctml:longitude>35.65067000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-67996" kind="city">
+    <ctml:name>Phalombe District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q538991</ctml:wikiDataId>
+    <ctml:latitude>-15.66667000</ctml:latitude>
+    <ctml:longitude>35.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-68001" kind="admin2">
+    <ctml:name>Thyolo</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q2144010</ctml:wikiDataId>
+    <ctml:latitude>-16.06775000</ctml:latitude>
+    <ctml:longitude>35.14046000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-68002" kind="city">
+    <ctml:name>Thyolo District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q722515</ctml:wikiDataId>
+    <ctml:latitude>-16.10583000</ctml:latitude>
+    <ctml:longitude>35.15060000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MWI-68003" kind="admin2">
+    <ctml:name>Zomba</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q219117</ctml:wikiDataId>
+    <ctml:latitude>-15.38596000</ctml:latitude>
+    <ctml:longitude>35.31880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MWI-68004" kind="city">
+    <ctml:name>Zomba District</ctml:name>
+    <ctml:country>MWI</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:MW-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1058442</ctml:wikiDataId>
+    <ctml:latitude>-15.43007000</ctml:latitude>
+    <ctml:longitude>35.41829000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

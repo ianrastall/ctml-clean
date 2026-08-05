@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:KEN-64774" kind="city">
+    <ctml:name>Baringo</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Baringo</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-01</ctml:parentRef>
+    <ctml:wikiDataId>Q4813647</ctml:wikiDataId>
+    <ctml:latitude>0.46667000</ctml:latitude>
+    <ctml:longitude>35.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64781" kind="city">
+    <ctml:name>Eldama Ravine</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Baringo</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1009186</ctml:wikiDataId>
+    <ctml:latitude>0.05196000</ctml:latitude>
+    <ctml:longitude>35.72734000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64870" kind="city">
+    <ctml:name>Sotik</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Bomet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2422035</ctml:wikiDataId>
+    <ctml:latitude>-0.69069000</ctml:latitude>
+    <ctml:longitude>35.11102000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64871" kind="city">
+    <ctml:name>Sotik Post</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Bomet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-02</ctml:parentRef>
+    <ctml:wikiDataId>Q891951</ctml:wikiDataId>
+    <ctml:latitude>-0.78129000</ctml:latitude>
+    <ctml:longitude>35.34156000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64827" kind="city">
+    <ctml:name>Malikisi</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Bungoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-03</ctml:parentRef>
+    <ctml:wikiDataId>Q6740728</ctml:wikiDataId>
+    <ctml:latitude>0.67694000</ctml:latitude>
+    <ctml:longitude>34.42167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64877" kind="city">
+    <ctml:name>Webuye</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Bungoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-03</ctml:parentRef>
+    <ctml:wikiDataId>Q185340</ctml:wikiDataId>
+    <ctml:latitude>0.60040000</ctml:latitude>
+    <ctml:longitude>34.77119000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64821" kind="city">
+    <ctml:name>Luanda</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Busia</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q6669717</ctml:wikiDataId>
+    <ctml:latitude>0.31354000</ctml:latitude>
+    <ctml:longitude>34.07146000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64822" kind="city">
+    <ctml:name>Lugulu</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Busia</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q6669717</ctml:wikiDataId>
+    <ctml:latitude>0.39337000</ctml:latitude>
+    <ctml:longitude>34.30399000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64826" kind="city">
+    <ctml:name>Malaba</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Busia</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q6740728</ctml:wikiDataId>
+    <ctml:latitude>0.63513000</ctml:latitude>
+    <ctml:longitude>34.28165000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64848" kind="city">
+    <ctml:name>Nambare</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Busia</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q239421</ctml:wikiDataId>
+    <ctml:latitude>0.45813000</ctml:latitude>
+    <ctml:longitude>34.25353000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64861" kind="city">
+    <ctml:name>Port Victoria</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Busia</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q7108565</ctml:wikiDataId>
+    <ctml:latitude>0.09809000</ctml:latitude>
+    <ctml:longitude>33.97248000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154645" kind="city">
+    <ctml:name>Chebiemit</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Elgeyo-Marakwet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-05</ctml:parentRef>
+    <ctml:latitude>1.05000000</ctml:latitude>
+    <ctml:longitude>35.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154648" kind="city">
+    <ctml:name>Chepkorio</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Elgeyo-Marakwet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-05</ctml:parentRef>
+    <ctml:wikiDataId>Q5091720</ctml:wikiDataId>
+    <ctml:latitude>0.38330000</ctml:latitude>
+    <ctml:longitude>35.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154649" kind="city">
+    <ctml:name>Chesoi</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Elgeyo-Marakwet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-05</ctml:parentRef>
+    <ctml:latitude>1.15000000</ctml:latitude>
+    <ctml:longitude>35.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154650" kind="city">
+    <ctml:name>Chesongoch</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Elgeyo-Marakwet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-05</ctml:parentRef>
+    <ctml:latitude>1.08330000</ctml:latitude>
+    <ctml:longitude>35.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154656" kind="city">
+    <ctml:name>Flax</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Elgeyo-Marakwet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-05</ctml:parentRef>
+    <ctml:latitude>0.45000000</ctml:latitude>
+    <ctml:longitude>35.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154646" kind="city">
+    <ctml:name>Kapcherop</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Elgeyo-Marakwet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-05</ctml:parentRef>
+    <ctml:latitude>1.23330000</ctml:latitude>
+    <ctml:longitude>35.38330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154651" kind="city">
+    <ctml:name>Kapsait</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Elgeyo-Marakwet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-05</ctml:parentRef>
+    <ctml:latitude>1.21670000</ctml:latitude>
+    <ctml:longitude>35.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154643" kind="city">
+    <ctml:name>Kapsowar</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Elgeyo-Marakwet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-05</ctml:parentRef>
+    <ctml:latitude>1.01500000</ctml:latitude>
+    <ctml:longitude>35.52250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154652" kind="city">
+    <ctml:name>Kaptalamwa</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Elgeyo-Marakwet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-05</ctml:parentRef>
+    <ctml:latitude>1.20000000</ctml:latitude>
+    <ctml:longitude>35.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154647" kind="city">
+    <ctml:name>Kaptarakwa</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Elgeyo-Marakwet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-05</ctml:parentRef>
+    <ctml:wikiDataId>Q6367284</ctml:wikiDataId>
+    <ctml:latitude>0.43330000</ctml:latitude>
+    <ctml:longitude>35.58330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154653" kind="city">
+    <ctml:name>Kapyego</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Elgeyo-Marakwet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-05</ctml:parentRef>
+    <ctml:latitude>1.23330000</ctml:latitude>
+    <ctml:longitude>35.66670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154654" kind="city">
+    <ctml:name>Kipmwarer</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Elgeyo-Marakwet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-05</ctml:parentRef>
+    <ctml:latitude>0.91670000</ctml:latitude>
+    <ctml:longitude>35.53330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154655" kind="city">
+    <ctml:name>Kocholwo</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Elgeyo-Marakwet</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-05</ctml:parentRef>
+    <ctml:latitude>0.41670000</ctml:latitude>
+    <ctml:longitude>35.56670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64860" kind="city">
+    <ctml:name>Oyugis</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Homa Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-08</ctml:parentRef>
+    <ctml:wikiDataId>Q7108565</ctml:wikiDataId>
+    <ctml:latitude>-0.50974000</ctml:latitude>
+    <ctml:longitude>34.73067000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64863" kind="city">
+    <ctml:name>Rachuonyo</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Homa Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2125323</ctml:wikiDataId>
+    <ctml:latitude>-0.44000000</ctml:latitude>
+    <ctml:longitude>34.73900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64824" kind="city">
+    <ctml:name>Magadi</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kajiado</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-10</ctml:parentRef>
+    <ctml:wikiDataId>Q693093</ctml:wikiDataId>
+    <ctml:latitude>-1.90122000</ctml:latitude>
+    <ctml:longitude>36.28700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64853" kind="city">
+    <ctml:name>Ngong</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kajiado</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1279716</ctml:wikiDataId>
+    <ctml:latitude>-1.35270000</ctml:latitude>
+    <ctml:longitude>36.66990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64778" kind="city">
+    <ctml:name>Butere</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kakamega</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1017895</ctml:wikiDataId>
+    <ctml:latitude>0.20694000</ctml:latitude>
+    <ctml:longitude>34.49006000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64842" kind="city">
+    <ctml:name>Mumias</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kakamega</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1020110</ctml:wikiDataId>
+    <ctml:latitude>0.33474000</ctml:latitude>
+    <ctml:longitude>34.48796000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64809" kind="city">
+    <ctml:name>Kipkelion</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kericho</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-12</ctml:parentRef>
+    <ctml:wikiDataId>Q6703164</ctml:wikiDataId>
+    <ctml:latitude>-0.19982000</ctml:latitude>
+    <ctml:longitude>35.46735000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64818" kind="city">
+    <ctml:name>Litein</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kericho</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2613483</ctml:wikiDataId>
+    <ctml:latitude>-0.58249000</ctml:latitude>
+    <ctml:longitude>35.18969000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64820" kind="city">
+    <ctml:name>Londiani</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kericho</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-12</ctml:parentRef>
+    <ctml:wikiDataId>Q6669717</ctml:wikiDataId>
+    <ctml:latitude>-0.16552000</ctml:latitude>
+    <ctml:longitude>35.59359000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64805" kind="city">
+    <ctml:name>Kikuyu</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kiambu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1026079</ctml:wikiDataId>
+    <ctml:latitude>-1.24627000</ctml:latitude>
+    <ctml:longitude>36.66291000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64817" kind="city">
+    <ctml:name>Limuru</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kiambu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1825607</ctml:wikiDataId>
+    <ctml:latitude>-1.11360000</ctml:latitude>
+    <ctml:longitude>36.64205000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64874" kind="city">
+    <ctml:name>Thika</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kiambu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-13</ctml:parentRef>
+    <ctml:wikiDataId>Q589616</ctml:wikiDataId>
+    <ctml:latitude>-1.03326000</ctml:latitude>
+    <ctml:longitude>37.06933000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64797" kind="city">
+    <ctml:name>Kapsowar</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kilifi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1009149</ctml:wikiDataId>
+    <ctml:latitude>0.97890000</ctml:latitude>
+    <ctml:longitude>35.55854000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64828" kind="city">
+    <ctml:name>Malindi</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kilifi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-14</ctml:parentRef>
+    <ctml:wikiDataId>Q271411</ctml:wikiDataId>
+    <ctml:latitude>-3.21799000</ctml:latitude>
+    <ctml:longitude>40.11692000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64832" kind="city">
+    <ctml:name>Mariakani</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kilifi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-14</ctml:parentRef>
+    <ctml:wikiDataId>Q6761771</ctml:wikiDataId>
+    <ctml:latitude>-3.86261000</ctml:latitude>
+    <ctml:longitude>39.47458000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64872" kind="city">
+    <ctml:name>Takaungu</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kilifi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-14</ctml:parentRef>
+    <ctml:wikiDataId>Q3236500</ctml:wikiDataId>
+    <ctml:latitude>-3.68350000</ctml:latitude>
+    <ctml:longitude>39.85687000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64866" kind="city">
+    <ctml:name>Sagana</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kirinyaga</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-15</ctml:parentRef>
+    <ctml:wikiDataId>Q7193402</ctml:wikiDataId>
+    <ctml:latitude>-0.66806000</ctml:latitude>
+    <ctml:longitude>37.20875000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64857" kind="city">
+    <ctml:name>Ogembo</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kisii</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2526331</ctml:wikiDataId>
+    <ctml:latitude>-0.80116000</ctml:latitude>
+    <ctml:longitude>34.72579000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64772" kind="city">
+    <ctml:name>Ahero</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kisumu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2280998</ctml:wikiDataId>
+    <ctml:latitude>-0.17359000</ctml:latitude>
+    <ctml:longitude>34.91890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64841" kind="city">
+    <ctml:name>Muhoroni</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kisumu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-17</ctml:parentRef>
+    <ctml:wikiDataId>Q6930477</ctml:wikiDataId>
+    <ctml:latitude>-0.15816000</ctml:latitude>
+    <ctml:longitude>35.19645000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64844" kind="city">
+    <ctml:name>Mwingi</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kitui</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-18</ctml:parentRef>
+    <ctml:wikiDataId>Q974323</ctml:wikiDataId>
+    <ctml:latitude>-0.93605000</ctml:latitude>
+    <ctml:longitude>38.05955000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64785" kind="city">
+    <ctml:name>Gazi</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kwale</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-19</ctml:parentRef>
+    <ctml:wikiDataId>Q5526462</ctml:wikiDataId>
+    <ctml:latitude>-4.42402000</ctml:latitude>
+    <ctml:longitude>39.50588000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64807" kind="city">
+    <ctml:name>Kinango</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kwale</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1009199</ctml:wikiDataId>
+    <ctml:latitude>-4.13723000</ctml:latitude>
+    <ctml:longitude>39.31528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64867" kind="city">
+    <ctml:name>Sawa Sawa</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kwale</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-19</ctml:parentRef>
+    <ctml:wikiDataId>Q7193402</ctml:wikiDataId>
+    <ctml:latitude>-4.47166000</ctml:latitude>
+    <ctml:longitude>39.48463000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64868" kind="city">
+    <ctml:name>Shimoni</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Kwale</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-19</ctml:parentRef>
+    <ctml:wikiDataId>Q2395680</ctml:wikiDataId>
+    <ctml:latitude>-4.64756000</ctml:latitude>
+    <ctml:longitude>39.38175000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64850" kind="city">
+    <ctml:name>Nanyuki</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Laikipia</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-20</ctml:parentRef>
+    <ctml:wikiDataId>Q123160</ctml:wikiDataId>
+    <ctml:latitude>0.00624000</ctml:latitude>
+    <ctml:longitude>37.07398000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64854" kind="city">
+    <ctml:name>Nyahururu</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Laikipia</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-20</ctml:parentRef>
+    <ctml:wikiDataId>Q948344</ctml:wikiDataId>
+    <ctml:latitude>0.03813000</ctml:latitude>
+    <ctml:longitude>36.36339000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64878" kind="city">
+    <ctml:name>Witu</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Lamu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-21</ctml:parentRef>
+    <ctml:wikiDataId>Q185340</ctml:wikiDataId>
+    <ctml:latitude>-2.38892000</ctml:latitude>
+    <ctml:longitude>40.43827000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64773" kind="city">
+    <ctml:name>Athi River</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Machakos</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-22</ctml:parentRef>
+    <ctml:wikiDataId>Q4813647</ctml:wikiDataId>
+    <ctml:latitude>-1.45630000</ctml:latitude>
+    <ctml:longitude>36.97826000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64794" kind="city">
+    <ctml:name>Kangundo</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Machakos</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-22</ctml:parentRef>
+    <ctml:wikiDataId>Q6362919</ctml:wikiDataId>
+    <ctml:latitude>-1.30342000</ctml:latitude>
+    <ctml:longitude>37.34813000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64814" kind="city">
+    <ctml:name>Konza</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Machakos</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-22</ctml:parentRef>
+    <ctml:wikiDataId>Q6430460</ctml:wikiDataId>
+    <ctml:latitude>-1.73947000</ctml:latitude>
+    <ctml:longitude>37.13195000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64825" kind="city">
+    <ctml:name>Makueni Boma</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Makueni</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-23</ctml:parentRef>
+    <ctml:wikiDataId>Q693093</ctml:wikiDataId>
+    <ctml:latitude>-1.80388000</ctml:latitude>
+    <ctml:longitude>37.62405000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64840" kind="city">
+    <ctml:name>Mtito Andei</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Makueni</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-23</ctml:parentRef>
+    <ctml:wikiDataId>Q6930477</ctml:wikiDataId>
+    <ctml:latitude>-2.68987000</ctml:latitude>
+    <ctml:longitude>38.16687000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64839" kind="city">
+    <ctml:name>Moyale</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Marsabit</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1009179</ctml:wikiDataId>
+    <ctml:latitude>3.52661000</ctml:latitude>
+    <ctml:longitude>39.05610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64834" kind="city">
+    <ctml:name>Maua</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Meru</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-26</ctml:parentRef>
+    <ctml:wikiDataId>Q690356</ctml:wikiDataId>
+    <ctml:latitude>0.23320000</ctml:latitude>
+    <ctml:longitude>37.94086000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64803" kind="city">
+    <ctml:name>Kihancha</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Migori</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-27</ctml:parentRef>
+    <ctml:wikiDataId>Q5243392</ctml:wikiDataId>
+    <ctml:latitude>-1.19347000</ctml:latitude>
+    <ctml:longitude>34.61967000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64793" kind="city">
+    <ctml:name>Kangema</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Murang'a</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-29</ctml:parentRef>
+    <ctml:wikiDataId>Q302912</ctml:wikiDataId>
+    <ctml:latitude>-0.68553000</ctml:latitude>
+    <ctml:longitude>36.96463000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64798" kind="city">
+    <ctml:name>Karuri</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Murang'a</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-29</ctml:parentRef>
+    <ctml:wikiDataId>Q6373732</ctml:wikiDataId>
+    <ctml:latitude>-0.70000000</ctml:latitude>
+    <ctml:longitude>37.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64830" kind="city">
+    <ctml:name>Maragua</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Murang'a</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-29</ctml:parentRef>
+    <ctml:wikiDataId>Q1892268</ctml:wikiDataId>
+    <ctml:latitude>-0.79602000</ctml:latitude>
+    <ctml:longitude>37.13292000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64845" kind="city">
+    <ctml:name>Nairobi</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Nairobi City</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-30</ctml:parentRef>
+    <ctml:wikiDataId>Q3870</ctml:wikiDataId>
+    <ctml:latitude>-1.28333000</ctml:latitude>
+    <ctml:longitude>36.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64862" kind="city">
+    <ctml:name>Pumwani</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Nairobi City</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-30</ctml:parentRef>
+    <ctml:wikiDataId>Q7259868</ctml:wikiDataId>
+    <ctml:latitude>-1.28333000</ctml:latitude>
+    <ctml:longitude>36.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64804" kind="city">
+    <ctml:name>Kijabe</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Nakuru</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-31</ctml:parentRef>
+    <ctml:wikiDataId>Q2719508</ctml:wikiDataId>
+    <ctml:latitude>-0.93334000</ctml:latitude>
+    <ctml:longitude>36.57233000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64837" kind="city">
+    <ctml:name>Molo</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Nakuru</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-31</ctml:parentRef>
+    <ctml:wikiDataId>Q3506442</ctml:wikiDataId>
+    <ctml:latitude>-0.24849000</ctml:latitude>
+    <ctml:longitude>35.73194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64846" kind="city">
+    <ctml:name>Naivasha</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Nakuru</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-31</ctml:parentRef>
+    <ctml:wikiDataId>Q1007647</ctml:wikiDataId>
+    <ctml:latitude>-0.71383000</ctml:latitude>
+    <ctml:longitude>36.43261000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64864" kind="city">
+    <ctml:name>Rongai</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Nakuru</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-31</ctml:parentRef>
+    <ctml:wikiDataId>Q984201</ctml:wikiDataId>
+    <ctml:latitude>-0.17344000</ctml:latitude>
+    <ctml:longitude>35.86313000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64849" kind="city">
+    <ctml:name>Nandi Hills</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Nandi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-32</ctml:parentRef>
+    <ctml:wikiDataId>Q239421</ctml:wikiDataId>
+    <ctml:latitude>0.10366000</ctml:latitude>
+    <ctml:longitude>35.18426000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64800" kind="city">
+    <ctml:name>Keroka</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Nyamira</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-34</ctml:parentRef>
+    <ctml:wikiDataId>Q6373732</ctml:wikiDataId>
+    <ctml:latitude>-0.77612000</ctml:latitude>
+    <ctml:longitude>34.94678000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64851" kind="city">
+    <ctml:name>Naro Moru</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Nyeri</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-36</ctml:parentRef>
+    <ctml:wikiDataId>Q2743647</ctml:wikiDataId>
+    <ctml:latitude>-0.16357000</ctml:latitude>
+    <ctml:longitude>37.01773000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64859" kind="city">
+    <ctml:name>Othaya</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Nyeri</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-36</ctml:parentRef>
+    <ctml:wikiDataId>Q7108565</ctml:wikiDataId>
+    <ctml:latitude>-0.54655000</ctml:latitude>
+    <ctml:longitude>36.93178000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64775" kind="city">
+    <ctml:name>Bondo</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Siaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-38</ctml:parentRef>
+    <ctml:wikiDataId>Q1013242</ctml:wikiDataId>
+    <ctml:latitude>0.23522000</ctml:latitude>
+    <ctml:longitude>34.28086000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64881" kind="city">
+    <ctml:name>Yala</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Siaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-38</ctml:parentRef>
+    <ctml:wikiDataId>Q3130935</ctml:wikiDataId>
+    <ctml:latitude>0.09438000</ctml:latitude>
+    <ctml:longitude>34.53602000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154626" kind="city">
+    <ctml:name>Bura</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Taita–Taveta</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-39</ctml:parentRef>
+    <ctml:wikiDataId>Q4998059</ctml:wikiDataId>
+    <ctml:latitude>-3.50000000</ctml:latitude>
+    <ctml:longitude>38.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154631" kind="city">
+    <ctml:name>Chala</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Taita–Taveta</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-39</ctml:parentRef>
+    <ctml:latitude>-3.38330000</ctml:latitude>
+    <ctml:longitude>37.68330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154627" kind="city">
+    <ctml:name>Maktau</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Taita–Taveta</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-39</ctml:parentRef>
+    <ctml:wikiDataId>Q6740415</ctml:wikiDataId>
+    <ctml:latitude>-3.40000000</ctml:latitude>
+    <ctml:longitude>38.13330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154588" kind="city">
+    <ctml:name>Mgange</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Taita–Taveta</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-39</ctml:parentRef>
+    <ctml:wikiDataId>Q6826827</ctml:wikiDataId>
+    <ctml:latitude>-3.40000000</ctml:latitude>
+    <ctml:longitude>38.31670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154589" kind="city">
+    <ctml:name>Mwanda</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Taita–Taveta</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-39</ctml:parentRef>
+    <ctml:wikiDataId>Q6944655</ctml:wikiDataId>
+    <ctml:latitude>-3.40000000</ctml:latitude>
+    <ctml:longitude>38.28330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154582" kind="city">
+    <ctml:name>Taveta</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Taita–Taveta</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-39</ctml:parentRef>
+    <ctml:wikiDataId>Q2096406</ctml:wikiDataId>
+    <ctml:latitude>-3.39880000</ctml:latitude>
+    <ctml:longitude>37.68340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154622" kind="city">
+    <ctml:name>Voi</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Taita–Taveta</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-39</ctml:parentRef>
+    <ctml:wikiDataId>Q1552910</ctml:wikiDataId>
+    <ctml:latitude>-3.39610000</ctml:latitude>
+    <ctml:longitude>38.55630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154628" kind="city">
+    <ctml:name>Wesu</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Taita–Taveta</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-39</ctml:parentRef>
+    <ctml:wikiDataId>Q7989939</ctml:wikiDataId>
+    <ctml:latitude>-3.40000000</ctml:latitude>
+    <ctml:longitude>38.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154625" kind="city">
+    <ctml:name>Wundanyi</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Taita–Taveta</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-39</ctml:parentRef>
+    <ctml:wikiDataId>Q3056743</ctml:wikiDataId>
+    <ctml:latitude>-3.40850000</ctml:latitude>
+    <ctml:longitude>38.36510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64808" kind="city">
+    <ctml:name>Kipini</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Tana River</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-40</ctml:parentRef>
+    <ctml:wikiDataId>Q1009199</ctml:wikiDataId>
+    <ctml:latitude>-2.52565000</ctml:latitude>
+    <ctml:longitude>40.52620000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KEN-64780" kind="admin2">
+    <ctml:name>Chuka</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Tharaka-Nithi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-41</ctml:parentRef>
+    <ctml:wikiDataId>Q1017895</ctml:wikiDataId>
+    <ctml:latitude>-0.33316000</ctml:latitude>
+    <ctml:longitude>37.64587000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154634" kind="city">
+    <ctml:name>Chavakali</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Vihiga</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-45</ctml:parentRef>
+    <ctml:latitude>0.11670000</ctml:latitude>
+    <ctml:longitude>34.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154641" kind="city">
+    <ctml:name>Esabalu</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Vihiga</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-45</ctml:parentRef>
+    <ctml:wikiDataId>Q30621564</ctml:wikiDataId>
+    <ctml:latitude>0.01670000</ctml:latitude>
+    <ctml:longitude>34.61670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154640" kind="city">
+    <ctml:name>Gambogi</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Vihiga</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-45</ctml:parentRef>
+    <ctml:wikiDataId>Q131322968</ctml:wikiDataId>
+    <ctml:latitude>0.08330000</ctml:latitude>
+    <ctml:longitude>34.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154633" kind="city">
+    <ctml:name>Luanda</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Vihiga</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-45</ctml:parentRef>
+    <ctml:wikiDataId>Q6695000</ctml:wikiDataId>
+    <ctml:latitude>0.00430000</ctml:latitude>
+    <ctml:longitude>34.59700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154635" kind="city">
+    <ctml:name>Majengo</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Vihiga</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-45</ctml:parentRef>
+    <ctml:wikiDataId>Q15243939</ctml:wikiDataId>
+    <ctml:latitude>0.10000000</ctml:latitude>
+    <ctml:longitude>34.61670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154636" kind="city">
+    <ctml:name>Maseno</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Vihiga</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-45</ctml:parentRef>
+    <ctml:wikiDataId>Q3043500</ctml:wikiDataId>
+    <ctml:latitude>0.00000000</ctml:latitude>
+    <ctml:longitude>34.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154637" kind="city">
+    <ctml:name>Mudete</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Vihiga</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-45</ctml:parentRef>
+    <ctml:latitude>0.13330000</ctml:latitude>
+    <ctml:longitude>34.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-154638" kind="city">
+    <ctml:name>Serem</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>Vihiga</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-45</ctml:parentRef>
+    <ctml:latitude>0.08330000</ctml:latitude>
+    <ctml:longitude>34.88330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64779" kind="city">
+    <ctml:name>Chepareria</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>West Pokot</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-47</ctml:parentRef>
+    <ctml:wikiDataId>Q1017895</ctml:wikiDataId>
+    <ctml:latitude>1.30583000</ctml:latitude>
+    <ctml:longitude>35.20365000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64873" kind="city">
+    <ctml:name>Taveta</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>West Pokot</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-47</ctml:parentRef>
+    <ctml:wikiDataId>Q2096406</ctml:wikiDataId>
+    <ctml:latitude>-3.39879000</ctml:latitude>
+    <ctml:longitude>37.68336000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64875" kind="city">
+    <ctml:name>Voi</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>West Pokot</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-47</ctml:parentRef>
+    <ctml:wikiDataId>Q1552910</ctml:wikiDataId>
+    <ctml:latitude>-3.39605000</ctml:latitude>
+    <ctml:longitude>38.55609000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KEN-64880" kind="city">
+    <ctml:name>Wundanyi</ctml:name>
+    <ctml:country>KEN</ctml:country>
+    <ctml:admin1>West Pokot</ctml:admin1>
+    <ctml:parentRef>place:admin1:KE-47</ctml:parentRef>
+    <ctml:wikiDataId>Q3056743</ctml:wikiDataId>
+    <ctml:latitude>-3.39642000</ctml:latitude>
+    <ctml:longitude>38.35729000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

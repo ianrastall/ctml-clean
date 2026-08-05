@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:TTO-108990" kind="city">
+    <ctml:name>Ward of Chaguanas</ctml:name>
+    <ctml:country>TTO</ctml:country>
+    <ctml:admin1>Chaguanas</ctml:admin1>
+    <ctml:parentRef>place:admin1:TT-CHA</ctml:parentRef>
+    <ctml:wikiDataId>Q1444575</ctml:wikiDataId>
+    <ctml:latitude>10.50000000</ctml:latitude>
+    <ctml:longitude>-61.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TTO-108988" kind="city">
+    <ctml:name>Tabaquite</ctml:name>
+    <ctml:country>TTO</ctml:country>
+    <ctml:admin1>Couva-Tabaquite-Talparo</ctml:admin1>
+    <ctml:parentRef>place:admin1:TT-CTT</ctml:parentRef>
+    <ctml:wikiDataId>Q966660</ctml:wikiDataId>
+    <ctml:latitude>10.38824000</ctml:latitude>
+    <ctml:longitude>-61.29704000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TTO-108978" kind="city">
+    <ctml:name>Petit Valley</ctml:name>
+    <ctml:country>TTO</ctml:country>
+    <ctml:admin1>Diego Martin</ctml:admin1>
+    <ctml:parentRef>place:admin1:TT-DMN</ctml:parentRef>
+    <ctml:wikiDataId>Q3493518</ctml:wikiDataId>
+    <ctml:latitude>10.69974000</ctml:latitude>
+    <ctml:longitude>-61.54717000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TTO-108991" kind="city">
+    <ctml:name>Ward of Diego Martin</ctml:name>
+    <ctml:country>TTO</ctml:country>
+    <ctml:admin1>Diego Martin</ctml:admin1>
+    <ctml:parentRef>place:admin1:TT-DMN</ctml:parentRef>
+    <ctml:wikiDataId>Q1444575</ctml:wikiDataId>
+    <ctml:latitude>10.70000000</ctml:latitude>
+    <ctml:longitude>-61.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TTO-108972" kind="city">
+    <ctml:name>Debe</ctml:name>
+    <ctml:country>TTO</ctml:country>
+    <ctml:admin1>Penal-Debe</ctml:admin1>
+    <ctml:parentRef>place:admin1:TT-PED</ctml:parentRef>
+    <ctml:wikiDataId>Q2602007</ctml:wikiDataId>
+    <ctml:latitude>10.20846000</ctml:latitude>
+    <ctml:longitude>-61.45273000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TTO-108976" kind="city">
+    <ctml:name>Mucurapo</ctml:name>
+    <ctml:country>TTO</ctml:country>
+    <ctml:admin1>Port of Spain</ctml:admin1>
+    <ctml:parentRef>place:admin1:TT-POS</ctml:parentRef>
+    <ctml:wikiDataId>Q3493518</ctml:wikiDataId>
+    <ctml:latitude>10.66253000</ctml:latitude>
+    <ctml:longitude>-61.53697000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TTO-108981" kind="city">
+    <ctml:name>Port of Spain</ctml:name>
+    <ctml:country>TTO</ctml:country>
+    <ctml:admin1>Port of Spain</ctml:admin1>
+    <ctml:parentRef>place:admin1:TT-POS</ctml:parentRef>
+    <ctml:wikiDataId>Q39178</ctml:wikiDataId>
+    <ctml:latitude>10.66668000</ctml:latitude>
+    <ctml:longitude>-61.51889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TTO-108974" kind="city">
+    <ctml:name>Marabella</ctml:name>
+    <ctml:country>TTO</ctml:country>
+    <ctml:admin1>San Fernando</ctml:admin1>
+    <ctml:parentRef>place:admin1:TT-SFO</ctml:parentRef>
+    <ctml:wikiDataId>Q3493518</ctml:wikiDataId>
+    <ctml:latitude>10.30618000</ctml:latitude>
+    <ctml:longitude>-61.44671000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TTO-108975" kind="city">
+    <ctml:name>Mon Repos</ctml:name>
+    <ctml:country>TTO</ctml:country>
+    <ctml:admin1>San Fernando</ctml:admin1>
+    <ctml:parentRef>place:admin1:TT-SFO</ctml:parentRef>
+    <ctml:wikiDataId>Q3493518</ctml:wikiDataId>
+    <ctml:latitude>10.27979000</ctml:latitude>
+    <ctml:longitude>-61.44590000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TTO-108992" kind="city">
+    <ctml:name>Ward of Siparia</ctml:name>
+    <ctml:country>TTO</ctml:country>
+    <ctml:admin1>Siparia</ctml:admin1>
+    <ctml:parentRef>place:admin1:TT-SIP</ctml:parentRef>
+    <ctml:wikiDataId>Q1444575</ctml:wikiDataId>
+    <ctml:latitude>10.15000000</ctml:latitude>
+    <ctml:longitude>-61.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TTO-108969" kind="city">
+    <ctml:name>Arouca</ctml:name>
+    <ctml:country>TTO</ctml:country>
+    <ctml:admin1>Tunapuna-Piarco</ctml:admin1>
+    <ctml:parentRef>place:admin1:TT-TUP</ctml:parentRef>
+    <ctml:wikiDataId>Q4795612</ctml:wikiDataId>
+    <ctml:latitude>10.62877000</ctml:latitude>
+    <ctml:longitude>-61.33487000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TTO-108977" kind="city">
+    <ctml:name>Paradise</ctml:name>
+    <ctml:country>TTO</ctml:country>
+    <ctml:admin1>Tunapuna-Piarco</ctml:admin1>
+    <ctml:parentRef>place:admin1:TT-TUP</ctml:parentRef>
+    <ctml:wikiDataId>Q3493518</ctml:wikiDataId>
+    <ctml:latitude>10.65298000</ctml:latitude>
+    <ctml:longitude>-61.36298000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

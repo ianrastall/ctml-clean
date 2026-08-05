@@ -1,0 +1,2613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:KOR-65276" kind="city">
+    <ctml:name>Buk-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Busan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-26</ctml:parentRef>
+    <ctml:wikiDataId>Q50394</ctml:wikiDataId>
+    <ctml:latitude>35.19724000</ctml:latitude>
+    <ctml:longitude>128.99134000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65313" kind="admin2">
+    <ctml:name>Dongnae-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Busan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-26</ctml:parentRef>
+    <ctml:wikiDataId>Q50383</ctml:wikiDataId>
+    <ctml:latitude>35.20447000</ctml:latitude>
+    <ctml:longitude>129.07800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65325" kind="city">
+    <ctml:name>Gangseo-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Busan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-26</ctml:parentRef>
+    <ctml:wikiDataId>Q50191</ctml:wikiDataId>
+    <ctml:latitude>35.15930000</ctml:latitude>
+    <ctml:longitude>128.93300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65331" kind="admin2">
+    <ctml:name>Geumjeong-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Busan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-26</ctml:parentRef>
+    <ctml:wikiDataId>Q50358</ctml:wikiDataId>
+    <ctml:latitude>35.25863000</ctml:latitude>
+    <ctml:longitude>129.09010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65333" kind="city">
+    <ctml:name>Gijang</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Busan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-26</ctml:parentRef>
+    <ctml:wikiDataId>Q50216</ctml:wikiDataId>
+    <ctml:latitude>35.24417000</ctml:latitude>
+    <ctml:longitude>129.21389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65334" kind="city">
+    <ctml:name>Gijang-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Busan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-26</ctml:parentRef>
+    <ctml:wikiDataId>Q50217</ctml:wikiDataId>
+    <ctml:latitude>35.29721000</ctml:latitude>
+    <ctml:longitude>129.20076000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65375" kind="city">
+    <ctml:name>Haeundae-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Busan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-26</ctml:parentRef>
+    <ctml:wikiDataId>Q50449</ctml:wikiDataId>
+    <ctml:latitude>35.16665000</ctml:latitude>
+    <ctml:longitude>129.16792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65421" kind="city">
+    <ctml:name>Jung-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Busan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-26</ctml:parentRef>
+    <ctml:wikiDataId>Q50440</ctml:wikiDataId>
+    <ctml:latitude>35.10594000</ctml:latitude>
+    <ctml:longitude>129.03331000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65452" kind="admin2">
+    <ctml:name>Nam-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Busan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-26</ctml:parentRef>
+    <ctml:wikiDataId>Q50363</ctml:wikiDataId>
+    <ctml:latitude>35.13648000</ctml:latitude>
+    <ctml:longitude>129.08266000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65477" kind="city">
+    <ctml:name>Saha-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Busan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-26</ctml:parentRef>
+    <ctml:wikiDataId>Q50400</ctml:wikiDataId>
+    <ctml:latitude>35.08552000</ctml:latitude>
+    <ctml:longitude>128.98725000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65482" kind="city">
+    <ctml:name>Sasang-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Busan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-26</ctml:parentRef>
+    <ctml:wikiDataId>Q50398</ctml:wikiDataId>
+    <ctml:latitude>35.14479000</ctml:latitude>
+    <ctml:longitude>128.97986000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65513" kind="city">
+    <ctml:name>Suyeong-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Busan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-26</ctml:parentRef>
+    <ctml:wikiDataId>Q50417</ctml:wikiDataId>
+    <ctml:latitude>35.15627000</ctml:latitude>
+    <ctml:longitude>129.11253000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65552" kind="admin2">
+    <ctml:name>Yeongdo-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Busan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-26</ctml:parentRef>
+    <ctml:wikiDataId>Q50423</ctml:wikiDataId>
+    <ctml:latitude>35.07849000</ctml:latitude>
+    <ctml:longitude>129.06483000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65302" kind="city">
+    <ctml:name>Dalseo-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Daegu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-27</ctml:parentRef>
+    <ctml:wikiDataId>Q50370</ctml:wikiDataId>
+    <ctml:latitude>35.82569000</ctml:latitude>
+    <ctml:longitude>128.52403000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65303" kind="city">
+    <ctml:name>Dalseong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Daegu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-27</ctml:parentRef>
+    <ctml:wikiDataId>Q50239</ctml:wikiDataId>
+    <ctml:latitude>35.77467000</ctml:latitude>
+    <ctml:longitude>128.42955000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65307" kind="city">
+    <ctml:name>Dong-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Daegu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-27</ctml:parentRef>
+    <ctml:wikiDataId>Q50376</ctml:wikiDataId>
+    <ctml:latitude>35.88566000</ctml:latitude>
+    <ctml:longitude>128.63296000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65394" kind="city">
+    <ctml:name>Hwawŏn</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Daegu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-27</ctml:parentRef>
+    <ctml:wikiDataId>Q42160</ctml:wikiDataId>
+    <ctml:latitude>35.80167000</ctml:latitude>
+    <ctml:longitude>128.50083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65485" kind="city">
+    <ctml:name>Seo-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Daegu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-27</ctml:parentRef>
+    <ctml:wikiDataId>Q50404</ctml:wikiDataId>
+    <ctml:latitude>35.87465000</ctml:latitude>
+    <ctml:longitude>128.55109000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65511" kind="city">
+    <ctml:name>Suseong-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Daegu</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-27</ctml:parentRef>
+    <ctml:wikiDataId>Q50416</ctml:wikiDataId>
+    <ctml:latitude>35.85905000</ctml:latitude>
+    <ctml:longitude>128.62625000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65486" kind="admin2">
+    <ctml:name>Seo-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Daejeon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-30</ctml:parentRef>
+    <ctml:wikiDataId>Q50405</ctml:wikiDataId>
+    <ctml:latitude>36.27211000</ctml:latitude>
+    <ctml:longitude>127.33100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65503" kind="city">
+    <ctml:name>Sintansin</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Daejeon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-30</ctml:parentRef>
+    <ctml:wikiDataId>Q50252</ctml:wikiDataId>
+    <ctml:latitude>36.45361000</ctml:latitude>
+    <ctml:longitude>127.43111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65506" kind="city">
+    <ctml:name>Songgangdong</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Daejeon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-30</ctml:parentRef>
+    <ctml:wikiDataId>Q42109</ctml:wikiDataId>
+    <ctml:latitude>36.43387000</ctml:latitude>
+    <ctml:longitude>127.37587000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65567" kind="admin2">
+    <ctml:name>Yuseong-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Daejeon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-30</ctml:parentRef>
+    <ctml:wikiDataId>Q50431</ctml:wikiDataId>
+    <ctml:latitude>36.36685000</ctml:latitude>
+    <ctml:longitude>127.32700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65293" kind="city">
+    <ctml:name>Cheorwon-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q50329</ctml:wikiDataId>
+    <ctml:latitude>38.24391000</ctml:latitude>
+    <ctml:longitude>127.44522000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65298" kind="city">
+    <ctml:name>Chuncheon-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42148</ctml:wikiDataId>
+    <ctml:latitude>37.88048000</ctml:latitude>
+    <ctml:longitude>127.72776000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65311" kind="city">
+    <ctml:name>Donghae-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42093</ctml:wikiDataId>
+    <ctml:latitude>37.52345000</ctml:latitude>
+    <ctml:longitude>129.11357000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65322" kind="city">
+    <ctml:name>Gangneung</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42056</ctml:wikiDataId>
+    <ctml:latitude>37.75266000</ctml:latitude>
+    <ctml:longitude>128.87239000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65323" kind="city">
+    <ctml:name>Gangneung-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42056</ctml:wikiDataId>
+    <ctml:latitude>37.75190000</ctml:latitude>
+    <ctml:longitude>128.87825000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65349" kind="city">
+    <ctml:name>Goseong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q50209</ctml:wikiDataId>
+    <ctml:latitude>38.37945000</ctml:latitude>
+    <ctml:longitude>128.46755000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65383" kind="city">
+    <ctml:name>Hoengseong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q50347</ctml:wikiDataId>
+    <ctml:latitude>37.48817000</ctml:latitude>
+    <ctml:longitude>127.98570000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65385" kind="city">
+    <ctml:name>Hongch’ŏn</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q50344</ctml:wikiDataId>
+    <ctml:latitude>37.69180000</ctml:latitude>
+    <ctml:longitude>127.88570000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65384" kind="city">
+    <ctml:name>Hongcheon-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q50344</ctml:wikiDataId>
+    <ctml:latitude>37.76058000</ctml:latitude>
+    <ctml:longitude>128.02823000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65388" kind="admin2">
+    <ctml:name>Hwacheon</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q50344</ctml:wikiDataId>
+    <ctml:latitude>38.10705000</ctml:latitude>
+    <ctml:longitude>127.70632000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65389" kind="city">
+    <ctml:name>Hwacheon-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q50346</ctml:wikiDataId>
+    <ctml:latitude>38.14212000</ctml:latitude>
+    <ctml:longitude>127.67615000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65401" kind="city">
+    <ctml:name>Inje-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q50318</ctml:wikiDataId>
+    <ctml:latitude>38.04416000</ctml:latitude>
+    <ctml:longitude>128.27876000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65411" kind="city">
+    <ctml:name>Jeongseon-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q50323</ctml:wikiDataId>
+    <ctml:latitude>37.38911000</ctml:latitude>
+    <ctml:longitude>128.72995000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65430" kind="city">
+    <ctml:name>Kosong</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42077</ctml:wikiDataId>
+    <ctml:latitude>38.37881000</ctml:latitude>
+    <ctml:longitude>128.46760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65459" kind="city">
+    <ctml:name>Neietsu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42087</ctml:wikiDataId>
+    <ctml:latitude>37.18447000</ctml:latitude>
+    <ctml:longitude>128.46821000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65473" kind="city">
+    <ctml:name>Pyeongchang</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42157</ctml:wikiDataId>
+    <ctml:latitude>37.37028000</ctml:latitude>
+    <ctml:longitude>128.39306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65474" kind="city">
+    <ctml:name>Pyeongchang-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42157</ctml:wikiDataId>
+    <ctml:latitude>37.36820000</ctml:latitude>
+    <ctml:longitude>128.39550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65478" kind="city">
+    <ctml:name>Samcheok-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42102</ctml:wikiDataId>
+    <ctml:latitude>37.45013000</ctml:latitude>
+    <ctml:longitude>129.16626000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65481" kind="city">
+    <ctml:name>Santyoku</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42163</ctml:wikiDataId>
+    <ctml:latitude>37.44056000</ctml:latitude>
+    <ctml:longitude>129.17083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65504" kind="admin2">
+    <ctml:name>Sokcho</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42109</ctml:wikiDataId>
+    <ctml:latitude>38.20701000</ctml:latitude>
+    <ctml:longitude>128.59181000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65505" kind="city">
+    <ctml:name>Sokcho-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42109</ctml:wikiDataId>
+    <ctml:latitude>38.20725000</ctml:latitude>
+    <ctml:longitude>128.59275000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65519" kind="city">
+    <ctml:name>T’aebaek</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42150</ctml:wikiDataId>
+    <ctml:latitude>37.17590000</ctml:latitude>
+    <ctml:longitude>128.98890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65515" kind="city">
+    <ctml:name>Taebaek-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q50417</ctml:wikiDataId>
+    <ctml:latitude>37.16520000</ctml:latitude>
+    <ctml:longitude>128.98570000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65518" kind="city">
+    <ctml:name>Tonghae</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42089</ctml:wikiDataId>
+    <ctml:latitude>37.54389000</ctml:latitude>
+    <ctml:longitude>129.10694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65534" kind="city">
+    <ctml:name>Wŏnju</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q42131</ctml:wikiDataId>
+    <ctml:latitude>37.35139000</ctml:latitude>
+    <ctml:longitude>127.94528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65533" kind="city">
+    <ctml:name>Wonju-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q50312</ctml:wikiDataId>
+    <ctml:latitude>37.32104000</ctml:latitude>
+    <ctml:longitude>127.92132000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65536" kind="city">
+    <ctml:name>Yanggu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q50420</ctml:wikiDataId>
+    <ctml:latitude>38.10583000</ctml:latitude>
+    <ctml:longitude>127.98944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65537" kind="city">
+    <ctml:name>Yanggu-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q50420</ctml:wikiDataId>
+    <ctml:latitude>38.10160000</ctml:latitude>
+    <ctml:longitude>127.98555000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65543" kind="city">
+    <ctml:name>Yangyang-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gangwon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-42</ctml:parentRef>
+    <ctml:wikiDataId>Q50254</ctml:wikiDataId>
+    <ctml:latitude>38.06215000</ctml:latitude>
+    <ctml:longitude>128.61471000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65366" kind="city">
+    <ctml:name>Gwangsan-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gwangju</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-29</ctml:parentRef>
+    <ctml:wikiDataId>Q50354</ctml:wikiDataId>
+    <ctml:latitude>35.16158000</ctml:latitude>
+    <ctml:longitude>126.80810000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65437" kind="city">
+    <ctml:name>Masan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gwangju</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-29</ctml:parentRef>
+    <ctml:wikiDataId>Q50388</ctml:wikiDataId>
+    <ctml:latitude>35.12725000</ctml:latitude>
+    <ctml:longitude>126.83149000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65262" kind="city">
+    <ctml:name>Ansan-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42117</ctml:wikiDataId>
+    <ctml:latitude>37.32361000</ctml:latitude>
+    <ctml:longitude>126.82194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65263" kind="city">
+    <ctml:name>Anseong</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42119</ctml:wikiDataId>
+    <ctml:latitude>37.01083000</ctml:latitude>
+    <ctml:longitude>127.27028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65264" kind="city">
+    <ctml:name>Anyang-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42119</ctml:wikiDataId>
+    <ctml:latitude>37.39250000</ctml:latitude>
+    <ctml:longitude>126.92694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65274" kind="city">
+    <ctml:name>Bucheon-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42099</ctml:wikiDataId>
+    <ctml:latitude>37.50440000</ctml:latitude>
+    <ctml:longitude>126.76625000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65310" kind="city">
+    <ctml:name>Dongducheon</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q50382</ctml:wikiDataId>
+    <ctml:latitude>37.91889000</ctml:latitude>
+    <ctml:longitude>127.06897000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65326" kind="city">
+    <ctml:name>Gapyeong</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q50191</ctml:wikiDataId>
+    <ctml:latitude>37.83101000</ctml:latitude>
+    <ctml:longitude>127.51059000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65327" kind="city">
+    <ctml:name>Gapyeong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q50203</ctml:wikiDataId>
+    <ctml:latitude>37.83080000</ctml:latitude>
+    <ctml:longitude>127.51522000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65339" kind="city">
+    <ctml:name>Gimpo-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42080</ctml:wikiDataId>
+    <ctml:latitude>37.63637000</ctml:latitude>
+    <ctml:longitude>126.69270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65350" kind="admin2">
+    <ctml:name>Goyang-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42061</ctml:wikiDataId>
+    <ctml:latitude>37.65639000</ctml:latitude>
+    <ctml:longitude>126.83500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65352" kind="city">
+    <ctml:name>Gunpo-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42073</ctml:wikiDataId>
+    <ctml:latitude>37.34261000</ctml:latitude>
+    <ctml:longitude>126.92149000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65356" kind="city">
+    <ctml:name>Guri-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42071</ctml:wikiDataId>
+    <ctml:latitude>37.59860000</ctml:latitude>
+    <ctml:longitude>127.13940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65359" kind="city">
+    <ctml:name>Gwacheon-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q50214</ctml:wikiDataId>
+    <ctml:latitude>37.43407000</ctml:latitude>
+    <ctml:longitude>126.99989000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65363" kind="city">
+    <ctml:name>Gwangju</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42069</ctml:wikiDataId>
+    <ctml:latitude>37.41000000</ctml:latitude>
+    <ctml:longitude>127.25722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65364" kind="city">
+    <ctml:name>Gwangju-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42069</ctml:wikiDataId>
+    <ctml:latitude>37.40329000</ctml:latitude>
+    <ctml:longitude>127.29855000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65365" kind="city">
+    <ctml:name>Gwangmyeong-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42066</ctml:wikiDataId>
+    <ctml:latitude>37.44435000</ctml:latitude>
+    <ctml:longitude>126.86499000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65378" kind="city">
+    <ctml:name>Hanam</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42159</ctml:wikiDataId>
+    <ctml:latitude>37.54000000</ctml:latitude>
+    <ctml:longitude>127.20556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65379" kind="city">
+    <ctml:name>Hanam-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42159</ctml:wikiDataId>
+    <ctml:latitude>37.53895000</ctml:latitude>
+    <ctml:longitude>127.21250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65390" kind="city">
+    <ctml:name>Hwado</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q50346</ctml:wikiDataId>
+    <ctml:latitude>37.65250000</ctml:latitude>
+    <ctml:longitude>127.30750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65391" kind="city">
+    <ctml:name>Hwaseong-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42160</ctml:wikiDataId>
+    <ctml:latitude>37.20682000</ctml:latitude>
+    <ctml:longitude>126.81690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65395" kind="city">
+    <ctml:name>Icheon-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42136</ctml:wikiDataId>
+    <ctml:latitude>37.27642000</ctml:latitude>
+    <ctml:longitude>127.43692000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65433" kind="city">
+    <ctml:name>Kwangmyŏng</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42077</ctml:wikiDataId>
+    <ctml:latitude>37.47722000</ctml:latitude>
+    <ctml:longitude>126.86639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65448" kind="city">
+    <ctml:name>Munsan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42095</ctml:wikiDataId>
+    <ctml:latitude>37.85944000</ctml:latitude>
+    <ctml:longitude>126.78500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65456" kind="city">
+    <ctml:name>Namyangju</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q50364</ctml:wikiDataId>
+    <ctml:latitude>37.63667000</ctml:latitude>
+    <ctml:longitude>127.21417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65457" kind="city">
+    <ctml:name>Namyangju-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42084</ctml:wikiDataId>
+    <ctml:latitude>37.65217000</ctml:latitude>
+    <ctml:longitude>127.24010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65465" kind="city">
+    <ctml:name>Osan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42129</ctml:wikiDataId>
+    <ctml:latitude>37.15222000</ctml:latitude>
+    <ctml:longitude>127.07056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65466" kind="city">
+    <ctml:name>Osan-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42129</ctml:wikiDataId>
+    <ctml:latitude>37.16230000</ctml:latitude>
+    <ctml:longitude>127.05246000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65467" kind="city">
+    <ctml:name>Paju-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42153</ctml:wikiDataId>
+    <ctml:latitude>37.75952000</ctml:latitude>
+    <ctml:longitude>126.77772000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65468" kind="city">
+    <ctml:name>Pocheon-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42155</ctml:wikiDataId>
+    <ctml:latitude>37.89370000</ctml:latitude>
+    <ctml:longitude>127.20028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65472" kind="city">
+    <ctml:name>Pubal</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42157</ctml:wikiDataId>
+    <ctml:latitude>37.29167000</ctml:latitude>
+    <ctml:longitude>127.50778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65475" kind="city">
+    <ctml:name>Pyeongtaek</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42154</ctml:wikiDataId>
+    <ctml:latitude>37.01372000</ctml:latitude>
+    <ctml:longitude>126.98748000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65495" kind="city">
+    <ctml:name>Seongnam-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42108</ctml:wikiDataId>
+    <ctml:latitude>37.41875000</ctml:latitude>
+    <ctml:longitude>127.12877000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65499" kind="city">
+    <ctml:name>Siheung</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42113</ctml:wikiDataId>
+    <ctml:latitude>37.39067000</ctml:latitude>
+    <ctml:longitude>126.78880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65520" kind="city">
+    <ctml:name>Uijeongbu-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42135</ctml:wikiDataId>
+    <ctml:latitude>37.73865000</ctml:latitude>
+    <ctml:longitude>127.04770000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65523" kind="city">
+    <ctml:name>Uiwang-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42134</ctml:wikiDataId>
+    <ctml:latitude>37.34500000</ctml:latitude>
+    <ctml:longitude>126.97575000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65529" kind="city">
+    <ctml:name>Wabu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q485570</ctml:wikiDataId>
+    <ctml:latitude>37.58972000</ctml:latitude>
+    <ctml:longitude>127.22028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65538" kind="city">
+    <ctml:name>Yangju</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42124</ctml:wikiDataId>
+    <ctml:latitude>37.83311000</ctml:latitude>
+    <ctml:longitude>127.06169000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65539" kind="city">
+    <ctml:name>Yangju-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42124</ctml:wikiDataId>
+    <ctml:latitude>37.81732000</ctml:latitude>
+    <ctml:longitude>127.04600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65540" kind="city">
+    <ctml:name>Yangp'yŏng</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q42124</ctml:wikiDataId>
+    <ctml:latitude>37.48972000</ctml:latitude>
+    <ctml:longitude>127.49056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65541" kind="city">
+    <ctml:name>Yangpyeong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q50255</ctml:wikiDataId>
+    <ctml:latitude>37.48880000</ctml:latitude>
+    <ctml:longitude>127.49222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65545" kind="city">
+    <ctml:name>Yeoju-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q50257</ctml:wikiDataId>
+    <ctml:latitude>37.29562000</ctml:latitude>
+    <ctml:longitude>127.63668000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65546" kind="admin2">
+    <ctml:name>Yeoncheon-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q50258</ctml:wikiDataId>
+    <ctml:latitude>38.09404000</ctml:latitude>
+    <ctml:longitude>127.07577000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65564" kind="city">
+    <ctml:name>Yongin-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Gyeonggi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-41</ctml:parentRef>
+    <ctml:wikiDataId>Q18459</ctml:wikiDataId>
+    <ctml:latitude>37.23825000</ctml:latitude>
+    <ctml:longitude>127.17795000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65277" kind="admin2">
+    <ctml:name>Bupyeong-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Incheon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-28</ctml:parentRef>
+    <ctml:wikiDataId>Q50391</ctml:wikiDataId>
+    <ctml:latitude>37.49720000</ctml:latitude>
+    <ctml:longitude>126.71107000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65438" kind="city">
+    <ctml:name>Michuhol</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Incheon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-28</ctml:parentRef>
+    <ctml:wikiDataId>Q50365</ctml:wikiDataId>
+    <ctml:latitude>37.46362000</ctml:latitude>
+    <ctml:longitude>126.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65560" kind="city">
+    <ctml:name>Yeonsu-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Incheon</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-28</ctml:parentRef>
+    <ctml:wikiDataId>Q50421</ctml:wikiDataId>
+    <ctml:latitude>37.41911000</ctml:latitude>
+    <ctml:longitude>126.66489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65317" kind="city">
+    <ctml:name>Gaigeturi</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Jeju</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-49</ctml:parentRef>
+    <ctml:wikiDataId>Q50432</ctml:wikiDataId>
+    <ctml:latitude>33.46444000</ctml:latitude>
+    <ctml:longitude>126.31833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65407" kind="city">
+    <ctml:name>Jeju-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Jeju</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-49</ctml:parentRef>
+    <ctml:wikiDataId>Q42142</ctml:wikiDataId>
+    <ctml:latitude>33.45578000</ctml:latitude>
+    <ctml:longitude>126.53928000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65490" kind="city">
+    <ctml:name>Seogwipo</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Jeju</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-49</ctml:parentRef>
+    <ctml:wikiDataId>Q42103</ctml:wikiDataId>
+    <ctml:latitude>33.25333000</ctml:latitude>
+    <ctml:longitude>126.56181000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65268" kind="city">
+    <ctml:name>Boeun-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-43</ctml:parentRef>
+    <ctml:wikiDataId>Q50244</ctml:wikiDataId>
+    <ctml:latitude>36.49489000</ctml:latitude>
+    <ctml:longitude>127.72865000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65295" kind="city">
+    <ctml:name>Chinch'ŏn</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-43</ctml:parentRef>
+    <ctml:wikiDataId>Q50334</ctml:wikiDataId>
+    <ctml:latitude>36.85667000</ctml:latitude>
+    <ctml:longitude>127.44333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65299" kind="city">
+    <ctml:name>Chungju-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-43</ctml:parentRef>
+    <ctml:wikiDataId>Q42148</ctml:wikiDataId>
+    <ctml:latitude>37.01791000</ctml:latitude>
+    <ctml:longitude>127.87713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65305" kind="city">
+    <ctml:name>Danyang-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-43</ctml:parentRef>
+    <ctml:wikiDataId>Q50220</ctml:wikiDataId>
+    <ctml:latitude>36.98615000</ctml:latitude>
+    <ctml:longitude>128.36945000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65315" kind="city">
+    <ctml:name>Eumseong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-43</ctml:parentRef>
+    <ctml:wikiDataId>Q50315</ctml:wikiDataId>
+    <ctml:latitude>36.92602000</ctml:latitude>
+    <ctml:longitude>127.68070000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65341" kind="city">
+    <ctml:name>Goesan-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-43</ctml:parentRef>
+    <ctml:wikiDataId>Q50213</ctml:wikiDataId>
+    <ctml:latitude>36.77179000</ctml:latitude>
+    <ctml:longitude>127.81426000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65405" kind="city">
+    <ctml:name>Jecheon-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-43</ctml:parentRef>
+    <ctml:wikiDataId>Q42143</ctml:wikiDataId>
+    <ctml:latitude>37.06206000</ctml:latitude>
+    <ctml:longitude>128.14065000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65414" kind="city">
+    <ctml:name>Jeungpyeong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-43</ctml:parentRef>
+    <ctml:wikiDataId>Q42140</ctml:wikiDataId>
+    <ctml:latitude>36.78377000</ctml:latitude>
+    <ctml:longitude>127.59858000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65416" kind="city">
+    <ctml:name>Jincheon-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-43</ctml:parentRef>
+    <ctml:wikiDataId>Q50326</ctml:wikiDataId>
+    <ctml:latitude>36.88281000</ctml:latitude>
+    <ctml:longitude>127.42768000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65429" kind="city">
+    <ctml:name>Koesan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-43</ctml:parentRef>
+    <ctml:wikiDataId>Q42077</ctml:wikiDataId>
+    <ctml:latitude>36.81083000</ctml:latitude>
+    <ctml:longitude>127.79472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65463" kind="city">
+    <ctml:name>Okcheon</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-43</ctml:parentRef>
+    <ctml:wikiDataId>Q50368</ctml:wikiDataId>
+    <ctml:latitude>36.30120000</ctml:latitude>
+    <ctml:longitude>127.56800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65464" kind="city">
+    <ctml:name>Okcheon-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-43</ctml:parentRef>
+    <ctml:wikiDataId>Q50309</ctml:wikiDataId>
+    <ctml:latitude>36.26642000</ctml:latitude>
+    <ctml:longitude>127.58324000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65553" kind="admin2">
+    <ctml:name>Yeongdong</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-43</ctml:parentRef>
+    <ctml:wikiDataId>Q50423</ctml:wikiDataId>
+    <ctml:latitude>36.17500000</ctml:latitude>
+    <ctml:longitude>127.77639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65554" kind="admin2">
+    <ctml:name>Yeongdong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-43</ctml:parentRef>
+    <ctml:wikiDataId>Q50261</ctml:wikiDataId>
+    <ctml:latitude>36.21658000</ctml:latitude>
+    <ctml:longitude>127.79374000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65261" kind="city">
+    <ctml:name>Andong-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42116</ctml:wikiDataId>
+    <ctml:latitude>36.56667000</ctml:latitude>
+    <ctml:longitude>128.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65269" kind="city">
+    <ctml:name>Bonghwa-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q50245</ctml:wikiDataId>
+    <ctml:latitude>36.88951000</ctml:latitude>
+    <ctml:longitude>128.73573000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65288" kind="city">
+    <ctml:name>Cheongdo-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42146</ctml:wikiDataId>
+    <ctml:latitude>35.67166000</ctml:latitude>
+    <ctml:longitude>128.78509000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65290" kind="city">
+    <ctml:name>Cheongsong gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42147</ctml:wikiDataId>
+    <ctml:latitude>36.43351000</ctml:latitude>
+    <ctml:longitude>129.05700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65294" kind="city">
+    <ctml:name>Chilgok-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q50334</ctml:wikiDataId>
+    <ctml:latitude>36.01512000</ctml:latitude>
+    <ctml:longitude>128.46138000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65314" kind="city">
+    <ctml:name>Eisen</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q50383</ctml:wikiDataId>
+    <ctml:latitude>36.82167000</ctml:latitude>
+    <ctml:longitude>128.63083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65335" kind="city">
+    <ctml:name>Gimcheon</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42078</ctml:wikiDataId>
+    <ctml:latitude>36.12176000</ctml:latitude>
+    <ctml:longitude>128.11981000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65336" kind="city">
+    <ctml:name>Gimcheon-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42078</ctml:wikiDataId>
+    <ctml:latitude>36.14481000</ctml:latitude>
+    <ctml:longitude>128.11157000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65346" kind="city">
+    <ctml:name>Goryeong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42062</ctml:wikiDataId>
+    <ctml:latitude>35.74959000</ctml:latitude>
+    <ctml:longitude>128.29707000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65351" kind="city">
+    <ctml:name>Gumi-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42073</ctml:wikiDataId>
+    <ctml:latitude>36.21009000</ctml:latitude>
+    <ctml:longitude>128.35442000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65355" kind="city">
+    <ctml:name>Gunwi-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q50215</ctml:wikiDataId>
+    <ctml:latitude>36.16995000</ctml:latitude>
+    <ctml:longitude>128.64705000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65369" kind="city">
+    <ctml:name>Gyeongju</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42097</ctml:wikiDataId>
+    <ctml:latitude>35.84278000</ctml:latitude>
+    <ctml:longitude>129.21167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65370" kind="city">
+    <ctml:name>Gyeongsan-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42097</ctml:wikiDataId>
+    <ctml:latitude>35.83333000</ctml:latitude>
+    <ctml:longitude>128.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65381" kind="city">
+    <ctml:name>Hayang</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q50341</ctml:wikiDataId>
+    <ctml:latitude>35.91333000</ctml:latitude>
+    <ctml:longitude>128.82000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65382" kind="city">
+    <ctml:name>Heunghae</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q50341</ctml:wikiDataId>
+    <ctml:latitude>36.10945000</ctml:latitude>
+    <ctml:longitude>129.34517000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65408" kind="city">
+    <ctml:name>Jenzan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42142</ctml:wikiDataId>
+    <ctml:latitude>36.24083000</ctml:latitude>
+    <ctml:longitude>128.29750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65431" kind="city">
+    <ctml:name>Kunwi</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42077</ctml:wikiDataId>
+    <ctml:latitude>36.23472000</ctml:latitude>
+    <ctml:longitude>128.57278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65446" kind="city">
+    <ctml:name>Mungyeong</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42095</ctml:wikiDataId>
+    <ctml:latitude>36.59458000</ctml:latitude>
+    <ctml:longitude>128.19946000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65447" kind="city">
+    <ctml:name>Mungyeong-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42095</ctml:wikiDataId>
+    <ctml:latitude>36.58755000</ctml:latitude>
+    <ctml:longitude>128.18624000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65469" kind="admin2">
+    <ctml:name>Pohang</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42157</ctml:wikiDataId>
+    <ctml:latitude>36.02917000</ctml:latitude>
+    <ctml:longitude>129.36481000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65470" kind="city">
+    <ctml:name>Pohang-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42157</ctml:wikiDataId>
+    <ctml:latitude>36.08333000</ctml:latitude>
+    <ctml:longitude>129.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65480" kind="city">
+    <ctml:name>Sangju</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42163</ctml:wikiDataId>
+    <ctml:latitude>36.41528000</ctml:latitude>
+    <ctml:longitude>128.16056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65494" kind="city">
+    <ctml:name>Seongju-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q50411</ctml:wikiDataId>
+    <ctml:latitude>35.91888000</ctml:latitude>
+    <ctml:longitude>128.28838000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65522" kind="city">
+    <ctml:name>Uiseong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q50316</ctml:wikiDataId>
+    <ctml:latitude>36.36122000</ctml:latitude>
+    <ctml:longitude>128.61517000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65524" kind="city">
+    <ctml:name>Uljin-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q42134</ctml:wikiDataId>
+    <ctml:latitude>36.91968000</ctml:latitude>
+    <ctml:longitude>129.31966000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65526" kind="city">
+    <ctml:name>Ulleung-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q485570</ctml:wikiDataId>
+    <ctml:latitude>37.50442000</ctml:latitude>
+    <ctml:longitude>130.86084000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65530" kind="city">
+    <ctml:name>Waegwan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q485570</ctml:wikiDataId>
+    <ctml:latitude>35.99251000</ctml:latitude>
+    <ctml:longitude>128.39785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65544" kind="city">
+    <ctml:name>Yecheon-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q50308</ctml:wikiDataId>
+    <ctml:latitude>36.65272000</ctml:latitude>
+    <ctml:longitude>128.43007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65549" kind="city">
+    <ctml:name>Yeongcheon-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q50262</ctml:wikiDataId>
+    <ctml:latitude>36.00000000</ctml:latitude>
+    <ctml:longitude>129.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65550" kind="city">
+    <ctml:name>Yeongdeok-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q50260</ctml:wikiDataId>
+    <ctml:latitude>36.48125000</ctml:latitude>
+    <ctml:longitude>129.31078000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65557" kind="city">
+    <ctml:name>Yeongju-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q50259</ctml:wikiDataId>
+    <ctml:latitude>36.87459000</ctml:latitude>
+    <ctml:longitude>128.58631000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65558" kind="city">
+    <ctml:name>Yeongyang-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q50263</ctml:wikiDataId>
+    <ctml:latitude>36.69592000</ctml:latitude>
+    <ctml:longitude>129.14196000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65559" kind="admin2">
+    <ctml:name>Yeonil</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-47</ctml:parentRef>
+    <ctml:wikiDataId>Q50263</ctml:wikiDataId>
+    <ctml:latitude>35.99526000</ctml:latitude>
+    <ctml:longitude>129.35162000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65273" kind="city">
+    <ctml:name>Buan-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q50243</ctml:wikiDataId>
+    <ctml:latitude>35.70000000</ctml:latitude>
+    <ctml:longitude>126.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65283" kind="city">
+    <ctml:name>Changsu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q50247</ctml:wikiDataId>
+    <ctml:latitude>35.64842000</ctml:latitude>
+    <ctml:longitude>127.51523000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65338" kind="city">
+    <ctml:name>Gimje-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42082</ctml:wikiDataId>
+    <ctml:latitude>35.80701000</ctml:latitude>
+    <ctml:longitude>126.90755000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65340" kind="city">
+    <ctml:name>Gochang-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42080</ctml:wikiDataId>
+    <ctml:latitude>35.43483000</ctml:latitude>
+    <ctml:longitude>126.70047000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65353" kind="city">
+    <ctml:name>Gunsan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42073</ctml:wikiDataId>
+    <ctml:latitude>35.97861000</ctml:latitude>
+    <ctml:longitude>126.71139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65354" kind="city">
+    <ctml:name>Gunsan-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42073</ctml:wikiDataId>
+    <ctml:latitude>35.93583000</ctml:latitude>
+    <ctml:longitude>126.68338000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65396" kind="city">
+    <ctml:name>Iksan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42137</ctml:wikiDataId>
+    <ctml:latitude>35.94389000</ctml:latitude>
+    <ctml:longitude>126.95444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65397" kind="city">
+    <ctml:name>Iksan-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42137</ctml:wikiDataId>
+    <ctml:latitude>36.03718000</ctml:latitude>
+    <ctml:longitude>126.98897000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65398" kind="city">
+    <ctml:name>Imsil</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42137</ctml:wikiDataId>
+    <ctml:latitude>35.61306000</ctml:latitude>
+    <ctml:longitude>127.27944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65399" kind="city">
+    <ctml:name>Imsil-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42137</ctml:wikiDataId>
+    <ctml:latitude>35.62160000</ctml:latitude>
+    <ctml:longitude>127.23187000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65404" kind="city">
+    <ctml:name>Jangsu-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q50321</ctml:wikiDataId>
+    <ctml:latitude>35.62504000</ctml:latitude>
+    <ctml:longitude>127.56358000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65409" kind="city">
+    <ctml:name>Jeongeup</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42142</ctml:wikiDataId>
+    <ctml:latitude>35.60004000</ctml:latitude>
+    <ctml:longitude>126.91699000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65410" kind="city">
+    <ctml:name>Jeongeup-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42142</ctml:wikiDataId>
+    <ctml:latitude>35.60000000</ctml:latitude>
+    <ctml:longitude>126.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65413" kind="city">
+    <ctml:name>Jeonju-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42140</ctml:wikiDataId>
+    <ctml:latitude>35.83333000</ctml:latitude>
+    <ctml:longitude>127.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65415" kind="city">
+    <ctml:name>Jinan-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q50326</ctml:wikiDataId>
+    <ctml:latitude>35.80472000</ctml:latitude>
+    <ctml:longitude>127.47579000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65426" kind="city">
+    <ctml:name>Kimje</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42077</ctml:wikiDataId>
+    <ctml:latitude>35.80167000</ctml:latitude>
+    <ctml:longitude>126.88889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65428" kind="city">
+    <ctml:name>Koch'ang</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42077</ctml:wikiDataId>
+    <ctml:latitude>35.43333000</ctml:latitude>
+    <ctml:longitude>126.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65445" kind="city">
+    <ctml:name>Muju-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q50241</ctml:wikiDataId>
+    <ctml:latitude>35.93172000</ctml:latitude>
+    <ctml:longitude>127.71118000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65455" kind="city">
+    <ctml:name>Namwon</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q50364</ctml:wikiDataId>
+    <ctml:latitude>35.44821000</ctml:latitude>
+    <ctml:longitude>127.38007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65458" kind="city">
+    <ctml:name>Nangen</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42087</ctml:wikiDataId>
+    <ctml:latitude>35.41000000</ctml:latitude>
+    <ctml:longitude>127.38583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65471" kind="city">
+    <ctml:name>Puan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q42157</ctml:wikiDataId>
+    <ctml:latitude>35.72806000</ctml:latitude>
+    <ctml:longitude>126.73194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65508" kind="city">
+    <ctml:name>Sunchang-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q50251</ctml:wikiDataId>
+    <ctml:latitude>35.37651000</ctml:latitude>
+    <ctml:longitude>127.14967000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65532" kind="city">
+    <ctml:name>Wanju</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>North Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-45</ctml:parentRef>
+    <ctml:wikiDataId>Q50312</ctml:wikiDataId>
+    <ctml:latitude>35.84509000</ctml:latitude>
+    <ctml:longitude>127.14752000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65306" kind="city">
+    <ctml:name>Dobong-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50374</ctml:wikiDataId>
+    <ctml:latitude>37.65066000</ctml:latitude>
+    <ctml:longitude>127.03011000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65309" kind="city">
+    <ctml:name>Dongdaemun-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50382</ctml:wikiDataId>
+    <ctml:latitude>37.58189000</ctml:latitude>
+    <ctml:longitude>127.05408000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65312" kind="city">
+    <ctml:name>Dongjak-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50385</ctml:wikiDataId>
+    <ctml:latitude>37.50056000</ctml:latitude>
+    <ctml:longitude>126.95149000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65316" kind="city">
+    <ctml:name>Eunpyeong-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50432</ctml:wikiDataId>
+    <ctml:latitude>37.61846000</ctml:latitude>
+    <ctml:longitude>126.92780000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65318" kind="city">
+    <ctml:name>Gangbuk-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50349</ctml:wikiDataId>
+    <ctml:latitude>37.63490000</ctml:latitude>
+    <ctml:longitude>127.02015000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65319" kind="city">
+    <ctml:name>Gangdong-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50348</ctml:wikiDataId>
+    <ctml:latitude>37.55274000</ctml:latitude>
+    <ctml:longitude>127.14546000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65321" kind="city">
+    <ctml:name>Gangnam-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q20398</ctml:wikiDataId>
+    <ctml:latitude>37.49510000</ctml:latitude>
+    <ctml:longitude>127.06278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65324" kind="admin2">
+    <ctml:name>Gangseo-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50192</ctml:wikiDataId>
+    <ctml:latitude>37.56227000</ctml:latitude>
+    <ctml:longitude>126.81622000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65330" kind="city">
+    <ctml:name>Geumcheon-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50359</ctml:wikiDataId>
+    <ctml:latitude>37.47486000</ctml:latitude>
+    <ctml:longitude>126.89106000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65357" kind="city">
+    <ctml:name>Guro-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50356</ctml:wikiDataId>
+    <ctml:latitude>37.49447000</ctml:latitude>
+    <ctml:longitude>126.85020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65360" kind="city">
+    <ctml:name>Gwanak-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50353</ctml:wikiDataId>
+    <ctml:latitude>37.47876000</ctml:latitude>
+    <ctml:longitude>126.95235000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65361" kind="city">
+    <ctml:name>Gwangjin-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50355</ctml:wikiDataId>
+    <ctml:latitude>37.53913000</ctml:latitude>
+    <ctml:longitude>127.08366000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65419" kind="city">
+    <ctml:name>Jongno-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q36929</ctml:wikiDataId>
+    <ctml:latitude>37.57290000</ctml:latitude>
+    <ctml:longitude>126.97928000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65420" kind="city">
+    <ctml:name>Jung-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50441</ctml:wikiDataId>
+    <ctml:latitude>37.55986000</ctml:latitude>
+    <ctml:longitude>126.99398000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65424" kind="city">
+    <ctml:name>Jungnang-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50444</ctml:wikiDataId>
+    <ctml:latitude>37.60199000</ctml:latitude>
+    <ctml:longitude>127.10461000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65436" kind="city">
+    <ctml:name>Mapo-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50388</ctml:wikiDataId>
+    <ctml:latitude>37.55438000</ctml:latitude>
+    <ctml:longitude>126.90926000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65462" kind="city">
+    <ctml:name>Nowon-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50368</ctml:wikiDataId>
+    <ctml:latitude>37.66045000</ctml:latitude>
+    <ctml:longitude>127.06718000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65488" kind="city">
+    <ctml:name>Seocho-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q20395</ctml:wikiDataId>
+    <ctml:latitude>37.49447000</ctml:latitude>
+    <ctml:longitude>127.01088000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65489" kind="city">
+    <ctml:name>Seodaemun-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50408</ctml:wikiDataId>
+    <ctml:latitude>37.57809000</ctml:latitude>
+    <ctml:longitude>126.93506000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65491" kind="city">
+    <ctml:name>Seongbuk-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50412</ctml:wikiDataId>
+    <ctml:latitude>37.60267000</ctml:latitude>
+    <ctml:longitude>127.01448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65492" kind="city">
+    <ctml:name>Seongdong-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50411</ctml:wikiDataId>
+    <ctml:latitude>37.54784000</ctml:latitude>
+    <ctml:longitude>127.02461000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65498" kind="city">
+    <ctml:name>Seoul</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q8684</ctml:wikiDataId>
+    <ctml:latitude>37.56600000</ctml:latitude>
+    <ctml:longitude>126.97840000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65507" kind="city">
+    <ctml:name>Songpa-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50415</ctml:wikiDataId>
+    <ctml:latitude>37.50210000</ctml:latitude>
+    <ctml:longitude>127.11113000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65535" kind="city">
+    <ctml:name>Yangcheon-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50420</ctml:wikiDataId>
+    <ctml:latitude>37.52157000</ctml:latitude>
+    <ctml:longitude>126.85827000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65551" kind="city">
+    <ctml:name>Yeongdeungpo-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50190</ctml:wikiDataId>
+    <ctml:latitude>37.52606000</ctml:latitude>
+    <ctml:longitude>126.90308000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65565" kind="city">
+    <ctml:name>Yongsan-dong</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q18459</ctml:wikiDataId>
+    <ctml:latitude>37.54450000</ctml:latitude>
+    <ctml:longitude>126.98370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65566" kind="city">
+    <ctml:name>Yongsan-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Seoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q50429</ctml:wikiDataId>
+    <ctml:latitude>37.53391000</ctml:latitude>
+    <ctml:longitude>126.97750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65265" kind="city">
+    <ctml:name>Asan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q42114</ctml:wikiDataId>
+    <ctml:latitude>36.78361000</ctml:latitude>
+    <ctml:longitude>127.00417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65266" kind="city">
+    <ctml:name>Asan-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q42114</ctml:wikiDataId>
+    <ctml:latitude>36.80791000</ctml:latitude>
+    <ctml:longitude>126.97769000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65270" kind="admin2">
+    <ctml:name>Boryeong</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q50245</ctml:wikiDataId>
+    <ctml:latitude>36.34931000</ctml:latitude>
+    <ctml:longitude>126.59772000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65271" kind="city">
+    <ctml:name>Boryeong-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q50245</ctml:wikiDataId>
+    <ctml:latitude>36.35649000</ctml:latitude>
+    <ctml:longitude>126.59444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65279" kind="admin2">
+    <ctml:name>Buyeo</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q16520</ctml:wikiDataId>
+    <ctml:latitude>36.27472000</ctml:latitude>
+    <ctml:longitude>126.90906000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65280" kind="city">
+    <ctml:name>Buyeo-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q50247</ctml:wikiDataId>
+    <ctml:latitude>36.26257000</ctml:latitude>
+    <ctml:longitude>126.85802000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65286" kind="city">
+    <ctml:name>Cheonan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q42146</ctml:wikiDataId>
+    <ctml:latitude>36.80650000</ctml:latitude>
+    <ctml:longitude>127.15220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65287" kind="city">
+    <ctml:name>Cheonan-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q42146</ctml:wikiDataId>
+    <ctml:latitude>36.80488000</ctml:latitude>
+    <ctml:longitude>127.19431000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65292" kind="admin2">
+    <ctml:name>Cheongyang-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q50332</ctml:wikiDataId>
+    <ctml:latitude>36.41676000</ctml:latitude>
+    <ctml:longitude>126.79419000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65332" kind="city">
+    <ctml:name>Geumsan-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q50216</ctml:wikiDataId>
+    <ctml:latitude>36.13381000</ctml:latitude>
+    <ctml:longitude>127.48062000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65344" kind="city">
+    <ctml:name>Gongju</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q42062</ctml:wikiDataId>
+    <ctml:latitude>36.45556000</ctml:latitude>
+    <ctml:longitude>127.12472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65345" kind="city">
+    <ctml:name>Gongju-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q42062</ctml:wikiDataId>
+    <ctml:latitude>36.50000000</ctml:latitude>
+    <ctml:longitude>127.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65371" kind="city">
+    <ctml:name>Gyeryong-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q42097</ctml:wikiDataId>
+    <ctml:latitude>36.29304000</ctml:latitude>
+    <ctml:longitude>127.22575000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65387" kind="city">
+    <ctml:name>Hongseong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q50344</ctml:wikiDataId>
+    <ctml:latitude>36.56705000</ctml:latitude>
+    <ctml:longitude>126.62626000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65427" kind="city">
+    <ctml:name>Kinzan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q42077</ctml:wikiDataId>
+    <ctml:latitude>36.10306000</ctml:latitude>
+    <ctml:longitude>127.48889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65460" kind="city">
+    <ctml:name>Nonsan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q42088</ctml:wikiDataId>
+    <ctml:latitude>36.20389000</ctml:latitude>
+    <ctml:longitude>127.08472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65461" kind="city">
+    <ctml:name>Nonsan-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q42088</ctml:wikiDataId>
+    <ctml:latitude>36.19774000</ctml:latitude>
+    <ctml:longitude>127.12143000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65487" kind="city">
+    <ctml:name>Seocheon-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q50249</ctml:wikiDataId>
+    <ctml:latitude>36.10600000</ctml:latitude>
+    <ctml:longitude>126.69716000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65493" kind="city">
+    <ctml:name>Seonghwan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q50411</ctml:wikiDataId>
+    <ctml:latitude>36.91556000</ctml:latitude>
+    <ctml:longitude>127.13139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65496" kind="city">
+    <ctml:name>Seosan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q42105</ctml:wikiDataId>
+    <ctml:latitude>36.78167000</ctml:latitude>
+    <ctml:longitude>126.45222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65497" kind="city">
+    <ctml:name>Seosan-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q42105</ctml:wikiDataId>
+    <ctml:latitude>36.78518000</ctml:latitude>
+    <ctml:longitude>126.46568000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65514" kind="city">
+    <ctml:name>Taean-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q50417</ctml:wikiDataId>
+    <ctml:latitude>36.70036000</ctml:latitude>
+    <ctml:longitude>126.28391000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65516" kind="city">
+    <ctml:name>Taesal-li</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q50417</ctml:wikiDataId>
+    <ctml:latitude>36.97140000</ctml:latitude>
+    <ctml:longitude>126.45420000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65517" kind="city">
+    <ctml:name>Tangjin</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q42089</ctml:wikiDataId>
+    <ctml:latitude>36.89444000</ctml:latitude>
+    <ctml:longitude>126.62972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65562" kind="city">
+    <ctml:name>Yesan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q42125</ctml:wikiDataId>
+    <ctml:latitude>36.67756000</ctml:latitude>
+    <ctml:longitude>126.84272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65563" kind="city">
+    <ctml:name>Yesan-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q50307</ctml:wikiDataId>
+    <ctml:latitude>36.68218000</ctml:latitude>
+    <ctml:longitude>126.79592000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65568" kind="city">
+    <ctml:name>Yŏnmu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Chungcheong</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-44</ctml:parentRef>
+    <ctml:wikiDataId>Q50431</ctml:wikiDataId>
+    <ctml:latitude>36.12944000</ctml:latitude>
+    <ctml:longitude>127.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65281" kind="city">
+    <ctml:name>Changnyeong</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q50247</ctml:wikiDataId>
+    <ctml:latitude>35.54145000</ctml:latitude>
+    <ctml:longitude>128.49506000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65282" kind="city">
+    <ctml:name>Changnyeong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q50247</ctml:wikiDataId>
+    <ctml:latitude>35.50822000</ctml:latitude>
+    <ctml:longitude>128.49020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65285" kind="city">
+    <ctml:name>Changwon-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q243327</ctml:wikiDataId>
+    <ctml:latitude>35.27533000</ctml:latitude>
+    <ctml:longitude>128.65152000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65296" kind="city">
+    <ctml:name>Chinju</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q42144</ctml:wikiDataId>
+    <ctml:latitude>35.19278000</ctml:latitude>
+    <ctml:longitude>128.08472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65328" kind="city">
+    <ctml:name>Geochang-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q50203</ctml:wikiDataId>
+    <ctml:latitude>35.73034000</ctml:latitude>
+    <ctml:longitude>127.90149000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65329" kind="city">
+    <ctml:name>Geoje-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q50203</ctml:wikiDataId>
+    <ctml:latitude>34.90000000</ctml:latitude>
+    <ctml:longitude>128.66666000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65337" kind="city">
+    <ctml:name>Gimhae-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q42082</ctml:wikiDataId>
+    <ctml:latitude>35.25000000</ctml:latitude>
+    <ctml:longitude>128.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65347" kind="city">
+    <ctml:name>Goseong</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q42062</ctml:wikiDataId>
+    <ctml:latitude>34.97631000</ctml:latitude>
+    <ctml:longitude>128.32361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65348" kind="city">
+    <ctml:name>Goseong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q50208</ctml:wikiDataId>
+    <ctml:latitude>35.01478000</ctml:latitude>
+    <ctml:longitude>128.28244000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65372" kind="city">
+    <ctml:name>Hadong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q26212</ctml:wikiDataId>
+    <ctml:latitude>35.13628000</ctml:latitude>
+    <ctml:longitude>127.77291000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65376" kind="city">
+    <ctml:name>Haman-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q50338</ctml:wikiDataId>
+    <ctml:latitude>35.29117000</ctml:latitude>
+    <ctml:longitude>128.42970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65380" kind="city">
+    <ctml:name>Hapcheon-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q50341</ctml:wikiDataId>
+    <ctml:latitude>35.57410000</ctml:latitude>
+    <ctml:longitude>128.13841000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65418" kind="city">
+    <ctml:name>Jinju-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q50325</ctml:wikiDataId>
+    <ctml:latitude>35.20445000</ctml:latitude>
+    <ctml:longitude>128.12408000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65425" kind="city">
+    <ctml:name>Kimhae</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q50444</ctml:wikiDataId>
+    <ctml:latitude>35.23417000</ctml:latitude>
+    <ctml:longitude>128.88111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65435" kind="city">
+    <ctml:name>Kyosai</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q42057</ctml:wikiDataId>
+    <ctml:latitude>34.85028000</ctml:latitude>
+    <ctml:longitude>128.58861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65439" kind="city">
+    <ctml:name>Miryang</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q42096</ctml:wikiDataId>
+    <ctml:latitude>35.49333000</ctml:latitude>
+    <ctml:longitude>128.74889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65440" kind="city">
+    <ctml:name>Miryang-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q42096</ctml:wikiDataId>
+    <ctml:latitude>35.49750000</ctml:latitude>
+    <ctml:longitude>128.78690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65449" kind="city">
+    <ctml:name>Naesŏ</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q42095</ctml:wikiDataId>
+    <ctml:latitude>35.24972000</ctml:latitude>
+    <ctml:longitude>128.52000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65454" kind="city">
+    <ctml:name>Namhae-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q50364</ctml:wikiDataId>
+    <ctml:latitude>34.80433000</ctml:latitude>
+    <ctml:longitude>127.92708000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65476" kind="city">
+    <ctml:name>Sacheon-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q42154</ctml:wikiDataId>
+    <ctml:latitude>35.00385000</ctml:latitude>
+    <ctml:longitude>128.06857000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65479" kind="city">
+    <ctml:name>Sancheong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q50248</ctml:wikiDataId>
+    <ctml:latitude>35.36625000</ctml:latitude>
+    <ctml:longitude>127.87065000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65502" kind="city">
+    <ctml:name>Sinhyeon</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q50252</ctml:wikiDataId>
+    <ctml:latitude>34.88250000</ctml:latitude>
+    <ctml:longitude>128.62667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65521" kind="city">
+    <ctml:name>Uiryeong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q50316</ctml:wikiDataId>
+    <ctml:latitude>35.39230000</ctml:latitude>
+    <ctml:longitude>128.26917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65528" kind="city">
+    <ctml:name>Ungsang</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q485570</ctml:wikiDataId>
+    <ctml:latitude>35.40611000</ctml:latitude>
+    <ctml:longitude>129.16861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65542" kind="admin2">
+    <ctml:name>Yangsan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Gyeongsang</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-48</ctml:parentRef>
+    <ctml:wikiDataId>Q42123</ctml:wikiDataId>
+    <ctml:latitude>35.34199000</ctml:latitude>
+    <ctml:longitude>129.03358000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65267" kind="city">
+    <ctml:name>Beolgyo</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42114</ctml:wikiDataId>
+    <ctml:latitude>34.84897000</ctml:latitude>
+    <ctml:longitude>127.34052000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65272" kind="city">
+    <ctml:name>Boseong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50243</ctml:wikiDataId>
+    <ctml:latitude>34.84622000</ctml:latitude>
+    <ctml:longitude>127.22189000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65304" kind="admin2">
+    <ctml:name>Damyang-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50240</ctml:wikiDataId>
+    <ctml:latitude>35.33976000</ctml:latitude>
+    <ctml:longitude>126.99125000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65320" kind="city">
+    <ctml:name>Gangjin-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50204</ctml:wikiDataId>
+    <ctml:latitude>34.61787000</ctml:latitude>
+    <ctml:longitude>126.76758000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65342" kind="city">
+    <ctml:name>Goheung-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50211</ctml:wikiDataId>
+    <ctml:latitude>34.58333000</ctml:latitude>
+    <ctml:longitude>127.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65343" kind="city">
+    <ctml:name>Gokseong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50212</ctml:wikiDataId>
+    <ctml:latitude>35.21449000</ctml:latitude>
+    <ctml:longitude>127.26280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65358" kind="city">
+    <ctml:name>Gurye-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50214</ctml:wikiDataId>
+    <ctml:latitude>35.23616000</ctml:latitude>
+    <ctml:longitude>127.50129000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65367" kind="admin2">
+    <ctml:name>Gwangyang</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42067</ctml:wikiDataId>
+    <ctml:latitude>34.94140000</ctml:latitude>
+    <ctml:longitude>127.69569000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65368" kind="city">
+    <ctml:name>Gwangyang-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42067</ctml:wikiDataId>
+    <ctml:latitude>35.04007000</ctml:latitude>
+    <ctml:longitude>127.60949000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65373" kind="city">
+    <ctml:name>Haenam</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q26212</ctml:wikiDataId>
+    <ctml:latitude>34.57111000</ctml:latitude>
+    <ctml:longitude>126.59889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65374" kind="city">
+    <ctml:name>Haenam-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50342</ctml:wikiDataId>
+    <ctml:latitude>34.54047000</ctml:latitude>
+    <ctml:longitude>126.51870000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65377" kind="city">
+    <ctml:name>Hampyeong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50340</ctml:wikiDataId>
+    <ctml:latitude>35.14988000</ctml:latitude>
+    <ctml:longitude>126.53337000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65392" kind="admin2">
+    <ctml:name>Hwasun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42160</ctml:wikiDataId>
+    <ctml:latitude>35.06125000</ctml:latitude>
+    <ctml:longitude>126.98746000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65393" kind="city">
+    <ctml:name>Hwasun-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42160</ctml:wikiDataId>
+    <ctml:latitude>35.00468000</ctml:latitude>
+    <ctml:longitude>127.02648000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65402" kind="city">
+    <ctml:name>Jangheung-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50322</ctml:wikiDataId>
+    <ctml:latitude>34.70555000</ctml:latitude>
+    <ctml:longitude>126.94905000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65403" kind="admin2">
+    <ctml:name>Jangseong-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50322</ctml:wikiDataId>
+    <ctml:latitude>35.32734000</ctml:latitude>
+    <ctml:longitude>126.76817000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65417" kind="city">
+    <ctml:name>Jindo-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50325</ctml:wikiDataId>
+    <ctml:latitude>34.41958000</ctml:latitude>
+    <ctml:longitude>126.22599000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65432" kind="city">
+    <ctml:name>Kurye</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42077</ctml:wikiDataId>
+    <ctml:latitude>35.20944000</ctml:latitude>
+    <ctml:longitude>127.46444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65434" kind="city">
+    <ctml:name>Kwangyang</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42077</ctml:wikiDataId>
+    <ctml:latitude>34.97528000</ctml:latitude>
+    <ctml:longitude>127.58917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65441" kind="admin2">
+    <ctml:name>Mokpo</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42094</ctml:wikiDataId>
+    <ctml:latitude>34.81282000</ctml:latitude>
+    <ctml:longitude>126.39181000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65442" kind="city">
+    <ctml:name>Mokpo-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42094</ctml:wikiDataId>
+    <ctml:latitude>34.81226000</ctml:latitude>
+    <ctml:longitude>126.39179000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65444" kind="city">
+    <ctml:name>Muan-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50241</ctml:wikiDataId>
+    <ctml:latitude>34.95642000</ctml:latitude>
+    <ctml:longitude>126.44041000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65450" kind="admin2">
+    <ctml:name>Naju</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42083</ctml:wikiDataId>
+    <ctml:latitude>35.02920000</ctml:latitude>
+    <ctml:longitude>126.71750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65451" kind="city">
+    <ctml:name>Naju-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42083</ctml:wikiDataId>
+    <ctml:latitude>35.05683000</ctml:latitude>
+    <ctml:longitude>126.67362000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65500" kind="city">
+    <ctml:name>Sinan</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42113</ctml:wikiDataId>
+    <ctml:latitude>34.82620000</ctml:latitude>
+    <ctml:longitude>126.10863000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65501" kind="city">
+    <ctml:name>Sinan-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50252</ctml:wikiDataId>
+    <ctml:latitude>34.83107000</ctml:latitude>
+    <ctml:longitude>126.09872000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65509" kind="admin2">
+    <ctml:name>Suncheon</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42112</ctml:wikiDataId>
+    <ctml:latitude>34.95050000</ctml:latitude>
+    <ctml:longitude>127.48784000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65510" kind="city">
+    <ctml:name>Suncheon-si</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42112</ctml:wikiDataId>
+    <ctml:latitude>34.97162000</ctml:latitude>
+    <ctml:longitude>127.46096000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65531" kind="city">
+    <ctml:name>Wando-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50311</ctml:wikiDataId>
+    <ctml:latitude>34.31182000</ctml:latitude>
+    <ctml:longitude>126.73845000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65547" kind="admin2">
+    <ctml:name>Yeongam</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50258</ctml:wikiDataId>
+    <ctml:latitude>34.80059000</ctml:latitude>
+    <ctml:longitude>126.69669000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65548" kind="city">
+    <ctml:name>Yeongam-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50262</ctml:wikiDataId>
+    <ctml:latitude>34.79790000</ctml:latitude>
+    <ctml:longitude>126.62651000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65555" kind="city">
+    <ctml:name>Yeonggwang</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50261</ctml:wikiDataId>
+    <ctml:latitude>35.27814000</ctml:latitude>
+    <ctml:longitude>126.51181000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65556" kind="city">
+    <ctml:name>Yeonggwang-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q50259</ctml:wikiDataId>
+    <ctml:latitude>35.28711000</ctml:latitude>
+    <ctml:longitude>126.43616000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65561" kind="admin2">
+    <ctml:name>Yeosu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>South Jeolla</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-46</ctml:parentRef>
+    <ctml:wikiDataId>Q42125</ctml:wikiDataId>
+    <ctml:latitude>34.76062000</ctml:latitude>
+    <ctml:longitude>127.66215000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KOR-65275" kind="admin2">
+    <ctml:name>Buk-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Ulsan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-31</ctml:parentRef>
+    <ctml:wikiDataId>Q50395</ctml:wikiDataId>
+    <ctml:latitude>35.58243000</ctml:latitude>
+    <ctml:longitude>129.36049000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65308" kind="city">
+    <ctml:name>Dong-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Ulsan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-31</ctml:parentRef>
+    <ctml:wikiDataId>Q50379</ctml:wikiDataId>
+    <ctml:latitude>35.50470000</ctml:latitude>
+    <ctml:longitude>129.41860000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65423" kind="city">
+    <ctml:name>Jung-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Ulsan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-31</ctml:parentRef>
+    <ctml:wikiDataId>Q50442</ctml:wikiDataId>
+    <ctml:latitude>35.56840000</ctml:latitude>
+    <ctml:longitude>129.33226000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65453" kind="city">
+    <ctml:name>Nam-gu</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Ulsan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-31</ctml:parentRef>
+    <ctml:wikiDataId>Q50364</ctml:wikiDataId>
+    <ctml:latitude>35.54382000</ctml:latitude>
+    <ctml:longitude>129.32917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KOR-65525" kind="city">
+    <ctml:name>Ulju-gun</ctml:name>
+    <ctml:country>KOR</ctml:country>
+    <ctml:admin1>Ulsan</ctml:admin1>
+    <ctml:parentRef>place:admin1:KR-31</ctml:parentRef>
+    <ctml:wikiDataId>Q50313</ctml:wikiDataId>
+    <ctml:latitude>35.56233000</ctml:latitude>
+    <ctml:longitude>129.12690000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

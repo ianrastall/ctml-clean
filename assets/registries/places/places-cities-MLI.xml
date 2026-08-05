@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MLI-67587" kind="city">
+    <ctml:name>Bamako</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Bamako</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-BKO</ctml:parentRef>
+    <ctml:wikiDataId>Q799794</ctml:wikiDataId>
+    <ctml:latitude>12.65000000</ctml:latitude>
+    <ctml:longitude>-8.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67584" kind="admin2">
+    <ctml:name>Ansongo</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Gao</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-7</ctml:parentRef>
+    <ctml:wikiDataId>Q2620152</ctml:wikiDataId>
+    <ctml:latitude>15.65970000</ctml:latitude>
+    <ctml:longitude>0.50220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67592" kind="city">
+    <ctml:name>Cercle de Bourem</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Gao</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-7</ctml:parentRef>
+    <ctml:wikiDataId>Q474936</ctml:wikiDataId>
+    <ctml:latitude>17.71192000</ctml:latitude>
+    <ctml:longitude>-0.34284000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67602" kind="city">
+    <ctml:name>Gao Cercle</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Gao</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-7</ctml:parentRef>
+    <ctml:wikiDataId>Q1493783</ctml:wikiDataId>
+    <ctml:latitude>16.72237000</ctml:latitude>
+    <ctml:longitude>0.43984000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67605" kind="city">
+    <ctml:name>Inékar</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Gao</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-7</ctml:parentRef>
+    <ctml:wikiDataId>Q1988973</ctml:wikiDataId>
+    <ctml:latitude>15.95944000</ctml:latitude>
+    <ctml:longitude>3.14111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67586" kind="admin2">
+    <ctml:name>Bafoulabé</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Kayes</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-1</ctml:parentRef>
+    <ctml:wikiDataId>Q799794</ctml:wikiDataId>
+    <ctml:latitude>13.80650000</ctml:latitude>
+    <ctml:longitude>-10.83210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67611" kind="admin2">
+    <ctml:name>Kita</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Kayes</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-1</ctml:parentRef>
+    <ctml:wikiDataId>Q578014</ctml:wikiDataId>
+    <ctml:latitude>13.03490000</ctml:latitude>
+    <ctml:longitude>-9.48950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67612" kind="city">
+    <ctml:name>Kokofata</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Kayes</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-1</ctml:parentRef>
+    <ctml:wikiDataId>Q1760816</ctml:wikiDataId>
+    <ctml:latitude>12.88333000</ctml:latitude>
+    <ctml:longitude>-9.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67623" kind="city">
+    <ctml:name>Sagalo</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Kayes</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-1</ctml:parentRef>
+    <ctml:wikiDataId>Q1759932</ctml:wikiDataId>
+    <ctml:latitude>12.20000000</ctml:latitude>
+    <ctml:longitude>-10.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67583" kind="admin2">
+    <ctml:name>Abeïbara</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Kidal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-8</ctml:parentRef>
+    <ctml:wikiDataId>Q1813226</ctml:wikiDataId>
+    <ctml:latitude>19.11667000</ctml:latitude>
+    <ctml:longitude>1.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67595" kind="city">
+    <ctml:name>Cercle d’Abeïbara</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Kidal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-8</ctml:parentRef>
+    <ctml:wikiDataId>Q319858</ctml:wikiDataId>
+    <ctml:latitude>19.48878000</ctml:latitude>
+    <ctml:longitude>2.20025000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67588" kind="admin2">
+    <ctml:name>Banamba</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Koulikoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-2</ctml:parentRef>
+    <ctml:wikiDataId>Q572737</ctml:wikiDataId>
+    <ctml:latitude>13.54773000</ctml:latitude>
+    <ctml:longitude>-7.44808000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67606" kind="admin2">
+    <ctml:name>Kangaba</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Koulikoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-2</ctml:parentRef>
+    <ctml:wikiDataId>Q1031919</ctml:wikiDataId>
+    <ctml:latitude>11.93333000</ctml:latitude>
+    <ctml:longitude>-8.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67607" kind="admin2">
+    <ctml:name>Kati</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Koulikoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-2</ctml:parentRef>
+    <ctml:wikiDataId>Q771251</ctml:wikiDataId>
+    <ctml:latitude>12.74409000</ctml:latitude>
+    <ctml:longitude>-8.07257000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67613" kind="admin2">
+    <ctml:name>Kolokani</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Koulikoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-2</ctml:parentRef>
+    <ctml:wikiDataId>Q642276</ctml:wikiDataId>
+    <ctml:latitude>13.57280000</ctml:latitude>
+    <ctml:longitude>-8.03390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67589" kind="city">
+    <ctml:name>Bandiagara</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Mopti</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-5</ctml:parentRef>
+    <ctml:wikiDataId>Q538753</ctml:wikiDataId>
+    <ctml:latitude>14.35005000</ctml:latitude>
+    <ctml:longitude>-3.61038000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67598" kind="city">
+    <ctml:name>Djénné</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Mopti</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-5</ctml:parentRef>
+    <ctml:wikiDataId>Q213507</ctml:wikiDataId>
+    <ctml:latitude>13.90608000</ctml:latitude>
+    <ctml:longitude>-4.55332000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67599" kind="admin2">
+    <ctml:name>Douentza</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Mopti</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-5</ctml:parentRef>
+    <ctml:wikiDataId>Q2358526</ctml:wikiDataId>
+    <ctml:latitude>15.00155000</ctml:latitude>
+    <ctml:longitude>-2.94978000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67600" kind="city">
+    <ctml:name>Douentza Cercle</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Mopti</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-5</ctml:parentRef>
+    <ctml:wikiDataId>Q940936</ctml:wikiDataId>
+    <ctml:latitude>15.06947000</ctml:latitude>
+    <ctml:longitude>-2.40875000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67629" kind="admin2">
+    <ctml:name>Ténenkou</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Mopti</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-5</ctml:parentRef>
+    <ctml:wikiDataId>Q1031849</ctml:wikiDataId>
+    <ctml:latitude>14.45722000</ctml:latitude>
+    <ctml:longitude>-4.91690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67590" kind="city">
+    <ctml:name>Baroueli</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Ségou</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-4</ctml:parentRef>
+    <ctml:wikiDataId>Q538753</ctml:wikiDataId>
+    <ctml:latitude>13.07489000</ctml:latitude>
+    <ctml:longitude>-6.57171000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67594" kind="city">
+    <ctml:name>Cercle de San</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Ségou</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-4</ctml:parentRef>
+    <ctml:wikiDataId>Q1902391</ctml:wikiDataId>
+    <ctml:latitude>13.17895000</ctml:latitude>
+    <ctml:longitude>-5.01617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67618" kind="admin2">
+    <ctml:name>Ké-Macina</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Ségou</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-4</ctml:parentRef>
+    <ctml:wikiDataId>Q1538131</ctml:wikiDataId>
+    <ctml:latitude>13.96410000</ctml:latitude>
+    <ctml:longitude>-5.35791000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67610" kind="city">
+    <ctml:name>Kinmparana</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Ségou</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-4</ctml:parentRef>
+    <ctml:wikiDataId>Q27690425</ctml:wikiDataId>
+    <ctml:latitude>12.84217000</ctml:latitude>
+    <ctml:longitude>-4.92450000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67619" kind="city">
+    <ctml:name>Markala</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Ségou</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-4</ctml:parentRef>
+    <ctml:wikiDataId>Q976115</ctml:wikiDataId>
+    <ctml:latitude>13.70210000</ctml:latitude>
+    <ctml:longitude>-6.06590000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67624" kind="admin2">
+    <ctml:name>San</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Ségou</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-4</ctml:parentRef>
+    <ctml:wikiDataId>Q950460</ctml:wikiDataId>
+    <ctml:latitude>13.30335000</ctml:latitude>
+    <ctml:longitude>-4.89562000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67626" kind="city">
+    <ctml:name>Sokolo</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Ségou</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-4</ctml:parentRef>
+    <ctml:wikiDataId>Q2257485</ctml:wikiDataId>
+    <ctml:latitude>14.73280000</ctml:latitude>
+    <ctml:longitude>-6.12190000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67591" kind="city">
+    <ctml:name>Bougouni</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Sikasso</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-3</ctml:parentRef>
+    <ctml:wikiDataId>Q848574</ctml:wikiDataId>
+    <ctml:latitude>11.41769000</ctml:latitude>
+    <ctml:longitude>-7.48323000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67614" kind="admin2">
+    <ctml:name>Kolondiéba</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Sikasso</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-3</ctml:parentRef>
+    <ctml:wikiDataId>Q1040225</ctml:wikiDataId>
+    <ctml:latitude>11.08943000</ctml:latitude>
+    <ctml:longitude>-6.89290000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67616" kind="admin2">
+    <ctml:name>Koutiala</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Sikasso</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-3</ctml:parentRef>
+    <ctml:wikiDataId>Q281000</ctml:wikiDataId>
+    <ctml:latitude>12.39173000</ctml:latitude>
+    <ctml:longitude>-5.46421000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67617" kind="city">
+    <ctml:name>Koutiala Cercle</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Sikasso</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-3</ctml:parentRef>
+    <ctml:wikiDataId>Q1538131</ctml:wikiDataId>
+    <ctml:latitude>12.35311000</ctml:latitude>
+    <ctml:longitude>-5.58390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67622" kind="city">
+    <ctml:name>Ntossoni</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Sikasso</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-3</ctml:parentRef>
+    <ctml:wikiDataId>Q3334119</ctml:wikiDataId>
+    <ctml:latitude>12.53040000</ctml:latitude>
+    <ctml:longitude>-5.77003000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67630" kind="admin2">
+    <ctml:name>Yorosso</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Sikasso</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-3</ctml:parentRef>
+    <ctml:wikiDataId>Q1031835</ctml:wikiDataId>
+    <ctml:latitude>12.35811000</ctml:latitude>
+    <ctml:longitude>-4.77688000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67585" kind="city">
+    <ctml:name>Araouane</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Tombouctou</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-6</ctml:parentRef>
+    <ctml:wikiDataId>Q626121</ctml:wikiDataId>
+    <ctml:latitude>18.90476000</ctml:latitude>
+    <ctml:longitude>-3.52649000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67593" kind="city">
+    <ctml:name>Cercle de Goundam</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Tombouctou</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-6</ctml:parentRef>
+    <ctml:wikiDataId>Q1499253</ctml:wikiDataId>
+    <ctml:latitude>18.60035000</ctml:latitude>
+    <ctml:longitude>-4.99306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67596" kind="city">
+    <ctml:name>Dire</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Tombouctou</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-6</ctml:parentRef>
+    <ctml:wikiDataId>Q319858</ctml:wikiDataId>
+    <ctml:latitude>16.28017000</ctml:latitude>
+    <ctml:longitude>-3.31302000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67603" kind="admin2">
+    <ctml:name>Goundam</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Tombouctou</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-6</ctml:parentRef>
+    <ctml:wikiDataId>Q976923</ctml:wikiDataId>
+    <ctml:latitude>16.41453000</ctml:latitude>
+    <ctml:longitude>-3.67075000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLI-67604" kind="city">
+    <ctml:name>Gourma-Rharous Cercle</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Tombouctou</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-6</ctml:parentRef>
+    <ctml:wikiDataId>Q1540214</ctml:wikiDataId>
+    <ctml:latitude>16.07979000</ctml:latitude>
+    <ctml:longitude>-1.76981000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MLI-67621" kind="admin2">
+    <ctml:name>Niafunké</ctml:name>
+    <ctml:country>MLI</ctml:country>
+    <ctml:admin1>Tombouctou</ctml:admin1>
+    <ctml:parentRef>place:admin1:ML-6</ctml:parentRef>
+    <ctml:wikiDataId>Q3100146</ctml:wikiDataId>
+    <ctml:latitude>15.93220000</ctml:latitude>
+    <ctml:longitude>-3.99060000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BTN-153825" kind="city">
+    <ctml:name>Chapchha</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Chukha </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q5072954</ctml:wikiDataId>
+    <ctml:latitude>27.20000000</ctml:latitude>
+    <ctml:longitude>89.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-15706" kind="city">
+    <ctml:name>Daphu</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Chukha </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q5221776</ctml:wikiDataId>
+    <ctml:latitude>26.96670000</ctml:latitude>
+    <ctml:longitude>89.38330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153827" kind="city">
+    <ctml:name>Khitokha</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Chukha </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q6401799</ctml:wikiDataId>
+    <ctml:latitude>26.90000000</ctml:latitude>
+    <ctml:longitude>89.61670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153826" kind="city">
+    <ctml:name>Lobnig</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Chukha </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q6663727</ctml:wikiDataId>
+    <ctml:latitude>27.15000000</ctml:latitude>
+    <ctml:longitude>89.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-15726" kind="city">
+    <ctml:name>Pachu</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Chukha </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q7122069</ctml:wikiDataId>
+    <ctml:latitude>26.90000000</ctml:latitude>
+    <ctml:longitude>89.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-15716" kind="city">
+    <ctml:name>Phuntsholing</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Chukha </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-12</ctml:parentRef>
+    <ctml:wikiDataId>Q856162</ctml:wikiDataId>
+    <ctml:latitude>26.85164000</ctml:latitude>
+    <ctml:longitude>89.38837000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-15728" kind="city">
+    <ctml:name>Sibsu</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Dagana </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q7507287</ctml:wikiDataId>
+    <ctml:latitude>27.00000000</ctml:latitude>
+    <ctml:longitude>88.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153828" kind="city">
+    <ctml:name>Thumgaon</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Dagana </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-22</ctml:parentRef>
+    <ctml:wikiDataId>Q7798849</ctml:wikiDataId>
+    <ctml:latitude>26.98330000</ctml:latitude>
+    <ctml:longitude>89.96670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153829" kind="city">
+    <ctml:name>Naktsang</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Haa </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q6960719</ctml:wikiDataId>
+    <ctml:latitude>27.38330000</ctml:latitude>
+    <ctml:longitude>89.26670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153830" kind="city">
+    <ctml:name>Sangkari</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Haa </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-13</ctml:parentRef>
+    <ctml:wikiDataId>Q7418027</ctml:wikiDataId>
+    <ctml:latitude>27.30000000</ctml:latitude>
+    <ctml:longitude>89.31670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153834" kind="city">
+    <ctml:name>Suchha</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Paro </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-11</ctml:parentRef>
+    <ctml:wikiDataId>Q7632903</ctml:wikiDataId>
+    <ctml:latitude>27.23330000</ctml:latitude>
+    <ctml:longitude>89.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153833" kind="city">
+    <ctml:name>Tshalunang</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Paro </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-11</ctml:parentRef>
+    <ctml:wikiDataId>Q7849600</ctml:wikiDataId>
+    <ctml:latitude>27.43330000</ctml:latitude>
+    <ctml:longitude>89.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153835" kind="city">
+    <ctml:name>Nganglam</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Pemagatshel </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-43</ctml:parentRef>
+    <ctml:wikiDataId>Q17069379</ctml:wikiDataId>
+    <ctml:latitude>26.84181100</ctml:latitude>
+    <ctml:longitude>91.24248490</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-15712" kind="city">
+    <ctml:name>Pajo</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Punakha </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2394786</ctml:wikiDataId>
+    <ctml:latitude>27.53333000</ctml:latitude>
+    <ctml:longitude>89.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153837" kind="city">
+    <ctml:name>Dorokha</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Samtse </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q5298171</ctml:wikiDataId>
+    <ctml:latitude>27.01670000</ctml:latitude>
+    <ctml:longitude>89.21670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153836" kind="city">
+    <ctml:name>Tendu</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Samtse </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-14</ctml:parentRef>
+    <ctml:wikiDataId>Q7699666</ctml:wikiDataId>
+    <ctml:latitude>27.13330000</ctml:latitude>
+    <ctml:longitude>88.88330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153841" kind="city">
+    <ctml:name>Bhurgaon</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Sarpang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-31</ctml:parentRef>
+    <ctml:wikiDataId>Q4902198</ctml:wikiDataId>
+    <ctml:latitude>26.90000000</ctml:latitude>
+    <ctml:longitude>90.43330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153840" kind="city">
+    <ctml:name>Galechugaon</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Sarpang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-31</ctml:parentRef>
+    <ctml:wikiDataId>Q5518315</ctml:wikiDataId>
+    <ctml:latitude>27.00000000</ctml:latitude>
+    <ctml:longitude>90.53330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153839" kind="city">
+    <ctml:name>Geylegphug</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Sarpang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-31</ctml:parentRef>
+    <ctml:wikiDataId>Q1499697</ctml:wikiDataId>
+    <ctml:latitude>26.87060000</ctml:latitude>
+    <ctml:longitude>90.48560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-15722" kind="city">
+    <ctml:name>Thimphu</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Thimphu </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q9270</ctml:wikiDataId>
+    <ctml:latitude>27.46609000</ctml:latitude>
+    <ctml:longitude>89.64191000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153844" kind="city">
+    <ctml:name>Yalang</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Trashi Yangtse	</ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-TY</ctml:parentRef>
+    <ctml:wikiDataId>Q8047307</ctml:wikiDataId>
+    <ctml:latitude>27.43330000</ctml:latitude>
+    <ctml:longitude>91.63330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153850" kind="city">
+    <ctml:name>Balfai</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Trashigang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-41</ctml:parentRef>
+    <ctml:wikiDataId>Q4850742</ctml:wikiDataId>
+    <ctml:latitude>27.21670320</ctml:latitude>
+    <ctml:longitude>91.47940030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153846" kind="city">
+    <ctml:name>Ghunkarah</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Trashigang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-41</ctml:parentRef>
+    <ctml:wikiDataId>Q5557711</ctml:wikiDataId>
+    <ctml:latitude>27.40000000</ctml:latitude>
+    <ctml:longitude>91.56670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153845" kind="city">
+    <ctml:name>Ngalangkang</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Trashigang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-41</ctml:parentRef>
+    <ctml:wikiDataId>Q15262244</ctml:wikiDataId>
+    <ctml:latitude>27.45282330</ctml:latitude>
+    <ctml:longitude>91.56477710</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153847" kind="city">
+    <ctml:name>Rungzyung</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Trashigang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-41</ctml:parentRef>
+    <ctml:wikiDataId>Q5557711</ctml:wikiDataId>
+    <ctml:latitude>27.35000000</ctml:latitude>
+    <ctml:longitude>91.66670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153851" kind="city">
+    <ctml:name>Sassi</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Trashigang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-41</ctml:parentRef>
+    <ctml:wikiDataId>Q7425769</ctml:wikiDataId>
+    <ctml:latitude>27.13330000</ctml:latitude>
+    <ctml:longitude>91.43330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153849" kind="city">
+    <ctml:name>Thrimshing</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Trashigang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-41</ctml:parentRef>
+    <ctml:wikiDataId>Q7798222</ctml:wikiDataId>
+    <ctml:latitude>27.13330000</ctml:latitude>
+    <ctml:longitude>91.61670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153848" kind="city">
+    <ctml:name>Wamrong</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Trashigang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-41</ctml:parentRef>
+    <ctml:wikiDataId>Q7966961</ctml:wikiDataId>
+    <ctml:latitude>27.13784530</ctml:latitude>
+    <ctml:longitude>91.56044470</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153854" kind="city">
+    <ctml:name>Beteni</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Tsirang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q4897410</ctml:wikiDataId>
+    <ctml:latitude>27.03330000</ctml:latitude>
+    <ctml:longitude>90.23330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153853" kind="city">
+    <ctml:name>Dagapela</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Tsirang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q5208459</ctml:wikiDataId>
+    <ctml:latitude>26.93330000</ctml:latitude>
+    <ctml:longitude>89.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-15725" kind="city">
+    <ctml:name>Damphu</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Tsirang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2253073</ctml:wikiDataId>
+    <ctml:latitude>27.01670000</ctml:latitude>
+    <ctml:longitude>90.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153856" kind="city">
+    <ctml:name>Manikyangsa</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Wangdue Phodrang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-24</ctml:parentRef>
+    <ctml:wikiDataId>Q6749651</ctml:wikiDataId>
+    <ctml:latitude>27.53330000</ctml:latitude>
+    <ctml:longitude>90.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-153855" kind="city">
+    <ctml:name>Ritang</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Wangdue Phodrang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-24</ctml:parentRef>
+    <ctml:wikiDataId>Q7336633</ctml:wikiDataId>
+    <ctml:latitude>27.55000000</ctml:latitude>
+    <ctml:longitude>90.16670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-15713" kind="city">
+    <ctml:name>Panbang</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Zhemgang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-34</ctml:parentRef>
+    <ctml:wikiDataId>Q7130169</ctml:wikiDataId>
+    <ctml:latitude>26.86667000</ctml:latitude>
+    <ctml:longitude>90.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BTN-15721" kind="city">
+    <ctml:name>Zhemgang</ctml:name>
+    <ctml:country>BTN</ctml:country>
+    <ctml:admin1>Zhemgang </ctml:admin1>
+    <ctml:parentRef>place:admin1:BT-34</ctml:parentRef>
+    <ctml:wikiDataId>Q2158280</ctml:wikiDataId>
+    <ctml:latitude>27.21689000</ctml:latitude>
+    <ctml:longitude>90.65793000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

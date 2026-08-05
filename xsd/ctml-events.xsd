@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:ctml="urn:ctml:2.0"
+  targetNamespace="urn:ctml:2.0"
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified">
+
+  <xs:annotation>
+    <xs:documentation>
+      CTML 2.0 - Events: canonical event series + occurrences registry.
+
+      Carried over unchanged from reference/v1-xsd/ctml-events.xsd (1.3);
+      this module had no XSD 1.1 asserts. The occurrence record remains the
+      deduplication backbone:
+      - aliases: the Event-header spellings used by source databases for THIS
+        occurrence, each with optional source attribution and the Site
+        spelling it was paired with. Matching an incoming (Event, Site) pair
+        against occurrence aliases turns cross-database deduplication into an
+        identity lookup instead of a fuzzy match.
+      - eventType / cadence: the occurrence's format and time control.
+      - expectedRounds / expectedGames: completeness targets for vetting.
+      Tournament documents link here via the optional header eventRef added
+      to TournamentHeaderType in ctml-core.xsd.
+
+      Ref conventions:
+        series:&lt;slug&gt;
+        event:&lt;startYYYYMMDD&gt;-&lt;endYYYYMMDD&gt;-&lt;slug&gt;
+
+      Only change from v1: includes ctml-dates.xsd (for DateRangeType) rather
+      than the now-retired ctml-namedate.xsd. ctml:placeRef is referenced but
+      not xs:include'd here, matching the v1 convention of relying on the
+      driver schema (ctml-core.xsd) to include ctml-places.xsd alongside this
+      module.
+    </xs:documentation>
+  </xs:annotation>
+
+  <xs:include schemaLocation="ctml-dates.xsd"/>
+
+  <xs:element name="eventRegistry" type="ctml:EventRegistryType"/>
+  <xs:element name="eventRef" type="ctml:EventRefType"/>
+
+  <xs:complexType name="EventRefType">
+    <xs:sequence>
+      <xs:element name="name" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute name="ref" type="xs:token" use="required"/>
+    <xs:attribute name="source" type="xs:anyURI" use="optional"/>
+  </xs:complexType>
+
+  <xs:complexType name="EventSeriesType">
+    <xs:sequence>
+      <xs:element name="name" type="xs:string"/>
+      <xs:element name="altNames" type="ctml:AltNameSetType" minOccurs="0"/>
+      <xs:element name="notes" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute name="ref" type="xs:token" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="EventOccurrenceType">
+    <xs:sequence>
+      <xs:element name="seriesRef" type="xs:token"/>
+      <xs:element name="name" type="xs:string" minOccurs="0"/>
+      <xs:element name="aliases" type="ctml:EventAliasSetType" minOccurs="0"/>
+      <xs:element name="eventType" type="ctml:EventFormatType" minOccurs="0"/>
+      <xs:element name="cadence" type="ctml:EventCadenceType" minOccurs="0"/>
+      <xs:element name="dates" type="ctml:DateRangeType"/>
+      <xs:element ref="ctml:placeRef" minOccurs="0"/>
+      <xs:element name="expectedRounds" type="xs:positiveInteger" minOccurs="0"/>
+      <xs:element name="expectedGames" type="xs:positiveInteger" minOccurs="0"/>
+      <xs:element name="notes" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute name="ref" type="xs:token" use="required"/>
+  </xs:complexType>
+
+  <!-- Event-header spellings observed in source databases for one
+       occurrence. @source names the database ("mega", "twic", "chesscom",
+       ...); @site records the Site header paired with this spelling, since
+       source-side grouping keys are (Event, Site) pairs. -->
+  <xs:complexType name="EventAliasSetType">
+    <xs:sequence>
+      <xs:element name="alias" type="ctml:EventAliasType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="EventAliasType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute name="source" type="xs:token" use="optional"/>
+        <xs:attribute name="site" type="xs:string" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+
+  <xs:complexType name="EventRegistryType">
+    <xs:sequence>
+      <xs:element name="eventSeries" type="ctml:EventSeriesType" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="eventOccurrence" type="ctml:EventOccurrenceType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="ctmlVersion" type="xs:token" use="required"/>
+    <xs:attribute name="generated" type="xs:dateTime" use="optional"/>
+    <xs:attribute name="source" type="xs:anyURI" use="optional"/>
+  </xs:complexType>
+
+</xs:schema>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ASM-154920" kind="city">
+    <ctml:name>Ituʻau</ctml:name>
+    <ctml:country>ASM</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:AS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3688257</ctml:wikiDataId>
+    <ctml:latitude>-14.30616430</ctml:latitude>
+    <ctml:longitude>-170.80691440</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ASM-154921" kind="city">
+    <ctml:name>Maʻoputasi</ctml:name>
+    <ctml:country>ASM</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:AS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3688363</ctml:wikiDataId>
+    <ctml:latitude>-14.25216850</ctml:latitude>
+    <ctml:longitude>-170.74187670</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ASM-154924" kind="city">
+    <ctml:name>Saʻole</ctml:name>
+    <ctml:country>ASM</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:AS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3688580</ctml:wikiDataId>
+    <ctml:latitude>-14.29995700</ctml:latitude>
+    <ctml:longitude>-170.61763370</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ASM-154923" kind="city">
+    <ctml:name>Sua</ctml:name>
+    <ctml:country>ASM</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:AS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3688661</ctml:wikiDataId>
+    <ctml:latitude>-14.27710880</ctml:latitude>
+    <ctml:longitude>-170.71442630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ASM-154922" kind="city">
+    <ctml:name>Vaifanua</ctml:name>
+    <ctml:country>ASM</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:AS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3688712</ctml:wikiDataId>
+    <ctml:latitude>-14.25578040</ctml:latitude>
+    <ctml:longitude>-170.76301810</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ASM-154928" kind="city">
+    <ctml:name>Faleasao</ctml:name>
+    <ctml:country>ASM</ctml:country>
+    <ctml:admin1>Manuʻa</ctml:admin1>
+    <ctml:parentRef>place:admin1:AS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3688174</ctml:wikiDataId>
+    <ctml:latitude>-14.20385490</ctml:latitude>
+    <ctml:longitude>-169.54907370</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ASM-154925" kind="admin2">
+    <ctml:name>Ofu</ctml:name>
+    <ctml:country>ASM</ctml:country>
+    <ctml:admin1>Manuʻa</ctml:admin1>
+    <ctml:parentRef>place:admin1:AS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3688471</ctml:wikiDataId>
+    <ctml:latitude>-14.17135950</ctml:latitude>
+    <ctml:longitude>-169.71939120</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ASM-154926" kind="city">
+    <ctml:name>Olosega</ctml:name>
+    <ctml:country>ASM</ctml:country>
+    <ctml:admin1>Manuʻa</ctml:admin1>
+    <ctml:parentRef>place:admin1:AS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3688476</ctml:wikiDataId>
+    <ctml:latitude>-14.17422270</ctml:latitude>
+    <ctml:longitude>-169.63981240</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ASM-154916" kind="city">
+    <ctml:name>Lealataua</ctml:name>
+    <ctml:country>ASM</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:AS-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3688321</ctml:wikiDataId>
+    <ctml:latitude>-14.32261520</ctml:latitude>
+    <ctml:longitude>-170.90849930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ASM-154917" kind="city">
+    <ctml:name>Leasina</ctml:name>
+    <ctml:country>ASM</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:AS-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3688323</ctml:wikiDataId>
+    <ctml:latitude>-14.29581640</ctml:latitude>
+    <ctml:longitude>-170.80459320</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ASM-154918" kind="city">
+    <ctml:name>Tualatai</ctml:name>
+    <ctml:country>ASM</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:AS-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3688697</ctml:wikiDataId>
+    <ctml:latitude>-14.37923540</ctml:latitude>
+    <ctml:longitude>-170.81033120</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ASM-154919" kind="city">
+    <ctml:name>Tualauta</ctml:name>
+    <ctml:country>ASM</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:AS-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3688698</ctml:wikiDataId>
+    <ctml:latitude>-14.35876890</ctml:latitude>
+    <ctml:longitude>-170.75583320</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

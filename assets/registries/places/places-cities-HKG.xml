@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:HKG-153484" kind="city">
+    <ctml:name>Admiralty</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Central and Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-HCW</ctml:parentRef>
+    <ctml:wikiDataId>Q485380</ctml:wikiDataId>
+    <ctml:latitude>22.27800000</ctml:latitude>
+    <ctml:longitude>114.16400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153508" kind="city">
+    <ctml:name>Tai O</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-NIS</ctml:parentRef>
+    <ctml:wikiDataId>Q321022</ctml:wikiDataId>
+    <ctml:latitude>22.24700000</ctml:latitude>
+    <ctml:longitude>113.86900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153500" kind="city">
+    <ctml:name>Kowloon Tong</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Kowloon City</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-KKC</ctml:parentRef>
+    <ctml:wikiDataId>Q193903</ctml:wikiDataId>
+    <ctml:latitude>22.33700000</ctml:latitude>
+    <ctml:longitude>114.17900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153504" kind="city">
+    <ctml:name>Lam Tin</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Kwun Tong</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-KKT</ctml:parentRef>
+    <ctml:wikiDataId>Q1496131</ctml:wikiDataId>
+    <ctml:latitude>22.30700000</ctml:latitude>
+    <ctml:longitude>114.23500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153497" kind="city">
+    <ctml:name>Sheung Shui</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>North</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-NNO</ctml:parentRef>
+    <ctml:wikiDataId>Q194166</ctml:wikiDataId>
+    <ctml:latitude>22.50100000</ctml:latitude>
+    <ctml:longitude>114.12300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153498" kind="city">
+    <ctml:name>Tseung Kwan O</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Sai Kung</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-NSK</ctml:parentRef>
+    <ctml:wikiDataId>Q205802</ctml:wikiDataId>
+    <ctml:latitude>22.31900000</ctml:latitude>
+    <ctml:longitude>114.26300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153494" kind="city">
+    <ctml:name>Ma On Shan</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Sha Tin</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-NST</ctml:parentRef>
+    <ctml:wikiDataId>Q193904</ctml:wikiDataId>
+    <ctml:latitude>22.42200000</ctml:latitude>
+    <ctml:longitude>114.23000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153489" kind="city">
+    <ctml:name>Sha Tin</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Sha Tin</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-NST</ctml:parentRef>
+    <ctml:wikiDataId>Q194161</ctml:wikiDataId>
+    <ctml:latitude>22.38300000</ctml:latitude>
+    <ctml:longitude>114.18800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153499" kind="city">
+    <ctml:name>Sha Tin Wai</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Sha Tin</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-NST</ctml:parentRef>
+    <ctml:wikiDataId>Q1496060</ctml:wikiDataId>
+    <ctml:latitude>22.38000000</ctml:latitude>
+    <ctml:longitude>114.19100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153501" kind="city">
+    <ctml:name>Cheung Sha Wan</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Sham Shui Po</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-KSS</ctml:parentRef>
+    <ctml:wikiDataId>Q486324</ctml:wikiDataId>
+    <ctml:latitude>22.33600000</ctml:latitude>
+    <ctml:longitude>114.15100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153502" kind="city">
+    <ctml:name>Lai Chi Kok</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Sham Shui Po</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-KSS</ctml:parentRef>
+    <ctml:wikiDataId>Q486325</ctml:wikiDataId>
+    <ctml:latitude>22.33700000</ctml:latitude>
+    <ctml:longitude>114.14600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153506" kind="city">
+    <ctml:name>Aberdeen</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-HSO</ctml:parentRef>
+    <ctml:wikiDataId>Q49116</ctml:wikiDataId>
+    <ctml:latitude>22.24700000</ctml:latitude>
+    <ctml:longitude>114.15200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153496" kind="city">
+    <ctml:name>Stanley</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-HSO</ctml:parentRef>
+    <ctml:wikiDataId>Q199028</ctml:wikiDataId>
+    <ctml:latitude>22.22000000</ctml:latitude>
+    <ctml:longitude>114.21400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153507" kind="city">
+    <ctml:name>Stanley Peninsula</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-HSO</ctml:parentRef>
+    <ctml:wikiDataId>Q1133959</ctml:wikiDataId>
+    <ctml:latitude>22.21000000</ctml:latitude>
+    <ctml:longitude>114.21700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153486" kind="city">
+    <ctml:name>Causeway Bay</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Wan Chai</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-HWC</ctml:parentRef>
+    <ctml:wikiDataId>Q192682</ctml:wikiDataId>
+    <ctml:latitude>22.28000000</ctml:latitude>
+    <ctml:longitude>114.18500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153485" kind="city">
+    <ctml:name>Wan Chai</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Wan Chai</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-HWC</ctml:parentRef>
+    <ctml:wikiDataId>Q5921</ctml:wikiDataId>
+    <ctml:latitude>22.27800000</ctml:latitude>
+    <ctml:longitude>114.18200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153503" kind="city">
+    <ctml:name>Wong Tai Sin</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Wong Tai Sin</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-KWT</ctml:parentRef>
+    <ctml:wikiDataId>Q193910</ctml:wikiDataId>
+    <ctml:latitude>22.34100000</ctml:latitude>
+    <ctml:longitude>114.19300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:HKG-153487" kind="city">
+    <ctml:name>Tsim Sha Tsui</ctml:name>
+    <ctml:country>HKG</ctml:country>
+    <ctml:admin1>Yau Tsim Mong</ctml:admin1>
+    <ctml:parentRef>place:admin1:HK-KYT</ctml:parentRef>
+    <ctml:wikiDataId>Q747942</ctml:wikiDataId>
+    <ctml:latitude>22.29800000</ctml:latitude>
+    <ctml:longitude>114.17200000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

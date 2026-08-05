@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:ctml="urn:ctml:2.0"
+  targetNamespace="urn:ctml:2.0"
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified">
+
+  <xs:annotation>
+    <xs:documentation>
+      CTML 2.0 - Entities: player references and registry with comprehensive
+      rating support.
+
+      Carried over from reference/v1-xsd/ctml-entities.xsd (1.2) with:
+      - PlayerRefType's ref/resolution/alias pattern kept intact.
+      - YearRatingsType's first XSD 1.1 assert (checking each month/@num is
+        1-12) was actually redundant even in the 1.1 version: MonthRatingType
+        already restricts @num to [1,12] structurally. Dropped, no
+        replacement needed.
+      - YearRatingsType's second assert (no duplicate month/@num within a
+        year) is a genuine uniqueness constraint, replaced with a native XSD
+        1.0 xs:unique identity constraint (UniqueMonthNumPerYear).
+    </xs:documentation>
+  </xs:annotation>
+
+  <xs:include schemaLocation="ctml-names.xsd"/>
+  <xs:include schemaLocation="ctml-dates.xsd"/>
+
+  <!-- Reusable elements -->
+  <xs:element name="playerRef" type="ctml:PlayerRefType"/>
+  <xs:element name="ratingSnapshot" type="ctml:RatingSnapshotType"/>
+
+  <!-- Registry root -->
+  <xs:element name="playerRegistry" type="ctml:PlayerRegistryType"/>
+
+  <!-- ===== Player reference for tournament files ===== -->
+  <xs:complexType name="PlayerRefType">
+    <xs:sequence>
+      <xs:element name="name" type="ctml:PersonNameType"/>
+      <xs:element name="federation" type="ctml:FederationCodeType" minOccurs="0"/>
+      <!-- Repeatable: a player can hold more than one title concurrently
+           (e.g. an open title plus a women's title, IM+WGM). Widened from
+           a single optional title in v1/v2-initial once real source data
+           (Scid-derived .ssp registries) turned up combined title tokens
+           that a single-valued field can't represent. -->
+      <xs:element name="title" type="ctml:PlayerTitleType" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="ids" type="ctml:IdentifierSetType" minOccurs="0"/>
+      <xs:element name="resolution" type="ctml:ResolutionType" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute name="ref" type="xs:token" use="required"/>
+    <xs:attribute name="source" type="xs:anyURI" use="optional"/>
+  </xs:complexType>
+
+  <!-- How the @ref identity was determined. Machine-readable so resolution
+       can be audited, queried, and re-run; supersedes prose in notes. -->
+  <xs:complexType name="ResolutionType">
+    <xs:attribute name="method" type="ctml:ResolutionMethodType" use="required"/>
+    <xs:attribute name="resolver" type="xs:token" use="optional"/>      <!-- tool name/version -->
+    <xs:attribute name="resolvedAt" type="xs:dateTime" use="optional"/>
+    <xs:attribute name="note" type="xs:string" use="optional"/>
+  </xs:complexType>
+
+  <xs:complexType name="IdentifierSetType">
+    <xs:sequence>
+      <xs:element name="fideId" type="ctml:FideIdType" minOccurs="0"/>
+      <xs:element name="uscfId" type="xs:token" minOccurs="0"/>
+      <xs:element name="ecfId" type="xs:token" minOccurs="0"/>
+      <xs:element name="nationalId" type="xs:token" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="internalId" type="xs:token" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:simpleType name="FideIdType">
+    <xs:restriction base="xs:token">
+      <xs:pattern value="[0-9]{4,12}"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ===== Rating snapshot (event-time) ===== -->
+  <xs:complexType name="RatingSnapshotType">
+    <xs:sequence>
+      <xs:element name="value" type="ctml:RatingValueType"/>
+      <xs:element name="asOf" type="ctml:PartialDateType" minOccurs="0"/>
+      <xs:element name="publishedForEvent" type="xs:boolean" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute name="system" type="ctml:RatingSystemType" use="required"/>
+    <xs:attribute name="scope" type="ctml:RatingScopeType" use="optional"/>
+  </xs:complexType>
+
+  <xs:simpleType name="RatingValueType">
+    <xs:union memberTypes="ctml:RatingIntType ctml:RatingUnknownType"/>
+  </xs:simpleType>
+
+  <xs:simpleType name="RatingIntType">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="4000"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="RatingUnknownType">
+    <xs:restriction base="xs:token">
+      <xs:enumeration value="?"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ===== Player registry types ===== -->
+
+  <!-- Full canonical player record -->
+  <xs:complexType name="PlayerType">
+    <xs:sequence>
+      <xs:element name="name" type="ctml:PersonNameType"/>
+      <xs:element name="federation" type="ctml:FederationCodeType" minOccurs="0"/>
+      <!-- Repeatable: see the matching change in PlayerRefType above. -->
+      <xs:element name="title" type="ctml:PlayerTitleType" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="ids" type="ctml:IdentifierSetType" minOccurs="0"/>
+      <xs:element name="birthYear" type="xs:gYear" minOccurs="0"/>  <!-- DEPRECATED: prefer birthDate -->
+      <xs:element name="birthDate" type="ctml:PartialDateType" minOccurs="0"/>
+      <xs:element name="deathDate" type="ctml:PartialDateType" minOccurs="0"/>
+      <xs:element name="sex" type="ctml:SexType" minOccurs="0"/>
+      <xs:element name="aliases" type="ctml:AliasSetType" minOccurs="0"/>
+      <xs:element name="ratingHistory" type="ctml:RatingHistorySetType" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute name="ref" type="xs:token" use="required"/>
+    <xs:attribute name="source" type="xs:anyURI" use="optional"/>
+  </xs:complexType>
+
+  <xs:simpleType name="SexType">
+    <xs:restriction base="xs:token">
+      <xs:enumeration value="M"/>
+      <xs:enumeration value="F"/>
+      <xs:enumeration value="unknown"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="AliasSetType">
+    <xs:sequence>
+      <xs:element name="alias" type="ctml:PersonNameType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="RatingHistorySetType">
+    <xs:sequence>
+      <xs:element name="ratingTrack" type="ctml:RatingTrackType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="RatingTrackType">
+    <xs:sequence>
+      <xs:element name="current" type="ctml:RatingValueType" minOccurs="0"/>
+      <xs:element name="peak" type="ctml:PeakRatingType" minOccurs="0"/>
+      <xs:element name="history" type="ctml:MonthlyRatingsType" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute name="system" type="ctml:RatingSystemType" use="required"/>
+    <xs:attribute name="scope" type="ctml:RatingScopeType" use="optional"/>
+  </xs:complexType>
+
+  <xs:complexType name="PeakRatingType">
+    <xs:sequence>
+      <xs:element name="value" type="ctml:RatingValueType"/>
+      <xs:element name="achieved" type="ctml:PartialDateType" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="MonthlyRatingsType">
+    <xs:sequence>
+      <xs:element name="year" type="ctml:YearRatingsType" minOccurs="0" maxOccurs="unbounded">
+        <!-- XSD 1.0 replacement for the v1 assert that rejected duplicate
+             month/@num values within one rating year. -->
+        <xs:unique name="UniqueMonthNumPerYear">
+          <xs:selector xpath="ctml:month"/>
+          <xs:field xpath="@num"/>
+        </xs:unique>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="YearRatingsType">
+    <xs:sequence>
+      <xs:element name="month" type="ctml:MonthRatingType" minOccurs="0" maxOccurs="12"/>
+    </xs:sequence>
+    <xs:attribute name="value" type="xs:gYear" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="MonthRatingType">
+    <xs:simpleContent>
+      <xs:extension base="ctml:RatingValueType">
+        <xs:attribute name="num" use="required">
+          <xs:simpleType>
+            <xs:restriction base="xs:positiveInteger">
+              <xs:minInclusive value="1"/>
+              <xs:maxInclusive value="12"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:attribute>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+
+  <xs:complexType name="PlayerRegistryType">
+    <xs:sequence>
+      <xs:element name="player" type="ctml:PlayerType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="ctmlVersion" type="xs:token" use="required"/>
+    <xs:attribute name="generated" type="xs:dateTime" use="optional"/>
+    <xs:attribute name="source" type="xs:anyURI" use="optional"/>
+  </xs:complexType>
+
+</xs:schema>

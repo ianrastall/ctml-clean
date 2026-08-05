@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:TWN-109003" kind="city">
+    <ctml:name>Changhua</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Changhua</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-CHA</ctml:parentRef>
+    <ctml:wikiDataId>Q133865</ctml:wikiDataId>
+    <ctml:latitude>23.95361000</ctml:latitude>
+    <ctml:longitude>120.49083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109038" kind="city">
+    <ctml:name>Yuanlin</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Changhua</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-CHA</ctml:parentRef>
+    <ctml:wikiDataId>Q237258</ctml:wikiDataId>
+    <ctml:latitude>23.95671000</ctml:latitude>
+    <ctml:longitude>120.57608000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TWN-109004" kind="admin2">
+    <ctml:name>Chiayi</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Chiayi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-CYI</ctml:parentRef>
+    <ctml:wikiDataId>Q249995</ctml:wikiDataId>
+    <ctml:latitude>23.47722000</ctml:latitude>
+    <ctml:longitude>120.44527000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109026" kind="city">
+    <ctml:name>Pizitou</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Chiayi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-CYI</ctml:parentRef>
+    <ctml:wikiDataId>Q194989</ctml:wikiDataId>
+    <ctml:latitude>23.48556000</ctml:latitude>
+    <ctml:longitude>120.44472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-160127" kind="city">
+    <ctml:name>Budai</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Chiayi County</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-CYQ</ctml:parentRef>
+    <ctml:wikiDataId>Q715867</ctml:wikiDataId>
+    <ctml:latitude>23.36000000</ctml:latitude>
+    <ctml:longitude>120.17000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109005" kind="city">
+    <ctml:name>Chiayi</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Chiayi County</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-CYQ</ctml:parentRef>
+    <ctml:wikiDataId>Q166977</ctml:wikiDataId>
+    <ctml:latitude>23.46333000</ctml:latitude>
+    <ctml:longitude>120.58166000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-160128" kind="city">
+    <ctml:name>Dalin</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Chiayi County</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-CYQ</ctml:parentRef>
+    <ctml:wikiDataId>Q718381</ctml:wikiDataId>
+    <ctml:latitude>23.59888889</ctml:latitude>
+    <ctml:longitude>120.47000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-160129" kind="city">
+    <ctml:name>Minxiong</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Chiayi County</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-CYQ</ctml:parentRef>
+    <ctml:wikiDataId>Q713803</ctml:wikiDataId>
+    <ctml:latitude>23.55039900</ctml:latitude>
+    <ctml:longitude>120.44569600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109011" kind="city">
+    <ctml:name>Hsinchu</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Hsinchu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-HSZ</ctml:parentRef>
+    <ctml:wikiDataId>Q74054</ctml:wikiDataId>
+    <ctml:latitude>24.67416000</ctml:latitude>
+    <ctml:longitude>121.16111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TWN-109010" kind="admin2">
+    <ctml:name>Hsinchu</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Hsinchu County</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-HSQ</ctml:parentRef>
+    <ctml:wikiDataId>Q249994</ctml:wikiDataId>
+    <ctml:latitude>24.80361000</ctml:latitude>
+    <ctml:longitude>120.96861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-160131" kind="city">
+    <ctml:name>Hukou</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Hsinchu County</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-HSQ</ctml:parentRef>
+    <ctml:wikiDataId>Q153830</ctml:wikiDataId>
+    <ctml:latitude>24.90000000</ctml:latitude>
+    <ctml:longitude>121.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TWN-160130" kind="admin2">
+    <ctml:name>Zhubei</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Hsinchu County</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-HSQ</ctml:parentRef>
+    <ctml:wikiDataId>Q29624</ctml:wikiDataId>
+    <ctml:latitude>24.83333333</ctml:latitude>
+    <ctml:longitude>121.01194444</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109012" kind="city">
+    <ctml:name>Hualien</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Hualien</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-HUA</ctml:parentRef>
+    <ctml:wikiDataId>Q249868</ctml:wikiDataId>
+    <ctml:latitude>23.78166000</ctml:latitude>
+    <ctml:longitude>121.39333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109017" kind="city">
+    <ctml:name>Kinmen</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Kinmen</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-KIN</ctml:parentRef>
+    <ctml:wikiDataId>Q249870</ctml:wikiDataId>
+    <ctml:latitude>24.45333000</ctml:latitude>
+    <ctml:longitude>118.38861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109018" kind="city">
+    <ctml:name>Lienchiang</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Lienchiang</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-LIE</ctml:parentRef>
+    <ctml:wikiDataId>Q249872</ctml:wikiDataId>
+    <ctml:latitude>26.37004000</ctml:latitude>
+    <ctml:longitude>120.49545000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TWN-109022" kind="admin2">
+    <ctml:name>Nangan</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Lienchiang</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-LIE</ctml:parentRef>
+    <ctml:wikiDataId>Q702125</ctml:wikiDataId>
+    <ctml:latitude>26.15039000</ctml:latitude>
+    <ctml:longitude>119.93284000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109021" kind="city">
+    <ctml:name>Miaoli</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Miaoli</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-MIA</ctml:parentRef>
+    <ctml:wikiDataId>Q63706</ctml:wikiDataId>
+    <ctml:latitude>24.48972000</ctml:latitude>
+    <ctml:longitude>120.90638000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109019" kind="city">
+    <ctml:name>Lugu</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Nantou</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-NAN</ctml:parentRef>
+    <ctml:wikiDataId>Q249872</ctml:wikiDataId>
+    <ctml:latitude>23.74639000</ctml:latitude>
+    <ctml:longitude>120.75250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109023" kind="city">
+    <ctml:name>Nantou</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Nantou</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-NAN</ctml:parentRef>
+    <ctml:wikiDataId>Q82357</ctml:wikiDataId>
+    <ctml:latitude>23.83419000</ctml:latitude>
+    <ctml:longitude>120.92704000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109027" kind="city">
+    <ctml:name>Puli</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Nantou</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-NAN</ctml:parentRef>
+    <ctml:wikiDataId>Q706544</ctml:wikiDataId>
+    <ctml:latitude>23.96639000</ctml:latitude>
+    <ctml:longitude>120.96952000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TWN-109020" kind="admin2">
+    <ctml:name>Magong</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Penghu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-PEN</ctml:parentRef>
+    <ctml:wikiDataId>Q701428</ctml:wikiDataId>
+    <ctml:latitude>23.56540000</ctml:latitude>
+    <ctml:longitude>119.58627000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109024" kind="city">
+    <ctml:name>Penghu</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Penghu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-PEN</ctml:parentRef>
+    <ctml:wikiDataId>Q198525</ctml:wikiDataId>
+    <ctml:latitude>23.57111000</ctml:latitude>
+    <ctml:longitude>119.61138000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109007" kind="city">
+    <ctml:name>Donggang</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Pingtung</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-PIF</ctml:parentRef>
+    <ctml:wikiDataId>Q166977</ctml:wikiDataId>
+    <ctml:latitude>22.46515000</ctml:latitude>
+    <ctml:longitude>120.44927000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109009" kind="city">
+    <ctml:name>Hengchun</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Pingtung</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-PIF</ctml:parentRef>
+    <ctml:wikiDataId>Q669566</ctml:wikiDataId>
+    <ctml:latitude>22.00417000</ctml:latitude>
+    <ctml:longitude>120.74389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109025" kind="city">
+    <ctml:name>Pingtung</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Pingtung</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-PIF</ctml:parentRef>
+    <ctml:wikiDataId>Q194989</ctml:wikiDataId>
+    <ctml:latitude>22.49555000</ctml:latitude>
+    <ctml:longitude>120.61444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TWN-109028" kind="admin2">
+    <ctml:name>Taichung</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Taichung</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-TXG</ctml:parentRef>
+    <ctml:wikiDataId>Q706544</ctml:wikiDataId>
+    <ctml:latitude>24.14690000</ctml:latitude>
+    <ctml:longitude>120.68390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TWN-109030" kind="admin2">
+    <ctml:name>Tainan</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Tainan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-TNN</ctml:parentRef>
+    <ctml:wikiDataId>Q140631</ctml:wikiDataId>
+    <ctml:latitude>22.99083000</ctml:latitude>
+    <ctml:longitude>120.21333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109039" kind="city">
+    <ctml:name>Yujing</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Tainan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-TNN</ctml:parentRef>
+    <ctml:wikiDataId>Q237258</ctml:wikiDataId>
+    <ctml:latitude>23.12493000</ctml:latitude>
+    <ctml:longitude>120.46138000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TWN-109002" kind="admin2">
+    <ctml:name>Banqiao</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Taipei</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-TPE</ctml:parentRef>
+    <ctml:wikiDataId>Q3394651</ctml:wikiDataId>
+    <ctml:latitude>25.01427000</ctml:latitude>
+    <ctml:longitude>121.46719000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109015" kind="city">
+    <ctml:name>Jiufen</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Taipei</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-TPE</ctml:parentRef>
+    <ctml:wikiDataId>Q31093</ctml:wikiDataId>
+    <ctml:latitude>25.10957000</ctml:latitude>
+    <ctml:longitude>121.84424000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109031" kind="city">
+    <ctml:name>Taipei</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Taipei</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-TPE</ctml:parentRef>
+    <ctml:wikiDataId>Q1867</ctml:wikiDataId>
+    <ctml:latitude>25.04776000</ctml:latitude>
+    <ctml:longitude>121.53185000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109033" kind="city">
+    <ctml:name>Taitung</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Taitung</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-TTT</ctml:parentRef>
+    <ctml:wikiDataId>Q249904</ctml:wikiDataId>
+    <ctml:latitude>22.88361000</ctml:latitude>
+    <ctml:longitude>121.04833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109006" kind="city">
+    <ctml:name>Daxi</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Taoyuan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-TAO</ctml:parentRef>
+    <ctml:wikiDataId>Q166977</ctml:wikiDataId>
+    <ctml:latitude>24.88373000</ctml:latitude>
+    <ctml:longitude>121.29043000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109035" kind="city">
+    <ctml:name>Taoyuan</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Taoyuan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-TAO</ctml:parentRef>
+    <ctml:wikiDataId>Q115256</ctml:wikiDataId>
+    <ctml:latitude>24.89500000</ctml:latitude>
+    <ctml:longitude>121.24611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109037" kind="city">
+    <ctml:name>Yilan</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Yilan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-ILA</ctml:parentRef>
+    <ctml:wikiDataId>Q237258</ctml:wikiDataId>
+    <ctml:latitude>24.54250000</ctml:latitude>
+    <ctml:longitude>121.63361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TWN-109008" kind="admin2">
+    <ctml:name>Douliu</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Yunlin</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-YUN</ctml:parentRef>
+    <ctml:wikiDataId>Q669566</ctml:wikiDataId>
+    <ctml:latitude>23.70944000</ctml:latitude>
+    <ctml:longitude>120.54333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TWN-109040" kind="city">
+    <ctml:name>Yunlin</ctml:name>
+    <ctml:country>TWN</ctml:country>
+    <ctml:admin1>Yunlin</ctml:admin1>
+    <ctml:parentRef>place:admin1:TW-YUN</ctml:parentRef>
+    <ctml:wikiDataId>Q153221</ctml:wikiDataId>
+    <ctml:latitude>23.70701000</ctml:latitude>
+    <ctml:longitude>120.38481000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

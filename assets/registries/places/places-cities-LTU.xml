@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:LTU-66592" kind="city">
+    <ctml:name>Daugai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Alytus</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-02</ctml:parentRef>
+    <ctml:wikiDataId>Q27485543</ctml:wikiDataId>
+    <ctml:latitude>54.36667000</ctml:latitude>
+    <ctml:longitude>24.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66593" kind="admin2">
+    <ctml:name>Druskininkai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Alytus</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1261509</ctml:wikiDataId>
+    <ctml:latitude>54.01573000</ctml:latitude>
+    <ctml:longitude>23.98703000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66630" kind="admin2">
+    <ctml:name>Lazdijai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Alytus</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-02</ctml:parentRef>
+    <ctml:wikiDataId>Q46786</ctml:wikiDataId>
+    <ctml:latitude>54.23333000</ctml:latitude>
+    <ctml:longitude>23.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66678" kind="city">
+    <ctml:name>Simnas</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Alytus</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1892074</ctml:wikiDataId>
+    <ctml:latitude>54.38200000</ctml:latitude>
+    <ctml:longitude>23.64600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66694" kind="admin2">
+    <ctml:name>Varėna</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Alytus</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-02</ctml:parentRef>
+    <ctml:wikiDataId>Q621181</ctml:wikiDataId>
+    <ctml:latitude>54.21667000</ctml:latitude>
+    <ctml:longitude>24.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66695" kind="city">
+    <ctml:name>Veisiejai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Alytus</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2044626</ctml:wikiDataId>
+    <ctml:latitude>54.10110000</ctml:latitude>
+    <ctml:longitude>23.69614000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66576" kind="city">
+    <ctml:name>Akademija (Kaunas)</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2869148</ctml:wikiDataId>
+    <ctml:latitude>54.89640000</ctml:latitude>
+    <ctml:longitude>23.82411000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66579" kind="city">
+    <ctml:name>Aleksotas</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1023041</ctml:wikiDataId>
+    <ctml:latitude>54.88037000</ctml:latitude>
+    <ctml:longitude>23.90842000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66584" kind="city">
+    <ctml:name>Ariogala</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1004320</ctml:wikiDataId>
+    <ctml:latitude>55.26200000</ctml:latitude>
+    <ctml:longitude>23.47700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66588" kind="city">
+    <ctml:name>Birštonas</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q804035</ctml:wikiDataId>
+    <ctml:latitude>54.61667000</ctml:latitude>
+    <ctml:longitude>24.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66591" kind="city">
+    <ctml:name>Dainava (Kaunas)</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q763504</ctml:wikiDataId>
+    <ctml:latitude>54.91525000</ctml:latitude>
+    <ctml:longitude>23.96831000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66595" kind="city">
+    <ctml:name>Eiguliai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2356406</ctml:wikiDataId>
+    <ctml:latitude>54.93133000</ctml:latitude>
+    <ctml:longitude>23.93243000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66598" kind="city">
+    <ctml:name>Ežerėlis</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2044597</ctml:wikiDataId>
+    <ctml:latitude>54.88315000</ctml:latitude>
+    <ctml:longitude>23.60396000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66601" kind="city">
+    <ctml:name>Garliava</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1004312</ctml:wikiDataId>
+    <ctml:latitude>54.82139000</ctml:latitude>
+    <ctml:longitude>23.87130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66605" kind="city">
+    <ctml:name>Jieznas</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q47068</ctml:wikiDataId>
+    <ctml:latitude>54.59937000</ctml:latitude>
+    <ctml:longitude>24.17593000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66606" kind="admin2">
+    <ctml:name>Jonava</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1351768</ctml:wikiDataId>
+    <ctml:latitude>55.08333000</ctml:latitude>
+    <ctml:longitude>24.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66611" kind="city">
+    <ctml:name>Kaišiadorys</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1260423</ctml:wikiDataId>
+    <ctml:latitude>54.86667000</ctml:latitude>
+    <ctml:longitude>24.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66614" kind="city">
+    <ctml:name>Karmėlava</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1734094</ctml:wikiDataId>
+    <ctml:latitude>54.97055000</ctml:latitude>
+    <ctml:longitude>24.06182000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66629" kind="admin2">
+    <ctml:name>Kėdainiai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q46786</ctml:wikiDataId>
+    <ctml:latitude>55.28333000</ctml:latitude>
+    <ctml:longitude>23.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66624" kind="city">
+    <ctml:name>Kulautuva</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2097414</ctml:wikiDataId>
+    <ctml:latitude>54.94212000</ctml:latitude>
+    <ctml:longitude>23.64218000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66636" kind="city">
+    <ctml:name>Mastaiciai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1351046</ctml:wikiDataId>
+    <ctml:latitude>54.81998000</ctml:latitude>
+    <ctml:longitude>23.84462000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66661" kind="admin2">
+    <ctml:name>Prienai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q768416</ctml:wikiDataId>
+    <ctml:latitude>54.63333000</ctml:latitude>
+    <ctml:longitude>23.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66664" kind="city">
+    <ctml:name>Ramučiai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q384446</ctml:wikiDataId>
+    <ctml:latitude>54.94830000</ctml:latitude>
+    <ctml:longitude>24.03050000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66666" kind="admin2">
+    <ctml:name>Raseiniai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2069355</ctml:wikiDataId>
+    <ctml:latitude>55.36667000</ctml:latitude>
+    <ctml:longitude>23.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66674" kind="city">
+    <ctml:name>Sargėnai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q157516</ctml:wikiDataId>
+    <ctml:latitude>54.94933000</ctml:latitude>
+    <ctml:longitude>23.88316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66714" kind="city">
+    <ctml:name>Šilainiai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1417346</ctml:wikiDataId>
+    <ctml:latitude>54.92911000</ctml:latitude>
+    <ctml:longitude>23.88599000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66701" kind="city">
+    <ctml:name>Vilkija</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1994818</ctml:wikiDataId>
+    <ctml:latitude>55.04609000</ctml:latitude>
+    <ctml:longitude>23.58552000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66723" kind="city">
+    <ctml:name>Žiežmariai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Kaunas</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-15</ctml:parentRef>
+    <ctml:wikiDataId>Q4178675</ctml:wikiDataId>
+    <ctml:latitude>54.80725000</ctml:latitude>
+    <ctml:longitude>24.44073000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66600" kind="city">
+    <ctml:name>Gargždai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Klaipėda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1390465</ctml:wikiDataId>
+    <ctml:latitude>55.70951000</ctml:latitude>
+    <ctml:longitude>21.39441000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66620" kind="city">
+    <ctml:name>Klaipėda</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Klaipėda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q776965</ctml:wikiDataId>
+    <ctml:latitude>55.71667000</ctml:latitude>
+    <ctml:longitude>21.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66622" kind="admin2">
+    <ctml:name>Kretinga</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Klaipėda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1788115</ctml:wikiDataId>
+    <ctml:latitude>55.88880000</ctml:latitude>
+    <ctml:longitude>21.24448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66644" kind="city">
+    <ctml:name>Neringa</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Klaipėda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q9305847</ctml:wikiDataId>
+    <ctml:latitude>55.36667000</ctml:latitude>
+    <ctml:longitude>21.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66645" kind="admin2">
+    <ctml:name>Nida</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Klaipėda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1004306</ctml:wikiDataId>
+    <ctml:latitude>55.30860000</ctml:latitude>
+    <ctml:longitude>20.99651000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66650" kind="city">
+    <ctml:name>Palanga</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Klaipėda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2047414</ctml:wikiDataId>
+    <ctml:latitude>55.91750000</ctml:latitude>
+    <ctml:longitude>21.06861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66660" kind="city">
+    <ctml:name>Priekulė</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Klaipėda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q768416</ctml:wikiDataId>
+    <ctml:latitude>55.55427000</ctml:latitude>
+    <ctml:longitude>21.31903000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66670" kind="city">
+    <ctml:name>Rusnė</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Klaipėda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q712011</ctml:wikiDataId>
+    <ctml:latitude>55.29820000</ctml:latitude>
+    <ctml:longitude>21.37120000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66673" kind="city">
+    <ctml:name>Salantai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Klaipėda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q157516</ctml:wikiDataId>
+    <ctml:latitude>56.05650000</ctml:latitude>
+    <ctml:longitude>21.56890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66677" kind="city">
+    <ctml:name>Silute</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Klaipėda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q391626</ctml:wikiDataId>
+    <ctml:latitude>55.34889000</ctml:latitude>
+    <ctml:longitude>21.48306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66681" kind="admin2">
+    <ctml:name>Skuodas</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Klaipėda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q5247193</ctml:wikiDataId>
+    <ctml:latitude>56.26667000</ctml:latitude>
+    <ctml:longitude>21.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66718" kind="city">
+    <ctml:name>Šventoji</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Klaipėda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1417346</ctml:wikiDataId>
+    <ctml:latitude>56.02610000</ctml:latitude>
+    <ctml:longitude>21.08411000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66722" kind="city">
+    <ctml:name>Žemaičių Naumiestis</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Klaipėda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q393828</ctml:wikiDataId>
+    <ctml:latitude>55.35941000</ctml:latitude>
+    <ctml:longitude>21.70364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66602" kind="city">
+    <ctml:name>Gelgaudiškis</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Marijampolė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-25</ctml:parentRef>
+    <ctml:wikiDataId>Q3284738</ctml:wikiDataId>
+    <ctml:latitude>55.07688000</ctml:latitude>
+    <ctml:longitude>22.97699000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66612" kind="city">
+    <ctml:name>Kalvarija</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Marijampolė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1004298</ctml:wikiDataId>
+    <ctml:latitude>54.41700000</ctml:latitude>
+    <ctml:longitude>23.22300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66613" kind="city">
+    <ctml:name>Kalvarija Municipality</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Marijampolė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1461987</ctml:wikiDataId>
+    <ctml:latitude>54.41468000</ctml:latitude>
+    <ctml:longitude>23.22484000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66617" kind="city">
+    <ctml:name>Kazlų Rūda</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Marijampolė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-25</ctml:parentRef>
+    <ctml:wikiDataId>Q945473</ctml:wikiDataId>
+    <ctml:latitude>54.74900000</ctml:latitude>
+    <ctml:longitude>23.49000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66618" kind="city">
+    <ctml:name>Kazlų Rūda Municipality</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Marijampolė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1461972</ctml:wikiDataId>
+    <ctml:latitude>54.74751000</ctml:latitude>
+    <ctml:longitude>23.49272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66623" kind="city">
+    <ctml:name>Kudirkos Naumiestis</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Marijampolė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-25</ctml:parentRef>
+    <ctml:wikiDataId>Q277936</ctml:wikiDataId>
+    <ctml:latitude>54.77353000</ctml:latitude>
+    <ctml:longitude>22.86138000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66628" kind="city">
+    <ctml:name>Kybartai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Marijampolė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1004295</ctml:wikiDataId>
+    <ctml:latitude>54.63858000</ctml:latitude>
+    <ctml:longitude>22.76316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66635" kind="city">
+    <ctml:name>Marijampolė Municipality</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Marijampolė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1351046</ctml:wikiDataId>
+    <ctml:latitude>54.56667000</ctml:latitude>
+    <ctml:longitude>23.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66672" kind="admin2">
+    <ctml:name>Sakiai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Marijampolė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-25</ctml:parentRef>
+    <ctml:wikiDataId>Q58790</ctml:wikiDataId>
+    <ctml:latitude>54.95000000</ctml:latitude>
+    <ctml:longitude>23.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66699" kind="admin2">
+    <ctml:name>Vilkaviskis</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Marijampolė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1004332</ctml:wikiDataId>
+    <ctml:latitude>54.65167000</ctml:latitude>
+    <ctml:longitude>23.03222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66700" kind="city">
+    <ctml:name>Vilkaviškis District Municipality</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Marijampolė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1004332</ctml:wikiDataId>
+    <ctml:latitude>54.65000000</ctml:latitude>
+    <ctml:longitude>23.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66705" kind="city">
+    <ctml:name>Virbalis</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Marijampolė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1024673</ctml:wikiDataId>
+    <ctml:latitude>54.62858000</ctml:latitude>
+    <ctml:longitude>22.82272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66587" kind="city">
+    <ctml:name>Birzai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Panevėžys</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-33</ctml:parentRef>
+    <ctml:wikiDataId>Q804035</ctml:wikiDataId>
+    <ctml:latitude>56.20000000</ctml:latitude>
+    <ctml:longitude>24.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66608" kind="city">
+    <ctml:name>Juodupė</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Panevėžys</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-33</ctml:parentRef>
+    <ctml:wikiDataId>Q6314474</ctml:wikiDataId>
+    <ctml:latitude>56.08700000</ctml:latitude>
+    <ctml:longitude>25.60700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66625" kind="admin2">
+    <ctml:name>Kupiskis</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Panevėžys</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-33</ctml:parentRef>
+    <ctml:wikiDataId>Q27484028</ctml:wikiDataId>
+    <ctml:latitude>55.84027000</ctml:latitude>
+    <ctml:longitude>24.97976000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66646" kind="city">
+    <ctml:name>Obeliai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Panevėžys</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-33</ctml:parentRef>
+    <ctml:wikiDataId>Q1004306</ctml:wikiDataId>
+    <ctml:latitude>55.96895000</ctml:latitude>
+    <ctml:longitude>25.15648000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66653" kind="city">
+    <ctml:name>Panevėžys District Municipality</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Panevėžys</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-33</ctml:parentRef>
+    <ctml:wikiDataId>Q1351758</ctml:wikiDataId>
+    <ctml:latitude>55.73301000</ctml:latitude>
+    <ctml:longitude>24.37609000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66654" kind="admin2">
+    <ctml:name>Pasvalys</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Panevėžys</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-33</ctml:parentRef>
+    <ctml:wikiDataId>Q1351758</ctml:wikiDataId>
+    <ctml:latitude>56.06667000</ctml:latitude>
+    <ctml:longitude>24.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66665" kind="city">
+    <ctml:name>Ramygala</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Panevėžys</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-33</ctml:parentRef>
+    <ctml:wikiDataId>Q2089619</ctml:wikiDataId>
+    <ctml:latitude>55.51400000</ctml:latitude>
+    <ctml:longitude>24.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66669" kind="admin2">
+    <ctml:name>Rokiškis</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Panevėžys</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-33</ctml:parentRef>
+    <ctml:wikiDataId>Q712011</ctml:wikiDataId>
+    <ctml:latitude>55.96667000</ctml:latitude>
+    <ctml:longitude>25.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66692" kind="city">
+    <ctml:name>Vabalninkas</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Panevėžys</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-33</ctml:parentRef>
+    <ctml:wikiDataId>Q2000579</ctml:wikiDataId>
+    <ctml:latitude>55.98151000</ctml:latitude>
+    <ctml:longitude>24.74828000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66577" kind="admin2">
+    <ctml:name>Akmenė</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Šiauliai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-43</ctml:parentRef>
+    <ctml:wikiDataId>Q27485851</ctml:wikiDataId>
+    <ctml:latitude>56.25000000</ctml:latitude>
+    <ctml:longitude>22.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66607" kind="admin2">
+    <ctml:name>Joniškis</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Šiauliai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-43</ctml:parentRef>
+    <ctml:wikiDataId>Q1351768</ctml:wikiDataId>
+    <ctml:latitude>56.23333000</ctml:latitude>
+    <ctml:longitude>23.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66619" kind="admin2">
+    <ctml:name>Kelmė</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Šiauliai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-43</ctml:parentRef>
+    <ctml:wikiDataId>Q1461972</ctml:wikiDataId>
+    <ctml:latitude>55.63333000</ctml:latitude>
+    <ctml:longitude>22.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66627" kind="city">
+    <ctml:name>Kuršėnai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Šiauliai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-43</ctml:parentRef>
+    <ctml:wikiDataId>Q835856</ctml:wikiDataId>
+    <ctml:latitude>56.00318000</ctml:latitude>
+    <ctml:longitude>22.93662000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66633" kind="city">
+    <ctml:name>Linkuva</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Šiauliai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-43</ctml:parentRef>
+    <ctml:wikiDataId>Q1656462</ctml:wikiDataId>
+    <ctml:latitude>56.08596000</ctml:latitude>
+    <ctml:longitude>23.97061000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66642" kind="city">
+    <ctml:name>Naujoji Akmene</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Šiauliai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-43</ctml:parentRef>
+    <ctml:wikiDataId>Q835848</ctml:wikiDataId>
+    <ctml:latitude>56.31667000</ctml:latitude>
+    <ctml:longitude>22.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66649" kind="admin2">
+    <ctml:name>Pakruojis</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Šiauliai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-43</ctml:parentRef>
+    <ctml:wikiDataId>Q1657116</ctml:wikiDataId>
+    <ctml:latitude>55.96667000</ctml:latitude>
+    <ctml:longitude>23.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66662" kind="city">
+    <ctml:name>Radviliskis</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Šiauliai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-43</ctml:parentRef>
+    <ctml:wikiDataId>Q318686</ctml:wikiDataId>
+    <ctml:latitude>55.81667000</ctml:latitude>
+    <ctml:longitude>23.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66710" kind="city">
+    <ctml:name>Šeduva</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Šiauliai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-43</ctml:parentRef>
+    <ctml:wikiDataId>Q2356396</ctml:wikiDataId>
+    <ctml:latitude>55.74930000</ctml:latitude>
+    <ctml:longitude>23.75610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66688" kind="city">
+    <ctml:name>Tytuvėnėliai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Šiauliai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-43</ctml:parentRef>
+    <ctml:wikiDataId>Q191015</ctml:wikiDataId>
+    <ctml:latitude>55.62345000</ctml:latitude>
+    <ctml:longitude>23.17162000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66696" kind="city">
+    <ctml:name>Venta</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Šiauliai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-43</ctml:parentRef>
+    <ctml:wikiDataId>Q1104010</ctml:wikiDataId>
+    <ctml:latitude>56.19162000</ctml:latitude>
+    <ctml:longitude>22.69528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66721" kind="city">
+    <ctml:name>Žagarė</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Šiauliai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-43</ctml:parentRef>
+    <ctml:wikiDataId>Q393332</ctml:wikiDataId>
+    <ctml:latitude>56.36149000</ctml:latitude>
+    <ctml:longitude>23.25094000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66590" kind="city">
+    <ctml:name>Būgai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Tauragė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q763504</ctml:wikiDataId>
+    <ctml:latitude>55.41387000</ctml:latitude>
+    <ctml:longitude>22.60894000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66609" kind="city">
+    <ctml:name>Jurbarkas</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Tauragė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q2089815</ctml:wikiDataId>
+    <ctml:latitude>55.10859000</ctml:latitude>
+    <ctml:longitude>22.79885000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66648" kind="admin2">
+    <ctml:name>Pagėgiai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Tauragė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q2283574</ctml:wikiDataId>
+    <ctml:latitude>55.13400000</ctml:latitude>
+    <ctml:longitude>21.90446000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66715" kind="admin2">
+    <ctml:name>Šilalė</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Tauragė</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q1417346</ctml:wikiDataId>
+    <ctml:latitude>55.46667000</ctml:latitude>
+    <ctml:longitude>22.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66637" kind="city">
+    <ctml:name>Mazeikiai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Telšiai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-51</ctml:parentRef>
+    <ctml:wikiDataId>Q27484102</ctml:wikiDataId>
+    <ctml:latitude>56.31667000</ctml:latitude>
+    <ctml:longitude>22.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66657" kind="city">
+    <ctml:name>Plateliai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Telšiai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-51</ctml:parentRef>
+    <ctml:wikiDataId>Q1028246</ctml:wikiDataId>
+    <ctml:latitude>56.04657000</ctml:latitude>
+    <ctml:longitude>21.81615000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66658" kind="city">
+    <ctml:name>Plunge</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Telšiai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-51</ctml:parentRef>
+    <ctml:wikiDataId>Q977255</ctml:wikiDataId>
+    <ctml:latitude>55.91139000</ctml:latitude>
+    <ctml:longitude>21.84417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66668" kind="admin2">
+    <ctml:name>Rietavas</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Telšiai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-51</ctml:parentRef>
+    <ctml:wikiDataId>Q712011</ctml:wikiDataId>
+    <ctml:latitude>55.72375000</ctml:latitude>
+    <ctml:longitude>21.93266000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66675" kind="city">
+    <ctml:name>Seda</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Telšiai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-51</ctml:parentRef>
+    <ctml:wikiDataId>Q394756</ctml:wikiDataId>
+    <ctml:latitude>56.16854000</ctml:latitude>
+    <ctml:longitude>22.09071000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66693" kind="city">
+    <ctml:name>Varniai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Telšiai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-51</ctml:parentRef>
+    <ctml:wikiDataId>Q621181</ctml:wikiDataId>
+    <ctml:latitude>55.74435000</ctml:latitude>
+    <ctml:longitude>22.37251000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66697" kind="city">
+    <ctml:name>Viekšniai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Telšiai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-51</ctml:parentRef>
+    <ctml:wikiDataId>Q379669</ctml:wikiDataId>
+    <ctml:latitude>56.23598000</ctml:latitude>
+    <ctml:longitude>22.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66582" kind="city">
+    <ctml:name>Anyksciai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Utena</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-UT</ctml:parentRef>
+    <ctml:wikiDataId>Q27485494</ctml:wikiDataId>
+    <ctml:latitude>55.52557000</ctml:latitude>
+    <ctml:longitude>25.10264000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66594" kind="city">
+    <ctml:name>Dūkštas</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Utena</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-UT</ctml:parentRef>
+    <ctml:wikiDataId>Q2356406</ctml:wikiDataId>
+    <ctml:latitude>55.52200000</ctml:latitude>
+    <ctml:longitude>26.32100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66604" kind="admin2">
+    <ctml:name>Ignalina</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Utena</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-UT</ctml:parentRef>
+    <ctml:wikiDataId>Q950639</ctml:wikiDataId>
+    <ctml:latitude>55.35000000</ctml:latitude>
+    <ctml:longitude>26.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66639" kind="admin2">
+    <ctml:name>Moletai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Utena</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-UT</ctml:parentRef>
+    <ctml:wikiDataId>Q2089785</ctml:wikiDataId>
+    <ctml:latitude>55.23333000</ctml:latitude>
+    <ctml:longitude>25.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66706" kind="city">
+    <ctml:name>Visaginas</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Utena</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-UT</ctml:parentRef>
+    <ctml:wikiDataId>Q203892</ctml:wikiDataId>
+    <ctml:latitude>55.60000000</ctml:latitude>
+    <ctml:longitude>26.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66707" kind="admin2">
+    <ctml:name>Zarasai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Utena</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-UT</ctml:parentRef>
+    <ctml:wikiDataId>Q203892</ctml:wikiDataId>
+    <ctml:latitude>55.73333000</ctml:latitude>
+    <ctml:longitude>26.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66585" kind="city">
+    <ctml:name>Aukstadvaris</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q2667459</ctml:wikiDataId>
+    <ctml:latitude>54.57946000</ctml:latitude>
+    <ctml:longitude>24.52683000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66586" kind="city">
+    <ctml:name>Baltoji Vokė</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q2667459</ctml:wikiDataId>
+    <ctml:latitude>54.60002000</ctml:latitude>
+    <ctml:longitude>25.19318000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66596" kind="city">
+    <ctml:name>Eišiškės</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q58880</ctml:wikiDataId>
+    <ctml:latitude>54.17414000</ctml:latitude>
+    <ctml:longitude>24.99917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66597" kind="city">
+    <ctml:name>Elektrėnai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q286554</ctml:wikiDataId>
+    <ctml:latitude>54.78544000</ctml:latitude>
+    <ctml:longitude>24.66302000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66599" kind="city">
+    <ctml:name>Fabijoniškės</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q1390465</ctml:wikiDataId>
+    <ctml:latitude>54.73333000</ctml:latitude>
+    <ctml:longitude>25.24167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66603" kind="city">
+    <ctml:name>Grigiškės</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q950639</ctml:wikiDataId>
+    <ctml:latitude>54.68333000</ctml:latitude>
+    <ctml:longitude>25.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66610" kind="city">
+    <ctml:name>Justiniškės</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q1260423</ctml:wikiDataId>
+    <ctml:latitude>54.71664000</ctml:latitude>
+    <ctml:longitude>25.21740000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66631" kind="city">
+    <ctml:name>Lazdynai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q1646619</ctml:wikiDataId>
+    <ctml:latitude>54.66815000</ctml:latitude>
+    <ctml:longitude>25.20684000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66632" kind="city">
+    <ctml:name>Lentvaris</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q923393</ctml:wikiDataId>
+    <ctml:latitude>54.64364000</ctml:latitude>
+    <ctml:longitude>25.05162000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66641" kind="city">
+    <ctml:name>Naujamiestis</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q957530</ctml:wikiDataId>
+    <ctml:latitude>54.67951000</ctml:latitude>
+    <ctml:longitude>25.26855000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66643" kind="city">
+    <ctml:name>Nemenčinė</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q118910</ctml:wikiDataId>
+    <ctml:latitude>54.84776000</ctml:latitude>
+    <ctml:longitude>25.46992000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66647" kind="city">
+    <ctml:name>Pabradė</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q1004328</ctml:wikiDataId>
+    <ctml:latitude>54.98100000</ctml:latitude>
+    <ctml:longitude>25.76100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66655" kind="city">
+    <ctml:name>Pašilaičiai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q1351758</ctml:wikiDataId>
+    <ctml:latitude>54.73429000</ctml:latitude>
+    <ctml:longitude>25.21912000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66656" kind="city">
+    <ctml:name>Pilaitė</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q1351758</ctml:wikiDataId>
+    <ctml:latitude>54.69981000</ctml:latitude>
+    <ctml:longitude>25.18393000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66667" kind="city">
+    <ctml:name>Rasos</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q2094071</ctml:wikiDataId>
+    <ctml:latitude>54.67877000</ctml:latitude>
+    <ctml:longitude>25.31173000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66671" kind="city">
+    <ctml:name>Rūdiškės</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q58790</ctml:wikiDataId>
+    <ctml:latitude>54.51609000</ctml:latitude>
+    <ctml:longitude>24.83084000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66709" kind="admin2">
+    <ctml:name>Šalčininkai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q203892</ctml:wikiDataId>
+    <ctml:latitude>54.30000000</ctml:latitude>
+    <ctml:longitude>25.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66676" kind="city">
+    <ctml:name>Senieji Trakai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q3446896</ctml:wikiDataId>
+    <ctml:latitude>54.60900000</ctml:latitude>
+    <ctml:longitude>24.98000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66711" kind="city">
+    <ctml:name>Šeškinė</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q2455066</ctml:wikiDataId>
+    <ctml:latitude>54.70972000</ctml:latitude>
+    <ctml:longitude>25.25053000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LTU-66679" kind="admin2">
+    <ctml:name>Sirvintos</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q1892074</ctml:wikiDataId>
+    <ctml:latitude>55.05000000</ctml:latitude>
+    <ctml:longitude>24.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66680" kind="city">
+    <ctml:name>Skaidiškės</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q5247193</ctml:wikiDataId>
+    <ctml:latitude>54.61398000</ctml:latitude>
+    <ctml:longitude>25.39573000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66720" kind="city">
+    <ctml:name>Švenčionėliai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q392772</ctml:wikiDataId>
+    <ctml:latitude>55.16163000</ctml:latitude>
+    <ctml:longitude>26.00177000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66682" kind="city">
+    <ctml:name>Svencionys</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q5247193</ctml:wikiDataId>
+    <ctml:latitude>55.15000000</ctml:latitude>
+    <ctml:longitude>26.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66687" kind="city">
+    <ctml:name>Trakai</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q191015</ctml:wikiDataId>
+    <ctml:latitude>54.63783000</ctml:latitude>
+    <ctml:longitude>24.93433000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66689" kind="city">
+    <ctml:name>Ukmerge</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q213127</ctml:wikiDataId>
+    <ctml:latitude>55.25000000</ctml:latitude>
+    <ctml:longitude>24.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66698" kind="city">
+    <ctml:name>Vievis</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q1004332</ctml:wikiDataId>
+    <ctml:latitude>54.76667000</ctml:latitude>
+    <ctml:longitude>24.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66702" kind="city">
+    <ctml:name>Vilkpėdė</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q2577081</ctml:wikiDataId>
+    <ctml:latitude>54.66969000</ctml:latitude>
+    <ctml:longitude>25.24770000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66703" kind="city">
+    <ctml:name>Vilnius</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q216</ctml:wikiDataId>
+    <ctml:latitude>54.68916000</ctml:latitude>
+    <ctml:longitude>25.27980000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LTU-66704" kind="city">
+    <ctml:name>Vilnius District Municipality</ctml:name>
+    <ctml:country>LTU</ctml:country>
+    <ctml:admin1>Vilnius</ctml:admin1>
+    <ctml:parentRef>place:admin1:LT-57</ctml:parentRef>
+    <ctml:wikiDataId>Q118903</ctml:wikiDataId>
+    <ctml:latitude>54.73333000</ctml:latitude>
+    <ctml:longitude>25.38333000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,3450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:LCA-65969" kind="city">
+    <ctml:name>Au Tabor</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.94540000</ctml:latitude>
+    <ctml:longitude>-61.04112000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65970" kind="city">
+    <ctml:name>Au Tabor Hill</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.94457000</ctml:latitude>
+    <ctml:longitude>-61.03559000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66037" kind="city">
+    <ctml:name>Caico/Millet</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.91948000</ctml:latitude>
+    <ctml:longitude>-60.99264000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66040" kind="city">
+    <ctml:name>Canaries</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1032796</ctml:wikiDataId>
+    <ctml:latitude>13.90224000</ctml:latitude>
+    <ctml:longitude>-61.06459000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66112" kind="city">
+    <ctml:name>Derriere Lagoon</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.94168000</ctml:latitude>
+    <ctml:longitude>-61.01891000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66128" kind="city">
+    <ctml:name>Durandeau</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.92277000</ctml:latitude>
+    <ctml:longitude>-60.99512000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66132" kind="city">
+    <ctml:name>Enbar Pwin</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.91175000</ctml:latitude>
+    <ctml:longitude>-60.99266000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66198" kind="city">
+    <ctml:name>Jacmel</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.94796000</ctml:latitude>
+    <ctml:longitude>-61.01297000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66231" kind="city">
+    <ctml:name>La Trielle</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.94014000</ctml:latitude>
+    <ctml:longitude>-60.99729000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66260" kind="city">
+    <ctml:name>Massacre</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.94872000</ctml:latitude>
+    <ctml:longitude>-61.03544000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66266" kind="city">
+    <ctml:name>Millet</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.90985000</ctml:latitude>
+    <ctml:longitude>-60.98884000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66296" kind="city">
+    <ctml:name>Morne D'Or</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.94931000</ctml:latitude>
+    <ctml:longitude>-61.00601000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66381" kind="city">
+    <ctml:name>St Lawrence</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.93852000</ctml:latitude>
+    <ctml:longitude>-61.02503000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66382" kind="city">
+    <ctml:name>St Lawrence Estate</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.94236000</ctml:latitude>
+    <ctml:longitude>-61.04248000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66392" kind="city">
+    <ctml:name>Tete Chemin</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.89092000</ctml:latitude>
+    <ctml:longitude>-60.99785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66416" kind="city">
+    <ctml:name>Vanard</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.93558000</ctml:latitude>
+    <ctml:longitude>-60.99363000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66427" kind="city">
+    <ctml:name>Village</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3494579</ctml:wikiDataId>
+    <ctml:latitude>13.93939000</ctml:latitude>
+    <ctml:longitude>-61.04150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66429" kind="city">
+    <ctml:name>Village/Petite Bourgh</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Anse la Raye</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3494579</ctml:wikiDataId>
+    <ctml:latitude>13.93801000</ctml:latitude>
+    <ctml:longitude>-61.04184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65966" kind="city">
+    <ctml:name>Anse La Verdue</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Canaries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-12</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.90964000</ctml:latitude>
+    <ctml:longitude>-61.04755000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66006" kind="city">
+    <ctml:name>Belvedere</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Canaries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-12</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.89122000</ctml:latitude>
+    <ctml:longitude>-61.05550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66063" kind="city">
+    <ctml:name>Chalon</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Canaries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-12</ctml:parentRef>
+    <ctml:wikiDataId>Q41699</ctml:wikiDataId>
+    <ctml:latitude>13.92018000</ctml:latitude>
+    <ctml:longitude>-61.04412000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66359" kind="city">
+    <ctml:name>Riverside Road</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Canaries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-12</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.89408000</ctml:latitude>
+    <ctml:longitude>-61.04989000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66397" kind="city">
+    <ctml:name>Theodrine</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Canaries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-12</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.92878000</ctml:latitude>
+    <ctml:longitude>-61.04972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66428" kind="city">
+    <ctml:name>Village</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Canaries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-12</ctml:parentRef>
+    <ctml:wikiDataId>Q3494579</ctml:wikiDataId>
+    <ctml:latitude>13.90526000</ctml:latitude>
+    <ctml:longitude>-61.06108000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65956" kind="city">
+    <ctml:name>Active Hill</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q26569</ctml:wikiDataId>
+    <ctml:latitude>14.01940000</ctml:latitude>
+    <ctml:longitude>-60.97767000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65957" kind="city">
+    <ctml:name>Agard Lands/Morne Dudon</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q26569</ctml:wikiDataId>
+    <ctml:latitude>14.00768000</ctml:latitude>
+    <ctml:longitude>-60.96462000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65958" kind="city">
+    <ctml:name>Almondale</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q26569</ctml:wikiDataId>
+    <ctml:latitude>14.01848000</ctml:latitude>
+    <ctml:longitude>-60.96162000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65972" kind="city">
+    <ctml:name>Aurendel Hill</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.00069000</ctml:latitude>
+    <ctml:longitude>-60.98670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65973" kind="city">
+    <ctml:name>Babonneau Proper</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.00535000</ctml:latitude>
+    <ctml:longitude>-60.94640000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65974" kind="city">
+    <ctml:name>Bagatelle</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.99797000</ctml:latitude>
+    <ctml:longitude>-60.98156000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65975" kind="city">
+    <ctml:name>Balata</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.01471000</ctml:latitude>
+    <ctml:longitude>-60.95167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65979" kind="city">
+    <ctml:name>Banannes Bay</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.01087000</ctml:latitude>
+    <ctml:longitude>-61.00135000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65983" kind="city">
+    <ctml:name>Barnard Hill</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.01423000</ctml:latitude>
+    <ctml:longitude>-60.98924000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65985" kind="city">
+    <ctml:name>Barre Denis</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.96809000</ctml:latitude>
+    <ctml:longitude>-60.99073000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65986" kind="city">
+    <ctml:name>Barre Duchaussee</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.96190000</ctml:latitude>
+    <ctml:longitude>-60.99678000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65987" kind="city">
+    <ctml:name>Barre St.Joseph</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.97247000</ctml:latitude>
+    <ctml:longitude>-61.01829000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65996" kind="city">
+    <ctml:name>Belair</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.95283000</ctml:latitude>
+    <ctml:longitude>-60.99747000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65998" kind="city">
+    <ctml:name>Bella Rosa</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.00777000</ctml:latitude>
+    <ctml:longitude>-60.99628000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66008" kind="city">
+    <ctml:name>Bexon</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.96077000</ctml:latitude>
+    <ctml:longitude>-60.97497000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66009" kind="city">
+    <ctml:name>Bisee</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.02429000</ctml:latitude>
+    <ctml:longitude>-60.97445000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66010" kind="city">
+    <ctml:name>Bishop'S Gap</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.00019000</ctml:latitude>
+    <ctml:longitude>-60.98498000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66011" kind="city">
+    <ctml:name>Bissee</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.02255000</ctml:latitude>
+    <ctml:longitude>-60.97489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66013" kind="city">
+    <ctml:name>Black Mallet</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.00457000</ctml:latitude>
+    <ctml:longitude>-60.98811000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66015" kind="city">
+    <ctml:name>Bocage</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.00199000</ctml:latitude>
+    <ctml:longitude>-60.96954000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66018" kind="city">
+    <ctml:name>Bois Catchet</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.00399000</ctml:latitude>
+    <ctml:longitude>-60.99437000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66025" kind="city">
+    <ctml:name>Bois Patat</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.00892000</ctml:latitude>
+    <ctml:longitude>-60.98214000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66033" kind="city">
+    <ctml:name>Cabiche/Babonneau</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.00583000</ctml:latitude>
+    <ctml:longitude>-60.95432000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66035" kind="city">
+    <ctml:name>Cacoa/Babonneau</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.98875000</ctml:latitude>
+    <ctml:longitude>-60.95113000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66038" kind="city">
+    <ctml:name>Calvary</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.01391000</ctml:latitude>
+    <ctml:longitude>-60.98664000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66052" kind="city">
+    <ctml:name>Capital Hill</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1032796</ctml:wikiDataId>
+    <ctml:latitude>13.99307000</ctml:latitude>
+    <ctml:longitude>-60.99097000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66053" kind="city">
+    <ctml:name>Carellie</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1032796</ctml:wikiDataId>
+    <ctml:latitude>14.01889000</ctml:latitude>
+    <ctml:longitude>-60.96851000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66056" kind="city">
+    <ctml:name>Castries</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q41699</ctml:wikiDataId>
+    <ctml:latitude>13.99570000</ctml:latitude>
+    <ctml:longitude>-61.00614000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66060" kind="city">
+    <ctml:name>Cedars</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q41699</ctml:wikiDataId>
+    <ctml:latitude>14.00601000</ctml:latitude>
+    <ctml:longitude>-60.98232000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66065" kind="city">
+    <ctml:name>Chase Gardens</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q41699</ctml:wikiDataId>
+    <ctml:latitude>14.01481000</ctml:latitude>
+    <ctml:longitude>-60.97395000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66070" kind="city">
+    <ctml:name>Choppin Ridge/Sarot</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.95597000</ctml:latitude>
+    <ctml:longitude>-60.98624000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66072" kind="city">
+    <ctml:name>Ciceron</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.99296000</ctml:latitude>
+    <ctml:longitude>-61.00878000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66073" kind="city">
+    <ctml:name>City</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.00946000</ctml:latitude>
+    <ctml:longitude>-60.99027000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66074" kind="city">
+    <ctml:name>City Gate/La Clery</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.02124000</ctml:latitude>
+    <ctml:longitude>-60.98149000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66078" kind="city">
+    <ctml:name>Conway/Waterfront</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.01389000</ctml:latitude>
+    <ctml:longitude>-60.99055000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66080" kind="city">
+    <ctml:name>Coolie Town</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.95684000</ctml:latitude>
+    <ctml:longitude>-61.01437000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66085" kind="city">
+    <ctml:name>Coubaril</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.00223000</ctml:latitude>
+    <ctml:longitude>-61.00919000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66087" kind="city">
+    <ctml:name>Crownlands/Marc</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.95174000</ctml:latitude>
+    <ctml:longitude>-60.97150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66091" kind="city">
+    <ctml:name>Darling Road</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.01355000</ctml:latitude>
+    <ctml:longitude>-60.98779000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66095" kind="city">
+    <ctml:name>Deglos</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.97727000</ctml:latitude>
+    <ctml:longitude>-60.97329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66106" kind="city">
+    <ctml:name>Derierre Fort/Old Victoria Road</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.99474000</ctml:latitude>
+    <ctml:longitude>-60.98513000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66124" kind="city">
+    <ctml:name>Dubrassay</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.98382000</ctml:latitude>
+    <ctml:longitude>-60.97154000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66131" kind="city">
+    <ctml:name>En Pois Doux/Babonneau</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.98853000</ctml:latitude>
+    <ctml:longitude>-60.94099000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66133" kind="city">
+    <ctml:name>Entrepot</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.99978000</ctml:latitude>
+    <ctml:longitude>-60.97953000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66139" kind="city">
+    <ctml:name>Faux A Chaud</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.00878000</ctml:latitude>
+    <ctml:longitude>-60.99558000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66140" kind="city">
+    <ctml:name>Ferrand</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.98684000</ctml:latitude>
+    <ctml:longitude>-60.98494000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66141" kind="city">
+    <ctml:name>Floissac/Marc</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.96283000</ctml:latitude>
+    <ctml:longitude>-60.95880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66146" kind="city">
+    <ctml:name>Fond Canie</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.99195000</ctml:latitude>
+    <ctml:longitude>-60.95954000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66154" kind="city">
+    <ctml:name>Forestiere</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.97775000</ctml:latitude>
+    <ctml:longitude>-60.95766000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66160" kind="city">
+    <ctml:name>George Charles Boulevard</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.00499000</ctml:latitude>
+    <ctml:longitude>-60.98673000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66162" kind="city">
+    <ctml:name>Girard</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.00004000</ctml:latitude>
+    <ctml:longitude>-60.95960000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66164" kind="city">
+    <ctml:name>Goergeville</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.01311000</ctml:latitude>
+    <ctml:longitude>-60.98446000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66166" kind="city">
+    <ctml:name>Goodlands</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.99121000</ctml:latitude>
+    <ctml:longitude>-60.99840000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66182" kind="city">
+    <ctml:name>Grass Street</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.00706000</ctml:latitude>
+    <ctml:longitude>-60.98763000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66183" kind="city">
+    <ctml:name>Green Gold</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.99603000</ctml:latitude>
+    <ctml:longitude>-60.95284000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66187" kind="city">
+    <ctml:name>Guesneau</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.99084000</ctml:latitude>
+    <ctml:longitude>-60.96486000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66190" kind="city">
+    <ctml:name>Hill 20/Babonneau</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.99941000</ctml:latitude>
+    <ctml:longitude>-60.94988000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66191" kind="city">
+    <ctml:name>Hillcrest Gardens</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>14.01115000</ctml:latitude>
+    <ctml:longitude>-60.97083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66194" kind="city">
+    <ctml:name>Hospital Road</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>14.00914000</ctml:latitude>
+    <ctml:longitude>-60.99906000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66195" kind="city">
+    <ctml:name>Independence City</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>14.00199000</ctml:latitude>
+    <ctml:longitude>-60.97879000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66201" kind="city">
+    <ctml:name>John Compton Highway</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>14.01909000</ctml:latitude>
+    <ctml:longitude>-60.99110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66204" kind="city">
+    <ctml:name>L'Anse Road</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>14.01875000</ctml:latitude>
+    <ctml:longitude>-60.98799000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66207" kind="city">
+    <ctml:name>La Carierre</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>14.01806000</ctml:latitude>
+    <ctml:longitude>-60.98723000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66209" kind="city">
+    <ctml:name>La Clery</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>14.01846000</ctml:latitude>
+    <ctml:longitude>-60.98422000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66212" kind="city">
+    <ctml:name>La Croix Maingot</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.96569000</ctml:latitude>
+    <ctml:longitude>-61.00582000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66218" kind="city">
+    <ctml:name>La Pansee</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>14.01368000</ctml:latitude>
+    <ctml:longitude>-60.98187000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66229" kind="city">
+    <ctml:name>La Toc</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>14.00824000</ctml:latitude>
+    <ctml:longitude>-61.00404000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66232" kind="city">
+    <ctml:name>Labayee</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.94044000</ctml:latitude>
+    <ctml:longitude>-60.97316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66235" kind="city">
+    <ctml:name>Lastic Hill</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>14.00755000</ctml:latitude>
+    <ctml:longitude>-60.98321000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66238" kind="city">
+    <ctml:name>Leslie Land</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>14.00752000</ctml:latitude>
+    <ctml:longitude>-60.98674000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66250" kind="city">
+    <ctml:name>Marc</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.95688000</ctml:latitude>
+    <ctml:longitude>-60.95724000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66251" kind="city">
+    <ctml:name>Marchand</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>14.00415000</ctml:latitude>
+    <ctml:longitude>-60.98532000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66252" kind="city">
+    <ctml:name>Marigot</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.96212000</ctml:latitude>
+    <ctml:longitude>-61.02205000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66262" kind="city">
+    <ctml:name>Maynard Hill</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>14.00314000</ctml:latitude>
+    <ctml:longitude>-60.98966000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66263" kind="city">
+    <ctml:name>Miami/Bexon</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.92295000</ctml:latitude>
+    <ctml:longitude>-60.96945000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66288" kind="city">
+    <ctml:name>Monkey Town Ciceron</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.98885000</ctml:latitude>
+    <ctml:longitude>-61.00615000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66297" kind="city">
+    <ctml:name>Morne Dudon</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.01194000</ctml:latitude>
+    <ctml:longitude>-60.96378000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66304" kind="city">
+    <ctml:name>Morne Road</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.00544000</ctml:latitude>
+    <ctml:longitude>-60.99693000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66305" kind="city">
+    <ctml:name>Morne Rouge/Marc</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.95838000</ctml:latitude>
+    <ctml:longitude>-60.96972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66311" kind="city">
+    <ctml:name>Mount Pleasant</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.01494000</ctml:latitude>
+    <ctml:longitude>-60.98576000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66316" kind="city">
+    <ctml:name>New Village</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.01104000</ctml:latitude>
+    <ctml:longitude>-60.98456000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66318" kind="city">
+    <ctml:name>Odsan</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.97479000</ctml:latitude>
+    <ctml:longitude>-60.98319000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66325" kind="city">
+    <ctml:name>Parker'S Hill</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.00378000</ctml:latitude>
+    <ctml:longitude>-60.99049000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66327" kind="city">
+    <ctml:name>Patterson'S Gap</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.00655000</ctml:latitude>
+    <ctml:longitude>-60.98473000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66328" kind="city">
+    <ctml:name>Pavee</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.00282000</ctml:latitude>
+    <ctml:longitude>-60.99191000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66329" kind="city">
+    <ctml:name>Peart'S Gap</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.01035000</ctml:latitude>
+    <ctml:longitude>-60.98598000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66330" kind="city">
+    <ctml:name>Perou</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.95960000</ctml:latitude>
+    <ctml:longitude>-61.00726000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66338" kind="city">
+    <ctml:name>Pointe Seraphine</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.01575000</ctml:latitude>
+    <ctml:longitude>-60.99305000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66342" kind="city">
+    <ctml:name>Quarte Chemins</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.99136000</ctml:latitude>
+    <ctml:longitude>-60.97630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66346" kind="city">
+    <ctml:name>Ravine Chabot</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.00051000</ctml:latitude>
+    <ctml:longitude>-60.97617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66348" kind="city">
+    <ctml:name>Ravine Poisson</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.93156000</ctml:latitude>
+    <ctml:longitude>-60.96849000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66349" kind="city">
+    <ctml:name>Ravine Touterelle</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.00325000</ctml:latitude>
+    <ctml:longitude>-60.98806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66353" kind="city">
+    <ctml:name>Resinard/Babonneau</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.00289000</ctml:latitude>
+    <ctml:longitude>-60.94200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66361" kind="city">
+    <ctml:name>Rock Hall</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.00009000</ctml:latitude>
+    <ctml:longitude>-60.98928000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66364" kind="city">
+    <ctml:name>Rose Hill</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.00816000</ctml:latitude>
+    <ctml:longitude>-60.98560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66369" kind="city">
+    <ctml:name>San Soucis</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.01695000</ctml:latitude>
+    <ctml:longitude>-60.98985000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66370" kind="city">
+    <ctml:name>Sand De Feu</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.92781000</ctml:latitude>
+    <ctml:longitude>-60.98026000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66372" kind="city">
+    <ctml:name>Sarot</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.94212000</ctml:latitude>
+    <ctml:longitude>-60.98489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66387" kind="city">
+    <ctml:name>Summersdale</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>14.02582000</ctml:latitude>
+    <ctml:longitude>-60.97644000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66388" kind="city">
+    <ctml:name>Sunbilt</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>14.00561000</ctml:latitude>
+    <ctml:longitude>-60.97922000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66390" kind="city">
+    <ctml:name>Talvern</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.99578000</ctml:latitude>
+    <ctml:longitude>-60.94410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66391" kind="city">
+    <ctml:name>Tapion</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>14.01383000</ctml:latitude>
+    <ctml:longitude>-61.00489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66396" kind="city">
+    <ctml:name>The Morne</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.99778000</ctml:latitude>
+    <ctml:longitude>-60.99620000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66399" kind="city">
+    <ctml:name>Ti Colon</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.97071000</ctml:latitude>
+    <ctml:longitude>-61.00229000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66402" kind="city">
+    <ctml:name>Ti Rocher</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.99490000</ctml:latitude>
+    <ctml:longitude>-60.97110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66407" kind="city">
+    <ctml:name>Trois Piton</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.98890000</ctml:latitude>
+    <ctml:longitude>-60.97259000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66408" kind="city">
+    <ctml:name>Trou Cochan/Marc</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.94220000</ctml:latitude>
+    <ctml:longitude>-60.96199000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66409" kind="city">
+    <ctml:name>Trou Florent/Marc</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.94525000</ctml:latitude>
+    <ctml:longitude>-60.95382000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66410" kind="city">
+    <ctml:name>Trou Rouge</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>14.00602000</ctml:latitude>
+    <ctml:longitude>-60.98950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66419" kind="city">
+    <ctml:name>Vide Bouteille</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>14.02439000</ctml:latitude>
+    <ctml:longitude>-60.98066000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66423" kind="city">
+    <ctml:name>Vigie</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3494579</ctml:wikiDataId>
+    <ctml:latitude>14.02053000</ctml:latitude>
+    <ctml:longitude>-60.99611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66432" kind="city">
+    <ctml:name>Waterworks</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3494579</ctml:wikiDataId>
+    <ctml:latitude>14.00498000</ctml:latitude>
+    <ctml:longitude>-60.97635000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66434" kind="city">
+    <ctml:name>Wilton'S Yard/Grave Yard</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3494579</ctml:wikiDataId>
+    <ctml:latitude>14.00968000</ctml:latitude>
+    <ctml:longitude>-60.98639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66435" kind="city">
+    <ctml:name>Yorke Hill</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Castries</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3494579</ctml:wikiDataId>
+    <ctml:latitude>14.01694000</ctml:latitude>
+    <ctml:longitude>-60.97919000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66000" kind="city">
+    <ctml:name>Belle Vue</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.80510000</ctml:latitude>
+    <ctml:longitude>-61.03615000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66036" kind="city">
+    <ctml:name>Caffiere</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.78409000</ctml:latitude>
+    <ctml:longitude>-61.03554000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66090" kind="city">
+    <ctml:name>Dacretin</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.79617000</ctml:latitude>
+    <ctml:longitude>-61.03574000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66094" kind="city">
+    <ctml:name>Debreuil</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.79033000</ctml:latitude>
+    <ctml:longitude>-61.02585000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66097" kind="city">
+    <ctml:name>Delcer</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.80121000</ctml:latitude>
+    <ctml:longitude>-61.05892000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66113" kind="city">
+    <ctml:name>Derriere Morne</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.80916000</ctml:latitude>
+    <ctml:longitude>-61.05101000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66125" kind="city">
+    <ctml:name>Dugard</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.80386000</ctml:latitude>
+    <ctml:longitude>-61.02831000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66127" kind="city">
+    <ctml:name>Dupre</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.79435000</ctml:latitude>
+    <ctml:longitude>-61.02947000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66155" kind="city">
+    <ctml:name>Franciou</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.80400000</ctml:latitude>
+    <ctml:longitude>-61.05448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66223" kind="city">
+    <ctml:name>La Pointe</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.79443000</ctml:latitude>
+    <ctml:longitude>-61.06497000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66234" kind="city">
+    <ctml:name>Lamaze</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.80649000</ctml:latitude>
+    <ctml:longitude>-61.01906000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66246" kind="city">
+    <ctml:name>Mailly Motete</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.81788000</ctml:latitude>
+    <ctml:longitude>-61.02772000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66289" kind="city">
+    <ctml:name>Monzie</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.80669000</ctml:latitude>
+    <ctml:longitude>-61.02297000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66309" kind="city">
+    <ctml:name>Motete</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.81325000</ctml:latitude>
+    <ctml:longitude>-61.02320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66314" kind="city">
+    <ctml:name>New Field/Fiette</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.78815000</ctml:latitude>
+    <ctml:longitude>-61.05216000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66340" kind="city">
+    <ctml:name>Ponyon</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.79639000</ctml:latitude>
+    <ctml:longitude>-61.04360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66360" kind="city">
+    <ctml:name>Roblot</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.80323000</ctml:latitude>
+    <ctml:longitude>-61.02297000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66376" kind="city">
+    <ctml:name>Savannesgeorge/Constitution</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.77855000</ctml:latitude>
+    <ctml:longitude>-61.05139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66418" kind="city">
+    <ctml:name>Victoria</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.81116000</ctml:latitude>
+    <ctml:longitude>-61.03963000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66424" kind="city">
+    <ctml:name>Village</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Choiseul</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3494579</ctml:wikiDataId>
+    <ctml:latitude>13.77464000</ctml:latitude>
+    <ctml:longitude>-61.05020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65960" kind="city">
+    <ctml:name>Anse Canot</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q26569</ctml:wikiDataId>
+    <ctml:latitude>13.90871000</ctml:latitude>
+    <ctml:longitude>-60.90440000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LCA-65967" kind="admin2">
+    <ctml:name>Athens</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.90574000</ctml:latitude>
+    <ctml:longitude>-60.89184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65968" kind="city">
+    <ctml:name>Au Leon</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.95245000</ctml:latitude>
+    <ctml:longitude>-60.90456000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65982" kind="city">
+    <ctml:name>Bara Bara</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.95911000</ctml:latitude>
+    <ctml:longitude>-60.93414000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66005" kind="city">
+    <ctml:name>Belmont</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.95044000</ctml:latitude>
+    <ctml:longitude>-60.93276000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LCA-66024" kind="admin2">
+    <ctml:name>Bois Joli</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.92020000</ctml:latitude>
+    <ctml:longitude>-60.91409000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LCA-66029" kind="admin2">
+    <ctml:name>Bordelais</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.89552000</ctml:latitude>
+    <ctml:longitude>-60.90092000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LCA-66030" kind="admin2">
+    <ctml:name>Bosquet D'Or</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.92886000</ctml:latitude>
+    <ctml:longitude>-60.91127000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66096" kind="city">
+    <ctml:name>Delaide</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.92993000</ctml:latitude>
+    <ctml:longitude>-60.90584000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66103" kind="city">
+    <ctml:name>Dennery By Pass/White Rock Gardens</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.91424000</ctml:latitude>
+    <ctml:longitude>-60.89333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66108" kind="city">
+    <ctml:name>Derniere Riviere</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.95679000</ctml:latitude>
+    <ctml:longitude>-60.92578000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66109" kind="city">
+    <ctml:name>Derniere Riviere/Fond Maricient</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.95130000</ctml:latitude>
+    <ctml:longitude>-60.92218000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66110" kind="city">
+    <ctml:name>Derniere Riviere/Mardi Gras/Morne Caca Cochon</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.96288000</ctml:latitude>
+    <ctml:longitude>-60.92029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66111" kind="city">
+    <ctml:name>Derniere Riviere/Morne Panache</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.95252000</ctml:latitude>
+    <ctml:longitude>-60.92919000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66117" kind="city">
+    <ctml:name>Despinoze</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.94971000</ctml:latitude>
+    <ctml:longitude>-60.91182000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66123" kind="city">
+    <ctml:name>Dubonnaire</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.92808000</ctml:latitude>
+    <ctml:longitude>-60.92336000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66156" kind="city">
+    <ctml:name>Gadette</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.95937000</ctml:latitude>
+    <ctml:longitude>-60.91029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66170" kind="city">
+    <ctml:name>Grande Ravine</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.94263000</ctml:latitude>
+    <ctml:longitude>-60.93404000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66171" kind="city">
+    <ctml:name>Grande Riviere</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.93306000</ctml:latitude>
+    <ctml:longitude>-60.93239000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66173" kind="city">
+    <ctml:name>Grande Riviere/Des Branch</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.93383000</ctml:latitude>
+    <ctml:longitude>-60.93499000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66174" kind="city">
+    <ctml:name>Grande Riviere/En Leur Morne/Discompere</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.93223000</ctml:latitude>
+    <ctml:longitude>-60.93461000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66175" kind="city">
+    <ctml:name>Grande Riviere/Funier</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.93240000</ctml:latitude>
+    <ctml:longitude>-60.93305000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66177" kind="city">
+    <ctml:name>Grande Riviere/Morne Caca Cochon</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.92960000</ctml:latitude>
+    <ctml:longitude>-60.93794000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66208" kind="city">
+    <ctml:name>La Caye</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.93290000</ctml:latitude>
+    <ctml:longitude>-60.90434000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66220" kind="city">
+    <ctml:name>La Pelle</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.94096000</ctml:latitude>
+    <ctml:longitude>-60.90569000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66303" kind="city">
+    <ctml:name>Morne Panache</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.92167000</ctml:latitude>
+    <ctml:longitude>-60.93654000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66355" kind="city">
+    <ctml:name>Riche Fond</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.93644000</ctml:latitude>
+    <ctml:longitude>-60.92026000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66356" kind="city">
+    <ctml:name>Riche Fond/La Belle Vie</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.93782000</ctml:latitude>
+    <ctml:longitude>-60.92908000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66357" kind="city">
+    <ctml:name>Riche Fond/New Village</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.93648000</ctml:latitude>
+    <ctml:longitude>-60.92394000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66384" kind="city">
+    <ctml:name>St. Joseph Estate</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.90066000</ctml:latitude>
+    <ctml:longitude>-60.91444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66395" kind="city">
+    <ctml:name>Thamazo</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Dennery</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-05</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.93245000</ctml:latitude>
+    <ctml:longitude>-60.94786000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65993" kind="city">
+    <ctml:name>Beausejour</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.07647000</ctml:latitude>
+    <ctml:longitude>-60.93780000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65994" kind="city">
+    <ctml:name>Beausejour/Fostin'S Development</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.07445000</ctml:latitude>
+    <ctml:longitude>-60.92929000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65995" kind="city">
+    <ctml:name>Beausejour/Ndc</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.07733000</ctml:latitude>
+    <ctml:longitude>-60.92683000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65997" kind="city">
+    <ctml:name>Bella Rosa</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.07711000</ctml:latitude>
+    <ctml:longitude>-60.94568000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66001" kind="city">
+    <ctml:name>Belle Vue</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.08470000</ctml:latitude>
+    <ctml:longitude>-60.94342000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66003" kind="city">
+    <ctml:name>Belle Vue Estate</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.08840000</ctml:latitude>
+    <ctml:longitude>-60.94613000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66016" kind="city">
+    <ctml:name>Boguis</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.01548000</ctml:latitude>
+    <ctml:longitude>-60.92089000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66021" kind="city">
+    <ctml:name>Bois D'Orange</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.05803000</ctml:latitude>
+    <ctml:longitude>-60.95992000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66022" kind="city">
+    <ctml:name>Bois D'Ornange/Trouya</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.06198000</ctml:latitude>
+    <ctml:longitude>-60.96914000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66027" kind="city">
+    <ctml:name>Bonneterre</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.06994000</ctml:latitude>
+    <ctml:longitude>-60.94146000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66028" kind="city">
+    <ctml:name>Bonneterre Gardens</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>14.06737000</ctml:latitude>
+    <ctml:longitude>-60.93393000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66043" kind="city">
+    <ctml:name>Cap Estate</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1032796</ctml:wikiDataId>
+    <ctml:latitude>14.09410000</ctml:latitude>
+    <ctml:longitude>-60.93592000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66044" kind="city">
+    <ctml:name>Cap Estate/Becune Point</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1032796</ctml:wikiDataId>
+    <ctml:latitude>14.09270000</ctml:latitude>
+    <ctml:longitude>-60.95161000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66045" kind="city">
+    <ctml:name>Cap Estate/Caribbean Park</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1032796</ctml:wikiDataId>
+    <ctml:latitude>14.10019000</ctml:latitude>
+    <ctml:longitude>-60.92446000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66046" kind="city">
+    <ctml:name>Cap Estate/Golf Park</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1032796</ctml:wikiDataId>
+    <ctml:latitude>14.09998000</ctml:latitude>
+    <ctml:longitude>-60.93705000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66047" kind="city">
+    <ctml:name>Cap Estate/Lower Saline Point</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1032796</ctml:wikiDataId>
+    <ctml:latitude>14.10515000</ctml:latitude>
+    <ctml:longitude>-60.94310000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66048" kind="city">
+    <ctml:name>Cap Estate/Mon Du Cap</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1032796</ctml:wikiDataId>
+    <ctml:latitude>14.10554000</ctml:latitude>
+    <ctml:longitude>-60.93758000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66058" kind="city">
+    <ctml:name>Caye Manje'</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q41699</ctml:wikiDataId>
+    <ctml:latitude>14.06629000</ctml:latitude>
+    <ctml:longitude>-60.93560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66082" kind="city">
+    <ctml:name>Corinth</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.04710000</ctml:latitude>
+    <ctml:longitude>-60.96046000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66083" kind="city">
+    <ctml:name>Corinth Estate</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.04336000</ctml:latitude>
+    <ctml:longitude>-60.95388000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66084" kind="city">
+    <ctml:name>Corinth/La Bel Lair</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.04469000</ctml:latitude>
+    <ctml:longitude>-60.94484000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66092" kind="city">
+    <ctml:name>Dauphin</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.05647000</ctml:latitude>
+    <ctml:longitude>-60.90188000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66118" kind="city">
+    <ctml:name>Desrameaux</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.03681000</ctml:latitude>
+    <ctml:longitude>-60.92697000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66157" kind="city">
+    <ctml:name>Garrand</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.00424000</ctml:latitude>
+    <ctml:longitude>-60.93270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66169" kind="city">
+    <ctml:name>Grand Riviere</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.03546000</ctml:latitude>
+    <ctml:longitude>-60.95152000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66176" kind="city">
+    <ctml:name>Grande Riviere/Ingle Woods</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.03091000</ctml:latitude>
+    <ctml:longitude>-60.95592000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66178" kind="city">
+    <ctml:name>Grande Riviere/Morne Serpent</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.03509000</ctml:latitude>
+    <ctml:longitude>-60.96060000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66179" kind="city">
+    <ctml:name>Grande Riviere/Norbert</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.04317000</ctml:latitude>
+    <ctml:longitude>-60.94933000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66180" kind="city">
+    <ctml:name>Grande Riviere/Piat</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.03926000</ctml:latitude>
+    <ctml:longitude>-60.94361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66181" kind="city">
+    <ctml:name>Grande Riviere/White Rock</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>14.03618000</ctml:latitude>
+    <ctml:longitude>-60.95556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66186" kind="city">
+    <ctml:name>Gros Islet/Edge Water</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>14.07912000</ctml:latitude>
+    <ctml:longitude>-60.94973000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66206" kind="city">
+    <ctml:name>L'Hermitage</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>14.06521000</ctml:latitude>
+    <ctml:longitude>-60.93967000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66211" kind="city">
+    <ctml:name>La Croix Chabourgh</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>14.01147000</ctml:latitude>
+    <ctml:longitude>-60.94025000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66214" kind="city">
+    <ctml:name>La Guerre</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>14.02191000</ctml:latitude>
+    <ctml:longitude>-60.92491000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66215" kind="city">
+    <ctml:name>La Guerre/Chicken Back Street</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>14.02387000</ctml:latitude>
+    <ctml:longitude>-60.93108000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66253" kind="city">
+    <ctml:name>Marisule</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>14.04621000</ctml:latitude>
+    <ctml:longitude>-60.97063000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66254" kind="city">
+    <ctml:name>Marisule/Bon Air</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>14.05062000</ctml:latitude>
+    <ctml:longitude>-60.97124000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66255" kind="city">
+    <ctml:name>Marisule/East Winds</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>14.05407000</ctml:latitude>
+    <ctml:longitude>-60.96849000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66256" kind="city">
+    <ctml:name>Marisule/La Brellotte</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>14.05710000</ctml:latitude>
+    <ctml:longitude>-60.97183000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66257" kind="city">
+    <ctml:name>Marisule/Top Of The World</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>14.04385000</ctml:latitude>
+    <ctml:longitude>-60.96885000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66269" kind="city">
+    <ctml:name>Monchy</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.05502000</ctml:latitude>
+    <ctml:longitude>-60.92623000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66270" kind="city">
+    <ctml:name>Monchy/Careffe</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.05930000</ctml:latitude>
+    <ctml:longitude>-60.95069000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66271" kind="city">
+    <ctml:name>Monchy/Cletus Village</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.05137000</ctml:latitude>
+    <ctml:longitude>-60.92380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66272" kind="city">
+    <ctml:name>Monchy/La Borne</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.04628000</ctml:latitude>
+    <ctml:longitude>-60.91961000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66273" kind="city">
+    <ctml:name>Monchy/La Borne/Sans Souci</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.04504000</ctml:latitude>
+    <ctml:longitude>-60.89961000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66274" kind="city">
+    <ctml:name>Monchy/La Retraite</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.06421000</ctml:latitude>
+    <ctml:longitude>-60.94564000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66275" kind="city">
+    <ctml:name>Monchy/Lafeuillee</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.05950000</ctml:latitude>
+    <ctml:longitude>-60.94086000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66276" kind="city">
+    <ctml:name>Monchy/Lawi Fwen</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.05802000</ctml:latitude>
+    <ctml:longitude>-60.92906000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66277" kind="city">
+    <ctml:name>Monchy/Malgretoute</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.04108000</ctml:latitude>
+    <ctml:longitude>-60.91912000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66278" kind="city">
+    <ctml:name>Monchy/Moulin A Vent</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.06283000</ctml:latitude>
+    <ctml:longitude>-60.95025000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66279" kind="city">
+    <ctml:name>Monchy/Ravine Macock</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.04789000</ctml:latitude>
+    <ctml:longitude>-60.92511000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66280" kind="city">
+    <ctml:name>Monchy/Riviere Mitan</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.04987000</ctml:latitude>
+    <ctml:longitude>-60.94029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66281" kind="city">
+    <ctml:name>Monchy/Ti Dauphin</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.04081000</ctml:latitude>
+    <ctml:longitude>-60.93225000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66282" kind="city">
+    <ctml:name>Monchy/Vieux Sucreic</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.04996000</ctml:latitude>
+    <ctml:longitude>-60.94992000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66284" kind="city">
+    <ctml:name>Monchy/Vieux Sucreic/Careffe</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.05652000</ctml:latitude>
+    <ctml:longitude>-60.94948000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66285" kind="city">
+    <ctml:name>Mongiraud</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.06287000</ctml:latitude>
+    <ctml:longitude>-60.95722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66287" kind="city">
+    <ctml:name>Monier</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.02951000</ctml:latitude>
+    <ctml:longitude>-60.94098000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66295" kind="city">
+    <ctml:name>Morne Citon</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.03004000</ctml:latitude>
+    <ctml:longitude>-60.92813000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66320" kind="city">
+    <ctml:name>Paix Bouche</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.01755000</ctml:latitude>
+    <ctml:longitude>-60.93852000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66333" kind="city">
+    <ctml:name>Pigeon Island</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.08965000</ctml:latitude>
+    <ctml:longitude>-60.95724000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66336" kind="city">
+    <ctml:name>Plateau</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.02612000</ctml:latitude>
+    <ctml:longitude>-60.93474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66350" kind="city">
+    <ctml:name>Reduit</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.06829000</ctml:latitude>
+    <ctml:longitude>-60.96145000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66351" kind="city">
+    <ctml:name>Reduit Orchard</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.06594000</ctml:latitude>
+    <ctml:longitude>-60.95340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66352" kind="city">
+    <ctml:name>Reduit Park</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.06622000</ctml:latitude>
+    <ctml:longitude>-60.95560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66362" kind="city">
+    <ctml:name>Rodney Bay</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.07292000</ctml:latitude>
+    <ctml:longitude>-60.95443000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66363" kind="city">
+    <ctml:name>Rodney Heights</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>14.06731000</ctml:latitude>
+    <ctml:longitude>-60.94906000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66412" kind="city">
+    <ctml:name>Union</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>14.02907000</ctml:latitude>
+    <ctml:longitude>-60.96480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66413" kind="city">
+    <ctml:name>Union Terrace</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>14.02654000</ctml:latitude>
+    <ctml:longitude>-60.95710000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66415" kind="city">
+    <ctml:name>Union/Ti Morne</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Gros Islet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-06</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>14.02283000</ctml:latitude>
+    <ctml:longitude>-60.95272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65976" kind="city">
+    <ctml:name>Balca</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Laborie</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-07</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.77117000</ctml:latitude>
+    <ctml:longitude>-61.02389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65977" kind="city">
+    <ctml:name>Balca/En Leur Ba</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Laborie</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-07</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.77638000</ctml:latitude>
+    <ctml:longitude>-61.01931000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66089" kind="city">
+    <ctml:name>Daban</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Laborie</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.80490000</ctml:latitude>
+    <ctml:longitude>-61.00435000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66143" kind="city">
+    <ctml:name>Fond Berange</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Laborie</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.78238000</ctml:latitude>
+    <ctml:longitude>-61.00346000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66161" kind="city">
+    <ctml:name>Getrine</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Laborie</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.78192000</ctml:latitude>
+    <ctml:longitude>-61.00741000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66163" kind="city">
+    <ctml:name>Giraud</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Laborie</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.79254000</ctml:latitude>
+    <ctml:longitude>-61.00843000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66203" kind="city">
+    <ctml:name>Kennedy Highway/Laborie Bypass</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Laborie</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.75380000</ctml:latitude>
+    <ctml:longitude>-60.99594000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66216" kind="city">
+    <ctml:name>La Haut</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Laborie</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.79207000</ctml:latitude>
+    <ctml:longitude>-61.00014000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66241" kind="city">
+    <ctml:name>Londonderry</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Laborie</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-07</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.77623000</ctml:latitude>
+    <ctml:longitude>-61.01362000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66243" kind="city">
+    <ctml:name>Macdomel</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Laborie</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-07</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.77497000</ctml:latitude>
+    <ctml:longitude>-60.98508000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66298" kind="city">
+    <ctml:name>Morne Gomier</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Laborie</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-07</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.76552000</ctml:latitude>
+    <ctml:longitude>-60.99524000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66319" kind="city">
+    <ctml:name>Olibo</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Laborie</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-07</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.77628000</ctml:latitude>
+    <ctml:longitude>-60.99931000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66368" kind="city">
+    <ctml:name>Saltibus</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Laborie</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-07</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.81211000</ctml:latitude>
+    <ctml:longitude>-61.00982000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66431" kind="city">
+    <ctml:name>Warwick/Daban</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Laborie</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3494579</ctml:wikiDataId>
+    <ctml:latitude>13.81084000</ctml:latitude>
+    <ctml:longitude>-61.00047000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65964" kind="city">
+    <ctml:name>Anse Ger</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q26569</ctml:wikiDataId>
+    <ctml:latitude>13.79567000</ctml:latitude>
+    <ctml:longitude>-60.91567000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65991" kind="city">
+    <ctml:name>Beauchamp</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.81778000</ctml:latitude>
+    <ctml:longitude>-60.91528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66014" kind="city">
+    <ctml:name>Blanchard</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.80616000</ctml:latitude>
+    <ctml:longitude>-60.94630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66041" kind="city">
+    <ctml:name>Canelles</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1032796</ctml:wikiDataId>
+    <ctml:latitude>13.78515000</ctml:latitude>
+    <ctml:longitude>-60.91789000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66068" kind="city">
+    <ctml:name>Chique/Blanchard</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q41699</ctml:wikiDataId>
+    <ctml:latitude>13.80120000</ctml:latitude>
+    <ctml:longitude>-60.94970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66079" kind="city">
+    <ctml:name>Coolie Town</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.85429000</ctml:latitude>
+    <ctml:longitude>-60.91380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66098" kind="city">
+    <ctml:name>Delomel</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.80338000</ctml:latitude>
+    <ctml:longitude>-60.92927000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66116" kind="city">
+    <ctml:name>Des Blanchard</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.81155000</ctml:latitude>
+    <ctml:longitude>-60.93423000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66119" kind="city">
+    <ctml:name>Desruisseaux</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.79640000</ctml:latitude>
+    <ctml:longitude>-60.93540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66134" kind="city">
+    <ctml:name>Escap</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.83031000</ctml:latitude>
+    <ctml:longitude>-60.89673000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66148" kind="city">
+    <ctml:name>Fond D'Lor/Dugard</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.81069000</ctml:latitude>
+    <ctml:longitude>-60.92119000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66150" kind="city">
+    <ctml:name>Fond Estate</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.84243000</ctml:latitude>
+    <ctml:longitude>-60.91862000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66153" kind="city">
+    <ctml:name>Fond/Desruisseaux</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.79421000</ctml:latitude>
+    <ctml:longitude>-60.94128000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66165" kind="city">
+    <ctml:name>Gomier</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.81485000</ctml:latitude>
+    <ctml:longitude>-60.95252000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66167" kind="city">
+    <ctml:name>Gouette</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.80650000</ctml:latitude>
+    <ctml:longitude>-60.93964000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66205" kind="city">
+    <ctml:name>L'Eau Mineau</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.80672000</ctml:latitude>
+    <ctml:longitude>-60.92103000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66210" kind="city">
+    <ctml:name>La Courville</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.81056000</ctml:latitude>
+    <ctml:longitude>-60.92766000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66228" kind="city">
+    <ctml:name>La Tille</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.82744000</ctml:latitude>
+    <ctml:longitude>-60.91716000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66239" kind="city">
+    <ctml:name>Lezy</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.80372000</ctml:latitude>
+    <ctml:longitude>-60.93906000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66240" kind="city">
+    <ctml:name>Lombard</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.85772000</ctml:latitude>
+    <ctml:longitude>-60.91510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66245" kind="city">
+    <ctml:name>Mahaut</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.84391000</ctml:latitude>
+    <ctml:longitude>-60.95397000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66247" kind="city">
+    <ctml:name>Malgretoute</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.84199000</ctml:latitude>
+    <ctml:longitude>-60.90411000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66249" kind="city">
+    <ctml:name>Mamiku</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.86744000</ctml:latitude>
+    <ctml:longitude>-60.90184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66268" kind="city">
+    <ctml:name>Mon Repos</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.85865000</ctml:latitude>
+    <ctml:longitude>-60.89591000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66290" kind="city">
+    <ctml:name>Moreau</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.82676000</ctml:latitude>
+    <ctml:longitude>-60.94238000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66312" kind="city">
+    <ctml:name>Myette Gardens</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.81862000</ctml:latitude>
+    <ctml:longitude>-60.90440000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66315" kind="city">
+    <ctml:name>New Village</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.82446000</ctml:latitude>
+    <ctml:longitude>-60.89864000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66321" kind="city">
+    <ctml:name>Paix Bouche</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.81556000</ctml:latitude>
+    <ctml:longitude>-60.94073000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66323" kind="city">
+    <ctml:name>Palmiste Estate</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.85377000</ctml:latitude>
+    <ctml:longitude>-60.96007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66326" kind="city">
+    <ctml:name>Patience</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.85000000</ctml:latitude>
+    <ctml:longitude>-60.90874000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66334" kind="city">
+    <ctml:name>Planard</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.80521000</ctml:latitude>
+    <ctml:longitude>-60.91540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LCA-66341" kind="admin2">
+    <ctml:name>Praslin</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.87545000</ctml:latitude>
+    <ctml:longitude>-60.89717000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66344" kind="city">
+    <ctml:name>Rameau</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.83055000</ctml:latitude>
+    <ctml:longitude>-60.92375000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66367" kind="city">
+    <ctml:name>Saint Marie Road</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.85444000</ctml:latitude>
+    <ctml:longitude>-60.91803000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66373" kind="city">
+    <ctml:name>Saut</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.81272000</ctml:latitude>
+    <ctml:longitude>-60.94375000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66401" kind="city">
+    <ctml:name>Ti Riviere</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.83006000</ctml:latitude>
+    <ctml:longitude>-60.93774000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66403" kind="city">
+    <ctml:name>Ti Rocher</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.81734000</ctml:latitude>
+    <ctml:longitude>-60.92858000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66430" kind="city">
+    <ctml:name>Volet</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Micoud</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3494579</ctml:wikiDataId>
+    <ctml:latitude>13.82626000</ctml:latitude>
+    <ctml:longitude>-60.90789000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65961" kind="city">
+    <ctml:name>Anse Chastanet</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q26569</ctml:wikiDataId>
+    <ctml:latitude>13.86426000</ctml:latitude>
+    <ctml:longitude>-61.07016000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65984" kind="city">
+    <ctml:name>Barons Drive/Coin De L'Anse</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.85138000</ctml:latitude>
+    <ctml:longitude>-61.05939000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65990" kind="city">
+    <ctml:name>Beasejour/Myers Bridge</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.82147000</ctml:latitude>
+    <ctml:longitude>-61.03396000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65999" kind="city">
+    <ctml:name>Belle Plaine</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.82700000</ctml:latitude>
+    <ctml:longitude>-61.03127000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66004" kind="city">
+    <ctml:name>Bellefond</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.82753000</ctml:latitude>
+    <ctml:longitude>-61.04269000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66007" kind="city">
+    <ctml:name>Belvedere</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.83440000</ctml:latitude>
+    <ctml:longitude>-61.01771000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66031" kind="city">
+    <ctml:name>Bouton</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.87936000</ctml:latitude>
+    <ctml:longitude>-61.06449000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66039" kind="city">
+    <ctml:name>Calvary/Calvaire</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.85035000</ctml:latitude>
+    <ctml:longitude>-61.05620000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66062" kind="city">
+    <ctml:name>Cenac</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q41699</ctml:wikiDataId>
+    <ctml:latitude>13.87207000</ctml:latitude>
+    <ctml:longitude>-61.04243000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66067" kind="city">
+    <ctml:name>Chateau Belair</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q41699</ctml:wikiDataId>
+    <ctml:latitude>13.81830000</ctml:latitude>
+    <ctml:longitude>-61.05350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66076" kind="city">
+    <ctml:name>Colombette</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.86861000</ctml:latitude>
+    <ctml:longitude>-61.04990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66077" kind="city">
+    <ctml:name>Compar</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.83586000</ctml:latitude>
+    <ctml:longitude>-61.05934000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66086" kind="city">
+    <ctml:name>Cresslands</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.85999000</ctml:latitude>
+    <ctml:longitude>-61.04032000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66120" kind="city">
+    <ctml:name>Deville</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.81372000</ctml:latitude>
+    <ctml:longitude>-61.05049000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66144" kind="city">
+    <ctml:name>Fond Bernier</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.85845000</ctml:latitude>
+    <ctml:longitude>-61.05949000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66145" kind="city">
+    <ctml:name>Fond Cacoa</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.85442000</ctml:latitude>
+    <ctml:longitude>-61.05077000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66149" kind="city">
+    <ctml:name>Fond Doux</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.82096000</ctml:latitude>
+    <ctml:longitude>-61.04952000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66217" kind="city">
+    <ctml:name>La Haut</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.86276000</ctml:latitude>
+    <ctml:longitude>-61.05584000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66237" kind="city">
+    <ctml:name>Lenny Hill</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.85059000</ctml:latitude>
+    <ctml:longitude>-61.05906000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66248" kind="city">
+    <ctml:name>Malgretoute</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.84233000</ctml:latitude>
+    <ctml:longitude>-61.05998000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66265" kind="city">
+    <ctml:name>Migny</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.84166000</ctml:latitude>
+    <ctml:longitude>-61.01808000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66267" kind="city">
+    <ctml:name>Mocha</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.83117000</ctml:latitude>
+    <ctml:longitude>-61.02503000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66292" kind="city">
+    <ctml:name>Morne Bonin</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.83174000</ctml:latitude>
+    <ctml:longitude>-61.03285000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66300" kind="city">
+    <ctml:name>Morne La Croix</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.81762000</ctml:latitude>
+    <ctml:longitude>-61.06146000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66301" kind="city">
+    <ctml:name>Morne Lastic/Desruisseaux</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.86628000</ctml:latitude>
+    <ctml:longitude>-61.05894000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66313" kind="city">
+    <ctml:name>New Development</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.86176000</ctml:latitude>
+    <ctml:longitude>-61.04791000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66347" kind="city">
+    <ctml:name>Ravine Claire</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.85262000</ctml:latitude>
+    <ctml:longitude>-61.02892000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66377" kind="city">
+    <ctml:name>Soufriere Estate</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.85174000</ctml:latitude>
+    <ctml:longitude>-61.05420000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66386" kind="city">
+    <ctml:name>Sulphur Springs</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.84002000</ctml:latitude>
+    <ctml:longitude>-61.04512000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66398" kind="city">
+    <ctml:name>Ti Boug</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.83744000</ctml:latitude>
+    <ctml:longitude>-61.02460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66400" kind="city">
+    <ctml:name>Ti Delcer</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.83386000</ctml:latitude>
+    <ctml:longitude>-61.06410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66404" kind="city">
+    <ctml:name>Toraille</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.85704000</ctml:latitude>
+    <ctml:longitude>-61.03296000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66405" kind="city">
+    <ctml:name>Town</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.85491000</ctml:latitude>
+    <ctml:longitude>-61.05764000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66414" kind="city">
+    <ctml:name>Union Vale</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.81103000</ctml:latitude>
+    <ctml:longitude>-61.05686000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66436" kind="city">
+    <ctml:name>Zenon</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Soufrière</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3494579</ctml:wikiDataId>
+    <ctml:latitude>13.85953000</ctml:latitude>
+    <ctml:longitude>-61.03394000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65971" kind="city">
+    <ctml:name>Augier</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.76669000</ctml:latitude>
+    <ctml:longitude>-60.98063000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-65992" kind="city">
+    <ctml:name>Beausejour</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.75229000</ctml:latitude>
+    <ctml:longitude>-60.95519000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66032" kind="city">
+    <ctml:name>Bruceville/Shanty Town</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.72558000</ctml:latitude>
+    <ctml:longitude>-60.94907000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66034" kind="city">
+    <ctml:name>Cacoa</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q569439</ctml:wikiDataId>
+    <ctml:latitude>13.77889000</ctml:latitude>
+    <ctml:longitude>-60.93862000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66042" kind="city">
+    <ctml:name>Cantonement</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1032796</ctml:wikiDataId>
+    <ctml:latitude>13.75665000</ctml:latitude>
+    <ctml:longitude>-60.97662000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66054" kind="city">
+    <ctml:name>Carierre</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1032796</ctml:wikiDataId>
+    <ctml:latitude>13.78514000</ctml:latitude>
+    <ctml:longitude>-60.96721000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66057" kind="city">
+    <ctml:name>Catin</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q41699</ctml:wikiDataId>
+    <ctml:latitude>13.77694000</ctml:latitude>
+    <ctml:longitude>-60.97973000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66075" kind="city">
+    <ctml:name>Cocoa Dan</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.73087000</ctml:latitude>
+    <ctml:longitude>-60.97195000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66081" kind="city">
+    <ctml:name>Coolie Town</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.76911000</ctml:latitude>
+    <ctml:longitude>-60.96680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66093" kind="city">
+    <ctml:name>De Mailly</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.79649000</ctml:latitude>
+    <ctml:longitude>-60.94938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66105" kind="city">
+    <ctml:name>Derierre Bois</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.76807000</ctml:latitude>
+    <ctml:longitude>-60.97725000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66107" kind="city">
+    <ctml:name>Derierre Morne</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.74126000</ctml:latitude>
+    <ctml:longitude>-60.96057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66122" kind="city">
+    <ctml:name>Docamel/La Resource</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.74202000</ctml:latitude>
+    <ctml:longitude>-60.95604000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66129" kind="city">
+    <ctml:name>Eau Piquant/St Urbain</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.76025000</ctml:latitude>
+    <ctml:longitude>-60.94012000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66130" kind="city">
+    <ctml:name>En Bamboo</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.78155000</ctml:latitude>
+    <ctml:longitude>-60.94763000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66135" kind="city">
+    <ctml:name>Esperance</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.78854000</ctml:latitude>
+    <ctml:longitude>-60.96108000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66147" kind="city">
+    <ctml:name>Fond Capeche</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.77449000</ctml:latitude>
+    <ctml:longitude>-60.94835000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66152" kind="city">
+    <ctml:name>Fond Sabot</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.77659000</ctml:latitude>
+    <ctml:longitude>-60.95546000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66168" kind="city">
+    <ctml:name>Grace</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3556840</ctml:wikiDataId>
+    <ctml:latitude>13.77678000</ctml:latitude>
+    <ctml:longitude>-60.96637000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66189" kind="city">
+    <ctml:name>Hewanorra Orchard</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.74486000</ctml:latitude>
+    <ctml:longitude>-60.97284000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66193" kind="city">
+    <ctml:name>Hope Estate</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.76477000</ctml:latitude>
+    <ctml:longitude>-60.95831000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66196" kind="city">
+    <ctml:name>Industrial Estate</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.74096000</ctml:latitude>
+    <ctml:longitude>-60.97393000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66202" kind="city">
+    <ctml:name>Joyeux</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.78313000</ctml:latitude>
+    <ctml:longitude>-60.96068000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66225" kind="city">
+    <ctml:name>La Resource</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.74799000</ctml:latitude>
+    <ctml:longitude>-60.96237000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66227" kind="city">
+    <ctml:name>La Retraite</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.75944000</ctml:latitude>
+    <ctml:longitude>-60.96632000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66230" kind="city">
+    <ctml:name>La Tourney/Cedar Heights</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3116994</ctml:wikiDataId>
+    <ctml:latitude>13.74114000</ctml:latitude>
+    <ctml:longitude>-60.96517000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66244" kind="city">
+    <ctml:name>Maganier</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q13220042</ctml:wikiDataId>
+    <ctml:latitude>13.79450000</ctml:latitude>
+    <ctml:longitude>-60.98513000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66307" kind="city">
+    <ctml:name>Morne Vert</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.77899000</ctml:latitude>
+    <ctml:longitude>-60.97617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66317" kind="city">
+    <ctml:name>Obrier</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.76831000</ctml:latitude>
+    <ctml:longitude>-60.97313000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66332" kind="city">
+    <ctml:name>Pierrot</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.76857000</ctml:latitude>
+    <ctml:longitude>-60.94381000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66337" kind="city">
+    <ctml:name>Plut</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.77417000</ctml:latitude>
+    <ctml:longitude>-60.96076000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66339" kind="city">
+    <ctml:name>Pomme</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q11779522</ctml:wikiDataId>
+    <ctml:latitude>13.75792000</ctml:latitude>
+    <ctml:longitude>-60.98147000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66380" kind="city">
+    <ctml:name>St Jude'S Highway</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.75867000</ctml:latitude>
+    <ctml:longitude>-60.97360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66394" kind="city">
+    <ctml:name>Tete Morne/Morne Andrew</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.77114000</ctml:latitude>
+    <ctml:longitude>-60.95194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66406" kind="city">
+    <ctml:name>Town</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q493030</ctml:wikiDataId>
+    <ctml:latitude>13.72835000</ctml:latitude>
+    <ctml:longitude>-60.95408000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66421" kind="city">
+    <ctml:name>Vieux Fort/Laborie Highway</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3494579</ctml:wikiDataId>
+    <ctml:latitude>13.73197000</ctml:latitude>
+    <ctml:longitude>-60.95477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66422" kind="city">
+    <ctml:name>Vige'</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3494579</ctml:wikiDataId>
+    <ctml:latitude>13.78692000</ctml:latitude>
+    <ctml:longitude>-60.93550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LCA-66433" kind="city">
+    <ctml:name>Westall Group/The Mangue</ctml:name>
+    <ctml:country>LCA</ctml:country>
+    <ctml:admin1>Vieux Fort</ctml:admin1>
+    <ctml:parentRef>place:admin1:LC-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3494579</ctml:wikiDataId>
+    <ctml:latitude>13.72707000</ctml:latitude>
+    <ctml:longitude>-60.95312000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

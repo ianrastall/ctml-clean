@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MKD-67546" kind="city">
+    <ctml:name>Usje</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Aerodrom</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-801</ctml:parentRef>
+    <ctml:wikiDataId>Q20931808</ctml:wikiDataId>
+    <ctml:latitude>41.95871000</ctml:latitude>
+    <ctml:longitude>21.45835000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67519" kind="city">
+    <ctml:name>Rusinovo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Berovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-201</ctml:parentRef>
+    <ctml:wikiDataId>Q221320</ctml:wikiDataId>
+    <ctml:latitude>41.68728000</ctml:latitude>
+    <ctml:longitude>22.80849000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67556" kind="city">
+    <ctml:name>Vladimirovo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Berovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-201</ctml:parentRef>
+    <ctml:wikiDataId>Q1042326</ctml:wikiDataId>
+    <ctml:latitude>41.71000000</ctml:latitude>
+    <ctml:longitude>22.79278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67391" kind="city">
+    <ctml:name>Bistrica</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Bitola</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-501</ctml:parentRef>
+    <ctml:wikiDataId>Q804083</ctml:wikiDataId>
+    <ctml:latitude>40.97892000</ctml:latitude>
+    <ctml:longitude>21.36580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67403" kind="city">
+    <ctml:name>Capari</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Bitola</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-501</ctml:parentRef>
+    <ctml:wikiDataId>Q608807</ctml:wikiDataId>
+    <ctml:latitude>41.05656000</ctml:latitude>
+    <ctml:longitude>21.17884000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67420" kind="city">
+    <ctml:name>Dolno Orizari</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Bitola</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-501</ctml:parentRef>
+    <ctml:wikiDataId>Q3034238</ctml:wikiDataId>
+    <ctml:latitude>41.05028000</ctml:latitude>
+    <ctml:longitude>21.37944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67464" kind="city">
+    <ctml:name>Kukurečani</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Bitola</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-501</ctml:parentRef>
+    <ctml:wikiDataId>Q568011</ctml:wikiDataId>
+    <ctml:latitude>41.09562000</ctml:latitude>
+    <ctml:longitude>21.32454000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67472" kind="city">
+    <ctml:name>Logovardi</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Bitola</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-501</ctml:parentRef>
+    <ctml:wikiDataId>Q3039706</ctml:wikiDataId>
+    <ctml:latitude>41.03096000</ctml:latitude>
+    <ctml:longitude>21.40967000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67534" kind="city">
+    <ctml:name>Stojakovo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Bogdanci</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-401</ctml:parentRef>
+    <ctml:wikiDataId>Q3135158</ctml:wikiDataId>
+    <ctml:latitude>41.15556000</ctml:latitude>
+    <ctml:longitude>22.57750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67421" kind="city">
+    <ctml:name>Dolno Palčište</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Bogovinje</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-601</ctml:parentRef>
+    <ctml:wikiDataId>Q20935923</ctml:wikiDataId>
+    <ctml:latitude>41.96859000</ctml:latitude>
+    <ctml:longitude>20.92899000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67447" kind="city">
+    <ctml:name>Kamenjane</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Bogovinje</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-601</ctml:parentRef>
+    <ctml:wikiDataId>Q3039686</ctml:wikiDataId>
+    <ctml:latitude>41.94568000</ctml:latitude>
+    <ctml:longitude>20.92894000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67441" kind="city">
+    <ctml:name>Ilovica</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Bosilovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-402</ctml:parentRef>
+    <ctml:wikiDataId>Q20932180</ctml:wikiDataId>
+    <ctml:latitude>41.47224000</ctml:latitude>
+    <ctml:longitude>22.80480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67523" kind="city">
+    <ctml:name>Sekirnik</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Bosilovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-402</ctml:parentRef>
+    <ctml:wikiDataId>Q667351</ctml:wikiDataId>
+    <ctml:latitude>41.43999000</ctml:latitude>
+    <ctml:longitude>22.79536000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67568" kind="city">
+    <ctml:name>Čelopek</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Brvenica</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-602</ctml:parentRef>
+    <ctml:wikiDataId>Q20935802</ctml:wikiDataId>
+    <ctml:latitude>41.93167000</ctml:latitude>
+    <ctml:longitude>21.01333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67439" kind="city">
+    <ctml:name>Gurgurnica</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Brvenica</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-602</ctml:parentRef>
+    <ctml:wikiDataId>Q3084341</ctml:wikiDataId>
+    <ctml:latitude>41.84508000</ctml:latitude>
+    <ctml:longitude>21.10538000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67483" kind="city">
+    <ctml:name>Miletino</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Brvenica</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-602</ctml:parentRef>
+    <ctml:wikiDataId>Q980976</ctml:wikiDataId>
+    <ctml:latitude>41.90753000</ctml:latitude>
+    <ctml:longitude>21.01601000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MKD-67401" kind="admin2">
+    <ctml:name>Butel</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Butel</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-803</ctml:parentRef>
+    <ctml:wikiDataId>Q20935773</ctml:wikiDataId>
+    <ctml:latitude>42.03083000</ctml:latitude>
+    <ctml:longitude>21.44667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67512" kind="city">
+    <ctml:name>Radishani</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Butel</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-803</ctml:parentRef>
+    <ctml:wikiDataId>Q20936042</ctml:wikiDataId>
+    <ctml:latitude>42.06111000</ctml:latitude>
+    <ctml:longitude>21.44778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MKD-67566" kind="admin2">
+    <ctml:name>Čair</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Čair</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-815</ctml:parentRef>
+    <ctml:wikiDataId>Q2990830</ctml:wikiDataId>
+    <ctml:latitude>42.01528000</ctml:latitude>
+    <ctml:longitude>21.44111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67395" kind="city">
+    <ctml:name>Bogomila</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Čaška</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-109</ctml:parentRef>
+    <ctml:wikiDataId>Q890640</ctml:wikiDataId>
+    <ctml:latitude>41.59306000</ctml:latitude>
+    <ctml:longitude>21.47167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67569" kind="city">
+    <ctml:name>Češinovo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Češinovo-Obleševo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-210</ctml:parentRef>
+    <ctml:wikiDataId>Q20935802</ctml:wikiDataId>
+    <ctml:latitude>41.87148000</ctml:latitude>
+    <ctml:longitude>22.28961000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67494" kind="city">
+    <ctml:name>Oblesevo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Češinovo-Obleševo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-210</ctml:parentRef>
+    <ctml:wikiDataId>Q20932489</ctml:wikiDataId>
+    <ctml:latitude>41.88333000</ctml:latitude>
+    <ctml:longitude>22.33389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67582" kind="city">
+    <ctml:name>Чучер - Сандево</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Čučer-Sandevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-816</ctml:parentRef>
+    <ctml:wikiDataId>Q341735</ctml:wikiDataId>
+    <ctml:latitude>42.10361000</ctml:latitude>
+    <ctml:longitude>21.38222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67481" kind="city">
+    <ctml:name>Mešeišta</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Debarca</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-304</ctml:parentRef>
+    <ctml:wikiDataId>Q3136344</ctml:wikiDataId>
+    <ctml:latitude>41.23814000</ctml:latitude>
+    <ctml:longitude>20.77414000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67528" kind="city">
+    <ctml:name>Slepče</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Demir Hisar</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-502</ctml:parentRef>
+    <ctml:wikiDataId>Q20936136</ctml:wikiDataId>
+    <ctml:latitude>41.23333000</ctml:latitude>
+    <ctml:longitude>21.17500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67529" kind="city">
+    <ctml:name>Sopotnica</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Demir Hisar</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-502</ctml:parentRef>
+    <ctml:wikiDataId>Q20936155</ctml:wikiDataId>
+    <ctml:latitude>41.29594000</ctml:latitude>
+    <ctml:longitude>21.15357000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67407" kind="city">
+    <ctml:name>Crnilište</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Dolneni</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-503</ctml:parentRef>
+    <ctml:wikiDataId>Q339762</ctml:wikiDataId>
+    <ctml:latitude>41.53025000</ctml:latitude>
+    <ctml:longitude>21.41416000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67412" kind="city">
+    <ctml:name>Desovo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Dolneni</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-503</ctml:parentRef>
+    <ctml:wikiDataId>Q3024547</ctml:wikiDataId>
+    <ctml:latitude>41.46278000</ctml:latitude>
+    <ctml:longitude>21.49111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67468" kind="city">
+    <ctml:name>Lažani</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Dolneni</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-503</ctml:parentRef>
+    <ctml:wikiDataId>Q2507299</ctml:wikiDataId>
+    <ctml:latitude>41.44222000</ctml:latitude>
+    <ctml:longitude>21.31583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67572" kind="city">
+    <ctml:name>Žitoše</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Dolneni</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-503</ctml:parentRef>
+    <ctml:wikiDataId>Q3074920</ctml:wikiDataId>
+    <ctml:latitude>41.41991000</ctml:latitude>
+    <ctml:longitude>21.29078000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67406" kind="city">
+    <ctml:name>Cresevo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Gazi Baba</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-804</ctml:parentRef>
+    <ctml:wikiDataId>Q20935821</ctml:wikiDataId>
+    <ctml:latitude>42.05083000</ctml:latitude>
+    <ctml:longitude>21.50972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67484" kind="city">
+    <ctml:name>Miravci</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Gevgelija</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-405</ctml:parentRef>
+    <ctml:wikiDataId>Q3084593</ctml:wikiDataId>
+    <ctml:latitude>41.30925000</ctml:latitude>
+    <ctml:longitude>22.43641000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67428" kind="city">
+    <ctml:name>Gjorče Petro</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Gjorče Petrov</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-805</ctml:parentRef>
+    <ctml:wikiDataId>Q157061</ctml:wikiDataId>
+    <ctml:latitude>42.00778000</ctml:latitude>
+    <ctml:longitude>21.35306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67404" kind="city">
+    <ctml:name>Cegrane</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Gostivar</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-604</ctml:parentRef>
+    <ctml:wikiDataId>Q338216</ctml:wikiDataId>
+    <ctml:latitude>41.83889000</ctml:latitude>
+    <ctml:longitude>20.97583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67417" kind="city">
+    <ctml:name>Dolna Banjica</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Gostivar</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-604</ctml:parentRef>
+    <ctml:wikiDataId>Q3034185</ctml:wikiDataId>
+    <ctml:latitude>41.78611000</ctml:latitude>
+    <ctml:longitude>20.90611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67426" kind="city">
+    <ctml:name>Forino</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Gostivar</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-604</ctml:parentRef>
+    <ctml:wikiDataId>Q20935974</ctml:wikiDataId>
+    <ctml:latitude>41.82334000</ctml:latitude>
+    <ctml:longitude>20.96174000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67531" kind="city">
+    <ctml:name>Srbinovo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Gostivar</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-604</ctml:parentRef>
+    <ctml:wikiDataId>Q1007540</ctml:wikiDataId>
+    <ctml:latitude>41.70586000</ctml:latitude>
+    <ctml:longitude>20.95859000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67560" kind="city">
+    <ctml:name>Vrutok</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Gostivar</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-604</ctml:parentRef>
+    <ctml:wikiDataId>Q915991</ctml:wikiDataId>
+    <ctml:latitude>41.76861000</ctml:latitude>
+    <ctml:longitude>20.83917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67446" kind="city">
+    <ctml:name>Kadino</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Ilinden</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-807</ctml:parentRef>
+    <ctml:wikiDataId>Q20932216</ctml:wikiDataId>
+    <ctml:latitude>41.96889000</ctml:latitude>
+    <ctml:longitude>21.60139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67478" kind="city">
+    <ctml:name>Marino</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Ilinden</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-807</ctml:parentRef>
+    <ctml:wikiDataId>Q21052605</ctml:wikiDataId>
+    <ctml:latitude>41.98776000</ctml:latitude>
+    <ctml:longitude>21.59148000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67482" kind="city">
+    <ctml:name>Miladinovci</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Ilinden</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-807</ctml:parentRef>
+    <ctml:wikiDataId>Q20932441</ctml:wikiDataId>
+    <ctml:latitude>41.98029000</ctml:latitude>
+    <ctml:longitude>21.64982000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67575" kind="city">
+    <ctml:name>Идризово</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Ilinden</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-807</ctml:parentRef>
+    <ctml:wikiDataId>Q1027709</ctml:wikiDataId>
+    <ctml:latitude>41.96083000</ctml:latitude>
+    <ctml:longitude>21.57556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67573" kind="city">
+    <ctml:name>Јурумлери</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Ilinden</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-807</ctml:parentRef>
+    <ctml:wikiDataId>Q3070894</ctml:wikiDataId>
+    <ctml:latitude>41.96722000</ctml:latitude>
+    <ctml:longitude>21.55694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67559" kind="city">
+    <ctml:name>Vratnica</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Jegunovce</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-606</ctml:parentRef>
+    <ctml:wikiDataId>Q3039697</ctml:wikiDataId>
+    <ctml:latitude>42.14333000</ctml:latitude>
+    <ctml:longitude>21.11694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67526" kind="city">
+    <ctml:name>Skopje</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Karpoš</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-808</ctml:parentRef>
+    <ctml:wikiDataId>Q384</ctml:wikiDataId>
+    <ctml:latitude>41.99646000</ctml:latitude>
+    <ctml:longitude>21.43141000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67550" kind="city">
+    <ctml:name>Vataša</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Kavadarci</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-104</ctml:parentRef>
+    <ctml:wikiDataId>Q20931817</ctml:wikiDataId>
+    <ctml:latitude>41.41694000</ctml:latitude>
+    <ctml:longitude>22.01889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67424" kind="city">
+    <ctml:name>Drugovo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Kičevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-307</ctml:parentRef>
+    <ctml:wikiDataId>Q3298739</ctml:wikiDataId>
+    <ctml:latitude>41.48490000</ctml:latitude>
+    <ctml:longitude>20.92636000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67530" kind="city">
+    <ctml:name>Srbica</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Kičevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-307</ctml:parentRef>
+    <ctml:wikiDataId>Q20936156</ctml:wikiDataId>
+    <ctml:latitude>41.58672000</ctml:latitude>
+    <ctml:longitude>21.03027000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67535" kind="city">
+    <ctml:name>Strelci</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Kičevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-307</ctml:parentRef>
+    <ctml:wikiDataId>Q20936199</ctml:wikiDataId>
+    <ctml:latitude>41.54046000</ctml:latitude>
+    <ctml:longitude>21.00563000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67545" kind="city">
+    <ctml:name>Tuin</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Kičevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-307</ctml:parentRef>
+    <ctml:wikiDataId>Q3137042</ctml:wikiDataId>
+    <ctml:latitude>41.61944000</ctml:latitude>
+    <ctml:longitude>21.04528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67557" kind="city">
+    <ctml:name>Vraneštica</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Kičevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-307</ctml:parentRef>
+    <ctml:wikiDataId>Q3084373</ctml:wikiDataId>
+    <ctml:latitude>41.44496000</ctml:latitude>
+    <ctml:longitude>21.02683000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67561" kind="city">
+    <ctml:name>Zajas</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Kičevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-307</ctml:parentRef>
+    <ctml:wikiDataId>Q144465</ctml:wikiDataId>
+    <ctml:latitude>41.60722000</ctml:latitude>
+    <ctml:longitude>20.93833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67423" kind="city">
+    <ctml:name>Dračevo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Kisela Voda</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-809</ctml:parentRef>
+    <ctml:wikiDataId>Q1026744</ctml:wikiDataId>
+    <ctml:latitude>41.93667000</ctml:latitude>
+    <ctml:longitude>21.52167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MKD-67451" kind="admin2">
+    <ctml:name>Kisela Voda</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Kisela Voda</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-809</ctml:parentRef>
+    <ctml:wikiDataId>Q158088</ctml:wikiDataId>
+    <ctml:latitude>41.94889000</ctml:latitude>
+    <ctml:longitude>21.50278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67501" kind="city">
+    <ctml:name>Orizari</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Kočani</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-206</ctml:parentRef>
+    <ctml:wikiDataId>Q20932509</ctml:wikiDataId>
+    <ctml:latitude>41.92262000</ctml:latitude>
+    <ctml:longitude>22.44628000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67495" kind="city">
+    <ctml:name>Obršani</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Krivogaštani</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-504</ctml:parentRef>
+    <ctml:wikiDataId>Q3074771</ctml:wikiDataId>
+    <ctml:latitude>41.28168000</ctml:latitude>
+    <ctml:longitude>21.36150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67576" kind="city">
+    <ctml:name>Клечовце</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Krivogaštani</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-504</ctml:parentRef>
+    <ctml:wikiDataId>Q3072576</ctml:wikiDataId>
+    <ctml:latitude>42.11611000</ctml:latitude>
+    <ctml:longitude>21.85722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67402" kind="city">
+    <ctml:name>Bučin</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Kruševo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-505</ctml:parentRef>
+    <ctml:wikiDataId>Q2922590</ctml:wikiDataId>
+    <ctml:latitude>41.27377000</ctml:latitude>
+    <ctml:longitude>21.31692000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67387" kind="city">
+    <ctml:name>Bedinje</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Kumanovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-703</ctml:parentRef>
+    <ctml:wikiDataId>Q2929743</ctml:wikiDataId>
+    <ctml:latitude>42.14167000</ctml:latitude>
+    <ctml:longitude>21.69639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67516" kind="city">
+    <ctml:name>Romanovci</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Kumanovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-703</ctml:parentRef>
+    <ctml:wikiDataId>Q3071683</ctml:wikiDataId>
+    <ctml:latitude>42.09472000</ctml:latitude>
+    <ctml:longitude>21.69306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67443" kind="city">
+    <ctml:name>Izvor</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Lipkovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-704</ctml:parentRef>
+    <ctml:wikiDataId>Q20932189</ctml:wikiDataId>
+    <ctml:latitude>42.20322000</ctml:latitude>
+    <ctml:longitude>21.57812000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67473" kind="city">
+    <ctml:name>Lojane</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Lipkovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-704</ctml:parentRef>
+    <ctml:wikiDataId>Q1007469</ctml:wikiDataId>
+    <ctml:latitude>42.23276000</ctml:latitude>
+    <ctml:longitude>21.66550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67480" kind="city">
+    <ctml:name>Matejce</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Lipkovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-704</ctml:parentRef>
+    <ctml:wikiDataId>Q3133697</ctml:wikiDataId>
+    <ctml:latitude>42.12556000</ctml:latitude>
+    <ctml:longitude>21.59778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67502" kind="city">
+    <ctml:name>Otlja</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Lipkovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-704</ctml:parentRef>
+    <ctml:wikiDataId>Q3071709</ctml:wikiDataId>
+    <ctml:latitude>42.14315000</ctml:latitude>
+    <ctml:longitude>21.58675000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67547" kind="city">
+    <ctml:name>Vaksince</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Lipkovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-704</ctml:parentRef>
+    <ctml:wikiDataId>Q1007227</ctml:wikiDataId>
+    <ctml:latitude>42.20611000</ctml:latitude>
+    <ctml:longitude>21.66306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67579" kind="city">
+    <ctml:name>Слупчане</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Lipkovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-704</ctml:parentRef>
+    <ctml:wikiDataId>Q3072536</ctml:wikiDataId>
+    <ctml:latitude>42.17333000</ctml:latitude>
+    <ctml:longitude>21.62778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67520" kind="city">
+    <ctml:name>Samokov</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Makedonski Brod</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-308</ctml:parentRef>
+    <ctml:wikiDataId>Q20936094</ctml:wikiDataId>
+    <ctml:latitude>41.68331000</ctml:latitude>
+    <ctml:longitude>21.14625000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67389" kind="city">
+    <ctml:name>Beranci</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Mogila</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-506</ctml:parentRef>
+    <ctml:wikiDataId>Q2896871</ctml:wikiDataId>
+    <ctml:latitude>41.15969000</ctml:latitude>
+    <ctml:longitude>21.35963000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67416" kind="city">
+    <ctml:name>Dobruševo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Mogila</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-506</ctml:parentRef>
+    <ctml:wikiDataId>Q3033415</ctml:wikiDataId>
+    <ctml:latitude>41.16861000</ctml:latitude>
+    <ctml:longitude>21.48250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67422" kind="city">
+    <ctml:name>Dolno Srpci</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Mogila</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-506</ctml:parentRef>
+    <ctml:wikiDataId>Q1026744</ctml:wikiDataId>
+    <ctml:latitude>41.17480000</ctml:latitude>
+    <ctml:longitude>21.36464000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67540" kind="city">
+    <ctml:name>Sušica</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Novo Selo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-408</ctml:parentRef>
+    <ctml:wikiDataId>Q20931924</ctml:wikiDataId>
+    <ctml:latitude>41.43982000</ctml:latitude>
+    <ctml:longitude>22.83676000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67456" kind="city">
+    <ctml:name>Kosel</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Ohrid</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-310</ctml:parentRef>
+    <ctml:wikiDataId>Q3136230</ctml:wikiDataId>
+    <ctml:latitude>41.17444000</ctml:latitude>
+    <ctml:longitude>20.83556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67497" kind="city">
+    <ctml:name>Ohrid Opština</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Ohrid</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-310</ctml:parentRef>
+    <ctml:wikiDataId>Q1125333</ctml:wikiDataId>
+    <ctml:latitude>41.16667000</ctml:latitude>
+    <ctml:longitude>20.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67532" kind="city">
+    <ctml:name>Sredno Konjare</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Petrovec</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-810</ctml:parentRef>
+    <ctml:wikiDataId>Q20936157</ctml:wikiDataId>
+    <ctml:latitude>41.95743000</ctml:latitude>
+    <ctml:longitude>21.71494000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67470" kind="city">
+    <ctml:name>Lisičani</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Plasnica</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-311</ctml:parentRef>
+    <ctml:wikiDataId>Q673934</ctml:wikiDataId>
+    <ctml:latitude>41.46139000</ctml:latitude>
+    <ctml:longitude>21.05444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67448" kind="city">
+    <ctml:name>Kanatlarci</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Prilep</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-508</ctml:parentRef>
+    <ctml:wikiDataId>Q932777</ctml:wikiDataId>
+    <ctml:latitude>41.21028000</ctml:latitude>
+    <ctml:longitude>21.50333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67479" kind="city">
+    <ctml:name>Markov Grad</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Prilep</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-508</ctml:parentRef>
+    <ctml:wikiDataId>Q21052605</ctml:wikiDataId>
+    <ctml:latitude>41.35722000</ctml:latitude>
+    <ctml:longitude>21.53250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67544" kind="city">
+    <ctml:name>Topolčani</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Prilep</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-508</ctml:parentRef>
+    <ctml:wikiDataId>Q3136314</ctml:wikiDataId>
+    <ctml:latitude>41.22772000</ctml:latitude>
+    <ctml:longitude>21.43113000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67564" kind="city">
+    <ctml:name>Zletovo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Probištip</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-209</ctml:parentRef>
+    <ctml:wikiDataId>Q2731405</ctml:wikiDataId>
+    <ctml:latitude>41.98861000</ctml:latitude>
+    <ctml:longitude>22.23611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67499" kind="city">
+    <ctml:name>Oraovica</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Radoviš</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-409</ctml:parentRef>
+    <ctml:wikiDataId>Q20932501</ctml:wikiDataId>
+    <ctml:latitude>41.62583000</ctml:latitude>
+    <ctml:longitude>22.51333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67507" kind="city">
+    <ctml:name>Podareš</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Radoviš</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-409</ctml:parentRef>
+    <ctml:wikiDataId>Q3134776</ctml:wikiDataId>
+    <ctml:latitude>41.61389000</ctml:latitude>
+    <ctml:longitude>22.54222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67437" kind="city">
+    <ctml:name>Grnčari</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Resen</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-509</ctml:parentRef>
+    <ctml:wikiDataId>Q3074420</ctml:wikiDataId>
+    <ctml:latitude>41.01722000</ctml:latitude>
+    <ctml:longitude>21.05333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67444" kind="city">
+    <ctml:name>Jankovec</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Resen</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-509</ctml:parentRef>
+    <ctml:wikiDataId>Q3135656</ctml:wikiDataId>
+    <ctml:latitude>41.11028000</ctml:latitude>
+    <ctml:longitude>21.01139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67457" kind="city">
+    <ctml:name>Krani</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Resen</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-509</ctml:parentRef>
+    <ctml:wikiDataId>Q3135769</ctml:wikiDataId>
+    <ctml:latitude>40.93934000</ctml:latitude>
+    <ctml:longitude>21.10911000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67397" kind="city">
+    <ctml:name>Bojane</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Saraj</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-811</ctml:parentRef>
+    <ctml:wikiDataId>Q2922998</ctml:wikiDataId>
+    <ctml:latitude>42.00009000</ctml:latitude>
+    <ctml:longitude>21.19265000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67400" kind="city">
+    <ctml:name>Bukovik</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Saraj</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-811</ctml:parentRef>
+    <ctml:wikiDataId>Q20935773</ctml:wikiDataId>
+    <ctml:latitude>41.96833000</ctml:latitude>
+    <ctml:longitude>21.23694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67438" kind="city">
+    <ctml:name>Grčec</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Saraj</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-811</ctml:parentRef>
+    <ctml:wikiDataId>Q3071274</ctml:wikiDataId>
+    <ctml:latitude>41.98806000</ctml:latitude>
+    <ctml:longitude>21.33028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67454" kind="city">
+    <ctml:name>Kondovo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Saraj</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-811</ctml:parentRef>
+    <ctml:wikiDataId>Q20932274</ctml:wikiDataId>
+    <ctml:latitude>42.01167000</ctml:latitude>
+    <ctml:longitude>21.31361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67462" kind="city">
+    <ctml:name>Krušopek</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Saraj</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-811</ctml:parentRef>
+    <ctml:wikiDataId>Q20932326</ctml:wikiDataId>
+    <ctml:latitude>41.97833000</ctml:latitude>
+    <ctml:longitude>21.35444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67471" kind="city">
+    <ctml:name>Ljubin</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Saraj</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-811</ctml:parentRef>
+    <ctml:wikiDataId>Q20932376</ctml:wikiDataId>
+    <ctml:latitude>42.00139000</ctml:latitude>
+    <ctml:longitude>21.30917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67521" kind="city">
+    <ctml:name>Saraj</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Saraj</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-811</ctml:parentRef>
+    <ctml:wikiDataId>Q3409927</ctml:wikiDataId>
+    <ctml:latitude>42.00000000</ctml:latitude>
+    <ctml:longitude>21.32778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67580" kind="city">
+    <ctml:name>Сопиште</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Sopište</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-812</ctml:parentRef>
+    <ctml:wikiDataId>Q2564102</ctml:wikiDataId>
+    <ctml:latitude>41.95472000</ctml:latitude>
+    <ctml:longitude>21.42750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67409" kind="city">
+    <ctml:name>Delogožda</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Struga</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-312</ctml:parentRef>
+    <ctml:wikiDataId>Q1184573</ctml:wikiDataId>
+    <ctml:latitude>41.25728000</ctml:latitude>
+    <ctml:longitude>20.72180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MKD-67466" kind="admin2">
+    <ctml:name>Labunista</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Struga</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-312</ctml:parentRef>
+    <ctml:wikiDataId>Q20932344</ctml:wikiDataId>
+    <ctml:latitude>41.26861000</ctml:latitude>
+    <ctml:longitude>20.59611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67475" kind="city">
+    <ctml:name>Lukovo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Struga</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-312</ctml:parentRef>
+    <ctml:wikiDataId>Q20932388</ctml:wikiDataId>
+    <ctml:latitude>41.35339000</ctml:latitude>
+    <ctml:longitude>20.60637000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67485" kind="city">
+    <ctml:name>Mislesevo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Struga</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-312</ctml:parentRef>
+    <ctml:wikiDataId>Q20932446</ctml:wikiDataId>
+    <ctml:latitude>41.18500000</ctml:latitude>
+    <ctml:longitude>20.70861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67498" kind="city">
+    <ctml:name>Oktisi</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Struga</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-312</ctml:parentRef>
+    <ctml:wikiDataId>Q2017632</ctml:wikiDataId>
+    <ctml:latitude>41.23250000</ctml:latitude>
+    <ctml:longitude>20.60722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67513" kind="city">
+    <ctml:name>Radolista</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Struga</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-312</ctml:parentRef>
+    <ctml:wikiDataId>Q1021618</ctml:wikiDataId>
+    <ctml:latitude>41.16417000</ctml:latitude>
+    <ctml:longitude>20.62333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67552" kind="city">
+    <ctml:name>Velesta</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Struga</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-312</ctml:parentRef>
+    <ctml:wikiDataId>Q20931820</ctml:wikiDataId>
+    <ctml:latitude>41.24083000</ctml:latitude>
+    <ctml:longitude>20.64389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67463" kind="city">
+    <ctml:name>Kuklis</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Strumica</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-410</ctml:parentRef>
+    <ctml:wikiDataId>Q6442528</ctml:wikiDataId>
+    <ctml:latitude>41.40528000</ctml:latitude>
+    <ctml:longitude>22.66528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67488" kind="city">
+    <ctml:name>Murtino</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Strumica</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-410</ctml:parentRef>
+    <ctml:wikiDataId>Q3135323</ctml:wikiDataId>
+    <ctml:latitude>41.41537000</ctml:latitude>
+    <ctml:longitude>22.72589000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67553" kind="city">
+    <ctml:name>Veljusa</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Strumica</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-410</ctml:parentRef>
+    <ctml:wikiDataId>Q3135127</ctml:wikiDataId>
+    <ctml:latitude>41.47611000</ctml:latitude>
+    <ctml:longitude>22.56750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67386" kind="city">
+    <ctml:name>Batinci</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Studeničani</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-813</ctml:parentRef>
+    <ctml:wikiDataId>Q2891397</ctml:wikiDataId>
+    <ctml:latitude>41.91909000</ctml:latitude>
+    <ctml:longitude>21.47978000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67419" kind="city">
+    <ctml:name>Dolno Količani</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Studeničani</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-813</ctml:parentRef>
+    <ctml:wikiDataId>Q3034212</ctml:wikiDataId>
+    <ctml:latitude>41.88639000</ctml:latitude>
+    <ctml:longitude>21.48556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67487" kind="city">
+    <ctml:name>Morani</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Studeničani</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-813</ctml:parentRef>
+    <ctml:wikiDataId>Q20932450</ctml:wikiDataId>
+    <ctml:latitude>41.90978000</ctml:latitude>
+    <ctml:longitude>21.54997000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MKD-67571" kind="admin2">
+    <ctml:name>Šuto Orizare</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Šuto Orizari</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-817</ctml:parentRef>
+    <ctml:wikiDataId>Q391691</ctml:wikiDataId>
+    <ctml:latitude>42.04000000</ctml:latitude>
+    <ctml:longitude>21.42500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67432" kind="city">
+    <ctml:name>Gorobinci</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Sveti Nikole</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-108</ctml:parentRef>
+    <ctml:wikiDataId>Q982917</ctml:wikiDataId>
+    <ctml:latitude>41.87507000</ctml:latitude>
+    <ctml:longitude>21.87599000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67491" kind="city">
+    <ctml:name>Nerašte</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Tearce</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-608</ctml:parentRef>
+    <ctml:wikiDataId>Q20932467</ctml:wikiDataId>
+    <ctml:latitude>42.10711000</ctml:latitude>
+    <ctml:longitude>21.10810000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67500" kind="city">
+    <ctml:name>Orashac</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Tearce</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-608</ctml:parentRef>
+    <ctml:wikiDataId>Q20932502</ctml:wikiDataId>
+    <ctml:latitude>42.06250000</ctml:latitude>
+    <ctml:longitude>21.79972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67511" kind="city">
+    <ctml:name>Pršovce</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Tearce</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-608</ctml:parentRef>
+    <ctml:wikiDataId>Q1991722</ctml:wikiDataId>
+    <ctml:latitude>42.08336000</ctml:latitude>
+    <ctml:longitude>21.05994000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67527" kind="city">
+    <ctml:name>Slatino</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Tearce</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-608</ctml:parentRef>
+    <ctml:wikiDataId>Q20936134</ctml:wikiDataId>
+    <ctml:latitude>42.06784000</ctml:latitude>
+    <ctml:longitude>21.03902000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67415" kind="city">
+    <ctml:name>Dobrošte</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Tetovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-609</ctml:parentRef>
+    <ctml:wikiDataId>Q3033396</ctml:wikiDataId>
+    <ctml:latitude>42.10333000</ctml:latitude>
+    <ctml:longitude>21.07778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67425" kind="city">
+    <ctml:name>Džepčište</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Tetovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-609</ctml:parentRef>
+    <ctml:wikiDataId>Q1272807</ctml:wikiDataId>
+    <ctml:latitude>42.03287000</ctml:latitude>
+    <ctml:longitude>20.99817000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67429" kind="city">
+    <ctml:name>Golema Rečica</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Tetovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-609</ctml:parentRef>
+    <ctml:wikiDataId>Q628610</ctml:wikiDataId>
+    <ctml:latitude>41.98803000</ctml:latitude>
+    <ctml:longitude>20.94517000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67505" kind="city">
+    <ctml:name>Pirok</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Tetovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-609</ctml:parentRef>
+    <ctml:wikiDataId>Q3039876</ctml:wikiDataId>
+    <ctml:latitude>41.91083000</ctml:latitude>
+    <ctml:longitude>20.91056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67508" kind="city">
+    <ctml:name>Poroj</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Tetovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-609</ctml:parentRef>
+    <ctml:wikiDataId>Q20933185</ctml:wikiDataId>
+    <ctml:latitude>42.02913000</ctml:latitude>
+    <ctml:longitude>20.99266000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67524" kind="city">
+    <ctml:name>Selce</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Tetovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-609</ctml:parentRef>
+    <ctml:wikiDataId>Q20936109</ctml:wikiDataId>
+    <ctml:latitude>42.03482000</ctml:latitude>
+    <ctml:longitude>20.94035000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67570" kind="city">
+    <ctml:name>Šipkovica</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Tetovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-609</ctml:parentRef>
+    <ctml:wikiDataId>Q391691</ctml:wikiDataId>
+    <ctml:latitude>42.03500000</ctml:latitude>
+    <ctml:longitude>20.91556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67504" kind="city">
+    <ctml:name>Pirava</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Valandovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-403</ctml:parentRef>
+    <ctml:wikiDataId>Q3135030</ctml:wikiDataId>
+    <ctml:latitude>41.32042000</ctml:latitude>
+    <ctml:longitude>22.53047000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67430" kind="city">
+    <ctml:name>Gorno Orizari</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Veles</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-101</ctml:parentRef>
+    <ctml:wikiDataId>Q20932132</ctml:wikiDataId>
+    <ctml:latitude>41.68583000</ctml:latitude>
+    <ctml:longitude>21.73475000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67442" kind="city">
+    <ctml:name>Ivankovci</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Veles</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-101</ctml:parentRef>
+    <ctml:wikiDataId>Q3072906</ctml:wikiDataId>
+    <ctml:latitude>41.84889000</ctml:latitude>
+    <ctml:longitude>21.82028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67393" kind="city">
+    <ctml:name>Blatec</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Vinica</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-202</ctml:parentRef>
+    <ctml:wikiDataId>Q20933280</ctml:wikiDataId>
+    <ctml:latitude>41.83668000</ctml:latitude>
+    <ctml:longitude>22.57909000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67434" kind="city">
+    <ctml:name>Gradec</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Vinica</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-202</ctml:parentRef>
+    <ctml:wikiDataId>Q20932142</ctml:wikiDataId>
+    <ctml:latitude>41.85068000</ctml:latitude>
+    <ctml:longitude>22.51132000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67414" kind="city">
+    <ctml:name>Dobri Dol</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Vrapčište</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-603</ctml:parentRef>
+    <ctml:wikiDataId>Q20935897</ctml:wikiDataId>
+    <ctml:latitude>41.86520000</ctml:latitude>
+    <ctml:longitude>20.89009000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67413" kind="city">
+    <ctml:name>Dobarce</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Želino</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-605</ctml:parentRef>
+    <ctml:wikiDataId>Q3033274</ctml:wikiDataId>
+    <ctml:latitude>41.95530000</ctml:latitude>
+    <ctml:longitude>21.08875000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67467" kind="city">
+    <ctml:name>Larce</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Želino</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-605</ctml:parentRef>
+    <ctml:wikiDataId>Q3077575</ctml:wikiDataId>
+    <ctml:latitude>41.93319000</ctml:latitude>
+    <ctml:longitude>21.12628000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67522" kind="city">
+    <ctml:name>Sedlarevo</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Želino</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-605</ctml:parentRef>
+    <ctml:wikiDataId>Q3077503</ctml:wikiDataId>
+    <ctml:latitude>41.88306000</ctml:latitude>
+    <ctml:longitude>21.12750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MKD-67536" kind="city">
+    <ctml:name>Strimnica</ctml:name>
+    <ctml:country>MKD</ctml:country>
+    <ctml:admin1>Želino</ctml:admin1>
+    <ctml:parentRef>place:admin1:MK-605</ctml:parentRef>
+    <ctml:wikiDataId>Q3077647</ctml:wikiDataId>
+    <ctml:latitude>41.96719000</ctml:latitude>
+    <ctml:longitude>21.03598000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

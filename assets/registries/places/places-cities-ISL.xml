@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:ISL-135162" kind="admin2">
+    <ctml:name>Akranes</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Akranes</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-AKN</ctml:parentRef>
+    <ctml:wikiDataId>Q107398</ctml:wikiDataId>
+    <ctml:latitude>64.32179000</ctml:latitude>
+    <ctml:longitude>-22.07490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135229" kind="city">
+    <ctml:name>Ásahreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Ásahreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-ASA</ctml:parentRef>
+    <ctml:wikiDataId>Q252482</ctml:wikiDataId>
+    <ctml:latitude>63.87589000</ctml:latitude>
+    <ctml:longitude>-20.59484000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135164" kind="city">
+    <ctml:name>Bláskógabyggð</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Bláskógabyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-BLA</ctml:parentRef>
+    <ctml:wikiDataId>Q886944</ctml:wikiDataId>
+    <ctml:latitude>64.41667000</ctml:latitude>
+    <ctml:longitude>-20.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135161" kind="city">
+    <ctml:name>Akrahreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Borgarbyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-BOG</ctml:parentRef>
+    <ctml:wikiDataId>Q420730</ctml:wikiDataId>
+    <ctml:latitude>65.35505000</ctml:latitude>
+    <ctml:longitude>-18.79572000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135165" kind="city">
+    <ctml:name>Borgarbyggð</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Borgarbyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-BOG</ctml:parentRef>
+    <ctml:wikiDataId>Q893528</ctml:wikiDataId>
+    <ctml:latitude>64.71446000</ctml:latitude>
+    <ctml:longitude>-21.23788000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135166" kind="city">
+    <ctml:name>Borgarfjarðarhreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Borgarbyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-BOG</ctml:parentRef>
+    <ctml:wikiDataId>Q893531</ctml:wikiDataId>
+    <ctml:latitude>65.43401000</ctml:latitude>
+    <ctml:longitude>-13.82933000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135169" kind="city">
+    <ctml:name>Dalabyggð</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Dalabyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-DAB</ctml:parentRef>
+    <ctml:wikiDataId>Q1157787</ctml:wikiDataId>
+    <ctml:latitude>65.10121000</ctml:latitude>
+    <ctml:longitude>-21.72871000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135170" kind="city">
+    <ctml:name>Dalvík</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Dalvíkurbyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-DAV</ctml:parentRef>
+    <ctml:wikiDataId>Q921052</ctml:wikiDataId>
+    <ctml:latitude>65.97018000</ctml:latitude>
+    <ctml:longitude>-18.52861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135171" kind="city">
+    <ctml:name>Dalvíkurbyggð</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Dalvíkurbyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-DAV</ctml:parentRef>
+    <ctml:wikiDataId>Q1158104</ctml:wikiDataId>
+    <ctml:latitude>65.87318000</ctml:latitude>
+    <ctml:longitude>-18.60844000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135174" kind="city">
+    <ctml:name>Eyja- og Miklaholtshreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Eyja- og Miklaholtshreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-EOM</ctml:parentRef>
+    <ctml:wikiDataId>Q1385816</ctml:wikiDataId>
+    <ctml:latitude>64.85846000</ctml:latitude>
+    <ctml:longitude>-22.54557000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135175" kind="city">
+    <ctml:name>Eyjafjarðarsveit</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Eyjafjarðarsveit</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-EYF</ctml:parentRef>
+    <ctml:wikiDataId>Q510141</ctml:wikiDataId>
+    <ctml:latitude>65.33333000</ctml:latitude>
+    <ctml:longitude>-18.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135176" kind="city">
+    <ctml:name>Fjallabyggð</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Fjallabyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-FJL</ctml:parentRef>
+    <ctml:wikiDataId>Q729833</ctml:wikiDataId>
+    <ctml:latitude>66.05962000</ctml:latitude>
+    <ctml:longitude>-18.78220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135212" kind="city">
+    <ctml:name>Siglufjörður</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Fjallabyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-FJL</ctml:parentRef>
+    <ctml:wikiDataId>Q1887662</ctml:wikiDataId>
+    <ctml:latitude>66.15198000</ctml:latitude>
+    <ctml:longitude>-18.90815000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135168" kind="city">
+    <ctml:name>Breiðdalshreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Fjarðabyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-FJD</ctml:parentRef>
+    <ctml:wikiDataId>Q431733</ctml:wikiDataId>
+    <ctml:latitude>64.83333000</ctml:latitude>
+    <ctml:longitude>-14.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135173" kind="city">
+    <ctml:name>Eskifjörður</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Fjarðabyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-FJD</ctml:parentRef>
+    <ctml:wikiDataId>Q765521</ctml:wikiDataId>
+    <ctml:latitude>65.07306000</ctml:latitude>
+    <ctml:longitude>-14.01525000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135177" kind="city">
+    <ctml:name>Fjarðabyggð</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Fjarðabyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-FJD</ctml:parentRef>
+    <ctml:wikiDataId>Q1146805</ctml:wikiDataId>
+    <ctml:latitude>65.08333000</ctml:latitude>
+    <ctml:longitude>-14.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135203" kind="city">
+    <ctml:name>Neskaupstaður</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Fjarðabyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-FJD</ctml:parentRef>
+    <ctml:wikiDataId>Q176728</ctml:wikiDataId>
+    <ctml:latitude>65.14819000</ctml:latitude>
+    <ctml:longitude>-13.68368000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135207" kind="city">
+    <ctml:name>Reyðarfjörður</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Fjarðabyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-FJD</ctml:parentRef>
+    <ctml:wikiDataId>Q1019443</ctml:wikiDataId>
+    <ctml:latitude>65.03164000</ctml:latitude>
+    <ctml:longitude>-14.21832000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135178" kind="city">
+    <ctml:name>Fljótsdalshreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Fljótsdalshreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-FLR</ctml:parentRef>
+    <ctml:wikiDataId>Q1429028</ctml:wikiDataId>
+    <ctml:latitude>64.85275000</ctml:latitude>
+    <ctml:longitude>-15.25680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135180" kind="city">
+    <ctml:name>Flóahreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Flóahreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-FLA</ctml:parentRef>
+    <ctml:wikiDataId>Q962730</ctml:wikiDataId>
+    <ctml:latitude>63.89569000</ctml:latitude>
+    <ctml:longitude>-20.80159000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135228" kind="city">
+    <ctml:name>Álftanes</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Garðabær</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-GAR</ctml:parentRef>
+    <ctml:wikiDataId>Q139045</ctml:wikiDataId>
+    <ctml:latitude>64.10000000</ctml:latitude>
+    <ctml:longitude>-22.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135181" kind="city">
+    <ctml:name>Garðabær</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Garðabær</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-GAR</ctml:parentRef>
+    <ctml:wikiDataId>Q186142</ctml:wikiDataId>
+    <ctml:latitude>64.08865000</ctml:latitude>
+    <ctml:longitude>-21.92298000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135184" kind="city">
+    <ctml:name>Grímsnes- og Grafningshreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Grímsnes- og Grafningshreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-GOG</ctml:parentRef>
+    <ctml:wikiDataId>Q1551596</ctml:wikiDataId>
+    <ctml:latitude>64.08533000</ctml:latitude>
+    <ctml:longitude>-20.96710000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135183" kind="city">
+    <ctml:name>Grindavík</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Grindavík</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-GRN</ctml:parentRef>
+    <ctml:wikiDataId>Q472822</ctml:wikiDataId>
+    <ctml:latitude>63.83849000</ctml:latitude>
+    <ctml:longitude>-22.43931000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135185" kind="city">
+    <ctml:name>Grýtubakkahreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Grýtubakkahreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-GRY</ctml:parentRef>
+    <ctml:wikiDataId>Q337924</ctml:wikiDataId>
+    <ctml:latitude>65.98333000</ctml:latitude>
+    <ctml:longitude>-18.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135186" kind="city">
+    <ctml:name>Hafnarfjörður</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Hafnarfjörður</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-HAF</ctml:parentRef>
+    <ctml:wikiDataId>Q103725</ctml:wikiDataId>
+    <ctml:latitude>64.06710000</ctml:latitude>
+    <ctml:longitude>-21.93774000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135192" kind="city">
+    <ctml:name>Hörgársveit</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Hörðarsveit</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-HRG</ctml:parentRef>
+    <ctml:wikiDataId>Q1432846</ctml:wikiDataId>
+    <ctml:latitude>65.64828000</ctml:latitude>
+    <ctml:longitude>-18.49599000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135191" kind="city">
+    <ctml:name>Höfn</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Hornafjörður</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-SHF</ctml:parentRef>
+    <ctml:wikiDataId>Q817118</ctml:wikiDataId>
+    <ctml:latitude>64.25388000</ctml:latitude>
+    <ctml:longitude>-15.21212000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135188" kind="city">
+    <ctml:name>Hrunamannahreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Hrunamannahreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-HRU</ctml:parentRef>
+    <ctml:wikiDataId>Q1300938</ctml:wikiDataId>
+    <ctml:latitude>64.40944000</ctml:latitude>
+    <ctml:longitude>-19.72237000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135193" kind="city">
+    <ctml:name>Húnaþing Vestra</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Húnaþing vestra</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-HUV</ctml:parentRef>
+    <ctml:wikiDataId>Q1652058</ctml:wikiDataId>
+    <ctml:latitude>65.25000000</ctml:latitude>
+    <ctml:longitude>-20.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135189" kind="city">
+    <ctml:name>Hvalfjarðarsveit</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Hvalfjarðarsveit</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-HVA</ctml:parentRef>
+    <ctml:wikiDataId>Q278600</ctml:wikiDataId>
+    <ctml:latitude>64.44265000</ctml:latitude>
+    <ctml:longitude>-21.61086000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135190" kind="city">
+    <ctml:name>Hveragerði</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Hveragerði</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-HVE</ctml:parentRef>
+    <ctml:wikiDataId>Q1025701</ctml:wikiDataId>
+    <ctml:latitude>64.00039000</ctml:latitude>
+    <ctml:longitude>-21.18602000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135196" kind="city">
+    <ctml:name>Kjósarhreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Kjósarhreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-KJO</ctml:parentRef>
+    <ctml:wikiDataId>Q1744094</ctml:wikiDataId>
+    <ctml:latitude>64.30644000</ctml:latitude>
+    <ctml:longitude>-21.49919000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135197" kind="city">
+    <ctml:name>Kópavogur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Kópavogur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-KOP</ctml:parentRef>
+    <ctml:wikiDataId>Q163852</ctml:wikiDataId>
+    <ctml:latitude>64.11234000</ctml:latitude>
+    <ctml:longitude>-21.91298000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135198" kind="city">
+    <ctml:name>Langanesbyggð</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Langanesbyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-LAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1713264</ctml:wikiDataId>
+    <ctml:latitude>66.05186000</ctml:latitude>
+    <ctml:longitude>-15.18969000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135200" kind="city">
+    <ctml:name>Mosfellsbaer</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Mosfellsbær</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-MOS</ctml:parentRef>
+    <ctml:wikiDataId>Q829859</ctml:wikiDataId>
+    <ctml:latitude>64.15000000</ctml:latitude>
+    <ctml:longitude>-21.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135179" kind="city">
+    <ctml:name>Fljótsdalshérað</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Múlaþing</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-MUL</ctml:parentRef>
+    <ctml:wikiDataId>Q665474</ctml:wikiDataId>
+    <ctml:latitude>65.25020000</ctml:latitude>
+    <ctml:longitude>-15.37211000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135202" kind="city">
+    <ctml:name>Mýrdalshreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Mýrdalshreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-MYR</ctml:parentRef>
+    <ctml:wikiDataId>Q1486343</ctml:wikiDataId>
+    <ctml:latitude>63.50000000</ctml:latitude>
+    <ctml:longitude>-19.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135194" kind="city">
+    <ctml:name>Húsavík</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Norðurþing</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-NOR</ctml:parentRef>
+    <ctml:wikiDataId>Q1533546</ctml:wikiDataId>
+    <ctml:latitude>66.04148000</ctml:latitude>
+    <ctml:longitude>-17.33834000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135234" kind="city">
+    <ctml:name>Þorlákshöfn</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Ölfus</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-SOL</ctml:parentRef>
+    <ctml:wikiDataId>Q335596</ctml:wikiDataId>
+    <ctml:latitude>63.85591000</ctml:latitude>
+    <ctml:longitude>-21.38337000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135204" kind="city">
+    <ctml:name>Reykhólahreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Reykhólahreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-RHH</ctml:parentRef>
+    <ctml:wikiDataId>Q1727215</ctml:wikiDataId>
+    <ctml:latitude>65.60990000</ctml:latitude>
+    <ctml:longitude>-22.33324000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135182" kind="city">
+    <ctml:name>Garður</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Reykjanesbær</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-RKN</ctml:parentRef>
+    <ctml:wikiDataId>Q1495025</ctml:wikiDataId>
+    <ctml:latitude>64.06558000</ctml:latitude>
+    <ctml:longitude>-22.64656000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135205" kind="city">
+    <ctml:name>Reykjanesbær</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Reykjanesbær</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-RKN</ctml:parentRef>
+    <ctml:wikiDataId>Q1727215</ctml:wikiDataId>
+    <ctml:latitude>63.99813000</ctml:latitude>
+    <ctml:longitude>-22.56111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135208" kind="city">
+    <ctml:name>Sandgerði</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Reykjanesbær</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-RKN</ctml:parentRef>
+    <ctml:wikiDataId>Q1019466</ctml:wikiDataId>
+    <ctml:latitude>64.03762000</ctml:latitude>
+    <ctml:longitude>-22.70799000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135206" kind="city">
+    <ctml:name>Reykjavík</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Reykjavík</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-RKV</ctml:parentRef>
+    <ctml:wikiDataId>Q1764</ctml:wikiDataId>
+    <ctml:latitude>64.13548000</ctml:latitude>
+    <ctml:longitude>-21.89541000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135211" kind="city">
+    <ctml:name>Seltjarnarnes</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Seltjarnarnes</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-SEL</ctml:parentRef>
+    <ctml:wikiDataId>Q192898</ctml:wikiDataId>
+    <ctml:latitude>64.15309000</ctml:latitude>
+    <ctml:longitude>-21.99499000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135213" kind="city">
+    <ctml:name>Skaftárhreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Skaftárhreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-SKF</ctml:parentRef>
+    <ctml:wikiDataId>Q2066213</ctml:wikiDataId>
+    <ctml:latitude>63.95948000</ctml:latitude>
+    <ctml:longitude>-18.14491000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135214" kind="city">
+    <ctml:name>Skagabyggð</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Skagabyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-SKG</ctml:parentRef>
+    <ctml:wikiDataId>Q591081</ctml:wikiDataId>
+    <ctml:latitude>65.95000000</ctml:latitude>
+    <ctml:longitude>-20.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135222" kind="city">
+    <ctml:name>Sveitarfélagið Skagafjörður</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Skagafjörður</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-SKR</ctml:parentRef>
+    <ctml:wikiDataId>Q1549436</ctml:wikiDataId>
+    <ctml:latitude>65.50018000</ctml:latitude>
+    <ctml:longitude>-19.44566000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135215" kind="city">
+    <ctml:name>Skeiða- og Gnúpverjahreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Skeiða- og Gnúpverjahreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-SOG</ctml:parentRef>
+    <ctml:wikiDataId>Q1310512</ctml:wikiDataId>
+    <ctml:latitude>64.34738000</ctml:latitude>
+    <ctml:longitude>-19.37757000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135216" kind="city">
+    <ctml:name>Skorradalshreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Skorradalshreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-SKO</ctml:parentRef>
+    <ctml:wikiDataId>Q1314540</ctml:wikiDataId>
+    <ctml:latitude>64.51667000</ctml:latitude>
+    <ctml:longitude>-21.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135232" kind="city">
+    <ctml:name>Ólafsvík</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Snæfellsbær</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-SNF</ctml:parentRef>
+    <ctml:wikiDataId>Q292970</ctml:wikiDataId>
+    <ctml:latitude>64.89429000</ctml:latitude>
+    <ctml:longitude>-23.70918000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135218" kind="city">
+    <ctml:name>Snæfellsbær</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Snæfellsbær</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-SNF</ctml:parentRef>
+    <ctml:wikiDataId>Q2296228</ctml:wikiDataId>
+    <ctml:latitude>64.86667000</ctml:latitude>
+    <ctml:longitude>-23.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135219" kind="city">
+    <ctml:name>Strandabyggð</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Strandabyggð</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-STR</ctml:parentRef>
+    <ctml:wikiDataId>Q979864</ctml:wikiDataId>
+    <ctml:latitude>65.77455000</ctml:latitude>
+    <ctml:longitude>-21.95725000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135187" kind="city">
+    <ctml:name>Helgafellssveit</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Stykkishólmur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-STY</ctml:parentRef>
+    <ctml:wikiDataId>Q1602357</ctml:wikiDataId>
+    <ctml:latitude>64.99069000</ctml:latitude>
+    <ctml:longitude>-22.78948000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135220" kind="city">
+    <ctml:name>Stykkishólmur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Stykkishólmur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-STY</ctml:parentRef>
+    <ctml:wikiDataId>Q1019452</ctml:wikiDataId>
+    <ctml:latitude>65.07537000</ctml:latitude>
+    <ctml:longitude>-22.72977000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135221" kind="city">
+    <ctml:name>Svalbarðsstrandarhreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Svalbardsstrandarhreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-SBT</ctml:parentRef>
+    <ctml:wikiDataId>Q1225664</ctml:wikiDataId>
+    <ctml:latitude>65.74138000</ctml:latitude>
+    <ctml:longitude>-18.03513000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135224" kind="city">
+    <ctml:name>Tálknafjarðarhreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Tálknafjarðarhreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-TAL</ctml:parentRef>
+    <ctml:wikiDataId>Q1798705</ctml:wikiDataId>
+    <ctml:latitude>65.61667000</ctml:latitude>
+    <ctml:longitude>-23.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135223" kind="city">
+    <ctml:name>Tjörneshreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Tjörneshreppur</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-TJO</ctml:parentRef>
+    <ctml:wikiDataId>Q628888</ctml:wikiDataId>
+    <ctml:latitude>66.11667000</ctml:latitude>
+    <ctml:longitude>-17.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135225" kind="city">
+    <ctml:name>Vestmannaeyjabær</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Vestmannaeyjar</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-VEM</ctml:parentRef>
+    <ctml:wikiDataId>Q9368476</ctml:wikiDataId>
+    <ctml:latitude>63.43877000</ctml:latitude>
+    <ctml:longitude>-20.26900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135226" kind="city">
+    <ctml:name>Vestmannaeyjar</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Vestmannaeyjar</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-VEM</ctml:parentRef>
+    <ctml:wikiDataId>Q9368476</ctml:wikiDataId>
+    <ctml:latitude>63.44273000</ctml:latitude>
+    <ctml:longitude>-20.27339000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135227" kind="city">
+    <ctml:name>Vogar</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Vogar</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-SVG</ctml:parentRef>
+    <ctml:wikiDataId>Q1019448</ctml:wikiDataId>
+    <ctml:latitude>63.98160000</ctml:latitude>
+    <ctml:longitude>-22.38473000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135199" kind="city">
+    <ctml:name>Laugar</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Þingeyjarsveit</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-THG</ctml:parentRef>
+    <ctml:wikiDataId>Q1713264</ctml:wikiDataId>
+    <ctml:latitude>65.72159000</ctml:latitude>
+    <ctml:longitude>-17.37352000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135217" kind="city">
+    <ctml:name>Skútustaðahreppur</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Þingeyjarsveit</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-THG</ctml:parentRef>
+    <ctml:wikiDataId>Q2140997</ctml:wikiDataId>
+    <ctml:latitude>65.17177000</ctml:latitude>
+    <ctml:longitude>-16.77890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISL-135233" kind="city">
+    <ctml:name>Þingeyjarsveit</ctml:name>
+    <ctml:country>ISL</ctml:country>
+    <ctml:admin1>Þingeyjarsveit</ctml:admin1>
+    <ctml:parentRef>place:admin1:IS-THG</ctml:parentRef>
+    <ctml:wikiDataId>Q335325</ctml:wikiDataId>
+    <ctml:latitude>65.37229000</ctml:latitude>
+    <ctml:longitude>-17.59927000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

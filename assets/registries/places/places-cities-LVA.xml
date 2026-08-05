@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:LVA-66904" kind="city">
+    <ctml:name>Jaunjelgava</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Aizkraukle</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-002</ctml:parentRef>
+    <ctml:wikiDataId>Q835771</ctml:wikiDataId>
+    <ctml:latitude>56.61319000</ctml:latitude>
+    <ctml:longitude>25.08316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66913" kind="city">
+    <ctml:name>Koknese</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Aizkraukle</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-002</ctml:parentRef>
+    <ctml:wikiDataId>Q504681</ctml:wikiDataId>
+    <ctml:latitude>56.65163000</ctml:latitude>
+    <ctml:longitude>25.43637000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66933" kind="admin2">
+    <ctml:name>Nereta</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Aizkraukle</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-002</ctml:parentRef>
+    <ctml:wikiDataId>Q987161</ctml:wikiDataId>
+    <ctml:latitude>56.20279000</ctml:latitude>
+    <ctml:longitude>25.30752000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66945" kind="admin2">
+    <ctml:name>Pļaviņas</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Aizkraukle</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-002</ctml:parentRef>
+    <ctml:wikiDataId>Q567747</ctml:wikiDataId>
+    <ctml:latitude>56.61780000</ctml:latitude>
+    <ctml:longitude>25.72552000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66963" kind="admin2">
+    <ctml:name>Skrīveri</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Aizkraukle</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-002</ctml:parentRef>
+    <ctml:wikiDataId>Q1023755</ctml:wikiDataId>
+    <ctml:latitude>56.64500000</ctml:latitude>
+    <ctml:longitude>25.12058000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66900" kind="admin2">
+    <ctml:name>Ilūkste</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Augšdaugava</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-111</ctml:parentRef>
+    <ctml:wikiDataId>Q580373</ctml:wikiDataId>
+    <ctml:latitude>55.97754000</ctml:latitude>
+    <ctml:longitude>26.29655000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66880" kind="city">
+    <ctml:name>Baltinava</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Balvi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-015</ctml:parentRef>
+    <ctml:wikiDataId>Q805759</ctml:wikiDataId>
+    <ctml:latitude>56.94394000</ctml:latitude>
+    <ctml:longitude>27.64401000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66952" kind="city">
+    <ctml:name>Rugāji</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Balvi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-015</ctml:parentRef>
+    <ctml:wikiDataId>Q2174949</ctml:wikiDataId>
+    <ctml:latitude>57.00325000</ctml:latitude>
+    <ctml:longitude>27.13371000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66986" kind="admin2">
+    <ctml:name>Viļaka</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Balvi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-015</ctml:parentRef>
+    <ctml:wikiDataId>Q26441</ctml:wikiDataId>
+    <ctml:latitude>57.18458000</ctml:latitude>
+    <ctml:longitude>27.67220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66898" kind="city">
+    <ctml:name>Iecava</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Bauska</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-016</ctml:parentRef>
+    <ctml:wikiDataId>Q1023764</ctml:wikiDataId>
+    <ctml:latitude>56.59766000</ctml:latitude>
+    <ctml:longitude>24.20763000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66938" kind="city">
+    <ctml:name>Pilsrundāle</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Bauska</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-016</ctml:parentRef>
+    <ctml:wikiDataId>Q1027033</ctml:wikiDataId>
+    <ctml:latitude>56.41812000</ctml:latitude>
+    <ctml:longitude>24.01625000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66982" kind="city">
+    <ctml:name>Vecumnieki</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Bauska</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-016</ctml:parentRef>
+    <ctml:wikiDataId>Q1027053</ctml:wikiDataId>
+    <ctml:latitude>56.60608000</ctml:latitude>
+    <ctml:longitude>24.52232000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66924" kind="admin2">
+    <ctml:name>Līgatne</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Cēsis</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-022</ctml:parentRef>
+    <ctml:wikiDataId>Q744259</ctml:wikiDataId>
+    <ctml:latitude>57.23429000</ctml:latitude>
+    <ctml:longitude>25.04059000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66943" kind="admin2">
+    <ctml:name>Priekuļi</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Cēsis</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-022</ctml:parentRef>
+    <ctml:wikiDataId>Q1240381</ctml:wikiDataId>
+    <ctml:latitude>57.31500000</ctml:latitude>
+    <ctml:longitude>25.36147000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66967" kind="admin2">
+    <ctml:name>Stalbe</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Cēsis</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-022</ctml:parentRef>
+    <ctml:wikiDataId>Q7597217</ctml:wikiDataId>
+    <ctml:latitude>57.37065000</ctml:latitude>
+    <ctml:longitude>25.03106000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66981" kind="admin2">
+    <ctml:name>Vecpiebalga</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Cēsis</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-022</ctml:parentRef>
+    <ctml:wikiDataId>Q1006029</ctml:wikiDataId>
+    <ctml:latitude>57.06090000</ctml:latitude>
+    <ctml:longitude>25.81624000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66871" kind="admin2">
+    <ctml:name>Aizpute</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Dienvidkurzemes</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-112</ctml:parentRef>
+    <ctml:wikiDataId>Q411715</ctml:wikiDataId>
+    <ctml:latitude>56.72108000</ctml:latitude>
+    <ctml:longitude>21.60156000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66896" kind="admin2">
+    <ctml:name>Grobiņa</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Dienvidkurzemes</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-112</ctml:parentRef>
+    <ctml:wikiDataId>Q757049</ctml:wikiDataId>
+    <ctml:latitude>56.53521000</ctml:latitude>
+    <ctml:longitude>21.16782000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66920" kind="admin2">
+    <ctml:name>Lieģi</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Dienvidkurzemes</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-112</ctml:parentRef>
+    <ctml:wikiDataId>Q6544506</ctml:wikiDataId>
+    <ctml:latitude>56.58173000</ctml:latitude>
+    <ctml:longitude>21.33399000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66934" kind="admin2">
+    <ctml:name>Nīca</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Dienvidkurzemes</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-112</ctml:parentRef>
+    <ctml:wikiDataId>Q987165</ctml:wikiDataId>
+    <ctml:latitude>56.34601000</ctml:latitude>
+    <ctml:longitude>21.06401000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66944" kind="admin2">
+    <ctml:name>Pāvilosta</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Dienvidkurzemes</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-112</ctml:parentRef>
+    <ctml:wikiDataId>Q840717</ctml:wikiDataId>
+    <ctml:latitude>56.88791000</ctml:latitude>
+    <ctml:longitude>21.18593000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66942" kind="admin2">
+    <ctml:name>Priekule</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Dienvidkurzemes</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-112</ctml:parentRef>
+    <ctml:wikiDataId>Q908683</ctml:wikiDataId>
+    <ctml:latitude>56.44679000</ctml:latitude>
+    <ctml:longitude>21.58968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66951" kind="admin2">
+    <ctml:name>Rucava</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Dienvidkurzemes</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-112</ctml:parentRef>
+    <ctml:wikiDataId>Q987180</ctml:wikiDataId>
+    <ctml:latitude>56.16314000</ctml:latitude>
+    <ctml:longitude>21.16156000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66975" kind="admin2">
+    <ctml:name>Vaiņode</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Dienvidkurzemes</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-112</ctml:parentRef>
+    <ctml:wikiDataId>Q1023741</ctml:wikiDataId>
+    <ctml:latitude>56.41848000</ctml:latitude>
+    <ctml:longitude>21.85405000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66877" kind="admin2">
+    <ctml:name>Auce</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Dobele</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-026</ctml:parentRef>
+    <ctml:wikiDataId>Q758578</ctml:wikiDataId>
+    <ctml:latitude>56.45981000</ctml:latitude>
+    <ctml:longitude>22.90169000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66972" kind="city">
+    <ctml:name>Tērvete</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Dobele</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-026</ctml:parentRef>
+    <ctml:wikiDataId>Q1973559</ctml:wikiDataId>
+    <ctml:latitude>56.47989000</ctml:latitude>
+    <ctml:longitude>23.38895000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66988" kind="admin2">
+    <ctml:name>Zelmeņi</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Dobele</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-026</ctml:parentRef>
+    <ctml:wikiDataId>Q5764708</ctml:wikiDataId>
+    <ctml:latitude>56.45167000</ctml:latitude>
+    <ctml:longitude>23.35194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66872" kind="admin2">
+    <ctml:name>Aknīste</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Jēkabpils</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-042</ctml:parentRef>
+    <ctml:wikiDataId>Q420333</ctml:wikiDataId>
+    <ctml:latitude>56.16152000</ctml:latitude>
+    <ctml:longitude>25.74783000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66914" kind="city">
+    <ctml:name>Krustpils</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Jēkabpils</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-042</ctml:parentRef>
+    <ctml:wikiDataId>Q745661</ctml:wikiDataId>
+    <ctml:latitude>56.51068000</ctml:latitude>
+    <ctml:longitude>25.86117000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66985" kind="admin2">
+    <ctml:name>Viesīte</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Jēkabpils</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-042</ctml:parentRef>
+    <ctml:wikiDataId>Q641220</ctml:wikiDataId>
+    <ctml:latitude>56.34751000</ctml:latitude>
+    <ctml:longitude>25.55514000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66937" kind="city">
+    <ctml:name>Ozolnieki</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Jelgava</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-041</ctml:parentRef>
+    <ctml:wikiDataId>Q1023747</ctml:wikiDataId>
+    <ctml:latitude>56.68986000</ctml:latitude>
+    <ctml:longitude>23.77610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66973" kind="city">
+    <ctml:name>Tīreļi</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Jelgava</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-041</ctml:parentRef>
+    <ctml:wikiDataId>Q27486331</ctml:wikiDataId>
+    <ctml:latitude>56.83991000</ctml:latitude>
+    <ctml:longitude>23.58902000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66878" kind="city">
+    <ctml:name>Baldone</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Ķekava</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-052</ctml:parentRef>
+    <ctml:wikiDataId>Q789351</ctml:wikiDataId>
+    <ctml:latitude>56.74451000</ctml:latitude>
+    <ctml:longitude>24.40078000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66879" kind="city">
+    <ctml:name>Baloži</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Ķekava</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-052</ctml:parentRef>
+    <ctml:wikiDataId>Q757043</ctml:wikiDataId>
+    <ctml:latitude>56.87643000</ctml:latitude>
+    <ctml:longitude>24.11825000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66889" kind="admin2">
+    <ctml:name>Dagda</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Krāslava</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-047</ctml:parentRef>
+    <ctml:wikiDataId>Q757101</ctml:wikiDataId>
+    <ctml:latitude>56.09512000</ctml:latitude>
+    <ctml:longitude>27.53723000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66874" kind="admin2">
+    <ctml:name>Alsunga</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Kuldīga</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-050</ctml:parentRef>
+    <ctml:wikiDataId>Q432829</ctml:wikiDataId>
+    <ctml:latitude>56.98194000</ctml:latitude>
+    <ctml:longitude>21.55938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66962" kind="city">
+    <ctml:name>Skrunda</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Kuldīga</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-050</ctml:parentRef>
+    <ctml:wikiDataId>Q267871</ctml:wikiDataId>
+    <ctml:latitude>56.67749000</ctml:latitude>
+    <ctml:longitude>22.01649000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66911" kind="city">
+    <ctml:name>Karosta</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Liepāja</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-LPX</ctml:parentRef>
+    <ctml:wikiDataId>Q849152</ctml:wikiDataId>
+    <ctml:latitude>56.55128000</ctml:latitude>
+    <ctml:longitude>21.01287000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66869" kind="city">
+    <ctml:name>Ainaži</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Limbaži</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-054</ctml:parentRef>
+    <ctml:wikiDataId>Q405931</ctml:wikiDataId>
+    <ctml:latitude>57.86348000</ctml:latitude>
+    <ctml:longitude>24.35853000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66873" kind="city">
+    <ctml:name>Aloja</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Limbaži</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-054</ctml:parentRef>
+    <ctml:wikiDataId>Q659019</ctml:wikiDataId>
+    <ctml:latitude>57.76723000</ctml:latitude>
+    <ctml:longitude>24.87743000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66956" kind="city">
+    <ctml:name>Salacgrīva</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Limbaži</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-054</ctml:parentRef>
+    <ctml:wikiDataId>Q659665</ctml:wikiDataId>
+    <ctml:latitude>57.75312000</ctml:latitude>
+    <ctml:longitude>24.35895000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66966" kind="city">
+    <ctml:name>Staicele</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Limbaži</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-054</ctml:parentRef>
+    <ctml:wikiDataId>Q844464</ctml:wikiDataId>
+    <ctml:latitude>57.83579000</ctml:latitude>
+    <ctml:longitude>24.74706000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66887" kind="city">
+    <ctml:name>Cibla</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Ludza</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-058</ctml:parentRef>
+    <ctml:wikiDataId>Q1018485</ctml:wikiDataId>
+    <ctml:latitude>56.54980000</ctml:latitude>
+    <ctml:longitude>27.88370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66917" kind="admin2">
+    <ctml:name>Kārsava</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Ludza</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-058</ctml:parentRef>
+    <ctml:wikiDataId>Q155281</ctml:wikiDataId>
+    <ctml:latitude>56.78405000</ctml:latitude>
+    <ctml:longitude>27.68829000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66989" kind="admin2">
+    <ctml:name>Zilupe</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Ludza</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-058</ctml:parentRef>
+    <ctml:wikiDataId>Q203375</ctml:wikiDataId>
+    <ctml:latitude>56.38616000</ctml:latitude>
+    <ctml:longitude>28.12165000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66886" kind="city">
+    <ctml:name>Cesvaine</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Madona</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-059</ctml:parentRef>
+    <ctml:wikiDataId>Q757050</ctml:wikiDataId>
+    <ctml:latitude>56.96754000</ctml:latitude>
+    <ctml:longitude>26.30764000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66990" kind="admin2">
+    <ctml:name>Ērgļi</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Madona</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-059</ctml:parentRef>
+    <ctml:wikiDataId>Q203375</ctml:wikiDataId>
+    <ctml:latitude>56.89752000</ctml:latitude>
+    <ctml:longitude>25.63668000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66922" kind="city">
+    <ctml:name>Lubāna</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Madona</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-059</ctml:parentRef>
+    <ctml:wikiDataId>Q844477</ctml:wikiDataId>
+    <ctml:latitude>56.90425000</ctml:latitude>
+    <ctml:longitude>26.71606000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66940" kind="city">
+    <ctml:name>Piņķi</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Mārupe</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-062</ctml:parentRef>
+    <ctml:wikiDataId>Q4363090</ctml:wikiDataId>
+    <ctml:latitude>56.94189000</ctml:latitude>
+    <ctml:longitude>23.91365000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66899" kind="city">
+    <ctml:name>Ikšķile</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Ogre</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-067</ctml:parentRef>
+    <ctml:wikiDataId>Q1023764</ctml:wikiDataId>
+    <ctml:latitude>56.83399000</ctml:latitude>
+    <ctml:longitude>24.49679000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66907" kind="city">
+    <ctml:name>Jumprava</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Ogre</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-067</ctml:parentRef>
+    <ctml:wikiDataId>Q15219041</ctml:wikiDataId>
+    <ctml:latitude>56.67613000</ctml:latitude>
+    <ctml:longitude>24.97210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66991" kind="admin2">
+    <ctml:name>Ķegums</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Ogre</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-067</ctml:parentRef>
+    <ctml:wikiDataId>Q344621</ctml:wikiDataId>
+    <ctml:latitude>56.74510000</ctml:latitude>
+    <ctml:longitude>24.72439000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66918" kind="admin2">
+    <ctml:name>Lielvārde</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Ogre</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-067</ctml:parentRef>
+    <ctml:wikiDataId>Q597346</ctml:wikiDataId>
+    <ctml:latitude>56.72066000</ctml:latitude>
+    <ctml:longitude>24.80743000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66868" kind="city">
+    <ctml:name>Aglona</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Preiļi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-073</ctml:parentRef>
+    <ctml:wikiDataId>Q372999</ctml:wikiDataId>
+    <ctml:latitude>56.13274000</ctml:latitude>
+    <ctml:longitude>27.00682000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66902" kind="city">
+    <ctml:name>Jaunaglona</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Preiļi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-073</ctml:parentRef>
+    <ctml:wikiDataId>Q987170</ctml:wikiDataId>
+    <ctml:latitude>56.16066000</ctml:latitude>
+    <ctml:longitude>27.00714000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66947" kind="admin2">
+    <ctml:name>Riebiņi</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Preiļi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-073</ctml:parentRef>
+    <ctml:wikiDataId>Q942401</ctml:wikiDataId>
+    <ctml:latitude>56.34280000</ctml:latitude>
+    <ctml:longitude>26.79995000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66983" kind="city">
+    <ctml:name>Vecvārkava</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Preiļi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-073</ctml:parentRef>
+    <ctml:wikiDataId>Q7917870</ctml:wikiDataId>
+    <ctml:latitude>56.19838000</ctml:latitude>
+    <ctml:longitude>26.50811000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66987" kind="admin2">
+    <ctml:name>Viļāni</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Rēzekne</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-077</ctml:parentRef>
+    <ctml:wikiDataId>Q836513</ctml:wikiDataId>
+    <ctml:latitude>56.55253000</ctml:latitude>
+    <ctml:longitude>26.92449000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66883" kind="city">
+    <ctml:name>Bolderaja</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Riga</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-RIX</ctml:parentRef>
+    <ctml:wikiDataId>Q2385722</ctml:wikiDataId>
+    <ctml:latitude>57.03132000</ctml:latitude>
+    <ctml:longitude>24.05571000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66890" kind="city">
+    <ctml:name>Daugavgrīva</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Riga</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-RIX</ctml:parentRef>
+    <ctml:wikiDataId>Q1172924</ctml:wikiDataId>
+    <ctml:latitude>57.04315000</ctml:latitude>
+    <ctml:longitude>24.03613000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66903" kind="city">
+    <ctml:name>Jaunciems</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Riga</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-RIX</ctml:parentRef>
+    <ctml:wikiDataId>Q987170</ctml:wikiDataId>
+    <ctml:latitude>57.03910000</ctml:latitude>
+    <ctml:longitude>24.17413000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66928" kind="city">
+    <ctml:name>Mežaparks</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Riga</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-RIX</ctml:parentRef>
+    <ctml:wikiDataId>Q1926523</ctml:wikiDataId>
+    <ctml:latitude>57.00008000</ctml:latitude>
+    <ctml:longitude>24.15997000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66948" kind="city">
+    <ctml:name>Riga</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Riga</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-RIX</ctml:parentRef>
+    <ctml:wikiDataId>Q1773</ctml:wikiDataId>
+    <ctml:latitude>56.94600000</ctml:latitude>
+    <ctml:longitude>24.10589000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66895" kind="admin2">
+    <ctml:name>Garkalne</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Ropaži</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-080</ctml:parentRef>
+    <ctml:wikiDataId>Q1006622</ctml:wikiDataId>
+    <ctml:latitude>57.04486000</ctml:latitude>
+    <ctml:longitude>24.41951000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66950" kind="city">
+    <ctml:name>Ropaži</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Ropaži</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-080</ctml:parentRef>
+    <ctml:wikiDataId>Q120761</ctml:wikiDataId>
+    <ctml:latitude>56.97470000</ctml:latitude>
+    <ctml:longitude>24.63295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66979" kind="city">
+    <ctml:name>Vangaži</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Ropaži</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-080</ctml:parentRef>
+    <ctml:wikiDataId>Q849832</ctml:wikiDataId>
+    <ctml:latitude>57.09358000</ctml:latitude>
+    <ctml:longitude>24.54468000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66884" kind="city">
+    <ctml:name>Brocēni</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Saldus</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-088</ctml:parentRef>
+    <ctml:wikiDataId>Q840836</ctml:wikiDataId>
+    <ctml:latitude>56.67890000</ctml:latitude>
+    <ctml:longitude>22.56945000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66901" kind="city">
+    <ctml:name>Inčukalns</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Sigulda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-091</ctml:parentRef>
+    <ctml:wikiDataId>Q987170</ctml:wikiDataId>
+    <ctml:latitude>57.09867000</ctml:latitude>
+    <ctml:longitude>24.68630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66929" kind="city">
+    <ctml:name>Mālpils</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Sigulda</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-091</ctml:parentRef>
+    <ctml:wikiDataId>Q1023743</ctml:wikiDataId>
+    <ctml:latitude>57.01010000</ctml:latitude>
+    <ctml:longitude>24.95783000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66876" kind="admin2">
+    <ctml:name>Ape</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Smiltene</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-094</ctml:parentRef>
+    <ctml:wikiDataId>Q618119</ctml:wikiDataId>
+    <ctml:latitude>57.53928000</ctml:latitude>
+    <ctml:longitude>26.69291000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66946" kind="admin2">
+    <ctml:name>Rauna</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Smiltene</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-094</ctml:parentRef>
+    <ctml:wikiDataId>Q1493534</ctml:wikiDataId>
+    <ctml:latitude>57.33173000</ctml:latitude>
+    <ctml:longitude>25.60947000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66893" kind="city">
+    <ctml:name>Dundaga</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Talsi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-097</ctml:parentRef>
+    <ctml:wikiDataId>Q962653</ctml:wikiDataId>
+    <ctml:latitude>57.50498000</ctml:latitude>
+    <ctml:longitude>22.35041000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66949" kind="city">
+    <ctml:name>Roja</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Talsi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-097</ctml:parentRef>
+    <ctml:wikiDataId>Q1773</ctml:wikiDataId>
+    <ctml:latitude>57.50146000</ctml:latitude>
+    <ctml:longitude>22.80881000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66955" kind="city">
+    <ctml:name>Sabile</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Talsi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-097</ctml:parentRef>
+    <ctml:wikiDataId>Q650475</ctml:wikiDataId>
+    <ctml:latitude>57.04577000</ctml:latitude>
+    <ctml:longitude>22.57261000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66968" kind="city">
+    <ctml:name>Stende</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Talsi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-097</ctml:parentRef>
+    <ctml:wikiDataId>Q909654</ctml:wikiDataId>
+    <ctml:latitude>57.14497000</ctml:latitude>
+    <ctml:longitude>22.53482000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66976" kind="city">
+    <ctml:name>Valdemārpils</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Talsi</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-097</ctml:parentRef>
+    <ctml:wikiDataId>Q846341</ctml:wikiDataId>
+    <ctml:latitude>57.37068000</ctml:latitude>
+    <ctml:longitude>22.59188000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66894" kind="city">
+    <ctml:name>Engure</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Tukums</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-099</ctml:parentRef>
+    <ctml:wikiDataId>Q1023733</ctml:wikiDataId>
+    <ctml:latitude>57.16061000</ctml:latitude>
+    <ctml:longitude>23.22527000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66905" kind="city">
+    <ctml:name>Jaunpils</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Tukums</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-099</ctml:parentRef>
+    <ctml:wikiDataId>Q1684136</ctml:wikiDataId>
+    <ctml:latitude>56.73137000</ctml:latitude>
+    <ctml:longitude>23.01247000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66910" kind="admin2">
+    <ctml:name>Kandava</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Tukums</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-099</ctml:parentRef>
+    <ctml:wikiDataId>Q849152</ctml:wikiDataId>
+    <ctml:latitude>57.04087000</ctml:latitude>
+    <ctml:longitude>22.77466000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66965" kind="admin2">
+    <ctml:name>Smārde</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Tukums</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-099</ctml:parentRef>
+    <ctml:wikiDataId>Q7546838</ctml:wikiDataId>
+    <ctml:latitude>56.95420000</ctml:latitude>
+    <ctml:longitude>23.33736000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66912" kind="admin2">
+    <ctml:name>Kocēni</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Valmiera</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-113</ctml:parentRef>
+    <ctml:wikiDataId>Q987208</ctml:wikiDataId>
+    <ctml:latitude>57.52057000</ctml:latitude>
+    <ctml:longitude>25.33821000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66927" kind="admin2">
+    <ctml:name>Mazsalaca</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Valmiera</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-113</ctml:parentRef>
+    <ctml:wikiDataId>Q844468</ctml:wikiDataId>
+    <ctml:latitude>57.86329000</ctml:latitude>
+    <ctml:longitude>25.05475000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66931" kind="admin2">
+    <ctml:name>Mūrmuiža</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Valmiera</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-113</ctml:parentRef>
+    <ctml:wikiDataId>Q985288</ctml:wikiDataId>
+    <ctml:latitude>57.47312000</ctml:latitude>
+    <ctml:longitude>25.49174000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66932" kind="admin2">
+    <ctml:name>Naukšēni</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Valmiera</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-113</ctml:parentRef>
+    <ctml:wikiDataId>Q1712746</ctml:wikiDataId>
+    <ctml:latitude>57.88349000</ctml:latitude>
+    <ctml:longitude>25.45609000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66954" kind="admin2">
+    <ctml:name>Rūjiena</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Valmiera</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-113</ctml:parentRef>
+    <ctml:wikiDataId>Q765976</ctml:wikiDataId>
+    <ctml:latitude>57.89752000</ctml:latitude>
+    <ctml:longitude>25.33155000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66960" kind="city">
+    <ctml:name>Seda</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Valmiera</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-113</ctml:parentRef>
+    <ctml:wikiDataId>Q578527</ctml:wikiDataId>
+    <ctml:latitude>57.65042000</ctml:latitude>
+    <ctml:longitude>25.75089000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LVA-66969" kind="admin2">
+    <ctml:name>Strenči</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Valmiera</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-113</ctml:parentRef>
+    <ctml:wikiDataId>Q851399</ctml:wikiDataId>
+    <ctml:latitude>57.62574000</ctml:latitude>
+    <ctml:longitude>25.68535000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LVA-66939" kind="city">
+    <ctml:name>Piltene</ctml:name>
+    <ctml:country>LVA</ctml:country>
+    <ctml:admin1>Ventspils</ctml:admin1>
+    <ctml:parentRef>place:admin1:LV-106</ctml:parentRef>
+    <ctml:wikiDataId>Q838491</ctml:wikiDataId>
+    <ctml:latitude>57.22426000</ctml:latitude>
+    <ctml:longitude>21.67439000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

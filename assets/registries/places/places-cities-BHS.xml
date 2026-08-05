@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BHS-15698" kind="city">
+    <ctml:name>Lucaya</ctml:name>
+    <ctml:country>BHS</ctml:country>
+    <ctml:admin1>Freeport</ctml:admin1>
+    <ctml:parentRef>place:admin1:BS-FP</ctml:parentRef>
+    <ctml:wikiDataId>Q3101961</ctml:wikiDataId>
+    <ctml:latitude>26.53333000</ctml:latitude>
+    <ctml:longitude>-78.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BHS-15694" kind="city">
+    <ctml:name>Dunmore Town</ctml:name>
+    <ctml:country>BHS</ctml:country>
+    <ctml:admin1>Harbour Island</ctml:admin1>
+    <ctml:parentRef>place:admin1:BS-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q1771794</ctml:wikiDataId>
+    <ctml:latitude>25.50216000</ctml:latitude>
+    <ctml:longitude>-76.63633000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BHS-143913" kind="city">
+    <ctml:name>Nassau</ctml:name>
+    <ctml:country>BHS</ctml:country>
+    <ctml:admin1>New Providence</ctml:admin1>
+    <ctml:parentRef>place:admin1:BS-NP</ctml:parentRef>
+    <ctml:wikiDataId>Q2467</ctml:wikiDataId>
+    <ctml:latitude>25.06666667</ctml:latitude>
+    <ctml:longitude>-77.33333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BHS-15692" kind="city">
+    <ctml:name>Cooper’s Town</ctml:name>
+    <ctml:country>BHS</ctml:country>
+    <ctml:admin1>North Abaco</ctml:admin1>
+    <ctml:parentRef>place:admin1:BS-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q1129877</ctml:wikiDataId>
+    <ctml:latitude>26.87137000</ctml:latitude>
+    <ctml:longitude>-77.51131000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BHS-15687" kind="city">
+    <ctml:name>Andros Town</ctml:name>
+    <ctml:country>BHS</ctml:country>
+    <ctml:admin1>North Andros</ctml:admin1>
+    <ctml:parentRef>place:admin1:BS-NS</ctml:parentRef>
+    <ctml:wikiDataId>Q1771818</ctml:wikiDataId>
+    <ctml:latitude>24.70502000</ctml:latitude>
+    <ctml:longitude>-77.76912000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

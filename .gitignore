@@ -1,0 +1,16 @@
+/target
+/build
+/out
+
+# Large reference data. Two of these blow GitHub's hard 100MB-per-file
+# push limit outright (ratings260801.ssp is 516MB, crosstables.json is
+# 159MB); 17 of the 27 player-registry shards do too (largest 547MB), and
+# since shard sizes shift across that line as the source .ssp grows, the
+# whole directory is excluded rather than tracking whichever shards
+# happen to be under the limit today. Kept on disk, not version-
+# controlled; see HANDOFF.md. Everything else under assets/ (all.tsv,
+# registries/events.xml, registries/places/) is comfortably small and
+# stays tracked.
+assets/*.ssp
+assets/crosstables.json
+assets/registries/players/

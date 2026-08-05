@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MDG-67377" kind="city">
+    <ctml:name>Ampasimanolotra</ctml:name>
+    <ctml:country>MDG</ctml:country>
+    <ctml:admin1>Antsiranana</ctml:admin1>
+    <ctml:parentRef>place:admin1:MG-D</ctml:parentRef>
+    <ctml:wikiDataId>Q393309</ctml:wikiDataId>
+    <ctml:latitude>-18.81667000</ctml:latitude>
+    <ctml:longitude>49.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDG-67378" kind="city">
+    <ctml:name>Andovoranto</ctml:name>
+    <ctml:country>MDG</ctml:country>
+    <ctml:admin1>Antsiranana</ctml:admin1>
+    <ctml:parentRef>place:admin1:MG-D</ctml:parentRef>
+    <ctml:wikiDataId>Q13105654</ctml:wikiDataId>
+    <ctml:latitude>-18.95443000</ctml:latitude>
+    <ctml:longitude>49.10940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDG-67379" kind="city">
+    <ctml:name>Mahanoro</ctml:name>
+    <ctml:country>MDG</ctml:country>
+    <ctml:admin1>Antsiranana</ctml:admin1>
+    <ctml:parentRef>place:admin1:MG-D</ctml:parentRef>
+    <ctml:wikiDataId>Q13105654</ctml:wikiDataId>
+    <ctml:latitude>-19.90000000</ctml:latitude>
+    <ctml:longitude>48.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDG-67380" kind="city">
+    <ctml:name>Mahavelona</ctml:name>
+    <ctml:country>MDG</ctml:country>
+    <ctml:admin1>Antsiranana</ctml:admin1>
+    <ctml:parentRef>place:admin1:MG-D</ctml:parentRef>
+    <ctml:wikiDataId>Q3079900</ctml:wikiDataId>
+    <ctml:latitude>-17.68475000</ctml:latitude>
+    <ctml:longitude>49.50869000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDG-67381" kind="city">
+    <ctml:name>Marolambo</ctml:name>
+    <ctml:country>MDG</ctml:country>
+    <ctml:admin1>Antsiranana</ctml:admin1>
+    <ctml:parentRef>place:admin1:MG-D</ctml:parentRef>
+    <ctml:wikiDataId>Q3079900</ctml:wikiDataId>
+    <ctml:latitude>-20.05000000</ctml:latitude>
+    <ctml:longitude>48.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDG-67384" kind="city">
+    <ctml:name>Toamasina II</ctml:name>
+    <ctml:country>MDG</ctml:country>
+    <ctml:admin1>Antsiranana</ctml:admin1>
+    <ctml:parentRef>place:admin1:MG-D</ctml:parentRef>
+    <ctml:wikiDataId>Q3031893</ctml:wikiDataId>
+    <ctml:latitude>-17.94053000</ctml:latitude>
+    <ctml:longitude>49.14608000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDG-67385" kind="city">
+    <ctml:name>Vohibinany</ctml:name>
+    <ctml:country>MDG</ctml:country>
+    <ctml:admin1>Antsiranana</ctml:admin1>
+    <ctml:parentRef>place:admin1:MG-D</ctml:parentRef>
+    <ctml:wikiDataId>Q3031893</ctml:wikiDataId>
+    <ctml:latitude>-17.35000000</ctml:latitude>
+    <ctml:longitude>49.03333000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

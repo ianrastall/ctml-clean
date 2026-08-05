@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:OMN-79926" kind="city">
+    <ctml:name>Adam</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Ad Dakhiliyah</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-DA</ctml:parentRef>
+    <ctml:wikiDataId>Q8032610</ctml:wikiDataId>
+    <ctml:latitude>22.37934000</ctml:latitude>
+    <ctml:longitude>57.52718000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79930" kind="city">
+    <ctml:name>Bahlā’</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Ad Dakhiliyah</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-DA</ctml:parentRef>
+    <ctml:wikiDataId>Q49345172</ctml:wikiDataId>
+    <ctml:latitude>22.97886000</ctml:latitude>
+    <ctml:longitude>57.30470000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79934" kind="city">
+    <ctml:name>Bidbid</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Ad Dakhiliyah</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-DA</ctml:parentRef>
+    <ctml:wikiDataId>Q2892151</ctml:wikiDataId>
+    <ctml:latitude>23.40787000</ctml:latitude>
+    <ctml:longitude>58.12830000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79937" kind="city">
+    <ctml:name>Izkī</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Ad Dakhiliyah</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-DA</ctml:parentRef>
+    <ctml:wikiDataId>Q2709635</ctml:wikiDataId>
+    <ctml:latitude>22.93333000</ctml:latitude>
+    <ctml:longitude>57.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79948" kind="city">
+    <ctml:name>Sufālat Samā’il</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Ad Dakhiliyah</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-DA</ctml:parentRef>
+    <ctml:wikiDataId>Q943270</ctml:wikiDataId>
+    <ctml:latitude>23.31667000</ctml:latitude>
+    <ctml:longitude>58.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79953" kind="city">
+    <ctml:name>‘Ibrī</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Ad Dhahirah</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-ZA</ctml:parentRef>
+    <ctml:wikiDataId>Q225376</ctml:wikiDataId>
+    <ctml:latitude>23.22573000</ctml:latitude>
+    <ctml:longitude>56.51572000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79950" kind="city">
+    <ctml:name>Yanqul</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Ad Dhahirah</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-ZA</ctml:parentRef>
+    <ctml:wikiDataId>Q737270</ctml:wikiDataId>
+    <ctml:latitude>23.58645000</ctml:latitude>
+    <ctml:longitude>56.53969000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79928" kind="city">
+    <ctml:name>Al Khābūrah</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Al Batinah North</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-BS</ctml:parentRef>
+    <ctml:wikiDataId>Q8032610</ctml:wikiDataId>
+    <ctml:latitude>23.97144000</ctml:latitude>
+    <ctml:longitude>57.09313000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79929" kind="city">
+    <ctml:name>As Suwayq</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Al Batinah North</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-BS</ctml:parentRef>
+    <ctml:wikiDataId>Q8032610</ctml:wikiDataId>
+    <ctml:latitude>23.84944000</ctml:latitude>
+    <ctml:longitude>57.43861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79939" kind="city">
+    <ctml:name>Liwá</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Al Batinah North</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-BS</ctml:parentRef>
+    <ctml:wikiDataId>Q426646</ctml:wikiDataId>
+    <ctml:latitude>24.53077000</ctml:latitude>
+    <ctml:longitude>56.56300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79952" kind="city">
+    <ctml:name>Şaḩam</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Al Batinah North</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-BS</ctml:parentRef>
+    <ctml:wikiDataId>Q1294439</ctml:wikiDataId>
+    <ctml:latitude>24.17222000</ctml:latitude>
+    <ctml:longitude>56.88861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79946" kind="city">
+    <ctml:name>Shināş</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Al Batinah North</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-BS</ctml:parentRef>
+    <ctml:wikiDataId>Q948050</ctml:wikiDataId>
+    <ctml:latitude>24.74260000</ctml:latitude>
+    <ctml:longitude>56.46698000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79931" kind="city">
+    <ctml:name>Barkā’</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Al Batinah South</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-BJ</ctml:parentRef>
+    <ctml:wikiDataId>Q49345172</ctml:wikiDataId>
+    <ctml:latitude>23.67872000</ctml:latitude>
+    <ctml:longitude>57.88605000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79933" kind="city">
+    <ctml:name>Bayt al ‘Awābī</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Al Batinah South</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-BJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2892151</ctml:wikiDataId>
+    <ctml:latitude>23.30324000</ctml:latitude>
+    <ctml:longitude>57.52459000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79943" kind="city">
+    <ctml:name>Oman Smart Future City</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Al Batinah South</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-BJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1915327</ctml:wikiDataId>
+    <ctml:latitude>23.65270000</ctml:latitude>
+    <ctml:longitude>57.59926000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79944" kind="city">
+    <ctml:name>Rustaq</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Al Batinah South</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-BJ</ctml:parentRef>
+    <ctml:wikiDataId>Q542678</ctml:wikiDataId>
+    <ctml:latitude>23.39083000</ctml:latitude>
+    <ctml:longitude>57.42444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79935" kind="city">
+    <ctml:name>Dib Dibba</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Musandam</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-MU</ctml:parentRef>
+    <ctml:wikiDataId>Q2892151</ctml:wikiDataId>
+    <ctml:latitude>26.19778000</ctml:latitude>
+    <ctml:longitude>56.25778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79940" kind="city">
+    <ctml:name>Madḩā’ al Jadīdah</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Musandam</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-MU</ctml:parentRef>
+    <ctml:wikiDataId>Q1883385</ctml:wikiDataId>
+    <ctml:latitude>25.28345000</ctml:latitude>
+    <ctml:longitude>56.33280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79932" kind="city">
+    <ctml:name>Bawshar</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Muscat</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2892151</ctml:wikiDataId>
+    <ctml:latitude>23.57769000</ctml:latitude>
+    <ctml:longitude>58.39982000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79941" kind="city">
+    <ctml:name>Muscat</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Muscat</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q3826</ctml:wikiDataId>
+    <ctml:latitude>23.58413000</ctml:latitude>
+    <ctml:longitude>58.40778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:OMN-79945" kind="city">
+    <ctml:name>Seeb</ctml:name>
+    <ctml:country>OMN</ctml:country>
+    <ctml:admin1>Muscat</ctml:admin1>
+    <ctml:parentRef>place:admin1:OM-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q948050</ctml:wikiDataId>
+    <ctml:latitude>23.67027000</ctml:latitude>
+    <ctml:longitude>58.18911000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BMU-153518" kind="city">
+    <ctml:name>Devonshire</ctml:name>
+    <ctml:country>BMU</ctml:country>
+    <ctml:admin1>Devonshire</ctml:admin1>
+    <ctml:parentRef>place:admin1:BM-DEV</ctml:parentRef>
+    <ctml:wikiDataId>Q516478</ctml:wikiDataId>
+    <ctml:latitude>32.29300000</ctml:latitude>
+    <ctml:longitude>-64.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BMU-153515" kind="city">
+    <ctml:name>Hamilton</ctml:name>
+    <ctml:country>BMU</ctml:country>
+    <ctml:admin1>Hamilton</ctml:admin1>
+    <ctml:parentRef>place:admin1:BM-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q12232</ctml:wikiDataId>
+    <ctml:latitude>32.29400000</ctml:latitude>
+    <ctml:longitude>-64.78300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BMU-153516" kind="city">
+    <ctml:name>Paget</ctml:name>
+    <ctml:country>BMU</ctml:country>
+    <ctml:admin1>Paget</ctml:admin1>
+    <ctml:parentRef>place:admin1:BM-PAG</ctml:parentRef>
+    <ctml:wikiDataId>Q550924</ctml:wikiDataId>
+    <ctml:latitude>32.27800000</ctml:latitude>
+    <ctml:longitude>-64.76900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BMU-153514" kind="city">
+    <ctml:name>St. George's</ctml:name>
+    <ctml:country>BMU</ctml:country>
+    <ctml:admin1>Saint George's</ctml:admin1>
+    <ctml:parentRef>place:admin1:BM-SGE</ctml:parentRef>
+    <ctml:wikiDataId>Q5436</ctml:wikiDataId>
+    <ctml:latitude>32.38100000</ctml:latitude>
+    <ctml:longitude>-64.67400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BMU-153517" kind="city">
+    <ctml:name>Tucker’s Town</ctml:name>
+    <ctml:country>BMU</ctml:country>
+    <ctml:admin1>Saint George's</ctml:admin1>
+    <ctml:parentRef>place:admin1:BM-SGE</ctml:parentRef>
+    <ctml:wikiDataId>Q7851040</ctml:wikiDataId>
+    <ctml:latitude>32.33280000</ctml:latitude>
+    <ctml:longitude>-64.68810000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BMU-153513" kind="city">
+    <ctml:name>Somerset</ctml:name>
+    <ctml:country>BMU</ctml:country>
+    <ctml:admin1>Sandys</ctml:admin1>
+    <ctml:parentRef>place:admin1:BM-SAN</ctml:parentRef>
+    <ctml:wikiDataId>Q516580</ctml:wikiDataId>
+    <ctml:latitude>32.28200000</ctml:latitude>
+    <ctml:longitude>-64.84400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BMU-153512" kind="city">
+    <ctml:name>Flatts</ctml:name>
+    <ctml:country>BMU</ctml:country>
+    <ctml:admin1>Smith's</ctml:admin1>
+    <ctml:parentRef>place:admin1:BM-SMI</ctml:parentRef>
+    <ctml:wikiDataId>Q497550</ctml:wikiDataId>
+    <ctml:latitude>32.32800000</ctml:latitude>
+    <ctml:longitude>-64.73600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BMU-153511" kind="city">
+    <ctml:name>Southampton</ctml:name>
+    <ctml:country>BMU</ctml:country>
+    <ctml:admin1>Southampton</ctml:admin1>
+    <ctml:parentRef>place:admin1:BM-SOU</ctml:parentRef>
+    <ctml:wikiDataId>Q575093</ctml:wikiDataId>
+    <ctml:latitude>32.24900000</ctml:latitude>
+    <ctml:longitude>-64.86100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BMU-153510" kind="city">
+    <ctml:name>Warwick</ctml:name>
+    <ctml:country>BMU</ctml:country>
+    <ctml:admin1>Warwick</ctml:admin1>
+    <ctml:parentRef>place:admin1:BM-WAR</ctml:parentRef>
+    <ctml:wikiDataId>Q627221</ctml:wikiDataId>
+    <ctml:latitude>32.26700000</ctml:latitude>
+    <ctml:longitude>-64.80600000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,1956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MAR-67047" kind="city">
+    <ctml:name>Agadir Melloul</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q4690968</ctml:wikiDataId>
+    <ctml:latitude>30.22492000</ctml:latitude>
+    <ctml:longitude>-7.79601000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67048" kind="city">
+    <ctml:name>Agadir-Ida-ou-Tnan</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q4690968</ctml:wikiDataId>
+    <ctml:latitude>30.58333000</ctml:latitude>
+    <ctml:longitude>-9.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67062" kind="city">
+    <ctml:name>Aoulouz</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2858000</ctml:wikiDataId>
+    <ctml:latitude>30.67307000</ctml:latitude>
+    <ctml:longitude>-8.18087000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67063" kind="city">
+    <ctml:name>Aourir</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2544597</ctml:wikiDataId>
+    <ctml:latitude>30.49238000</ctml:latitude>
+    <ctml:longitude>-9.63550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67065" kind="city">
+    <ctml:name>Arazane</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2859592</ctml:wikiDataId>
+    <ctml:latitude>30.50346000</ctml:latitude>
+    <ctml:longitude>-8.60637000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67068" kind="city">
+    <ctml:name>Argana</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2860899</ctml:wikiDataId>
+    <ctml:latitude>30.78250000</ctml:latitude>
+    <ctml:longitude>-9.11968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67084" kind="city">
+    <ctml:name>Bigoudine</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q4907017</ctml:wikiDataId>
+    <ctml:latitude>30.72376000</ctml:latitude>
+    <ctml:longitude>-9.21097000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67102" kind="city">
+    <ctml:name>Chtouka-Ait-Baha</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2424820</ctml:wikiDataId>
+    <ctml:latitude>30.02948000</ctml:latitude>
+    <ctml:longitude>-9.30909000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67136" kind="city">
+    <ctml:name>Inezgane</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2736030</ctml:wikiDataId>
+    <ctml:latitude>30.35535000</ctml:latitude>
+    <ctml:longitude>-9.53639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67137" kind="city">
+    <ctml:name>Inezgane-Ait Melloul</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q1662264</ctml:wikiDataId>
+    <ctml:latitude>30.10000000</ctml:latitude>
+    <ctml:longitude>-9.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67185" kind="city">
+    <ctml:name>Ouijjane</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q7110344</ctml:wikiDataId>
+    <ctml:latitude>29.62777000</ctml:latitude>
+    <ctml:longitude>-9.53959000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67190" kind="city">
+    <ctml:name>Oulad Teïma</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q785945</ctml:wikiDataId>
+    <ctml:latitude>30.39467000</ctml:latitude>
+    <ctml:longitude>-9.20897000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67194" kind="city">
+    <ctml:name>Reggada</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q3423400</ctml:wikiDataId>
+    <ctml:latitude>29.58016000</ctml:latitude>
+    <ctml:longitude>-9.70086000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67208" kind="city">
+    <ctml:name>Sidi Ifni</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q632361</ctml:wikiDataId>
+    <ctml:latitude>29.37975000</ctml:latitude>
+    <ctml:longitude>-10.17299000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67223" kind="city">
+    <ctml:name>Tadrart</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q3513742</ctml:wikiDataId>
+    <ctml:latitude>30.77477000</ctml:latitude>
+    <ctml:longitude>-9.45951000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67224" kind="city">
+    <ctml:name>Tafraout</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q3513742</ctml:wikiDataId>
+    <ctml:latitude>29.72449000</ctml:latitude>
+    <ctml:longitude>-8.97470000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67225" kind="city">
+    <ctml:name>Taghazout</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q621472</ctml:wikiDataId>
+    <ctml:latitude>30.54259000</ctml:latitude>
+    <ctml:longitude>-9.71115000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67227" kind="city">
+    <ctml:name>Taliouine</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q1001873</ctml:wikiDataId>
+    <ctml:latitude>30.52917000</ctml:latitude>
+    <ctml:longitude>-7.91262000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67231" kind="city">
+    <ctml:name>Tamri</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q3514885</ctml:wikiDataId>
+    <ctml:latitude>30.69602000</ctml:latitude>
+    <ctml:longitude>-9.82972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67233" kind="city">
+    <ctml:name>Tanalt</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q3514940</ctml:wikiDataId>
+    <ctml:latitude>29.77548000</ctml:latitude>
+    <ctml:longitude>-9.16796000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67241" kind="city">
+    <ctml:name>Taroudannt</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2092298</ctml:wikiDataId>
+    <ctml:latitude>30.50000000</ctml:latitude>
+    <ctml:longitude>-8.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67242" kind="city">
+    <ctml:name>Taroudant</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q762727</ctml:wikiDataId>
+    <ctml:latitude>30.47028000</ctml:latitude>
+    <ctml:longitude>-8.87695000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67243" kind="city">
+    <ctml:name>Tarsouat</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q12201826</ctml:wikiDataId>
+    <ctml:latitude>29.58153000</ctml:latitude>
+    <ctml:longitude>-9.02664000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67244" kind="city">
+    <ctml:name>Tata</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q546437</ctml:wikiDataId>
+    <ctml:latitude>29.66667000</ctml:latitude>
+    <ctml:longitude>-7.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67259" kind="city">
+    <ctml:name>Tiznit</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Assa-Zag (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-ASZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2339589</ctml:wikiDataId>
+    <ctml:latitude>29.58333000</ctml:latitude>
+    <ctml:longitude>-9.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67071" kind="city">
+    <ctml:name>Azemmour</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q178172</ctml:wikiDataId>
+    <ctml:latitude>33.28952000</ctml:latitude>
+    <ctml:longitude>-8.34250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67079" kind="city">
+    <ctml:name>Benslimane</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q15198365</ctml:wikiDataId>
+    <ctml:latitude>33.50000000</ctml:latitude>
+    <ctml:longitude>-7.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67081" kind="city">
+    <ctml:name>Berrechid</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2191860</ctml:wikiDataId>
+    <ctml:latitude>33.26553000</ctml:latitude>
+    <ctml:longitude>-7.58754000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67082" kind="city">
+    <ctml:name>Berrechid Province</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2191860</ctml:wikiDataId>
+    <ctml:latitude>33.26582000</ctml:latitude>
+    <ctml:longitude>-7.58142000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67091" kind="city">
+    <ctml:name>Boulaouane</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q4949512</ctml:wikiDataId>
+    <ctml:latitude>32.85995000</ctml:latitude>
+    <ctml:longitude>-8.05555000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67093" kind="city">
+    <ctml:name>Bouskoura</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2294847</ctml:wikiDataId>
+    <ctml:latitude>33.44976000</ctml:latitude>
+    <ctml:longitude>-7.65239000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67094" kind="city">
+    <ctml:name>Bouznika</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q638967</ctml:wikiDataId>
+    <ctml:latitude>33.78942000</ctml:latitude>
+    <ctml:longitude>-7.15968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67098" kind="city">
+    <ctml:name>Casablanca</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q649078</ctml:wikiDataId>
+    <ctml:latitude>33.58840000</ctml:latitude>
+    <ctml:longitude>-7.55785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67110" kind="city">
+    <ctml:name>El Jadid</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q219583</ctml:wikiDataId>
+    <ctml:latitude>33.25682000</ctml:latitude>
+    <ctml:longitude>-8.50882000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67113" kind="city">
+    <ctml:name>El-Jadida</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q599606</ctml:wikiDataId>
+    <ctml:latitude>32.90000000</ctml:latitude>
+    <ctml:longitude>-8.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67162" kind="city">
+    <ctml:name>Mediouna</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1957680</ctml:wikiDataId>
+    <ctml:latitude>33.52012000</ctml:latitude>
+    <ctml:longitude>-7.50350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67170" kind="city">
+    <ctml:name>Mohammedia</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q647417</ctml:wikiDataId>
+    <ctml:latitude>33.68607000</ctml:latitude>
+    <ctml:longitude>-7.38298000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67174" kind="city">
+    <ctml:name>Nouaceur</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q516261</ctml:wikiDataId>
+    <ctml:latitude>33.45839000</ctml:latitude>
+    <ctml:longitude>-7.64726000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67175" kind="city">
+    <ctml:name>Oualidia</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3135328</ctml:wikiDataId>
+    <ctml:latitude>32.73372000</ctml:latitude>
+    <ctml:longitude>-9.03059000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67188" kind="city">
+    <ctml:name>Oulad Frej</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3358160</ctml:wikiDataId>
+    <ctml:latitude>32.95956000</ctml:latitude>
+    <ctml:longitude>-8.22740000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MAR-67203" kind="admin2">
+    <ctml:name>Settat</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q818019</ctml:wikiDataId>
+    <ctml:latitude>33.00103000</ctml:latitude>
+    <ctml:longitude>-7.61662000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67204" kind="city">
+    <ctml:name>Settat Province</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1523840</ctml:wikiDataId>
+    <ctml:latitude>33.08333000</ctml:latitude>
+    <ctml:longitude>-7.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67206" kind="city">
+    <ctml:name>Sidi Bennour</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1523840</ctml:wikiDataId>
+    <ctml:latitude>32.64896000</ctml:latitude>
+    <ctml:longitude>-8.42686000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67215" kind="city">
+    <ctml:name>Sidi Smai’il</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3405481</ctml:wikiDataId>
+    <ctml:latitude>32.82461000</ctml:latitude>
+    <ctml:longitude>-8.51122000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67258" kind="city">
+    <ctml:name>Tit Mellil</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3529467</ctml:wikiDataId>
+    <ctml:latitude>33.55808000</ctml:latitude>
+    <ctml:longitude>-7.48647000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67265" kind="city">
+    <ctml:name>Zawyat an Nwaçer</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Casablanca-Settat</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1876685</ctml:wikiDataId>
+    <ctml:latitude>33.37981000</ctml:latitude>
+    <ctml:longitude>-7.61932000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67049" kind="city">
+    <ctml:name>Agdz</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2717415</ctml:wikiDataId>
+    <ctml:latitude>30.69356000</ctml:latitude>
+    <ctml:longitude>-6.44628000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67060" kind="city">
+    <ctml:name>Alnif</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q984312</ctml:wikiDataId>
+    <ctml:latitude>31.11411000</ctml:latitude>
+    <ctml:longitude>-5.17154000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67061" kind="city">
+    <ctml:name>Aoufous</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2857997</ctml:wikiDataId>
+    <ctml:latitude>31.68000000</ctml:latitude>
+    <ctml:longitude>-4.17000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67067" kind="city">
+    <ctml:name>Arfoud</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q648987</ctml:wikiDataId>
+    <ctml:latitude>31.43530000</ctml:latitude>
+    <ctml:longitude>-4.23258000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67114" kind="city">
+    <ctml:name>Errachidia</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2024447</ctml:wikiDataId>
+    <ctml:latitude>31.75000000</ctml:latitude>
+    <ctml:longitude>-4.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67133" kind="city">
+    <ctml:name>Imilchil</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2676569</ctml:wikiDataId>
+    <ctml:latitude>32.15309000</ctml:latitude>
+    <ctml:longitude>-5.62453000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67140" kind="city">
+    <ctml:name>Jebel Tiskaouine</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3156016</ctml:wikiDataId>
+    <ctml:latitude>31.02722000</ctml:latitude>
+    <ctml:longitude>-5.11643000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67142" kind="city">
+    <ctml:name>Jorf</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1276800</ctml:wikiDataId>
+    <ctml:latitude>31.49442000</ctml:latitude>
+    <ctml:longitude>-4.40598000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67145" kind="city">
+    <ctml:name>Kelaat Mgouna</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1018286</ctml:wikiDataId>
+    <ctml:latitude>31.24573000</ctml:latitude>
+    <ctml:longitude>-6.13260000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67165" kind="city">
+    <ctml:name>Mhamid</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q178663</ctml:wikiDataId>
+    <ctml:latitude>29.82000000</ctml:latitude>
+    <ctml:longitude>-5.72000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67168" kind="city">
+    <ctml:name>Midelt</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2501809</ctml:wikiDataId>
+    <ctml:latitude>32.68055000</ctml:latitude>
+    <ctml:longitude>-4.73691000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MAR-67177" kind="admin2">
+    <ctml:name>Ouarzazat</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q505208</ctml:wikiDataId>
+    <ctml:latitude>30.91894000</ctml:latitude>
+    <ctml:longitude>-6.89341000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MAR-67178" kind="admin2">
+    <ctml:name>Ouarzazate</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1629229</ctml:wikiDataId>
+    <ctml:latitude>30.94130000</ctml:latitude>
+    <ctml:longitude>-6.90285000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67196" kind="city">
+    <ctml:name>Reçani</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2154823</ctml:wikiDataId>
+    <ctml:latitude>31.28318000</ctml:latitude>
+    <ctml:longitude>-4.26565000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67246" kind="city">
+    <ctml:name>Taznakht</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q13420293</ctml:wikiDataId>
+    <ctml:latitude>30.57836000</ctml:latitude>
+    <ctml:longitude>-7.20341000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67247" kind="city">
+    <ctml:name>Telouet</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1010760</ctml:wikiDataId>
+    <ctml:latitude>31.28925000</ctml:latitude>
+    <ctml:longitude>-7.23789000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MAR-67255" kind="admin2">
+    <ctml:name>Tinghir</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q335141</ctml:wikiDataId>
+    <ctml:latitude>31.51472000</ctml:latitude>
+    <ctml:longitude>-5.53278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67256" kind="city">
+    <ctml:name>Tinghir Province</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q335141</ctml:wikiDataId>
+    <ctml:latitude>31.51965000</ctml:latitude>
+    <ctml:longitude>-5.52999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67264" kind="city">
+    <ctml:name>Zagora</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Drâa-Tafilalet</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2265471</ctml:wikiDataId>
+    <ctml:latitude>30.34839000</ctml:latitude>
+    <ctml:longitude>-5.83649000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67076" kind="city">
+    <ctml:name>Aïn Leuh</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q540643</ctml:wikiDataId>
+    <ctml:latitude>33.28984000</ctml:latitude>
+    <ctml:longitude>-5.33863000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67053" kind="city">
+    <ctml:name>Aknoul</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q603331</ctml:wikiDataId>
+    <ctml:latitude>34.65371000</ctml:latitude>
+    <ctml:longitude>-3.86754000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67059" kind="city">
+    <ctml:name>Almis Marmoucha</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q4733854</ctml:wikiDataId>
+    <ctml:latitude>33.32000000</ctml:latitude>
+    <ctml:longitude>-4.18000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67074" kind="city">
+    <ctml:name>Azrou</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q794128</ctml:wikiDataId>
+    <ctml:latitude>33.43443000</ctml:latitude>
+    <ctml:longitude>-5.22126000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67083" kind="city">
+    <ctml:name>Bhalil</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2294821</ctml:wikiDataId>
+    <ctml:latitude>33.85194000</ctml:latitude>
+    <ctml:longitude>-4.87228000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67088" kind="city">
+    <ctml:name>Bouarouss</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q4949231</ctml:wikiDataId>
+    <ctml:latitude>34.36000000</ctml:latitude>
+    <ctml:longitude>-4.81000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67092" kind="city">
+    <ctml:name>Boulemane</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q895063</ctml:wikiDataId>
+    <ctml:latitude>33.16667000</ctml:latitude>
+    <ctml:longitude>-4.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67109" kind="city">
+    <ctml:name>El Hajeb</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2606723</ctml:wikiDataId>
+    <ctml:latitude>33.68786000</ctml:latitude>
+    <ctml:longitude>-5.37100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67118" kind="city">
+    <ctml:name>Fes</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2013946</ctml:wikiDataId>
+    <ctml:latitude>34.04000000</ctml:latitude>
+    <ctml:longitude>-4.87000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67123" kind="city">
+    <ctml:name>Fès al Bali</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q80985</ctml:wikiDataId>
+    <ctml:latitude>34.07010000</ctml:latitude>
+    <ctml:longitude>-4.95473000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67124" kind="city">
+    <ctml:name>Galaz</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q5518168</ctml:wikiDataId>
+    <ctml:latitude>34.54424000</ctml:latitude>
+    <ctml:longitude>-4.80355000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67125" kind="city">
+    <ctml:name>Ghouazi</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q5557478</ctml:wikiDataId>
+    <ctml:latitude>34.47737000</ctml:latitude>
+    <ctml:longitude>-5.30235000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67128" kind="city">
+    <ctml:name>Guercif</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2330467</ctml:wikiDataId>
+    <ctml:latitude>34.22568000</ctml:latitude>
+    <ctml:longitude>-3.35361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67132" kind="city">
+    <ctml:name>Ifrane</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2301648</ctml:wikiDataId>
+    <ctml:latitude>33.33333000</ctml:latitude>
+    <ctml:longitude>-5.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MAR-67163" kind="admin2">
+    <ctml:name>Meknes</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3408890</ctml:wikiDataId>
+    <ctml:latitude>33.97761000</ctml:latitude>
+    <ctml:longitude>-5.52496000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67169" kind="city">
+    <ctml:name>Missour</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2540367</ctml:wikiDataId>
+    <ctml:latitude>33.04893000</ctml:latitude>
+    <ctml:longitude>-3.98947000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67171" kind="city">
+    <ctml:name>Moulay Bouchta</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q6918958</ctml:wikiDataId>
+    <ctml:latitude>34.48922000</ctml:latitude>
+    <ctml:longitude>-5.13023000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67172" kind="city">
+    <ctml:name>Moulay-Yacoub</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1950226</ctml:wikiDataId>
+    <ctml:latitude>34.14558000</ctml:latitude>
+    <ctml:longitude>-5.10259000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67179" kind="city">
+    <ctml:name>Oued Amlil</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q580553</ctml:wikiDataId>
+    <ctml:latitude>34.20000000</ctml:latitude>
+    <ctml:longitude>-4.28000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67189" kind="city">
+    <ctml:name>Oulad Tayeb</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3358160</ctml:wikiDataId>
+    <ctml:latitude>33.94633000</ctml:latitude>
+    <ctml:longitude>-4.99509000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67192" kind="city">
+    <ctml:name>Ourtzagh</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3358491</ctml:wikiDataId>
+    <ctml:latitude>34.53477000</ctml:latitude>
+    <ctml:longitude>-4.96878000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67200" kind="city">
+    <ctml:name>Sefrou</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1969535</ctml:wikiDataId>
+    <ctml:latitude>33.79979000</ctml:latitude>
+    <ctml:longitude>-4.68000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67226" kind="city">
+    <ctml:name>Tahla</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q621472</ctml:wikiDataId>
+    <ctml:latitude>34.04965000</ctml:latitude>
+    <ctml:longitude>-4.42162000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67228" kind="city">
+    <ctml:name>Talzemt</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3514599</ctml:wikiDataId>
+    <ctml:latitude>33.59000000</ctml:latitude>
+    <ctml:longitude>-4.19000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67237" kind="city">
+    <ctml:name>Taounate</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1969671</ctml:wikiDataId>
+    <ctml:latitude>34.50000000</ctml:latitude>
+    <ctml:longitude>-4.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67245" kind="city">
+    <ctml:name>Taza</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1819589</ctml:wikiDataId>
+    <ctml:latitude>34.25000000</ctml:latitude>
+    <ctml:longitude>-3.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67261" kind="city">
+    <ctml:name>Tmourghout</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Fès-Meknès</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3530003</ctml:wikiDataId>
+    <ctml:latitude>33.90650000</ctml:latitude>
+    <ctml:longitude>-4.02696000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67070" kind="city">
+    <ctml:name>Assa-Zag</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Guelmim-Oued Noun (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-10</ctml:parentRef>
+    <ctml:wikiDataId>Q180994</ctml:wikiDataId>
+    <ctml:latitude>28.16667000</ctml:latitude>
+    <ctml:longitude>-9.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67126" kind="city">
+    <ctml:name>Guelmim</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Guelmim-Oued Noun (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-10</ctml:parentRef>
+    <ctml:wikiDataId>Q923219</ctml:wikiDataId>
+    <ctml:latitude>28.75000000</ctml:latitude>
+    <ctml:longitude>-10.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67209" kind="city">
+    <ctml:name>Sidi Ifni</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Guelmim-Oued Noun (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-10</ctml:parentRef>
+    <ctml:wikiDataId>Q632361</ctml:wikiDataId>
+    <ctml:latitude>29.37719000</ctml:latitude>
+    <ctml:longitude>-10.17111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MAR-67232" kind="admin2">
+    <ctml:name>Tan-Tan</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Guelmim-Oued Noun (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-10</ctml:parentRef>
+    <ctml:wikiDataId>Q972535</ctml:wikiDataId>
+    <ctml:latitude>28.08333000</ctml:latitude>
+    <ctml:longitude>-11.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67066" kind="city">
+    <ctml:name>Arbaoua</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q2859627</ctml:wikiDataId>
+    <ctml:latitude>34.90239000</ctml:latitude>
+    <ctml:longitude>-5.94871000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67130" kind="city">
+    <ctml:name>Had Kourt</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q3125519</ctml:wikiDataId>
+    <ctml:latitude>34.61588000</ctml:latitude>
+    <ctml:longitude>-5.74040000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67147" kind="city">
+    <ctml:name>Kenitra Province</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q284878</ctml:wikiDataId>
+    <ctml:latitude>34.58333000</ctml:latitude>
+    <ctml:longitude>-6.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67149" kind="city">
+    <ctml:name>Khemisset</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q1740735</ctml:wikiDataId>
+    <ctml:latitude>33.66667000</ctml:latitude>
+    <ctml:longitude>-6.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67161" kind="city">
+    <ctml:name>Mechraa Bel Ksiri</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q2626632</ctml:wikiDataId>
+    <ctml:latitude>34.57373000</ctml:latitude>
+    <ctml:longitude>-5.95585000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67191" kind="city">
+    <ctml:name>Oulmes</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q785945</ctml:wikiDataId>
+    <ctml:latitude>33.42585000</ctml:latitude>
+    <ctml:longitude>-6.00137000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67193" kind="city">
+    <ctml:name>Rabat</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q3551</ctml:wikiDataId>
+    <ctml:latitude>34.01325000</ctml:latitude>
+    <ctml:longitude>-6.83255000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67199" kind="city">
+    <ctml:name>Sale</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q466046</ctml:wikiDataId>
+    <ctml:latitude>34.05310000</ctml:latitude>
+    <ctml:longitude>-6.79846000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67207" kind="city">
+    <ctml:name>Sidi Bousber</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q3915278</ctml:wikiDataId>
+    <ctml:latitude>34.56283000</ctml:latitude>
+    <ctml:longitude>-5.36208000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67211" kind="city">
+    <ctml:name>Sidi Qacem</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q2089594</ctml:wikiDataId>
+    <ctml:latitude>34.22149000</ctml:latitude>
+    <ctml:longitude>-5.70775000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67213" kind="city">
+    <ctml:name>Sidi Redouane</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q7508814</ctml:wikiDataId>
+    <ctml:latitude>34.68692000</ctml:latitude>
+    <ctml:longitude>-5.44538000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67214" kind="city">
+    <ctml:name>Sidi Slimane</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q2359952</ctml:wikiDataId>
+    <ctml:latitude>34.26479000</ctml:latitude>
+    <ctml:longitude>-5.92598000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67216" kind="city">
+    <ctml:name>Sidi Yahia El Gharb</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q1169845</ctml:wikiDataId>
+    <ctml:latitude>34.30494000</ctml:latitude>
+    <ctml:longitude>-6.30404000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67217" kind="city">
+    <ctml:name>Sidi-Kacem</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q1969542</ctml:wikiDataId>
+    <ctml:latitude>34.58333000</ctml:latitude>
+    <ctml:longitude>-5.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67218" kind="city">
+    <ctml:name>Skhirate</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q1333077</ctml:wikiDataId>
+    <ctml:latitude>33.85270000</ctml:latitude>
+    <ctml:longitude>-7.03171000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67219" kind="city">
+    <ctml:name>Skhirate-Temara</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q1333077</ctml:wikiDataId>
+    <ctml:latitude>33.77000000</ctml:latitude>
+    <ctml:longitude>-6.87000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67222" kind="city">
+    <ctml:name>Souq Larb’a al Gharb</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q3486986</ctml:wikiDataId>
+    <ctml:latitude>34.68664000</ctml:latitude>
+    <ctml:longitude>-6.00272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67248" kind="city">
+    <ctml:name>Temara</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q1635606</ctml:wikiDataId>
+    <ctml:latitude>33.92866000</ctml:latitude>
+    <ctml:longitude>-6.90656000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67249" kind="city">
+    <ctml:name>Teroual</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q7702998</ctml:wikiDataId>
+    <ctml:latitude>34.67452000</ctml:latitude>
+    <ctml:longitude>-5.27331000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67252" kind="city">
+    <ctml:name>Tiflet</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Kénitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KEN</ctml:parentRef>
+    <ctml:wikiDataId>Q2501786</ctml:wikiDataId>
+    <ctml:latitude>33.89469000</ctml:latitude>
+    <ctml:longitude>-6.30649000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67050" kind="city">
+    <ctml:name>Aguelmous</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q2827329</ctml:wikiDataId>
+    <ctml:latitude>33.16139000</ctml:latitude>
+    <ctml:longitude>-5.84626000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67055" kind="city">
+    <ctml:name>Al Fqih Ben Çalah</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q603331</ctml:wikiDataId>
+    <ctml:latitude>32.50213000</ctml:latitude>
+    <ctml:longitude>-6.68771000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67072" kind="city">
+    <ctml:name>Azilal</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q1934167</ctml:wikiDataId>
+    <ctml:latitude>31.96156000</ctml:latitude>
+    <ctml:longitude>-6.57109000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67073" kind="city">
+    <ctml:name>Azilal Province</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q793763</ctml:wikiDataId>
+    <ctml:latitude>31.91667000</ctml:latitude>
+    <ctml:longitude>-6.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67090" kind="city">
+    <ctml:name>Boujniba</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q2921654</ctml:wikiDataId>
+    <ctml:latitude>32.90046000</ctml:latitude>
+    <ctml:longitude>-6.77464000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67096" kind="city">
+    <ctml:name>Bzou</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q2929225</ctml:wikiDataId>
+    <ctml:latitude>32.09171000</ctml:latitude>
+    <ctml:longitude>-7.04786000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67103" kind="city">
+    <ctml:name>Dar Ould Zidouh</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q3015955</ctml:wikiDataId>
+    <ctml:latitude>32.31247000</ctml:latitude>
+    <ctml:longitude>-6.90494000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67105" kind="city">
+    <ctml:name>Demnate</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q2540234</ctml:wikiDataId>
+    <ctml:latitude>31.73443000</ctml:latitude>
+    <ctml:longitude>-7.00505000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67111" kind="city">
+    <ctml:name>El Ksiba</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q3050022</ctml:wikiDataId>
+    <ctml:latitude>32.57286000</ctml:latitude>
+    <ctml:longitude>-6.01947000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67121" kind="city">
+    <ctml:name>Fquih Ben Salah</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q513678</ctml:wikiDataId>
+    <ctml:latitude>32.50108000</ctml:latitude>
+    <ctml:longitude>-6.68415000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67131" kind="city">
+    <ctml:name>Ifrane</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q3125519</ctml:wikiDataId>
+    <ctml:latitude>31.70217000</ctml:latitude>
+    <ctml:longitude>-6.34940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67138" kind="city">
+    <ctml:name>Isseksi</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q6088172</ctml:wikiDataId>
+    <ctml:latitude>32.22981000</ctml:latitude>
+    <ctml:longitude>-6.27661000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67139" kind="city">
+    <ctml:name>Itzer</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q3156016</ctml:wikiDataId>
+    <ctml:latitude>32.87830000</ctml:latitude>
+    <ctml:longitude>-5.05150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67143" kind="city">
+    <ctml:name>Kasba Tadla</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q1734833</ctml:wikiDataId>
+    <ctml:latitude>32.59770000</ctml:latitude>
+    <ctml:longitude>-6.26844000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67148" kind="city">
+    <ctml:name>Kerrouchen</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q3195491</ctml:wikiDataId>
+    <ctml:latitude>32.79639000</ctml:latitude>
+    <ctml:longitude>-5.31880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67150" kind="city">
+    <ctml:name>Khenifra</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q1820589</ctml:wikiDataId>
+    <ctml:latitude>32.93333000</ctml:latitude>
+    <ctml:longitude>-5.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67151" kind="city">
+    <ctml:name>Khouribga</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q595974</ctml:wikiDataId>
+    <ctml:latitude>32.88108000</ctml:latitude>
+    <ctml:longitude>-6.90630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67152" kind="city">
+    <ctml:name>Khouribga Province</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q1740686</ctml:wikiDataId>
+    <ctml:latitude>32.93333000</ctml:latitude>
+    <ctml:longitude>-6.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67167" kind="city">
+    <ctml:name>Midelt</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q2501809</ctml:wikiDataId>
+    <ctml:latitude>32.68520000</ctml:latitude>
+    <ctml:longitude>-4.74512000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67176" kind="city">
+    <ctml:name>Ouaoula</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q15264695</ctml:wikiDataId>
+    <ctml:latitude>31.87000000</ctml:latitude>
+    <ctml:longitude>-6.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67181" kind="city">
+    <ctml:name>Oued Zem</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q1724990</ctml:wikiDataId>
+    <ctml:latitude>32.86270000</ctml:latitude>
+    <ctml:longitude>-6.57359000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67210" kind="city">
+    <ctml:name>Sidi Jaber</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q3483238</ctml:wikiDataId>
+    <ctml:latitude>32.38952000</ctml:latitude>
+    <ctml:longitude>-6.42095000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67254" kind="city">
+    <ctml:name>Timoulilt</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q7807629</ctml:wikiDataId>
+    <ctml:latitude>32.20368000</ctml:latitude>
+    <ctml:longitude>-6.46660000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67266" kind="city">
+    <ctml:name>Zawyat ech Cheïkh</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Khénifra</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-KHN</ctml:parentRef>
+    <ctml:wikiDataId>Q1876685</ctml:wikiDataId>
+    <ctml:latitude>32.64445000</ctml:latitude>
+    <ctml:longitude>-5.91826000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67051" kind="city">
+    <ctml:name>Ahfir</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2544620</ctml:wikiDataId>
+    <ctml:latitude>34.95368000</ctml:latitude>
+    <ctml:longitude>-2.10027000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67075" kind="city">
+    <ctml:name>Aïn Beni Mathar</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q794128</ctml:wikiDataId>
+    <ctml:latitude>34.00970000</ctml:latitude>
+    <ctml:longitude>-2.03238000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67054" kind="city">
+    <ctml:name>Al Aaroui</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q603331</ctml:wikiDataId>
+    <ctml:latitude>35.01090000</ctml:latitude>
+    <ctml:longitude>-3.00938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67080" kind="city">
+    <ctml:name>Berkane</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q820802</ctml:wikiDataId>
+    <ctml:latitude>34.61000000</ctml:latitude>
+    <ctml:longitude>-2.57000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67087" kind="city">
+    <ctml:name>Bouarfa</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q302201</ctml:wikiDataId>
+    <ctml:latitude>32.53379000</ctml:latitude>
+    <ctml:longitude>-1.96209000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67104" kind="city">
+    <ctml:name>Debdou</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q654695</ctml:wikiDataId>
+    <ctml:latitude>33.98228000</ctml:latitude>
+    <ctml:longitude>-3.04263000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67107" kind="city">
+    <ctml:name>Driouch</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q5261728</ctml:wikiDataId>
+    <ctml:latitude>34.97670000</ctml:latitude>
+    <ctml:longitude>-3.38842000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67108" kind="city">
+    <ctml:name>El Aïoun</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3049730</ctml:wikiDataId>
+    <ctml:latitude>34.58319000</ctml:latitude>
+    <ctml:longitude>-2.50612000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67119" kind="city">
+    <ctml:name>Figuig</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1412034</ctml:wikiDataId>
+    <ctml:latitude>32.83333000</ctml:latitude>
+    <ctml:longitude>-2.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67129" kind="city">
+    <ctml:name>Guercif</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2330467</ctml:wikiDataId>
+    <ctml:latitude>34.25041000</ctml:latitude>
+    <ctml:longitude>-3.32542000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67141" kind="city">
+    <ctml:name>Jerada</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1687516</ctml:wikiDataId>
+    <ctml:latitude>34.23662000</ctml:latitude>
+    <ctml:longitude>-2.04284000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67157" kind="city">
+    <ctml:name>Madagh</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q6726176</ctml:wikiDataId>
+    <ctml:latitude>35.01032000</ctml:latitude>
+    <ctml:longitude>-2.33701000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67166" kind="city">
+    <ctml:name>Midar</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2152433</ctml:wikiDataId>
+    <ctml:latitude>34.94025000</ctml:latitude>
+    <ctml:longitude>-3.53311000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67173" kind="city">
+    <ctml:name>Nador</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q367864</ctml:wikiDataId>
+    <ctml:latitude>35.00000000</ctml:latitude>
+    <ctml:longitude>-3.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67186" kind="city">
+    <ctml:name>Oujda-Angad</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1734717</ctml:wikiDataId>
+    <ctml:latitude>34.23600000</ctml:latitude>
+    <ctml:longitude>-2.29400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67198" kind="city">
+    <ctml:name>Saidia</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q4759</ctml:wikiDataId>
+    <ctml:latitude>35.08195000</ctml:latitude>
+    <ctml:longitude>-2.22897000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67201" kind="city">
+    <ctml:name>Selouane</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q280853</ctml:wikiDataId>
+    <ctml:latitude>35.07313000</ctml:latitude>
+    <ctml:longitude>-2.94230000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67238" kind="city">
+    <ctml:name>Taourirt</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2329701</ctml:wikiDataId>
+    <ctml:latitude>34.40731000</ctml:latitude>
+    <ctml:longitude>-2.89732000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67260" kind="city">
+    <ctml:name>Tiztoutine</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3530003</ctml:wikiDataId>
+    <ctml:latitude>34.97159000</ctml:latitude>
+    <ctml:longitude>-3.15273000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67267" kind="city">
+    <ctml:name>Zaïo</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>L'Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-02</ctml:parentRef>
+    <ctml:wikiDataId>Q144416</ctml:wikiDataId>
+    <ctml:latitude>34.94282000</ctml:latitude>
+    <ctml:longitude>-2.73290000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67052" kind="city">
+    <ctml:name>Akhfennir</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Laâyoune-Sakia El Hamra (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2544620</ctml:wikiDataId>
+    <ctml:latitude>28.09455000</ctml:latitude>
+    <ctml:longitude>-12.05157000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67089" kind="city">
+    <ctml:name>Boujdour</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Laâyoune-Sakia El Hamra (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-11</ctml:parentRef>
+    <ctml:wikiDataId>Q895028</ctml:wikiDataId>
+    <ctml:latitude>25.66172000</ctml:latitude>
+    <ctml:longitude>-13.68419000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67115" kind="city">
+    <ctml:name>Es-Semara</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Laâyoune-Sakia El Hamra (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1366420</ctml:wikiDataId>
+    <ctml:latitude>27.75000000</ctml:latitude>
+    <ctml:longitude>-11.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67127" kind="city">
+    <ctml:name>Gueltat Zemmour</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Laâyoune-Sakia El Hamra (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-11</ctml:parentRef>
+    <ctml:wikiDataId>Q923219</ctml:wikiDataId>
+    <ctml:latitude>25.14276000</ctml:latitude>
+    <ctml:longitude>-12.37168000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67154" kind="city">
+    <ctml:name>Laayoune</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Laâyoune-Sakia El Hamra (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-11</ctml:parentRef>
+    <ctml:wikiDataId>Q631610</ctml:wikiDataId>
+    <ctml:latitude>27.83333000</ctml:latitude>
+    <ctml:longitude>-12.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67220" kind="city">
+    <ctml:name>Smara</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Laâyoune-Sakia El Hamra (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-11</ctml:parentRef>
+    <ctml:wikiDataId>Q842810</ctml:wikiDataId>
+    <ctml:latitude>26.73841000</ctml:latitude>
+    <ctml:longitude>-11.67194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67239" kind="city">
+    <ctml:name>Tarfaya</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Laâyoune-Sakia El Hamra (EH-partial)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2329701</ctml:wikiDataId>
+    <ctml:latitude>27.93901000</ctml:latitude>
+    <ctml:longitude>-12.92082000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67064" kind="city">
+    <ctml:name>Aousserd</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Oued Ed-Dahab (EH)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-OUD</ctml:parentRef>
+    <ctml:wikiDataId>Q972665</ctml:wikiDataId>
+    <ctml:latitude>21.91977000</ctml:latitude>
+    <ctml:longitude>-15.02068000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67134" kind="city">
+    <ctml:name>Imlili</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Oued Ed-Dahab (EH)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-OUD</ctml:parentRef>
+    <ctml:wikiDataId>Q2676569</ctml:wikiDataId>
+    <ctml:latitude>22.65580000</ctml:latitude>
+    <ctml:longitude>-15.60719000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67182" kind="city">
+    <ctml:name>Oued-Ed-Dahab</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Oued Ed-Dahab (EH)</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-OUD</ctml:parentRef>
+    <ctml:wikiDataId>Q1724990</ctml:wikiDataId>
+    <ctml:latitude>23.64201000</ctml:latitude>
+    <ctml:longitude>-14.44934000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67044" kind="city">
+    <ctml:name>Abadou</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q4663230</ctml:wikiDataId>
+    <ctml:latitude>31.57917000</ctml:latitude>
+    <ctml:longitude>-7.31308000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67045" kind="city">
+    <ctml:name>Adassil</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q4680871</ctml:wikiDataId>
+    <ctml:latitude>31.10783000</ctml:latitude>
+    <ctml:longitude>-8.49083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67057" kind="city">
+    <ctml:name>Al-Haouz</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q2150989</ctml:wikiDataId>
+    <ctml:latitude>31.34083000</ctml:latitude>
+    <ctml:longitude>-7.91076000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67086" kind="city">
+    <ctml:name>Bouabout</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q302201</ctml:wikiDataId>
+    <ctml:latitude>31.26554000</ctml:latitude>
+    <ctml:longitude>-9.17865000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67101" kind="city">
+    <ctml:name>Chichaoua</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q1072085</ctml:wikiDataId>
+    <ctml:latitude>31.26365000</ctml:latitude>
+    <ctml:longitude>-8.84411000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67116" kind="city">
+    <ctml:name>Essaouira</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q1368543</ctml:wikiDataId>
+    <ctml:latitude>31.50675000</ctml:latitude>
+    <ctml:longitude>-9.75655000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67144" kind="city">
+    <ctml:name>Kelaa-Des-Sraghna</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q970179</ctml:wikiDataId>
+    <ctml:latitude>32.16667000</ctml:latitude>
+    <ctml:longitude>-7.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67158" kind="city">
+    <ctml:name>Marrakech</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q6726176</ctml:wikiDataId>
+    <ctml:latitude>31.63623000</ctml:latitude>
+    <ctml:longitude>-8.01041000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67187" kind="city">
+    <ctml:name>Oukaïmedene</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q3090623</ctml:wikiDataId>
+    <ctml:latitude>31.20603000</ctml:latitude>
+    <ctml:longitude>-7.86089000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67195" kind="city">
+    <ctml:name>Rehamna</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q3423400</ctml:wikiDataId>
+    <ctml:latitude>32.24581000</ctml:latitude>
+    <ctml:longitude>-7.93144000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67197" kind="city">
+    <ctml:name>Safi</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q637778</ctml:wikiDataId>
+    <ctml:latitude>32.16667000</ctml:latitude>
+    <ctml:longitude>-8.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67205" kind="city">
+    <ctml:name>Setti Fatma</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q1523840</ctml:wikiDataId>
+    <ctml:latitude>31.22508000</ctml:latitude>
+    <ctml:longitude>-7.67751000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67212" kind="city">
+    <ctml:name>Sidi Rahhal</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q3483281</ctml:wikiDataId>
+    <ctml:latitude>31.65031000</ctml:latitude>
+    <ctml:longitude>-7.47288000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67221" kind="city">
+    <ctml:name>Smimou</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q3486986</ctml:wikiDataId>
+    <ctml:latitude>31.21014000</ctml:latitude>
+    <ctml:longitude>-9.70863000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67229" kind="city">
+    <ctml:name>Tamanar</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q2579094</ctml:wikiDataId>
+    <ctml:latitude>31.00087000</ctml:latitude>
+    <ctml:longitude>-9.67802000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67236" kind="city">
+    <ctml:name>Taouloukoult</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q7684336</ctml:wikiDataId>
+    <ctml:latitude>31.22218000</ctml:latitude>
+    <ctml:longitude>-9.07943000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67251" kind="city">
+    <ctml:name>Tidili Mesfioua</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q3991198</ctml:wikiDataId>
+    <ctml:latitude>31.46586000</ctml:latitude>
+    <ctml:longitude>-7.61199000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67253" kind="city">
+    <ctml:name>Timezgadiouine</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q7806641</ctml:wikiDataId>
+    <ctml:latitude>30.88366000</ctml:latitude>
+    <ctml:longitude>-9.04548000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67263" kind="city">
+    <ctml:name>Youssoufia</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q2627209</ctml:wikiDataId>
+    <ctml:latitude>32.24634000</ctml:latitude>
+    <ctml:longitude>-8.52941000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67268" kind="city">
+    <ctml:name>Zerkten</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Safi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-SAF</ctml:parentRef>
+    <ctml:wikiDataId>Q8069420</ctml:wikiDataId>
+    <ctml:latitude>31.44470000</ctml:latitude>
+    <ctml:longitude>-7.39224000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MAR-67056" kind="admin2">
+    <ctml:name>Al Hoceïma</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q310350</ctml:wikiDataId>
+    <ctml:latitude>35.25165000</ctml:latitude>
+    <ctml:longitude>-3.93723000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67058" kind="city">
+    <ctml:name>Al-Hoceima</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1969619</ctml:wikiDataId>
+    <ctml:latitude>35.00000000</ctml:latitude>
+    <ctml:longitude>-4.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67069" kind="city">
+    <ctml:name>Asilah</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q730328</ctml:wikiDataId>
+    <ctml:latitude>35.46522000</ctml:latitude>
+    <ctml:longitude>-6.03415000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67085" kind="city">
+    <ctml:name>Bni Bouayach</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q4907017</ctml:wikiDataId>
+    <ctml:latitude>35.10506000</ctml:latitude>
+    <ctml:longitude>-3.84028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67095" kind="city">
+    <ctml:name>Brikcha</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2925553</ctml:wikiDataId>
+    <ctml:latitude>34.96732000</ctml:latitude>
+    <ctml:longitude>-5.57295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67097" kind="city">
+    <ctml:name>Cap Negro II</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2929225</ctml:wikiDataId>
+    <ctml:latitude>35.65970000</ctml:latitude>
+    <ctml:longitude>-5.28525000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67099" kind="city">
+    <ctml:name>Chefchaouen</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2354922</ctml:wikiDataId>
+    <ctml:latitude>35.00000000</ctml:latitude>
+    <ctml:longitude>-5.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MAR-67100" kind="admin2">
+    <ctml:name>Chefchaouene</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q676778</ctml:wikiDataId>
+    <ctml:latitude>35.16878000</ctml:latitude>
+    <ctml:longitude>-5.26360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67106" kind="city">
+    <ctml:name>Derdara</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q5261728</ctml:wikiDataId>
+    <ctml:latitude>35.11041000</ctml:latitude>
+    <ctml:longitude>-5.29015000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67117" kind="city">
+    <ctml:name>Fahs-Anjra</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2013946</ctml:wikiDataId>
+    <ctml:latitude>35.74000000</ctml:latitude>
+    <ctml:longitude>-5.68000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67120" kind="city">
+    <ctml:name>Fnidek</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q513678</ctml:wikiDataId>
+    <ctml:latitude>35.84906000</ctml:latitude>
+    <ctml:longitude>-5.35747000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67135" kind="city">
+    <ctml:name>Imzouren</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2676569</ctml:wikiDataId>
+    <ctml:latitude>35.14637000</ctml:latitude>
+    <ctml:longitude>-3.85063000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67153" kind="city">
+    <ctml:name>Ksar El Kebir</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q52603</ctml:wikiDataId>
+    <ctml:latitude>35.00044000</ctml:latitude>
+    <ctml:longitude>-5.90378000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67155" kind="city">
+    <ctml:name>Larache</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1759567</ctml:wikiDataId>
+    <ctml:latitude>35.16667000</ctml:latitude>
+    <ctml:longitude>-5.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67156" kind="city">
+    <ctml:name>M'Diq-Fnideq</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1759567</ctml:wikiDataId>
+    <ctml:latitude>35.85743000</ctml:latitude>
+    <ctml:longitude>-5.35858000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67160" kind="city">
+    <ctml:name>Martil</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2626632</ctml:wikiDataId>
+    <ctml:latitude>35.61662000</ctml:latitude>
+    <ctml:longitude>-5.27522000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67180" kind="city">
+    <ctml:name>Oued Laou</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3099183</ctml:wikiDataId>
+    <ctml:latitude>35.44840000</ctml:latitude>
+    <ctml:longitude>-5.09627000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MAR-67183" kind="admin2">
+    <ctml:name>Ouezzane</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q602426</ctml:wikiDataId>
+    <ctml:latitude>34.79584000</ctml:latitude>
+    <ctml:longitude>-5.57849000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67184" kind="city">
+    <ctml:name>Ouezzane Province</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q602426</ctml:wikiDataId>
+    <ctml:latitude>34.79759000</ctml:latitude>
+    <ctml:longitude>-5.58603000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67202" kind="city">
+    <ctml:name>Senada</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q628903</ctml:wikiDataId>
+    <ctml:latitude>35.07452000</ctml:latitude>
+    <ctml:longitude>-4.21583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67230" kind="city">
+    <ctml:name>Tamorot</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q7681643</ctml:wikiDataId>
+    <ctml:latitude>34.93632000</ctml:latitude>
+    <ctml:longitude>-4.77940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67234" kind="city">
+    <ctml:name>Tanger-Assilah</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3514940</ctml:wikiDataId>
+    <ctml:latitude>35.59000000</ctml:latitude>
+    <ctml:longitude>-5.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67240" kind="city">
+    <ctml:name>Targuist</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2544562</ctml:wikiDataId>
+    <ctml:latitude>34.93769000</ctml:latitude>
+    <ctml:longitude>-4.31856000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67250" kind="city">
+    <ctml:name>Tetouan</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1257443</ctml:wikiDataId>
+    <ctml:latitude>35.58333000</ctml:latitude>
+    <ctml:longitude>-5.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67257" kind="city">
+    <ctml:name>Tirhanimîne</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q335141</ctml:wikiDataId>
+    <ctml:latitude>35.23619000</ctml:latitude>
+    <ctml:longitude>-3.95453000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67269" kind="city">
+    <ctml:name>Zinat</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q204287</ctml:wikiDataId>
+    <ctml:latitude>35.43000000</ctml:latitude>
+    <ctml:longitude>-5.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MAR-67270" kind="city">
+    <ctml:name>Zoumi</ctml:name>
+    <ctml:country>MAR</ctml:country>
+    <ctml:admin1>Tanger-Tétouan-Al Hoceïma</ctml:admin1>
+    <ctml:parentRef>place:admin1:MA-01</ctml:parentRef>
+    <ctml:wikiDataId>Q8074648</ctml:wikiDataId>
+    <ctml:latitude>34.80321000</ctml:latitude>
+    <ctml:longitude>-5.34458000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

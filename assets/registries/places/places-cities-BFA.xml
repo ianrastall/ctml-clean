@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BFA-9159" kind="city">
+    <ctml:name>Barani</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Boucle du Mouhoun</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q639674</ctml:wikiDataId>
+    <ctml:latitude>13.16910000</ctml:latitude>
+    <ctml:longitude>-3.88990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9164" kind="admin2">
+    <ctml:name>Boromo</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Boucle du Mouhoun</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q894055</ctml:wikiDataId>
+    <ctml:latitude>11.74542000</ctml:latitude>
+    <ctml:longitude>-2.93006000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9192" kind="admin2">
+    <ctml:name>Nouna</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Boucle du Mouhoun</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3344855</ctml:wikiDataId>
+    <ctml:latitude>12.72939000</ctml:latitude>
+    <ctml:longitude>-3.86305000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9203" kind="city">
+    <ctml:name>Province de la Kossi</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Boucle du Mouhoun</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1074485</ctml:wikiDataId>
+    <ctml:latitude>12.91667000</ctml:latitude>
+    <ctml:longitude>-3.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9208" kind="city">
+    <ctml:name>Province des Balé</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Boucle du Mouhoun</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q805913</ctml:wikiDataId>
+    <ctml:latitude>11.71667000</ctml:latitude>
+    <ctml:longitude>-3.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9209" kind="city">
+    <ctml:name>Province des Banwa</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Boucle du Mouhoun</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q674664</ctml:wikiDataId>
+    <ctml:latitude>12.16667000</ctml:latitude>
+    <ctml:longitude>-4.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9223" kind="admin2">
+    <ctml:name>Province du Nayala</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Boucle du Mouhoun</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1141776</ctml:wikiDataId>
+    <ctml:latitude>12.66667000</ctml:latitude>
+    <ctml:longitude>-3.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9230" kind="city">
+    <ctml:name>Province du Sourou</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Boucle du Mouhoun</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q558703</ctml:wikiDataId>
+    <ctml:latitude>13.25000000</ctml:latitude>
+    <ctml:longitude>-3.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9239" kind="city">
+    <ctml:name>Salanso</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Boucle du Mouhoun</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2102129</ctml:wikiDataId>
+    <ctml:latitude>12.17423000</ctml:latitude>
+    <ctml:longitude>-4.08477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9244" kind="admin2">
+    <ctml:name>Toma</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Boucle du Mouhoun</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2304523</ctml:wikiDataId>
+    <ctml:latitude>12.75844000</ctml:latitude>
+    <ctml:longitude>-2.89879000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9245" kind="admin2">
+    <ctml:name>Tougan</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Boucle du Mouhoun</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q558346</ctml:wikiDataId>
+    <ctml:latitude>13.07250000</ctml:latitude>
+    <ctml:longitude>-3.06940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9200" kind="city">
+    <ctml:name>Province de la Comoé</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Cascades</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1074496</ctml:wikiDataId>
+    <ctml:latitude>10.33333000</ctml:latitude>
+    <ctml:longitude>-4.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9204" kind="city">
+    <ctml:name>Province de la Léraba</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Cascades</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-02</ctml:parentRef>
+    <ctml:wikiDataId>Q977607</ctml:wikiDataId>
+    <ctml:latitude>10.66667000</ctml:latitude>
+    <ctml:longitude>-5.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9241" kind="admin2">
+    <ctml:name>Sindou</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Cascades</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1507575</ctml:wikiDataId>
+    <ctml:latitude>10.66667000</ctml:latitude>
+    <ctml:longitude>-5.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9181" kind="city">
+    <ctml:name>Kadiogo</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1074530</ctml:wikiDataId>
+    <ctml:latitude>12.33333000</ctml:latitude>
+    <ctml:longitude>-1.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9193" kind="city">
+    <ctml:name>Ouagadougou</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3777</ctml:wikiDataId>
+    <ctml:latitude>12.36566000</ctml:latitude>
+    <ctml:longitude>-1.53388000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9174" kind="city">
+    <ctml:name>Garango</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2668534</ctml:wikiDataId>
+    <ctml:latitude>11.80000000</ctml:latitude>
+    <ctml:longitude>-0.55056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9187" kind="admin2">
+    <ctml:name>Koupéla</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q116524</ctml:wikiDataId>
+    <ctml:latitude>12.17864000</ctml:latitude>
+    <ctml:longitude>-0.35103000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9188" kind="city">
+    <ctml:name>Kouritenga</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1141767</ctml:wikiDataId>
+    <ctml:latitude>12.20000000</ctml:latitude>
+    <ctml:longitude>-0.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9195" kind="admin2">
+    <ctml:name>Ouargaye</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1570493</ctml:wikiDataId>
+    <ctml:latitude>11.50202000</ctml:latitude>
+    <ctml:longitude>0.05886000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9217" kind="city">
+    <ctml:name>Province du Koulpélogo</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q934923</ctml:wikiDataId>
+    <ctml:latitude>11.41667000</ctml:latitude>
+    <ctml:longitude>0.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9165" kind="admin2">
+    <ctml:name>Boulsa</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q895110</ctml:wikiDataId>
+    <ctml:latitude>12.66664000</ctml:latitude>
+    <ctml:longitude>-0.57469000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9185" kind="admin2">
+    <ctml:name>Kongoussi</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q163352</ctml:wikiDataId>
+    <ctml:latitude>13.32583000</ctml:latitude>
+    <ctml:longitude>-1.53472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9210" kind="city">
+    <ctml:name>Province du Bam</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q620710</ctml:wikiDataId>
+    <ctml:latitude>13.46667000</ctml:latitude>
+    <ctml:longitude>-1.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9222" kind="city">
+    <ctml:name>Province du Namentenga</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1142044</ctml:wikiDataId>
+    <ctml:latitude>13.25000000</ctml:latitude>
+    <ctml:longitude>-0.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9228" kind="city">
+    <ctml:name>Province du Sanmatenga</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1142039</ctml:wikiDataId>
+    <ctml:latitude>13.25000000</ctml:latitude>
+    <ctml:longitude>-1.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9178" kind="city">
+    <ctml:name>Goulouré</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-06</ctml:parentRef>
+    <ctml:wikiDataId>Q741117</ctml:wikiDataId>
+    <ctml:latitude>12.23484000</ctml:latitude>
+    <ctml:longitude>-1.93394000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9183" kind="city">
+    <ctml:name>Kokologo</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1778964</ctml:wikiDataId>
+    <ctml:latitude>12.19392000</ctml:latitude>
+    <ctml:longitude>-1.87687000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9189" kind="admin2">
+    <ctml:name>Léo</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-06</ctml:parentRef>
+    <ctml:wikiDataId>Q650951</ctml:wikiDataId>
+    <ctml:latitude>11.10033000</ctml:latitude>
+    <ctml:longitude>-2.10654000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9198" kind="city">
+    <ctml:name>Pitmoaga</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-06</ctml:parentRef>
+    <ctml:wikiDataId>Q7199006</ctml:wikiDataId>
+    <ctml:latitude>12.24564000</ctml:latitude>
+    <ctml:longitude>-1.88148000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9205" kind="city">
+    <ctml:name>Province de la Sissili</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-06</ctml:parentRef>
+    <ctml:wikiDataId>Q964281</ctml:wikiDataId>
+    <ctml:latitude>11.33333000</ctml:latitude>
+    <ctml:longitude>-2.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9212" kind="city">
+    <ctml:name>Province du Boulkiemdé</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-06</ctml:parentRef>
+    <ctml:wikiDataId>Q895102</ctml:wikiDataId>
+    <ctml:latitude>12.33333000</ctml:latitude>
+    <ctml:longitude>-2.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9227" kind="city">
+    <ctml:name>Province du Sanguié</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1142014</ctml:wikiDataId>
+    <ctml:latitude>12.16667000</ctml:latitude>
+    <ctml:longitude>-2.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9235" kind="city">
+    <ctml:name>Province du Ziro</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-06</ctml:parentRef>
+    <ctml:wikiDataId>Q206019</ctml:wikiDataId>
+    <ctml:latitude>11.58333000</ctml:latitude>
+    <ctml:longitude>-1.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9238" kind="admin2">
+    <ctml:name>Réo</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1817933</ctml:wikiDataId>
+    <ctml:latitude>12.31963000</ctml:latitude>
+    <ctml:longitude>-2.47094000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9240" kind="admin2">
+    <ctml:name>Sapouy</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2183729</ctml:wikiDataId>
+    <ctml:latitude>11.55444000</ctml:latitude>
+    <ctml:longitude>-1.77361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9161" kind="city">
+    <ctml:name>Bazega</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-07</ctml:parentRef>
+    <ctml:wikiDataId>Q619764</ctml:wikiDataId>
+    <ctml:latitude>11.91667000</ctml:latitude>
+    <ctml:longitude>-1.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9184" kind="admin2">
+    <ctml:name>Kombissiri</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1642022</ctml:wikiDataId>
+    <ctml:latitude>12.06884000</ctml:latitude>
+    <ctml:longitude>-1.33644000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9191" kind="city">
+    <ctml:name>Nahouri</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1142003</ctml:wikiDataId>
+    <ctml:latitude>11.25000000</ctml:latitude>
+    <ctml:longitude>-1.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9237" kind="admin2">
+    <ctml:name>Pô</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1756613</ctml:wikiDataId>
+    <ctml:latitude>11.16972000</ctml:latitude>
+    <ctml:longitude>-1.14500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9249" kind="city">
+    <ctml:name>Zoundweogo</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Centre-Sud</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-07</ctml:parentRef>
+    <ctml:wikiDataId>Q227059</ctml:wikiDataId>
+    <ctml:latitude>11.58333000</ctml:latitude>
+    <ctml:longitude>-1.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9163" kind="admin2">
+    <ctml:name>Bogandé</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-08</ctml:parentRef>
+    <ctml:wikiDataId>Q890373</ctml:wikiDataId>
+    <ctml:latitude>12.97040000</ctml:latitude>
+    <ctml:longitude>-0.14953000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9168" kind="admin2">
+    <ctml:name>Diapaga</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-08</ctml:parentRef>
+    <ctml:wikiDataId>Q254514</ctml:wikiDataId>
+    <ctml:latitude>12.07305000</ctml:latitude>
+    <ctml:longitude>1.78838000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9175" kind="admin2">
+    <ctml:name>Gayéri</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2668534</ctml:wikiDataId>
+    <ctml:latitude>12.64824000</ctml:latitude>
+    <ctml:longitude>0.49314000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9176" kind="city">
+    <ctml:name>Gnagna</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1074144</ctml:wikiDataId>
+    <ctml:latitude>12.91880000</ctml:latitude>
+    <ctml:longitude>0.03920000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9197" kind="admin2">
+    <ctml:name>Pama</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2048608</ctml:wikiDataId>
+    <ctml:latitude>11.24972000</ctml:latitude>
+    <ctml:longitude>0.70750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9201" kind="city">
+    <ctml:name>Province de la Komandjoari</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1074479</ctml:wikiDataId>
+    <ctml:latitude>12.66667000</ctml:latitude>
+    <ctml:longitude>0.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9202" kind="city">
+    <ctml:name>Province de la Kompienga</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1142059</ctml:wikiDataId>
+    <ctml:latitude>11.41667000</ctml:latitude>
+    <ctml:longitude>0.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9206" kind="admin2">
+    <ctml:name>Province de la Tapoa</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-08</ctml:parentRef>
+    <ctml:wikiDataId>Q621983</ctml:wikiDataId>
+    <ctml:latitude>12.00000000</ctml:latitude>
+    <ctml:longitude>1.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9214" kind="city">
+    <ctml:name>Province du Gourma</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-08</ctml:parentRef>
+    <ctml:wikiDataId>Q432317</ctml:wikiDataId>
+    <ctml:latitude>12.08333000</ctml:latitude>
+    <ctml:longitude>0.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9180" kind="admin2">
+    <ctml:name>Houndé</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Hauts-Bassins</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-09</ctml:parentRef>
+    <ctml:wikiDataId>Q999435</ctml:wikiDataId>
+    <ctml:latitude>11.50000000</ctml:latitude>
+    <ctml:longitude>-3.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9215" kind="city">
+    <ctml:name>Province du Houet</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Hauts-Bassins</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1074161</ctml:wikiDataId>
+    <ctml:latitude>11.33333000</ctml:latitude>
+    <ctml:longitude>-4.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9219" kind="city">
+    <ctml:name>Province du Kénédougou</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Hauts-Bassins</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1150901</ctml:wikiDataId>
+    <ctml:latitude>11.41667000</ctml:latitude>
+    <ctml:longitude>-5.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9232" kind="city">
+    <ctml:name>Province du Tuy</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Hauts-Bassins</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-09</ctml:parentRef>
+    <ctml:wikiDataId>Q627844</ctml:wikiDataId>
+    <ctml:latitude>11.41667000</ctml:latitude>
+    <ctml:longitude>-3.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9179" kind="admin2">
+    <ctml:name>Gourcy</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1540219</ctml:wikiDataId>
+    <ctml:latitude>13.20776000</ctml:latitude>
+    <ctml:longitude>-2.35893000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9220" kind="city">
+    <ctml:name>Province du Loroum</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1142054</ctml:wikiDataId>
+    <ctml:latitude>13.91667000</ctml:latitude>
+    <ctml:longitude>-2.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9225" kind="city">
+    <ctml:name>Province du Passoré</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1142008</ctml:wikiDataId>
+    <ctml:latitude>12.91667000</ctml:latitude>
+    <ctml:longitude>-2.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9236" kind="admin2">
+    <ctml:name>Province du Zondoma</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-10</ctml:parentRef>
+    <ctml:wikiDataId>Q219859</ctml:wikiDataId>
+    <ctml:latitude>13.18333000</ctml:latitude>
+    <ctml:longitude>-2.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9243" kind="admin2">
+    <ctml:name>Titao</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1861898</ctml:wikiDataId>
+    <ctml:latitude>13.76667000</ctml:latitude>
+    <ctml:longitude>-2.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9246" kind="admin2">
+    <ctml:name>Yako</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Nord</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-10</ctml:parentRef>
+    <ctml:wikiDataId>Q940973</ctml:wikiDataId>
+    <ctml:latitude>12.95910000</ctml:latitude>
+    <ctml:longitude>-2.26075000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9166" kind="admin2">
+    <ctml:name>Boussé</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Plateau-Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-11</ctml:parentRef>
+    <ctml:wikiDataId>Q895281</ctml:wikiDataId>
+    <ctml:latitude>12.66121000</ctml:latitude>
+    <ctml:longitude>-1.89515000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9196" kind="city">
+    <ctml:name>Oubritenga</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Plateau-Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1142026</ctml:wikiDataId>
+    <ctml:latitude>12.66667000</ctml:latitude>
+    <ctml:longitude>-1.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9213" kind="city">
+    <ctml:name>Province du Ganzourgou</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Plateau-Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-11</ctml:parentRef>
+    <ctml:wikiDataId>Q182889</ctml:wikiDataId>
+    <ctml:latitude>12.26667000</ctml:latitude>
+    <ctml:longitude>-0.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9218" kind="city">
+    <ctml:name>Province du Kourwéogo</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Plateau-Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-11</ctml:parentRef>
+    <ctml:wikiDataId>Q661376</ctml:wikiDataId>
+    <ctml:latitude>12.58333000</ctml:latitude>
+    <ctml:longitude>-1.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9248" kind="admin2">
+    <ctml:name>Zorgo</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Plateau-Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-11</ctml:parentRef>
+    <ctml:wikiDataId>Q929255</ctml:wikiDataId>
+    <ctml:latitude>12.24922000</ctml:latitude>
+    <ctml:longitude>-0.61527000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9170" kind="admin2">
+    <ctml:name>Djibo</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Sahel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-12</ctml:parentRef>
+    <ctml:wikiDataId>Q578567</ctml:wikiDataId>
+    <ctml:latitude>14.09940000</ctml:latitude>
+    <ctml:longitude>-1.62554000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9177" kind="admin2">
+    <ctml:name>Gorom-Gorom</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Sahel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-12</ctml:parentRef>
+    <ctml:wikiDataId>Q741117</ctml:wikiDataId>
+    <ctml:latitude>14.44290000</ctml:latitude>
+    <ctml:longitude>-0.23468000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9207" kind="city">
+    <ctml:name>Province de l’Oudalan</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Sahel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-12</ctml:parentRef>
+    <ctml:wikiDataId>Q514173</ctml:wikiDataId>
+    <ctml:latitude>14.66667000</ctml:latitude>
+    <ctml:longitude>-0.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9231" kind="city">
+    <ctml:name>Province du Séno</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Sahel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1061214</ctml:wikiDataId>
+    <ctml:latitude>13.96400000</ctml:latitude>
+    <ctml:longitude>0.01200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9229" kind="city">
+    <ctml:name>Province du Soum</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Sahel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-12</ctml:parentRef>
+    <ctml:wikiDataId>Q385973</ctml:wikiDataId>
+    <ctml:latitude>14.33333000</ctml:latitude>
+    <ctml:longitude>-1.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9233" kind="city">
+    <ctml:name>Province du Yagha</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Sahel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1074466</ctml:wikiDataId>
+    <ctml:latitude>13.41667000</ctml:latitude>
+    <ctml:longitude>0.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9160" kind="admin2">
+    <ctml:name>Batié</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Sud-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-13</ctml:parentRef>
+    <ctml:wikiDataId>Q639674</ctml:wikiDataId>
+    <ctml:latitude>9.88333000</ctml:latitude>
+    <ctml:longitude>-2.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9167" kind="admin2">
+    <ctml:name>Dano</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Sud-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1164836</ctml:wikiDataId>
+    <ctml:latitude>11.14640000</ctml:latitude>
+    <ctml:longitude>-3.05784000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9169" kind="admin2">
+    <ctml:name>Diébougou</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Sud-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-13</ctml:parentRef>
+    <ctml:wikiDataId>Q578567</ctml:wikiDataId>
+    <ctml:latitude>10.96209000</ctml:latitude>
+    <ctml:longitude>-3.24967000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9199" kind="city">
+    <ctml:name>Province de la Bougouriba</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Sud-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-13</ctml:parentRef>
+    <ctml:wikiDataId>Q676641</ctml:wikiDataId>
+    <ctml:latitude>10.83333000</ctml:latitude>
+    <ctml:longitude>-3.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9216" kind="admin2">
+    <ctml:name>Province du Ioba</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Sud-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1074154</ctml:wikiDataId>
+    <ctml:latitude>11.08333000</ctml:latitude>
+    <ctml:longitude>-3.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BFA-9224" kind="admin2">
+    <ctml:name>Province du Noumbièl</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Sud-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-13</ctml:parentRef>
+    <ctml:wikiDataId>Q646647</ctml:wikiDataId>
+    <ctml:latitude>9.83333000</ctml:latitude>
+    <ctml:longitude>-3.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BFA-9226" kind="city">
+    <ctml:name>Province du Poni</ctml:name>
+    <ctml:country>BFA</ctml:country>
+    <ctml:admin1>Sud-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BF-13</ctml:parentRef>
+    <ctml:wikiDataId>Q953657</ctml:wikiDataId>
+    <ctml:latitude>10.25000000</ctml:latitude>
+    <ctml:longitude>-3.41667000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

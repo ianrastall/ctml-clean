@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:IMN-154082" kind="city">
+    <ctml:name>Andreas</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Ayre</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2484746</ctml:wikiDataId>
+    <ctml:latitude>54.36841400</ctml:latitude>
+    <ctml:longitude>-4.52114630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154083" kind="city">
+    <ctml:name>Bride</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Ayre</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2925151</ctml:wikiDataId>
+    <ctml:latitude>54.38316570</ctml:latitude>
+    <ctml:longitude>-4.40803560</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154084" kind="city">
+    <ctml:name>Lezayre</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Ayre</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3237456</ctml:wikiDataId>
+    <ctml:latitude>54.29621930</ctml:latitude>
+    <ctml:longitude>-4.53110150</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154085" kind="city">
+    <ctml:name>Lonan</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Garff</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3258914</ctml:wikiDataId>
+    <ctml:latitude>54.22104520</ctml:latitude>
+    <ctml:longitude>-4.50103060</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154086" kind="city">
+    <ctml:name>Maughold</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Garff</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2734578</ctml:wikiDataId>
+    <ctml:latitude>54.25494540</ctml:latitude>
+    <ctml:longitude>-4.51223490</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154087" kind="city">
+    <ctml:name>Onchan</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Garff</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-02</ctml:parentRef>
+    <ctml:wikiDataId>Q7091958</ctml:wikiDataId>
+    <ctml:latitude>54.19815080</ctml:latitude>
+    <ctml:longitude>-4.54908980</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154088" kind="city">
+    <ctml:name>German</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Glenfaba</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2734574</ctml:wikiDataId>
+    <ctml:latitude>54.21871450</ctml:latitude>
+    <ctml:longitude>-4.70652730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154089" kind="city">
+    <ctml:name>Ballaugh</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Michael</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2734562</ctml:wikiDataId>
+    <ctml:latitude>54.30481210</ctml:latitude>
+    <ctml:longitude>-4.62075260</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154090" kind="city">
+    <ctml:name>Jurby</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Michael</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2734559</ctml:wikiDataId>
+    <ctml:latitude>54.35905280</ctml:latitude>
+    <ctml:longitude>-4.54065860</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154091" kind="city">
+    <ctml:name>Michael</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Michael</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2734562</ctml:wikiDataId>
+    <ctml:latitude>54.27427780</ctml:latitude>
+    <ctml:longitude>-4.64273250</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154092" kind="city">
+    <ctml:name>Braddan</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Middle</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2734571</ctml:wikiDataId>
+    <ctml:latitude>54.16328280</ctml:latitude>
+    <ctml:longitude>-4.52585060</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154093" kind="city">
+    <ctml:name>Marown</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Middle</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3294687</ctml:wikiDataId>
+    <ctml:latitude>54.18462420</ctml:latitude>
+    <ctml:longitude>-4.64952180</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154094" kind="city">
+    <ctml:name>Santon</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Middle</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3472980</ctml:wikiDataId>
+    <ctml:latitude>54.12054890</ctml:latitude>
+    <ctml:longitude>-4.64937750</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154095" kind="city">
+    <ctml:name>Arbory</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Rushen</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2859727</ctml:wikiDataId>
+    <ctml:latitude>54.10878070</ctml:latitude>
+    <ctml:longitude>-4.83564540</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154097" kind="city">
+    <ctml:name>Malew</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Rushen</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3281889</ctml:wikiDataId>
+    <ctml:latitude>54.11180490</ctml:latitude>
+    <ctml:longitude>-4.80138270</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IMN-154096" kind="city">
+    <ctml:name>Rushen</ctml:name>
+    <ctml:country>IMN</ctml:country>
+    <ctml:admin1>Rushen</ctml:admin1>
+    <ctml:parentRef>place:admin1:IM-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3453376</ctml:wikiDataId>
+    <ctml:latitude>54.09084920</ctml:latitude>
+    <ctml:longitude>-4.84149820</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

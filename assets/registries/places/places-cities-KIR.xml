@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:KIR-65041" kind="city">
+    <ctml:name>Abaiang</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2428308</ctml:wikiDataId>
+    <ctml:latitude>1.85293000</ctml:latitude>
+    <ctml:longitude>172.94369000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65042" kind="city">
+    <ctml:name>Abemama</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2428308</ctml:wikiDataId>
+    <ctml:latitude>0.40000000</ctml:latitude>
+    <ctml:longitude>173.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65043" kind="city">
+    <ctml:name>Ambo Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q27222398</ctml:wikiDataId>
+    <ctml:latitude>1.35317000</ctml:latitude>
+    <ctml:longitude>173.04259000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65044" kind="city">
+    <ctml:name>Aranuka</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q27222398</ctml:wikiDataId>
+    <ctml:latitude>0.16428000</ctml:latitude>
+    <ctml:longitude>173.60579000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65045" kind="city">
+    <ctml:name>Arorae</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q27222398</ctml:wikiDataId>
+    <ctml:latitude>-2.63493000</ctml:latitude>
+    <ctml:longitude>176.82229000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65046" kind="city">
+    <ctml:name>Bairiki Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q27222398</ctml:wikiDataId>
+    <ctml:latitude>1.32924000</ctml:latitude>
+    <ctml:longitude>172.97522000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65047" kind="city">
+    <ctml:name>Banaba</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q27222398</ctml:wikiDataId>
+    <ctml:latitude>-0.85500000</ctml:latitude>
+    <ctml:longitude>169.53800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65049" kind="city">
+    <ctml:name>Banraeaba Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q27222398</ctml:wikiDataId>
+    <ctml:latitude>1.34540000</ctml:latitude>
+    <ctml:longitude>173.03464000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65050" kind="city">
+    <ctml:name>Beru</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q27222398</ctml:wikiDataId>
+    <ctml:latitude>-1.32957000</ctml:latitude>
+    <ctml:longitude>175.98072000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65051" kind="city">
+    <ctml:name>Betio Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q27222398</ctml:wikiDataId>
+    <ctml:latitude>1.35797000</ctml:latitude>
+    <ctml:longitude>172.92105000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65052" kind="city">
+    <ctml:name>Bikenibeu Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q27222398</ctml:wikiDataId>
+    <ctml:latitude>1.36730000</ctml:latitude>
+    <ctml:longitude>173.12415000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65053" kind="city">
+    <ctml:name>Bonriki Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q27222398</ctml:wikiDataId>
+    <ctml:latitude>1.38081000</ctml:latitude>
+    <ctml:longitude>173.13887000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65054" kind="city">
+    <ctml:name>Buota Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q27222398</ctml:wikiDataId>
+    <ctml:latitude>1.39078000</ctml:latitude>
+    <ctml:longitude>173.13082000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65055" kind="city">
+    <ctml:name>Butaritari</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q27222398</ctml:wikiDataId>
+    <ctml:latitude>3.17205000</ctml:latitude>
+    <ctml:longitude>172.79675000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65056" kind="city">
+    <ctml:name>Eita Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q5349994</ctml:wikiDataId>
+    <ctml:latitude>1.36154000</ctml:latitude>
+    <ctml:longitude>173.08113000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65059" kind="city">
+    <ctml:name>Kuria</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q5349994</ctml:wikiDataId>
+    <ctml:latitude>0.26522000</ctml:latitude>
+    <ctml:longitude>173.38881000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65061" kind="city">
+    <ctml:name>Maiana</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2477346</ctml:wikiDataId>
+    <ctml:latitude>0.91869000</ctml:latitude>
+    <ctml:longitude>172.99759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65062" kind="city">
+    <ctml:name>Makin</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2477346</ctml:wikiDataId>
+    <ctml:latitude>3.38816000</ctml:latitude>
+    <ctml:longitude>172.99656000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65064" kind="city">
+    <ctml:name>Marakei</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2477346</ctml:wikiDataId>
+    <ctml:latitude>2.01077000</ctml:latitude>
+    <ctml:longitude>173.27637000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65066" kind="city">
+    <ctml:name>Nawerewere Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2477346</ctml:wikiDataId>
+    <ctml:latitude>1.36362000</ctml:latitude>
+    <ctml:longitude>173.13935000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65067" kind="city">
+    <ctml:name>Nikunau</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2477346</ctml:wikiDataId>
+    <ctml:latitude>-1.36567000</ctml:latitude>
+    <ctml:longitude>176.46412000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65068" kind="city">
+    <ctml:name>Nonouti</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2477346</ctml:wikiDataId>
+    <ctml:latitude>-0.66667000</ctml:latitude>
+    <ctml:longitude>174.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65069" kind="city">
+    <ctml:name>Onotoa</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2477346</ctml:wikiDataId>
+    <ctml:latitude>-1.88587000</ctml:latitude>
+    <ctml:longitude>175.56393000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65070" kind="city">
+    <ctml:name>Rawannawi Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2477346</ctml:wikiDataId>
+    <ctml:latitude>2.05379000</ctml:latitude>
+    <ctml:longitude>173.26354000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65071" kind="city">
+    <ctml:name>Tabiteuea</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2477346</ctml:wikiDataId>
+    <ctml:latitude>-1.42241000</ctml:latitude>
+    <ctml:longitude>174.89805000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65074" kind="city">
+    <ctml:name>Tamana</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2477346</ctml:wikiDataId>
+    <ctml:latitude>-2.50113000</ctml:latitude>
+    <ctml:longitude>175.98621000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65075" kind="city">
+    <ctml:name>Tarawa</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q131233</ctml:wikiDataId>
+    <ctml:latitude>1.32780000</ctml:latitude>
+    <ctml:longitude>172.97696000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65076" kind="city">
+    <ctml:name>Teaoraereke Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q10378793</ctml:wikiDataId>
+    <ctml:latitude>1.33309000</ctml:latitude>
+    <ctml:longitude>173.01162000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65077" kind="city">
+    <ctml:name>Temaiku Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Gilbert</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-G</ctml:parentRef>
+    <ctml:wikiDataId>Q10378793</ctml:wikiDataId>
+    <ctml:latitude>1.36292000</ctml:latitude>
+    <ctml:longitude>173.16226000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65048" kind="city">
+    <ctml:name>Banana Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Line</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-L</ctml:parentRef>
+    <ctml:wikiDataId>Q27222398</ctml:wikiDataId>
+    <ctml:latitude>1.98329000</ctml:latitude>
+    <ctml:longitude>-157.36526000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65058" kind="city">
+    <ctml:name>Kiritimati</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Line</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-L</ctml:parentRef>
+    <ctml:wikiDataId>Q5349994</ctml:wikiDataId>
+    <ctml:latitude>1.94000000</ctml:latitude>
+    <ctml:longitude>-157.47500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65060" kind="city">
+    <ctml:name>London Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Line</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2477346</ctml:wikiDataId>
+    <ctml:latitude>1.98487000</ctml:latitude>
+    <ctml:longitude>-157.47502000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65065" kind="city">
+    <ctml:name>Napari Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Line</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2477346</ctml:wikiDataId>
+    <ctml:latitude>3.90806000</ctml:latitude>
+    <ctml:longitude>-159.38832000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65072" kind="city">
+    <ctml:name>Tabuaeran</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Line</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2477346</ctml:wikiDataId>
+    <ctml:latitude>3.86667000</ctml:latitude>
+    <ctml:longitude>-159.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65073" kind="city">
+    <ctml:name>Tabwakea Village</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Line</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2477346</ctml:wikiDataId>
+    <ctml:latitude>2.01643000</ctml:latitude>
+    <ctml:longitude>-157.48773000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65078" kind="city">
+    <ctml:name>Teraina</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Line</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-L</ctml:parentRef>
+    <ctml:wikiDataId>Q10378793</ctml:wikiDataId>
+    <ctml:latitude>4.68764000</ctml:latitude>
+    <ctml:longitude>-160.38803000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KIR-65057" kind="city">
+    <ctml:name>Kanton</ctml:name>
+    <ctml:country>KIR</ctml:country>
+    <ctml:admin1>Phoenix</ctml:admin1>
+    <ctml:parentRef>place:admin1:KI-P</ctml:parentRef>
+    <ctml:wikiDataId>Q5349994</ctml:wikiDataId>
+    <ctml:latitude>-2.81000000</ctml:latitude>
+    <ctml:longitude>-171.67800000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

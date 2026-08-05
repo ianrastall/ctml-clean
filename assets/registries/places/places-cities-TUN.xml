@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:TUN-106955" kind="city">
+    <ctml:name>Kalaat el-Andalous</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Ariana</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1837686</ctml:wikiDataId>
+    <ctml:latitude>36.88110000</ctml:latitude>
+    <ctml:longitude>10.26220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153380" kind="city">
+    <ctml:name>La Soukra</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Ariana</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1837617</ctml:wikiDataId>
+    <ctml:latitude>36.85350000</ctml:latitude>
+    <ctml:longitude>10.25250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153378" kind="city">
+    <ctml:name>Raoued</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Ariana</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1889387</ctml:wikiDataId>
+    <ctml:latitude>36.88500000</ctml:latitude>
+    <ctml:longitude>10.24650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153379" kind="city">
+    <ctml:name>Sidi Thabet</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Ariana</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1837757</ctml:wikiDataId>
+    <ctml:latitude>36.83990000</ctml:latitude>
+    <ctml:longitude>10.04030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153377" kind="city">
+    <ctml:name>Amdoun</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Béja</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-31</ctml:parentRef>
+    <ctml:wikiDataId>Q1759415</ctml:wikiDataId>
+    <ctml:latitude>36.74420000</ctml:latitude>
+    <ctml:longitude>9.05130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106956" kind="city">
+    <ctml:name>Goubellat</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Béja</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-31</ctml:parentRef>
+    <ctml:wikiDataId>Q1759416</ctml:wikiDataId>
+    <ctml:latitude>36.59560000</ctml:latitude>
+    <ctml:longitude>9.20780000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106986" kind="city">
+    <ctml:name>Medjez el Bab</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Béja</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-31</ctml:parentRef>
+    <ctml:wikiDataId>Q267836</ctml:wikiDataId>
+    <ctml:latitude>36.70640000</ctml:latitude>
+    <ctml:longitude>9.61060000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106940" kind="city">
+    <ctml:name>Nefza</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Béja</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-31</ctml:parentRef>
+    <ctml:wikiDataId>Q2384004</ctml:wikiDataId>
+    <ctml:latitude>36.60490000</ctml:latitude>
+    <ctml:longitude>8.97020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107031" kind="city">
+    <ctml:name>Tabursuq</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Béja</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-31</ctml:parentRef>
+    <ctml:wikiDataId>Q1890362</ctml:wikiDataId>
+    <ctml:latitude>36.45692000</ctml:latitude>
+    <ctml:longitude>9.24751000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153376" kind="city">
+    <ctml:name>Téboursouk</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Béja</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-31</ctml:parentRef>
+    <ctml:wikiDataId>Q1759693</ctml:wikiDataId>
+    <ctml:latitude>36.71040000</ctml:latitude>
+    <ctml:longitude>9.00080000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107035" kind="city">
+    <ctml:name>Testour</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Béja</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-31</ctml:parentRef>
+    <ctml:wikiDataId>Q398836</ctml:wikiDataId>
+    <ctml:latitude>36.50140000</ctml:latitude>
+    <ctml:longitude>9.66640000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153375" kind="city">
+    <ctml:name>Thibar</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Béja</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-31</ctml:parentRef>
+    <ctml:wikiDataId>Q555622</ctml:wikiDataId>
+    <ctml:latitude>36.46560000</ctml:latitude>
+    <ctml:longitude>9.06220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106959" kind="city">
+    <ctml:name>Hammam Lif</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Ben Arous</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1568078</ctml:wikiDataId>
+    <ctml:latitude>36.72030000</ctml:latitude>
+    <ctml:longitude>10.32610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106977" kind="city">
+    <ctml:name>Mornag</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Ben Arous</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q3099965</ctml:wikiDataId>
+    <ctml:latitude>36.66160000</ctml:latitude>
+    <ctml:longitude>10.14630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106961" kind="city">
+    <ctml:name>Mornaguia</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Ben Arous</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1837682</ctml:wikiDataId>
+    <ctml:latitude>36.72140000</ctml:latitude>
+    <ctml:longitude>10.04940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107007" kind="city">
+    <ctml:name>Radès</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Ben Arous</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-13</ctml:parentRef>
+    <ctml:wikiDataId>Q27062</ctml:wikiDataId>
+    <ctml:latitude>36.76946000</ctml:latitude>
+    <ctml:longitude>10.27468000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106913" kind="city">
+    <ctml:name>Al Matlīn</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Bizerte</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q3307409</ctml:wikiDataId>
+    <ctml:latitude>37.24516000</ctml:latitude>
+    <ctml:longitude>10.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106927" kind="city">
+    <ctml:name>Bizerte Sud</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Bizerte</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q189546</ctml:wikiDataId>
+    <ctml:latitude>37.25528000</ctml:latitude>
+    <ctml:longitude>9.67915000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106938" kind="city">
+    <ctml:name>Douar Tindja</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Bizerte</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2545445</ctml:wikiDataId>
+    <ctml:latitude>37.16667000</ctml:latitude>
+    <ctml:longitude>9.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106941" kind="city">
+    <ctml:name>El Alia</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Bizerte</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q3049704</ctml:wikiDataId>
+    <ctml:latitude>37.16911000</ctml:latitude>
+    <ctml:longitude>10.03478000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106983" kind="city">
+    <ctml:name>Mateur</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Bizerte</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q27159</ctml:wikiDataId>
+    <ctml:latitude>37.04045000</ctml:latitude>
+    <ctml:longitude>9.66557000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106988" kind="city">
+    <ctml:name>Menzel Abderhaman</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Bizerte</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q3042186</ctml:wikiDataId>
+    <ctml:latitude>37.23737000</ctml:latitude>
+    <ctml:longitude>9.86313000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106989" kind="city">
+    <ctml:name>Menzel Bourguiba</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Bizerte</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q27435</ctml:wikiDataId>
+    <ctml:latitude>37.15368000</ctml:latitude>
+    <ctml:longitude>9.78594000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106990" kind="city">
+    <ctml:name>Menzel Jemil</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Bizerte</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q3098585</ctml:wikiDataId>
+    <ctml:latitude>37.23618000</ctml:latitude>
+    <ctml:longitude>9.91448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107008" kind="city">
+    <ctml:name>Rafrāf</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Bizerte</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q27062</ctml:wikiDataId>
+    <ctml:latitude>37.19043000</ctml:latitude>
+    <ctml:longitude>10.18365000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107010" kind="city">
+    <ctml:name>Rhar el Melah</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Bizerte</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2618068</ctml:wikiDataId>
+    <ctml:latitude>37.16939000</ctml:latitude>
+    <ctml:longitude>10.19064000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107017" kind="city">
+    <ctml:name>Sejenane</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Bizerte</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2720033</ctml:wikiDataId>
+    <ctml:latitude>37.05722000</ctml:latitude>
+    <ctml:longitude>9.23806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107041" kind="city">
+    <ctml:name>Zahānah</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Bizerte</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-23</ctml:parentRef>
+    <ctml:wikiDataId>Q12912434</ctml:wikiDataId>
+    <ctml:latitude>37.03959000</ctml:latitude>
+    <ctml:longitude>10.03876000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106929" kind="city">
+    <ctml:name>Bou Attouche</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Gabès</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-81</ctml:parentRef>
+    <ctml:wikiDataId>Q2737321</ctml:wikiDataId>
+    <ctml:latitude>33.89927000</ctml:latitude>
+    <ctml:longitude>9.78496000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106945" kind="city">
+    <ctml:name>El Hamma</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Gabès</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-81</ctml:parentRef>
+    <ctml:wikiDataId>Q1324239</ctml:wikiDataId>
+    <ctml:latitude>33.89152000</ctml:latitude>
+    <ctml:longitude>9.79629000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106984" kind="city">
+    <ctml:name>Matmata</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Gabès</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-81</ctml:parentRef>
+    <ctml:wikiDataId>Q338512</ctml:wikiDataId>
+    <ctml:latitude>33.54445000</ctml:latitude>
+    <ctml:longitude>9.97157000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106914" kind="city">
+    <ctml:name>Ar Rudayyif</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Gafsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-71</ctml:parentRef>
+    <ctml:wikiDataId>Q3307409</ctml:wikiDataId>
+    <ctml:latitude>34.38270000</ctml:latitude>
+    <ctml:longitude>8.15549000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106916" kind="city">
+    <ctml:name>As Sanad</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Gafsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-71</ctml:parentRef>
+    <ctml:wikiDataId>Q627487</ctml:wikiDataId>
+    <ctml:latitude>34.46280000</ctml:latitude>
+    <ctml:longitude>9.26404000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106994" kind="city">
+    <ctml:name>Metlaoui</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Gafsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-71</ctml:parentRef>
+    <ctml:wikiDataId>Q3050056</ctml:wikiDataId>
+    <ctml:latitude>34.32081000</ctml:latitude>
+    <ctml:longitude>8.40157000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107000" kind="city">
+    <ctml:name>Mu‘tamadīyat ar Rudayyif</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Gafsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-71</ctml:parentRef>
+    <ctml:wikiDataId>Q1014928</ctml:wikiDataId>
+    <ctml:latitude>34.40081000</ctml:latitude>
+    <ctml:longitude>8.17057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106951" kind="city">
+    <ctml:name>Fernana</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Jendouba</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-32</ctml:parentRef>
+    <ctml:wikiDataId>Q3069035</ctml:wikiDataId>
+    <ctml:latitude>36.65547000</ctml:latitude>
+    <ctml:longitude>8.69602000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106965" kind="city">
+    <ctml:name>Jendouba</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Jendouba</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-32</ctml:parentRef>
+    <ctml:wikiDataId>Q27064</ctml:wikiDataId>
+    <ctml:latitude>36.48519000</ctml:latitude>
+    <ctml:longitude>8.82325000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107005" kind="city">
+    <ctml:name>Oued Meliz</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Jendouba</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-32</ctml:parentRef>
+    <ctml:wikiDataId>Q3136209</ctml:wikiDataId>
+    <ctml:latitude>36.46813000</ctml:latitude>
+    <ctml:longitude>8.54951000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107030" kind="city">
+    <ctml:name>Tabarka</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Jendouba</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-32</ctml:parentRef>
+    <ctml:wikiDataId>Q986213</ctml:wikiDataId>
+    <ctml:latitude>36.95442000</ctml:latitude>
+    <ctml:longitude>8.75801000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106958" kind="city">
+    <ctml:name>Haffouz</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Kairouan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-41</ctml:parentRef>
+    <ctml:wikiDataId>Q1568078</ctml:wikiDataId>
+    <ctml:latitude>35.63235000</ctml:latitude>
+    <ctml:longitude>9.67624000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107016" kind="city">
+    <ctml:name>Sbikha</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Kairouan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-41</ctml:parentRef>
+    <ctml:wikiDataId>Q3178321</ctml:wikiDataId>
+    <ctml:latitude>35.93325000</ctml:latitude>
+    <ctml:longitude>10.02081000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107011" kind="city">
+    <ctml:name>Rohia</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Kasserine</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-42</ctml:parentRef>
+    <ctml:wikiDataId>Q2618068</ctml:wikiDataId>
+    <ctml:latitude>35.65129000</ctml:latitude>
+    <ctml:longitude>9.05306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107015" kind="city">
+    <ctml:name>Sbiba</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Kasserine</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-42</ctml:parentRef>
+    <ctml:wikiDataId>Q971090</ctml:wikiDataId>
+    <ctml:latitude>35.54332000</ctml:latitude>
+    <ctml:longitude>9.07370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107036" kind="city">
+    <ctml:name>Thala</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Kasserine</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-42</ctml:parentRef>
+    <ctml:wikiDataId>Q1975233</ctml:wikiDataId>
+    <ctml:latitude>35.57244000</ctml:latitude>
+    <ctml:longitude>8.67031000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106939" kind="city">
+    <ctml:name>Douz</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Kebili</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-73</ctml:parentRef>
+    <ctml:wikiDataId>Q1009268</ctml:wikiDataId>
+    <ctml:latitude>33.46632000</ctml:latitude>
+    <ctml:longitude>9.02030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106944" kind="city">
+    <ctml:name>El Golaa</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Kebili</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-73</ctml:parentRef>
+    <ctml:wikiDataId>Q3049891</ctml:wikiDataId>
+    <ctml:latitude>33.48485000</ctml:latitude>
+    <ctml:longitude>9.00678000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106964" kind="city">
+    <ctml:name>Jemna</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Kebili</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-73</ctml:parentRef>
+    <ctml:wikiDataId>Q3176970</ctml:wikiDataId>
+    <ctml:latitude>33.57778000</ctml:latitude>
+    <ctml:longitude>9.01472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106917" kind="city">
+    <ctml:name>As Sars</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Kef</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-33</ctml:parentRef>
+    <ctml:wikiDataId>Q627487</ctml:wikiDataId>
+    <ctml:latitude>36.07640000</ctml:latitude>
+    <ctml:longitude>9.02117000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106948" kind="city">
+    <ctml:name>El Ksour</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Kef</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-33</ctml:parentRef>
+    <ctml:wikiDataId>Q2743148</ctml:wikiDataId>
+    <ctml:latitude>35.89607000</ctml:latitude>
+    <ctml:longitude>8.88493000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106992" kind="city">
+    <ctml:name>Menzel Salem</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Kef</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-33</ctml:parentRef>
+    <ctml:wikiDataId>Q659504</ctml:wikiDataId>
+    <ctml:latitude>35.85673000</ctml:latitude>
+    <ctml:longitude>8.47654000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107002" kind="city">
+    <ctml:name>Nibbar</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Kef</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-33</ctml:parentRef>
+    <ctml:wikiDataId>Q3117290</ctml:wikiDataId>
+    <ctml:latitude>36.29411000</ctml:latitude>
+    <ctml:longitude>8.76657000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107013" kind="city">
+    <ctml:name>Sakiet Sidi Youssef</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Kef</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-33</ctml:parentRef>
+    <ctml:wikiDataId>Q958423</ctml:wikiDataId>
+    <ctml:latitude>36.22292000</ctml:latitude>
+    <ctml:longitude>8.35547000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107032" kind="city">
+    <ctml:name>Tajerouine</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Kef</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-33</ctml:parentRef>
+    <ctml:wikiDataId>Q3175916</ctml:wikiDataId>
+    <ctml:latitude>35.89174000</ctml:latitude>
+    <ctml:longitude>8.55276000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106932" kind="city">
+    <ctml:name>Chebba</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Mahdia</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-53</ctml:parentRef>
+    <ctml:wikiDataId>Q516356</ctml:wikiDataId>
+    <ctml:latitude>35.23722000</ctml:latitude>
+    <ctml:longitude>11.11500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106934" kind="city">
+    <ctml:name>Chorbane</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Mahdia</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-53</ctml:parentRef>
+    <ctml:wikiDataId>Q2964508</ctml:wikiDataId>
+    <ctml:latitude>35.28581000</ctml:latitude>
+    <ctml:longitude>10.38580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106946" kind="city">
+    <ctml:name>El Jem</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Mahdia</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-53</ctml:parentRef>
+    <ctml:wikiDataId>Q291012</ctml:wikiDataId>
+    <ctml:latitude>35.30000000</ctml:latitude>
+    <ctml:longitude>10.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106974" kind="city">
+    <ctml:name>Ksour Essaf</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Mahdia</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-53</ctml:parentRef>
+    <ctml:wikiDataId>Q3141573</ctml:wikiDataId>
+    <ctml:latitude>35.41808000</ctml:latitude>
+    <ctml:longitude>10.99475000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106987" kind="city">
+    <ctml:name>Melloulèche</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Mahdia</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-53</ctml:parentRef>
+    <ctml:wikiDataId>Q950322</ctml:wikiDataId>
+    <ctml:latitude>35.16617000</ctml:latitude>
+    <ctml:longitude>11.03504000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107014" kind="city">
+    <ctml:name>Salakta</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Mahdia</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-53</ctml:parentRef>
+    <ctml:wikiDataId>Q286794</ctml:wikiDataId>
+    <ctml:latitude>35.39444000</ctml:latitude>
+    <ctml:longitude>11.04361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107020" kind="city">
+    <ctml:name>Sidi Alouane</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Mahdia</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-53</ctml:parentRef>
+    <ctml:wikiDataId>Q3178416</ctml:wikiDataId>
+    <ctml:latitude>35.37505000</ctml:latitude>
+    <ctml:longitude>10.93899000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107043" kind="city">
+    <ctml:name>Zouila</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Mahdia</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-53</ctml:parentRef>
+    <ctml:wikiDataId>Q148142</ctml:wikiDataId>
+    <ctml:latitude>35.50056000</ctml:latitude>
+    <ctml:longitude>11.06056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106942" kind="city">
+    <ctml:name>El Battan</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Manouba</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-14</ctml:parentRef>
+    <ctml:wikiDataId>Q3049744</ctml:wikiDataId>
+    <ctml:latitude>36.80368000</ctml:latitude>
+    <ctml:longitude>9.84424000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107004" kind="city">
+    <ctml:name>Oued Lill</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Manouba</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-14</ctml:parentRef>
+    <ctml:wikiDataId>Q3100315</ctml:wikiDataId>
+    <ctml:latitude>36.83408000</ctml:latitude>
+    <ctml:longitude>10.04057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106921" kind="city">
+    <ctml:name>Ben Gardane</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Medenine</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-82</ctml:parentRef>
+    <ctml:wikiDataId>Q1143002</ctml:wikiDataId>
+    <ctml:latitude>33.13783000</ctml:latitude>
+    <ctml:longitude>11.21965000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106923" kind="city">
+    <ctml:name>Beni Kheddache</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Medenine</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-82</ctml:parentRef>
+    <ctml:wikiDataId>Q1143002</ctml:wikiDataId>
+    <ctml:latitude>33.25279000</ctml:latitude>
+    <ctml:longitude>10.19883000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106950" kind="city">
+    <ctml:name>Erriadh</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Medenine</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2743148</ctml:wikiDataId>
+    <ctml:latitude>33.82063000</ctml:latitude>
+    <ctml:longitude>10.85394000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106963" kind="city">
+    <ctml:name>Houmt El Souk</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Medenine</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-82</ctml:parentRef>
+    <ctml:wikiDataId>Q995360</ctml:wikiDataId>
+    <ctml:latitude>33.87576000</ctml:latitude>
+    <ctml:longitude>10.85745000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106966" kind="city">
+    <ctml:name>Jerba Midoun</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Medenine</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-82</ctml:parentRef>
+    <ctml:wikiDataId>Q27064</ctml:wikiDataId>
+    <ctml:latitude>33.77918000</ctml:latitude>
+    <ctml:longitude>10.95215000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TUN-106996" kind="admin2">
+    <ctml:name>Midoun</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Medenine</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-82</ctml:parentRef>
+    <ctml:wikiDataId>Q687088</ctml:wikiDataId>
+    <ctml:latitude>33.80813000</ctml:latitude>
+    <ctml:longitude>10.99228000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107042" kind="city">
+    <ctml:name>Zarzis</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Medenine</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-82</ctml:parentRef>
+    <ctml:wikiDataId>Q148142</ctml:wikiDataId>
+    <ctml:latitude>33.50398000</ctml:latitude>
+    <ctml:longitude>11.11215000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106918" kind="city">
+    <ctml:name>Banbalah</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q627487</ctml:wikiDataId>
+    <ctml:latitude>35.70000000</ctml:latitude>
+    <ctml:longitude>10.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106919" kind="city">
+    <ctml:name>Bekalta</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q1203138</ctml:wikiDataId>
+    <ctml:latitude>35.61739000</ctml:latitude>
+    <ctml:longitude>10.99466000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106922" kind="city">
+    <ctml:name>Beni Hassane</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q1143002</ctml:wikiDataId>
+    <ctml:latitude>35.56720000</ctml:latitude>
+    <ctml:longitude>10.80869000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106937" kind="city">
+    <ctml:name>Djemmal</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q2545445</ctml:wikiDataId>
+    <ctml:latitude>35.62231000</ctml:latitude>
+    <ctml:longitude>10.75696000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106972" kind="city">
+    <ctml:name>Ksar Hellal</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q3174782</ctml:wikiDataId>
+    <ctml:latitude>35.64773000</ctml:latitude>
+    <ctml:longitude>10.89046000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106973" kind="city">
+    <ctml:name>Ksibet el Mediouni</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q3141427</ctml:wikiDataId>
+    <ctml:latitude>35.68561000</ctml:latitude>
+    <ctml:longitude>10.84256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106979" kind="city">
+    <ctml:name>Lemta</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q1972560</ctml:wikiDataId>
+    <ctml:latitude>35.66667000</ctml:latitude>
+    <ctml:longitude>10.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106991" kind="city">
+    <ctml:name>Menzel Kamel</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q2740244</ctml:wikiDataId>
+    <ctml:latitude>35.62477000</ctml:latitude>
+    <ctml:longitude>10.66727000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106993" kind="city">
+    <ctml:name>Mesdour</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q3050056</ctml:wikiDataId>
+    <ctml:latitude>35.68206000</ctml:latitude>
+    <ctml:longitude>10.72746000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107003" kind="city">
+    <ctml:name>Ouardenine</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q3117290</ctml:wikiDataId>
+    <ctml:latitude>35.70915000</ctml:latitude>
+    <ctml:longitude>10.67397000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107012" kind="city">
+    <ctml:name>Sahline</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q2618068</ctml:wikiDataId>
+    <ctml:latitude>35.75166000</ctml:latitude>
+    <ctml:longitude>10.71109000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107018" kind="city">
+    <ctml:name>Seïada</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q2539054</ctml:wikiDataId>
+    <ctml:latitude>35.66887000</ctml:latitude>
+    <ctml:longitude>10.89246000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107021" kind="city">
+    <ctml:name>Sidi Ben Nour</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q3178416</ctml:wikiDataId>
+    <ctml:latitude>35.53333000</ctml:latitude>
+    <ctml:longitude>10.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107027" kind="city">
+    <ctml:name>Skanes</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q27216</ctml:wikiDataId>
+    <ctml:latitude>35.78333000</ctml:latitude>
+    <ctml:longitude>10.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107037" kind="city">
+    <ctml:name>Touza</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Monastir</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-52</ctml:parentRef>
+    <ctml:wikiDataId>Q1975233</ctml:wikiDataId>
+    <ctml:latitude>35.63544000</ctml:latitude>
+    <ctml:longitude>10.82732000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153265" kind="city">
+    <ctml:name>Azmour</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1158916</ctml:wikiDataId>
+    <ctml:latitude>36.92440000</ctml:latitude>
+    <ctml:longitude>11.00690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153266" kind="city">
+    <ctml:name>Beni Khalled</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2723645</ctml:wikiDataId>
+    <ctml:latitude>36.65038000</ctml:latitude>
+    <ctml:longitude>10.59004000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153268" kind="city">
+    <ctml:name>Béni Khiar</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2737310</ctml:wikiDataId>
+    <ctml:latitude>36.46666667</ctml:latitude>
+    <ctml:longitude>10.78333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153267" kind="city">
+    <ctml:name>Bou Argoub</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q655294</ctml:wikiDataId>
+    <ctml:latitude>36.53853000</ctml:latitude>
+    <ctml:longitude>10.55093000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153269" kind="city">
+    <ctml:name>Dar Chaabane</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2478232</ctml:wikiDataId>
+    <ctml:latitude>36.47000000</ctml:latitude>
+    <ctml:longitude>10.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153270" kind="city">
+    <ctml:name>El Haouaria</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1324235</ctml:wikiDataId>
+    <ctml:latitude>37.05000000</ctml:latitude>
+    <ctml:longitude>11.01111111</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153271" kind="city">
+    <ctml:name>El Maâmoura</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2744905</ctml:wikiDataId>
+    <ctml:latitude>36.46666667</ctml:latitude>
+    <ctml:longitude>10.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153272" kind="city">
+    <ctml:name>El Mida</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q253325</ctml:wikiDataId>
+    <ctml:latitude>36.73333333</ctml:latitude>
+    <ctml:longitude>10.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153273" kind="city">
+    <ctml:name>El Mrezga</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q102278481</ctml:wikiDataId>
+    <ctml:latitude>36.42163000</ctml:latitude>
+    <ctml:longitude>10.66411000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153274" kind="city">
+    <ctml:name>Grombalia</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1344058</ctml:wikiDataId>
+    <ctml:latitude>36.61000000</ctml:latitude>
+    <ctml:longitude>10.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153275" kind="city">
+    <ctml:name>Hammamet</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q339535</ctml:wikiDataId>
+    <ctml:latitude>36.41666667</ctml:latitude>
+    <ctml:longitude>10.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153276" kind="city">
+    <ctml:name>Kelibia</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q27241</ctml:wikiDataId>
+    <ctml:latitude>36.84750000</ctml:latitude>
+    <ctml:longitude>11.09388889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153277" kind="city">
+    <ctml:name>Korba</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1343921</ctml:wikiDataId>
+    <ctml:latitude>36.56666667</ctml:latitude>
+    <ctml:longitude>10.86666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153278" kind="city">
+    <ctml:name>Korbous</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3175885</ctml:wikiDataId>
+    <ctml:latitude>36.81638889</ctml:latitude>
+    <ctml:longitude>10.56861111</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153279" kind="city">
+    <ctml:name>Menzel Bouzelfa</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2724043</ctml:wikiDataId>
+    <ctml:latitude>36.68170000</ctml:latitude>
+    <ctml:longitude>10.58470000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153280" kind="city">
+    <ctml:name>Menzel Horr</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2749664</ctml:wikiDataId>
+    <ctml:latitude>36.73333333</ctml:latitude>
+    <ctml:longitude>10.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153281" kind="city">
+    <ctml:name>Menzel Temime</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q764435</ctml:wikiDataId>
+    <ctml:latitude>36.78333333</ctml:latitude>
+    <ctml:longitude>10.98333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153283" kind="city">
+    <ctml:name>Soliman</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q726858</ctml:wikiDataId>
+    <ctml:latitude>36.69512600</ctml:latitude>
+    <ctml:longitude>10.49125700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153284" kind="city">
+    <ctml:name>Takelsa</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2557364</ctml:wikiDataId>
+    <ctml:latitude>36.79000000</ctml:latitude>
+    <ctml:longitude>10.63000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153285" kind="city">
+    <ctml:name>Tazerka</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3516520</ctml:wikiDataId>
+    <ctml:latitude>36.55000000</ctml:latitude>
+    <ctml:longitude>10.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153286" kind="city">
+    <ctml:name>Zaouiet Djedidi</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q653791</ctml:wikiDataId>
+    <ctml:latitude>36.65000000</ctml:latitude>
+    <ctml:longitude>10.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-153287" kind="city">
+    <ctml:name>Zriba</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Nabeul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3142622</ctml:wikiDataId>
+    <ctml:latitude>36.35585000</ctml:latitude>
+    <ctml:longitude>10.20603400</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106910" kind="city">
+    <ctml:name>Agareb</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sfax</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-61</ctml:parentRef>
+    <ctml:wikiDataId>Q1184588</ctml:wikiDataId>
+    <ctml:latitude>34.74406000</ctml:latitude>
+    <ctml:longitude>10.46110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106924" kind="city">
+    <ctml:name>Bir Ali Ben Khalifa</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sfax</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-61</ctml:parentRef>
+    <ctml:wikiDataId>Q1153877</ctml:wikiDataId>
+    <ctml:latitude>34.73592000</ctml:latitude>
+    <ctml:longitude>10.09240000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106936" kind="city">
+    <ctml:name>Djebeniana</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sfax</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-61</ctml:parentRef>
+    <ctml:wikiDataId>Q3176336</ctml:wikiDataId>
+    <ctml:latitude>35.03500000</ctml:latitude>
+    <ctml:longitude>10.90809000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106957" kind="city">
+    <ctml:name>Gremda</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sfax</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-61</ctml:parentRef>
+    <ctml:wikiDataId>Q2370331</ctml:wikiDataId>
+    <ctml:latitude>34.75000000</ctml:latitude>
+    <ctml:longitude>10.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107028" kind="city">
+    <ctml:name>Skhira</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sfax</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-61</ctml:parentRef>
+    <ctml:wikiDataId>Q1365147</ctml:wikiDataId>
+    <ctml:latitude>34.29920000</ctml:latitude>
+    <ctml:longitude>10.06999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106925" kind="city">
+    <ctml:name>Bir el Hafey</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sidi Bouzid</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-43</ctml:parentRef>
+    <ctml:wikiDataId>Q2737160</ctml:wikiDataId>
+    <ctml:latitude>34.93212000</ctml:latitude>
+    <ctml:longitude>9.19321000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106949" kind="city">
+    <ctml:name>Er Regueb</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sidi Bouzid</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-43</ctml:parentRef>
+    <ctml:wikiDataId>Q2743148</ctml:wikiDataId>
+    <ctml:latitude>34.85932000</ctml:latitude>
+    <ctml:longitude>9.78654000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106967" kind="city">
+    <ctml:name>Jilma</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sidi Bouzid</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-43</ctml:parentRef>
+    <ctml:wikiDataId>Q3178237</ctml:wikiDataId>
+    <ctml:latitude>35.27311000</ctml:latitude>
+    <ctml:longitude>9.42385000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106995" kind="city">
+    <ctml:name>Mezzouna</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sidi Bouzid</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-43</ctml:parentRef>
+    <ctml:wikiDataId>Q3050056</ctml:wikiDataId>
+    <ctml:latitude>34.57758000</ctml:latitude>
+    <ctml:longitude>9.84193000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106928" kind="city">
+    <ctml:name>Bou Arada</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Siliana</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-34</ctml:parentRef>
+    <ctml:wikiDataId>Q2737321</ctml:wikiDataId>
+    <ctml:latitude>36.35251000</ctml:latitude>
+    <ctml:longitude>9.62175000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106953" kind="city">
+    <ctml:name>Gafour</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Siliana</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-34</ctml:parentRef>
+    <ctml:wikiDataId>Q3069035</ctml:wikiDataId>
+    <ctml:latitude>36.32045000</ctml:latitude>
+    <ctml:longitude>9.32424000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106971" kind="city">
+    <ctml:name>Kesra</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Siliana</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-34</ctml:parentRef>
+    <ctml:wikiDataId>Q3111959</ctml:wikiDataId>
+    <ctml:latitude>35.81363000</ctml:latitude>
+    <ctml:longitude>9.36434000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106978" kind="city">
+    <ctml:name>Le Krib</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Siliana</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-34</ctml:parentRef>
+    <ctml:wikiDataId>Q3099965</ctml:wikiDataId>
+    <ctml:latitude>36.32802000</ctml:latitude>
+    <ctml:longitude>9.13613000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106981" kind="city">
+    <ctml:name>Maktar</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Siliana</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-34</ctml:parentRef>
+    <ctml:wikiDataId>Q1204373</ctml:wikiDataId>
+    <ctml:latitude>35.85798000</ctml:latitude>
+    <ctml:longitude>9.20072000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106911" kind="city">
+    <ctml:name>Akouda</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sousse</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-51</ctml:parentRef>
+    <ctml:wikiDataId>Q2734713</ctml:wikiDataId>
+    <ctml:latitude>35.86910000</ctml:latitude>
+    <ctml:longitude>10.56530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106960" kind="city">
+    <ctml:name>Hammam Sousse</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sousse</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-51</ctml:parentRef>
+    <ctml:wikiDataId>Q545273</ctml:wikiDataId>
+    <ctml:latitude>35.86090000</ctml:latitude>
+    <ctml:longitude>10.60313000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106962" kind="city">
+    <ctml:name>Harqalah</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sousse</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-51</ctml:parentRef>
+    <ctml:wikiDataId>Q1203456</ctml:wikiDataId>
+    <ctml:latitude>36.03027000</ctml:latitude>
+    <ctml:longitude>10.50904000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106998" kind="city">
+    <ctml:name>Msaken</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sousse</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-51</ctml:parentRef>
+    <ctml:wikiDataId>Q1014928</ctml:wikiDataId>
+    <ctml:latitude>35.72917000</ctml:latitude>
+    <ctml:longitude>10.58082000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107006" kind="city">
+    <ctml:name>Port el Kantaoui</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sousse</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-51</ctml:parentRef>
+    <ctml:wikiDataId>Q3136209</ctml:wikiDataId>
+    <ctml:latitude>35.89239000</ctml:latitude>
+    <ctml:longitude>10.59434000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107022" kind="city">
+    <ctml:name>Sidi Bou Ali</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sousse</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-51</ctml:parentRef>
+    <ctml:wikiDataId>Q3142513</ctml:wikiDataId>
+    <ctml:latitude>35.95667000</ctml:latitude>
+    <ctml:longitude>10.47306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107025" kind="city">
+    <ctml:name>Sidi el Hani</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Sousse</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-51</ctml:parentRef>
+    <ctml:wikiDataId>Q3179033</ctml:wikiDataId>
+    <ctml:latitude>35.67139000</ctml:latitude>
+    <ctml:longitude>10.31583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107009" kind="city">
+    <ctml:name>Remada</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Tataouine</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-83</ctml:parentRef>
+    <ctml:wikiDataId>Q1015427</ctml:wikiDataId>
+    <ctml:latitude>32.31662000</ctml:latitude>
+    <ctml:longitude>10.39551000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106933" kind="city">
+    <ctml:name>Chebika</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Tozeur</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-72</ctml:parentRef>
+    <ctml:wikiDataId>Q2961924</ctml:wikiDataId>
+    <ctml:latitude>34.31909000</ctml:latitude>
+    <ctml:longitude>7.93519000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106935" kind="city">
+    <ctml:name>Degache</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Tozeur</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-72</ctml:parentRef>
+    <ctml:wikiDataId>Q2499386</ctml:wikiDataId>
+    <ctml:latitude>33.97606000</ctml:latitude>
+    <ctml:longitude>8.20810000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107001" kind="city">
+    <ctml:name>Nefta</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Tozeur</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-72</ctml:parentRef>
+    <ctml:wikiDataId>Q1026298</ctml:wikiDataId>
+    <ctml:latitude>33.87309000</ctml:latitude>
+    <ctml:longitude>7.87765000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107033" kind="city">
+    <ctml:name>Tamaghzah</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Tozeur</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-72</ctml:parentRef>
+    <ctml:wikiDataId>Q2746043</ctml:wikiDataId>
+    <ctml:latitude>34.38849000</ctml:latitude>
+    <ctml:longitude>7.94313000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TUN-106912" kind="admin2">
+    <ctml:name>Al Marsá</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Tunis</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-11</ctml:parentRef>
+    <ctml:wikiDataId>Q27230</ctml:wikiDataId>
+    <ctml:latitude>36.87818000</ctml:latitude>
+    <ctml:longitude>10.32466000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106931" kind="city">
+    <ctml:name>Carthage</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Tunis</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-11</ctml:parentRef>
+    <ctml:wikiDataId>Q28151514</ctml:wikiDataId>
+    <ctml:latitude>36.85961000</ctml:latitude>
+    <ctml:longitude>10.32978000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106975" kind="city">
+    <ctml:name>La Goulette</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Tunis</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-11</ctml:parentRef>
+    <ctml:wikiDataId>Q798445</ctml:wikiDataId>
+    <ctml:latitude>36.81825000</ctml:latitude>
+    <ctml:longitude>10.30520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106976" kind="city">
+    <ctml:name>La Mohammedia</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Tunis</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3099965</ctml:wikiDataId>
+    <ctml:latitude>36.67446000</ctml:latitude>
+    <ctml:longitude>10.15633000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107023" kind="city">
+    <ctml:name>Sidi Bou Saïd</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Tunis</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-11</ctml:parentRef>
+    <ctml:wikiDataId>Q877391</ctml:wikiDataId>
+    <ctml:latitude>36.86870000</ctml:latitude>
+    <ctml:longitude>10.34174000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-107039" kind="city">
+    <ctml:name>Tunis</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Tunis</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3572</ctml:wikiDataId>
+    <ctml:latitude>36.81897000</ctml:latitude>
+    <ctml:longitude>10.16579000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TUN-106943" kind="city">
+    <ctml:name>El Fahs</ctml:name>
+    <ctml:country>TUN</ctml:country>
+    <ctml:admin1>Zaghouan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TN-22</ctml:parentRef>
+    <ctml:wikiDataId>Q657250</ctml:wikiDataId>
+    <ctml:latitude>36.37419000</ctml:latitude>
+    <ctml:longitude>9.90651000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

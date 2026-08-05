@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:ctml="urn:ctml:2.0"
+  targetNamespace="urn:ctml:2.0"
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified">
+
+  <xs:annotation>
+    <xs:documentation>
+      CTML 2.0 - Person names.
+
+      Split out of the v1 ctml-namedate.xsd module (see
+      reference/v1-xsd/ctml-namedate.xsd and ctml-dates.xsd in this
+      directory for the date half).
+
+      v1's PersonNameType used an XSD 1.1 xs:assert (normalize-space(@display)
+      != '') to reject blank display names. Replaced here with
+      NonBlankStringType, a plain 1.0 pattern restriction with equivalent
+      strength.
+    </xs:documentation>
+  </xs:annotation>
+
+  <!-- Requires at least one non-whitespace character; equivalent to the v1
+       assert normalize-space(@display) != ''. -->
+  <xs:simpleType name="NonBlankStringType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value=".*\S.*"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="PersonNameType">
+    <xs:choice>
+      <xs:sequence>
+        <xs:element name="family" type="xs:string"/>
+        <xs:element name="given" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element name="suffix" type="xs:string" minOccurs="0"/>
+      </xs:sequence>
+      <xs:sequence>
+        <xs:element name="mononym" type="xs:string"/>
+      </xs:sequence>
+      <xs:sequence>
+        <xs:element name="unstructured" type="xs:string"/>
+      </xs:sequence>
+    </xs:choice>
+
+    <xs:attribute name="display" type="ctml:NonBlankStringType" use="required"/>
+    <xs:attribute name="sort" type="xs:string" use="optional"/>
+    <xs:attribute name="inferred" type="xs:boolean" use="optional"/>
+  </xs:complexType>
+
+</xs:schema>

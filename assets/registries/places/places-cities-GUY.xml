@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:GUY-53823" kind="city">
+    <ctml:name>Georgetown</ctml:name>
+    <ctml:country>GUY</ctml:country>
+    <ctml:admin1>Demerara-Mahaica</ctml:admin1>
+    <ctml:parentRef>place:admin1:GY-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q10717</ctml:wikiDataId>
+    <ctml:latitude>6.80448000</ctml:latitude>
+    <ctml:longitude>-58.15527000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUY-53827" kind="city">
+    <ctml:name>Mahaica Village</ctml:name>
+    <ctml:country>GUY</ctml:country>
+    <ctml:admin1>Demerara-Mahaica</ctml:admin1>
+    <ctml:parentRef>place:admin1:GY-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q597458</ctml:wikiDataId>
+    <ctml:latitude>6.68405000</ctml:latitude>
+    <ctml:longitude>-57.92181000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUY-53833" kind="city">
+    <ctml:name>Skeldon</ctml:name>
+    <ctml:country>GUY</ctml:country>
+    <ctml:admin1>East Berbice-Corentyne</ctml:admin1>
+    <ctml:parentRef>place:admin1:GY-EB</ctml:parentRef>
+    <ctml:wikiDataId>Q1051779</ctml:wikiDataId>
+    <ctml:latitude>5.88333000</ctml:latitude>
+    <ctml:longitude>-57.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUY-53831" kind="city">
+    <ctml:name>Parika</ctml:name>
+    <ctml:country>GUY</ctml:country>
+    <ctml:admin1>Essequibo Islands-West Demerara</ctml:admin1>
+    <ctml:parentRef>place:admin1:GY-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q268247</ctml:wikiDataId>
+    <ctml:latitude>6.83712000</ctml:latitude>
+    <ctml:longitude>-58.42941000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUY-53828" kind="city">
+    <ctml:name>Mahaicony Village</ctml:name>
+    <ctml:country>GUY</ctml:country>
+    <ctml:admin1>Mahaica-Berbice</ctml:admin1>
+    <ctml:parentRef>place:admin1:GY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q597458</ctml:wikiDataId>
+    <ctml:latitude>6.57633000</ctml:latitude>
+    <ctml:longitude>-57.80486000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUY-53832" kind="city">
+    <ctml:name>Rosignol</ctml:name>
+    <ctml:country>GUY</ctml:country>
+    <ctml:admin1>Mahaica-Berbice</ctml:admin1>
+    <ctml:parentRef>place:admin1:GY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q1322106</ctml:wikiDataId>
+    <ctml:latitude>6.27095000</ctml:latitude>
+    <ctml:longitude>-57.53697000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

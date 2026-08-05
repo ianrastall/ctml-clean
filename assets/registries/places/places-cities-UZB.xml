@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:UZB-129895" kind="city">
+    <ctml:name>Andijon Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2399866</ctml:wikiDataId>
+    <ctml:latitude>40.80000000</ctml:latitude>
+    <ctml:longitude>72.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129897" kind="admin2">
+    <ctml:name>Asaka</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q378393</ctml:wikiDataId>
+    <ctml:latitude>40.64153000</ctml:latitude>
+    <ctml:longitude>72.23868000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129898" kind="admin2">
+    <ctml:name>Asaka Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q578148</ctml:wikiDataId>
+    <ctml:latitude>40.66667000</ctml:latitude>
+    <ctml:longitude>72.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129899" kind="city">
+    <ctml:name>Baliqchi Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q1646692</ctml:wikiDataId>
+    <ctml:latitude>40.86667000</ctml:latitude>
+    <ctml:longitude>72.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129908" kind="city">
+    <ctml:name>Bo‘z Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2399915</ctml:wikiDataId>
+    <ctml:latitude>40.66667000</ctml:latitude>
+    <ctml:longitude>71.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129910" kind="city">
+    <ctml:name>Buloqboshi Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2399900</ctml:wikiDataId>
+    <ctml:latitude>40.61667000</ctml:latitude>
+    <ctml:longitude>72.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129937" kind="admin2">
+    <ctml:name>Izboskan Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2399845</ctml:wikiDataId>
+    <ctml:latitude>40.91667000</ctml:latitude>
+    <ctml:longitude>72.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129938" kind="city">
+    <ctml:name>Jalolkuduk Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q609133</ctml:wikiDataId>
+    <ctml:latitude>40.75000000</ctml:latitude>
+    <ctml:longitude>72.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129946" kind="city">
+    <ctml:name>Khŭjaobod Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2399836</ctml:wikiDataId>
+    <ctml:latitude>40.66667000</ctml:latitude>
+    <ctml:longitude>72.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129956" kind="city">
+    <ctml:name>Marhamat</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q3847075</ctml:wikiDataId>
+    <ctml:latitude>40.48048000</ctml:latitude>
+    <ctml:longitude>72.31388000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129957" kind="admin2">
+    <ctml:name>Marhamat Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2399255</ctml:wikiDataId>
+    <ctml:latitude>40.50000000</ctml:latitude>
+    <ctml:longitude>72.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129971" kind="admin2">
+    <ctml:name>Oltinkŭl Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2631630</ctml:wikiDataId>
+    <ctml:latitude>40.80000000</ctml:latitude>
+    <ctml:longitude>72.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129973" kind="admin2">
+    <ctml:name>Pakhtaobod Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q1646660</ctml:wikiDataId>
+    <ctml:latitude>40.93333000</ctml:latitude>
+    <ctml:longitude>72.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129976" kind="admin2">
+    <ctml:name>Paxtaobod</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q867159</ctml:wikiDataId>
+    <ctml:latitude>40.92936000</ctml:latitude>
+    <ctml:longitude>72.49687000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129987" kind="admin2">
+    <ctml:name>Qo‘rg‘ontepa</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q609368</ctml:wikiDataId>
+    <ctml:latitude>40.73192000</ctml:latitude>
+    <ctml:longitude>72.76177000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129990" kind="city">
+    <ctml:name>Qŭrghontepa Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2671584</ctml:wikiDataId>
+    <ctml:latitude>40.75000000</ctml:latitude>
+    <ctml:longitude>72.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129996" kind="admin2">
+    <ctml:name>Shahrikhon Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q926306</ctml:wikiDataId>
+    <ctml:latitude>40.71667000</ctml:latitude>
+    <ctml:longitude>72.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129998" kind="admin2">
+    <ctml:name>Shahrixon</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q1659154</ctml:wikiDataId>
+    <ctml:latitude>40.71331000</ctml:latitude>
+    <ctml:longitude>72.05706000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-130012" kind="admin2">
+    <ctml:name>Ulug‘nor Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2399889</ctml:wikiDataId>
+    <ctml:latitude>40.75000000</ctml:latitude>
+    <ctml:longitude>71.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-130018" kind="admin2">
+    <ctml:name>Xo‘jaobod</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Andijan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2609325</ctml:wikiDataId>
+    <ctml:latitude>40.66886000</ctml:latitude>
+    <ctml:longitude>72.56002000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129925" kind="city">
+    <ctml:name>Galaosiyo</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Bukhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q650352</ctml:wikiDataId>
+    <ctml:latitude>39.85778000</ctml:latitude>
+    <ctml:longitude>64.44833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129926" kind="city">
+    <ctml:name>Gazli</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Bukhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q31916861</ctml:wikiDataId>
+    <ctml:latitude>40.13333000</ctml:latitude>
+    <ctml:longitude>63.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129927" kind="city">
+    <ctml:name>Ghijduwon</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Bukhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q1027045</ctml:wikiDataId>
+    <ctml:latitude>40.10000000</ctml:latitude>
+    <ctml:longitude>64.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129942" kind="city">
+    <ctml:name>Karakul’</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Bukhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q31929948</ctml:wikiDataId>
+    <ctml:latitude>39.53333000</ctml:latitude>
+    <ctml:longitude>63.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129950" kind="city">
+    <ctml:name>Kogon</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Bukhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q1658752</ctml:wikiDataId>
+    <ctml:latitude>39.72278000</ctml:latitude>
+    <ctml:longitude>64.55167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129968" kind="city">
+    <ctml:name>Olot</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Bukhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q1993744</ctml:wikiDataId>
+    <ctml:latitude>39.41500000</ctml:latitude>
+    <ctml:longitude>63.80333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129978" kind="city">
+    <ctml:name>Peshku Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Bukhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q2603566</ctml:wikiDataId>
+    <ctml:latitude>40.41667000</ctml:latitude>
+    <ctml:longitude>63.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129984" kind="city">
+    <ctml:name>Qorako’l</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Bukhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q609840</ctml:wikiDataId>
+    <ctml:latitude>39.49944000</ctml:latitude>
+    <ctml:longitude>63.85389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129985" kind="city">
+    <ctml:name>Qorovulbozor</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Bukhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q867044</ctml:wikiDataId>
+    <ctml:latitude>39.50056000</ctml:latitude>
+    <ctml:longitude>64.79361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129993" kind="city">
+    <ctml:name>Romiton</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Bukhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q797824</ctml:wikiDataId>
+    <ctml:latitude>39.92944000</ctml:latitude>
+    <ctml:longitude>64.37944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129999" kind="admin2">
+    <ctml:name>Shofirkon</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Bukhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q722941</ctml:wikiDataId>
+    <ctml:latitude>40.12000000</ctml:latitude>
+    <ctml:longitude>64.50139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130016" kind="city">
+    <ctml:name>Wobkent</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Bukhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q500641</ctml:wikiDataId>
+    <ctml:latitude>40.03028000</ctml:latitude>
+    <ctml:longitude>64.51500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130017" kind="city">
+    <ctml:name>Wobkent Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Bukhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q2609325</ctml:wikiDataId>
+    <ctml:latitude>40.00000000</ctml:latitude>
+    <ctml:longitude>64.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129903" kind="admin2">
+    <ctml:name>Beshariq</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Fergana</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q891824</ctml:wikiDataId>
+    <ctml:latitude>40.43583000</ctml:latitude>
+    <ctml:longitude>70.61028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129932" kind="city">
+    <ctml:name>Hamza</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Fergana</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q31919174</ctml:wikiDataId>
+    <ctml:latitude>40.42762000</ctml:latitude>
+    <ctml:longitude>71.50534000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129948" kind="city">
+    <ctml:name>Kirguli</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Fergana</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q31932288</ctml:wikiDataId>
+    <ctml:latitude>40.43553000</ctml:latitude>
+    <ctml:longitude>71.76721000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129955" kind="city">
+    <ctml:name>Marg‘ilon</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Fergana</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q261076</ctml:wikiDataId>
+    <ctml:latitude>40.47237000</ctml:latitude>
+    <ctml:longitude>71.72463000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129969" kind="admin2">
+    <ctml:name>Oltiariq</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Fergana</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q4063019</ctml:wikiDataId>
+    <ctml:latitude>40.39194000</ctml:latitude>
+    <ctml:longitude>71.47417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129986" kind="city">
+    <ctml:name>Qo‘qon</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Fergana</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q489890</ctml:wikiDataId>
+    <ctml:latitude>40.52861000</ctml:latitude>
+    <ctml:longitude>70.94250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129988" kind="admin2">
+    <ctml:name>Quva</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Fergana</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q609368</ctml:wikiDataId>
+    <ctml:latitude>40.52204000</ctml:latitude>
+    <ctml:longitude>72.07292000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129989" kind="admin2">
+    <ctml:name>Quvasoy</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Fergana</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q650660</ctml:wikiDataId>
+    <ctml:latitude>40.29721000</ctml:latitude>
+    <ctml:longitude>71.98026000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129992" kind="admin2">
+    <ctml:name>Rishton</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Fergana</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q250276</ctml:wikiDataId>
+    <ctml:latitude>40.35667000</ctml:latitude>
+    <ctml:longitude>71.28472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130000" kind="city">
+    <ctml:name>Shohimardon</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Fergana</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q1005592</ctml:wikiDataId>
+    <ctml:latitude>39.98322000</ctml:latitude>
+    <ctml:longitude>71.80512000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130004" kind="city">
+    <ctml:name>So‘x Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Fergana</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q1027768</ctml:wikiDataId>
+    <ctml:latitude>40.04417000</ctml:latitude>
+    <ctml:longitude>71.09417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-130008" kind="admin2">
+    <ctml:name>Toshloq</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Fergana</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q4453032</ctml:wikiDataId>
+    <ctml:latitude>40.47722000</ctml:latitude>
+    <ctml:longitude>71.76778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130019" kind="city">
+    <ctml:name>Yangi Marg‘ilon</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Fergana</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q31934372</ctml:wikiDataId>
+    <ctml:latitude>40.42722000</ctml:latitude>
+    <ctml:longitude>71.71889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-130025" kind="admin2">
+    <ctml:name>Yaypan</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Fergana</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q3608608</ctml:wikiDataId>
+    <ctml:latitude>40.37583000</ctml:latitude>
+    <ctml:longitude>70.81556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129919" kind="city">
+    <ctml:name>Dashtobod</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Jizzakh</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q3560309</ctml:wikiDataId>
+    <ctml:latitude>40.12694000</ctml:latitude>
+    <ctml:longitude>68.49444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129922" kind="city">
+    <ctml:name>Dŭstlik</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Jizzakh</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q31912870</ctml:wikiDataId>
+    <ctml:latitude>40.52472000</ctml:latitude>
+    <ctml:longitude>68.03583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129924" kind="city">
+    <ctml:name>Gagarin</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Jizzakh</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q31916588</ctml:wikiDataId>
+    <ctml:latitude>40.66194000</ctml:latitude>
+    <ctml:longitude>68.17222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129975" kind="city">
+    <ctml:name>Paxtakor</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Jizzakh</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q769384</ctml:wikiDataId>
+    <ctml:latitude>40.31528000</ctml:latitude>
+    <ctml:longitude>67.95444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130027" kind="city">
+    <ctml:name>Zomin</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Jizzakh</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q891867</ctml:wikiDataId>
+    <ctml:latitude>39.96056000</ctml:latitude>
+    <ctml:longitude>68.39583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129902" kind="city">
+    <ctml:name>Beruniy</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Karakalpakstan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QR</ctml:parentRef>
+    <ctml:wikiDataId>Q18242285</ctml:wikiDataId>
+    <ctml:latitude>41.69111000</ctml:latitude>
+    <ctml:longitude>60.75250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129944" kind="admin2">
+    <ctml:name>Kegeyli Shahar</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Karakalpakstan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QR</ctml:parentRef>
+    <ctml:wikiDataId>Q3077975</ctml:wikiDataId>
+    <ctml:latitude>42.77667000</ctml:latitude>
+    <ctml:longitude>59.60778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129947" kind="city">
+    <ctml:name>Khŭjayli</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Karakalpakstan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QR</ctml:parentRef>
+    <ctml:wikiDataId>Q1400173</ctml:wikiDataId>
+    <ctml:latitude>42.40043000</ctml:latitude>
+    <ctml:longitude>59.46005000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129954" kind="city">
+    <ctml:name>Manghit</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Karakalpakstan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QR</ctml:parentRef>
+    <ctml:wikiDataId>Q3544447</ctml:wikiDataId>
+    <ctml:latitude>42.11556000</ctml:latitude>
+    <ctml:longitude>60.05972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129959" kind="city">
+    <ctml:name>Mŭynoq</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Karakalpakstan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QR</ctml:parentRef>
+    <ctml:wikiDataId>Q750989</ctml:wikiDataId>
+    <ctml:latitude>43.76833000</ctml:latitude>
+    <ctml:longitude>59.02139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129963" kind="city">
+    <ctml:name>Novyy Turtkul’</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Karakalpakstan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QR</ctml:parentRef>
+    <ctml:wikiDataId>Q31972515</ctml:wikiDataId>
+    <ctml:latitude>41.55000000</ctml:latitude>
+    <ctml:longitude>61.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129970" kind="city">
+    <ctml:name>Oltinko‘l</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Karakalpakstan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QR</ctml:parentRef>
+    <ctml:wikiDataId>Q31980284</ctml:wikiDataId>
+    <ctml:latitude>43.06874000</ctml:latitude>
+    <ctml:longitude>58.90372000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129917" kind="admin2">
+    <ctml:name>Chortoq</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Namangan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-NG</ctml:parentRef>
+    <ctml:wikiDataId>Q722997</ctml:wikiDataId>
+    <ctml:latitude>41.06924000</ctml:latitude>
+    <ctml:longitude>71.82372000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129918" kind="admin2">
+    <ctml:name>Chust</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Namangan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-NG</ctml:parentRef>
+    <ctml:wikiDataId>Q1090050</ctml:wikiDataId>
+    <ctml:latitude>41.00329000</ctml:latitude>
+    <ctml:longitude>71.23791000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129933" kind="city">
+    <ctml:name>Haqqulobod</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Namangan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-NG</ctml:parentRef>
+    <ctml:wikiDataId>Q2892693</ctml:wikiDataId>
+    <ctml:latitude>40.91667000</ctml:latitude>
+    <ctml:longitude>72.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129952" kind="admin2">
+    <ctml:name>Kosonsoy</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Namangan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-NG</ctml:parentRef>
+    <ctml:wikiDataId>Q609892</ctml:wikiDataId>
+    <ctml:latitude>41.24944000</ctml:latitude>
+    <ctml:longitude>71.54738000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129980" kind="city">
+    <ctml:name>Pop</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Namangan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-NG</ctml:parentRef>
+    <ctml:wikiDataId>Q31999206</ctml:wikiDataId>
+    <ctml:latitude>40.87361000</ctml:latitude>
+    <ctml:longitude>71.10889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130009" kind="city">
+    <ctml:name>To‘rqao‘rg‘on</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Namangan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-NG</ctml:parentRef>
+    <ctml:wikiDataId>Q32036936</ctml:wikiDataId>
+    <ctml:latitude>40.99984000</ctml:latitude>
+    <ctml:longitude>71.51162000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130007" kind="city">
+    <ctml:name>Toshbuloq</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Namangan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-NG</ctml:parentRef>
+    <ctml:wikiDataId>Q32035118</ctml:wikiDataId>
+    <ctml:latitude>40.91617000</ctml:latitude>
+    <ctml:longitude>71.57819000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-130011" kind="admin2">
+    <ctml:name>Uchqŭrghon Shahri</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Namangan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-NG</ctml:parentRef>
+    <ctml:wikiDataId>Q891949</ctml:wikiDataId>
+    <ctml:latitude>41.11371000</ctml:latitude>
+    <ctml:longitude>72.07915000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130015" kind="city">
+    <ctml:name>Uychi</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Namangan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-NG</ctml:parentRef>
+    <ctml:wikiDataId>Q4470303</ctml:wikiDataId>
+    <ctml:latitude>41.08073000</ctml:latitude>
+    <ctml:longitude>71.92331000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130021" kind="city">
+    <ctml:name>Yangiqo‘rg‘on</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Namangan</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-NG</ctml:parentRef>
+    <ctml:wikiDataId>Q20080698</ctml:wikiDataId>
+    <ctml:latitude>41.19474000</ctml:latitude>
+    <ctml:longitude>71.72385000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129965" kind="city">
+    <ctml:name>Nurota</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Navoiy</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q609414</ctml:wikiDataId>
+    <ctml:latitude>40.56139000</ctml:latitude>
+    <ctml:longitude>65.68861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129983" kind="city">
+    <ctml:name>Qiziltepa</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Navoiy</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q722945</ctml:wikiDataId>
+    <ctml:latitude>40.03306000</ctml:latitude>
+    <ctml:longitude>64.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-130022" kind="admin2">
+    <ctml:name>Yangirabot</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Navoiy</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q6169765</ctml:wikiDataId>
+    <ctml:latitude>40.02539000</ctml:latitude>
+    <ctml:longitude>65.96095000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129904" kind="city">
+    <ctml:name>Beshkent</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Qashqadaryo</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QA</ctml:parentRef>
+    <ctml:wikiDataId>Q891824</ctml:wikiDataId>
+    <ctml:latitude>38.82139000</ctml:latitude>
+    <ctml:longitude>65.65306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129916" kind="city">
+    <ctml:name>Chiroqchi</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Qashqadaryo</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QA</ctml:parentRef>
+    <ctml:wikiDataId>Q31905537</ctml:wikiDataId>
+    <ctml:latitude>39.03361000</ctml:latitude>
+    <ctml:longitude>66.57222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129931" kind="admin2">
+    <ctml:name>G‘uzor</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Qashqadaryo</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QA</ctml:parentRef>
+    <ctml:wikiDataId>Q2631365</ctml:wikiDataId>
+    <ctml:latitude>38.62083000</ctml:latitude>
+    <ctml:longitude>66.24806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129949" kind="city">
+    <ctml:name>Kitob</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Qashqadaryo</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QA</ctml:parentRef>
+    <ctml:wikiDataId>Q722938</ctml:wikiDataId>
+    <ctml:latitude>39.08425000</ctml:latitude>
+    <ctml:longitude>66.83318000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129951" kind="city">
+    <ctml:name>Koson</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Qashqadaryo</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QA</ctml:parentRef>
+    <ctml:wikiDataId>Q1658752</ctml:wikiDataId>
+    <ctml:latitude>39.03750000</ctml:latitude>
+    <ctml:longitude>65.58500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129958" kind="city">
+    <ctml:name>Muborak</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Qashqadaryo</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QA</ctml:parentRef>
+    <ctml:wikiDataId>Q599533</ctml:wikiDataId>
+    <ctml:latitude>39.25528000</ctml:latitude>
+    <ctml:longitude>65.15278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129962" kind="city">
+    <ctml:name>Nishon Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Qashqadaryo</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QA</ctml:parentRef>
+    <ctml:wikiDataId>Q31970870</ctml:wikiDataId>
+    <ctml:latitude>38.69395000</ctml:latitude>
+    <ctml:longitude>65.67512000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129997" kind="city">
+    <ctml:name>Shahrisabz</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Qashqadaryo</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-QA</ctml:parentRef>
+    <ctml:wikiDataId>Q569766</ctml:wikiDataId>
+    <ctml:latitude>39.05778000</ctml:latitude>
+    <ctml:longitude>66.83417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129911" kind="city">
+    <ctml:name>Bulung’ur</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Samarqand</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q31885663</ctml:wikiDataId>
+    <ctml:latitude>39.76472000</ctml:latitude>
+    <ctml:longitude>67.27139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129912" kind="city">
+    <ctml:name>Charxin</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Samarqand</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q31902781</ctml:wikiDataId>
+    <ctml:latitude>39.69667000</ctml:latitude>
+    <ctml:longitude>66.76861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129913" kind="city">
+    <ctml:name>Chelak</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Samarqand</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q31903050</ctml:wikiDataId>
+    <ctml:latitude>39.92028000</ctml:latitude>
+    <ctml:longitude>66.86111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129920" kind="city">
+    <ctml:name>Daxbet</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Samarqand</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q31910030</ctml:wikiDataId>
+    <ctml:latitude>39.76389000</ctml:latitude>
+    <ctml:longitude>66.91250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129935" kind="city">
+    <ctml:name>Ishtixon</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Samarqand</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q797869</ctml:wikiDataId>
+    <ctml:latitude>39.96639000</ctml:latitude>
+    <ctml:longitude>66.48611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129940" kind="city">
+    <ctml:name>Jomboy</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Samarqand</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q31928532</ctml:wikiDataId>
+    <ctml:latitude>39.69889000</ctml:latitude>
+    <ctml:longitude>67.09333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129941" kind="city">
+    <ctml:name>Juma</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Samarqand</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q892020</ctml:wikiDataId>
+    <ctml:latitude>39.71611000</ctml:latitude>
+    <ctml:longitude>66.66417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129943" kind="city">
+    <ctml:name>Kattaqo‘rg‘on</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Samarqand</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q422197</ctml:wikiDataId>
+    <ctml:latitude>39.89889000</ctml:latitude>
+    <ctml:longitude>66.25611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129972" kind="city">
+    <ctml:name>Oqtosh</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Samarqand</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q31980861</ctml:wikiDataId>
+    <ctml:latitude>39.92139000</ctml:latitude>
+    <ctml:longitude>65.92528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129977" kind="city">
+    <ctml:name>Payshanba</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Samarqand</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q6067717</ctml:wikiDataId>
+    <ctml:latitude>40.00778000</ctml:latitude>
+    <ctml:longitude>66.23694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130014" kind="city">
+    <ctml:name>Urgut</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Samarqand</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q263808</ctml:wikiDataId>
+    <ctml:latitude>39.40222000</ctml:latitude>
+    <ctml:longitude>67.24306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130003" kind="city">
+    <ctml:name>Sirdaryo</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Sirdaryo</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q500666</ctml:wikiDataId>
+    <ctml:latitude>40.84361000</ctml:latitude>
+    <ctml:longitude>68.66167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130023" kind="city">
+    <ctml:name>Yangiyer</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Sirdaryo</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q1658420</ctml:wikiDataId>
+    <ctml:latitude>40.27500000</ctml:latitude>
+    <ctml:longitude>68.82250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129906" kind="city">
+    <ctml:name>Boysun</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Surxondaryo</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q609395</ctml:wikiDataId>
+    <ctml:latitude>38.20835000</ctml:latitude>
+    <ctml:longitude>67.20664000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129921" kind="city">
+    <ctml:name>Denov</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Surxondaryo</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q1189758</ctml:wikiDataId>
+    <ctml:latitude>38.26746000</ctml:latitude>
+    <ctml:longitude>67.89886000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130002" kind="city">
+    <ctml:name>Sho‘rchi</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Surxondaryo</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q32018847</ctml:wikiDataId>
+    <ctml:latitude>37.99944000</ctml:latitude>
+    <ctml:longitude>67.78750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129901" kind="city">
+    <ctml:name>Bektemir</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TK</ctml:parentRef>
+    <ctml:wikiDataId>Q815053</ctml:wikiDataId>
+    <ctml:latitude>41.20972000</ctml:latitude>
+    <ctml:longitude>69.33417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130005" kind="city">
+    <ctml:name>Tashkent</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TK</ctml:parentRef>
+    <ctml:wikiDataId>Q269</ctml:wikiDataId>
+    <ctml:latitude>41.26465000</ctml:latitude>
+    <ctml:longitude>69.21627000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129896" kind="city">
+    <ctml:name>Angren</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q542966</ctml:wikiDataId>
+    <ctml:latitude>41.01667000</ctml:latitude>
+    <ctml:longitude>70.14361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129900" kind="city">
+    <ctml:name>Bekobod</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q815053</ctml:wikiDataId>
+    <ctml:latitude>40.22083000</ctml:latitude>
+    <ctml:longitude>69.26972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129907" kind="city">
+    <ctml:name>Bo‘ka</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q31887573</ctml:wikiDataId>
+    <ctml:latitude>40.81108000</ctml:latitude>
+    <ctml:longitude>69.19417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129914" kind="city">
+    <ctml:name>Chinoz</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q770553</ctml:wikiDataId>
+    <ctml:latitude>40.93633000</ctml:latitude>
+    <ctml:longitude>68.76128000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129915" kind="city">
+    <ctml:name>Chirchiq</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q913406</ctml:wikiDataId>
+    <ctml:latitude>41.46889000</ctml:latitude>
+    <ctml:longitude>69.58222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129930" kind="city">
+    <ctml:name>G‘azalkent</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q31919018</ctml:wikiDataId>
+    <ctml:latitude>41.55806000</ctml:latitude>
+    <ctml:longitude>69.77083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129936" kind="city">
+    <ctml:name>Iskandar</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q31923275</ctml:wikiDataId>
+    <ctml:latitude>41.55389000</ctml:latitude>
+    <ctml:longitude>69.70083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129953" kind="city">
+    <ctml:name>Kyzyldzhar</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q31937440</ctml:wikiDataId>
+    <ctml:latitude>41.56667000</ctml:latitude>
+    <ctml:longitude>70.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129966" kind="city">
+    <ctml:name>Ohangaron</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q31979770</ctml:wikiDataId>
+    <ctml:latitude>40.90639000</ctml:latitude>
+    <ctml:longitude>69.63833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129967" kind="city">
+    <ctml:name>Olmaliq</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q986429</ctml:wikiDataId>
+    <ctml:latitude>40.84472000</ctml:latitude>
+    <ctml:longitude>69.59833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129974" kind="city">
+    <ctml:name>Parkent</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q771447</ctml:wikiDataId>
+    <ctml:latitude>41.29444000</ctml:latitude>
+    <ctml:longitude>69.67639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129979" kind="city">
+    <ctml:name>Piskent</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q769846</ctml:wikiDataId>
+    <ctml:latitude>40.89722000</ctml:latitude>
+    <ctml:longitude>69.35056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129982" kind="city">
+    <ctml:name>Qibray</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q32004143</ctml:wikiDataId>
+    <ctml:latitude>41.38972000</ctml:latitude>
+    <ctml:longitude>69.46500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129994" kind="city">
+    <ctml:name>Salor</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q32014979</ctml:wikiDataId>
+    <ctml:latitude>41.37222000</ctml:latitude>
+    <ctml:longitude>69.38167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130010" kind="city">
+    <ctml:name>Tŭytepa</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q891949</ctml:wikiDataId>
+    <ctml:latitude>41.03210000</ctml:latitude>
+    <ctml:longitude>69.36253000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130028" kind="city">
+    <ctml:name>Ŭrtaowul</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q32059593</ctml:wikiDataId>
+    <ctml:latitude>41.18667000</ctml:latitude>
+    <ctml:longitude>69.14528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130020" kind="city">
+    <ctml:name>Yangiobod</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q2639854</ctml:wikiDataId>
+    <ctml:latitude>41.11919000</ctml:latitude>
+    <ctml:longitude>70.09406000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130024" kind="city">
+    <ctml:name>Yangiyŭl</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q384774</ctml:wikiDataId>
+    <ctml:latitude>41.11202000</ctml:latitude>
+    <ctml:longitude>69.04710000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130026" kind="city">
+    <ctml:name>Zafar</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Tashkent</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q32058669</ctml:wikiDataId>
+    <ctml:latitude>40.98333000</ctml:latitude>
+    <ctml:longitude>68.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129905" kind="city">
+    <ctml:name>Boghot Tumani</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Xorazm</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-XO</ctml:parentRef>
+    <ctml:wikiDataId>Q2605506</ctml:wikiDataId>
+    <ctml:latitude>41.31495000</ctml:latitude>
+    <ctml:longitude>60.85327000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129929" kind="admin2">
+    <ctml:name>Gurlan</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Xorazm</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-XO</ctml:parentRef>
+    <ctml:wikiDataId>Q3779859</ctml:wikiDataId>
+    <ctml:latitude>41.84472000</ctml:latitude>
+    <ctml:longitude>60.39194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129934" kind="admin2">
+    <ctml:name>Hazorasp</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Xorazm</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-XO</ctml:parentRef>
+    <ctml:wikiDataId>Q650394</ctml:wikiDataId>
+    <ctml:latitude>41.31944000</ctml:latitude>
+    <ctml:longitude>61.07417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-129945" kind="city">
+    <ctml:name>Khiwa</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Xorazm</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-XO</ctml:parentRef>
+    <ctml:wikiDataId>Q486195</ctml:wikiDataId>
+    <ctml:latitude>41.37833000</ctml:latitude>
+    <ctml:longitude>60.36389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UZB-129991" kind="admin2">
+    <ctml:name>Qŭshkŭpir</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Xorazm</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-XO</ctml:parentRef>
+    <ctml:wikiDataId>Q650339</ctml:wikiDataId>
+    <ctml:latitude>41.53500000</ctml:latitude>
+    <ctml:longitude>60.34556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UZB-130001" kind="city">
+    <ctml:name>Showot</ctml:name>
+    <ctml:country>UZB</ctml:country>
+    <ctml:admin1>Xorazm</ctml:admin1>
+    <ctml:parentRef>place:admin1:UZ-XO</ctml:parentRef>
+    <ctml:wikiDataId>Q650384</ctml:wikiDataId>
+    <ctml:latitude>41.65583000</ctml:latitude>
+    <ctml:longitude>60.30250000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

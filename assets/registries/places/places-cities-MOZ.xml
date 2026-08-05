@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MOZ-76595" kind="city">
+    <ctml:name>Chiure</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Cabo Delgado</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-P</ctml:parentRef>
+    <ctml:wikiDataId>Q2640763</ctml:wikiDataId>
+    <ctml:latitude>-13.46665000</ctml:latitude>
+    <ctml:longitude>39.70317000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76614" kind="city">
+    <ctml:name>Mocímboa</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Cabo Delgado</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-P</ctml:parentRef>
+    <ctml:wikiDataId>Q6484207</ctml:wikiDataId>
+    <ctml:latitude>-11.31667000</ctml:latitude>
+    <ctml:longitude>40.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76615" kind="city">
+    <ctml:name>Montepuez</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Cabo Delgado</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-P</ctml:parentRef>
+    <ctml:wikiDataId>Q1027174</ctml:wikiDataId>
+    <ctml:latitude>-13.12556000</ctml:latitude>
+    <ctml:longitude>38.99972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76592" kind="city">
+    <ctml:name>Chibuto</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Gaza</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-G</ctml:parentRef>
+    <ctml:wikiDataId>Q1011972</ctml:wikiDataId>
+    <ctml:latitude>-24.68667000</ctml:latitude>
+    <ctml:longitude>33.53056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MOZ-76596" kind="admin2">
+    <ctml:name>Chokwé</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Gaza</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-G</ctml:parentRef>
+    <ctml:wikiDataId>Q1022170</ctml:wikiDataId>
+    <ctml:latitude>-24.53333000</ctml:latitude>
+    <ctml:longitude>32.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76604" kind="city">
+    <ctml:name>Macia</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Gaza</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2653584</ctml:wikiDataId>
+    <ctml:latitude>-25.02694000</ctml:latitude>
+    <ctml:longitude>33.09889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76612" kind="city">
+    <ctml:name>Maxixe</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Inhambane</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-I</ctml:parentRef>
+    <ctml:wikiDataId>Q525118</ctml:wikiDataId>
+    <ctml:latitude>-23.85972000</ctml:latitude>
+    <ctml:longitude>35.34722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76591" kind="city">
+    <ctml:name>Boane</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Maputo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-L</ctml:parentRef>
+    <ctml:wikiDataId>Q887507</ctml:wikiDataId>
+    <ctml:latitude>-26.02900000</ctml:latitude>
+    <ctml:longitude>32.38900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76597" kind="city">
+    <ctml:name>Concelho de Matola</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Maputo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-L</ctml:parentRef>
+    <ctml:wikiDataId>Q109949</ctml:wikiDataId>
+    <ctml:latitude>-25.83472000</ctml:latitude>
+    <ctml:longitude>32.49516000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76605" kind="city">
+    <ctml:name>Magude</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Maputo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-L</ctml:parentRef>
+    <ctml:wikiDataId>Q6484234</ctml:wikiDataId>
+    <ctml:latitude>-25.02389000</ctml:latitude>
+    <ctml:longitude>32.65150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MOZ-76607" kind="admin2">
+    <ctml:name>Manhica</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Maputo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-L</ctml:parentRef>
+    <ctml:wikiDataId>Q6749343</ctml:wikiDataId>
+    <ctml:latitude>-25.34035000</ctml:latitude>
+    <ctml:longitude>32.84234000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76609" kind="city">
+    <ctml:name>Marracuene</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Maputo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-L</ctml:parentRef>
+    <ctml:wikiDataId>Q6484180</ctml:wikiDataId>
+    <ctml:latitude>-25.73938000</ctml:latitude>
+    <ctml:longitude>32.67436000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76611" kind="city">
+    <ctml:name>Matutiune</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Maputo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3852354</ctml:wikiDataId>
+    <ctml:latitude>-26.43418000</ctml:latitude>
+    <ctml:longitude>32.58820000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76613" kind="city">
+    <ctml:name>Moamba</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Maputo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-L</ctml:parentRef>
+    <ctml:wikiDataId>Q6484207</ctml:wikiDataId>
+    <ctml:latitude>-25.60934000</ctml:latitude>
+    <ctml:longitude>32.24321000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76618" kind="city">
+    <ctml:name>Namaacha</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Maputo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-L</ctml:parentRef>
+    <ctml:wikiDataId>Q6484217</ctml:wikiDataId>
+    <ctml:latitude>-26.10900000</ctml:latitude>
+    <ctml:longitude>32.18000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76623" kind="city">
+    <ctml:name>Ressano Garcia</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Maputo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-L</ctml:parentRef>
+    <ctml:wikiDataId>Q279377</ctml:wikiDataId>
+    <ctml:latitude>-25.44278000</ctml:latitude>
+    <ctml:longitude>31.99528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76602" kind="city">
+    <ctml:name>KaTembe</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Maputo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-MPM</ctml:parentRef>
+    <ctml:wikiDataId>Q18571930</ctml:wikiDataId>
+    <ctml:latitude>-26.02985000</ctml:latitude>
+    <ctml:longitude>32.53204000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76608" kind="city">
+    <ctml:name>Maputo</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Maputo</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-MPM</ctml:parentRef>
+    <ctml:wikiDataId>Q3889</ctml:wikiDataId>
+    <ctml:latitude>-25.96553000</ctml:latitude>
+    <ctml:longitude>32.58322000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76589" kind="city">
+    <ctml:name>António Enes</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Nampula</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-N</ctml:parentRef>
+    <ctml:wikiDataId>Q541656</ctml:wikiDataId>
+    <ctml:latitude>-16.23250000</ctml:latitude>
+    <ctml:longitude>39.90861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76600" kind="city">
+    <ctml:name>Ilha de Moçambique</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Nampula</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-N</ctml:parentRef>
+    <ctml:wikiDataId>Q331099</ctml:wikiDataId>
+    <ctml:latitude>-15.03417000</ctml:latitude>
+    <ctml:longitude>40.73583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76616" kind="city">
+    <ctml:name>Mutuáli</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Nampula</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1027174</ctml:wikiDataId>
+    <ctml:latitude>-14.87056000</ctml:latitude>
+    <ctml:longitude>37.00444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76617" kind="city">
+    <ctml:name>Nacala</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Nampula</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1027174</ctml:wikiDataId>
+    <ctml:latitude>-14.56257000</ctml:latitude>
+    <ctml:longitude>40.68538000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76598" kind="city">
+    <ctml:name>Cuamba</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Niassa</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-A</ctml:parentRef>
+    <ctml:wikiDataId>Q1142811</ctml:wikiDataId>
+    <ctml:latitude>-14.80306000</ctml:latitude>
+    <ctml:longitude>36.53722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76606" kind="city">
+    <ctml:name>Mandimba</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Niassa</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-A</ctml:parentRef>
+    <ctml:wikiDataId>Q6484234</ctml:wikiDataId>
+    <ctml:latitude>-14.35250000</ctml:latitude>
+    <ctml:longitude>35.65056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76599" kind="city">
+    <ctml:name>Dondo</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Sofala</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1241126</ctml:wikiDataId>
+    <ctml:latitude>-19.60944000</ctml:latitude>
+    <ctml:longitude>34.74306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76620" kind="city">
+    <ctml:name>Nhamatanda</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Sofala</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-S</ctml:parentRef>
+    <ctml:wikiDataId>Q10336659</ctml:wikiDataId>
+    <ctml:latitude>-19.34900000</ctml:latitude>
+    <ctml:longitude>34.26800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76588" kind="city">
+    <ctml:name>Alto Molócuè</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Zambezia</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-Q</ctml:parentRef>
+    <ctml:wikiDataId>Q4736799</ctml:wikiDataId>
+    <ctml:latitude>-15.64932000</ctml:latitude>
+    <ctml:longitude>37.66384000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MOZ-76594" kind="city">
+    <ctml:name>Chinde</ctml:name>
+    <ctml:country>MOZ</ctml:country>
+    <ctml:admin1>Zambezia</ctml:admin1>
+    <ctml:parentRef>place:admin1:MZ-Q</ctml:parentRef>
+    <ctml:wikiDataId>Q2261361</ctml:wikiDataId>
+    <ctml:latitude>-18.58111000</ctml:latitude>
+    <ctml:longitude>36.45861000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

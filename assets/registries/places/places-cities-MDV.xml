@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MDV-67937" kind="city">
+    <ctml:name>Meedhoo</ctml:name>
+    <ctml:country>MDV</ctml:country>
+    <ctml:admin1>Addu</ctml:admin1>
+    <ctml:parentRef>place:admin1:MV-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2599649</ctml:wikiDataId>
+    <ctml:latitude>-0.58333000</ctml:latitude>
+    <ctml:longitude>73.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDV-67928" kind="city">
+    <ctml:name>Guraidhoo</ctml:name>
+    <ctml:country>MDV</ctml:country>
+    <ctml:admin1>Kaafu</ctml:admin1>
+    <ctml:parentRef>place:admin1:MV-26</ctml:parentRef>
+    <ctml:wikiDataId>Q2060910</ctml:wikiDataId>
+    <ctml:latitude>3.90045000</ctml:latitude>
+    <ctml:longitude>73.46623000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDV-67930" kind="city">
+    <ctml:name>Hulhumale</ctml:name>
+    <ctml:country>MDV</ctml:country>
+    <ctml:admin1>Kaafu</ctml:admin1>
+    <ctml:parentRef>place:admin1:MV-26</ctml:parentRef>
+    <ctml:wikiDataId>Q1636296</ctml:wikiDataId>
+    <ctml:latitude>4.21169000</ctml:latitude>
+    <ctml:longitude>73.54008000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDV-67933" kind="city">
+    <ctml:name>Maafushi</ctml:name>
+    <ctml:country>MDV</ctml:country>
+    <ctml:admin1>Kaafu</ctml:admin1>
+    <ctml:parentRef>place:admin1:MV-26</ctml:parentRef>
+    <ctml:wikiDataId>Q3185775</ctml:wikiDataId>
+    <ctml:latitude>3.94231000</ctml:latitude>
+    <ctml:longitude>73.49070000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDV-67935" kind="city">
+    <ctml:name>Male</ctml:name>
+    <ctml:country>MDV</ctml:country>
+    <ctml:admin1>Kaafu</ctml:admin1>
+    <ctml:parentRef>place:admin1:MV-26</ctml:parentRef>
+    <ctml:wikiDataId>Q9347</ctml:wikiDataId>
+    <ctml:latitude>4.17521000</ctml:latitude>
+    <ctml:longitude>73.50916000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

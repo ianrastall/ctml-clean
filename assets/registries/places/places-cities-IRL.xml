@@ -1,0 +1,3306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:IRL-57082" kind="city">
+    <ctml:name>Athenry</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q755389</ctml:wikiDataId>
+    <ctml:latitude>53.29639000</ctml:latitude>
+    <ctml:longitude>-8.74306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57092" kind="city">
+    <ctml:name>Ballaghaderreen</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2119881</ctml:wikiDataId>
+    <ctml:latitude>53.90000000</ctml:latitude>
+    <ctml:longitude>-8.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57093" kind="city">
+    <ctml:name>Ballina</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q384721</ctml:wikiDataId>
+    <ctml:latitude>54.11667000</ctml:latitude>
+    <ctml:longitude>-9.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57095" kind="city">
+    <ctml:name>Ballinasloe</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q618056</ctml:wikiDataId>
+    <ctml:latitude>53.32750000</ctml:latitude>
+    <ctml:longitude>-8.21944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57097" kind="city">
+    <ctml:name>Ballinrobe</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q805277</ctml:wikiDataId>
+    <ctml:latitude>53.63333000</ctml:latitude>
+    <ctml:longitude>-9.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57099" kind="city">
+    <ctml:name>Ballisodare</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2672390</ctml:wikiDataId>
+    <ctml:latitude>54.21110000</ctml:latitude>
+    <ctml:longitude>-8.50865000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57107" kind="city">
+    <ctml:name>Ballyhaunis</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q427043</ctml:wikiDataId>
+    <ctml:latitude>53.76667000</ctml:latitude>
+    <ctml:longitude>-8.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57111" kind="city">
+    <ctml:name>Ballymote</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1899651</ctml:wikiDataId>
+    <ctml:latitude>54.08333000</ctml:latitude>
+    <ctml:longitude>-8.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57121" kind="city">
+    <ctml:name>Bearna</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q807001</ctml:wikiDataId>
+    <ctml:latitude>53.25194000</ctml:latitude>
+    <ctml:longitude>-9.14972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57123" kind="city">
+    <ctml:name>Belmullet</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q816116</ctml:wikiDataId>
+    <ctml:latitude>54.22500000</ctml:latitude>
+    <ctml:longitude>-9.99083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57132" kind="city">
+    <ctml:name>Boyle</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1124843</ctml:wikiDataId>
+    <ctml:latitude>53.96667000</ctml:latitude>
+    <ctml:longitude>-8.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57147" kind="admin2">
+    <ctml:name>Carrick-on-Shannon</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q589390</ctml:wikiDataId>
+    <ctml:latitude>53.94694000</ctml:latitude>
+    <ctml:longitude>-8.09000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57153" kind="admin2">
+    <ctml:name>Castlebar</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q749196</ctml:wikiDataId>
+    <ctml:latitude>53.85000000</ctml:latitude>
+    <ctml:longitude>-9.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57164" kind="city">
+    <ctml:name>Castlerea</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1049654</ctml:wikiDataId>
+    <ctml:latitude>53.76667000</ctml:latitude>
+    <ctml:longitude>-8.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57176" kind="city">
+    <ctml:name>Claregalway</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q803791</ctml:wikiDataId>
+    <ctml:latitude>53.33861000</ctml:latitude>
+    <ctml:longitude>-8.94500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57177" kind="city">
+    <ctml:name>Claremorris</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1095348</ctml:wikiDataId>
+    <ctml:latitude>53.71667000</ctml:latitude>
+    <ctml:longitude>-9.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57178" kind="city">
+    <ctml:name>Clifden</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1024913</ctml:wikiDataId>
+    <ctml:latitude>53.48907000</ctml:latitude>
+    <ctml:longitude>-10.01910000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57187" kind="city">
+    <ctml:name>Collooney</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2436580</ctml:wikiDataId>
+    <ctml:latitude>54.18333000</ctml:latitude>
+    <ctml:longitude>-8.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57197" kind="city">
+    <ctml:name>County Galway</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q169923</ctml:wikiDataId>
+    <ctml:latitude>53.33333000</ctml:latitude>
+    <ctml:longitude>-9.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57198" kind="city">
+    <ctml:name>County Leitrim</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q107397</ctml:wikiDataId>
+    <ctml:latitude>54.11667000</ctml:latitude>
+    <ctml:longitude>-8.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57204" kind="city">
+    <ctml:name>Crossmolina</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1025597</ctml:wikiDataId>
+    <ctml:latitude>54.10000000</ctml:latitude>
+    <ctml:longitude>-9.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57253" kind="city">
+    <ctml:name>Foxford</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1440225</ctml:wikiDataId>
+    <ctml:latitude>53.98070000</ctml:latitude>
+    <ctml:longitude>-9.11551000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57255" kind="city">
+    <ctml:name>Gaillimh</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q129610</ctml:wikiDataId>
+    <ctml:latitude>53.27194000</ctml:latitude>
+    <ctml:longitude>-9.04889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57259" kind="city">
+    <ctml:name>Gort</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1538454</ctml:wikiDataId>
+    <ctml:latitude>53.06639000</ctml:latitude>
+    <ctml:longitude>-8.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57267" kind="city">
+    <ctml:name>Inishcrone</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q588364</ctml:wikiDataId>
+    <ctml:latitude>54.21591000</ctml:latitude>
+    <ctml:longitude>-9.09197000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57291" kind="city">
+    <ctml:name>Kiltamagh</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1741450</ctml:wikiDataId>
+    <ctml:latitude>53.85000000</ctml:latitude>
+    <ctml:longitude>-9.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57293" kind="city">
+    <ctml:name>Kinlough</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2081777</ctml:wikiDataId>
+    <ctml:latitude>54.45000000</ctml:latitude>
+    <ctml:longitude>-8.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57310" kind="city">
+    <ctml:name>Loughrea</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1025582</ctml:wikiDataId>
+    <ctml:latitude>53.19694000</ctml:latitude>
+    <ctml:longitude>-8.56694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57318" kind="city">
+    <ctml:name>Manorhamilton</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1891064</ctml:wikiDataId>
+    <ctml:latitude>54.30639000</ctml:latitude>
+    <ctml:longitude>-8.17611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57321" kind="city">
+    <ctml:name>Mayo</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q178626</ctml:wikiDataId>
+    <ctml:latitude>53.90000000</ctml:latitude>
+    <ctml:longitude>-9.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57337" kind="city">
+    <ctml:name>Moycullen</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2668865</ctml:wikiDataId>
+    <ctml:latitude>53.33783000</ctml:latitude>
+    <ctml:longitude>-9.18002000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57356" kind="city">
+    <ctml:name>Oranmore</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1026389</ctml:wikiDataId>
+    <ctml:latitude>53.26833000</ctml:latitude>
+    <ctml:longitude>-8.92000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57357" kind="city">
+    <ctml:name>Oughterard</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1973811</ctml:wikiDataId>
+    <ctml:latitude>53.41667000</ctml:latitude>
+    <ctml:longitude>-9.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57366" kind="city">
+    <ctml:name>Portumna</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q303163</ctml:wikiDataId>
+    <ctml:latitude>53.08917000</ctml:latitude>
+    <ctml:longitude>-8.21889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57385" kind="city">
+    <ctml:name>Roscommon</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q179437</ctml:wikiDataId>
+    <ctml:latitude>53.75000000</ctml:latitude>
+    <ctml:longitude>-8.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57400" kind="city">
+    <ctml:name>Sligo</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q179325</ctml:wikiDataId>
+    <ctml:latitude>54.25000000</ctml:latitude>
+    <ctml:longitude>-8.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57404" kind="city">
+    <ctml:name>Strandhill</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q282407</ctml:wikiDataId>
+    <ctml:latitude>54.27194000</ctml:latitude>
+    <ctml:longitude>-8.59333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57406" kind="city">
+    <ctml:name>Swinford</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2038011</ctml:wikiDataId>
+    <ctml:latitude>53.95000000</ctml:latitude>
+    <ctml:longitude>-8.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57416" kind="city">
+    <ctml:name>Tobercurry</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2096512</ctml:wikiDataId>
+    <ctml:latitude>54.05000000</ctml:latitude>
+    <ctml:longitude>-8.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57421" kind="city">
+    <ctml:name>Tuam</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q996691</ctml:wikiDataId>
+    <ctml:latitude>53.51667000</ctml:latitude>
+    <ctml:longitude>-8.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57430" kind="city">
+    <ctml:name>Westport</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Connacht</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1017331</ctml:wikiDataId>
+    <ctml:latitude>53.80000000</ctml:latitude>
+    <ctml:longitude>-9.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57063" kind="city">
+    <ctml:name>Abbeyleix</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1650406</ctml:wikiDataId>
+    <ctml:latitude>52.91331000</ctml:latitude>
+    <ctml:longitude>-7.34456000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57068" kind="city">
+    <ctml:name>An Iarmhí</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q182633</ctml:wikiDataId>
+    <ctml:latitude>53.50000000</ctml:latitude>
+    <ctml:longitude>-7.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57069" kind="city">
+    <ctml:name>An Longfort</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q186220</ctml:wikiDataId>
+    <ctml:latitude>53.66667000</ctml:latitude>
+    <ctml:longitude>-7.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57070" kind="admin2">
+    <ctml:name>An Mhí</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q183544</ctml:wikiDataId>
+    <ctml:latitude>53.66667000</ctml:latitude>
+    <ctml:longitude>-6.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57071" kind="admin2">
+    <ctml:name>An Muileann gCearr</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q55308</ctml:wikiDataId>
+    <ctml:latitude>53.53333000</ctml:latitude>
+    <ctml:longitude>-7.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57072" kind="city">
+    <ctml:name>An Ros</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q55308</ctml:wikiDataId>
+    <ctml:latitude>53.52424000</ctml:latitude>
+    <ctml:longitude>-6.10497000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57074" kind="city">
+    <ctml:name>Ardee</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q638781</ctml:wikiDataId>
+    <ctml:latitude>53.85972000</ctml:latitude>
+    <ctml:longitude>-6.54056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57076" kind="city">
+    <ctml:name>Arklow</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q673662</ctml:wikiDataId>
+    <ctml:latitude>52.79306000</ctml:latitude>
+    <ctml:longitude>-6.14139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57077" kind="city">
+    <ctml:name>Artane</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2078191</ctml:wikiDataId>
+    <ctml:latitude>53.38712000</ctml:latitude>
+    <ctml:longitude>-6.21380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57078" kind="city">
+    <ctml:name>Ashbourne</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1766143</ctml:wikiDataId>
+    <ctml:latitude>53.51163000</ctml:latitude>
+    <ctml:longitude>-6.39821000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57079" kind="city">
+    <ctml:name>Ashford</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2085943</ctml:wikiDataId>
+    <ctml:latitude>53.00833000</ctml:latitude>
+    <ctml:longitude>-6.11139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57081" kind="city">
+    <ctml:name>Athboy</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q754964</ctml:wikiDataId>
+    <ctml:latitude>53.62327000</ctml:latitude>
+    <ctml:longitude>-6.91434000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57083" kind="city">
+    <ctml:name>Athgarvan</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q4072044</ctml:wikiDataId>
+    <ctml:latitude>53.15229000</ctml:latitude>
+    <ctml:longitude>-6.78173000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57084" kind="city">
+    <ctml:name>Athlone</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q4072044</ctml:wikiDataId>
+    <ctml:latitude>53.43333000</ctml:latitude>
+    <ctml:longitude>-7.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57085" kind="city">
+    <ctml:name>Athy</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q251091</ctml:wikiDataId>
+    <ctml:latitude>52.99139000</ctml:latitude>
+    <ctml:longitude>-6.98028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57086" kind="city">
+    <ctml:name>Aughrim</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2091051</ctml:wikiDataId>
+    <ctml:latitude>52.85333000</ctml:latitude>
+    <ctml:longitude>-6.32750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57087" kind="city">
+    <ctml:name>Bagenalstown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2091051</ctml:wikiDataId>
+    <ctml:latitude>52.70031000</ctml:latitude>
+    <ctml:longitude>-6.96181000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57089" kind="city">
+    <ctml:name>Balally</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q803843</ctml:wikiDataId>
+    <ctml:latitude>53.27504000</ctml:latitude>
+    <ctml:longitude>-6.23594000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57090" kind="city">
+    <ctml:name>Balbriggan</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q804704</ctml:wikiDataId>
+    <ctml:latitude>53.60846000</ctml:latitude>
+    <ctml:longitude>-6.18310000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57091" kind="city">
+    <ctml:name>Baldoyle</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2081758</ctml:wikiDataId>
+    <ctml:latitude>53.39972000</ctml:latitude>
+    <ctml:longitude>-6.12583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57096" kind="city">
+    <ctml:name>Ballinroad</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q4076790</ctml:wikiDataId>
+    <ctml:latitude>52.51789000</ctml:latitude>
+    <ctml:longitude>-6.40619000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57098" kind="city">
+    <ctml:name>Ballinteer</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2672390</ctml:wikiDataId>
+    <ctml:latitude>53.27409000</ctml:latitude>
+    <ctml:longitude>-6.25397000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57100" kind="city">
+    <ctml:name>Ballivor</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q580644</ctml:wikiDataId>
+    <ctml:latitude>53.53167000</ctml:latitude>
+    <ctml:longitude>-6.96111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57101" kind="city">
+    <ctml:name>Ballyboden</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q639941</ctml:wikiDataId>
+    <ctml:latitude>53.28056000</ctml:latitude>
+    <ctml:longitude>-6.31639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57105" kind="city">
+    <ctml:name>Ballyfermot</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q617008</ctml:wikiDataId>
+    <ctml:latitude>53.34283000</ctml:latitude>
+    <ctml:longitude>-6.35480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57106" kind="city">
+    <ctml:name>Ballygerry</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q617008</ctml:wikiDataId>
+    <ctml:latitude>52.24917000</ctml:latitude>
+    <ctml:longitude>-6.35739000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57109" kind="city">
+    <ctml:name>Ballylinan</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2083732</ctml:wikiDataId>
+    <ctml:latitude>52.94497000</ctml:latitude>
+    <ctml:longitude>-7.04073000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57110" kind="city">
+    <ctml:name>Ballymahon</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q805419</ctml:wikiDataId>
+    <ctml:latitude>53.56667000</ctml:latitude>
+    <ctml:longitude>-7.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57112" kind="city">
+    <ctml:name>Ballymun</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2563240</ctml:wikiDataId>
+    <ctml:latitude>53.39807000</ctml:latitude>
+    <ctml:longitude>-6.26693000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57113" kind="city">
+    <ctml:name>Ballyragget</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2119844</ctml:wikiDataId>
+    <ctml:latitude>52.78889000</ctml:latitude>
+    <ctml:longitude>-7.33028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57115" kind="city">
+    <ctml:name>Balrothery</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3633502</ctml:wikiDataId>
+    <ctml:latitude>53.58828000</ctml:latitude>
+    <ctml:longitude>-6.18728000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57116" kind="city">
+    <ctml:name>Baltinglass</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q805765</ctml:wikiDataId>
+    <ctml:latitude>52.93722000</ctml:latitude>
+    <ctml:longitude>-6.70917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57117" kind="city">
+    <ctml:name>Banagher</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2282869</ctml:wikiDataId>
+    <ctml:latitude>53.18861000</ctml:latitude>
+    <ctml:longitude>-7.98667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57120" kind="city">
+    <ctml:name>Bayside</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q807001</ctml:wikiDataId>
+    <ctml:latitude>53.38895000</ctml:latitude>
+    <ctml:longitude>-6.14041000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57122" kind="city">
+    <ctml:name>Beaumont</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3776934</ctml:wikiDataId>
+    <ctml:latitude>53.38721000</ctml:latitude>
+    <ctml:longitude>-6.22713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57125" kind="city">
+    <ctml:name>Birr</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q865849</ctml:wikiDataId>
+    <ctml:latitude>53.09139000</ctml:latitude>
+    <ctml:longitude>-7.91333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57126" kind="city">
+    <ctml:name>Blackrock</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2448591</ctml:wikiDataId>
+    <ctml:latitude>53.30150000</ctml:latitude>
+    <ctml:longitude>-6.17780000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57127" kind="city">
+    <ctml:name>Blanchardstown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q496387</ctml:wikiDataId>
+    <ctml:latitude>53.38806000</ctml:latitude>
+    <ctml:longitude>-6.37556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57129" kind="city">
+    <ctml:name>Blessington</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q883912</ctml:wikiDataId>
+    <ctml:latitude>53.17000000</ctml:latitude>
+    <ctml:longitude>-6.53250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57130" kind="city">
+    <ctml:name>Bonnybrook</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q883912</ctml:wikiDataId>
+    <ctml:latitude>53.39835000</ctml:latitude>
+    <ctml:longitude>-6.20749000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57131" kind="city">
+    <ctml:name>Booterstown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q893125</ctml:wikiDataId>
+    <ctml:latitude>53.30447000</ctml:latitude>
+    <ctml:longitude>-6.19985000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57133" kind="city">
+    <ctml:name>Bray</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q652000</ctml:wikiDataId>
+    <ctml:latitude>53.20278000</ctml:latitude>
+    <ctml:longitude>-6.09833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57134" kind="city">
+    <ctml:name>Bunclody</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1004970</ctml:wikiDataId>
+    <ctml:latitude>52.65530000</ctml:latitude>
+    <ctml:longitude>-6.65359000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57137" kind="city">
+    <ctml:name>Cabinteely</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1024858</ctml:wikiDataId>
+    <ctml:latitude>53.26973000</ctml:latitude>
+    <ctml:longitude>-6.16058000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57138" kind="city">
+    <ctml:name>Cabra</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2088319</ctml:wikiDataId>
+    <ctml:latitude>53.36694000</ctml:latitude>
+    <ctml:longitude>-6.29444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57142" kind="city">
+    <ctml:name>Callan</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1027150</ctml:wikiDataId>
+    <ctml:latitude>52.54500000</ctml:latitude>
+    <ctml:longitude>-7.39111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57143" kind="city">
+    <ctml:name>Carlingford</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2669915</ctml:wikiDataId>
+    <ctml:latitude>54.04000000</ctml:latitude>
+    <ctml:longitude>-6.18833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57144" kind="admin2">
+    <ctml:name>Carlow</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2669915</ctml:wikiDataId>
+    <ctml:latitude>52.84083000</ctml:latitude>
+    <ctml:longitude>-6.92611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57146" kind="city">
+    <ctml:name>Carnew</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2091085</ctml:wikiDataId>
+    <ctml:latitude>52.70806000</ctml:latitude>
+    <ctml:longitude>-6.49444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57154" kind="city">
+    <ctml:name>Castlebellingham</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q5050462</ctml:wikiDataId>
+    <ctml:latitude>53.90083000</ctml:latitude>
+    <ctml:longitude>-6.39028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57156" kind="city">
+    <ctml:name>Castlebridge</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2566446</ctml:wikiDataId>
+    <ctml:latitude>52.38639000</ctml:latitude>
+    <ctml:longitude>-6.44944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57157" kind="city">
+    <ctml:name>Castlecomer</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1954436</ctml:wikiDataId>
+    <ctml:latitude>52.80611000</ctml:latitude>
+    <ctml:longitude>-7.21056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57159" kind="city">
+    <ctml:name>Castledermot</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q431523</ctml:wikiDataId>
+    <ctml:latitude>52.90889000</ctml:latitude>
+    <ctml:longitude>-6.84222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57161" kind="city">
+    <ctml:name>Castleknock</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1049641</ctml:wikiDataId>
+    <ctml:latitude>53.37483000</ctml:latitude>
+    <ctml:longitude>-6.36336000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57163" kind="city">
+    <ctml:name>Castlepollard</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1049648</ctml:wikiDataId>
+    <ctml:latitude>53.67935000</ctml:latitude>
+    <ctml:longitude>-7.29736000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57165" kind="city">
+    <ctml:name>Castletown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q4216664</ctml:wikiDataId>
+    <ctml:latitude>52.72306000</ctml:latitude>
+    <ctml:longitude>-6.18944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57167" kind="city">
+    <ctml:name>Celbridge</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q629881</ctml:wikiDataId>
+    <ctml:latitude>53.34165000</ctml:latitude>
+    <ctml:longitude>-6.54419000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57168" kind="city">
+    <ctml:name>Chapelizod</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2090973</ctml:wikiDataId>
+    <ctml:latitude>53.34846000</ctml:latitude>
+    <ctml:longitude>-6.34301000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57169" kind="city">
+    <ctml:name>Charlesland</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q4507407</ctml:wikiDataId>
+    <ctml:latitude>53.12771000</ctml:latitude>
+    <ctml:longitude>-6.06347000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57170" kind="city">
+    <ctml:name>Cherry Orchard</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q4507407</ctml:wikiDataId>
+    <ctml:latitude>53.33605000</ctml:latitude>
+    <ctml:longitude>-6.37799000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57171" kind="city">
+    <ctml:name>Cherryville</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q4507407</ctml:wikiDataId>
+    <ctml:latitude>53.15694000</ctml:latitude>
+    <ctml:longitude>-6.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57174" kind="city">
+    <ctml:name>Clane</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q632020</ctml:wikiDataId>
+    <ctml:latitude>53.29139000</ctml:latitude>
+    <ctml:longitude>-6.68917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57175" kind="city">
+    <ctml:name>Clara</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q5953835</ctml:wikiDataId>
+    <ctml:latitude>53.34250000</ctml:latitude>
+    <ctml:longitude>-7.61389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57179" kind="city">
+    <ctml:name>Clogherhead</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q511843</ctml:wikiDataId>
+    <ctml:latitude>53.79361000</ctml:latitude>
+    <ctml:longitude>-6.23750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57181" kind="city">
+    <ctml:name>Clondalkin</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1102232</ctml:wikiDataId>
+    <ctml:latitude>53.32444000</ctml:latitude>
+    <ctml:longitude>-6.39722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57183" kind="city">
+    <ctml:name>Clonskeagh</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2567721</ctml:wikiDataId>
+    <ctml:latitude>53.31467000</ctml:latitude>
+    <ctml:longitude>-6.23148000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57188" kind="city">
+    <ctml:name>Confey</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2436580</ctml:wikiDataId>
+    <ctml:latitude>53.37923000</ctml:latitude>
+    <ctml:longitude>-6.49052000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57190" kind="city">
+    <ctml:name>Coolock</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q680518</ctml:wikiDataId>
+    <ctml:latitude>53.38870000</ctml:latitude>
+    <ctml:longitude>-6.19998000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57194" kind="city">
+    <ctml:name>County Carlow</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q181882</ctml:wikiDataId>
+    <ctml:latitude>52.66667000</ctml:latitude>
+    <ctml:longitude>-6.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57201" kind="city">
+    <ctml:name>Courtown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2084249</ctml:wikiDataId>
+    <ctml:latitude>52.64424000</ctml:latitude>
+    <ctml:longitude>-6.22899000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57205" kind="city">
+    <ctml:name>Crumlin</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q4237564</ctml:wikiDataId>
+    <ctml:latitude>53.32154000</ctml:latitude>
+    <ctml:longitude>-6.31439000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57206" kind="city">
+    <ctml:name>Daingean</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2475540</ctml:wikiDataId>
+    <ctml:latitude>53.29611000</ctml:latitude>
+    <ctml:longitude>-7.28944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57207" kind="city">
+    <ctml:name>Dalkey</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q659895</ctml:wikiDataId>
+    <ctml:latitude>53.27833000</ctml:latitude>
+    <ctml:longitude>-6.10028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57208" kind="city">
+    <ctml:name>Darndale</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3775682</ctml:wikiDataId>
+    <ctml:latitude>53.39948000</ctml:latitude>
+    <ctml:longitude>-6.18886000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57209" kind="city">
+    <ctml:name>Derrinturn</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q682928</ctml:wikiDataId>
+    <ctml:latitude>53.34167000</ctml:latitude>
+    <ctml:longitude>-6.94111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57213" kind="city">
+    <ctml:name>Dollymount</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3776848</ctml:wikiDataId>
+    <ctml:latitude>53.36489000</ctml:latitude>
+    <ctml:longitude>-6.18032000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57214" kind="city">
+    <ctml:name>Donabate</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2321041</ctml:wikiDataId>
+    <ctml:latitude>53.48722000</ctml:latitude>
+    <ctml:longitude>-6.15194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57215" kind="city">
+    <ctml:name>Donaghmede</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3776889</ctml:wikiDataId>
+    <ctml:latitude>53.39845000</ctml:latitude>
+    <ctml:longitude>-6.16179000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57217" kind="city">
+    <ctml:name>Donnybrook</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3776296</ctml:wikiDataId>
+    <ctml:latitude>53.31375000</ctml:latitude>
+    <ctml:longitude>-6.22274000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57218" kind="city">
+    <ctml:name>Donnycarney</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q925282</ctml:wikiDataId>
+    <ctml:latitude>53.37350000</ctml:latitude>
+    <ctml:longitude>-6.20976000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57219" kind="city">
+    <ctml:name>Drogheda</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q207223</ctml:wikiDataId>
+    <ctml:latitude>53.71889000</ctml:latitude>
+    <ctml:longitude>-6.34778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57220" kind="city">
+    <ctml:name>Droichead Nua</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q958397</ctml:wikiDataId>
+    <ctml:latitude>53.18194000</ctml:latitude>
+    <ctml:longitude>-6.79667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57221" kind="city">
+    <ctml:name>Dromiskin</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q4168536</ctml:wikiDataId>
+    <ctml:latitude>53.92538000</ctml:latitude>
+    <ctml:longitude>-6.40292000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57222" kind="city">
+    <ctml:name>Drumcondra</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1261255</ctml:wikiDataId>
+    <ctml:latitude>53.37058000</ctml:latitude>
+    <ctml:longitude>-6.25298000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57223" kind="city">
+    <ctml:name>Dublin</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1761</ctml:wikiDataId>
+    <ctml:latitude>53.33306000</ctml:latitude>
+    <ctml:longitude>-6.24889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57225" kind="city">
+    <ctml:name>Duleek</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q765703</ctml:wikiDataId>
+    <ctml:latitude>53.65667000</ctml:latitude>
+    <ctml:longitude>-6.41917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57236" kind="city">
+    <ctml:name>Dún Laoghaire</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q745989</ctml:wikiDataId>
+    <ctml:latitude>53.29395000</ctml:latitude>
+    <ctml:longitude>-6.13586000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57237" kind="city">
+    <ctml:name>Dún Laoghaire-Rathdown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q538417</ctml:wikiDataId>
+    <ctml:latitude>53.29436000</ctml:latitude>
+    <ctml:longitude>-6.13489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57226" kind="city">
+    <ctml:name>Dunboyne</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1012505</ctml:wikiDataId>
+    <ctml:latitude>53.41901000</ctml:latitude>
+    <ctml:longitude>-6.47375000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57227" kind="admin2">
+    <ctml:name>Dundalk</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q204956</ctml:wikiDataId>
+    <ctml:latitude>54.00000000</ctml:latitude>
+    <ctml:longitude>-6.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57228" kind="city">
+    <ctml:name>Dundrum</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2446861</ctml:wikiDataId>
+    <ctml:latitude>53.29067000</ctml:latitude>
+    <ctml:longitude>-6.25714000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57231" kind="city">
+    <ctml:name>Dunleer</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1265808</ctml:wikiDataId>
+    <ctml:latitude>53.83500000</ctml:latitude>
+    <ctml:longitude>-6.39611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57235" kind="city">
+    <ctml:name>Dunshaughlin</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q267293</ctml:wikiDataId>
+    <ctml:latitude>53.51250000</ctml:latitude>
+    <ctml:longitude>-6.54000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57238" kind="city">
+    <ctml:name>Eadestown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q538417</ctml:wikiDataId>
+    <ctml:latitude>53.20278000</ctml:latitude>
+    <ctml:longitude>-6.57806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57239" kind="city">
+    <ctml:name>Edenderry</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1016311</ctml:wikiDataId>
+    <ctml:latitude>53.33948000</ctml:latitude>
+    <ctml:longitude>-7.04752000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57240" kind="city">
+    <ctml:name>Edgeworthstown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2668583</ctml:wikiDataId>
+    <ctml:latitude>53.70000000</ctml:latitude>
+    <ctml:longitude>-7.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57241" kind="city">
+    <ctml:name>Enfield</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q392078</ctml:wikiDataId>
+    <ctml:latitude>53.41419000</ctml:latitude>
+    <ctml:longitude>-6.83229000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57243" kind="city">
+    <ctml:name>Enniscorthy</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q987759</ctml:wikiDataId>
+    <ctml:latitude>52.50083000</ctml:latitude>
+    <ctml:longitude>-6.55778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57244" kind="city">
+    <ctml:name>Enniskerry</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1343440</ctml:wikiDataId>
+    <ctml:latitude>53.19250000</ctml:latitude>
+    <ctml:longitude>-6.16917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57245" kind="city">
+    <ctml:name>Fairview</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q434921</ctml:wikiDataId>
+    <ctml:latitude>53.36597000</ctml:latitude>
+    <ctml:longitude>-6.23985000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57246" kind="city">
+    <ctml:name>Ferbane</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2628475</ctml:wikiDataId>
+    <ctml:latitude>53.26944000</ctml:latitude>
+    <ctml:longitude>-7.82694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57248" kind="city">
+    <ctml:name>Ferns</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2096277</ctml:wikiDataId>
+    <ctml:latitude>52.58833000</ctml:latitude>
+    <ctml:longitude>-6.49972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57250" kind="city">
+    <ctml:name>Fingal</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q520000</ctml:wikiDataId>
+    <ctml:latitude>53.45909000</ctml:latitude>
+    <ctml:longitude>-6.21942000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57251" kind="city">
+    <ctml:name>Finglas</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2092179</ctml:wikiDataId>
+    <ctml:latitude>53.38917000</ctml:latitude>
+    <ctml:longitude>-6.29694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57252" kind="city">
+    <ctml:name>Firhouse</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2563252</ctml:wikiDataId>
+    <ctml:latitude>53.28167000</ctml:latitude>
+    <ctml:longitude>-6.33917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57254" kind="city">
+    <ctml:name>Foxrock</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1843815</ctml:wikiDataId>
+    <ctml:latitude>53.26667000</ctml:latitude>
+    <ctml:longitude>-6.17417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57257" kind="city">
+    <ctml:name>Glasnevin</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2021986</ctml:wikiDataId>
+    <ctml:latitude>53.37851000</ctml:latitude>
+    <ctml:longitude>-6.28028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57258" kind="city">
+    <ctml:name>Gorey</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1004664</ctml:wikiDataId>
+    <ctml:latitude>52.67472000</ctml:latitude>
+    <ctml:longitude>-6.29250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57260" kind="city">
+    <ctml:name>Graiguenamanagh</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1114609</ctml:wikiDataId>
+    <ctml:latitude>52.54028000</ctml:latitude>
+    <ctml:longitude>-6.95472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57261" kind="city">
+    <ctml:name>Granard</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q946060</ctml:wikiDataId>
+    <ctml:latitude>53.77928000</ctml:latitude>
+    <ctml:longitude>-7.49429000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57262" kind="city">
+    <ctml:name>Greenhills</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3776008</ctml:wikiDataId>
+    <ctml:latitude>53.33467000</ctml:latitude>
+    <ctml:longitude>-6.30302000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57263" kind="city">
+    <ctml:name>Greystones</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q938017</ctml:wikiDataId>
+    <ctml:latitude>53.14083000</ctml:latitude>
+    <ctml:longitude>-6.06306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57265" kind="city">
+    <ctml:name>Hartstown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q693164</ctml:wikiDataId>
+    <ctml:latitude>53.39306000</ctml:latitude>
+    <ctml:longitude>-6.42694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57266" kind="city">
+    <ctml:name>Howth</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q434165</ctml:wikiDataId>
+    <ctml:latitude>53.38778000</ctml:latitude>
+    <ctml:longitude>-6.06528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57268" kind="city">
+    <ctml:name>Jobstown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3777969</ctml:wikiDataId>
+    <ctml:latitude>53.27866000</ctml:latitude>
+    <ctml:longitude>-6.40803000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57269" kind="city">
+    <ctml:name>Johnstown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3777969</ctml:wikiDataId>
+    <ctml:latitude>53.23833000</ctml:latitude>
+    <ctml:longitude>-6.62222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57271" kind="city">
+    <ctml:name>Kells</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q917848</ctml:wikiDataId>
+    <ctml:latitude>53.72639000</ctml:latitude>
+    <ctml:longitude>-6.87917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57273" kind="city">
+    <ctml:name>Kentstown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2081233</ctml:wikiDataId>
+    <ctml:latitude>53.62754000</ctml:latitude>
+    <ctml:longitude>-6.52674000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57274" kind="city">
+    <ctml:name>Kilbeggan</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q68364</ctml:wikiDataId>
+    <ctml:latitude>53.36944000</ctml:latitude>
+    <ctml:longitude>-7.50333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57275" kind="city">
+    <ctml:name>Kilcock</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2269522</ctml:wikiDataId>
+    <ctml:latitude>53.40222000</ctml:latitude>
+    <ctml:longitude>-6.67083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57276" kind="city">
+    <ctml:name>Kilcoole</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2437185</ctml:wikiDataId>
+    <ctml:latitude>53.10278000</ctml:latitude>
+    <ctml:longitude>-6.06500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57277" kind="city">
+    <ctml:name>Kilcullen</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2669870</ctml:wikiDataId>
+    <ctml:latitude>53.13028000</ctml:latitude>
+    <ctml:longitude>-6.74444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57278" kind="city">
+    <ctml:name>Kildare</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q173332</ctml:wikiDataId>
+    <ctml:latitude>53.16667000</ctml:latitude>
+    <ctml:longitude>-6.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57279" kind="admin2">
+    <ctml:name>Kilkenny</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q109092</ctml:wikiDataId>
+    <ctml:latitude>52.58333000</ctml:latitude>
+    <ctml:longitude>-7.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57280" kind="city">
+    <ctml:name>Kill</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2084287</ctml:wikiDataId>
+    <ctml:latitude>53.25139000</ctml:latitude>
+    <ctml:longitude>-6.59167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57282" kind="city">
+    <ctml:name>Killester</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3776938</ctml:wikiDataId>
+    <ctml:latitude>53.37322000</ctml:latitude>
+    <ctml:longitude>-6.20431000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57286" kind="city">
+    <ctml:name>Kilmacanoge</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1741405</ctml:wikiDataId>
+    <ctml:latitude>53.16722000</ctml:latitude>
+    <ctml:longitude>-6.13361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57288" kind="city">
+    <ctml:name>Kilpedder</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3777995</ctml:wikiDataId>
+    <ctml:latitude>53.10917000</ctml:latitude>
+    <ctml:longitude>-6.10667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57289" kind="city">
+    <ctml:name>Kilquade</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3777995</ctml:wikiDataId>
+    <ctml:latitude>53.09743000</ctml:latitude>
+    <ctml:longitude>-6.08411000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57294" kind="city">
+    <ctml:name>Kinnegad</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1026371</ctml:wikiDataId>
+    <ctml:latitude>53.45222000</ctml:latitude>
+    <ctml:longitude>-7.09972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57296" kind="city">
+    <ctml:name>Kinsealy-Drinan</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q840681</ctml:wikiDataId>
+    <ctml:latitude>53.44395000</ctml:latitude>
+    <ctml:longitude>-6.20334000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57297" kind="city">
+    <ctml:name>Knocklyon</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3776377</ctml:wikiDataId>
+    <ctml:latitude>53.28030000</ctml:latitude>
+    <ctml:longitude>-6.33130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57298" kind="city">
+    <ctml:name>Lanesborough</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3776017</ctml:wikiDataId>
+    <ctml:latitude>53.66667000</ctml:latitude>
+    <ctml:longitude>-7.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57299" kind="city">
+    <ctml:name>Laois</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q55299</ctml:wikiDataId>
+    <ctml:latitude>53.00000000</ctml:latitude>
+    <ctml:longitude>-7.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57300" kind="city">
+    <ctml:name>Laytown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1902456</ctml:wikiDataId>
+    <ctml:latitude>53.68194000</ctml:latitude>
+    <ctml:longitude>-6.23917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57302" kind="city">
+    <ctml:name>Leixlip</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q987797</ctml:wikiDataId>
+    <ctml:latitude>53.36583000</ctml:latitude>
+    <ctml:longitude>-6.49556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57305" kind="city">
+    <ctml:name>Little Bray</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q952497</ctml:wikiDataId>
+    <ctml:latitude>53.20444000</ctml:latitude>
+    <ctml:longitude>-6.12083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57306" kind="city">
+    <ctml:name>Loch Garman</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q184599</ctml:wikiDataId>
+    <ctml:latitude>52.50000000</ctml:latitude>
+    <ctml:longitude>-6.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57307" kind="admin2">
+    <ctml:name>Longford</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q184599</ctml:wikiDataId>
+    <ctml:latitude>53.72536000</ctml:latitude>
+    <ctml:longitude>-7.79823000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57308" kind="city">
+    <ctml:name>Longwood</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2081830</ctml:wikiDataId>
+    <ctml:latitude>53.45389000</ctml:latitude>
+    <ctml:longitude>-6.92194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57309" kind="city">
+    <ctml:name>Loughlinstown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3775830</ctml:wikiDataId>
+    <ctml:latitude>53.24389000</ctml:latitude>
+    <ctml:longitude>-6.13306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57314" kind="city">
+    <ctml:name>Lú</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q183539</ctml:wikiDataId>
+    <ctml:latitude>53.83333000</ctml:latitude>
+    <ctml:longitude>-6.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57311" kind="city">
+    <ctml:name>Lucan</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1798906</ctml:wikiDataId>
+    <ctml:latitude>53.35736000</ctml:latitude>
+    <ctml:longitude>-6.44859000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57313" kind="city">
+    <ctml:name>Lusk</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2571738</ctml:wikiDataId>
+    <ctml:latitude>53.52743000</ctml:latitude>
+    <ctml:longitude>-6.16423000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57316" kind="city">
+    <ctml:name>Malahide</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q987748</ctml:wikiDataId>
+    <ctml:latitude>53.45083000</ctml:latitude>
+    <ctml:longitude>-6.15444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57319" kind="city">
+    <ctml:name>Marino</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3776706</ctml:wikiDataId>
+    <ctml:latitude>53.37022000</ctml:latitude>
+    <ctml:longitude>-6.23646000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57320" kind="city">
+    <ctml:name>Maynooth</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q750265</ctml:wikiDataId>
+    <ctml:latitude>53.38500000</ctml:latitude>
+    <ctml:longitude>-6.59361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57324" kind="city">
+    <ctml:name>Milltown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2566830</ctml:wikiDataId>
+    <ctml:latitude>53.31301000</ctml:latitude>
+    <ctml:longitude>-6.24530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57326" kind="city">
+    <ctml:name>Moate</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1972395</ctml:wikiDataId>
+    <ctml:latitude>53.39389000</ctml:latitude>
+    <ctml:longitude>-7.71722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57328" kind="city">
+    <ctml:name>Monasterevin</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q522012</ctml:wikiDataId>
+    <ctml:latitude>53.14056000</ctml:latitude>
+    <ctml:longitude>-7.06639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57329" kind="city">
+    <ctml:name>Monkstown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2088328</ctml:wikiDataId>
+    <ctml:latitude>53.29308000</ctml:latitude>
+    <ctml:longitude>-6.15312000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57330" kind="city">
+    <ctml:name>Mooncoin</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3776881</ctml:wikiDataId>
+    <ctml:latitude>52.28944000</ctml:latitude>
+    <ctml:longitude>-7.24833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57331" kind="city">
+    <ctml:name>Moone</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q4307059</ctml:wikiDataId>
+    <ctml:latitude>52.97556000</ctml:latitude>
+    <ctml:longitude>-6.81500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57333" kind="city">
+    <ctml:name>Mount Merrion</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3776287</ctml:wikiDataId>
+    <ctml:latitude>53.30008000</ctml:latitude>
+    <ctml:longitude>-6.21504000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57334" kind="city">
+    <ctml:name>Mountmellick</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2014190</ctml:wikiDataId>
+    <ctml:latitude>53.11361000</ctml:latitude>
+    <ctml:longitude>-7.32000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57335" kind="city">
+    <ctml:name>Mountrath</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2083030</ctml:wikiDataId>
+    <ctml:latitude>52.99889000</ctml:latitude>
+    <ctml:longitude>-7.47278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57341" kind="admin2">
+    <ctml:name>Naas</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q216038</ctml:wikiDataId>
+    <ctml:latitude>53.21583000</ctml:latitude>
+    <ctml:longitude>-6.66694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57342" kind="admin2">
+    <ctml:name>Navan</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q217845</ctml:wikiDataId>
+    <ctml:latitude>53.65278000</ctml:latitude>
+    <ctml:longitude>-6.68139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57345" kind="city">
+    <ctml:name>New Ross</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1016292</ctml:wikiDataId>
+    <ctml:latitude>52.39667000</ctml:latitude>
+    <ctml:longitude>-6.93667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57346" kind="city">
+    <ctml:name>Newcastle</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1016292</ctml:wikiDataId>
+    <ctml:latitude>53.30111000</ctml:latitude>
+    <ctml:longitude>-6.50222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57351" kind="city">
+    <ctml:name>Newtown Trim</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2566352</ctml:wikiDataId>
+    <ctml:latitude>53.55611000</ctml:latitude>
+    <ctml:longitude>-6.77000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57352" kind="city">
+    <ctml:name>Newtownmountkennedy</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1893671</ctml:wikiDataId>
+    <ctml:latitude>53.09052000</ctml:latitude>
+    <ctml:longitude>-6.11149000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57353" kind="city">
+    <ctml:name>Old Kilcullen</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q14911694</ctml:wikiDataId>
+    <ctml:latitude>53.10639000</ctml:latitude>
+    <ctml:longitude>-6.76528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57354" kind="city">
+    <ctml:name>Oldbawn</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q14911694</ctml:wikiDataId>
+    <ctml:latitude>53.27556000</ctml:latitude>
+    <ctml:longitude>-6.36750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57355" kind="city">
+    <ctml:name>Oldcastle</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q269623</ctml:wikiDataId>
+    <ctml:latitude>53.76648000</ctml:latitude>
+    <ctml:longitude>-7.16284000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57358" kind="city">
+    <ctml:name>Palmerstown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2668594</ctml:wikiDataId>
+    <ctml:latitude>53.35019000</ctml:latitude>
+    <ctml:longitude>-6.37778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57360" kind="city">
+    <ctml:name>Piltown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3777986</ctml:wikiDataId>
+    <ctml:latitude>52.35333000</ctml:latitude>
+    <ctml:longitude>-7.34028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57361" kind="city">
+    <ctml:name>Portarlington</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1989246</ctml:wikiDataId>
+    <ctml:latitude>53.16222000</ctml:latitude>
+    <ctml:longitude>-7.19111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57362" kind="admin2">
+    <ctml:name>Portlaoise</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q822871</ctml:wikiDataId>
+    <ctml:latitude>53.03441000</ctml:latitude>
+    <ctml:longitude>-7.29979000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57364" kind="city">
+    <ctml:name>Portmarnock</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q610995</ctml:wikiDataId>
+    <ctml:latitude>53.42306000</ctml:latitude>
+    <ctml:longitude>-6.13750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57365" kind="city">
+    <ctml:name>Portraine</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q610995</ctml:wikiDataId>
+    <ctml:latitude>53.49667000</ctml:latitude>
+    <ctml:longitude>-6.11111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57367" kind="city">
+    <ctml:name>Prosperous</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2528850</ctml:wikiDataId>
+    <ctml:latitude>53.29028000</ctml:latitude>
+    <ctml:longitude>-6.75389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57368" kind="city">
+    <ctml:name>Raheny</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q969296</ctml:wikiDataId>
+    <ctml:latitude>53.38681000</ctml:latitude>
+    <ctml:longitude>-6.18067000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57371" kind="city">
+    <ctml:name>Rathangan</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2346757</ctml:wikiDataId>
+    <ctml:latitude>53.22139000</ctml:latitude>
+    <ctml:longitude>-6.99500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57372" kind="city">
+    <ctml:name>Rathcoole</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2639401</ctml:wikiDataId>
+    <ctml:latitude>53.28278000</ctml:latitude>
+    <ctml:longitude>-6.47278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57374" kind="city">
+    <ctml:name>Rathdowney</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2566185</ctml:wikiDataId>
+    <ctml:latitude>52.85472000</ctml:latitude>
+    <ctml:longitude>-7.58028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57375" kind="city">
+    <ctml:name>Rathdrum</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2333424</ctml:wikiDataId>
+    <ctml:latitude>52.92639000</ctml:latitude>
+    <ctml:longitude>-6.23556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57376" kind="city">
+    <ctml:name>Rathgar</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2528857</ctml:wikiDataId>
+    <ctml:latitude>53.31457000</ctml:latitude>
+    <ctml:longitude>-6.27500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57378" kind="city">
+    <ctml:name>Rathmines</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2672384</ctml:wikiDataId>
+    <ctml:latitude>53.32028000</ctml:latitude>
+    <ctml:longitude>-6.26333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57379" kind="city">
+    <ctml:name>Rathnew</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2244788</ctml:wikiDataId>
+    <ctml:latitude>52.99056000</ctml:latitude>
+    <ctml:longitude>-6.08528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57380" kind="city">
+    <ctml:name>Rathwire</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2244788</ctml:wikiDataId>
+    <ctml:latitude>53.50767000</ctml:latitude>
+    <ctml:longitude>-7.13510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57381" kind="city">
+    <ctml:name>Ratoath</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1016286</ctml:wikiDataId>
+    <ctml:latitude>53.50806000</ctml:latitude>
+    <ctml:longitude>-6.46250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57382" kind="city">
+    <ctml:name>Rialto</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q7322133</ctml:wikiDataId>
+    <ctml:latitude>53.33625000</ctml:latitude>
+    <ctml:longitude>-6.29718000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57383" kind="city">
+    <ctml:name>Ringsend</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2090989</ctml:wikiDataId>
+    <ctml:latitude>53.34194000</ctml:latitude>
+    <ctml:longitude>-6.22639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57384" kind="city">
+    <ctml:name>Rochfortbridge</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2084537</ctml:wikiDataId>
+    <ctml:latitude>53.41417000</ctml:latitude>
+    <ctml:longitude>-7.29611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57387" kind="city">
+    <ctml:name>Rosslare</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1003178</ctml:wikiDataId>
+    <ctml:latitude>52.27583000</ctml:latitude>
+    <ctml:longitude>-6.38444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57389" kind="city">
+    <ctml:name>Saggart</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2639382</ctml:wikiDataId>
+    <ctml:latitude>53.28028000</ctml:latitude>
+    <ctml:longitude>-6.44444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57390" kind="city">
+    <ctml:name>Sallins</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2297381</ctml:wikiDataId>
+    <ctml:latitude>53.24889000</ctml:latitude>
+    <ctml:longitude>-6.66611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57391" kind="city">
+    <ctml:name>Sallynoggin</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3775672</ctml:wikiDataId>
+    <ctml:latitude>53.27917000</ctml:latitude>
+    <ctml:longitude>-6.14058000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57392" kind="city">
+    <ctml:name>Sandyford</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2566728</ctml:wikiDataId>
+    <ctml:latitude>53.27470000</ctml:latitude>
+    <ctml:longitude>-6.22530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57393" kind="city">
+    <ctml:name>Sandymount</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q966849</ctml:wikiDataId>
+    <ctml:latitude>53.32815000</ctml:latitude>
+    <ctml:longitude>-6.22224000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57394" kind="city">
+    <ctml:name>Shankill</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2588702</ctml:wikiDataId>
+    <ctml:latitude>53.22611000</ctml:latitude>
+    <ctml:longitude>-6.12444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57397" kind="city">
+    <ctml:name>Skerries</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2268677</ctml:wikiDataId>
+    <ctml:latitude>53.58278000</ctml:latitude>
+    <ctml:longitude>-6.10833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57399" kind="city">
+    <ctml:name>Slane</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1778869</ctml:wikiDataId>
+    <ctml:latitude>53.71000000</ctml:latitude>
+    <ctml:longitude>-6.54333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57401" kind="city">
+    <ctml:name>South Dublin</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q822865</ctml:wikiDataId>
+    <ctml:latitude>53.28595000</ctml:latitude>
+    <ctml:longitude>-6.37739000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57402" kind="city">
+    <ctml:name>Stamullin</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q822865</ctml:wikiDataId>
+    <ctml:latitude>53.62889000</ctml:latitude>
+    <ctml:longitude>-6.26833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57403" kind="city">
+    <ctml:name>Stradbally</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2672393</ctml:wikiDataId>
+    <ctml:latitude>53.01556000</ctml:latitude>
+    <ctml:longitude>-7.15278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57405" kind="city">
+    <ctml:name>Sutton</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2189223</ctml:wikiDataId>
+    <ctml:latitude>53.38947000</ctml:latitude>
+    <ctml:longitude>-6.11059000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57408" kind="admin2">
+    <ctml:name>Tallaght</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q990099</ctml:wikiDataId>
+    <ctml:latitude>53.28590000</ctml:latitude>
+    <ctml:longitude>-6.37344000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57410" kind="city">
+    <ctml:name>Templeogue</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2668330</ctml:wikiDataId>
+    <ctml:latitude>53.29528000</ctml:latitude>
+    <ctml:longitude>-6.30889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57411" kind="city">
+    <ctml:name>Terenure</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2090994</ctml:wikiDataId>
+    <ctml:latitude>53.30972000</ctml:latitude>
+    <ctml:longitude>-6.28528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57412" kind="city">
+    <ctml:name>Termonfeckin</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q21103946</ctml:wikiDataId>
+    <ctml:latitude>53.76333000</ctml:latitude>
+    <ctml:longitude>-6.26778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57413" kind="city">
+    <ctml:name>Thomastown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1433139</ctml:wikiDataId>
+    <ctml:latitude>52.52667000</ctml:latitude>
+    <ctml:longitude>-7.13722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57419" kind="city">
+    <ctml:name>Trim</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1012496</ctml:wikiDataId>
+    <ctml:latitude>53.55500000</ctml:latitude>
+    <ctml:longitude>-6.79167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57422" kind="admin2">
+    <ctml:name>Tullamore</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q321091</ctml:wikiDataId>
+    <ctml:latitude>53.27389000</ctml:latitude>
+    <ctml:longitude>-7.48889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57423" kind="city">
+    <ctml:name>Tullow</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1025610</ctml:wikiDataId>
+    <ctml:latitude>52.80028000</ctml:latitude>
+    <ctml:longitude>-6.73694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57424" kind="city">
+    <ctml:name>Tullyallen</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q4450501</ctml:wikiDataId>
+    <ctml:latitude>53.73611000</ctml:latitude>
+    <ctml:longitude>-6.42278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57425" kind="admin2">
+    <ctml:name>Uíbh Fhailí</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q184445</ctml:wikiDataId>
+    <ctml:latitude>53.25000000</ctml:latitude>
+    <ctml:longitude>-7.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57426" kind="city">
+    <ctml:name>Valleymount</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q4102941</ctml:wikiDataId>
+    <ctml:latitude>53.10389000</ctml:latitude>
+    <ctml:longitude>-6.55361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57432" kind="city">
+    <ctml:name>Wicklow</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Leinster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q182591</ctml:wikiDataId>
+    <ctml:latitude>53.00000000</ctml:latitude>
+    <ctml:longitude>-6.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57062" kind="city">
+    <ctml:name>Abbeyfeale</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q306440</ctml:wikiDataId>
+    <ctml:latitude>52.38139000</ctml:latitude>
+    <ctml:longitude>-9.30250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57064" kind="city">
+    <ctml:name>Adare</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q352590</ctml:wikiDataId>
+    <ctml:latitude>52.56194000</ctml:latitude>
+    <ctml:longitude>-8.79556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57065" kind="city">
+    <ctml:name>Aghada</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q4072894</ctml:wikiDataId>
+    <ctml:latitude>51.83917000</ctml:latitude>
+    <ctml:longitude>-8.21222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57067" kind="city">
+    <ctml:name>An Clár</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q181862</ctml:wikiDataId>
+    <ctml:latitude>52.83333000</ctml:latitude>
+    <ctml:longitude>-9.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57073" kind="city">
+    <ctml:name>Annacotty</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2084362</ctml:wikiDataId>
+    <ctml:latitude>52.66768000</ctml:latitude>
+    <ctml:longitude>-8.53121000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57075" kind="city">
+    <ctml:name>Ardnacrusha</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2752171</ctml:wikiDataId>
+    <ctml:latitude>52.70908000</ctml:latitude>
+    <ctml:longitude>-8.61431000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57080" kind="city">
+    <ctml:name>Askeaton</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q573460</ctml:wikiDataId>
+    <ctml:latitude>52.59972000</ctml:latitude>
+    <ctml:longitude>-8.97556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57094" kind="city">
+    <ctml:name>Ballina</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2084343</ctml:wikiDataId>
+    <ctml:latitude>52.80778000</ctml:latitude>
+    <ctml:longitude>-8.43556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57103" kind="city">
+    <ctml:name>Ballybunnion</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q805394</ctml:wikiDataId>
+    <ctml:latitude>52.51108000</ctml:latitude>
+    <ctml:longitude>-9.67097000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57118" kind="city">
+    <ctml:name>Bandon</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q678018</ctml:wikiDataId>
+    <ctml:latitude>51.74694000</ctml:latitude>
+    <ctml:longitude>-8.74250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57119" kind="city">
+    <ctml:name>Bantry</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q807001</ctml:wikiDataId>
+    <ctml:latitude>51.68333000</ctml:latitude>
+    <ctml:longitude>-9.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57128" kind="city">
+    <ctml:name>Blarney</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2133873</ctml:wikiDataId>
+    <ctml:latitude>51.93333000</ctml:latitude>
+    <ctml:longitude>-8.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57139" kind="city">
+    <ctml:name>Caherconlish</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q15119233</ctml:wikiDataId>
+    <ctml:latitude>52.59361000</ctml:latitude>
+    <ctml:longitude>-8.47028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57140" kind="city">
+    <ctml:name>Cahersiveen</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q736203</ctml:wikiDataId>
+    <ctml:latitude>51.94861000</ctml:latitude>
+    <ctml:longitude>-10.22222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57141" kind="city">
+    <ctml:name>Cahir</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q516951</ctml:wikiDataId>
+    <ctml:latitude>52.37694000</ctml:latitude>
+    <ctml:longitude>-7.92167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57148" kind="city">
+    <ctml:name>Carrick-on-Suir</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1003187</ctml:wikiDataId>
+    <ctml:latitude>52.34917000</ctml:latitude>
+    <ctml:longitude>-7.41306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57150" kind="city">
+    <ctml:name>Carrigaline</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1756344</ctml:wikiDataId>
+    <ctml:latitude>51.81167000</ctml:latitude>
+    <ctml:longitude>-8.39861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57151" kind="city">
+    <ctml:name>Carrigtwohill</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2566363</ctml:wikiDataId>
+    <ctml:latitude>51.90833000</ctml:latitude>
+    <ctml:longitude>-8.26333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57152" kind="city">
+    <ctml:name>Cashel</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1002183</ctml:wikiDataId>
+    <ctml:latitude>52.51583000</ctml:latitude>
+    <ctml:longitude>-7.88556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57158" kind="city">
+    <ctml:name>Castleconnell</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2082749</ctml:wikiDataId>
+    <ctml:latitude>52.71389000</ctml:latitude>
+    <ctml:longitude>-8.49944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57160" kind="city">
+    <ctml:name>Castleisland</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1049626</ctml:wikiDataId>
+    <ctml:latitude>52.23333000</ctml:latitude>
+    <ctml:longitude>-9.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57162" kind="city">
+    <ctml:name>Castlemartyr</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2566170</ctml:wikiDataId>
+    <ctml:latitude>51.91028000</ctml:latitude>
+    <ctml:longitude>-8.05389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57172" kind="city">
+    <ctml:name>Ciarraí</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q184469</ctml:wikiDataId>
+    <ctml:latitude>52.16667000</ctml:latitude>
+    <ctml:longitude>-9.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57173" kind="city">
+    <ctml:name>Cill Airne</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q623382</ctml:wikiDataId>
+    <ctml:latitude>52.05980000</ctml:latitude>
+    <ctml:longitude>-9.50858000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57180" kind="city">
+    <ctml:name>Clonakilty</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q996703</ctml:wikiDataId>
+    <ctml:latitude>51.62306000</ctml:latitude>
+    <ctml:longitude>-8.87056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57184" kind="city">
+    <ctml:name>Cloyne</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2571758</ctml:wikiDataId>
+    <ctml:latitude>51.86278000</ctml:latitude>
+    <ctml:longitude>-8.12444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57185" kind="admin2">
+    <ctml:name>Cluain Meala</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q217057</ctml:wikiDataId>
+    <ctml:latitude>52.35500000</ctml:latitude>
+    <ctml:longitude>-7.70389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57186" kind="city">
+    <ctml:name>Cobh</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q733093</ctml:wikiDataId>
+    <ctml:latitude>51.85046000</ctml:latitude>
+    <ctml:longitude>-8.29480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57192" kind="admin2">
+    <ctml:name>Cork</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q36647</ctml:wikiDataId>
+    <ctml:latitude>51.89797000</ctml:latitude>
+    <ctml:longitude>-8.47061000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57195" kind="city">
+    <ctml:name>County Cork</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q162475</ctml:wikiDataId>
+    <ctml:latitude>51.96667000</ctml:latitude>
+    <ctml:longitude>-8.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57200" kind="city">
+    <ctml:name>County Tipperary</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q184618</ctml:wikiDataId>
+    <ctml:latitude>52.66667000</ctml:latitude>
+    <ctml:longitude>-7.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57202" kind="city">
+    <ctml:name>Croom</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2670286</ctml:wikiDataId>
+    <ctml:latitude>52.51944000</ctml:latitude>
+    <ctml:longitude>-8.71778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57203" kind="city">
+    <ctml:name>Crosshaven</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2668847</ctml:wikiDataId>
+    <ctml:latitude>51.79833000</ctml:latitude>
+    <ctml:longitude>-8.30083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57210" kind="city">
+    <ctml:name>Derry</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q682928</ctml:wikiDataId>
+    <ctml:latitude>51.58666000</ctml:latitude>
+    <ctml:longitude>-9.05026000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57212" kind="city">
+    <ctml:name>Dingle</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q932302</ctml:wikiDataId>
+    <ctml:latitude>52.14083000</ctml:latitude>
+    <ctml:longitude>-10.26889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57229" kind="city">
+    <ctml:name>Dungarvan</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q581790</ctml:wikiDataId>
+    <ctml:latitude>52.08806000</ctml:latitude>
+    <ctml:longitude>-7.62528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57233" kind="city">
+    <ctml:name>Dunmanway</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q540869</ctml:wikiDataId>
+    <ctml:latitude>51.71667000</ctml:latitude>
+    <ctml:longitude>-9.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57234" kind="city">
+    <ctml:name>Dunmore East</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1013935</ctml:wikiDataId>
+    <ctml:latitude>52.15108000</ctml:latitude>
+    <ctml:longitude>-6.99872000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57242" kind="admin2">
+    <ctml:name>Ennis</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q209128</ctml:wikiDataId>
+    <ctml:latitude>52.84361000</ctml:latitude>
+    <ctml:longitude>-8.98639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57247" kind="city">
+    <ctml:name>Fermoy</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1012470</ctml:wikiDataId>
+    <ctml:latitude>52.13583000</ctml:latitude>
+    <ctml:longitude>-8.27583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57249" kind="city">
+    <ctml:name>Fethard</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2669658</ctml:wikiDataId>
+    <ctml:latitude>52.46722000</ctml:latitude>
+    <ctml:longitude>-7.69111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57270" kind="city">
+    <ctml:name>Kanturk</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q287965</ctml:wikiDataId>
+    <ctml:latitude>52.16667000</ctml:latitude>
+    <ctml:longitude>-8.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57272" kind="city">
+    <ctml:name>Kenmare</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q166232</ctml:wikiDataId>
+    <ctml:latitude>51.88333000</ctml:latitude>
+    <ctml:longitude>-9.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57281" kind="city">
+    <ctml:name>Killaloe</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1522881</ctml:wikiDataId>
+    <ctml:latitude>52.80667000</ctml:latitude>
+    <ctml:longitude>-8.44361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57283" kind="city">
+    <ctml:name>Killorglin</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1669399</ctml:wikiDataId>
+    <ctml:latitude>52.10000000</ctml:latitude>
+    <ctml:longitude>-9.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57284" kind="city">
+    <ctml:name>Killumney</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q3777993</ctml:wikiDataId>
+    <ctml:latitude>51.87243000</ctml:latitude>
+    <ctml:longitude>-8.64781000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57287" kind="city">
+    <ctml:name>Kilmallock</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2566838</ctml:wikiDataId>
+    <ctml:latitude>52.40000000</ctml:latitude>
+    <ctml:longitude>-8.57722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57290" kind="city">
+    <ctml:name>Kilrush</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q963894</ctml:wikiDataId>
+    <ctml:latitude>52.63972000</ctml:latitude>
+    <ctml:longitude>-9.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57295" kind="city">
+    <ctml:name>Kinsale</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q840681</ctml:wikiDataId>
+    <ctml:latitude>51.70750000</ctml:latitude>
+    <ctml:longitude>-8.53056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57312" kind="admin2">
+    <ctml:name>Limerick</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q133315</ctml:wikiDataId>
+    <ctml:latitude>52.66472000</ctml:latitude>
+    <ctml:longitude>-8.62306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57304" kind="city">
+    <ctml:name>Listowel</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q952497</ctml:wikiDataId>
+    <ctml:latitude>52.44639000</ctml:latitude>
+    <ctml:longitude>-9.48500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57315" kind="city">
+    <ctml:name>Macroom</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1002636</ctml:wikiDataId>
+    <ctml:latitude>51.90663000</ctml:latitude>
+    <ctml:longitude>-8.96968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57317" kind="city">
+    <ctml:name>Mallow</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q922247</ctml:wikiDataId>
+    <ctml:latitude>52.13333000</ctml:latitude>
+    <ctml:longitude>-8.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57322" kind="city">
+    <ctml:name>Midleton</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q595619</ctml:wikiDataId>
+    <ctml:latitude>51.91526000</ctml:latitude>
+    <ctml:longitude>-8.18052000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57323" kind="city">
+    <ctml:name>Millstreet</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q659655</ctml:wikiDataId>
+    <ctml:latitude>52.05935000</ctml:latitude>
+    <ctml:longitude>-9.06031000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57325" kind="city">
+    <ctml:name>Mitchelstown</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1496664</ctml:wikiDataId>
+    <ctml:latitude>52.26583000</ctml:latitude>
+    <ctml:longitude>-8.26806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57332" kind="city">
+    <ctml:name>Moroe</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q4307059</ctml:wikiDataId>
+    <ctml:latitude>52.65111000</ctml:latitude>
+    <ctml:longitude>-8.39611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57338" kind="city">
+    <ctml:name>Moyross</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2668865</ctml:wikiDataId>
+    <ctml:latitude>52.68198000</ctml:latitude>
+    <ctml:longitude>-8.63955000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57343" kind="city">
+    <ctml:name>Nenagh</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q918372</ctml:wikiDataId>
+    <ctml:latitude>52.86194000</ctml:latitude>
+    <ctml:longitude>-8.19667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57344" kind="city">
+    <ctml:name>Nenagh Bridge</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q918372</ctml:wikiDataId>
+    <ctml:latitude>52.88167000</ctml:latitude>
+    <ctml:longitude>-8.19583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57347" kind="city">
+    <ctml:name>Newcastle West</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q987754</ctml:wikiDataId>
+    <ctml:latitude>52.44917000</ctml:latitude>
+    <ctml:longitude>-9.06111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57348" kind="city">
+    <ctml:name>Newmarket on Fergus</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q919990</ctml:wikiDataId>
+    <ctml:latitude>52.76000000</ctml:latitude>
+    <ctml:longitude>-8.89556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57349" kind="city">
+    <ctml:name>Newport</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2566709</ctml:wikiDataId>
+    <ctml:latitude>52.71111000</ctml:latitude>
+    <ctml:longitude>-8.40972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57359" kind="city">
+    <ctml:name>Passage West</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1635940</ctml:wikiDataId>
+    <ctml:latitude>51.87389000</ctml:latitude>
+    <ctml:longitude>-8.34444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57363" kind="city">
+    <ctml:name>Portlaw</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2082363</ctml:wikiDataId>
+    <ctml:latitude>52.28833000</ctml:latitude>
+    <ctml:longitude>-7.32056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57388" kind="city">
+    <ctml:name>Ráth Luirc</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1066722</ctml:wikiDataId>
+    <ctml:latitude>52.35000000</ctml:latitude>
+    <ctml:longitude>-8.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57373" kind="city">
+    <ctml:name>Rathcormac</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q3930472</ctml:wikiDataId>
+    <ctml:latitude>52.07694000</ctml:latitude>
+    <ctml:longitude>-8.28194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57377" kind="city">
+    <ctml:name>Rathkeale</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1006749</ctml:wikiDataId>
+    <ctml:latitude>52.52444000</ctml:latitude>
+    <ctml:longitude>-8.93806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57386" kind="city">
+    <ctml:name>Roscrea</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1003178</ctml:wikiDataId>
+    <ctml:latitude>52.95111000</ctml:latitude>
+    <ctml:longitude>-7.80167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57395" kind="city">
+    <ctml:name>Shannon</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q611919</ctml:wikiDataId>
+    <ctml:latitude>52.70389000</ctml:latitude>
+    <ctml:longitude>-8.86417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57396" kind="city">
+    <ctml:name>Sixmilebridge</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2329009</ctml:wikiDataId>
+    <ctml:latitude>52.74139000</ctml:latitude>
+    <ctml:longitude>-8.77417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57398" kind="city">
+    <ctml:name>Skibbereen</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1930746</ctml:wikiDataId>
+    <ctml:latitude>51.55000000</ctml:latitude>
+    <ctml:longitude>-9.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57409" kind="city">
+    <ctml:name>Templemore</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1809467</ctml:wikiDataId>
+    <ctml:latitude>52.79472000</ctml:latitude>
+    <ctml:longitude>-7.83389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57414" kind="city">
+    <ctml:name>Thurles</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q383188</ctml:wikiDataId>
+    <ctml:latitude>52.68194000</ctml:latitude>
+    <ctml:longitude>-7.80222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57415" kind="city">
+    <ctml:name>Tipperary</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q680220</ctml:wikiDataId>
+    <ctml:latitude>52.47333000</ctml:latitude>
+    <ctml:longitude>-8.15583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57417" kind="city">
+    <ctml:name>Tower</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1645711</ctml:wikiDataId>
+    <ctml:latitude>51.92599000</ctml:latitude>
+    <ctml:longitude>-8.60747000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57420" kind="city">
+    <ctml:name>Trá Mhór</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q507924</ctml:wikiDataId>
+    <ctml:latitude>52.16235000</ctml:latitude>
+    <ctml:longitude>-7.15244000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57418" kind="admin2">
+    <ctml:name>Tralee</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q213358</ctml:wikiDataId>
+    <ctml:latitude>52.27042000</ctml:latitude>
+    <ctml:longitude>-9.70264000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57428" kind="admin2">
+    <ctml:name>Waterford</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q183551</ctml:wikiDataId>
+    <ctml:latitude>52.25833000</ctml:latitude>
+    <ctml:longitude>-7.11194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57429" kind="city">
+    <ctml:name>Watergrasshill</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q3776348</ctml:wikiDataId>
+    <ctml:latitude>52.01139000</ctml:latitude>
+    <ctml:longitude>-8.34417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57431" kind="city">
+    <ctml:name>Whitegate</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q4468449</ctml:wikiDataId>
+    <ctml:latitude>51.83056000</ctml:latitude>
+    <ctml:longitude>-8.22972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57433" kind="city">
+    <ctml:name>Youghal</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Munster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1012476</ctml:wikiDataId>
+    <ctml:latitude>51.95000000</ctml:latitude>
+    <ctml:longitude>-7.85056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57066" kind="city">
+    <ctml:name>An Cabhán</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q187402</ctml:wikiDataId>
+    <ctml:latitude>53.91667000</ctml:latitude>
+    <ctml:longitude>-7.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57088" kind="city">
+    <ctml:name>Bailieborough</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q803843</ctml:wikiDataId>
+    <ctml:latitude>53.91667000</ctml:latitude>
+    <ctml:longitude>-6.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57102" kind="city">
+    <ctml:name>Ballybofey</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q805401</ctml:wikiDataId>
+    <ctml:latitude>54.80000000</ctml:latitude>
+    <ctml:longitude>-7.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57104" kind="city">
+    <ctml:name>Ballyconnell</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q252031</ctml:wikiDataId>
+    <ctml:latitude>54.11667000</ctml:latitude>
+    <ctml:longitude>-7.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57108" kind="city">
+    <ctml:name>Ballyjamesduff</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q252038</ctml:wikiDataId>
+    <ctml:latitude>53.86528000</ctml:latitude>
+    <ctml:longitude>-7.20278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57114" kind="city">
+    <ctml:name>Ballyshannon</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q805462</ctml:wikiDataId>
+    <ctml:latitude>54.50000000</ctml:latitude>
+    <ctml:longitude>-8.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57124" kind="city">
+    <ctml:name>Belturbet</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q252020</ctml:wikiDataId>
+    <ctml:latitude>54.10000000</ctml:latitude>
+    <ctml:longitude>-7.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57135" kind="city">
+    <ctml:name>Buncrana</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q751475</ctml:wikiDataId>
+    <ctml:latitude>55.13333000</ctml:latitude>
+    <ctml:longitude>-7.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57136" kind="city">
+    <ctml:name>Bundoran</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1009405</ctml:wikiDataId>
+    <ctml:latitude>54.47782000</ctml:latitude>
+    <ctml:longitude>-8.28094000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57145" kind="city">
+    <ctml:name>Carndonagh</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1043934</ctml:wikiDataId>
+    <ctml:latitude>55.25000000</ctml:latitude>
+    <ctml:longitude>-7.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57149" kind="city">
+    <ctml:name>Carrickmacross</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1002776</ctml:wikiDataId>
+    <ctml:latitude>53.97278000</ctml:latitude>
+    <ctml:longitude>-6.71889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57155" kind="city">
+    <ctml:name>Castleblayney</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q2528834</ctml:wikiDataId>
+    <ctml:latitude>54.11667000</ctml:latitude>
+    <ctml:longitude>-6.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57166" kind="admin2">
+    <ctml:name>Cavan</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q215361</ctml:wikiDataId>
+    <ctml:latitude>53.99083000</ctml:latitude>
+    <ctml:longitude>-7.36056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57182" kind="city">
+    <ctml:name>Clones</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1102275</ctml:wikiDataId>
+    <ctml:latitude>54.18333000</ctml:latitude>
+    <ctml:longitude>-7.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57189" kind="city">
+    <ctml:name>Convoy</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q2436580</ctml:wikiDataId>
+    <ctml:latitude>54.86083000</ctml:latitude>
+    <ctml:longitude>-7.66556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57191" kind="city">
+    <ctml:name>Cootehill</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q2114237</ctml:wikiDataId>
+    <ctml:latitude>54.07250000</ctml:latitude>
+    <ctml:longitude>-7.08194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57196" kind="city">
+    <ctml:name>County Donegal</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q179424</ctml:wikiDataId>
+    <ctml:latitude>54.91667000</ctml:latitude>
+    <ctml:longitude>-8.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57199" kind="city">
+    <ctml:name>County Monaghan</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q184760</ctml:wikiDataId>
+    <ctml:latitude>54.25000000</ctml:latitude>
+    <ctml:longitude>-7.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57211" kind="city">
+    <ctml:name>Derrybeg</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q682928</ctml:wikiDataId>
+    <ctml:latitude>55.08333000</ctml:latitude>
+    <ctml:longitude>-8.28944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57216" kind="city">
+    <ctml:name>Donegal</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q855330</ctml:wikiDataId>
+    <ctml:latitude>54.65378000</ctml:latitude>
+    <ctml:longitude>-8.11134000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57230" kind="city">
+    <ctml:name>Dungloe</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1265808</ctml:wikiDataId>
+    <ctml:latitude>54.95111000</ctml:latitude>
+    <ctml:longitude>-8.35917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57232" kind="city">
+    <ctml:name>Dunlewy</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1265808</ctml:wikiDataId>
+    <ctml:latitude>55.01667000</ctml:latitude>
+    <ctml:longitude>-8.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57264" kind="city">
+    <ctml:name>Gweedore</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q693164</ctml:wikiDataId>
+    <ctml:latitude>55.05028000</ctml:latitude>
+    <ctml:longitude>-8.23194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57285" kind="city">
+    <ctml:name>Killybegs</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1741405</ctml:wikiDataId>
+    <ctml:latitude>54.63333000</ctml:latitude>
+    <ctml:longitude>-8.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57292" kind="city">
+    <ctml:name>Kingscourt</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q2269536</ctml:wikiDataId>
+    <ctml:latitude>53.90806000</ctml:latitude>
+    <ctml:longitude>-6.80556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:IRL-57301" kind="admin2">
+    <ctml:name>Leifear</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q844546</ctml:wikiDataId>
+    <ctml:latitude>54.83194000</ctml:latitude>
+    <ctml:longitude>-7.48361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57303" kind="city">
+    <ctml:name>Letterkenny</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q952497</ctml:wikiDataId>
+    <ctml:latitude>54.95000000</ctml:latitude>
+    <ctml:longitude>-7.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57336" kind="city">
+    <ctml:name>Moville</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q915423</ctml:wikiDataId>
+    <ctml:latitude>55.19153000</ctml:latitude>
+    <ctml:longitude>-7.03873000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57339" kind="city">
+    <ctml:name>Muff</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q659902</ctml:wikiDataId>
+    <ctml:latitude>55.06667000</ctml:latitude>
+    <ctml:longitude>-7.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57340" kind="city">
+    <ctml:name>Mullagh</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q401068</ctml:wikiDataId>
+    <ctml:latitude>53.81306000</ctml:latitude>
+    <ctml:longitude>-6.95139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57350" kind="city">
+    <ctml:name>Newtown Cunningham</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q2566352</ctml:wikiDataId>
+    <ctml:latitude>54.99639000</ctml:latitude>
+    <ctml:longitude>-7.51917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57369" kind="city">
+    <ctml:name>Ramelton</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q2078143</ctml:wikiDataId>
+    <ctml:latitude>55.03673000</ctml:latitude>
+    <ctml:longitude>-7.64923000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57370" kind="city">
+    <ctml:name>Raphoe</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1025561</ctml:wikiDataId>
+    <ctml:latitude>54.87472000</ctml:latitude>
+    <ctml:longitude>-7.59833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:IRL-57427" kind="city">
+    <ctml:name>Virginia</ctml:name>
+    <ctml:country>IRL</ctml:country>
+    <ctml:admin1>Ulster</ctml:admin1>
+    <ctml:parentRef>place:admin1:IE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q255427</ctml:wikiDataId>
+    <ctml:latitude>53.83389000</ctml:latitude>
+    <ctml:longitude>-7.07556000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

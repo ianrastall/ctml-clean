@@ -1,0 +1,1623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:DOM-31060" kind="city">
+    <ctml:name>El Guayabal</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Azua</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-02</ctml:parentRef>
+    <ctml:wikiDataId>Q984301</ctml:wikiDataId>
+    <ctml:latitude>18.74960000</ctml:latitude>
+    <ctml:longitude>-70.83690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31070" kind="city">
+    <ctml:name>Estebanía</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Azua</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3733396</ctml:wikiDataId>
+    <ctml:latitude>18.45770000</ctml:latitude>
+    <ctml:longitude>-70.64350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31111" kind="city">
+    <ctml:name>Las Charcas</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Azua</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-02</ctml:parentRef>
+    <ctml:wikiDataId>Q676874</ctml:wikiDataId>
+    <ctml:latitude>18.45026000</ctml:latitude>
+    <ctml:longitude>-70.61724000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31142" kind="city">
+    <ctml:name>Padre Las Casas</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Azua</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-02</ctml:parentRef>
+    <ctml:wikiDataId>Q966782</ctml:wikiDataId>
+    <ctml:latitude>18.75000000</ctml:latitude>
+    <ctml:longitude>-70.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31144" kind="city">
+    <ctml:name>Palmar de Ocoa</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Azua</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-02</ctml:parentRef>
+    <ctml:wikiDataId>Q7128144</ctml:wikiDataId>
+    <ctml:latitude>18.29656000</ctml:latitude>
+    <ctml:longitude>-70.58635000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31153" kind="city">
+    <ctml:name>Peralta</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Azua</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3899640</ctml:wikiDataId>
+    <ctml:latitude>18.58164000</ctml:latitude>
+    <ctml:longitude>-70.77029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31160" kind="city">
+    <ctml:name>Pueblo Viejo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Azua</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3925382</ctml:wikiDataId>
+    <ctml:latitude>18.40000000</ctml:latitude>
+    <ctml:longitude>-70.76765000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31174" kind="city">
+    <ctml:name>Sabana Yegua</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Azua</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-02</ctml:parentRef>
+    <ctml:wikiDataId>Q23762304</ctml:wikiDataId>
+    <ctml:latitude>18.71667000</ctml:latitude>
+    <ctml:longitude>-71.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31207" kind="city">
+    <ctml:name>Tábara Arriba</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Azua</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1770884</ctml:wikiDataId>
+    <ctml:latitude>18.56999000</ctml:latitude>
+    <ctml:longitude>-70.87978000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31222" kind="city">
+    <ctml:name>Villarpando</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Azua</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-02</ctml:parentRef>
+    <ctml:wikiDataId>Q7930938</ctml:wikiDataId>
+    <ctml:latitude>18.65860000</ctml:latitude>
+    <ctml:longitude>-71.03916000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31225" kind="city">
+    <ctml:name>Yayas de Viajama</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Azua</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3827307</ctml:wikiDataId>
+    <ctml:latitude>18.60710000</ctml:latitude>
+    <ctml:longitude>-70.92753000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31061" kind="city">
+    <ctml:name>El Palmar</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Baoruco</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-03</ctml:parentRef>
+    <ctml:wikiDataId>Q23774454</ctml:wikiDataId>
+    <ctml:latitude>18.41139000</ctml:latitude>
+    <ctml:longitude>-71.24558000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31074" kind="city">
+    <ctml:name>Galván</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Baoruco</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3757889</ctml:wikiDataId>
+    <ctml:latitude>18.50228000</ctml:latitude>
+    <ctml:longitude>-71.34271000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31109" kind="city">
+    <ctml:name>La Uvilla</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Baoruco</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-03</ctml:parentRef>
+    <ctml:wikiDataId>Q7876527</ctml:wikiDataId>
+    <ctml:latitude>18.36186000</ctml:latitude>
+    <ctml:longitude>-71.21046000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31122" kind="city">
+    <ctml:name>Los Ríos</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Baoruco</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3837408</ctml:wikiDataId>
+    <ctml:latitude>18.52131000</ctml:latitude>
+    <ctml:longitude>-71.59106000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31203" kind="city">
+    <ctml:name>Tamayo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Baoruco</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-03</ctml:parentRef>
+    <ctml:wikiDataId>Q32750457</ctml:wikiDataId>
+    <ctml:latitude>18.50000000</ctml:latitude>
+    <ctml:longitude>-71.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31218" kind="city">
+    <ctml:name>Villa Jaragua</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Baoruco</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-03</ctml:parentRef>
+    <ctml:wikiDataId>Q4012143</ctml:wikiDataId>
+    <ctml:latitude>18.49077000</ctml:latitude>
+    <ctml:longitude>-71.48377000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31036" kind="city">
+    <ctml:name>Cabral</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Barahona</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1770655</ctml:wikiDataId>
+    <ctml:latitude>18.19991000</ctml:latitude>
+    <ctml:longitude>-71.24660000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31038" kind="city">
+    <ctml:name>Cachón</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Barahona</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q5350853</ctml:wikiDataId>
+    <ctml:latitude>18.24833000</ctml:latitude>
+    <ctml:longitude>-71.18912000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31041" kind="city">
+    <ctml:name>Canoa</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Barahona</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q23777833</ctml:wikiDataId>
+    <ctml:latitude>18.35499000</ctml:latitude>
+    <ctml:longitude>-71.15851000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31062" kind="city">
+    <ctml:name>El Peñón</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Barahona</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1770893</ctml:wikiDataId>
+    <ctml:latitude>18.29643000</ctml:latitude>
+    <ctml:longitude>-71.18410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31066" kind="city">
+    <ctml:name>Enriquillo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Barahona</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2433632</ctml:wikiDataId>
+    <ctml:latitude>17.91667000</ctml:latitude>
+    <ctml:longitude>-71.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DOM-31073" kind="admin2">
+    <ctml:name>Fundación</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Barahona</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3754387</ctml:wikiDataId>
+    <ctml:latitude>18.28668000</ctml:latitude>
+    <ctml:longitude>-71.18147000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31090" kind="city">
+    <ctml:name>Jaquimeyes</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Barahona</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3807300</ctml:wikiDataId>
+    <ctml:latitude>18.31173000</ctml:latitude>
+    <ctml:longitude>-71.16145000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31104" kind="city">
+    <ctml:name>La Ciénaga</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Barahona</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3820737</ctml:wikiDataId>
+    <ctml:latitude>18.06858000</ctml:latitude>
+    <ctml:longitude>-71.10651000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31115" kind="city">
+    <ctml:name>Las Salinas</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Barahona</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3827252</ctml:wikiDataId>
+    <ctml:latitude>18.27485000</ctml:latitude>
+    <ctml:longitude>-71.31596000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31145" kind="city">
+    <ctml:name>Paraíso</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Barahona</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1988637</ctml:wikiDataId>
+    <ctml:latitude>18.02652000</ctml:latitude>
+    <ctml:longitude>-71.20889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31154" kind="city">
+    <ctml:name>Pescadería</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Barahona</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q7171336</ctml:wikiDataId>
+    <ctml:latitude>18.26766000</ctml:latitude>
+    <ctml:longitude>-71.16612000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31158" kind="city">
+    <ctml:name>Polo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Barahona</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1770610</ctml:wikiDataId>
+    <ctml:latitude>18.07873000</ctml:latitude>
+    <ctml:longitude>-71.28723000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31210" kind="city">
+    <ctml:name>Vicente Noble</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Barahona</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1770645</ctml:wikiDataId>
+    <ctml:latitude>18.38443000</ctml:latitude>
+    <ctml:longitude>-71.18009000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31063" kind="city">
+    <ctml:name>El Pino</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Dajabón</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3720977</ctml:wikiDataId>
+    <ctml:latitude>19.43537000</ctml:latitude>
+    <ctml:longitude>-71.47540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31118" kind="city">
+    <ctml:name>Loma de Cabrera</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Dajabón</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1771467</ctml:wikiDataId>
+    <ctml:latitude>19.41667000</ctml:latitude>
+    <ctml:longitude>-71.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31146" kind="city">
+    <ctml:name>Partido</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Dajabón</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3896653</ctml:wikiDataId>
+    <ctml:latitude>19.48403000</ctml:latitude>
+    <ctml:longitude>-71.54730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31165" kind="city">
+    <ctml:name>Restauración</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Dajabón</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1770897</ctml:wikiDataId>
+    <ctml:latitude>19.31532000</ctml:latitude>
+    <ctml:longitude>-71.69239000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31029" kind="city">
+    <ctml:name>Bella Vista</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Distrito Nacional</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-01</ctml:parentRef>
+    <ctml:wikiDataId>Q4883376</ctml:wikiDataId>
+    <ctml:latitude>18.45539000</ctml:latitude>
+    <ctml:longitude>-69.94540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31047" kind="city">
+    <ctml:name>Ciudad Nueva</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Distrito Nacional</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-01</ctml:parentRef>
+    <ctml:wikiDataId>Q14932551</ctml:wikiDataId>
+    <ctml:latitude>18.46707000</ctml:latitude>
+    <ctml:longitude>-69.89339000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31051" kind="city">
+    <ctml:name>Cristo Rey</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Distrito Nacional</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-01</ctml:parentRef>
+    <ctml:wikiDataId>Q5186441</ctml:wikiDataId>
+    <ctml:latitude>18.50168720</ctml:latitude>
+    <ctml:longitude>-69.92613430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31067" kind="city">
+    <ctml:name>Ensanche Luperón</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Distrito Nacional</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-01</ctml:parentRef>
+    <ctml:wikiDataId>Q5379909</ctml:wikiDataId>
+    <ctml:latitude>18.50000000</ctml:latitude>
+    <ctml:longitude>-69.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31101" kind="city">
+    <ctml:name>La Agustina</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Distrito Nacional</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-01</ctml:parentRef>
+    <ctml:wikiDataId>Q6461013</ctml:wikiDataId>
+    <ctml:latitude>18.49202970</ctml:latitude>
+    <ctml:longitude>-69.93251000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31107" kind="city">
+    <ctml:name>La Julia</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Distrito Nacional</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-01</ctml:parentRef>
+    <ctml:wikiDataId>Q6463278</ctml:wikiDataId>
+    <ctml:latitude>18.46667000</ctml:latitude>
+    <ctml:longitude>-69.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31182" kind="city">
+    <ctml:name>San Carlos</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Distrito Nacional</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-01</ctml:parentRef>
+    <ctml:wikiDataId>Q6118516</ctml:wikiDataId>
+    <ctml:latitude>18.47873240</ctml:latitude>
+    <ctml:longitude>-69.89495630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31197" kind="city">
+    <ctml:name>Santo Domingo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Distrito Nacional</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-01</ctml:parentRef>
+    <ctml:wikiDataId>Q34820</ctml:wikiDataId>
+    <ctml:latitude>18.47186000</ctml:latitude>
+    <ctml:longitude>-69.89232000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31213" kind="city">
+    <ctml:name>Villa Consuelo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Distrito Nacional</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-01</ctml:parentRef>
+    <ctml:wikiDataId>Q7930297</ctml:wikiDataId>
+    <ctml:latitude>18.48425830</ctml:latitude>
+    <ctml:longitude>-69.89988700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31215" kind="city">
+    <ctml:name>Villa Francisca</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Distrito Nacional</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-01</ctml:parentRef>
+    <ctml:wikiDataId>Q7930325</ctml:wikiDataId>
+    <ctml:latitude>18.48278000</ctml:latitude>
+    <ctml:longitude>-69.88914000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31019" kind="city">
+    <ctml:name>Agua Santa del Yuna</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Duarte</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-06</ctml:parentRef>
+    <ctml:wikiDataId>Q4694455</ctml:wikiDataId>
+    <ctml:latitude>19.15072000</ctml:latitude>
+    <ctml:longitude>-69.80069000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31022" kind="city">
+    <ctml:name>Arenoso</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Duarte</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3622180</ctml:wikiDataId>
+    <ctml:latitude>19.18732000</ctml:latitude>
+    <ctml:longitude>-69.85917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31043" kind="city">
+    <ctml:name>Castillo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Duarte</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3663066</ctml:wikiDataId>
+    <ctml:latitude>19.25000000</ctml:latitude>
+    <ctml:longitude>-70.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31086" kind="city">
+    <ctml:name>Hostos</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Duarte</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-06</ctml:parentRef>
+    <ctml:wikiDataId>Q14932517</ctml:wikiDataId>
+    <ctml:latitude>19.18043000</ctml:latitude>
+    <ctml:longitude>-70.02046000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31112" kind="city">
+    <ctml:name>Las Guáranas</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Duarte</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3827243</ctml:wikiDataId>
+    <ctml:latitude>19.19310000</ctml:latitude>
+    <ctml:longitude>-70.20835000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31156" kind="city">
+    <ctml:name>Pimentel</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Duarte</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3905064</ctml:wikiDataId>
+    <ctml:latitude>19.21667000</ctml:latitude>
+    <ctml:longitude>-70.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31219" kind="city">
+    <ctml:name>Villa Riva</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Duarte</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-06</ctml:parentRef>
+    <ctml:wikiDataId>Q949768</ctml:wikiDataId>
+    <ctml:latitude>19.15051000</ctml:latitude>
+    <ctml:longitude>-69.88370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31131" kind="city">
+    <ctml:name>Miches</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>El Seibo</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1770668</ctml:wikiDataId>
+    <ctml:latitude>18.98364000</ctml:latitude>
+    <ctml:longitude>-69.04760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31151" kind="city">
+    <ctml:name>Pedro Sánchez</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>El Seibo</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-08</ctml:parentRef>
+    <ctml:wikiDataId>Q7159964</ctml:wikiDataId>
+    <ctml:latitude>18.86375000</ctml:latitude>
+    <ctml:longitude>-69.10868000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31044" kind="city">
+    <ctml:name>Cayetano Germosén</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Espaillat</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3664033</ctml:wikiDataId>
+    <ctml:latitude>19.34285000</ctml:latitude>
+    <ctml:longitude>-70.47573000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31075" kind="city">
+    <ctml:name>Gaspar Hernández</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Espaillat</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3758618</ctml:wikiDataId>
+    <ctml:latitude>19.62748000</ctml:latitude>
+    <ctml:longitude>-70.27772000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31089" kind="city">
+    <ctml:name>Jamao al Norte</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Espaillat</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3806431</ctml:wikiDataId>
+    <ctml:latitude>19.63552000</ctml:latitude>
+    <ctml:longitude>-70.44664000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31095" kind="city">
+    <ctml:name>Joba Arriba</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Espaillat</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-09</ctml:parentRef>
+    <ctml:wikiDataId>Q6206763</ctml:wikiDataId>
+    <ctml:latitude>19.56667000</ctml:latitude>
+    <ctml:longitude>-70.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31097" kind="city">
+    <ctml:name>Juan López Abajo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Espaillat</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-09</ctml:parentRef>
+    <ctml:wikiDataId>Q6298761</ctml:wikiDataId>
+    <ctml:latitude>19.43333000</ctml:latitude>
+    <ctml:longitude>-70.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31132" kind="city">
+    <ctml:name>Moca</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Espaillat</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1241374</ctml:wikiDataId>
+    <ctml:latitude>19.50000000</ctml:latitude>
+    <ctml:longitude>-70.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31193" kind="city">
+    <ctml:name>San Víctor Arriba</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Espaillat</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-09</ctml:parentRef>
+    <ctml:wikiDataId>Q23761180</ctml:wikiDataId>
+    <ctml:latitude>19.47741000</ctml:latitude>
+    <ctml:longitude>-70.53585000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31209" kind="city">
+    <ctml:name>Veragua Arriba</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Espaillat</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-09</ctml:parentRef>
+    <ctml:wikiDataId>Q4008204</ctml:wikiDataId>
+    <ctml:latitude>19.58333000</ctml:latitude>
+    <ctml:longitude>-70.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31065" kind="city">
+    <ctml:name>El Valle</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Hato Mayor</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-30</ctml:parentRef>
+    <ctml:wikiDataId>Q1770328</ctml:wikiDataId>
+    <ctml:latitude>18.93333000</ctml:latitude>
+    <ctml:longitude>-69.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31080" kind="city">
+    <ctml:name>Guayabo Dulce</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Hato Mayor</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-30</ctml:parentRef>
+    <ctml:wikiDataId>Q5614361</ctml:wikiDataId>
+    <ctml:latitude>18.65000000</ctml:latitude>
+    <ctml:longitude>-69.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31175" kind="city">
+    <ctml:name>Sabana de la Mar</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Hato Mayor</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-30</ctml:parentRef>
+    <ctml:wikiDataId>Q23762304</ctml:wikiDataId>
+    <ctml:latitude>19.03333000</ctml:latitude>
+    <ctml:longitude>-69.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31179" kind="city">
+    <ctml:name>Salsipuedes</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Hermanas Mirabal</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-19</ctml:parentRef>
+    <ctml:wikiDataId>Q23762401</ctml:wikiDataId>
+    <ctml:latitude>19.40552000</ctml:latitude>
+    <ctml:longitude>-70.37985000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31205" kind="city">
+    <ctml:name>Tenares</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Hermanas Mirabal</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1770877</ctml:wikiDataId>
+    <ctml:latitude>19.37439000</ctml:latitude>
+    <ctml:longitude>-70.35087000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31220" kind="city">
+    <ctml:name>Villa Tapia</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Hermanas Mirabal</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1770889</ctml:wikiDataId>
+    <ctml:latitude>19.30084000</ctml:latitude>
+    <ctml:longitude>-70.42199000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31052" kind="city">
+    <ctml:name>Cristóbal</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Independencia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-10</ctml:parentRef>
+    <ctml:wikiDataId>Q23776103</ctml:wikiDataId>
+    <ctml:latitude>18.29405000</ctml:latitude>
+    <ctml:longitude>-71.29298000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31055" kind="city">
+    <ctml:name>Duvergé</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Independencia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3716731</ctml:wikiDataId>
+    <ctml:latitude>18.31634000</ctml:latitude>
+    <ctml:longitude>-71.59451000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31079" kind="city">
+    <ctml:name>Guayabal</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Independencia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-10</ctml:parentRef>
+    <ctml:wikiDataId>Q5614357</ctml:wikiDataId>
+    <ctml:latitude>18.59810000</ctml:latitude>
+    <ctml:longitude>-71.64184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31105" kind="city">
+    <ctml:name>La Descubierta</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Independencia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3820813</ctml:wikiDataId>
+    <ctml:latitude>18.57053000</ctml:latitude>
+    <ctml:longitude>-71.72967000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31130" kind="city">
+    <ctml:name>Mella</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Independencia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3854258</ctml:wikiDataId>
+    <ctml:latitude>18.35871000</ctml:latitude>
+    <ctml:longitude>-71.41716000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31159" kind="city">
+    <ctml:name>Postrer Río</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Independencia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3909478</ctml:wikiDataId>
+    <ctml:latitude>18.54374000</ctml:latitude>
+    <ctml:longitude>-71.63561000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31032" kind="city">
+    <ctml:name>Boca de Yuma</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>La Altagracia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-11</ctml:parentRef>
+    <ctml:wikiDataId>Q4936128</ctml:wikiDataId>
+    <ctml:latitude>18.37825000</ctml:latitude>
+    <ctml:longitude>-68.60900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31085" kind="city">
+    <ctml:name>Higüey</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>La Altagracia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2427660</ctml:wikiDataId>
+    <ctml:latitude>18.70000000</ctml:latitude>
+    <ctml:longitude>-68.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31140" kind="city">
+    <ctml:name>Otra Banda</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>La Altagracia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-11</ctml:parentRef>
+    <ctml:wikiDataId>Q7109031</ctml:wikiDataId>
+    <ctml:latitude>18.65017000</ctml:latitude>
+    <ctml:longitude>-68.66281000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31162" kind="city">
+    <ctml:name>Punta Cana</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>La Altagracia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1568095</ctml:wikiDataId>
+    <ctml:latitude>18.58182000</ctml:latitude>
+    <ctml:longitude>-68.40431000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31192" kind="city">
+    <ctml:name>San Rafael del Yuma</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>La Altagracia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-11</ctml:parentRef>
+    <ctml:wikiDataId>Q649483</ctml:wikiDataId>
+    <ctml:latitude>18.42993000</ctml:latitude>
+    <ctml:longitude>-68.67390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31081" kind="city">
+    <ctml:name>Guaymate</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>La Romana</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-12</ctml:parentRef>
+    <ctml:wikiDataId>Q628537</ctml:wikiDataId>
+    <ctml:latitude>18.58793000</ctml:latitude>
+    <ctml:longitude>-68.97867000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31049" kind="city">
+    <ctml:name>Constanza</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>La Vega</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-13</ctml:parentRef>
+    <ctml:wikiDataId>Q459801</ctml:wikiDataId>
+    <ctml:latitude>18.90919000</ctml:latitude>
+    <ctml:longitude>-70.74499000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31091" kind="city">
+    <ctml:name>Jarabacoa</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>La Vega</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-13</ctml:parentRef>
+    <ctml:wikiDataId>Q990182</ctml:wikiDataId>
+    <ctml:latitude>19.11683000</ctml:latitude>
+    <ctml:longitude>-70.63595000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31093" kind="city">
+    <ctml:name>Jima Abajo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>La Vega</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-13</ctml:parentRef>
+    <ctml:wikiDataId>Q3808393</ctml:wikiDataId>
+    <ctml:latitude>19.13292000</ctml:latitude>
+    <ctml:longitude>-70.37607000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31166" kind="city">
+    <ctml:name>Rincón</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>La Vega</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-13</ctml:parentRef>
+    <ctml:wikiDataId>Q23763422</ctml:wikiDataId>
+    <ctml:latitude>19.11938000</ctml:latitude>
+    <ctml:longitude>-70.40632000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31169" kind="city">
+    <ctml:name>Río Verde Arriba</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>La Vega</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-13</ctml:parentRef>
+    <ctml:wikiDataId>Q7386429</ctml:wikiDataId>
+    <ctml:latitude>19.31583000</ctml:latitude>
+    <ctml:longitude>-70.56643000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31206" kind="city">
+    <ctml:name>Tireo Arriba</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>La Vega</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-13</ctml:parentRef>
+    <ctml:wikiDataId>Q23760139</ctml:wikiDataId>
+    <ctml:latitude>18.93537000</ctml:latitude>
+    <ctml:longitude>-70.68850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31023" kind="city">
+    <ctml:name>Arroyo Salado</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>María Trinidad Sánchez</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-14</ctml:parentRef>
+    <ctml:wikiDataId>Q4796250</ctml:wikiDataId>
+    <ctml:latitude>19.50000000</ctml:latitude>
+    <ctml:longitude>-69.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31037" kind="city">
+    <ctml:name>Cabrera</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>María Trinidad Sánchez</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-14</ctml:parentRef>
+    <ctml:wikiDataId>Q23778187</ctml:wikiDataId>
+    <ctml:latitude>19.64260000</ctml:latitude>
+    <ctml:longitude>-69.90489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31059" kind="city">
+    <ctml:name>El Factor</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>María Trinidad Sánchez</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-14</ctml:parentRef>
+    <ctml:wikiDataId>Q3720911</ctml:wikiDataId>
+    <ctml:latitude>19.31834000</ctml:latitude>
+    <ctml:longitude>-69.88827000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31106" kind="city">
+    <ctml:name>La Entrada</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>María Trinidad Sánchez</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-14</ctml:parentRef>
+    <ctml:wikiDataId>Q23769735</ctml:wikiDataId>
+    <ctml:latitude>19.55367000</ctml:latitude>
+    <ctml:longitude>-69.90762000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31168" kind="city">
+    <ctml:name>Río San Juan</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>María Trinidad Sánchez</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-14</ctml:parentRef>
+    <ctml:wikiDataId>Q3943218</ctml:wikiDataId>
+    <ctml:latitude>19.55022000</ctml:latitude>
+    <ctml:longitude>-70.07703000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31034" kind="city">
+    <ctml:name>Bonao</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monseñor Nouel</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-28</ctml:parentRef>
+    <ctml:wikiDataId>Q2306136</ctml:wikiDataId>
+    <ctml:latitude>18.91667000</ctml:latitude>
+    <ctml:longitude>-70.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31096" kind="city">
+    <ctml:name>Juan Adrián</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monseñor Nouel</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-28</ctml:parentRef>
+    <ctml:wikiDataId>Q6298761</ctml:wikiDataId>
+    <ctml:latitude>18.76365000</ctml:latitude>
+    <ctml:longitude>-70.33732000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31124" kind="city">
+    <ctml:name>Maimón</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monseñor Nouel</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-28</ctml:parentRef>
+    <ctml:wikiDataId>Q3843528</ctml:wikiDataId>
+    <ctml:latitude>18.88333000</ctml:latitude>
+    <ctml:longitude>-70.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31155" kind="city">
+    <ctml:name>Piedra Blanca</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monseñor Nouel</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-28</ctml:parentRef>
+    <ctml:wikiDataId>Q1770214</ctml:wikiDataId>
+    <ctml:latitude>18.84431000</ctml:latitude>
+    <ctml:longitude>-70.31688000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31176" kind="city">
+    <ctml:name>Sabana del Puerto</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monseñor Nouel</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-28</ctml:parentRef>
+    <ctml:wikiDataId>Q7395875</ctml:wikiDataId>
+    <ctml:latitude>19.06667000</ctml:latitude>
+    <ctml:longitude>-70.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31040" kind="city">
+    <ctml:name>Cana Chapetón</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Cristi</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-15</ctml:parentRef>
+    <ctml:wikiDataId>Q5029151</ctml:wikiDataId>
+    <ctml:latitude>19.60703000</ctml:latitude>
+    <ctml:longitude>-71.25734000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31042" kind="city">
+    <ctml:name>Castañuelas</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Cristi</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-15</ctml:parentRef>
+    <ctml:wikiDataId>Q519050</ctml:wikiDataId>
+    <ctml:latitude>19.71387000</ctml:latitude>
+    <ctml:longitude>-71.49876000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31082" kind="city">
+    <ctml:name>Guayubín</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Cristi</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-15</ctml:parentRef>
+    <ctml:wikiDataId>Q628537</ctml:wikiDataId>
+    <ctml:latitude>19.61667000</ctml:latitude>
+    <ctml:longitude>-71.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31083" kind="city">
+    <ctml:name>Hatillo Palma</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Cristi</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-15</ctml:parentRef>
+    <ctml:wikiDataId>Q5681615</ctml:wikiDataId>
+    <ctml:latitude>19.66256000</ctml:latitude>
+    <ctml:longitude>-71.19406000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31114" kind="city">
+    <ctml:name>Las Matas de Santa Cruz</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Cristi</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-15</ctml:parentRef>
+    <ctml:wikiDataId>Q3827245</ctml:wikiDataId>
+    <ctml:latitude>19.67119000</ctml:latitude>
+    <ctml:longitude>-71.50471000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31134" kind="city">
+    <ctml:name>Monte Cristi</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Cristi</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2130701</ctml:wikiDataId>
+    <ctml:latitude>19.83333000</ctml:latitude>
+    <ctml:longitude>-71.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31152" kind="city">
+    <ctml:name>Pepillo Salcedo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Cristi</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-15</ctml:parentRef>
+    <ctml:wikiDataId>Q3899368</ctml:wikiDataId>
+    <ctml:latitude>19.66667000</ctml:latitude>
+    <ctml:longitude>-71.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31214" kind="city">
+    <ctml:name>Villa Elisa</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Cristi</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-15</ctml:parentRef>
+    <ctml:wikiDataId>Q7930310</ctml:wikiDataId>
+    <ctml:latitude>19.68560000</ctml:latitude>
+    <ctml:longitude>-71.27007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31221" kind="city">
+    <ctml:name>Villa Vásquez</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Cristi</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1770880</ctml:wikiDataId>
+    <ctml:latitude>19.80791000</ctml:latitude>
+    <ctml:longitude>-71.44000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31028" kind="city">
+    <ctml:name>Bayaguana</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-29</ctml:parentRef>
+    <ctml:wikiDataId>Q1770505</ctml:wikiDataId>
+    <ctml:latitude>18.78333000</ctml:latitude>
+    <ctml:longitude>-69.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31054" kind="city">
+    <ctml:name>Don Juan</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-29</ctml:parentRef>
+    <ctml:wikiDataId>Q5292861</ctml:wikiDataId>
+    <ctml:latitude>18.82774000</ctml:latitude>
+    <ctml:longitude>-69.94629000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31068" kind="city">
+    <ctml:name>Esperalvillo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-29</ctml:parentRef>
+    <ctml:wikiDataId>Q3733090</ctml:wikiDataId>
+    <ctml:latitude>18.81509000</ctml:latitude>
+    <ctml:longitude>-70.03557000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31076" kind="city">
+    <ctml:name>Gonzalo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-29</ctml:parentRef>
+    <ctml:wikiDataId>Q23773798</ctml:wikiDataId>
+    <ctml:latitude>18.95147000</ctml:latitude>
+    <ctml:longitude>-69.75114000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31119" kind="city">
+    <ctml:name>Los Botados</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-29</ctml:parentRef>
+    <ctml:wikiDataId>Q6682531</ctml:wikiDataId>
+    <ctml:latitude>18.73226000</ctml:latitude>
+    <ctml:longitude>-69.99536000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31126" kind="city">
+    <ctml:name>Majagual</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-29</ctml:parentRef>
+    <ctml:wikiDataId>Q6737401</ctml:wikiDataId>
+    <ctml:latitude>19.04134000</ctml:latitude>
+    <ctml:longitude>-69.83616000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31171" kind="city">
+    <ctml:name>Sabana Grande de Boyá</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-29</ctml:parentRef>
+    <ctml:wikiDataId>Q23762283</ctml:wikiDataId>
+    <ctml:latitude>18.94498000</ctml:latitude>
+    <ctml:longitude>-69.79331000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31224" kind="city">
+    <ctml:name>Yamasá</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Monte Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-29</ctml:parentRef>
+    <ctml:wikiDataId>Q4022462</ctml:wikiDataId>
+    <ctml:latitude>18.77315000</ctml:latitude>
+    <ctml:longitude>-70.02583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31099" kind="city">
+    <ctml:name>Juancho</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Pedernales</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-16</ctml:parentRef>
+    <ctml:wikiDataId>Q6301488</ctml:wikiDataId>
+    <ctml:latitude>17.85782000</ctml:latitude>
+    <ctml:longitude>-71.29311000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31141" kind="city">
+    <ctml:name>Oviedo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Pedernales</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1770802</ctml:wikiDataId>
+    <ctml:latitude>17.80136000</ctml:latitude>
+    <ctml:longitude>-71.40100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31148" kind="city">
+    <ctml:name>Pedernales</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Pedernales</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-16</ctml:parentRef>
+    <ctml:wikiDataId>Q23764182</ctml:wikiDataId>
+    <ctml:latitude>18.08333000</ctml:latitude>
+    <ctml:longitude>-71.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31128" kind="city">
+    <ctml:name>Matanzas</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Peravia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-17</ctml:parentRef>
+    <ctml:wikiDataId>Q23765292</ctml:wikiDataId>
+    <ctml:latitude>18.24297000</ctml:latitude>
+    <ctml:longitude>-70.41768000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31139" kind="city">
+    <ctml:name>Nizao</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Peravia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-17</ctml:parentRef>
+    <ctml:wikiDataId>Q3877399</ctml:wikiDataId>
+    <ctml:latitude>18.24697000</ctml:latitude>
+    <ctml:longitude>-70.21053000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31147" kind="city">
+    <ctml:name>Paya</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Peravia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-17</ctml:parentRef>
+    <ctml:wikiDataId>Q23764171</ctml:wikiDataId>
+    <ctml:latitude>18.26196000</ctml:latitude>
+    <ctml:longitude>-70.29560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31157" kind="city">
+    <ctml:name>Pizarrete</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Peravia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-17</ctml:parentRef>
+    <ctml:wikiDataId>Q7199936</ctml:wikiDataId>
+    <ctml:latitude>18.29935000</ctml:latitude>
+    <ctml:longitude>-70.22648000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31170" kind="city">
+    <ctml:name>Sabana Buey</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Peravia</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-17</ctml:parentRef>
+    <ctml:wikiDataId>Q7395869</ctml:wikiDataId>
+    <ctml:latitude>18.27351000</ctml:latitude>
+    <ctml:longitude>-70.52352000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31020" kind="city">
+    <ctml:name>Altamira</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Puerto Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-18</ctml:parentRef>
+    <ctml:wikiDataId>Q23779605</ctml:wikiDataId>
+    <ctml:latitude>19.70000000</ctml:latitude>
+    <ctml:longitude>-70.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31035" kind="city">
+    <ctml:name>Cabarete</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Puerto Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-18</ctml:parentRef>
+    <ctml:wikiDataId>Q459919</ctml:wikiDataId>
+    <ctml:latitude>19.74982000</ctml:latitude>
+    <ctml:longitude>-70.40829000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31071" kind="city">
+    <ctml:name>Estero Hondo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Puerto Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-18</ctml:parentRef>
+    <ctml:wikiDataId>Q5401028</ctml:wikiDataId>
+    <ctml:latitude>19.82712000</ctml:latitude>
+    <ctml:longitude>-71.17411000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31077" kind="city">
+    <ctml:name>Guananico</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Puerto Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-18</ctml:parentRef>
+    <ctml:wikiDataId>Q3778171</ctml:wikiDataId>
+    <ctml:latitude>19.72693000</ctml:latitude>
+    <ctml:longitude>-70.92294000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31087" kind="city">
+    <ctml:name>Imbert</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Puerto Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-18</ctml:parentRef>
+    <ctml:wikiDataId>Q3796589</ctml:wikiDataId>
+    <ctml:latitude>19.75371000</ctml:latitude>
+    <ctml:longitude>-70.82906000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31120" kind="city">
+    <ctml:name>Los Hidalgos</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Puerto Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-18</ctml:parentRef>
+    <ctml:wikiDataId>Q518820</ctml:wikiDataId>
+    <ctml:latitude>19.73333000</ctml:latitude>
+    <ctml:longitude>-71.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31123" kind="city">
+    <ctml:name>Luperón</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Puerto Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-18</ctml:parentRef>
+    <ctml:wikiDataId>Q3840823</ctml:wikiDataId>
+    <ctml:latitude>19.89131000</ctml:latitude>
+    <ctml:longitude>-70.96204000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31135" kind="city">
+    <ctml:name>Monte Llano</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Puerto Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2130701</ctml:wikiDataId>
+    <ctml:latitude>19.73460000</ctml:latitude>
+    <ctml:longitude>-70.59915000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31167" kind="city">
+    <ctml:name>Río Grande</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Puerto Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-18</ctml:parentRef>
+    <ctml:wikiDataId>Q7386283</ctml:wikiDataId>
+    <ctml:latitude>19.66667000</ctml:latitude>
+    <ctml:longitude>-70.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31201" kind="city">
+    <ctml:name>Sosúa</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Puerto Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1639488</ctml:wikiDataId>
+    <ctml:latitude>19.75220000</ctml:latitude>
+    <ctml:longitude>-70.51995000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31217" kind="city">
+    <ctml:name>Villa Isabela</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Puerto Plata</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-18</ctml:parentRef>
+    <ctml:wikiDataId>Q4012142</ctml:wikiDataId>
+    <ctml:latitude>19.81564000</ctml:latitude>
+    <ctml:longitude>-71.06056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31116" kind="city">
+    <ctml:name>Las Terrenas</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Samaná</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-20</ctml:parentRef>
+    <ctml:wikiDataId>Q1806486</ctml:wikiDataId>
+    <ctml:latitude>19.31102000</ctml:latitude>
+    <ctml:longitude>-69.54280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31202" kind="city">
+    <ctml:name>Sánchez</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Samaná</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-20</ctml:parentRef>
+    <ctml:wikiDataId>Q23761049</ctml:wikiDataId>
+    <ctml:latitude>19.22810000</ctml:latitude>
+    <ctml:longitude>-69.61370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31026" kind="city">
+    <ctml:name>Bajos de Haina</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Cristóbal</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2438383</ctml:wikiDataId>
+    <ctml:latitude>18.41667000</ctml:latitude>
+    <ctml:longitude>-70.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DOM-31039" kind="admin2">
+    <ctml:name>Cambita Garabitos</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Cristóbal</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3651189</ctml:wikiDataId>
+    <ctml:latitude>18.50000000</ctml:latitude>
+    <ctml:longitude>-70.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31056" kind="city">
+    <ctml:name>El Cacao</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Cristóbal</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-21</ctml:parentRef>
+    <ctml:wikiDataId>Q23775949</ctml:wikiDataId>
+    <ctml:latitude>18.52719000</ctml:latitude>
+    <ctml:longitude>-70.29585000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31057" kind="city">
+    <ctml:name>El Carril</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Cristóbal</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-21</ctml:parentRef>
+    <ctml:wikiDataId>Q5350946</ctml:wikiDataId>
+    <ctml:latitude>18.44905000</ctml:latitude>
+    <ctml:longitude>-70.02785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31172" kind="city">
+    <ctml:name>Sabana Grande de Palenque</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Cristóbal</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3944201</ctml:wikiDataId>
+    <ctml:latitude>18.26256000</ctml:latitude>
+    <ctml:longitude>-70.14821000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31186" kind="city">
+    <ctml:name>San Gregorio de Nigua</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Cristóbal</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3947356</ctml:wikiDataId>
+    <ctml:latitude>18.38333000</ctml:latitude>
+    <ctml:longitude>-70.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31211" kind="city">
+    <ctml:name>Villa Altagracia</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Cristóbal</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-21</ctml:parentRef>
+    <ctml:wikiDataId>Q4011765</ctml:wikiDataId>
+    <ctml:latitude>18.63333000</ctml:latitude>
+    <ctml:longitude>-70.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31223" kind="city">
+    <ctml:name>Yaguate</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Cristóbal</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7930938</ctml:wikiDataId>
+    <ctml:latitude>18.33333000</ctml:latitude>
+    <ctml:longitude>-70.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31033" kind="city">
+    <ctml:name>Bohechío</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Juan</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-22</ctml:parentRef>
+    <ctml:wikiDataId>Q23778512</ctml:wikiDataId>
+    <ctml:latitude>18.77515000</ctml:latitude>
+    <ctml:longitude>-70.98889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31045" kind="city">
+    <ctml:name>Cercado Abajo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Juan</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-22</ctml:parentRef>
+    <ctml:wikiDataId>Q23777178</ctml:wikiDataId>
+    <ctml:latitude>18.72681000</ctml:latitude>
+    <ctml:longitude>-71.51742000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31058" kind="city">
+    <ctml:name>El Cercado</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Juan</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-22</ctml:parentRef>
+    <ctml:wikiDataId>Q5350946</ctml:wikiDataId>
+    <ctml:latitude>18.70000000</ctml:latitude>
+    <ctml:longitude>-71.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31098" kind="city">
+    <ctml:name>Juan de Herrera</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Juan</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3810939</ctml:wikiDataId>
+    <ctml:latitude>18.87402000</ctml:latitude>
+    <ctml:longitude>-71.23830000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31113" kind="city">
+    <ctml:name>Las Matas de Farfán</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Juan</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-22</ctml:parentRef>
+    <ctml:wikiDataId>Q23767955</ctml:wikiDataId>
+    <ctml:latitude>18.91667000</ctml:latitude>
+    <ctml:longitude>-71.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31129" kind="city">
+    <ctml:name>Matayaya</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Juan</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-22</ctml:parentRef>
+    <ctml:wikiDataId>Q15251099</ctml:wikiDataId>
+    <ctml:latitude>18.89036000</ctml:latitude>
+    <ctml:longitude>-71.59459000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31149" kind="city">
+    <ctml:name>Pedro Corto</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Juan</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-22</ctml:parentRef>
+    <ctml:wikiDataId>Q7159534</ctml:wikiDataId>
+    <ctml:latitude>18.84856000</ctml:latitude>
+    <ctml:longitude>-71.41041000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31208" kind="city">
+    <ctml:name>Vallejuelo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Juan</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-22</ctml:parentRef>
+    <ctml:wikiDataId>Q4008204</ctml:wikiDataId>
+    <ctml:latitude>18.65354000</ctml:latitude>
+    <ctml:longitude>-71.33431000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31064" kind="city">
+    <ctml:name>El Puerto</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Pedro de Macorís</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-23</ctml:parentRef>
+    <ctml:wikiDataId>Q23774554</ctml:wikiDataId>
+    <ctml:latitude>18.78333000</ctml:latitude>
+    <ctml:longitude>-69.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31121" kind="city">
+    <ctml:name>Los Llanos</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Pedro de Macorís</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-23</ctml:parentRef>
+    <ctml:wikiDataId>Q3947425</ctml:wikiDataId>
+    <ctml:latitude>18.62035000</ctml:latitude>
+    <ctml:longitude>-69.49581000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31163" kind="city">
+    <ctml:name>Quisqueya</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Pedro de Macorís</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-23</ctml:parentRef>
+    <ctml:wikiDataId>Q3928010</ctml:wikiDataId>
+    <ctml:latitude>18.55542000</ctml:latitude>
+    <ctml:longitude>-69.40814000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31164" kind="city">
+    <ctml:name>Ramón Santana</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>San Pedro de Macorís</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-23</ctml:parentRef>
+    <ctml:wikiDataId>Q3929979</ctml:wikiDataId>
+    <ctml:latitude>18.54224000</ctml:latitude>
+    <ctml:longitude>-69.17979000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31046" kind="city">
+    <ctml:name>Cevicos</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Sánchez Ramírez</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-24</ctml:parentRef>
+    <ctml:wikiDataId>Q3665682</ctml:wikiDataId>
+    <ctml:latitude>19.00449000</ctml:latitude>
+    <ctml:longitude>-69.97896000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31072" kind="city">
+    <ctml:name>Fantino</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Sánchez Ramírez</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-24</ctml:parentRef>
+    <ctml:wikiDataId>Q23774194</ctml:wikiDataId>
+    <ctml:latitude>19.11667000</ctml:latitude>
+    <ctml:longitude>-70.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31025" kind="city">
+    <ctml:name>Baitoa</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-25</ctml:parentRef>
+    <ctml:wikiDataId>Q4848740</ctml:wikiDataId>
+    <ctml:latitude>19.32512000</ctml:latitude>
+    <ctml:longitude>-70.70357000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31030" kind="city">
+    <ctml:name>Bisonó</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-25</ctml:parentRef>
+    <ctml:wikiDataId>Q2690547</ctml:wikiDataId>
+    <ctml:latitude>19.58333000</ctml:latitude>
+    <ctml:longitude>-70.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31100" kind="city">
+    <ctml:name>Juncalito Abajo</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-25</ctml:parentRef>
+    <ctml:wikiDataId>Q5637332</ctml:wikiDataId>
+    <ctml:latitude>19.21990000</ctml:latitude>
+    <ctml:longitude>-70.81905000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31102" kind="city">
+    <ctml:name>La Canela</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-25</ctml:parentRef>
+    <ctml:wikiDataId>Q23770192</ctml:wikiDataId>
+    <ctml:latitude>19.47341000</ctml:latitude>
+    <ctml:longitude>-70.81629000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31117" kind="city">
+    <ctml:name>Licey al Medio</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1806486</ctml:wikiDataId>
+    <ctml:latitude>19.45000000</ctml:latitude>
+    <ctml:longitude>-70.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31143" kind="city">
+    <ctml:name>Palmar Arriba</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-25</ctml:parentRef>
+    <ctml:wikiDataId>Q7128130</ctml:wikiDataId>
+    <ctml:latitude>19.53957000</ctml:latitude>
+    <ctml:longitude>-70.73826000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31150" kind="city">
+    <ctml:name>Pedro García</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-25</ctml:parentRef>
+    <ctml:wikiDataId>Q23764196</ctml:wikiDataId>
+    <ctml:latitude>19.59202000</ctml:latitude>
+    <ctml:longitude>-70.65256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31173" kind="city">
+    <ctml:name>Sabana Iglesia</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-25</ctml:parentRef>
+    <ctml:wikiDataId>Q3944203</ctml:wikiDataId>
+    <ctml:latitude>19.32114000</ctml:latitude>
+    <ctml:longitude>-70.75992000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31188" kind="city">
+    <ctml:name>San José de Las Matas</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-25</ctml:parentRef>
+    <ctml:wikiDataId>Q3947426</ctml:wikiDataId>
+    <ctml:latitude>19.33915000</ctml:latitude>
+    <ctml:longitude>-70.93819000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31200" kind="city">
+    <ctml:name>Santo Tomás de Jánico</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-25</ctml:parentRef>
+    <ctml:wikiDataId>Q3949488</ctml:wikiDataId>
+    <ctml:latitude>19.23528000</ctml:latitude>
+    <ctml:longitude>-70.79515000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31204" kind="city">
+    <ctml:name>Tamboril</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-25</ctml:parentRef>
+    <ctml:wikiDataId>Q23760505</ctml:wikiDataId>
+    <ctml:latitude>19.48538000</ctml:latitude>
+    <ctml:longitude>-70.61104000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31212" kind="city">
+    <ctml:name>Villa Bisonó</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-25</ctml:parentRef>
+    <ctml:wikiDataId>Q23756782</ctml:wikiDataId>
+    <ctml:latitude>19.56378000</ctml:latitude>
+    <ctml:longitude>-70.87582000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31216" kind="city">
+    <ctml:name>Villa González</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-25</ctml:parentRef>
+    <ctml:wikiDataId>Q4012077</ctml:wikiDataId>
+    <ctml:latitude>19.54057000</ctml:latitude>
+    <ctml:longitude>-70.78853000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31133" kind="city">
+    <ctml:name>Monción</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago Rodríguez</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-26</ctml:parentRef>
+    <ctml:wikiDataId>Q3307947</ctml:wikiDataId>
+    <ctml:latitude>19.46667000</ctml:latitude>
+    <ctml:longitude>-71.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31177" kind="city">
+    <ctml:name>Sabaneta</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santiago Rodríguez</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-26</ctml:parentRef>
+    <ctml:wikiDataId>Q7395875</ctml:wikiDataId>
+    <ctml:latitude>19.47793000</ctml:latitude>
+    <ctml:longitude>-71.34125000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31031" kind="city">
+    <ctml:name>Boca Chica</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santo Domingo</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-32</ctml:parentRef>
+    <ctml:wikiDataId>Q888935</ctml:wikiDataId>
+    <ctml:latitude>18.45000000</ctml:latitude>
+    <ctml:longitude>-69.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31199" kind="city">
+    <ctml:name>Santo Domingo Oeste</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Santo Domingo</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-32</ctml:parentRef>
+    <ctml:wikiDataId>Q3949488</ctml:wikiDataId>
+    <ctml:latitude>18.50000000</ctml:latitude>
+    <ctml:longitude>-70.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31021" kind="city">
+    <ctml:name>Amina</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Valverde</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-27</ctml:parentRef>
+    <ctml:wikiDataId>Q23779645</ctml:wikiDataId>
+    <ctml:latitude>19.54813000</ctml:latitude>
+    <ctml:longitude>-70.99599000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31069" kind="city">
+    <ctml:name>Esperanza</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Valverde</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-27</ctml:parentRef>
+    <ctml:wikiDataId>Q1770079</ctml:wikiDataId>
+    <ctml:latitude>19.62379000</ctml:latitude>
+    <ctml:longitude>-70.97141000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31078" kind="city">
+    <ctml:name>Guatapanal</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Valverde</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-27</ctml:parentRef>
+    <ctml:wikiDataId>Q5614204</ctml:wikiDataId>
+    <ctml:latitude>19.50705000</ctml:latitude>
+    <ctml:longitude>-70.91713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31088" kind="city">
+    <ctml:name>Jaibón</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Valverde</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-27</ctml:parentRef>
+    <ctml:wikiDataId>Q23770722</ctml:wikiDataId>
+    <ctml:latitude>19.61169000</ctml:latitude>
+    <ctml:longitude>-71.14847000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31092" kind="city">
+    <ctml:name>Jicomé</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Valverde</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-27</ctml:parentRef>
+    <ctml:wikiDataId>Q6192099</ctml:wikiDataId>
+    <ctml:latitude>19.64955000</ctml:latitude>
+    <ctml:longitude>-70.94927000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31103" kind="city">
+    <ctml:name>La Caya</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Valverde</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-27</ctml:parentRef>
+    <ctml:wikiDataId>Q6461598</ctml:wikiDataId>
+    <ctml:latitude>19.69981000</ctml:latitude>
+    <ctml:longitude>-71.12084000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31110" kind="city">
+    <ctml:name>Laguna Salada</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Valverde</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-27</ctml:parentRef>
+    <ctml:wikiDataId>Q1770074</ctml:wikiDataId>
+    <ctml:latitude>19.70000000</ctml:latitude>
+    <ctml:longitude>-71.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DOM-31125" kind="city">
+    <ctml:name>Maizal</ctml:name>
+    <ctml:country>DOM</ctml:country>
+    <ctml:admin1>Valverde</ctml:admin1>
+    <ctml:parentRef>place:admin1:DO-27</ctml:parentRef>
+    <ctml:wikiDataId>Q6737246</ctml:wikiDataId>
+    <ctml:latitude>19.63655000</ctml:latitude>
+    <ctml:longitude>-71.02734000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

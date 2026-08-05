@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:GAB-48131" kind="city">
+    <ctml:name>Cocobeach</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Estuaire</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-1</ctml:parentRef>
+    <ctml:wikiDataId>Q491801</ctml:wikiDataId>
+    <ctml:latitude>1.00019000</ctml:latitude>
+    <ctml:longitude>9.58229000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48138" kind="city">
+    <ctml:name>Libreville</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Estuaire</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-1</ctml:parentRef>
+    <ctml:wikiDataId>Q3825</ctml:wikiDataId>
+    <ctml:latitude>0.39241000</ctml:latitude>
+    <ctml:longitude>9.45356000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48150" kind="city">
+    <ctml:name>Ntoum</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Estuaire</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-1</ctml:parentRef>
+    <ctml:wikiDataId>Q1316415</ctml:wikiDataId>
+    <ctml:latitude>0.39051000</ctml:latitude>
+    <ctml:longitude>9.76096000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48139" kind="city">
+    <ctml:name>Lékoni</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Haut-Ogooué</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-2</ctml:parentRef>
+    <ctml:wikiDataId>Q6350743</ctml:wikiDataId>
+    <ctml:latitude>-1.58431000</ctml:latitude>
+    <ctml:longitude>14.25905000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48145" kind="city">
+    <ctml:name>Moanda</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Haut-Ogooué</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-2</ctml:parentRef>
+    <ctml:wikiDataId>Q1015100</ctml:wikiDataId>
+    <ctml:latitude>-1.56652000</ctml:latitude>
+    <ctml:longitude>13.19870000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48147" kind="city">
+    <ctml:name>Mounana</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Haut-Ogooué</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-2</ctml:parentRef>
+    <ctml:wikiDataId>Q1200140</ctml:wikiDataId>
+    <ctml:latitude>-1.40850000</ctml:latitude>
+    <ctml:longitude>13.15857000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48151" kind="city">
+    <ctml:name>Okondja</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Haut-Ogooué</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-2</ctml:parentRef>
+    <ctml:wikiDataId>Q4332646</ctml:wikiDataId>
+    <ctml:latitude>-0.65487000</ctml:latitude>
+    <ctml:longitude>13.67533000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48149" kind="city">
+    <ctml:name>Ndjolé</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Moyen-Ogooué</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-3</ctml:parentRef>
+    <ctml:wikiDataId>Q1316415</ctml:wikiDataId>
+    <ctml:latitude>-0.17827000</ctml:latitude>
+    <ctml:longitude>10.76488000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48132" kind="city">
+    <ctml:name>Fougamou</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Ngounié</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-4</ctml:parentRef>
+    <ctml:wikiDataId>Q1106169</ctml:wikiDataId>
+    <ctml:latitude>-1.21544000</ctml:latitude>
+    <ctml:longitude>10.58378000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48142" kind="city">
+    <ctml:name>Mbigou</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Ngounié</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-4</ctml:parentRef>
+    <ctml:wikiDataId>Q3303524</ctml:wikiDataId>
+    <ctml:latitude>-1.90046000</ctml:latitude>
+    <ctml:longitude>11.90600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48143" kind="city">
+    <ctml:name>Mimongo</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Ngounié</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-4</ctml:parentRef>
+    <ctml:wikiDataId>Q3314639</ctml:wikiDataId>
+    <ctml:latitude>-1.61952000</ctml:latitude>
+    <ctml:longitude>11.60675000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48148" kind="city">
+    <ctml:name>Ndendé</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Ngounié</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-4</ctml:parentRef>
+    <ctml:wikiDataId>Q1200140</ctml:wikiDataId>
+    <ctml:latitude>-2.40077000</ctml:latitude>
+    <ctml:longitude>11.35813000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48141" kind="city">
+    <ctml:name>Mayumba</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Nyanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-5</ctml:parentRef>
+    <ctml:wikiDataId>Q2738426</ctml:wikiDataId>
+    <ctml:latitude>-3.43198000</ctml:latitude>
+    <ctml:longitude>10.65540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48130" kind="city">
+    <ctml:name>Booué</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Ogooué-Ivindo</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-6</ctml:parentRef>
+    <ctml:wikiDataId>Q1052014</ctml:wikiDataId>
+    <ctml:latitude>-0.09207000</ctml:latitude>
+    <ctml:longitude>11.93846000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48156" kind="city">
+    <ctml:name>Zadie</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Ogooué-Ivindo</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-6</ctml:parentRef>
+    <ctml:wikiDataId>Q690421</ctml:wikiDataId>
+    <ctml:latitude>0.92582000</ctml:latitude>
+    <ctml:longitude>13.90813000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48137" kind="city">
+    <ctml:name>Lastoursville</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Ogooué-Lolo</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-7</ctml:parentRef>
+    <ctml:wikiDataId>Q1818610</ctml:wikiDataId>
+    <ctml:latitude>-0.81742000</ctml:latitude>
+    <ctml:longitude>12.70818000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48134" kind="city">
+    <ctml:name>Gamba</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Ogooué-Maritime</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-8</ctml:parentRef>
+    <ctml:wikiDataId>Q1492877</ctml:wikiDataId>
+    <ctml:latitude>-2.65000000</ctml:latitude>
+    <ctml:longitude>10.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48152" kind="city">
+    <ctml:name>Omboué</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Ogooué-Maritime</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-8</ctml:parentRef>
+    <ctml:wikiDataId>Q2717524</ctml:wikiDataId>
+    <ctml:latitude>-1.57464000</ctml:latitude>
+    <ctml:longitude>9.26184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48129" kind="city">
+    <ctml:name>Bitam</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Woleu-Ntem</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-9</ctml:parentRef>
+    <ctml:wikiDataId>Q1023124</ctml:wikiDataId>
+    <ctml:latitude>2.07597000</ctml:latitude>
+    <ctml:longitude>11.50065000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GAB-48144" kind="city">
+    <ctml:name>Mitzic</ctml:name>
+    <ctml:country>GAB</ctml:country>
+    <ctml:admin1>Woleu-Ntem</ctml:admin1>
+    <ctml:parentRef>place:admin1:GA-9</ctml:parentRef>
+    <ctml:wikiDataId>Q3135733</ctml:wikiDataId>
+    <ctml:latitude>0.78205000</ctml:latitude>
+    <ctml:longitude>11.54904000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

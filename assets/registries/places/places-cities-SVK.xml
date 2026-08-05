@@ -1,0 +1,2010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:SVK-104371" kind="admin2">
+    <ctml:name>Banská Štiavnica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q208110</ctml:wikiDataId>
+    <ctml:latitude>48.44858000</ctml:latitude>
+    <ctml:longitude>18.91003000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104376" kind="admin2">
+    <ctml:name>Brezno</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q465312</ctml:wikiDataId>
+    <ctml:latitude>48.80431000</ctml:latitude>
+    <ctml:longitude>19.63631000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104589" kind="city">
+    <ctml:name>Čierny Balog</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q341490</ctml:wikiDataId>
+    <ctml:latitude>48.74722000</ctml:latitude>
+    <ctml:longitude>19.65125000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104381" kind="city">
+    <ctml:name>Detva</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q11857</ctml:wikiDataId>
+    <ctml:latitude>48.56082000</ctml:latitude>
+    <ctml:longitude>19.41954000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104385" kind="city">
+    <ctml:name>Dudince</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q531445</ctml:wikiDataId>
+    <ctml:latitude>48.17135000</ctml:latitude>
+    <ctml:longitude>18.88782000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104388" kind="city">
+    <ctml:name>Fiľakovo</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q247620</ctml:wikiDataId>
+    <ctml:latitude>48.26757000</ctml:latitude>
+    <ctml:longitude>19.82473000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104397" kind="city">
+    <ctml:name>Hriňová</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q846431</ctml:wikiDataId>
+    <ctml:latitude>48.57787000</ctml:latitude>
+    <ctml:longitude>19.52574000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104398" kind="city">
+    <ctml:name>HrochoťSlovakia</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q1020068</ctml:wikiDataId>
+    <ctml:latitude>48.65567000</ctml:latitude>
+    <ctml:longitude>19.31284000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104408" kind="city">
+    <ctml:name>Kováčová</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q262165</ctml:wikiDataId>
+    <ctml:latitude>48.60148000</ctml:latitude>
+    <ctml:longitude>19.10252000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104415" kind="city">
+    <ctml:name>Kremnica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q754776</ctml:wikiDataId>
+    <ctml:latitude>48.70519000</ctml:latitude>
+    <ctml:longitude>18.91834000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104417" kind="admin2">
+    <ctml:name>Krupina</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q756667</ctml:wikiDataId>
+    <ctml:latitude>48.35540000</ctml:latitude>
+    <ctml:longitude>19.06474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104426" kind="admin2">
+    <ctml:name>Lučenec</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q728965</ctml:wikiDataId>
+    <ctml:latitude>48.33249000</ctml:latitude>
+    <ctml:longitude>19.66708000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104440" kind="city">
+    <ctml:name>Nová Baňa</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q268463</ctml:wikiDataId>
+    <ctml:latitude>48.42305000</ctml:latitude>
+    <ctml:longitude>18.64037000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104447" kind="city">
+    <ctml:name>Okres Banská Bystrica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q539934</ctml:wikiDataId>
+    <ctml:latitude>48.73333000</ctml:latitude>
+    <ctml:longitude>19.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104448" kind="city">
+    <ctml:name>Okres Banská Štiavnica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q836179</ctml:wikiDataId>
+    <ctml:latitude>48.44961000</ctml:latitude>
+    <ctml:longitude>18.90820000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104455" kind="city">
+    <ctml:name>Okres Brezno</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q784394</ctml:wikiDataId>
+    <ctml:latitude>48.80000000</ctml:latitude>
+    <ctml:longitude>19.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104458" kind="city">
+    <ctml:name>Okres Detva</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q532137</ctml:wikiDataId>
+    <ctml:latitude>48.55985000</ctml:latitude>
+    <ctml:longitude>19.42044000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104469" kind="city">
+    <ctml:name>Okres Krupina</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q756660</ctml:wikiDataId>
+    <ctml:latitude>48.35736000</ctml:latitude>
+    <ctml:longitude>19.06334000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104474" kind="city">
+    <ctml:name>Okres Lučenec</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q836205</ctml:wikiDataId>
+    <ctml:latitude>48.33333000</ctml:latitude>
+    <ctml:longitude>19.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104487" kind="city">
+    <ctml:name>Okres Poltár</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q256846</ctml:wikiDataId>
+    <ctml:latitude>48.42895000</ctml:latitude>
+    <ctml:longitude>19.79488000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104493" kind="city">
+    <ctml:name>Okres Revúca</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q651878</ctml:wikiDataId>
+    <ctml:latitude>48.68300000</ctml:latitude>
+    <ctml:longitude>20.11568000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104512" kind="city">
+    <ctml:name>Okres Veľký Krtíš</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q546630</ctml:wikiDataId>
+    <ctml:latitude>48.20000000</ctml:latitude>
+    <ctml:longitude>19.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104518" kind="city">
+    <ctml:name>Okres Žarnovica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q633617</ctml:wikiDataId>
+    <ctml:latitude>48.48438000</ctml:latitude>
+    <ctml:longitude>18.72076000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104519" kind="admin2">
+    <ctml:name>Okres Žiar nad Hronom</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q836194</ctml:wikiDataId>
+    <ctml:latitude>48.58333000</ctml:latitude>
+    <ctml:longitude>18.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104515" kind="city">
+    <ctml:name>Okres Zvolen</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q370161</ctml:wikiDataId>
+    <ctml:latitude>48.58333000</ctml:latitude>
+    <ctml:longitude>19.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104527" kind="admin2">
+    <ctml:name>Poltár</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q259694</ctml:wikiDataId>
+    <ctml:latitude>48.43094000</ctml:latitude>
+    <ctml:longitude>19.79408000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104535" kind="admin2">
+    <ctml:name>Revúca</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q847213</ctml:wikiDataId>
+    <ctml:latitude>48.68346000</ctml:latitude>
+    <ctml:longitude>20.11734000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104536" kind="admin2">
+    <ctml:name>Rimavská Sobota</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q829812</ctml:wikiDataId>
+    <ctml:latitude>48.38284000</ctml:latitude>
+    <ctml:longitude>20.02239000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104559" kind="city">
+    <ctml:name>Svätý Anton</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q249613</ctml:wikiDataId>
+    <ctml:latitude>48.41923000</ctml:latitude>
+    <ctml:longitude>18.94010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104562" kind="city">
+    <ctml:name>Tisovec</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q370445</ctml:wikiDataId>
+    <ctml:latitude>48.67738000</ctml:latitude>
+    <ctml:longitude>19.94364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104573" kind="admin2">
+    <ctml:name>Veľký Krtíš</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q673741</ctml:wikiDataId>
+    <ctml:latitude>48.21059000</ctml:latitude>
+    <ctml:longitude>19.35043000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104597" kind="admin2">
+    <ctml:name>Žarnovica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q393421</ctml:wikiDataId>
+    <ctml:latitude>48.48123000</ctml:latitude>
+    <ctml:longitude>18.71565000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104601" kind="admin2">
+    <ctml:name>Žiar nad Hronom</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q393925</ctml:wikiDataId>
+    <ctml:latitude>48.59184000</ctml:latitude>
+    <ctml:longitude>18.84958000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104585" kind="city">
+    <ctml:name>Zvolen</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Banská Bystrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q207226</ctml:wikiDataId>
+    <ctml:latitude>48.57442000</ctml:latitude>
+    <ctml:longitude>19.15324000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104374" kind="city">
+    <ctml:name>Bratislava</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q1780</ctml:wikiDataId>
+    <ctml:latitude>48.14816000</ctml:latitude>
+    <ctml:longitude>17.10674000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104375" kind="city">
+    <ctml:name>Bratislava - Vajnory</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q1091778</ctml:wikiDataId>
+    <ctml:latitude>48.20563000</ctml:latitude>
+    <ctml:longitude>17.20759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104386" kind="city">
+    <ctml:name>Dunajská Lužná</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q911359</ctml:wikiDataId>
+    <ctml:latitude>48.08347000</ctml:latitude>
+    <ctml:longitude>17.26072000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104403" kind="city">
+    <ctml:name>Ivanka pri Dunaji</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q302787</ctml:wikiDataId>
+    <ctml:latitude>48.18675000</ctml:latitude>
+    <ctml:longitude>17.25540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104428" kind="admin2">
+    <ctml:name>Malacky</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q837464</ctml:wikiDataId>
+    <ctml:latitude>48.43604000</ctml:latitude>
+    <ctml:longitude>17.02188000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104429" kind="city">
+    <ctml:name>Marianka</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q266939</ctml:wikiDataId>
+    <ctml:latitude>48.24903000</ctml:latitude>
+    <ctml:longitude>17.06400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104434" kind="city">
+    <ctml:name>Modra</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q596044</ctml:wikiDataId>
+    <ctml:latitude>48.33397000</ctml:latitude>
+    <ctml:longitude>17.30711000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104450" kind="city">
+    <ctml:name>Okres Bratislava I</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q737665</ctml:wikiDataId>
+    <ctml:latitude>48.14653000</ctml:latitude>
+    <ctml:longitude>17.10584000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104451" kind="city">
+    <ctml:name>Okres Bratislava II</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q539732</ctml:wikiDataId>
+    <ctml:latitude>48.15280000</ctml:latitude>
+    <ctml:longitude>17.17764000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104452" kind="city">
+    <ctml:name>Okres Bratislava III</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q750419</ctml:wikiDataId>
+    <ctml:latitude>48.18543000</ctml:latitude>
+    <ctml:longitude>17.13790000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104453" kind="city">
+    <ctml:name>Okres Bratislava IV</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q750416</ctml:wikiDataId>
+    <ctml:latitude>48.22787000</ctml:latitude>
+    <ctml:longitude>16.99722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104454" kind="city">
+    <ctml:name>Okres Bratislava V</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q750439</ctml:wikiDataId>
+    <ctml:latitude>48.11122000</ctml:latitude>
+    <ctml:longitude>17.09444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104475" kind="city">
+    <ctml:name>Okres Malacky</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q590660</ctml:wikiDataId>
+    <ctml:latitude>48.43458000</ctml:latitude>
+    <ctml:longitude>17.02166000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104485" kind="city">
+    <ctml:name>Okres Pezinok</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q791591</ctml:wikiDataId>
+    <ctml:latitude>48.28785000</ctml:latitude>
+    <ctml:longitude>17.26799000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104497" kind="city">
+    <ctml:name>Okres Senec</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q513989</ctml:wikiDataId>
+    <ctml:latitude>48.22187000</ctml:latitude>
+    <ctml:longitude>17.40328000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104524" kind="admin2">
+    <ctml:name>Pezinok</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q659424</ctml:wikiDataId>
+    <ctml:latitude>48.28986000</ctml:latitude>
+    <ctml:longitude>17.26664000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104540" kind="admin2">
+    <ctml:name>Senec</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q754790</ctml:wikiDataId>
+    <ctml:latitude>48.21951000</ctml:latitude>
+    <ctml:longitude>17.40043000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104555" kind="city">
+    <ctml:name>Stupava</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q782928</ctml:wikiDataId>
+    <ctml:latitude>48.27474000</ctml:latitude>
+    <ctml:longitude>17.03173000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104560" kind="city">
+    <ctml:name>Svätý Jur</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q247240</ctml:wikiDataId>
+    <ctml:latitude>48.25216000</ctml:latitude>
+    <ctml:longitude>17.21539000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104576" kind="city">
+    <ctml:name>Vinosady</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Bratislava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q1187936</ctml:wikiDataId>
+    <ctml:latitude>48.31142000</ctml:latitude>
+    <ctml:longitude>17.29042000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104588" kind="city">
+    <ctml:name>Čierna nad Tisou</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q1192851</ctml:wikiDataId>
+    <ctml:latitude>48.41704000</ctml:latitude>
+    <ctml:longitude>22.08865000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104382" kind="city">
+    <ctml:name>Dobšiná</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q279005</ctml:wikiDataId>
+    <ctml:latitude>48.82073000</ctml:latitude>
+    <ctml:longitude>20.36988000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104392" kind="admin2">
+    <ctml:name>Gelnica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q842028</ctml:wikiDataId>
+    <ctml:latitude>48.85584000</ctml:latitude>
+    <ctml:longitude>20.93713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104404" kind="city">
+    <ctml:name>Kavečany</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q572748</ctml:wikiDataId>
+    <ctml:latitude>48.77592000</ctml:latitude>
+    <ctml:longitude>21.20587000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104412" kind="city">
+    <ctml:name>Košice III</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q548619</ctml:wikiDataId>
+    <ctml:latitude>48.73242000</ctml:latitude>
+    <ctml:longitude>21.29047000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104416" kind="city">
+    <ctml:name>Krompachy</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q842018</ctml:wikiDataId>
+    <ctml:latitude>48.91447000</ctml:latitude>
+    <ctml:longitude>20.87514000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104431" kind="city">
+    <ctml:name>Medzev</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q135727</ctml:wikiDataId>
+    <ctml:latitude>48.70041000</ctml:latitude>
+    <ctml:longitude>20.89367000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104433" kind="admin2">
+    <ctml:name>Michalovce</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q460925</ctml:wikiDataId>
+    <ctml:latitude>48.75434000</ctml:latitude>
+    <ctml:longitude>21.91950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104435" kind="city">
+    <ctml:name>Moldava nad Bodvou</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q846440</ctml:wikiDataId>
+    <ctml:latitude>48.61428000</ctml:latitude>
+    <ctml:longitude>20.99957000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104462" kind="city">
+    <ctml:name>Okres Gelnica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q220968</ctml:wikiDataId>
+    <ctml:latitude>48.85207000</ctml:latitude>
+    <ctml:longitude>20.93385000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104468" kind="city">
+    <ctml:name>Okres Kosice-okolie</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q539979</ctml:wikiDataId>
+    <ctml:latitude>48.77897000</ctml:latitude>
+    <ctml:longitude>21.41373000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104478" kind="city">
+    <ctml:name>Okres Michalovce</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q379320</ctml:wikiDataId>
+    <ctml:latitude>48.75000000</ctml:latitude>
+    <ctml:longitude>21.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104494" kind="city">
+    <ctml:name>Okres Rožňava</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q756075</ctml:wikiDataId>
+    <ctml:latitude>48.66667000</ctml:latitude>
+    <ctml:longitude>20.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104501" kind="city">
+    <ctml:name>Okres Sobrance</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q830991</ctml:wikiDataId>
+    <ctml:latitude>48.74247000</ctml:latitude>
+    <ctml:longitude>22.18197000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104502" kind="city">
+    <ctml:name>Okres Spišská Nová Ves</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q756077</ctml:wikiDataId>
+    <ctml:latitude>48.95000000</ctml:latitude>
+    <ctml:longitude>20.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104507" kind="city">
+    <ctml:name>Okres Trebišov</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q301318</ctml:wikiDataId>
+    <ctml:latitude>48.63333000</ctml:latitude>
+    <ctml:longitude>21.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104537" kind="admin2">
+    <ctml:name>Rožňava</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q267888</ctml:wikiDataId>
+    <ctml:latitude>48.66009000</ctml:latitude>
+    <ctml:longitude>20.53758000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104542" kind="city">
+    <ctml:name>Sečovce</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q847336</ctml:wikiDataId>
+    <ctml:latitude>48.70074000</ctml:latitude>
+    <ctml:longitude>21.66104000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104547" kind="admin2">
+    <ctml:name>Sobrance</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q241125</ctml:wikiDataId>
+    <ctml:latitude>48.74455000</ctml:latitude>
+    <ctml:longitude>22.18136000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104549" kind="admin2">
+    <ctml:name>Spišská Nová Ves</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q462840</ctml:wikiDataId>
+    <ctml:latitude>48.94464000</ctml:latitude>
+    <ctml:longitude>20.56153000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104554" kind="city">
+    <ctml:name>Strážske</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q846434</ctml:wikiDataId>
+    <ctml:latitude>48.87350000</ctml:latitude>
+    <ctml:longitude>21.83668000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104565" kind="admin2">
+    <ctml:name>Trebišov</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q256301</ctml:wikiDataId>
+    <ctml:latitude>48.62858000</ctml:latitude>
+    <ctml:longitude>21.71954000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104575" kind="city">
+    <ctml:name>Vinné</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q1187936</ctml:wikiDataId>
+    <ctml:latitude>48.80965000</ctml:latitude>
+    <ctml:longitude>21.96757000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104599" kind="city">
+    <ctml:name>Žehra</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Košice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-KI</ctml:parentRef>
+    <ctml:wikiDataId>Q393479</ctml:wikiDataId>
+    <ctml:latitude>48.97960000</ctml:latitude>
+    <ctml:longitude>20.79170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104400" kind="city">
+    <ctml:name>Hurbanovo</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q856402</ctml:wikiDataId>
+    <ctml:latitude>47.86984000</ctml:latitude>
+    <ctml:longitude>18.19233000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104406" kind="city">
+    <ctml:name>Kolárovo</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q374095</ctml:wikiDataId>
+    <ctml:latitude>47.92294000</ctml:latitude>
+    <ctml:longitude>17.98467000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104407" kind="city">
+    <ctml:name>Komárno</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q210796</ctml:wikiDataId>
+    <ctml:latitude>47.76356000</ctml:latitude>
+    <ctml:longitude>18.12263000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104421" kind="admin2">
+    <ctml:name>Levice</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q506693</ctml:wikiDataId>
+    <ctml:latitude>48.21563000</ctml:latitude>
+    <ctml:longitude>18.60705000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104445" kind="city">
+    <ctml:name>Nové Zámky</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q376987</ctml:wikiDataId>
+    <ctml:latitude>47.98544000</ctml:latitude>
+    <ctml:longitude>18.16195000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104467" kind="city">
+    <ctml:name>Okres Komárno</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q586056</ctml:wikiDataId>
+    <ctml:latitude>47.76667000</ctml:latitude>
+    <ctml:longitude>18.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104471" kind="city">
+    <ctml:name>Okres Levice</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q777394</ctml:wikiDataId>
+    <ctml:latitude>48.21667000</ctml:latitude>
+    <ctml:longitude>18.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104481" kind="city">
+    <ctml:name>Okres Nitra</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q761574</ctml:wikiDataId>
+    <ctml:latitude>48.31667000</ctml:latitude>
+    <ctml:longitude>18.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104483" kind="city">
+    <ctml:name>Okres Nové Zámky</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q276362</ctml:wikiDataId>
+    <ctml:latitude>47.98333000</ctml:latitude>
+    <ctml:longitude>18.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104517" kind="city">
+    <ctml:name>Okres Šaľa</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q687009</ctml:wikiDataId>
+    <ctml:latitude>48.14770000</ctml:latitude>
+    <ctml:longitude>17.87306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104506" kind="city">
+    <ctml:name>Okres Topoľčany</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q599361</ctml:wikiDataId>
+    <ctml:latitude>48.56667000</ctml:latitude>
+    <ctml:longitude>18.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104514" kind="admin2">
+    <ctml:name>Okres Zlaté Moravce</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q775875</ctml:wikiDataId>
+    <ctml:latitude>48.38294000</ctml:latitude>
+    <ctml:longitude>18.39842000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104591" kind="city">
+    <ctml:name>Šahy</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q390946</ctml:wikiDataId>
+    <ctml:latitude>48.07408000</ctml:latitude>
+    <ctml:longitude>18.94946000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104593" kind="admin2">
+    <ctml:name>Šaľa</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q391361</ctml:wikiDataId>
+    <ctml:latitude>48.15127000</ctml:latitude>
+    <ctml:longitude>17.88062000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104595" kind="city">
+    <ctml:name>Štúrovo</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q60038</ctml:wikiDataId>
+    <ctml:latitude>47.79495000</ctml:latitude>
+    <ctml:longitude>18.71750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104596" kind="city">
+    <ctml:name>Šurany</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q392704</ctml:wikiDataId>
+    <ctml:latitude>48.08613000</ctml:latitude>
+    <ctml:longitude>18.18447000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104558" kind="city">
+    <ctml:name>Svodín</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q1070645</ctml:wikiDataId>
+    <ctml:latitude>47.91054000</ctml:latitude>
+    <ctml:longitude>18.49967000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104563" kind="city">
+    <ctml:name>Tlmače</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q239637</ctml:wikiDataId>
+    <ctml:latitude>48.28926000</ctml:latitude>
+    <ctml:longitude>18.53152000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104564" kind="admin2">
+    <ctml:name>Topoľčany</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q750423</ctml:wikiDataId>
+    <ctml:latitude>48.56361000</ctml:latitude>
+    <ctml:longitude>18.16712000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104580" kind="city">
+    <ctml:name>Vráble</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q264708</ctml:wikiDataId>
+    <ctml:latitude>48.24371000</ctml:latitude>
+    <ctml:longitude>18.30846000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104600" kind="city">
+    <ctml:name>Želiezovce</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q393609</ctml:wikiDataId>
+    <ctml:latitude>48.05075000</ctml:latitude>
+    <ctml:longitude>18.65421000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104584" kind="admin2">
+    <ctml:name>Zlaté Moravce</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Nitra</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q207226</ctml:wikiDataId>
+    <ctml:latitude>48.38553000</ctml:latitude>
+    <ctml:longitude>18.40063000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104372" kind="admin2">
+    <ctml:name>Bardejov</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q208110</ctml:wikiDataId>
+    <ctml:latitude>49.29175000</ctml:latitude>
+    <ctml:longitude>21.27271000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104380" kind="city">
+    <ctml:name>Chlmec</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q1035167</ctml:wikiDataId>
+    <ctml:latitude>48.88628000</ctml:latitude>
+    <ctml:longitude>21.93930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104393" kind="city">
+    <ctml:name>Giraltovce</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q550357</ctml:wikiDataId>
+    <ctml:latitude>49.11398000</ctml:latitude>
+    <ctml:longitude>21.51731000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104399" kind="admin2">
+    <ctml:name>Humenné</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q502264</ctml:wikiDataId>
+    <ctml:latitude>48.93707000</ctml:latitude>
+    <ctml:longitude>21.91625000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104405" kind="admin2">
+    <ctml:name>Kežmarok</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q327977</ctml:wikiDataId>
+    <ctml:latitude>49.13571000</ctml:latitude>
+    <ctml:longitude>20.43352000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104422" kind="admin2">
+    <ctml:name>Levoča</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q242478</ctml:wikiDataId>
+    <ctml:latitude>49.02173000</ctml:latitude>
+    <ctml:longitude>20.59212000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104423" kind="city">
+    <ctml:name>Lipany</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q847118</ctml:wikiDataId>
+    <ctml:latitude>49.15376000</ctml:latitude>
+    <ctml:longitude>20.96382000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104590" kind="city">
+    <ctml:name>Ľubica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q341490</ctml:wikiDataId>
+    <ctml:latitude>49.11667000</ctml:latitude>
+    <ctml:longitude>20.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104432" kind="city">
+    <ctml:name>Medzilaborce</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q578686</ctml:wikiDataId>
+    <ctml:latitude>49.27195000</ctml:latitude>
+    <ctml:longitude>21.90073000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104442" kind="city">
+    <ctml:name>Nová Lesná</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q664187</ctml:wikiDataId>
+    <ctml:latitude>49.12253000</ctml:latitude>
+    <ctml:longitude>20.26737000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104449" kind="city">
+    <ctml:name>Okres Bardejov</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q836179</ctml:wikiDataId>
+    <ctml:latitude>49.28333000</ctml:latitude>
+    <ctml:longitude>21.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104464" kind="city">
+    <ctml:name>Okres Humenné</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q837897</ctml:wikiDataId>
+    <ctml:latitude>48.93333000</ctml:latitude>
+    <ctml:longitude>21.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104466" kind="city">
+    <ctml:name>Okres Kežmarok</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q636864</ctml:wikiDataId>
+    <ctml:latitude>49.13593000</ctml:latitude>
+    <ctml:longitude>20.42929000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104472" kind="city">
+    <ctml:name>Okres Levoča</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q837877</ctml:wikiDataId>
+    <ctml:latitude>49.01986000</ctml:latitude>
+    <ctml:longitude>20.57688000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104477" kind="city">
+    <ctml:name>Okres Medzilaborce</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q837884</ctml:wikiDataId>
+    <ctml:latitude>49.27062000</ctml:latitude>
+    <ctml:longitude>21.90200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104488" kind="city">
+    <ctml:name>Okres Poprad</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q830982</ctml:wikiDataId>
+    <ctml:latitude>49.05000000</ctml:latitude>
+    <ctml:longitude>20.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104490" kind="city">
+    <ctml:name>Okres Prešov</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q756658</ctml:wikiDataId>
+    <ctml:latitude>49.00000000</ctml:latitude>
+    <ctml:longitude>21.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104496" kind="city">
+    <ctml:name>Okres Sabinov</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q747926</ctml:wikiDataId>
+    <ctml:latitude>49.10115000</ctml:latitude>
+    <ctml:longitude>21.09844000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104500" kind="city">
+    <ctml:name>Okres Snina</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q837888</ctml:wikiDataId>
+    <ctml:latitude>48.98579000</ctml:latitude>
+    <ctml:longitude>22.15059000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104503" kind="city">
+    <ctml:name>Okres Stará Ĺubovňa</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q831001</ctml:wikiDataId>
+    <ctml:latitude>49.30000000</ctml:latitude>
+    <ctml:longitude>20.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104504" kind="city">
+    <ctml:name>Okres Stropkov</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q777963</ctml:wikiDataId>
+    <ctml:latitude>49.20249000</ctml:latitude>
+    <ctml:longitude>21.65025000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104505" kind="city">
+    <ctml:name>Okres Svidník</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q833845</ctml:wikiDataId>
+    <ctml:latitude>49.30000000</ctml:latitude>
+    <ctml:longitude>21.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104513" kind="city">
+    <ctml:name>Okres Vranov nad Topľou</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q837874</ctml:wikiDataId>
+    <ctml:latitude>48.90000000</ctml:latitude>
+    <ctml:longitude>21.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104526" kind="city">
+    <ctml:name>Podolínec</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q852324</ctml:wikiDataId>
+    <ctml:latitude>49.25869000</ctml:latitude>
+    <ctml:longitude>20.53600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104528" kind="admin2">
+    <ctml:name>Poprad</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q26393</ctml:wikiDataId>
+    <ctml:latitude>49.06144000</ctml:latitude>
+    <ctml:longitude>20.29798000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104539" kind="admin2">
+    <ctml:name>Sabinov</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q837478</ctml:wikiDataId>
+    <ctml:latitude>49.10309000</ctml:latitude>
+    <ctml:longitude>21.09880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104546" kind="admin2">
+    <ctml:name>Snina</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q754788</ctml:wikiDataId>
+    <ctml:latitude>48.98857000</ctml:latitude>
+    <ctml:longitude>22.15099000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104548" kind="city">
+    <ctml:name>Spišská Belá</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q605059</ctml:wikiDataId>
+    <ctml:latitude>49.18725000</ctml:latitude>
+    <ctml:longitude>20.45948000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104550" kind="city">
+    <ctml:name>Spišské Podhradie</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q537778</ctml:wikiDataId>
+    <ctml:latitude>49.00088000</ctml:latitude>
+    <ctml:longitude>20.75307000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104552" kind="admin2">
+    <ctml:name>Stará Ľubovňa</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q605521</ctml:wikiDataId>
+    <ctml:latitude>49.29859000</ctml:latitude>
+    <ctml:longitude>20.68620000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104594" kind="city">
+    <ctml:name>Štrba</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q373739</ctml:wikiDataId>
+    <ctml:latitude>49.05913000</ctml:latitude>
+    <ctml:longitude>20.07975000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104553" kind="admin2">
+    <ctml:name>Stropkov</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q750413</ctml:wikiDataId>
+    <ctml:latitude>49.20211000</ctml:latitude>
+    <ctml:longitude>21.65216000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104556" kind="admin2">
+    <ctml:name>Svidník</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q782928</ctml:wikiDataId>
+    <ctml:latitude>49.30819000</ctml:latitude>
+    <ctml:longitude>21.57030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104557" kind="city">
+    <ctml:name>Svit</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q852318</ctml:wikiDataId>
+    <ctml:latitude>49.06014000</ctml:latitude>
+    <ctml:longitude>20.20695000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104577" kind="admin2">
+    <ctml:name>Vranov nad Topľou</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q842005</ctml:wikiDataId>
+    <ctml:latitude>48.88836000</ctml:latitude>
+    <ctml:longitude>21.68479000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104578" kind="city">
+    <ctml:name>Vrbov</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q545706</ctml:wikiDataId>
+    <ctml:latitude>49.08764000</ctml:latitude>
+    <ctml:longitude>20.42530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104583" kind="city">
+    <ctml:name>Vyšné Ružbachy</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q746119</ctml:wikiDataId>
+    <ctml:latitude>49.30387000</ctml:latitude>
+    <ctml:longitude>20.56558000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104582" kind="city">
+    <ctml:name>Vysoké Tatry</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q612516</ctml:wikiDataId>
+    <ctml:latitude>49.13637000</ctml:latitude>
+    <ctml:longitude>20.24386000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104598" kind="city">
+    <ctml:name>Ždiar</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Prešov</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-PV</ctml:parentRef>
+    <ctml:wikiDataId>Q393435</ctml:wikiDataId>
+    <ctml:latitude>49.27100000</ctml:latitude>
+    <ctml:longitude>20.26239000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104379" kind="admin2">
+    <ctml:name>Bánovce nad Bebravou</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q549849</ctml:wikiDataId>
+    <ctml:latitude>48.72130000</ctml:latitude>
+    <ctml:longitude>18.25754000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104373" kind="city">
+    <ctml:name>Bojnice</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q788753</ctml:wikiDataId>
+    <ctml:latitude>48.78511000</ctml:latitude>
+    <ctml:longitude>18.58640000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104377" kind="city">
+    <ctml:name>Brezová pod Bradlom</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q135818</ctml:wikiDataId>
+    <ctml:latitude>48.66349000</ctml:latitude>
+    <ctml:longitude>17.53905000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104586" kind="city">
+    <ctml:name>Čachtice</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q337440</ctml:wikiDataId>
+    <ctml:latitude>48.71226000</ctml:latitude>
+    <ctml:longitude>17.78704000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104384" kind="city">
+    <ctml:name>Dubnica nad Váhom</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q481528</ctml:wikiDataId>
+    <ctml:latitude>48.95981000</ctml:latitude>
+    <ctml:longitude>18.16634000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104394" kind="city">
+    <ctml:name>Handlová</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q842011</ctml:wikiDataId>
+    <ctml:latitude>48.72760000</ctml:latitude>
+    <ctml:longitude>18.76012000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104402" kind="admin2">
+    <ctml:name>Ilava</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q481564</ctml:wikiDataId>
+    <ctml:latitude>48.99769000</ctml:latitude>
+    <ctml:longitude>18.23530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104419" kind="city">
+    <ctml:name>Lehota pod Vtáčnikom</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q516578</ctml:wikiDataId>
+    <ctml:latitude>48.69138000</ctml:latitude>
+    <ctml:longitude>18.59944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104436" kind="city">
+    <ctml:name>Myjava</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q846440</ctml:wikiDataId>
+    <ctml:latitude>48.75876000</ctml:latitude>
+    <ctml:longitude>17.56866000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104437" kind="city">
+    <ctml:name>Nemšová</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q389942</ctml:wikiDataId>
+    <ctml:latitude>48.96702000</ctml:latitude>
+    <ctml:longitude>18.11892000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104441" kind="city">
+    <ctml:name>Nová Dubnica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q249935</ctml:wikiDataId>
+    <ctml:latitude>48.93479000</ctml:latitude>
+    <ctml:longitude>18.14632000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104443" kind="city">
+    <ctml:name>Nováky</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q909301</ctml:wikiDataId>
+    <ctml:latitude>48.71106000</ctml:latitude>
+    <ctml:longitude>18.53389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104444" kind="city">
+    <ctml:name>Nové Mesto nad Váhom</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q376987</ctml:wikiDataId>
+    <ctml:latitude>48.75763000</ctml:latitude>
+    <ctml:longitude>17.83090000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104457" kind="city">
+    <ctml:name>Okres Bánovce nad Bebravou</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q837865</ctml:wikiDataId>
+    <ctml:latitude>48.71908000</ctml:latitude>
+    <ctml:longitude>18.25773000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104465" kind="city">
+    <ctml:name>Okres Ilava</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q373881</ctml:wikiDataId>
+    <ctml:latitude>48.99641000</ctml:latitude>
+    <ctml:longitude>18.23374000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104479" kind="city">
+    <ctml:name>Okres Myjava</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q837460</ctml:wikiDataId>
+    <ctml:latitude>48.75000000</ctml:latitude>
+    <ctml:longitude>17.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104482" kind="city">
+    <ctml:name>Okres Nové Mesto nad Váhom</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q282702</ctml:wikiDataId>
+    <ctml:latitude>48.75466000</ctml:latitude>
+    <ctml:longitude>17.83506000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104484" kind="city">
+    <ctml:name>Okres Partizánske</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q837871</ctml:wikiDataId>
+    <ctml:latitude>48.62613000</ctml:latitude>
+    <ctml:longitude>18.37957000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104489" kind="city">
+    <ctml:name>Okres Považská Bystrica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q837891</ctml:wikiDataId>
+    <ctml:latitude>49.11667000</ctml:latitude>
+    <ctml:longitude>18.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104491" kind="city">
+    <ctml:name>Okres Prievidza</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q614140</ctml:wikiDataId>
+    <ctml:latitude>48.76667000</ctml:latitude>
+    <ctml:longitude>18.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104492" kind="city">
+    <ctml:name>Okres Púchov</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q768310</ctml:wikiDataId>
+    <ctml:latitude>49.12406000</ctml:latitude>
+    <ctml:longitude>18.32477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104508" kind="city">
+    <ctml:name>Okres Trenčín</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q339239</ctml:wikiDataId>
+    <ctml:latitude>48.89520000</ctml:latitude>
+    <ctml:longitude>18.04264000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104523" kind="admin2">
+    <ctml:name>Partizánske</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q754768</ctml:wikiDataId>
+    <ctml:latitude>48.62861000</ctml:latitude>
+    <ctml:longitude>18.38455000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104529" kind="admin2">
+    <ctml:name>Považská Bystrica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q319787</ctml:wikiDataId>
+    <ctml:latitude>49.12153000</ctml:latitude>
+    <ctml:longitude>18.42169000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104532" kind="admin2">
+    <ctml:name>Prievidza</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q208750</ctml:wikiDataId>
+    <ctml:latitude>48.77446000</ctml:latitude>
+    <ctml:longitude>18.62750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104533" kind="admin2">
+    <ctml:name>Púchov</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q258481</ctml:wikiDataId>
+    <ctml:latitude>49.12494000</ctml:latitude>
+    <ctml:longitude>18.32597000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104551" kind="city">
+    <ctml:name>Stará Turá</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q512771</ctml:wikiDataId>
+    <ctml:latitude>48.77721000</ctml:latitude>
+    <ctml:longitude>17.69433000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104566" kind="city">
+    <ctml:name>Trenčianske Teplice</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trenčín</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TC</ctml:parentRef>
+    <ctml:wikiDataId>Q532555</ctml:wikiDataId>
+    <ctml:latitude>48.91063000</ctml:latitude>
+    <ctml:longitude>18.16691000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104387" kind="city">
+    <ctml:name>Dunajská Streda</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q646393</ctml:wikiDataId>
+    <ctml:latitude>47.99268000</ctml:latitude>
+    <ctml:longitude>17.61211000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104389" kind="city">
+    <ctml:name>Gabčíkovo</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q389397</ctml:wikiDataId>
+    <ctml:latitude>47.89211000</ctml:latitude>
+    <ctml:longitude>17.57884000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104390" kind="city">
+    <ctml:name>Galanta</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q460767</ctml:wikiDataId>
+    <ctml:latitude>48.19001000</ctml:latitude>
+    <ctml:longitude>17.72747000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104391" kind="city">
+    <ctml:name>Gbely</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q846424</ctml:wikiDataId>
+    <ctml:latitude>48.71800000</ctml:latitude>
+    <ctml:longitude>17.11628000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104395" kind="admin2">
+    <ctml:name>Hlohovec</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q754773</ctml:wikiDataId>
+    <ctml:latitude>48.43174000</ctml:latitude>
+    <ctml:longitude>17.80310000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104396" kind="city">
+    <ctml:name>Holíč</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q653326</ctml:wikiDataId>
+    <ctml:latitude>48.81105000</ctml:latitude>
+    <ctml:longitude>17.16238000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104420" kind="city">
+    <ctml:name>Leopoldov</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q690807</ctml:wikiDataId>
+    <ctml:latitude>48.44575000</ctml:latitude>
+    <ctml:longitude>17.76458000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104460" kind="city">
+    <ctml:name>Okres Dunajská Streda</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q756662</ctml:wikiDataId>
+    <ctml:latitude>47.99635000</ctml:latitude>
+    <ctml:longitude>17.60937000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104461" kind="city">
+    <ctml:name>Okres Galanta</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q836182</ctml:wikiDataId>
+    <ctml:latitude>48.20000000</ctml:latitude>
+    <ctml:longitude>17.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104463" kind="city">
+    <ctml:name>Okres Hlohovec</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q550271</ctml:wikiDataId>
+    <ctml:latitude>48.41667000</ctml:latitude>
+    <ctml:longitude>17.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104486" kind="city">
+    <ctml:name>Okres Piešťany</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q837868</ctml:wikiDataId>
+    <ctml:latitude>48.59064000</ctml:latitude>
+    <ctml:longitude>17.82679000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104498" kind="city">
+    <ctml:name>Okres Senica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q842557</ctml:wikiDataId>
+    <ctml:latitude>48.68333000</ctml:latitude>
+    <ctml:longitude>17.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104499" kind="city">
+    <ctml:name>Okres Skalica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q837894</ctml:wikiDataId>
+    <ctml:latitude>48.75000000</ctml:latitude>
+    <ctml:longitude>17.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104509" kind="city">
+    <ctml:name>Okres Trnava</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q775484</ctml:wikiDataId>
+    <ctml:latitude>48.36667000</ctml:latitude>
+    <ctml:longitude>17.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104525" kind="admin2">
+    <ctml:name>Piešťany</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q321074</ctml:wikiDataId>
+    <ctml:latitude>48.59479000</ctml:latitude>
+    <ctml:longitude>17.82591000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104592" kind="city">
+    <ctml:name>Šamorín</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q391068</ctml:wikiDataId>
+    <ctml:latitude>48.03015000</ctml:latitude>
+    <ctml:longitude>17.30972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104541" kind="admin2">
+    <ctml:name>Senica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q750407</ctml:wikiDataId>
+    <ctml:latitude>48.67922000</ctml:latitude>
+    <ctml:longitude>17.36697000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104543" kind="admin2">
+    <ctml:name>Skalica</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q649076</ctml:wikiDataId>
+    <ctml:latitude>48.84490000</ctml:latitude>
+    <ctml:longitude>17.22635000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104544" kind="city">
+    <ctml:name>Sládkovičovo</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q568249</ctml:wikiDataId>
+    <ctml:latitude>48.20137000</ctml:latitude>
+    <ctml:longitude>17.63852000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104545" kind="city">
+    <ctml:name>Smolenice</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q1020253</ctml:wikiDataId>
+    <ctml:latitude>48.50478000</ctml:latitude>
+    <ctml:longitude>17.43067000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104574" kind="city">
+    <ctml:name>Veľký Meder</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q740469</ctml:wikiDataId>
+    <ctml:latitude>47.85798000</ctml:latitude>
+    <ctml:longitude>17.76884000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104579" kind="city">
+    <ctml:name>Vrbové</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Trnava</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q846444</ctml:wikiDataId>
+    <ctml:latitude>48.61973000</ctml:latitude>
+    <ctml:longitude>17.72260000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104378" kind="admin2">
+    <ctml:name>Bytča</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q27907</ctml:wikiDataId>
+    <ctml:latitude>49.22404000</ctml:latitude>
+    <ctml:longitude>18.55878000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104587" kind="admin2">
+    <ctml:name>Čadca</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q337440</ctml:wikiDataId>
+    <ctml:latitude>49.43503000</ctml:latitude>
+    <ctml:longitude>18.78895000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104383" kind="admin2">
+    <ctml:name>Dolný Kubín</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q589309</ctml:wikiDataId>
+    <ctml:latitude>49.20983000</ctml:latitude>
+    <ctml:longitude>19.30341000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104401" kind="city">
+    <ctml:name>Hybe</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q339642</ctml:wikiDataId>
+    <ctml:latitude>49.04439000</ctml:latitude>
+    <ctml:longitude>19.82895000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104414" kind="city">
+    <ctml:name>Krasňany</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q1071509</ctml:wikiDataId>
+    <ctml:latitude>49.21491000</ctml:latitude>
+    <ctml:longitude>18.88718000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104418" kind="admin2">
+    <ctml:name>Kysucké Nové Mesto</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q516578</ctml:wikiDataId>
+    <ctml:latitude>49.30000000</ctml:latitude>
+    <ctml:longitude>18.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104424" kind="city">
+    <ctml:name>Liptovský Hrádok</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q338528</ctml:wikiDataId>
+    <ctml:latitude>49.03962000</ctml:latitude>
+    <ctml:longitude>19.72335000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104425" kind="city">
+    <ctml:name>Liptovský Mikuláš</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q338528</ctml:wikiDataId>
+    <ctml:latitude>49.08061000</ctml:latitude>
+    <ctml:longitude>19.62218000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104427" kind="city">
+    <ctml:name>Lúčky</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q1068179</ctml:wikiDataId>
+    <ctml:latitude>49.12944000</ctml:latitude>
+    <ctml:longitude>19.40228000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104430" kind="admin2">
+    <ctml:name>Martin</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q27001</ctml:wikiDataId>
+    <ctml:latitude>49.06651000</ctml:latitude>
+    <ctml:longitude>18.92399000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104446" kind="admin2">
+    <ctml:name>Námestovo</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q377650</ctml:wikiDataId>
+    <ctml:latitude>49.40790000</ctml:latitude>
+    <ctml:longitude>19.48032000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104439" kind="city">
+    <ctml:name>Nižná</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q31926891</ctml:wikiDataId>
+    <ctml:latitude>49.31046000</ctml:latitude>
+    <ctml:longitude>19.52428000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104456" kind="city">
+    <ctml:name>Okres Bytča</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q668333</ctml:wikiDataId>
+    <ctml:latitude>49.22267000</ctml:latitude>
+    <ctml:longitude>18.55844000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104516" kind="city">
+    <ctml:name>Okres Čadca</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q337478</ctml:wikiDataId>
+    <ctml:latitude>49.43333000</ctml:latitude>
+    <ctml:longitude>18.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104459" kind="city">
+    <ctml:name>Okres Dolný Kubín</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q665066</ctml:wikiDataId>
+    <ctml:latitude>49.20000000</ctml:latitude>
+    <ctml:longitude>19.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104470" kind="city">
+    <ctml:name>Okres Kysucké Nové Mesto</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q762646</ctml:wikiDataId>
+    <ctml:latitude>49.30206000</ctml:latitude>
+    <ctml:longitude>18.78603000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104473" kind="city">
+    <ctml:name>Okres Liptovský Mikuláš</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q272040</ctml:wikiDataId>
+    <ctml:latitude>49.08333000</ctml:latitude>
+    <ctml:longitude>19.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104476" kind="city">
+    <ctml:name>Okres Martin</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q756665</ctml:wikiDataId>
+    <ctml:latitude>49.06667000</ctml:latitude>
+    <ctml:longitude>18.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104480" kind="city">
+    <ctml:name>Okres Namestovo</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q388888</ctml:wikiDataId>
+    <ctml:latitude>49.40651000</ctml:latitude>
+    <ctml:longitude>19.47670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104495" kind="city">
+    <ctml:name>Okres Ružomberok</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q655156</ctml:wikiDataId>
+    <ctml:latitude>49.07494000</ctml:latitude>
+    <ctml:longitude>19.30083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104510" kind="city">
+    <ctml:name>Okres Turčianske Teplice</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q548293</ctml:wikiDataId>
+    <ctml:latitude>48.86283000</ctml:latitude>
+    <ctml:longitude>18.85759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104511" kind="city">
+    <ctml:name>Okres Tvrdošín</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q756899</ctml:wikiDataId>
+    <ctml:latitude>49.33421000</ctml:latitude>
+    <ctml:longitude>19.55461000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104520" kind="city">
+    <ctml:name>Okres Žilina</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q836201</ctml:wikiDataId>
+    <ctml:latitude>49.22303000</ctml:latitude>
+    <ctml:longitude>18.74044000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104521" kind="city">
+    <ctml:name>Oravská Lesná</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q836201</ctml:wikiDataId>
+    <ctml:latitude>49.36672000</ctml:latitude>
+    <ctml:longitude>19.18093000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104522" kind="city">
+    <ctml:name>Oravský Podzámok</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q1091685</ctml:wikiDataId>
+    <ctml:latitude>49.25939000</ctml:latitude>
+    <ctml:longitude>19.35690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104531" kind="city">
+    <ctml:name>Pribylina</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q1091714</ctml:wikiDataId>
+    <ctml:latitude>49.09950000</ctml:latitude>
+    <ctml:longitude>19.79427000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104534" kind="city">
+    <ctml:name>Rajec</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q909333</ctml:wikiDataId>
+    <ctml:latitude>49.08899000</ctml:latitude>
+    <ctml:longitude>18.64007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104538" kind="admin2">
+    <ctml:name>Ružomberok</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q27541</ctml:wikiDataId>
+    <ctml:latitude>49.07480000</ctml:latitude>
+    <ctml:longitude>19.30751000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104561" kind="city">
+    <ctml:name>Terchová</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q932854</ctml:wikiDataId>
+    <ctml:latitude>49.25895000</ctml:latitude>
+    <ctml:longitude>19.02935000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104569" kind="city">
+    <ctml:name>Trstená</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q847350</ctml:wikiDataId>
+    <ctml:latitude>49.36101000</ctml:latitude>
+    <ctml:longitude>19.61249000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104571" kind="admin2">
+    <ctml:name>Turčianske Teplice</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q135647</ctml:wikiDataId>
+    <ctml:latitude>48.86225000</ctml:latitude>
+    <ctml:longitude>18.86048000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104570" kind="city">
+    <ctml:name>Turzovka</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q182903</ctml:wikiDataId>
+    <ctml:latitude>49.40429000</ctml:latitude>
+    <ctml:longitude>18.62258000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SVK-104572" kind="admin2">
+    <ctml:name>Tvrdošín</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q509715</ctml:wikiDataId>
+    <ctml:latitude>49.33700000</ctml:latitude>
+    <ctml:longitude>19.55600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVK-104581" kind="city">
+    <ctml:name>Vrútky</ctml:name>
+    <ctml:country>SVK</ctml:country>
+    <ctml:admin1>Žilina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SK-ZI</ctml:parentRef>
+    <ctml:wikiDataId>Q837456</ctml:wikiDataId>
+    <ctml:latitude>49.11328000</ctml:latitude>
+    <ctml:longitude>18.91714000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

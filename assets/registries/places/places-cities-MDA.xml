@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MDA-67337" kind="city">
+    <ctml:name>Varniţa</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Anenii Noi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2331113</ctml:wikiDataId>
+    <ctml:latitude>46.86606000</ctml:latitude>
+    <ctml:longitude>29.46636000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67305" kind="city">
+    <ctml:name>Giurgiuleşti</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Cahul</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q1528087</ctml:wikiDataId>
+    <ctml:latitude>45.48167000</ctml:latitude>
+    <ctml:longitude>28.19722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67339" kind="city">
+    <ctml:name>Vişniovca</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Cantemir</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-CT</ctml:parentRef>
+    <ctml:wikiDataId>Q2438669</ctml:wikiDataId>
+    <ctml:latitude>46.33260000</ctml:latitude>
+    <ctml:longitude>28.44797000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67286" kind="city">
+    <ctml:name>Chiţcani</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Căușeni</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-CS</ctml:parentRef>
+    <ctml:wikiDataId>Q2626650</ctml:wikiDataId>
+    <ctml:latitude>46.78296000</ctml:latitude>
+    <ctml:longitude>29.61682000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67285" kind="city">
+    <ctml:name>Chisinau</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Chișinău</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-CU</ctml:parentRef>
+    <ctml:wikiDataId>Q21197</ctml:wikiDataId>
+    <ctml:latitude>47.00556000</ctml:latitude>
+    <ctml:longitude>28.85750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67288" kind="city">
+    <ctml:name>Ciorescu</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Chișinău</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-CU</ctml:parentRef>
+    <ctml:wikiDataId>Q428572</ctml:wikiDataId>
+    <ctml:latitude>47.13000000</ctml:latitude>
+    <ctml:longitude>28.88937000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67292" kind="city">
+    <ctml:name>Cricova</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Chișinău</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-CU</ctml:parentRef>
+    <ctml:wikiDataId>Q1139983</ctml:wikiDataId>
+    <ctml:latitude>47.13835000</ctml:latitude>
+    <ctml:longitude>28.86156000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67327" kind="city">
+    <ctml:name>Sîngera</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Chișinău</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-CU</ctml:parentRef>
+    <ctml:wikiDataId>Q2628984</ctml:wikiDataId>
+    <ctml:latitude>46.91557000</ctml:latitude>
+    <ctml:longitude>28.96673000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67326" kind="city">
+    <ctml:name>Stăuceni</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Chișinău</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-CU</ctml:parentRef>
+    <ctml:wikiDataId>Q2387813</ctml:wikiDataId>
+    <ctml:latitude>47.09643000</ctml:latitude>
+    <ctml:longitude>28.86791000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67336" kind="city">
+    <ctml:name>Vadul lui Vodă</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Chișinău</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-CU</ctml:parentRef>
+    <ctml:wikiDataId>Q2621050</ctml:wikiDataId>
+    <ctml:latitude>47.09009000</ctml:latitude>
+    <ctml:longitude>29.07570000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67338" kind="city">
+    <ctml:name>Vatra</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Chișinău</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-CU</ctml:parentRef>
+    <ctml:wikiDataId>Q1117303</ctml:wikiDataId>
+    <ctml:latitude>47.07460000</ctml:latitude>
+    <ctml:longitude>28.73685000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67276" kind="city">
+    <ctml:name>Briceni</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Dondușeni</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-DO</ctml:parentRef>
+    <ctml:wikiDataId>Q2438836</ctml:wikiDataId>
+    <ctml:latitude>48.35628000</ctml:latitude>
+    <ctml:longitude>27.70293000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67335" kind="city">
+    <ctml:name>Ustia</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Dubăsari</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-DU</ctml:parentRef>
+    <ctml:wikiDataId>Q2439097</ctml:wikiDataId>
+    <ctml:latitude>47.25524000</ctml:latitude>
+    <ctml:longitude>29.12406000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67304" kind="city">
+    <ctml:name>Ghindești</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Florești</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q2628898</ctml:wikiDataId>
+    <ctml:latitude>47.85482000</ctml:latitude>
+    <ctml:longitude>28.37679000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67313" kind="city">
+    <ctml:name>Mărculeşti</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Florești</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q2608314</ctml:wikiDataId>
+    <ctml:latitude>47.86897000</ctml:latitude>
+    <ctml:longitude>28.24109000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67279" kind="city">
+    <ctml:name>Bugeac</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Gagauzia</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q2639058</ctml:wikiDataId>
+    <ctml:latitude>46.36554000</ctml:latitude>
+    <ctml:longitude>28.66250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67284" kind="city">
+    <ctml:name>Ceadîr-Lunga</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Gagauzia</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q1012924</ctml:wikiDataId>
+    <ctml:latitude>46.06169000</ctml:latitude>
+    <ctml:longitude>28.83078000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67340" kind="city">
+    <ctml:name>Vulcăneşti</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Gagauzia</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q1012868</ctml:wikiDataId>
+    <ctml:latitude>45.68492000</ctml:latitude>
+    <ctml:longitude>28.40613000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67296" kind="city">
+    <ctml:name>Dancu</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Hîncești</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q1986341</ctml:wikiDataId>
+    <ctml:latitude>46.75818000</ctml:latitude>
+    <ctml:longitude>28.20716000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67310" kind="city">
+    <ctml:name>Iargara</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Leova</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-LE</ctml:parentRef>
+    <ctml:wikiDataId>Q4194318</ctml:wikiDataId>
+    <ctml:latitude>46.42750001</ctml:latitude>
+    <ctml:longitude>28.43666668</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67317" kind="city">
+    <ctml:name>Otaci</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Ocnița</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-OC</ctml:parentRef>
+    <ctml:wikiDataId>Q2608576</ctml:wikiDataId>
+    <ctml:latitude>48.43285000</ctml:latitude>
+    <ctml:longitude>27.79912000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67322" kind="city">
+    <ctml:name>Saharna</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Rezina</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-RE</ctml:parentRef>
+    <ctml:wikiDataId>Q4409450</ctml:wikiDataId>
+    <ctml:latitude>47.69107000</ctml:latitude>
+    <ctml:longitude>28.97458000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67274" kind="city">
+    <ctml:name>Bilicenii Vechi</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Sîngerei</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q2448288</ctml:wikiDataId>
+    <ctml:latitude>47.65580000</ctml:latitude>
+    <ctml:longitude>28.04734000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67275" kind="city">
+    <ctml:name>Biruinţa</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Sîngerei</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q2626898</ctml:wikiDataId>
+    <ctml:latitude>47.81353000</ctml:latitude>
+    <ctml:longitude>28.07004000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67278" kind="city">
+    <ctml:name>Bucovăţ</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Strășeni</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-ST</ctml:parentRef>
+    <ctml:wikiDataId>Q9042414</ctml:wikiDataId>
+    <ctml:latitude>47.19064000</ctml:latitude>
+    <ctml:longitude>28.45802000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67333" kind="city">
+    <ctml:name>Tvardița</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Taraclia</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q2631126</ctml:wikiDataId>
+    <ctml:latitude>46.14826000</ctml:latitude>
+    <ctml:longitude>28.96491000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67312" kind="city">
+    <ctml:name>Mîndreşti</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Telenești</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-TE</ctml:parentRef>
+    <ctml:wikiDataId>Q2452877</ctml:wikiDataId>
+    <ctml:latitude>47.50525000</ctml:latitude>
+    <ctml:longitude>28.27687000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67282" kind="city">
+    <ctml:name>Camenca</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Transnistria</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q2021260</ctml:wikiDataId>
+    <ctml:latitude>48.03233000</ctml:latitude>
+    <ctml:longitude>28.69899000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67291" kind="city">
+    <ctml:name>Crasnoe</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Transnistria</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q2708419</ctml:wikiDataId>
+    <ctml:latitude>46.64844000</ctml:latitude>
+    <ctml:longitude>29.80403000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67297" kind="city">
+    <ctml:name>Dnestrovsc</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Transnistria</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q219547</ctml:wikiDataId>
+    <ctml:latitude>46.61640000</ctml:latitude>
+    <ctml:longitude>29.91926000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67300" kind="city">
+    <ctml:name>Dubăsari</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Transnistria</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q688654</ctml:wikiDataId>
+    <ctml:latitude>47.26562000</ctml:latitude>
+    <ctml:longitude>29.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67307" kind="city">
+    <ctml:name>Hryhoriopol</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Transnistria</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q1025805</ctml:wikiDataId>
+    <ctml:latitude>47.15413000</ctml:latitude>
+    <ctml:longitude>29.30008000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67311" kind="city">
+    <ctml:name>Maiac</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Transnistria</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q2708425</ctml:wikiDataId>
+    <ctml:latitude>47.23727000</ctml:latitude>
+    <ctml:longitude>29.38498000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67318" kind="city">
+    <ctml:name>Pervomaisc</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Transnistria</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q2632598</ctml:wikiDataId>
+    <ctml:latitude>46.73253000</ctml:latitude>
+    <ctml:longitude>29.96170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67320" kind="city">
+    <ctml:name>Rîbniţa</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Transnistria</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q216363</ctml:wikiDataId>
+    <ctml:latitude>47.76817000</ctml:latitude>
+    <ctml:longitude>29.01000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67323" kind="city">
+    <ctml:name>Slobozia</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Transnistria</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q603400</ctml:wikiDataId>
+    <ctml:latitude>46.72927000</ctml:latitude>
+    <ctml:longitude>29.70446000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MDA-67332" kind="city">
+    <ctml:name>Tiraspolul Nou</ctml:name>
+    <ctml:country>MDA</ctml:country>
+    <ctml:admin1>Transnistria</ctml:admin1>
+    <ctml:parentRef>place:admin1:MD-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q2708449</ctml:wikiDataId>
+    <ctml:latitude>46.82874000</ctml:latitude>
+    <ctml:longitude>29.52174000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

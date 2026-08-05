@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:GNB-53815" kind="city">
+    <ctml:name>Contuboel Sector</ctml:name>
+    <ctml:country>GNB</ctml:country>
+    <ctml:admin1>Bafatá</ctml:admin1>
+    <ctml:parentRef>place:admin1:GW-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q524784</ctml:wikiDataId>
+    <ctml:latitude>12.55500000</ctml:latitude>
+    <ctml:longitude>-14.64100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNB-160041" kind="city">
+    <ctml:name>Bissau</ctml:name>
+    <ctml:country>GNB</ctml:country>
+    <ctml:admin1>Bissau</ctml:admin1>
+    <ctml:parentRef>place:admin1:GW-BS</ctml:parentRef>
+    <ctml:wikiDataId>Q3739</ctml:wikiDataId>
+    <ctml:latitude>11.85000000</ctml:latitude>
+    <ctml:longitude>-15.56666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNB-53811" kind="city">
+    <ctml:name>Bubaque</ctml:name>
+    <ctml:country>GNB</ctml:country>
+    <ctml:admin1>Bolama</ctml:admin1>
+    <ctml:parentRef>place:admin1:GW-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q997407</ctml:wikiDataId>
+    <ctml:latitude>11.28333000</ctml:latitude>
+    <ctml:longitude>-15.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNB-53813" kind="city">
+    <ctml:name>Canchungo</ctml:name>
+    <ctml:country>GNB</ctml:country>
+    <ctml:admin1>Cacheu</ctml:admin1>
+    <ctml:parentRef>place:admin1:GW-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q1318022</ctml:wikiDataId>
+    <ctml:latitude>12.06722000</ctml:latitude>
+    <ctml:longitude>-16.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNB-53808" kind="city">
+    <ctml:name>Bissorã</ctml:name>
+    <ctml:country>GNB</ctml:country>
+    <ctml:admin1>Oio</ctml:admin1>
+    <ctml:parentRef>place:admin1:GW-OI</ctml:parentRef>
+    <ctml:wikiDataId>Q799788</ctml:wikiDataId>
+    <ctml:latitude>12.22306000</ctml:latitude>
+    <ctml:longitude>-15.44750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNB-53818" kind="city">
+    <ctml:name>Mansôa</ctml:name>
+    <ctml:country>GNB</ctml:country>
+    <ctml:admin1>Oio</ctml:admin1>
+    <ctml:parentRef>place:admin1:GW-OI</ctml:parentRef>
+    <ctml:wikiDataId>Q1368576</ctml:wikiDataId>
+    <ctml:latitude>12.07333000</ctml:latitude>
+    <ctml:longitude>-15.31889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNB-53819" kind="city">
+    <ctml:name>Quebo</ctml:name>
+    <ctml:country>GNB</ctml:country>
+    <ctml:admin1>Tombali</ctml:admin1>
+    <ctml:parentRef>place:admin1:GW-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q2622522</ctml:wikiDataId>
+    <ctml:latitude>11.33333000</ctml:latitude>
+    <ctml:longitude>-14.93333000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ATG-149" kind="city">
+    <ctml:name>Potters Village</ctml:name>
+    <ctml:country>ATG</ctml:country>
+    <ctml:admin1>Saint John</ctml:admin1>
+    <ctml:parentRef>place:admin1:AG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1771587</ctml:wikiDataId>
+    <ctml:latitude>17.11337000</ctml:latitude>
+    <ctml:longitude>-61.81962000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ATG-150" kind="city">
+    <ctml:name>Saint John’s</ctml:name>
+    <ctml:country>ATG</ctml:country>
+    <ctml:admin1>Saint John</ctml:admin1>
+    <ctml:parentRef>place:admin1:AG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q36262</ctml:wikiDataId>
+    <ctml:latitude>17.12096000</ctml:latitude>
+    <ctml:longitude>-61.84329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ATG-146" kind="city">
+    <ctml:name>Liberta</ctml:name>
+    <ctml:country>ATG</ctml:country>
+    <ctml:admin1>Saint Paul</ctml:admin1>
+    <ctml:parentRef>place:admin1:AG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1771710</ctml:wikiDataId>
+    <ctml:latitude>17.04141000</ctml:latitude>
+    <ctml:longitude>-61.79052000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ATG-142" kind="city">
+    <ctml:name>All Saints</ctml:name>
+    <ctml:country>ATG</ctml:country>
+    <ctml:admin1>Saint Peter</ctml:admin1>
+    <ctml:parentRef>place:admin1:AG-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1771715</ctml:wikiDataId>
+    <ctml:latitude>17.06671000</ctml:latitude>
+    <ctml:longitude>-61.79303000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BRB-8448" kind="city">
+    <ctml:name>Bridgetown</ctml:name>
+    <ctml:country>BRB</ctml:country>
+    <ctml:admin1>Saint Michael</ctml:admin1>
+    <ctml:parentRef>place:admin1:BB-08</ctml:parentRef>
+    <ctml:wikiDataId>Q36168</ctml:wikiDataId>
+    <ctml:latitude>13.10732000</ctml:latitude>
+    <ctml:longitude>-59.62021000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:TGO-105174" kind="city">
+    <ctml:name>Sotouboua</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Centrale</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1120978</ctml:wikiDataId>
+    <ctml:latitude>8.56340000</ctml:latitude>
+    <ctml:longitude>0.98399000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105176" kind="city">
+    <ctml:name>Tchamba</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Centrale</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2711981</ctml:wikiDataId>
+    <ctml:latitude>9.03333000</ctml:latitude>
+    <ctml:longitude>1.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105161" kind="city">
+    <ctml:name>Bafilo</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Kara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-K</ctml:parentRef>
+    <ctml:wikiDataId>Q618060</ctml:wikiDataId>
+    <ctml:latitude>9.35000000</ctml:latitude>
+    <ctml:longitude>1.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105162" kind="city">
+    <ctml:name>Bassar</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Kara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-K</ctml:parentRef>
+    <ctml:wikiDataId>Q810474</ctml:wikiDataId>
+    <ctml:latitude>9.25025000</ctml:latitude>
+    <ctml:longitude>0.78213000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105164" kind="city">
+    <ctml:name>Kandé</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Kara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-K</ctml:parentRef>
+    <ctml:wikiDataId>Q168824</ctml:wikiDataId>
+    <ctml:latitude>9.95778000</ctml:latitude>
+    <ctml:longitude>1.04472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105168" kind="city">
+    <ctml:name>Niamtougou</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Kara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-K</ctml:parentRef>
+    <ctml:wikiDataId>Q201342</ctml:wikiDataId>
+    <ctml:latitude>9.76806000</ctml:latitude>
+    <ctml:longitude>1.10528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105170" kind="city">
+    <ctml:name>Pagouda</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Kara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-K</ctml:parentRef>
+    <ctml:wikiDataId>Q3360475</ctml:wikiDataId>
+    <ctml:latitude>9.75250000</ctml:latitude>
+    <ctml:longitude>1.32778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105171" kind="city">
+    <ctml:name>Préfecture de Bassar</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Kara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-K</ctml:parentRef>
+    <ctml:wikiDataId>Q3910159</ctml:wikiDataId>
+    <ctml:latitude>9.25000000</ctml:latitude>
+    <ctml:longitude>0.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105158" kind="city">
+    <ctml:name>Aného</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Maritime</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1018574</ctml:wikiDataId>
+    <ctml:latitude>6.22798000</ctml:latitude>
+    <ctml:longitude>1.59190000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105167" kind="city">
+    <ctml:name>Lomé</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Maritime</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-M</ctml:parentRef>
+    <ctml:wikiDataId>Q3792</ctml:wikiDataId>
+    <ctml:latitude>6.12874000</ctml:latitude>
+    <ctml:longitude>1.22154000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105175" kind="city">
+    <ctml:name>Tabligbo</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Maritime</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2528080</ctml:wikiDataId>
+    <ctml:latitude>6.58333000</ctml:latitude>
+    <ctml:longitude>1.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105178" kind="city">
+    <ctml:name>Vogan</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Maritime</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2060202</ctml:wikiDataId>
+    <ctml:latitude>6.33333000</ctml:latitude>
+    <ctml:longitude>1.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105157" kind="city">
+    <ctml:name>Amlamé</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Plateaux</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-P</ctml:parentRef>
+    <ctml:wikiDataId>Q2080085</ctml:wikiDataId>
+    <ctml:latitude>7.46667000</ctml:latitude>
+    <ctml:longitude>0.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105160" kind="city">
+    <ctml:name>Badou</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Plateaux</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-P</ctml:parentRef>
+    <ctml:wikiDataId>Q2878806</ctml:wikiDataId>
+    <ctml:latitude>7.58333000</ctml:latitude>
+    <ctml:longitude>0.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105166" kind="city">
+    <ctml:name>Kpalimé</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Plateaux</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-P</ctml:parentRef>
+    <ctml:wikiDataId>Q995413</ctml:wikiDataId>
+    <ctml:latitude>6.90000000</ctml:latitude>
+    <ctml:longitude>0.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105169" kind="city">
+    <ctml:name>Notsé</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Plateaux</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-P</ctml:parentRef>
+    <ctml:wikiDataId>Q3173182</ctml:wikiDataId>
+    <ctml:latitude>6.95000000</ctml:latitude>
+    <ctml:longitude>1.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TGO-105172" kind="city">
+    <ctml:name>Sansanné-Mango</ctml:name>
+    <ctml:country>TGO</ctml:country>
+    <ctml:admin1>Savanes</ctml:admin1>
+    <ctml:parentRef>place:admin1:TG-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1392195</ctml:wikiDataId>
+    <ctml:latitude>10.35917000</ctml:latitude>
+    <ctml:longitude>0.47083000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

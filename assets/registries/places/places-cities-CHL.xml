@@ -1,0 +1,2568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:CHL-19082" kind="admin2">
+    <ctml:name>Aysén</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Aisén del General Carlos Ibañez del Campo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AI</ctml:parentRef>
+    <ctml:wikiDataId>Q3651</ctml:wikiDataId>
+    <ctml:latitude>-45.40303000</ctml:latitude>
+    <ctml:longitude>-72.69184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-18962" kind="admin2">
+    <ctml:name>Chile Chico</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Aisén del General Carlos Ibañez del Campo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AI</ctml:parentRef>
+    <ctml:wikiDataId>Q3770</ctml:wikiDataId>
+    <ctml:latitude>-46.53760000</ctml:latitude>
+    <ctml:longitude>-71.72930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19084" kind="city">
+    <ctml:name>Cisnes</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Aisén del General Carlos Ibañez del Campo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AI</ctml:parentRef>
+    <ctml:wikiDataId>Q940455</ctml:wikiDataId>
+    <ctml:latitude>-44.72750000</ctml:latitude>
+    <ctml:longitude>-72.68050000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18966" kind="city">
+    <ctml:name>Cochrane</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Aisén del General Carlos Ibañez del Campo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AI</ctml:parentRef>
+    <ctml:wikiDataId>Q3800</ctml:wikiDataId>
+    <ctml:latitude>-47.25390000</ctml:latitude>
+    <ctml:longitude>-72.57320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148332" kind="city">
+    <ctml:name>Guaitecas</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Aisén del General Carlos Ibañez del Campo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AI</ctml:parentRef>
+    <ctml:wikiDataId>Q13069</ctml:wikiDataId>
+    <ctml:latitude>-43.88333333</ctml:latitude>
+    <ctml:longitude>-73.73333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148333" kind="city">
+    <ctml:name>Lago Verde</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Aisén del General Carlos Ibañez del Campo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AI</ctml:parentRef>
+    <ctml:wikiDataId>Q14471</ctml:wikiDataId>
+    <ctml:latitude>-44.24031000</ctml:latitude>
+    <ctml:longitude>-71.84950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148334" kind="city">
+    <ctml:name>O'Higgins</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Aisén del General Carlos Ibañez del Campo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AI</ctml:parentRef>
+    <ctml:wikiDataId>Q51051</ctml:wikiDataId>
+    <ctml:latitude>-48.46666667</ctml:latitude>
+    <ctml:longitude>-72.56666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148335" kind="city">
+    <ctml:name>Río Ibáñez</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Aisén del General Carlos Ibañez del Campo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AI</ctml:parentRef>
+    <ctml:wikiDataId>Q56129</ctml:wikiDataId>
+    <ctml:latitude>-46.30000000</ctml:latitude>
+    <ctml:longitude>-71.93333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148336" kind="city">
+    <ctml:name>Tortel</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Aisén del General Carlos Ibañez del Campo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AI</ctml:parentRef>
+    <ctml:wikiDataId>Q2390232</ctml:wikiDataId>
+    <ctml:latitude>-47.83333333</ctml:latitude>
+    <ctml:longitude>-73.56666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-18952" kind="admin2">
+    <ctml:name>Calama</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Antofagasta</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q3685</ctml:wikiDataId>
+    <ctml:latitude>-22.45667000</ctml:latitude>
+    <ctml:longitude>-68.92371000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148326" kind="city">
+    <ctml:name>María Elena</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Antofagasta</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q16923</ctml:wikiDataId>
+    <ctml:latitude>-22.35000000</ctml:latitude>
+    <ctml:longitude>-69.66666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19033" kind="city">
+    <ctml:name>Mejillones</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Antofagasta</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q16928</ctml:wikiDataId>
+    <ctml:latitude>-23.10000000</ctml:latitude>
+    <ctml:longitude>-70.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19074" kind="city">
+    <ctml:name>Ollagüe</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Antofagasta</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q51055</ctml:wikiDataId>
+    <ctml:latitude>-21.22496000</ctml:latitude>
+    <ctml:longitude>-68.25352000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19107" kind="city">
+    <ctml:name>San Pedro de Atacama</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Antofagasta</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q187893</ctml:wikiDataId>
+    <ctml:latitude>-22.91110000</ctml:latitude>
+    <ctml:longitude>-68.20113000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19051" kind="city">
+    <ctml:name>Sierra Gorda</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Antofagasta</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q188027</ctml:wikiDataId>
+    <ctml:latitude>-22.88333333</ctml:latitude>
+    <ctml:longitude>-69.31666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19115" kind="city">
+    <ctml:name>Taltal</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Antofagasta</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q188049</ctml:wikiDataId>
+    <ctml:latitude>-25.40713000</ctml:latitude>
+    <ctml:longitude>-70.48554000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19118" kind="admin2">
+    <ctml:name>Tocopilla</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Antofagasta</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q188192</ctml:wikiDataId>
+    <ctml:latitude>-22.09198000</ctml:latitude>
+    <ctml:longitude>-70.19792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19035" kind="city">
+    <ctml:name>Camarones</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Arica y Parinacota</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AP</ctml:parentRef>
+    <ctml:wikiDataId>Q3729</ctml:wikiDataId>
+    <ctml:latitude>-19.01666667</ctml:latitude>
+    <ctml:longitude>-69.86666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148327" kind="city">
+    <ctml:name>General Lagos</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Arica y Parinacota</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AP</ctml:parentRef>
+    <ctml:wikiDataId>Q13065</ctml:wikiDataId>
+    <ctml:latitude>-17.56666667</ctml:latitude>
+    <ctml:longitude>-69.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19067" kind="admin2">
+    <ctml:name>Putre</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Arica y Parinacota</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AP</ctml:parentRef>
+    <ctml:wikiDataId>Q51605</ctml:wikiDataId>
+    <ctml:latitude>-18.19640000</ctml:latitude>
+    <ctml:longitude>-69.55920000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148330" kind="city">
+    <ctml:name>Alto del Carmen</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Atacama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q2215</ctml:wikiDataId>
+    <ctml:latitude>-28.93355556</ctml:latitude>
+    <ctml:longitude>-70.46227778</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148328" kind="city">
+    <ctml:name>Caldera</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Atacama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q3708</ctml:wikiDataId>
+    <ctml:latitude>-27.06666667</ctml:latitude>
+    <ctml:longitude>-70.81666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19042" kind="admin2">
+    <ctml:name>Chañaral</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Atacama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q3763</ctml:wikiDataId>
+    <ctml:latitude>-26.34790000</ctml:latitude>
+    <ctml:longitude>-70.62240000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18981" kind="city">
+    <ctml:name>Diego de Almagro</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Atacama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q13033</ctml:wikiDataId>
+    <ctml:latitude>-26.36667000</ctml:latitude>
+    <ctml:longitude>-70.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148331" kind="city">
+    <ctml:name>Freirina</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Atacama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q13051</ctml:wikiDataId>
+    <ctml:latitude>-28.50000000</ctml:latitude>
+    <ctml:longitude>-71.06666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19053" kind="city">
+    <ctml:name>Huasco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Atacama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q14422</ctml:wikiDataId>
+    <ctml:latitude>-28.45000000</ctml:latitude>
+    <ctml:longitude>-71.21666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148329" kind="city">
+    <ctml:name>Tierra Amarilla</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Atacama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q188142</ctml:wikiDataId>
+    <ctml:latitude>-27.46666667</ctml:latitude>
+    <ctml:longitude>-70.26666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19122" kind="admin2">
+    <ctml:name>Vallenar</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Atacama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q200978</ctml:wikiDataId>
+    <ctml:latitude>-28.57617000</ctml:latitude>
+    <ctml:longitude>-70.75938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19036" kind="city">
+    <ctml:name>Alto Biobío</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q2213</ctml:wikiDataId>
+    <ctml:latitude>-38.05000000</ctml:latitude>
+    <ctml:longitude>-71.31666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148337" kind="city">
+    <ctml:name>Antuco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q3619</ctml:wikiDataId>
+    <ctml:latitude>-37.33333333</ctml:latitude>
+    <ctml:longitude>-71.68333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18947" kind="city">
+    <ctml:name>Arauco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q3632</ctml:wikiDataId>
+    <ctml:latitude>-37.24630000</ctml:latitude>
+    <ctml:longitude>-73.31752000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18951" kind="city">
+    <ctml:name>Cabrero</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q3678</ctml:wikiDataId>
+    <ctml:latitude>-37.03394000</ctml:latitude>
+    <ctml:longitude>-72.40468000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18958" kind="city">
+    <ctml:name>Cañete</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q3753</ctml:wikiDataId>
+    <ctml:latitude>-37.80128000</ctml:latitude>
+    <ctml:longitude>-73.39616000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18961" kind="city">
+    <ctml:name>Chiguayante</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q3765</ctml:wikiDataId>
+    <ctml:latitude>-36.92560000</ctml:latitude>
+    <ctml:longitude>-73.02841000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148338" kind="city">
+    <ctml:name>Contulmo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q3864</ctml:wikiDataId>
+    <ctml:latitude>-38.00000000</ctml:latitude>
+    <ctml:longitude>-73.23333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18974" kind="city">
+    <ctml:name>Coronel</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q3873</ctml:wikiDataId>
+    <ctml:latitude>-37.03386000</ctml:latitude>
+    <ctml:longitude>-73.14019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18977" kind="city">
+    <ctml:name>Curanilahue</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q3892</ctml:wikiDataId>
+    <ctml:latitude>-37.47793000</ctml:latitude>
+    <ctml:longitude>-73.34495000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148339" kind="city">
+    <ctml:name>Florida</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q13048</ctml:wikiDataId>
+    <ctml:latitude>-36.81666667</ctml:latitude>
+    <ctml:longitude>-72.66666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148340" kind="city">
+    <ctml:name>Hualpén</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q13077</ctml:wikiDataId>
+    <ctml:latitude>-36.78333333</ctml:latitude>
+    <ctml:longitude>-73.08333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148341" kind="city">
+    <ctml:name>Hualqui</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q13079</ctml:wikiDataId>
+    <ctml:latitude>-36.97266000</ctml:latitude>
+    <ctml:longitude>-72.93559000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18996" kind="city">
+    <ctml:name>Laja</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q14475</ctml:wikiDataId>
+    <ctml:latitude>-37.28415000</ctml:latitude>
+    <ctml:longitude>-72.71105000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19001" kind="admin2">
+    <ctml:name>Lebu</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q14488</ctml:wikiDataId>
+    <ctml:latitude>-37.60825000</ctml:latitude>
+    <ctml:longitude>-73.65356000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148342" kind="city">
+    <ctml:name>Los Álamos</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q16909</ctml:wikiDataId>
+    <ctml:latitude>-37.61666667</ctml:latitude>
+    <ctml:longitude>-73.46666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19009" kind="admin2">
+    <ctml:name>Los Ángeles</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q16910</ctml:wikiDataId>
+    <ctml:latitude>-37.46973000</ctml:latitude>
+    <ctml:longitude>-72.35366000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19010" kind="city">
+    <ctml:name>Lota</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q16911</ctml:wikiDataId>
+    <ctml:latitude>-37.08994000</ctml:latitude>
+    <ctml:longitude>-73.15770000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19015" kind="city">
+    <ctml:name>Mulchén</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q51036</ctml:wikiDataId>
+    <ctml:latitude>-37.71893000</ctml:latitude>
+    <ctml:longitude>-72.24099000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19016" kind="city">
+    <ctml:name>Nacimiento</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q51039</ctml:wikiDataId>
+    <ctml:latitude>-37.50253000</ctml:latitude>
+    <ctml:longitude>-72.67307000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148343" kind="city">
+    <ctml:name>Negrete</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q51046</ctml:wikiDataId>
+    <ctml:latitude>-37.58333333</ctml:latitude>
+    <ctml:longitude>-72.51666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19024" kind="city">
+    <ctml:name>Penco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q51093</ctml:wikiDataId>
+    <ctml:latitude>-36.74075000</ctml:latitude>
+    <ctml:longitude>-72.99528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148344" kind="city">
+    <ctml:name>Quilaco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q51610</ctml:wikiDataId>
+    <ctml:latitude>-37.68436111</ctml:latitude>
+    <ctml:longitude>-72.00636111</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148345" kind="city">
+    <ctml:name>Quilleco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q56107</ctml:wikiDataId>
+    <ctml:latitude>-37.46666667</ctml:latitude>
+    <ctml:longitude>-71.96666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148346" kind="city">
+    <ctml:name>San Pedro de la Paz</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q19344</ctml:wikiDataId>
+    <ctml:latitude>-36.84082000</ctml:latitude>
+    <ctml:longitude>-73.10311000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148347" kind="city">
+    <ctml:name>San Rosendo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q22137</ctml:wikiDataId>
+    <ctml:latitude>-37.26666667</ctml:latitude>
+    <ctml:longitude>-72.71666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148348" kind="city">
+    <ctml:name>Santa Bárbara</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q187961</ctml:wikiDataId>
+    <ctml:latitude>-37.66666667</ctml:latitude>
+    <ctml:longitude>-72.01666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148349" kind="city">
+    <ctml:name>Santa Juana</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q187974</ctml:wikiDataId>
+    <ctml:latitude>-37.16666667</ctml:latitude>
+    <ctml:longitude>-72.93333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19114" kind="city">
+    <ctml:name>Talcahuano</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q41997</ctml:wikiDataId>
+    <ctml:latitude>-36.72494000</ctml:latitude>
+    <ctml:longitude>-73.11684000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148350" kind="city">
+    <ctml:name>Tirúa</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q188183</ctml:wikiDataId>
+    <ctml:latitude>-38.33333333</ctml:latitude>
+    <ctml:longitude>-73.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19119" kind="city">
+    <ctml:name>Tomé</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q200934</ctml:wikiDataId>
+    <ctml:latitude>-36.61756000</ctml:latitude>
+    <ctml:longitude>-72.95593000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148351" kind="city">
+    <ctml:name>Tucapel</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q200965</ctml:wikiDataId>
+    <ctml:latitude>-37.28333333</ctml:latitude>
+    <ctml:longitude>-71.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19131" kind="city">
+    <ctml:name>Yumbel</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Biobío</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-BI</ctml:parentRef>
+    <ctml:wikiDataId>Q201050</ctml:wikiDataId>
+    <ctml:latitude>-37.09820000</ctml:latitude>
+    <ctml:longitude>-72.56084000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148352" kind="city">
+    <ctml:name>Andacollo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Coquimbo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q3602</ctml:wikiDataId>
+    <ctml:latitude>-30.21666667</ctml:latitude>
+    <ctml:longitude>-71.08333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148353" kind="city">
+    <ctml:name>Canela</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Coquimbo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q3735</ctml:wikiDataId>
+    <ctml:latitude>-31.40000000</ctml:latitude>
+    <ctml:longitude>-71.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148354" kind="city">
+    <ctml:name>Combarbalá</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Coquimbo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q3850</ctml:wikiDataId>
+    <ctml:latitude>-31.16666667</ctml:latitude>
+    <ctml:longitude>-71.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-18973" kind="admin2">
+    <ctml:name>Coquimbo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Coquimbo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q23660214</ctml:wikiDataId>
+    <ctml:latitude>-29.95332000</ctml:latitude>
+    <ctml:longitude>-71.33947000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-18988" kind="admin2">
+    <ctml:name>Illapel</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Coquimbo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q14434</ctml:wikiDataId>
+    <ctml:latitude>-31.63349000</ctml:latitude>
+    <ctml:longitude>-71.16967000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148355" kind="city">
+    <ctml:name>La Higuera</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Coquimbo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q14462</ctml:wikiDataId>
+    <ctml:latitude>-29.50000000</ctml:latitude>
+    <ctml:longitude>-71.26666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148356" kind="city">
+    <ctml:name>Los Vilos</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Coquimbo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q16908</ctml:wikiDataId>
+    <ctml:latitude>-31.90000000</ctml:latitude>
+    <ctml:longitude>-71.51666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19014" kind="city">
+    <ctml:name>Monte Patria</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Coquimbo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q51034</ctml:wikiDataId>
+    <ctml:latitude>-30.69496000</ctml:latitude>
+    <ctml:longitude>-70.95770000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19019" kind="admin2">
+    <ctml:name>Ovalle</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Coquimbo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q51060</ctml:wikiDataId>
+    <ctml:latitude>-30.60106000</ctml:latitude>
+    <ctml:longitude>-71.19901000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148357" kind="city">
+    <ctml:name>Paihuano</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Coquimbo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q51064</ctml:wikiDataId>
+    <ctml:latitude>-30.02884000</ctml:latitude>
+    <ctml:longitude>-70.51708000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148358" kind="city">
+    <ctml:name>Punitaqui</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Coquimbo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q51598</ctml:wikiDataId>
+    <ctml:latitude>-30.90000000</ctml:latitude>
+    <ctml:longitude>-71.26666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148359" kind="city">
+    <ctml:name>Río Hurtado</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Coquimbo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q56128</ctml:wikiDataId>
+    <ctml:latitude>-30.26666667</ctml:latitude>
+    <ctml:longitude>-70.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19099" kind="city">
+    <ctml:name>Salamanca</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Coquimbo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q56134</ctml:wikiDataId>
+    <ctml:latitude>-31.77922000</ctml:latitude>
+    <ctml:longitude>-70.96389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19125" kind="city">
+    <ctml:name>Vicuña</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Coquimbo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q201007</ctml:wikiDataId>
+    <ctml:latitude>-30.03541000</ctml:latitude>
+    <ctml:longitude>-70.71274000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-18945" kind="admin2">
+    <ctml:name>Angol</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q3608</ctml:wikiDataId>
+    <ctml:latitude>-37.79519000</ctml:latitude>
+    <ctml:longitude>-72.71636000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18954" kind="city">
+    <ctml:name>Carahue</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q3736</ctml:wikiDataId>
+    <ctml:latitude>-38.71122000</ctml:latitude>
+    <ctml:longitude>-73.16101000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148360" kind="city">
+    <ctml:name>Cholchol</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q3785</ctml:wikiDataId>
+    <ctml:latitude>-38.60000000</ctml:latitude>
+    <ctml:longitude>-72.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18969" kind="city">
+    <ctml:name>Collipulli</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q3843</ctml:wikiDataId>
+    <ctml:latitude>-37.95453000</ctml:latitude>
+    <ctml:longitude>-72.43438000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148361" kind="city">
+    <ctml:name>Cunco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q3878</ctml:wikiDataId>
+    <ctml:latitude>-38.91666667</ctml:latitude>
+    <ctml:longitude>-72.03333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148362" kind="city">
+    <ctml:name>Curacautín</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q3880</ctml:wikiDataId>
+    <ctml:latitude>-38.44049210</ctml:latitude>
+    <ctml:longitude>-71.90539600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148363" kind="city">
+    <ctml:name>Curarrehue</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q13025</ctml:wikiDataId>
+    <ctml:latitude>-39.35000000</ctml:latitude>
+    <ctml:longitude>-71.58333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148364" kind="city">
+    <ctml:name>Ercilla</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q13044</ctml:wikiDataId>
+    <ctml:latitude>-38.05000000</ctml:latitude>
+    <ctml:longitude>-72.38333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18983" kind="city">
+    <ctml:name>Freire</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q13049</ctml:wikiDataId>
+    <ctml:latitude>-38.95252000</ctml:latitude>
+    <ctml:longitude>-72.62653000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148365" kind="city">
+    <ctml:name>Galvarino</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q13063</ctml:wikiDataId>
+    <ctml:latitude>-38.40000000</ctml:latitude>
+    <ctml:longitude>-72.78333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148366" kind="city">
+    <ctml:name>Gorbea</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q13067</ctml:wikiDataId>
+    <ctml:latitude>-39.10000000</ctml:latitude>
+    <ctml:longitude>-72.68333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19000" kind="city">
+    <ctml:name>Lautaro</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q14486</ctml:wikiDataId>
+    <ctml:latitude>-38.53066000</ctml:latitude>
+    <ctml:longitude>-72.43652000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19006" kind="city">
+    <ctml:name>Loncoche</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q16900</ctml:wikiDataId>
+    <ctml:latitude>-39.36708000</ctml:latitude>
+    <ctml:longitude>-72.63087000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148367" kind="city">
+    <ctml:name>Lonquimay</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q16902</ctml:wikiDataId>
+    <ctml:latitude>-38.43333333</ctml:latitude>
+    <ctml:longitude>-71.23333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148368" kind="city">
+    <ctml:name>Los Sauces</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q16907</ctml:wikiDataId>
+    <ctml:latitude>-37.96666667</ctml:latitude>
+    <ctml:longitude>-72.83333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148369" kind="city">
+    <ctml:name>Lumaco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q16914</ctml:wikiDataId>
+    <ctml:latitude>-38.15000000</ctml:latitude>
+    <ctml:longitude>-72.91666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148370" kind="city">
+    <ctml:name>Melipeuco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q49076</ctml:wikiDataId>
+    <ctml:latitude>-38.85000000</ctml:latitude>
+    <ctml:longitude>-71.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19017" kind="city">
+    <ctml:name>Nueva Imperial</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q51050</ctml:wikiDataId>
+    <ctml:latitude>-38.74451000</ctml:latitude>
+    <ctml:longitude>-72.95025000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148371" kind="city">
+    <ctml:name>Padre Las Casas</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q51063</ctml:wikiDataId>
+    <ctml:latitude>-38.76666667</ctml:latitude>
+    <ctml:longitude>-72.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148372" kind="city">
+    <ctml:name>Perquenco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q15076</ctml:wikiDataId>
+    <ctml:latitude>-38.41666667</ctml:latitude>
+    <ctml:longitude>-72.38333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19027" kind="city">
+    <ctml:name>Pitrufquén</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q51115</ctml:wikiDataId>
+    <ctml:latitude>-38.98635000</ctml:latitude>
+    <ctml:longitude>-72.63721000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19080" kind="city">
+    <ctml:name>Pucón</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q51590</ctml:wikiDataId>
+    <ctml:latitude>-39.28223000</ctml:latitude>
+    <ctml:longitude>-71.95427000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148373" kind="city">
+    <ctml:name>Purén</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q51602</ctml:wikiDataId>
+    <ctml:latitude>-38.01666667</ctml:latitude>
+    <ctml:longitude>-73.08333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148374" kind="city">
+    <ctml:name>Renaico</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q56118</ctml:wikiDataId>
+    <ctml:latitude>-37.71779000</ctml:latitude>
+    <ctml:longitude>-72.57570000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148375" kind="city">
+    <ctml:name>Saavedra</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q56132</ctml:wikiDataId>
+    <ctml:latitude>-38.78333333</ctml:latitude>
+    <ctml:longitude>-73.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148376" kind="city">
+    <ctml:name>Teodoro Schmidt</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q188135</ctml:wikiDataId>
+    <ctml:latitude>-38.96666667</ctml:latitude>
+    <ctml:longitude>-73.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148377" kind="city">
+    <ctml:name>Toltén</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q200926</ctml:wikiDataId>
+    <ctml:latitude>-39.17852000</ctml:latitude>
+    <ctml:longitude>-73.16448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19120" kind="city">
+    <ctml:name>Traiguén</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q200961</ctml:wikiDataId>
+    <ctml:latitude>-38.24960000</ctml:latitude>
+    <ctml:longitude>-72.67027000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19124" kind="city">
+    <ctml:name>Victoria</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q200999</ctml:wikiDataId>
+    <ctml:latitude>-38.23291000</ctml:latitude>
+    <ctml:longitude>-72.33292000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19126" kind="city">
+    <ctml:name>Vilcún</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q1643896</ctml:wikiDataId>
+    <ctml:latitude>-38.66875000</ctml:latitude>
+    <ctml:longitude>-72.22565000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19129" kind="city">
+    <ctml:name>Villarrica</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>La Araucanía</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q201019</ctml:wikiDataId>
+    <ctml:latitude>-39.28569000</ctml:latitude>
+    <ctml:longitude>-72.22790000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148378" kind="city">
+    <ctml:name>Chépica</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q3790</ctml:wikiDataId>
+    <ctml:latitude>-34.73333333</ctml:latitude>
+    <ctml:longitude>-71.28333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18964" kind="city">
+    <ctml:name>Chimbarongo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q3782</ctml:wikiDataId>
+    <ctml:latitude>-34.71247000</ctml:latitude>
+    <ctml:longitude>-71.04340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148379" kind="city">
+    <ctml:name>Codegua</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q3804</ctml:wikiDataId>
+    <ctml:latitude>-34.03333333</ctml:latitude>
+    <ctml:longitude>-70.66666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148381" kind="city">
+    <ctml:name>Coínco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q3833</ctml:wikiDataId>
+    <ctml:latitude>-34.26666667</ctml:latitude>
+    <ctml:longitude>-70.96666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148380" kind="city">
+    <ctml:name>Coltauco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q3847</ctml:wikiDataId>
+    <ctml:latitude>-34.30000000</ctml:latitude>
+    <ctml:longitude>-71.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148382" kind="city">
+    <ctml:name>Doñihue</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q13035</ctml:wikiDataId>
+    <ctml:latitude>-34.23333333</ctml:latitude>
+    <ctml:longitude>-70.96666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18985" kind="city">
+    <ctml:name>Graneros</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q13068</ctml:wikiDataId>
+    <ctml:latitude>-34.06863000</ctml:latitude>
+    <ctml:longitude>-70.72747000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148383" kind="city">
+    <ctml:name>La Estrella</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q14458</ctml:wikiDataId>
+    <ctml:latitude>-34.20000000</ctml:latitude>
+    <ctml:longitude>-71.66666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148384" kind="city">
+    <ctml:name>Las Cabras</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q14480</ctml:wikiDataId>
+    <ctml:latitude>-34.30000000</ctml:latitude>
+    <ctml:longitude>-71.31666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148385" kind="city">
+    <ctml:name>Litueche</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q14496</ctml:wikiDataId>
+    <ctml:latitude>-34.11666667</ctml:latitude>
+    <ctml:longitude>-71.73333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148386" kind="city">
+    <ctml:name>Lolol</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q16899</ctml:wikiDataId>
+    <ctml:latitude>-34.72861111</ctml:latitude>
+    <ctml:longitude>-71.64472222</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19011" kind="city">
+    <ctml:name>Machalí</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q16915</ctml:wikiDataId>
+    <ctml:latitude>-34.18082000</ctml:latitude>
+    <ctml:longitude>-70.64933000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148387" kind="city">
+    <ctml:name>Malloa</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q16919</ctml:wikiDataId>
+    <ctml:latitude>-34.45000000</ctml:latitude>
+    <ctml:longitude>-70.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148388" kind="city">
+    <ctml:name>Marchigüe</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q16921</ctml:wikiDataId>
+    <ctml:latitude>-34.40000000</ctml:latitude>
+    <ctml:longitude>-71.63333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-148389" kind="admin2">
+    <ctml:name>Mostazal</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q51035</ctml:wikiDataId>
+    <ctml:latitude>-33.98333333</ctml:latitude>
+    <ctml:longitude>-70.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148390" kind="city">
+    <ctml:name>Nancagua</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q51042</ctml:wikiDataId>
+    <ctml:latitude>-34.66666667</ctml:latitude>
+    <ctml:longitude>-71.21666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148391" kind="city">
+    <ctml:name>Navidad</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q51045</ctml:wikiDataId>
+    <ctml:latitude>-33.93333333</ctml:latitude>
+    <ctml:longitude>-71.83333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148392" kind="city">
+    <ctml:name>Olivar</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q51053</ctml:wikiDataId>
+    <ctml:latitude>-34.21164000</ctml:latitude>
+    <ctml:longitude>-70.82012000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148393" kind="city">
+    <ctml:name>Palmilla</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q51074</ctml:wikiDataId>
+    <ctml:latitude>-34.60000000</ctml:latitude>
+    <ctml:longitude>-71.36666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148394" kind="city">
+    <ctml:name>Paredones</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q51082</ctml:wikiDataId>
+    <ctml:latitude>-34.78333333</ctml:latitude>
+    <ctml:longitude>-71.16666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148395" kind="city">
+    <ctml:name>Peralillo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q51095</ctml:wikiDataId>
+    <ctml:latitude>-34.48333333</ctml:latitude>
+    <ctml:longitude>-71.48333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148396" kind="city">
+    <ctml:name>Peumo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q51097</ctml:wikiDataId>
+    <ctml:latitude>-34.40000000</ctml:latitude>
+    <ctml:longitude>-71.16666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148397" kind="city">
+    <ctml:name>Pichidegua</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q51104</ctml:wikiDataId>
+    <ctml:latitude>-34.35000000</ctml:latitude>
+    <ctml:longitude>-71.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148398" kind="city">
+    <ctml:name>Pichilemu</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q25304</ctml:wikiDataId>
+    <ctml:latitude>-34.38333000</ctml:latitude>
+    <ctml:longitude>-72.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148399" kind="city">
+    <ctml:name>Placilla</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q51117</ctml:wikiDataId>
+    <ctml:latitude>-34.63333333</ctml:latitude>
+    <ctml:longitude>-71.11666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148400" kind="city">
+    <ctml:name>Pumanque</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q2098355</ctml:wikiDataId>
+    <ctml:latitude>-34.60000000</ctml:latitude>
+    <ctml:longitude>-71.66666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148401" kind="city">
+    <ctml:name>Quinta de Tilcoco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q56112</ctml:wikiDataId>
+    <ctml:latitude>-34.35550000</ctml:latitude>
+    <ctml:longitude>-70.96527000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19097" kind="city">
+    <ctml:name>Rengo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q56120</ctml:wikiDataId>
+    <ctml:latitude>-34.40639000</ctml:latitude>
+    <ctml:longitude>-70.85834000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148402" kind="city">
+    <ctml:name>Requínoa</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q56121</ctml:wikiDataId>
+    <ctml:latitude>-34.28333333</ctml:latitude>
+    <ctml:longitude>-70.83333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148403" kind="city">
+    <ctml:name>San Fernando</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q23660251</ctml:wikiDataId>
+    <ctml:latitude>-34.74330000</ctml:latitude>
+    <ctml:longitude>-70.60328000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19109" kind="city">
+    <ctml:name>San Vicente</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q187936</ctml:wikiDataId>
+    <ctml:latitude>-34.43859000</ctml:latitude>
+    <ctml:longitude>-71.07751000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19110" kind="city">
+    <ctml:name>Santa Cruz</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Libertador General Bernardo O'Higgins</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q187969</ctml:wikiDataId>
+    <ctml:latitude>-34.63881000</ctml:latitude>
+    <ctml:longitude>-71.36576000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18944" kind="city">
+    <ctml:name>Ancud</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q3597</ctml:wikiDataId>
+    <ctml:latitude>-41.87070000</ctml:latitude>
+    <ctml:longitude>-73.81622000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18953" kind="city">
+    <ctml:name>Calbuco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q3691</ctml:wikiDataId>
+    <ctml:latitude>-41.77338000</ctml:latitude>
+    <ctml:longitude>-73.13049000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18956" kind="city">
+    <ctml:name>Castro</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q3744</ctml:wikiDataId>
+    <ctml:latitude>-42.47210000</ctml:latitude>
+    <ctml:longitude>-73.77319000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18959" kind="city">
+    <ctml:name>Chaitén</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q3759</ctml:wikiDataId>
+    <ctml:latitude>-42.91596000</ctml:latitude>
+    <ctml:longitude>-72.70632000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18965" kind="city">
+    <ctml:name>Chonchi</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q3788</ctml:wikiDataId>
+    <ctml:latitude>-42.62387000</ctml:latitude>
+    <ctml:longitude>-73.77500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148477" kind="city">
+    <ctml:name>Cochamó</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q3797</ctml:wikiDataId>
+    <ctml:latitude>-41.50000000</ctml:latitude>
+    <ctml:longitude>-72.31666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148478" kind="city">
+    <ctml:name>Curaco de Vélez</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q3888</ctml:wikiDataId>
+    <ctml:latitude>-42.43970000</ctml:latitude>
+    <ctml:longitude>-73.60290000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18980" kind="city">
+    <ctml:name>Dalcahue</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q13031</ctml:wikiDataId>
+    <ctml:latitude>-42.37845000</ctml:latitude>
+    <ctml:longitude>-73.65011000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148480" kind="city">
+    <ctml:name>Fresia</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q13052</ctml:wikiDataId>
+    <ctml:latitude>-41.15364000</ctml:latitude>
+    <ctml:longitude>-73.42102000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148481" kind="city">
+    <ctml:name>Frutillar</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q23660602</ctml:wikiDataId>
+    <ctml:latitude>-41.08716000</ctml:latitude>
+    <ctml:longitude>-73.09563000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18984" kind="city">
+    <ctml:name>Futaleufú</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q13060</ctml:wikiDataId>
+    <ctml:latitude>-43.18492000</ctml:latitude>
+    <ctml:longitude>-71.86722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148482" kind="city">
+    <ctml:name>Hualaihué</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q13072</ctml:wikiDataId>
+    <ctml:latitude>-42.01666667</ctml:latitude>
+    <ctml:longitude>-72.68333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19058" kind="city">
+    <ctml:name>Llanquihue</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q14500</ctml:wikiDataId>
+    <ctml:latitude>-41.34285000</ctml:latitude>
+    <ctml:longitude>-72.65800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148483" kind="city">
+    <ctml:name>Los Muermos</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q16906</ctml:wikiDataId>
+    <ctml:latitude>-41.40000000</ctml:latitude>
+    <ctml:longitude>-73.48333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148484" kind="city">
+    <ctml:name>Maullín</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q16927</ctml:wikiDataId>
+    <ctml:latitude>-41.61666667</ctml:latitude>
+    <ctml:longitude>-73.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19018" kind="admin2">
+    <ctml:name>Osorno</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q51059</ctml:wikiDataId>
+    <ctml:latitude>-40.57395000</ctml:latitude>
+    <ctml:longitude>-73.13348000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19021" kind="city">
+    <ctml:name>Palena</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q51073</ctml:wikiDataId>
+    <ctml:latitude>-43.61876000</ctml:latitude>
+    <ctml:longitude>-71.80434000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148485" kind="city">
+    <ctml:name>Puerto Octay</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q51595</ctml:wikiDataId>
+    <ctml:latitude>-40.96666667</ctml:latitude>
+    <ctml:longitude>-72.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19087" kind="city">
+    <ctml:name>Puerto Varas</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q51596</ctml:wikiDataId>
+    <ctml:latitude>-41.31946000</ctml:latitude>
+    <ctml:longitude>-72.98538000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148486" kind="city">
+    <ctml:name>Puqueldón</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q2118779</ctml:wikiDataId>
+    <ctml:latitude>-42.60001000</ctml:latitude>
+    <ctml:longitude>-73.67458000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19089" kind="city">
+    <ctml:name>Purranque</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q51601</ctml:wikiDataId>
+    <ctml:latitude>-40.91305000</ctml:latitude>
+    <ctml:longitude>-73.15913000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148479" kind="city">
+    <ctml:name>Puyehue</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q15084</ctml:wikiDataId>
+    <ctml:latitude>-40.70968010</ctml:latitude>
+    <ctml:longitude>-72.64190560</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148487" kind="city">
+    <ctml:name>Queilén</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q51607</ctml:wikiDataId>
+    <ctml:latitude>-42.85572000</ctml:latitude>
+    <ctml:longitude>-73.56436000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19091" kind="city">
+    <ctml:name>Quellón</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q51608</ctml:wikiDataId>
+    <ctml:latitude>-43.11819000</ctml:latitude>
+    <ctml:longitude>-73.61661000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148488" kind="city">
+    <ctml:name>Quemchi</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q51609</ctml:wikiDataId>
+    <ctml:latitude>-42.13333333</ctml:latitude>
+    <ctml:longitude>-73.51666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148489" kind="city">
+    <ctml:name>Quinchao</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q56111</ctml:wikiDataId>
+    <ctml:latitude>-42.53333333</ctml:latitude>
+    <ctml:longitude>-73.41666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148490" kind="city">
+    <ctml:name>Río Negro</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q56130</ctml:wikiDataId>
+    <ctml:latitude>-40.79615000</ctml:latitude>
+    <ctml:longitude>-73.21614000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148491" kind="city">
+    <ctml:name>San Juan de la Costa</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q187856</ctml:wikiDataId>
+    <ctml:latitude>-40.51666667</ctml:latitude>
+    <ctml:longitude>-73.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148492" kind="city">
+    <ctml:name>San Pablo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LL</ctml:parentRef>
+    <ctml:wikiDataId>Q187873</ctml:wikiDataId>
+    <ctml:latitude>-40.40000000</ctml:latitude>
+    <ctml:longitude>-73.01666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18975" kind="city">
+    <ctml:name>Corral</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LR</ctml:parentRef>
+    <ctml:wikiDataId>Q3875</ctml:wikiDataId>
+    <ctml:latitude>-39.88730000</ctml:latitude>
+    <ctml:longitude>-73.43101000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148493" kind="city">
+    <ctml:name>Futrono</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LR</ctml:parentRef>
+    <ctml:wikiDataId>Q13062</ctml:wikiDataId>
+    <ctml:latitude>-40.13333333</ctml:latitude>
+    <ctml:longitude>-72.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-18995" kind="admin2">
+    <ctml:name>La Unión</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LR</ctml:parentRef>
+    <ctml:wikiDataId>Q14469</ctml:wikiDataId>
+    <ctml:latitude>-40.29313000</ctml:latitude>
+    <ctml:longitude>-73.08167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148494" kind="city">
+    <ctml:name>Lago Ranco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LR</ctml:parentRef>
+    <ctml:wikiDataId>Q14470</ctml:wikiDataId>
+    <ctml:latitude>-40.31666667</ctml:latitude>
+    <ctml:longitude>-72.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148495" kind="city">
+    <ctml:name>Lanco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LR</ctml:parentRef>
+    <ctml:wikiDataId>Q14478</ctml:wikiDataId>
+    <ctml:latitude>-39.45246000</ctml:latitude>
+    <ctml:longitude>-72.77117000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148496" kind="city">
+    <ctml:name>Los Lagos</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LR</ctml:parentRef>
+    <ctml:wikiDataId>Q16905</ctml:wikiDataId>
+    <ctml:latitude>-39.85000000</ctml:latitude>
+    <ctml:longitude>-72.83333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148498" kind="city">
+    <ctml:name>Máfil</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LR</ctml:parentRef>
+    <ctml:wikiDataId>Q51038</ctml:wikiDataId>
+    <ctml:latitude>-39.65000000</ctml:latitude>
+    <ctml:longitude>-72.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148497" kind="city">
+    <ctml:name>Mariquina</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LR</ctml:parentRef>
+    <ctml:wikiDataId>Q16922</ctml:wikiDataId>
+    <ctml:latitude>-39.51666667</ctml:latitude>
+    <ctml:longitude>-72.96666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148499" kind="city">
+    <ctml:name>Paillaco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LR</ctml:parentRef>
+    <ctml:wikiDataId>Q51069</ctml:wikiDataId>
+    <ctml:latitude>-40.07060000</ctml:latitude>
+    <ctml:longitude>-72.87270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19022" kind="city">
+    <ctml:name>Panguipulli</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LR</ctml:parentRef>
+    <ctml:wikiDataId>Q51076</ctml:wikiDataId>
+    <ctml:latitude>-39.64355000</ctml:latitude>
+    <ctml:longitude>-72.33269000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19098" kind="city">
+    <ctml:name>Río Bueno</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-LR</ctml:parentRef>
+    <ctml:wikiDataId>Q56126</ctml:wikiDataId>
+    <ctml:latitude>-40.33494000</ctml:latitude>
+    <ctml:longitude>-72.95564000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19029" kind="city">
+    <ctml:name>Antártica</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Magallanes y de la Antártica Chilena</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q15050531</ctml:wikiDataId>
+    <ctml:latitude>-53.14138970</ctml:latitude>
+    <ctml:longitude>-70.90576650</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148404" kind="city">
+    <ctml:name>Cabo de Hornos</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Magallanes y de la Antártica Chilena</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q3673</ctml:wikiDataId>
+    <ctml:latitude>-54.93333333</ctml:latitude>
+    <ctml:longitude>-67.61666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148405" kind="city">
+    <ctml:name>Laguna Blanca</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Magallanes y de la Antártica Chilena</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q14474</ctml:wikiDataId>
+    <ctml:latitude>-52.25000000</ctml:latitude>
+    <ctml:longitude>-71.91666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148406" kind="city">
+    <ctml:name>Natales</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Magallanes y de la Antártica Chilena</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q51043</ctml:wikiDataId>
+    <ctml:latitude>-51.73333333</ctml:latitude>
+    <ctml:longitude>-72.51666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19028" kind="admin2">
+    <ctml:name>Porvenir</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Magallanes y de la Antártica Chilena</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q51120</ctml:wikiDataId>
+    <ctml:latitude>-53.30000000</ctml:latitude>
+    <ctml:longitude>-70.36666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148407" kind="city">
+    <ctml:name>Primavera</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Magallanes y de la Antártica Chilena</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q51586</ctml:wikiDataId>
+    <ctml:latitude>-52.71666667</ctml:latitude>
+    <ctml:longitude>-69.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148408" kind="city">
+    <ctml:name>Río Verde</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Magallanes y de la Antártica Chilena</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q56131</ctml:wikiDataId>
+    <ctml:latitude>-52.65000000</ctml:latitude>
+    <ctml:longitude>-71.48333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148409" kind="city">
+    <ctml:name>San Gregorio</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Magallanes y de la Antártica Chilena</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q187816</ctml:wikiDataId>
+    <ctml:latitude>-52.31666667</ctml:latitude>
+    <ctml:longitude>-69.68333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148410" kind="city">
+    <ctml:name>Timaukel</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Magallanes y de la Antártica Chilena</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q188177</ctml:wikiDataId>
+    <ctml:latitude>-53.66666667</ctml:latitude>
+    <ctml:longitude>-69.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148411" kind="city">
+    <ctml:name>Torres del Paine</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Magallanes y de la Antártica Chilena</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q200948</ctml:wikiDataId>
+    <ctml:latitude>-51.26666667</ctml:latitude>
+    <ctml:longitude>-72.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18957" kind="city">
+    <ctml:name>Cauquenes</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q3749</ctml:wikiDataId>
+    <ctml:latitude>-35.96710000</ctml:latitude>
+    <ctml:longitude>-72.32248000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148435" kind="city">
+    <ctml:name>Chanco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q3762</ctml:wikiDataId>
+    <ctml:latitude>-35.73333333</ctml:latitude>
+    <ctml:longitude>-72.53333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18968" kind="city">
+    <ctml:name>Colbún</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q3836</ctml:wikiDataId>
+    <ctml:latitude>-35.69494000</ctml:latitude>
+    <ctml:longitude>-71.40568000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18971" kind="city">
+    <ctml:name>Constitución</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q3862</ctml:wikiDataId>
+    <ctml:latitude>-35.33321000</ctml:latitude>
+    <ctml:longitude>-72.41156000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148436" kind="city">
+    <ctml:name>Curepto</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q13026</ctml:wikiDataId>
+    <ctml:latitude>-35.08333333</ctml:latitude>
+    <ctml:longitude>-72.01666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-18978" kind="admin2">
+    <ctml:name>Curicó</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q13030</ctml:wikiDataId>
+    <ctml:latitude>-34.98279000</ctml:latitude>
+    <ctml:longitude>-71.23943000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148437" kind="city">
+    <ctml:name>Empedrado</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q13042</ctml:wikiDataId>
+    <ctml:latitude>-35.60000000</ctml:latitude>
+    <ctml:longitude>-72.28333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148438" kind="city">
+    <ctml:name>Hualañé</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q13074</ctml:wikiDataId>
+    <ctml:latitude>-34.97653333</ctml:latitude>
+    <ctml:longitude>-71.80478611</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148439" kind="city">
+    <ctml:name>Licantén</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q14490</ctml:wikiDataId>
+    <ctml:latitude>-34.98333333</ctml:latitude>
+    <ctml:longitude>-72.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19003" kind="admin2">
+    <ctml:name>Linares</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q14494</ctml:wikiDataId>
+    <ctml:latitude>-35.84667000</ctml:latitude>
+    <ctml:longitude>-71.59308000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19007" kind="city">
+    <ctml:name>Longaví</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q16901</ctml:wikiDataId>
+    <ctml:latitude>-35.96496000</ctml:latitude>
+    <ctml:longitude>-71.68360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148440" kind="city">
+    <ctml:name>Maule</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q16926</ctml:wikiDataId>
+    <ctml:latitude>-35.53333333</ctml:latitude>
+    <ctml:longitude>-71.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19013" kind="city">
+    <ctml:name>Molina</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q51033</ctml:wikiDataId>
+    <ctml:latitude>-35.11428000</ctml:latitude>
+    <ctml:longitude>-71.28232000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19023" kind="city">
+    <ctml:name>Parral</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q51083</ctml:wikiDataId>
+    <ctml:latitude>-36.14311000</ctml:latitude>
+    <ctml:longitude>-71.82605000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148441" kind="city">
+    <ctml:name>Pelarco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q51085</ctml:wikiDataId>
+    <ctml:latitude>-35.38333333</ctml:latitude>
+    <ctml:longitude>-71.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148442" kind="city">
+    <ctml:name>Pelluhue</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q51086</ctml:wikiDataId>
+    <ctml:latitude>-35.83333333</ctml:latitude>
+    <ctml:longitude>-72.63333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148443" kind="city">
+    <ctml:name>Pencahue</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q51091</ctml:wikiDataId>
+    <ctml:latitude>-35.40000000</ctml:latitude>
+    <ctml:longitude>-71.81666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19096" kind="city">
+    <ctml:name>Rauco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q56116</ctml:wikiDataId>
+    <ctml:latitude>-34.92546000</ctml:latitude>
+    <ctml:longitude>-71.31722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148444" kind="city">
+    <ctml:name>Retiro</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q56122</ctml:wikiDataId>
+    <ctml:latitude>-36.05000000</ctml:latitude>
+    <ctml:longitude>-71.76666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148446" kind="city">
+    <ctml:name>Río Claro</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q56127</ctml:wikiDataId>
+    <ctml:latitude>-35.28333333</ctml:latitude>
+    <ctml:longitude>-71.26666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148445" kind="city">
+    <ctml:name>Romeral</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q56124</ctml:wikiDataId>
+    <ctml:latitude>-34.96666667</ctml:latitude>
+    <ctml:longitude>-71.13333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148447" kind="city">
+    <ctml:name>Sagrada Familia</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q56133</ctml:wikiDataId>
+    <ctml:latitude>-35.00000000</ctml:latitude>
+    <ctml:longitude>-71.38333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19104" kind="city">
+    <ctml:name>San Clemente</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q56138</ctml:wikiDataId>
+    <ctml:latitude>-35.53777000</ctml:latitude>
+    <ctml:longitude>-71.48700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19106" kind="city">
+    <ctml:name>San Javier</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q187831</ctml:wikiDataId>
+    <ctml:latitude>-35.59520000</ctml:latitude>
+    <ctml:longitude>-71.72924000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148448" kind="city">
+    <ctml:name>San Rafael</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q187898</ctml:wikiDataId>
+    <ctml:latitude>-35.31666667</ctml:latitude>
+    <ctml:longitude>-71.53333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19117" kind="city">
+    <ctml:name>Teno</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q2383688</ctml:wikiDataId>
+    <ctml:latitude>-34.87055000</ctml:latitude>
+    <ctml:longitude>-71.16219000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148449" kind="city">
+    <ctml:name>Vichuquén</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q200992</ctml:wikiDataId>
+    <ctml:latitude>-34.88333333</ctml:latitude>
+    <ctml:longitude>-72.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148450" kind="city">
+    <ctml:name>Villa Alegre</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q201015</ctml:wikiDataId>
+    <ctml:latitude>-35.66666667</ctml:latitude>
+    <ctml:longitude>-71.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148451" kind="city">
+    <ctml:name>Yerbas Buenas</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Maule</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-ML</ctml:parentRef>
+    <ctml:wikiDataId>Q201046</ctml:wikiDataId>
+    <ctml:latitude>-35.75000000</ctml:latitude>
+    <ctml:longitude>-71.58333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-18950" kind="admin2">
+    <ctml:name>Bulnes</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q3663</ctml:wikiDataId>
+    <ctml:latitude>-36.74232000</ctml:latitude>
+    <ctml:longitude>-72.29854000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148419" kind="city">
+    <ctml:name>Chillán Viejo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q3779</ctml:wikiDataId>
+    <ctml:latitude>-36.62290000</ctml:latitude>
+    <ctml:longitude>-72.13170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148420" kind="city">
+    <ctml:name>Cobquecura</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q3796</ctml:wikiDataId>
+    <ctml:latitude>-36.13333333</ctml:latitude>
+    <ctml:longitude>-72.78333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148421" kind="city">
+    <ctml:name>Coelemu</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q3807</ctml:wikiDataId>
+    <ctml:latitude>-36.48333333</ctml:latitude>
+    <ctml:longitude>-72.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18967" kind="city">
+    <ctml:name>Coihueco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q3814</ctml:wikiDataId>
+    <ctml:latitude>-36.62785000</ctml:latitude>
+    <ctml:longitude>-71.83068000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148422" kind="city">
+    <ctml:name>El Carmen</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q13037</ctml:wikiDataId>
+    <ctml:latitude>-36.90000000</ctml:latitude>
+    <ctml:longitude>-72.03333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148423" kind="city">
+    <ctml:name>Ninhue</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q51048</ctml:wikiDataId>
+    <ctml:latitude>-36.40000000</ctml:latitude>
+    <ctml:longitude>-72.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148424" kind="city">
+    <ctml:name>Ñiquén</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q201070</ctml:wikiDataId>
+    <ctml:latitude>-36.30000000</ctml:latitude>
+    <ctml:longitude>-71.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148425" kind="city">
+    <ctml:name>Pemuco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q51090</ctml:wikiDataId>
+    <ctml:latitude>-36.96666667</ctml:latitude>
+    <ctml:longitude>-72.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148426" kind="city">
+    <ctml:name>Pinto</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q51106</ctml:wikiDataId>
+    <ctml:latitude>-36.70000000</ctml:latitude>
+    <ctml:longitude>-71.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148427" kind="city">
+    <ctml:name>Portezuelo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q51119</ctml:wikiDataId>
+    <ctml:latitude>-36.53333333</ctml:latitude>
+    <ctml:longitude>-72.43333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148428" kind="city">
+    <ctml:name>Quillón</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q56109</ctml:wikiDataId>
+    <ctml:latitude>-36.73333333</ctml:latitude>
+    <ctml:longitude>-72.46666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19094" kind="admin2">
+    <ctml:name>Quirihue</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q56115</ctml:wikiDataId>
+    <ctml:latitude>-36.27998000</ctml:latitude>
+    <ctml:longitude>-72.54118000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-148429" kind="admin2">
+    <ctml:name>Ránquil</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q56125</ctml:wikiDataId>
+    <ctml:latitude>-36.65000000</ctml:latitude>
+    <ctml:longitude>-72.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19103" kind="admin2">
+    <ctml:name>San Carlos</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q56137</ctml:wikiDataId>
+    <ctml:latitude>-36.42477000</ctml:latitude>
+    <ctml:longitude>-71.95800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148430" kind="city">
+    <ctml:name>San Fabián</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q187795</ctml:wikiDataId>
+    <ctml:latitude>-36.55000000</ctml:latitude>
+    <ctml:longitude>-71.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148431" kind="city">
+    <ctml:name>San Ignacio</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q187824</ctml:wikiDataId>
+    <ctml:latitude>-36.79999910</ctml:latitude>
+    <ctml:longitude>-72.04207620</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148432" kind="city">
+    <ctml:name>San Nicolás</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q187866</ctml:wikiDataId>
+    <ctml:latitude>-36.50000000</ctml:latitude>
+    <ctml:longitude>-72.21666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148433" kind="city">
+    <ctml:name>Treguaco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q200963</ctml:wikiDataId>
+    <ctml:latitude>-36.43333333</ctml:latitude>
+    <ctml:longitude>-72.66666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148434" kind="city">
+    <ctml:name>Yungay</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Ñuble</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q201056</ctml:wikiDataId>
+    <ctml:latitude>-37.11666667</ctml:latitude>
+    <ctml:longitude>-72.01666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-148502" kind="admin2">
+    <ctml:name>Colina</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Región Metropolitana de Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-RM</ctml:parentRef>
+    <ctml:wikiDataId>Q3841</ctml:wikiDataId>
+    <ctml:latitude>-33.20000000</ctml:latitude>
+    <ctml:longitude>-70.68333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19012" kind="admin2">
+    <ctml:name>Melipilla</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Región Metropolitana de Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-RM</ctml:parentRef>
+    <ctml:wikiDataId>Q51032</ctml:wikiDataId>
+    <ctml:latitude>-33.68909000</ctml:latitude>
+    <ctml:longitude>-71.21528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19081" kind="admin2">
+    <ctml:name>Puente Alto</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Región Metropolitana de Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-RM</ctml:parentRef>
+    <ctml:wikiDataId>Q51594</ctml:wikiDataId>
+    <ctml:latitude>-33.61169000</ctml:latitude>
+    <ctml:longitude>-70.57577000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19102" kind="admin2">
+    <ctml:name>San Bernardo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Región Metropolitana de Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-RM</ctml:parentRef>
+    <ctml:wikiDataId>Q56136</ctml:wikiDataId>
+    <ctml:latitude>-33.59217000</ctml:latitude>
+    <ctml:longitude>-70.69960000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19111" kind="city">
+    <ctml:name>Santiago</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Región Metropolitana de Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-RM</ctml:parentRef>
+    <ctml:wikiDataId>Q2887</ctml:wikiDataId>
+    <ctml:latitude>-33.45694000</ctml:latitude>
+    <ctml:longitude>-70.64827000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19112" kind="admin2">
+    <ctml:name>Talagante</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Región Metropolitana de Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-RM</ctml:parentRef>
+    <ctml:wikiDataId>Q188038</ctml:wikiDataId>
+    <ctml:latitude>-33.66386000</ctml:latitude>
+    <ctml:longitude>-70.92734000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-148412" kind="admin2">
+    <ctml:name>Alto Hospicio</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Tarapacá</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q2217</ctml:wikiDataId>
+    <ctml:latitude>-20.25000000</ctml:latitude>
+    <ctml:longitude>-70.11666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148413" kind="city">
+    <ctml:name>Camiña</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Tarapacá</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q3731</ctml:wikiDataId>
+    <ctml:latitude>-19.30000000</ctml:latitude>
+    <ctml:longitude>-69.41666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148414" kind="city">
+    <ctml:name>Colchane</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Tarapacá</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q3839</ctml:wikiDataId>
+    <ctml:latitude>-19.27541100</ctml:latitude>
+    <ctml:longitude>-68.63964600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148415" kind="city">
+    <ctml:name>Huara</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Tarapacá</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q13081</ctml:wikiDataId>
+    <ctml:latitude>-19.96666667</ctml:latitude>
+    <ctml:longitude>-69.76666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148416" kind="city">
+    <ctml:name>Pica</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Tarapacá</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q51102</ctml:wikiDataId>
+    <ctml:latitude>-20.50000000</ctml:latitude>
+    <ctml:longitude>-69.33333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-148417" kind="admin2">
+    <ctml:name>Pozo Almonte</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Tarapacá</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q51585</ctml:wikiDataId>
+    <ctml:latitude>-20.25970000</ctml:latitude>
+    <ctml:longitude>-69.78620000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148452" kind="city">
+    <ctml:name>Algarrobo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q2206</ctml:wikiDataId>
+    <ctml:latitude>-33.36925600</ctml:latitude>
+    <ctml:longitude>-71.66813900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148453" kind="city">
+    <ctml:name>Cabildo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q3668</ctml:wikiDataId>
+    <ctml:latitude>-32.41737000</ctml:latitude>
+    <ctml:longitude>-70.82435000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148454" kind="city">
+    <ctml:name>Calle Larga</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q3728</ctml:wikiDataId>
+    <ctml:latitude>-32.85000000</ctml:latitude>
+    <ctml:longitude>-70.63333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18955" kind="city">
+    <ctml:name>Cartagena</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q3738</ctml:wikiDataId>
+    <ctml:latitude>-33.55384000</ctml:latitude>
+    <ctml:longitude>-71.60761000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148455" kind="city">
+    <ctml:name>Casablanca</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q3742</ctml:wikiDataId>
+    <ctml:latitude>-33.31666667</ctml:latitude>
+    <ctml:longitude>-71.41666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148456" kind="city">
+    <ctml:name>Catemu</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q3747</ctml:wikiDataId>
+    <ctml:latitude>-32.63333333</ctml:latitude>
+    <ctml:longitude>-71.03333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148457" kind="city">
+    <ctml:name>Concón</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q3860</ctml:wikiDataId>
+    <ctml:latitude>-32.91666667</ctml:latitude>
+    <ctml:longitude>-71.51666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148458" kind="city">
+    <ctml:name>El Quisco</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q13040</ctml:wikiDataId>
+    <ctml:latitude>-33.40000000</ctml:latitude>
+    <ctml:longitude>-71.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148459" kind="city">
+    <ctml:name>El Tabo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q13041</ctml:wikiDataId>
+    <ctml:latitude>-33.45000000</ctml:latitude>
+    <ctml:longitude>-71.66666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148460" kind="city">
+    <ctml:name>Hijuelas</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q13071</ctml:wikiDataId>
+    <ctml:latitude>-32.80000000</ctml:latitude>
+    <ctml:longitude>-71.16666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19055" kind="city">
+    <ctml:name>Isla de Pascua</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q721369</ctml:wikiDataId>
+    <ctml:latitude>-27.11048000</ctml:latitude>
+    <ctml:longitude>-109.29749000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148461" kind="city">
+    <ctml:name>Juan Fernández</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q14454</ctml:wikiDataId>
+    <ctml:latitude>-30.02564270</ctml:latitude>
+    <ctml:longitude>-82.05192080</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148463" kind="city">
+    <ctml:name>La Calera</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q3713</ctml:wikiDataId>
+    <ctml:latitude>-32.78333333</ctml:latitude>
+    <ctml:longitude>-71.21666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148464" kind="city">
+    <ctml:name>La Cruz</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q14457</ctml:wikiDataId>
+    <ctml:latitude>-32.81666667</ctml:latitude>
+    <ctml:longitude>-71.23333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-18992" kind="city">
+    <ctml:name>La Ligua</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q14463</ctml:wikiDataId>
+    <ctml:latitude>-32.45242000</ctml:latitude>
+    <ctml:longitude>-71.23106000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19002" kind="city">
+    <ctml:name>Limache</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q14493</ctml:wikiDataId>
+    <ctml:latitude>-33.01667000</ctml:latitude>
+    <ctml:longitude>-71.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19004" kind="city">
+    <ctml:name>Llaillay</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q14498</ctml:wikiDataId>
+    <ctml:latitude>-32.84043000</ctml:latitude>
+    <ctml:longitude>-70.95623000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19008" kind="city">
+    <ctml:name>Los Andes</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q16903</ctml:wikiDataId>
+    <ctml:latitude>-32.83369000</ctml:latitude>
+    <ctml:longitude>-70.59827000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148465" kind="city">
+    <ctml:name>Nogales</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q51049</ctml:wikiDataId>
+    <ctml:latitude>-32.71666667</ctml:latitude>
+    <ctml:longitude>-71.23333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148466" kind="city">
+    <ctml:name>Olmué</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q51058</ctml:wikiDataId>
+    <ctml:latitude>-33.00000000</ctml:latitude>
+    <ctml:longitude>-71.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148467" kind="city">
+    <ctml:name>Panquehue</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q51078</ctml:wikiDataId>
+    <ctml:latitude>-32.80000000</ctml:latitude>
+    <ctml:longitude>-70.83333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148468" kind="city">
+    <ctml:name>Papudo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q51079</ctml:wikiDataId>
+    <ctml:latitude>-32.51666667</ctml:latitude>
+    <ctml:longitude>-71.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148469" kind="city">
+    <ctml:name>Petorca</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q51096</ctml:wikiDataId>
+    <ctml:latitude>-32.25000000</ctml:latitude>
+    <ctml:longitude>-70.93333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-148470" kind="admin2">
+    <ctml:name>Puchuncaví</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q51588</ctml:wikiDataId>
+    <ctml:latitude>-32.72575000</ctml:latitude>
+    <ctml:longitude>-71.41514000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148471" kind="city">
+    <ctml:name>Putaendo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q51604</ctml:wikiDataId>
+    <ctml:latitude>-32.63333333</ctml:latitude>
+    <ctml:longitude>-70.73333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19092" kind="admin2">
+    <ctml:name>Quillota</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q56108</ctml:wikiDataId>
+    <ctml:latitude>-32.88341000</ctml:latitude>
+    <ctml:longitude>-71.24882000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19093" kind="admin2">
+    <ctml:name>Quilpué</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q56110</ctml:wikiDataId>
+    <ctml:latitude>-33.04752000</ctml:latitude>
+    <ctml:longitude>-71.44249000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148472" kind="city">
+    <ctml:name>Quintero</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q56114</ctml:wikiDataId>
+    <ctml:latitude>-32.78333333</ctml:latitude>
+    <ctml:longitude>-71.53333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148473" kind="city">
+    <ctml:name>Rinconada</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q56123</ctml:wikiDataId>
+    <ctml:latitude>-32.83333333</ctml:latitude>
+    <ctml:longitude>-70.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19100" kind="city">
+    <ctml:name>San Antonio</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q56135</ctml:wikiDataId>
+    <ctml:latitude>-33.59473000</ctml:latitude>
+    <ctml:longitude>-71.60746000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148474" kind="city">
+    <ctml:name>San Esteban</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q187784</ctml:wikiDataId>
+    <ctml:latitude>-32.80000000</ctml:latitude>
+    <ctml:longitude>-70.58333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CHL-19105" kind="admin2">
+    <ctml:name>San Felipe</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q187802</ctml:wikiDataId>
+    <ctml:latitude>-32.74976000</ctml:latitude>
+    <ctml:longitude>-70.72584000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148475" kind="city">
+    <ctml:name>Santa María</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q187991</ctml:wikiDataId>
+    <ctml:latitude>-32.75000000</ctml:latitude>
+    <ctml:longitude>-70.66666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148462" kind="city">
+    <ctml:name>Santo Domingo</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q188011</ctml:wikiDataId>
+    <ctml:latitude>-33.64719330</ctml:latitude>
+    <ctml:longitude>-71.63527900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19127" kind="city">
+    <ctml:name>Villa Alemana</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q174744</ctml:wikiDataId>
+    <ctml:latitude>-33.04222000</ctml:latitude>
+    <ctml:longitude>-71.37333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-19130" kind="city">
+    <ctml:name>Viña del Mar</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q184345</ctml:wikiDataId>
+    <ctml:latitude>-33.02457000</ctml:latitude>
+    <ctml:longitude>-71.55183000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CHL-148476" kind="city">
+    <ctml:name>Zapallar</ctml:name>
+    <ctml:country>CHL</ctml:country>
+    <ctml:admin1>Valparaíso</ctml:admin1>
+    <ctml:parentRef>place:admin1:CL-VS</ctml:parentRef>
+    <ctml:wikiDataId>Q201064</ctml:wikiDataId>
+    <ctml:latitude>-32.55390000</ctml:latitude>
+    <ctml:longitude>-71.45770000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

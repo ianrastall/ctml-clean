@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BWA-15738" kind="city">
+    <ctml:name>Gobojango</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q166126</ctml:wikiDataId>
+    <ctml:latitude>-21.83270000</ctml:latitude>
+    <ctml:longitude>28.72882000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15739" kind="city">
+    <ctml:name>Gweta</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q170752</ctml:wikiDataId>
+    <ctml:latitude>-20.18333000</ctml:latitude>
+    <ctml:longitude>25.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15742" kind="city">
+    <ctml:name>Kalamare</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q72558</ctml:wikiDataId>
+    <ctml:latitude>-22.93369000</ctml:latitude>
+    <ctml:longitude>26.57032000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15750" kind="city">
+    <ctml:name>Letlhakane</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q167301</ctml:wikiDataId>
+    <ctml:latitude>-21.41494000</ctml:latitude>
+    <ctml:longitude>25.59263000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15752" kind="city">
+    <ctml:name>Letsheng</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q171101</ctml:wikiDataId>
+    <ctml:latitude>-22.66384000</ctml:latitude>
+    <ctml:longitude>27.22390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15753" kind="city">
+    <ctml:name>Maapi</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q21858676</ctml:wikiDataId>
+    <ctml:latitude>-22.75785000</ctml:latitude>
+    <ctml:longitude>27.35001000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15754" kind="city">
+    <ctml:name>Machaneng</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q21858676</ctml:wikiDataId>
+    <ctml:latitude>-23.18621000</ctml:latitude>
+    <ctml:longitude>27.48856000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15755" kind="city">
+    <ctml:name>Mahalapye</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q170724</ctml:wikiDataId>
+    <ctml:latitude>-23.10407000</ctml:latitude>
+    <ctml:longitude>26.81421000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15757" kind="city">
+    <ctml:name>Makobeng</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q72034</ctml:wikiDataId>
+    <ctml:latitude>-22.99637000</ctml:latitude>
+    <ctml:longitude>27.66766000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15758" kind="city">
+    <ctml:name>Makwata</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q72029</ctml:wikiDataId>
+    <ctml:latitude>-23.28333000</ctml:latitude>
+    <ctml:longitude>27.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15761" kind="city">
+    <ctml:name>Mathakola</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q170941</ctml:wikiDataId>
+    <ctml:latitude>-22.72125000</ctml:latitude>
+    <ctml:longitude>27.31057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15762" kind="city">
+    <ctml:name>Mathambgwane</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q170755</ctml:wikiDataId>
+    <ctml:latitude>-20.99075000</ctml:latitude>
+    <ctml:longitude>27.33158000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15763" kind="city">
+    <ctml:name>Mathathane</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q166327</ctml:wikiDataId>
+    <ctml:latitude>-22.26875000</ctml:latitude>
+    <ctml:longitude>28.74946000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15765" kind="city">
+    <ctml:name>Maunatlala</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q171040</ctml:wikiDataId>
+    <ctml:latitude>-22.59701000</ctml:latitude>
+    <ctml:longitude>27.63006000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15770" kind="city">
+    <ctml:name>Mogapi</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q170811</ctml:wikiDataId>
+    <ctml:latitude>-22.32301000</ctml:latitude>
+    <ctml:longitude>27.83492000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15772" kind="city">
+    <ctml:name>Moijabana</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q21858765</ctml:wikiDataId>
+    <ctml:latitude>-22.43333000</ctml:latitude>
+    <ctml:longitude>26.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15774" kind="city">
+    <ctml:name>Mookane</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q72043</ctml:wikiDataId>
+    <ctml:latitude>-23.68805000</ctml:latitude>
+    <ctml:longitude>26.65948000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15775" kind="city">
+    <ctml:name>Mopipi</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q167864</ctml:wikiDataId>
+    <ctml:latitude>-21.18333000</ctml:latitude>
+    <ctml:longitude>24.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15776" kind="city">
+    <ctml:name>Mosetse</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q167864</ctml:wikiDataId>
+    <ctml:latitude>-20.75000000</ctml:latitude>
+    <ctml:longitude>26.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15778" kind="city">
+    <ctml:name>Nata</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q170817</ctml:wikiDataId>
+    <ctml:latitude>-20.21667000</ctml:latitude>
+    <ctml:longitude>26.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15781" kind="city">
+    <ctml:name>Orapa</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q859708</ctml:wikiDataId>
+    <ctml:latitude>-21.31150000</ctml:latitude>
+    <ctml:longitude>25.37642000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15783" kind="city">
+    <ctml:name>Palapye</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q170711</ctml:wikiDataId>
+    <ctml:latitude>-22.54605000</ctml:latitude>
+    <ctml:longitude>27.12507000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15786" kind="city">
+    <ctml:name>Pilikwe</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q72023</ctml:wikiDataId>
+    <ctml:latitude>-22.79904000</ctml:latitude>
+    <ctml:longitude>27.19376000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15787" kind="city">
+    <ctml:name>Rakops</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q31483645</ctml:wikiDataId>
+    <ctml:latitude>-21.02257000</ctml:latitude>
+    <ctml:longitude>24.36052000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15788" kind="city">
+    <ctml:name>Ramokgonami</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q72189</ctml:wikiDataId>
+    <ctml:latitude>-22.86450000</ctml:latitude>
+    <ctml:longitude>27.42391000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15790" kind="city">
+    <ctml:name>Ratholo</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q171006</ctml:wikiDataId>
+    <ctml:latitude>-22.72454000</ctml:latitude>
+    <ctml:longitude>27.57199000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15792" kind="city">
+    <ctml:name>Sefophe</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q166828</ctml:wikiDataId>
+    <ctml:latitude>-22.18333000</ctml:latitude>
+    <ctml:longitude>27.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15797" kind="city">
+    <ctml:name>Sua</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q170663</ctml:wikiDataId>
+    <ctml:latitude>-20.05000000</ctml:latitude>
+    <ctml:longitude>26.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15798" kind="city">
+    <ctml:name>Tamasane</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q171118</ctml:wikiDataId>
+    <ctml:latitude>-22.41840000</ctml:latitude>
+    <ctml:longitude>27.40127000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15800" kind="city">
+    <ctml:name>Tobane</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q166947</ctml:wikiDataId>
+    <ctml:latitude>-21.95000000</ctml:latitude>
+    <ctml:longitude>27.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15801" kind="city">
+    <ctml:name>Tonota</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q170661</ctml:wikiDataId>
+    <ctml:latitude>-21.44236000</ctml:latitude>
+    <ctml:longitude>27.46153000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15731" kind="city">
+    <ctml:name>Dekar</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Ghanzi</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-GH</ctml:parentRef>
+    <ctml:wikiDataId>Q170898</ctml:wikiDataId>
+    <ctml:latitude>-21.53333000</ctml:latitude>
+    <ctml:longitude>21.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15740" kind="city">
+    <ctml:name>Hukuntsi</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kgalagadi</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KG</ctml:parentRef>
+    <ctml:wikiDataId>Q170642</ctml:wikiDataId>
+    <ctml:latitude>-23.99880000</ctml:latitude>
+    <ctml:longitude>21.77962000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15743" kind="city">
+    <ctml:name>Kang</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kgalagadi</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KG</ctml:parentRef>
+    <ctml:wikiDataId>Q170667</ctml:wikiDataId>
+    <ctml:latitude>-23.67518000</ctml:latitude>
+    <ctml:longitude>22.78762000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15748" kind="city">
+    <ctml:name>Lehututu</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kgalagadi</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KG</ctml:parentRef>
+    <ctml:wikiDataId>Q170646</ctml:wikiDataId>
+    <ctml:latitude>-23.96667000</ctml:latitude>
+    <ctml:longitude>21.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15759" kind="city">
+    <ctml:name>Manyana</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kgalagadi</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KG</ctml:parentRef>
+    <ctml:wikiDataId>Q72029</ctml:wikiDataId>
+    <ctml:latitude>-23.40000000</ctml:latitude>
+    <ctml:longitude>21.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15803" kind="city">
+    <ctml:name>Werda</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kgalagadi</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KG</ctml:parentRef>
+    <ctml:wikiDataId>Q171162</ctml:wikiDataId>
+    <ctml:latitude>-25.26667000</ctml:latitude>
+    <ctml:longitude>23.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15729" kind="city">
+    <ctml:name>Bokaa</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kgatleng</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KL</ctml:parentRef>
+    <ctml:wikiDataId>Q170656</ctml:wikiDataId>
+    <ctml:latitude>-24.45000000</ctml:latitude>
+    <ctml:longitude>26.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15767" kind="city">
+    <ctml:name>Mmathubudukwane</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kgatleng</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KL</ctml:parentRef>
+    <ctml:wikiDataId>Q170722</ctml:wikiDataId>
+    <ctml:latitude>-24.60000000</ctml:latitude>
+    <ctml:longitude>26.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15730" kind="city">
+    <ctml:name>Botlhapatlou</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kweneng</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q170719</ctml:wikiDataId>
+    <ctml:latitude>-24.02591000</ctml:latitude>
+    <ctml:longitude>25.48976000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15733" kind="city">
+    <ctml:name>Dutlwe</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kweneng</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q170705</ctml:wikiDataId>
+    <ctml:latitude>-23.98333000</ctml:latitude>
+    <ctml:longitude>23.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15734" kind="city">
+    <ctml:name>Gabane</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kweneng</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q38855</ctml:wikiDataId>
+    <ctml:latitude>-24.66667000</ctml:latitude>
+    <ctml:longitude>25.78222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15736" kind="city">
+    <ctml:name>Gaphatshwe</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kweneng</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q38855</ctml:wikiDataId>
+    <ctml:latitude>-24.57389000</ctml:latitude>
+    <ctml:longitude>25.83417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15746" kind="city">
+    <ctml:name>Khudumelapye</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kweneng</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q170739</ctml:wikiDataId>
+    <ctml:latitude>-23.88333000</ctml:latitude>
+    <ctml:longitude>24.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15749" kind="city">
+    <ctml:name>Lenchwe Le Tau</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kweneng</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q21858654</ctml:wikiDataId>
+    <ctml:latitude>-24.38333000</ctml:latitude>
+    <ctml:longitude>25.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15751" kind="city">
+    <ctml:name>Letlhakeng</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kweneng</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q170664</ctml:wikiDataId>
+    <ctml:latitude>-24.09442000</ctml:latitude>
+    <ctml:longitude>25.02977000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15766" kind="city">
+    <ctml:name>Metsemotlhaba</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kweneng</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q39137</ctml:wikiDataId>
+    <ctml:latitude>-24.55139000</ctml:latitude>
+    <ctml:longitude>25.80306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15768" kind="city">
+    <ctml:name>Mmopone</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kweneng</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q170722</ctml:wikiDataId>
+    <ctml:latitude>-24.56694000</ctml:latitude>
+    <ctml:longitude>25.87417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15771" kind="city">
+    <ctml:name>Mogoditshane</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kweneng</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q170717</ctml:wikiDataId>
+    <ctml:latitude>-24.62694000</ctml:latitude>
+    <ctml:longitude>25.86556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15779" kind="city">
+    <ctml:name>Nkoyaphiri</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kweneng</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q170817</ctml:wikiDataId>
+    <ctml:latitude>-24.63222000</ctml:latitude>
+    <ctml:longitude>25.83139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15799" kind="city">
+    <ctml:name>Thamaga</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Kweneng</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q38902</ctml:wikiDataId>
+    <ctml:latitude>-24.67014000</ctml:latitude>
+    <ctml:longitude>25.53975000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15732" kind="city">
+    <ctml:name>Dukwe</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>North-East</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q21858508</ctml:wikiDataId>
+    <ctml:latitude>-20.58333000</ctml:latitude>
+    <ctml:longitude>26.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15756" kind="city">
+    <ctml:name>Makaleng</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>North-East</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q170968</ctml:wikiDataId>
+    <ctml:latitude>-20.90000000</ctml:latitude>
+    <ctml:longitude>27.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BWA-15760" kind="admin2">
+    <ctml:name>Masunga</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>North-East</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q170830</ctml:wikiDataId>
+    <ctml:latitude>-20.62455000</ctml:latitude>
+    <ctml:longitude>27.44875000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15791" kind="city">
+    <ctml:name>Sebina</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>North-East</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q170981</ctml:wikiDataId>
+    <ctml:latitude>-20.86667000</ctml:latitude>
+    <ctml:longitude>27.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15780" kind="city">
+    <ctml:name>Nokaneng</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>North-West</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q171157</ctml:wikiDataId>
+    <ctml:latitude>-19.66667000</ctml:latitude>
+    <ctml:longitude>22.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15784" kind="city">
+    <ctml:name>Pandamatenga</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>North-West</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q170908</ctml:wikiDataId>
+    <ctml:latitude>-18.52779000</ctml:latitude>
+    <ctml:longitude>25.62698000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15793" kind="city">
+    <ctml:name>Sehithwa</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>North-West</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q166923</ctml:wikiDataId>
+    <ctml:latitude>-20.46667000</ctml:latitude>
+    <ctml:longitude>22.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15796" kind="city">
+    <ctml:name>Shakawe</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>North-West</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q170663</ctml:wikiDataId>
+    <ctml:latitude>-18.36536000</ctml:latitude>
+    <ctml:longitude>21.84219000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15735" kind="city">
+    <ctml:name>Gaborone</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>South-East</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q38855</ctml:wikiDataId>
+    <ctml:latitude>-24.76234000</ctml:latitude>
+    <ctml:longitude>25.79950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15741" kind="city">
+    <ctml:name>Janeng</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>South-East</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q21858552</ctml:wikiDataId>
+    <ctml:latitude>-25.41667000</ctml:latitude>
+    <ctml:longitude>25.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15747" kind="city">
+    <ctml:name>Kopong</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>South-East</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q31811672</ctml:wikiDataId>
+    <ctml:latitude>-24.48333000</ctml:latitude>
+    <ctml:longitude>25.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15782" kind="city">
+    <ctml:name>Otse</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>South-East</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q170659</ctml:wikiDataId>
+    <ctml:latitude>-25.01667000</ctml:latitude>
+    <ctml:longitude>25.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15745" kind="city">
+    <ctml:name>Khakhea</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q170954</ctml:wikiDataId>
+    <ctml:latitude>-24.68954000</ctml:latitude>
+    <ctml:longitude>23.49403000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15777" kind="city">
+    <ctml:name>Mosopa</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q170660</ctml:wikiDataId>
+    <ctml:latitude>-24.77180000</ctml:latitude>
+    <ctml:longitude>25.42156000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BWA-15794" kind="city">
+    <ctml:name>Sekoma</ctml:name>
+    <ctml:country>BWA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:BW-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q21858864</ctml:wikiDataId>
+    <ctml:latitude>-24.40000000</ctml:latitude>
+    <ctml:longitude>23.88333000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

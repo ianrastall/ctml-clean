@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:GGY-160552" kind="city">
+    <ctml:name>Forest Parish</ctml:name>
+    <ctml:country>GGY</ctml:country>
+    <ctml:admin1>Forest</ctml:admin1>
+    <ctml:parentRef>place:admin1:GG-02</ctml:parentRef>
+    <ctml:latitude>49.42983000</ctml:latitude>
+    <ctml:longitude>-2.60168000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GGY-160553" kind="city">
+    <ctml:name>Saint Peter Port</ctml:name>
+    <ctml:country>GGY</ctml:country>
+    <ctml:admin1>St Peter Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:GG-06</ctml:parentRef>
+    <ctml:latitude>49.45981000</ctml:latitude>
+    <ctml:longitude>-2.53527000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GGY-160555" kind="city">
+    <ctml:name>Saint Pierre du Bois Parish</ctml:name>
+    <ctml:country>GGY</ctml:country>
+    <ctml:admin1>St Pierre du Bois</ctml:admin1>
+    <ctml:parentRef>place:admin1:GG-08</ctml:parentRef>
+    <ctml:latitude>49.45399000</ctml:latitude>
+    <ctml:longitude>-2.63808000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GGY-160554" kind="city">
+    <ctml:name>Vale Parish</ctml:name>
+    <ctml:country>GGY</ctml:country>
+    <ctml:admin1>St Pierre du Bois</ctml:admin1>
+    <ctml:parentRef>place:admin1:GG-08</ctml:parentRef>
+    <ctml:latitude>49.49440000</ctml:latitude>
+    <ctml:longitude>-2.51790000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GGY-160556" kind="city">
+    <ctml:name>Saint Sampson</ctml:name>
+    <ctml:country>GGY</ctml:country>
+    <ctml:admin1>St Sampson</ctml:admin1>
+    <ctml:parentRef>place:admin1:GG-09</ctml:parentRef>
+    <ctml:latitude>49.48389000</ctml:latitude>
+    <ctml:longitude>-2.52333000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

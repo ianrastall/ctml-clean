@@ -1,0 +1,2172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:DZA-31234" kind="city">
+    <ctml:name>Aoulef</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Adrar</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q602548</ctml:wikiDataId>
+    <ctml:latitude>26.96667000</ctml:latitude>
+    <ctml:longitude>1.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31406" kind="city">
+    <ctml:name>Reggane</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Adrar</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q582905</ctml:wikiDataId>
+    <ctml:latitude>26.71576000</ctml:latitude>
+    <ctml:longitude>0.17140000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31325" kind="city">
+    <ctml:name>El Abadia</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Aïn Defla</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-44</ctml:parentRef>
+    <ctml:wikiDataId>Q1649058</ctml:wikiDataId>
+    <ctml:latitude>36.26951000</ctml:latitude>
+    <ctml:longitude>1.68609000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31331" kind="city">
+    <ctml:name>El Attaf</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Aïn Defla</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-44</ctml:parentRef>
+    <ctml:wikiDataId>Q1029528</ctml:wikiDataId>
+    <ctml:latitude>36.22393000</ctml:latitude>
+    <ctml:longitude>1.67187000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31361" kind="city">
+    <ctml:name>Khemis Miliana</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Aïn Defla</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-44</ctml:parentRef>
+    <ctml:wikiDataId>Q954285</ctml:wikiDataId>
+    <ctml:latitude>36.26104000</ctml:latitude>
+    <ctml:longitude>2.22015000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31448" kind="city">
+    <ctml:name>Theniet el Had</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Aïn Defla</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-44</ctml:parentRef>
+    <ctml:wikiDataId>Q3054256</ctml:wikiDataId>
+    <ctml:latitude>35.87111000</ctml:latitude>
+    <ctml:longitude>2.02806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31265" kind="city">
+    <ctml:name>Beni Saf</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Aïn Témouchent</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-46</ctml:parentRef>
+    <ctml:wikiDataId>Q80408</ctml:wikiDataId>
+    <ctml:latitude>35.30099000</ctml:latitude>
+    <ctml:longitude>-1.38226000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31329" kind="city">
+    <ctml:name>El Amria</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Aïn Témouchent</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-46</ctml:parentRef>
+    <ctml:wikiDataId>Q1657351</ctml:wikiDataId>
+    <ctml:latitude>35.52439000</ctml:latitude>
+    <ctml:longitude>-1.01577000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31340" kind="city">
+    <ctml:name>El Malah</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Aïn Témouchent</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-46</ctml:parentRef>
+    <ctml:wikiDataId>Q1649298</ctml:wikiDataId>
+    <ctml:latitude>35.39137000</ctml:latitude>
+    <ctml:longitude>-1.09238000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31351" kind="city">
+    <ctml:name>Hammam Bou Hadjar</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Aïn Témouchent</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-46</ctml:parentRef>
+    <ctml:wikiDataId>Q887319</ctml:wikiDataId>
+    <ctml:latitude>35.37889000</ctml:latitude>
+    <ctml:longitude>-0.96778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31249" kind="city">
+    <ctml:name>Aïn Taya</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Algiers</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2876387</ctml:wikiDataId>
+    <ctml:latitude>36.79333000</ctml:latitude>
+    <ctml:longitude>3.28694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31230" kind="city">
+    <ctml:name>Algiers</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Algiers</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q3561</ctml:wikiDataId>
+    <ctml:latitude>36.73225000</ctml:latitude>
+    <ctml:longitude>3.08746000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31254" kind="city">
+    <ctml:name>Bab Ezzouar</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Algiers</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q59579</ctml:wikiDataId>
+    <ctml:latitude>36.72615000</ctml:latitude>
+    <ctml:longitude>3.18291000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31274" kind="city">
+    <ctml:name>Birkhadem</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Algiers</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2904515</ctml:wikiDataId>
+    <ctml:latitude>36.71499000</ctml:latitude>
+    <ctml:longitude>3.05002000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31281" kind="city">
+    <ctml:name>Bordj el Kiffan</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Algiers</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1184993</ctml:wikiDataId>
+    <ctml:latitude>36.74871000</ctml:latitude>
+    <ctml:longitude>3.19249000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31312" kind="city">
+    <ctml:name>Dar el Beïda</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Algiers</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q59419</ctml:wikiDataId>
+    <ctml:latitude>36.71333000</ctml:latitude>
+    <ctml:longitude>3.21250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31413" kind="city">
+    <ctml:name>Rouiba</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Algiers</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2215980</ctml:wikiDataId>
+    <ctml:latitude>36.73829000</ctml:latitude>
+    <ctml:longitude>3.28079000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31267" kind="city">
+    <ctml:name>Berrahal</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Annaba</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q1649131</ctml:wikiDataId>
+    <ctml:latitude>36.83528000</ctml:latitude>
+    <ctml:longitude>7.45333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31323" kind="city">
+    <ctml:name>Drean</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Annaba</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q1924629</ctml:wikiDataId>
+    <ctml:latitude>36.68482000</ctml:latitude>
+    <ctml:longitude>7.75111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31334" kind="city">
+    <ctml:name>El Hadjar</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Annaba</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q3043115</ctml:wikiDataId>
+    <ctml:latitude>36.80377000</ctml:latitude>
+    <ctml:longitude>7.73684000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31251" kind="city">
+    <ctml:name>Aïn Touta</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Batna</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2876412</ctml:wikiDataId>
+    <ctml:latitude>35.37675000</ctml:latitude>
+    <ctml:longitude>5.90001000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31237" kind="city">
+    <ctml:name>Arris</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Batna</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1388056</ctml:wikiDataId>
+    <ctml:latitude>35.25881000</ctml:latitude>
+    <ctml:longitude>6.34706000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31257" kind="city">
+    <ctml:name>Barika</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Batna</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q648253</ctml:wikiDataId>
+    <ctml:latitude>35.38901000</ctml:latitude>
+    <ctml:longitude>5.36584000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31292" kind="city">
+    <ctml:name>Boumagueur</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Batna</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1648911</ctml:wikiDataId>
+    <ctml:latitude>35.50520000</ctml:latitude>
+    <ctml:longitude>5.55250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31382" kind="city">
+    <ctml:name>Merouana</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Batna</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3174992</ctml:wikiDataId>
+    <ctml:latitude>35.63106000</ctml:latitude>
+    <ctml:longitude>5.91186000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31415" kind="city">
+    <ctml:name>Râs el Aïoun</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Batna</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q982735</ctml:wikiDataId>
+    <ctml:latitude>35.67384000</ctml:latitude>
+    <ctml:longitude>5.64530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31444" kind="city">
+    <ctml:name>Tazoult-Lambese</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Batna</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1309744</ctml:wikiDataId>
+    <ctml:latitude>35.48171000</ctml:latitude>
+    <ctml:longitude>6.26074000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31229" kind="city">
+    <ctml:name>Akbou</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Béjaïa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2828968</ctml:wikiDataId>
+    <ctml:latitude>36.45750000</ctml:latitude>
+    <ctml:longitude>4.53494000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31231" kind="city">
+    <ctml:name>Amizour</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Béjaïa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2214578</ctml:wikiDataId>
+    <ctml:latitude>36.64022000</ctml:latitude>
+    <ctml:longitude>4.90131000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31256" kind="city">
+    <ctml:name>Barbacha</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Béjaïa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2214633</ctml:wikiDataId>
+    <ctml:latitude>36.56667000</ctml:latitude>
+    <ctml:longitude>4.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31467" kind="city">
+    <ctml:name>el hed</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Béjaïa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3575264</ctml:wikiDataId>
+    <ctml:latitude>36.65000000</ctml:latitude>
+    <ctml:longitude>4.77361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31339" kind="city">
+    <ctml:name>El Kseur</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Béjaïa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1649095</ctml:wikiDataId>
+    <ctml:latitude>36.67942000</ctml:latitude>
+    <ctml:longitude>4.85550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31344" kind="city">
+    <ctml:name>Feraoun</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Béjaïa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2215098</ctml:wikiDataId>
+    <ctml:latitude>36.56041000</ctml:latitude>
+    <ctml:longitude>4.85454000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31421" kind="city">
+    <ctml:name>Seddouk</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Béjaïa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2223541</ctml:wikiDataId>
+    <ctml:latitude>36.54722000</ctml:latitude>
+    <ctml:longitude>4.68611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31405" kind="city">
+    <ctml:name>Oumache</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Biskra</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3358295</ctml:wikiDataId>
+    <ctml:latitude>34.69292000</ctml:latitude>
+    <ctml:longitude>5.68092000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31427" kind="city">
+    <ctml:name>Sidi Khaled</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Biskra</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2215511</ctml:wikiDataId>
+    <ctml:latitude>34.38700000</ctml:latitude>
+    <ctml:longitude>4.98785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31430" kind="city">
+    <ctml:name>Sidi Okba</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Biskra</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2215485</ctml:wikiDataId>
+    <ctml:latitude>34.74512000</ctml:latitude>
+    <ctml:longitude>5.89833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31461" kind="city">
+    <ctml:name>Tolga</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Biskra</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2280394</ctml:wikiDataId>
+    <ctml:latitude>34.72224000</ctml:latitude>
+    <ctml:longitude>5.37845000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31466" kind="city">
+    <ctml:name>Zeribet el Oued</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Biskra</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3575264</ctml:wikiDataId>
+    <ctml:latitude>34.68284000</ctml:latitude>
+    <ctml:longitude>6.51109000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31263" kind="city">
+    <ctml:name>Beni Mered</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Blida</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2895897</ctml:wikiDataId>
+    <ctml:latitude>36.52389000</ctml:latitude>
+    <ctml:longitude>2.86131000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31296" kind="city">
+    <ctml:name>Boû Arfa</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Blida</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q23820810</ctml:wikiDataId>
+    <ctml:latitude>36.46298000</ctml:latitude>
+    <ctml:longitude>2.81464000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31287" kind="city">
+    <ctml:name>Boufarik</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Blida</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2344308</ctml:wikiDataId>
+    <ctml:latitude>36.57413000</ctml:latitude>
+    <ctml:longitude>2.91214000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31289" kind="city">
+    <ctml:name>Bougara</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Blida</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2573679</ctml:wikiDataId>
+    <ctml:latitude>36.54178000</ctml:latitude>
+    <ctml:longitude>3.08100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31290" kind="city">
+    <ctml:name>Bouinan</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Blida</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2921643</ctml:wikiDataId>
+    <ctml:latitude>36.53167000</ctml:latitude>
+    <ctml:longitude>2.99194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31301" kind="city">
+    <ctml:name>Chebli</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Blida</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1649700</ctml:wikiDataId>
+    <ctml:latitude>36.57722000</ctml:latitude>
+    <ctml:longitude>3.00917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31307" kind="city">
+    <ctml:name>Chiffa</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Blida</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2963503</ctml:wikiDataId>
+    <ctml:latitude>36.46293000</ctml:latitude>
+    <ctml:longitude>2.73873000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31369" kind="city">
+    <ctml:name>Larbaâ</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Blida</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q6488718</ctml:wikiDataId>
+    <ctml:latitude>36.56471000</ctml:latitude>
+    <ctml:longitude>3.15434000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31377" kind="city">
+    <ctml:name>Meftah</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Blida</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2215400</ctml:wikiDataId>
+    <ctml:latitude>36.62040000</ctml:latitude>
+    <ctml:longitude>3.22248000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31428" kind="city">
+    <ctml:name>Sidi Moussa</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Blida</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2215533</ctml:wikiDataId>
+    <ctml:latitude>36.60637000</ctml:latitude>
+    <ctml:longitude>3.08783000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31438" kind="city">
+    <ctml:name>Souma</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Blida</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q23788953</ctml:wikiDataId>
+    <ctml:latitude>36.51833000</ctml:latitude>
+    <ctml:longitude>2.90528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31279" kind="city">
+    <ctml:name>Bordj Ghdir</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Bordj Bou Arréridj</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-34</ctml:parentRef>
+    <ctml:wikiDataId>Q23820716</ctml:wikiDataId>
+    <ctml:latitude>35.90111000</ctml:latitude>
+    <ctml:longitude>4.89806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31280" kind="city">
+    <ctml:name>Bordj Zemoura</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Bordj Bou Arréridj</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-34</ctml:parentRef>
+    <ctml:wikiDataId>Q1648662</ctml:wikiDataId>
+    <ctml:latitude>36.27462000</ctml:latitude>
+    <ctml:longitude>4.85668000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31327" kind="city">
+    <ctml:name>El Achir</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Bordj Bou Arréridj</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-34</ctml:parentRef>
+    <ctml:wikiDataId>Q3049676</ctml:wikiDataId>
+    <ctml:latitude>36.06386000</ctml:latitude>
+    <ctml:longitude>4.62744000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31373" kind="city">
+    <ctml:name>Mansourah</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Bordj Bou Arréridj</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-34</ctml:parentRef>
+    <ctml:wikiDataId>Q3286577</ctml:wikiDataId>
+    <ctml:latitude>36.08725000</ctml:latitude>
+    <ctml:longitude>4.45192000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31381" kind="city">
+    <ctml:name>Melouza</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Bordj Bou Arréridj</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-34</ctml:parentRef>
+    <ctml:wikiDataId>Q23802689</ctml:wikiDataId>
+    <ctml:latitude>35.97999000</ctml:latitude>
+    <ctml:longitude>4.18665000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31416" kind="city">
+    <ctml:name>Râs el Oued</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Bordj Bou Arréridj</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-34</ctml:parentRef>
+    <ctml:wikiDataId>Q23795725</ctml:wikiDataId>
+    <ctml:latitude>35.94410000</ctml:latitude>
+    <ctml:longitude>5.03107000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31241" kind="city">
+    <ctml:name>Aïn Bessem</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Bouïra</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2876271</ctml:wikiDataId>
+    <ctml:latitude>36.29333000</ctml:latitude>
+    <ctml:longitude>3.67319000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31309" kind="city">
+    <ctml:name>Chorfa</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Bouïra</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-10</ctml:parentRef>
+    <ctml:wikiDataId>Q23816562</ctml:wikiDataId>
+    <ctml:latitude>36.36505000</ctml:latitude>
+    <ctml:longitude>4.32636000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31322" kind="city">
+    <ctml:name>Draa el Mizan</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Bouïra</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-10</ctml:parentRef>
+    <ctml:wikiDataId>Q4119323</ctml:wikiDataId>
+    <ctml:latitude>36.53628000</ctml:latitude>
+    <ctml:longitude>3.83340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31368" kind="city">
+    <ctml:name>Lakhdaria</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Bouïra</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2522066</ctml:wikiDataId>
+    <ctml:latitude>36.56463000</ctml:latitude>
+    <ctml:longitude>3.59330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31439" kind="city">
+    <ctml:name>Sour el Ghozlane</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Bouïra</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-10</ctml:parentRef>
+    <ctml:wikiDataId>Q312000</ctml:wikiDataId>
+    <ctml:latitude>36.14766000</ctml:latitude>
+    <ctml:longitude>3.69123000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31235" kind="city">
+    <ctml:name>Arbatache</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Boumerdès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-35</ctml:parentRef>
+    <ctml:wikiDataId>Q23824843</ctml:wikiDataId>
+    <ctml:latitude>36.63773000</ctml:latitude>
+    <ctml:longitude>3.37127000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31261" kind="city">
+    <ctml:name>Beni Amrane</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Boumerdès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-35</ctml:parentRef>
+    <ctml:wikiDataId>Q2223571</ctml:wikiDataId>
+    <ctml:latitude>36.66774000</ctml:latitude>
+    <ctml:longitude>3.59115000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31286" kind="city">
+    <ctml:name>Boudouaou</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Boumerdès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-35</ctml:parentRef>
+    <ctml:wikiDataId>Q311984</ctml:wikiDataId>
+    <ctml:latitude>36.72735000</ctml:latitude>
+    <ctml:longitude>3.40995000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31299" kind="city">
+    <ctml:name>Chabet el Ameur</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Boumerdès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-35</ctml:parentRef>
+    <ctml:wikiDataId>Q37926868</ctml:wikiDataId>
+    <ctml:latitude>36.63709000</ctml:latitude>
+    <ctml:longitude>3.69474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31314" kind="city">
+    <ctml:name>Dellys</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Boumerdès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-35</ctml:parentRef>
+    <ctml:wikiDataId>Q3021755</ctml:wikiDataId>
+    <ctml:latitude>36.91716000</ctml:latitude>
+    <ctml:longitude>3.91311000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31362" kind="city">
+    <ctml:name>Khemis el Khechna</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Boumerdès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-35</ctml:parentRef>
+    <ctml:wikiDataId>Q3142813</ctml:wikiDataId>
+    <ctml:latitude>36.64997000</ctml:latitude>
+    <ctml:longitude>3.33080000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31372" kind="city">
+    <ctml:name>Makouda</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Boumerdès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-35</ctml:parentRef>
+    <ctml:wikiDataId>Q3280947</ctml:wikiDataId>
+    <ctml:latitude>36.78567000</ctml:latitude>
+    <ctml:longitude>4.06273000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31393" kind="city">
+    <ctml:name>Naciria</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Boumerdès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-35</ctml:parentRef>
+    <ctml:wikiDataId>Q6957278</ctml:wikiDataId>
+    <ctml:latitude>36.74625000</ctml:latitude>
+    <ctml:longitude>3.83163000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31403" kind="city">
+    <ctml:name>Ouled Moussa</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Boumerdès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-35</ctml:parentRef>
+    <ctml:wikiDataId>Q3055250</ctml:wikiDataId>
+    <ctml:latitude>36.68394000</ctml:latitude>
+    <ctml:longitude>3.36661000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31407" kind="city">
+    <ctml:name>Reghaïa</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Boumerdès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-35</ctml:parentRef>
+    <ctml:wikiDataId>Q1649935</ctml:wikiDataId>
+    <ctml:latitude>36.73587000</ctml:latitude>
+    <ctml:longitude>3.34018000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31441" kind="city">
+    <ctml:name>Tadmaït</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Boumerdès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-35</ctml:parentRef>
+    <ctml:wikiDataId>Q3513734</ctml:wikiDataId>
+    <ctml:latitude>36.74413000</ctml:latitude>
+    <ctml:longitude>3.90045000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31447" kind="city">
+    <ctml:name>Thenia</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Boumerdès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-35</ctml:parentRef>
+    <ctml:wikiDataId>Q2225013</ctml:wikiDataId>
+    <ctml:latitude>36.72544000</ctml:latitude>
+    <ctml:longitude>3.55665000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31456" kind="city">
+    <ctml:name>Tizi Gheniff</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Boumerdès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-35</ctml:parentRef>
+    <ctml:wikiDataId>Q3529984</ctml:wikiDataId>
+    <ctml:latitude>36.58839000</ctml:latitude>
+    <ctml:longitude>3.77445000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31226" kind="city">
+    <ctml:name>Abou el Hassan</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Chlef</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2821729</ctml:wikiDataId>
+    <ctml:latitude>36.41657000</ctml:latitude>
+    <ctml:longitude>1.19616000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31291" kind="city">
+    <ctml:name>Boukadir</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Chlef</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1648911</ctml:wikiDataId>
+    <ctml:latitude>36.06629000</ctml:latitude>
+    <ctml:longitude>1.12602000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31324" kind="city">
+    <ctml:name>Ech Chettia</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Chlef</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2962891</ctml:wikiDataId>
+    <ctml:latitude>36.19591000</ctml:latitude>
+    <ctml:longitude>1.25537000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31397" kind="city">
+    <ctml:name>Oued Fodda</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Chlef</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3358021</ctml:wikiDataId>
+    <ctml:latitude>36.18503000</ctml:latitude>
+    <ctml:longitude>1.53299000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31399" kind="city">
+    <ctml:name>Oued Sly</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Chlef</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1649555</ctml:wikiDataId>
+    <ctml:latitude>36.10124000</ctml:latitude>
+    <ctml:longitude>1.19949000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31424" kind="city">
+    <ctml:name>Sidi Akkacha</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Chlef</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1650037</ctml:wikiDataId>
+    <ctml:latitude>36.46472000</ctml:latitude>
+    <ctml:longitude>1.30258000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31469" kind="city">
+    <ctml:name>’Aïn Abid</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Constantine</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1649776</ctml:wikiDataId>
+    <ctml:latitude>36.23194000</ctml:latitude>
+    <ctml:longitude>6.94333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31248" kind="city">
+    <ctml:name>Aïn Smara</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Constantine</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q2876376</ctml:wikiDataId>
+    <ctml:latitude>36.26740000</ctml:latitude>
+    <ctml:longitude>6.50135000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31315" kind="city">
+    <ctml:name>Didouche Mourad</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Constantine</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q3027257</ctml:wikiDataId>
+    <ctml:latitude>36.45250000</ctml:latitude>
+    <ctml:longitude>6.63639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31338" kind="city">
+    <ctml:name>El Khroub</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Constantine</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q391129</ctml:wikiDataId>
+    <ctml:latitude>36.26333000</ctml:latitude>
+    <ctml:longitude>6.69361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31350" kind="city">
+    <ctml:name>Hamma Bouziane</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Constantine</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q3126488</ctml:wikiDataId>
+    <ctml:latitude>36.41205000</ctml:latitude>
+    <ctml:longitude>6.59603000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31474" kind="city">
+    <ctml:name>’Aïn el Bell</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Djelfa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q599887</ctml:wikiDataId>
+    <ctml:latitude>34.34381000</ctml:latitude>
+    <ctml:longitude>3.22475000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31246" kind="city">
+    <ctml:name>Aïn Oussera</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Djelfa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q651497</ctml:wikiDataId>
+    <ctml:latitude>35.45139000</ctml:latitude>
+    <ctml:longitude>2.90583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31273" kind="city">
+    <ctml:name>Birine</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Djelfa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1649303</ctml:wikiDataId>
+    <ctml:latitude>35.63500000</ctml:latitude>
+    <ctml:longitude>3.22500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31300" kind="city">
+    <ctml:name>Charef</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Djelfa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1649151</ctml:wikiDataId>
+    <ctml:latitude>34.62098000</ctml:latitude>
+    <ctml:longitude>2.79503000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31311" kind="city">
+    <ctml:name>Dar Chioukh</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Djelfa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q3015935</ctml:wikiDataId>
+    <ctml:latitude>34.89638000</ctml:latitude>
+    <ctml:longitude>3.48543000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31336" kind="city">
+    <ctml:name>El Idrissia</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Djelfa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1884792</ctml:wikiDataId>
+    <ctml:latitude>34.44542000</ctml:latitude>
+    <ctml:longitude>2.52749000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31385" kind="city">
+    <ctml:name>Messaad</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Djelfa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q609487</ctml:wikiDataId>
+    <ctml:latitude>34.15429000</ctml:latitude>
+    <ctml:longitude>3.50309000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31297" kind="city">
+    <ctml:name>Brezina</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>El Bayadh</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-32</ctml:parentRef>
+    <ctml:wikiDataId>Q2924791</ctml:wikiDataId>
+    <ctml:latitude>33.09892000</ctml:latitude>
+    <ctml:longitude>1.26082000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31326" kind="city">
+    <ctml:name>El Abiodh Sidi Cheikh</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>El Bayadh</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-32</ctml:parentRef>
+    <ctml:wikiDataId>Q3049673</ctml:wikiDataId>
+    <ctml:latitude>32.89300000</ctml:latitude>
+    <ctml:longitude>0.54839000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31313" kind="city">
+    <ctml:name>Debila</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>El Oued</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-39</ctml:parentRef>
+    <ctml:wikiDataId>Q3020835</ctml:wikiDataId>
+    <ctml:latitude>33.51667000</ctml:latitude>
+    <ctml:longitude>6.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31408" kind="city">
+    <ctml:name>Reguiba</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>El Oued</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-39</ctml:parentRef>
+    <ctml:wikiDataId>Q3325064</ctml:wikiDataId>
+    <ctml:latitude>33.56391000</ctml:latitude>
+    <ctml:longitude>6.70326000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31411" kind="city">
+    <ctml:name>Robbah</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>El Oued</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-39</ctml:parentRef>
+    <ctml:wikiDataId>Q2364827</ctml:wikiDataId>
+    <ctml:latitude>33.27967000</ctml:latitude>
+    <ctml:longitude>6.90984000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31260" kind="city">
+    <ctml:name>Ben Mehidi</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>El Tarf</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-36</ctml:parentRef>
+    <ctml:wikiDataId>Q253342</ctml:wikiDataId>
+    <ctml:latitude>36.76967000</ctml:latitude>
+    <ctml:longitude>7.90641000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31270" kind="city">
+    <ctml:name>Besbes</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>El Tarf</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-36</ctml:parentRef>
+    <ctml:wikiDataId>Q1649634</ctml:wikiDataId>
+    <ctml:latitude>36.70222000</ctml:latitude>
+    <ctml:longitude>7.84722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31337" kind="city">
+    <ctml:name>El Kala</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>El Tarf</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-36</ctml:parentRef>
+    <ctml:wikiDataId>Q3050005</ctml:wikiDataId>
+    <ctml:latitude>36.89556000</ctml:latitude>
+    <ctml:longitude>8.44333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31268" kind="city">
+    <ctml:name>Berriane</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Ghardaïa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-47</ctml:parentRef>
+    <ctml:wikiDataId>Q1649062</ctml:wikiDataId>
+    <ctml:latitude>32.82648000</ctml:latitude>
+    <ctml:longitude>3.76689000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31386" kind="city">
+    <ctml:name>Metlili Chaamba</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Ghardaïa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-47</ctml:parentRef>
+    <ctml:wikiDataId>Q3307398</ctml:wikiDataId>
+    <ctml:latitude>32.26667000</ctml:latitude>
+    <ctml:longitude>3.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31293" kind="city">
+    <ctml:name>Boumahra Ahmed</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Guelma</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-24</ctml:parentRef>
+    <ctml:wikiDataId>Q1649113</ctml:wikiDataId>
+    <ctml:latitude>36.45833000</ctml:latitude>
+    <ctml:longitude>7.51389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31355" kind="city">
+    <ctml:name>Héliopolis</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Guelma</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-24</ctml:parentRef>
+    <ctml:wikiDataId>Q3144664</ctml:wikiDataId>
+    <ctml:latitude>36.50361000</ctml:latitude>
+    <ctml:longitude>7.44278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31228" kind="city">
+    <ctml:name>Aflou</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Laghouat</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q500560</ctml:wikiDataId>
+    <ctml:latitude>34.11279000</ctml:latitude>
+    <ctml:longitude>2.10228000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31468" kind="city">
+    <ctml:name>‘Aïn el Hadjel</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>M'Sila</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-28</ctml:parentRef>
+    <ctml:wikiDataId>Q1649776</ctml:wikiDataId>
+    <ctml:latitude>35.67003000</ctml:latitude>
+    <ctml:longitude>3.88153000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31477" kind="city">
+    <ctml:name>’Aïn el Melh</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>M'Sila</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-28</ctml:parentRef>
+    <ctml:wikiDataId>Q599887</ctml:wikiDataId>
+    <ctml:latitude>34.84146000</ctml:latitude>
+    <ctml:longitude>4.16383000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31426" kind="city">
+    <ctml:name>Sidi Aïssa</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>M'Sila</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-28</ctml:parentRef>
+    <ctml:wikiDataId>Q2214999</ctml:wikiDataId>
+    <ctml:latitude>35.88548000</ctml:latitude>
+    <ctml:longitude>3.77236000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31282" kind="city">
+    <ctml:name>Bou Hanifia el Hamamat</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Mascara</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-29</ctml:parentRef>
+    <ctml:wikiDataId>Q2911890</ctml:wikiDataId>
+    <ctml:latitude>35.31473000</ctml:latitude>
+    <ctml:longitude>-0.05037000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31400" kind="city">
+    <ctml:name>Oued el Abtal</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Mascara</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-29</ctml:parentRef>
+    <ctml:wikiDataId>Q3358012</ctml:wikiDataId>
+    <ctml:latitude>35.45595000</ctml:latitude>
+    <ctml:longitude>0.68778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31433" kind="city">
+    <ctml:name>Sig</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Mascara</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-29</ctml:parentRef>
+    <ctml:wikiDataId>Q2744832</ctml:wikiDataId>
+    <ctml:latitude>35.52832000</ctml:latitude>
+    <ctml:longitude>-0.19369000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31471" kind="city">
+    <ctml:name>’Aïn Boucif</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Médéa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q2876264</ctml:wikiDataId>
+    <ctml:latitude>35.89123000</ctml:latitude>
+    <ctml:longitude>3.15850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31269" kind="city">
+    <ctml:name>Berrouaghia</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Médéa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q2214965</ctml:wikiDataId>
+    <ctml:latitude>36.13516000</ctml:latitude>
+    <ctml:longitude>2.91085000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31366" kind="city">
+    <ctml:name>Ksar el Boukhari</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Médéa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q3200144</ctml:wikiDataId>
+    <ctml:latitude>35.88889000</ctml:latitude>
+    <ctml:longitude>2.74905000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31302" kind="city">
+    <ctml:name>Chelghoum el Aïd</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Mila</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-43</ctml:parentRef>
+    <ctml:wikiDataId>Q23818040</ctml:wikiDataId>
+    <ctml:latitude>36.16286000</ctml:latitude>
+    <ctml:longitude>6.16651000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31412" kind="city">
+    <ctml:name>Rouached</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Mila</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-43</ctml:parentRef>
+    <ctml:wikiDataId>Q23791421</ctml:wikiDataId>
+    <ctml:latitude>36.45774000</ctml:latitude>
+    <ctml:longitude>6.04267000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31429" kind="city">
+    <ctml:name>Sidi Mérouane</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Mila</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-43</ctml:parentRef>
+    <ctml:wikiDataId>Q2215533</ctml:wikiDataId>
+    <ctml:latitude>36.52056000</ctml:latitude>
+    <ctml:longitude>6.26111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31446" kind="city">
+    <ctml:name>Telerghma</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Mila</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-43</ctml:parentRef>
+    <ctml:wikiDataId>Q3517295</ctml:wikiDataId>
+    <ctml:latitude>36.11653000</ctml:latitude>
+    <ctml:longitude>6.35434000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31247" kind="city">
+    <ctml:name>Aïn Sefra</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Naama</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-45</ctml:parentRef>
+    <ctml:wikiDataId>Q2745712</ctml:wikiDataId>
+    <ctml:latitude>32.75000000</ctml:latitude>
+    <ctml:longitude>-0.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31478" kind="city">
+    <ctml:name>’Aïn el Turk</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Oran</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-31</ctml:parentRef>
+    <ctml:wikiDataId>Q740498</ctml:wikiDataId>
+    <ctml:latitude>35.74381000</ctml:latitude>
+    <ctml:longitude>-0.76930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31252" kind="city">
+    <ctml:name>Aïn el Bya</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Oran</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-31</ctml:parentRef>
+    <ctml:wikiDataId>Q23826440</ctml:wikiDataId>
+    <ctml:latitude>35.80389000</ctml:latitude>
+    <ctml:longitude>-0.30178000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31272" kind="city">
+    <ctml:name>Bir el Djir</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Oran</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-31</ctml:parentRef>
+    <ctml:wikiDataId>Q401759</ctml:wikiDataId>
+    <ctml:latitude>35.72000000</ctml:latitude>
+    <ctml:longitude>-0.54500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31284" kind="city">
+    <ctml:name>Bou Tlelis</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Oran</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-31</ctml:parentRef>
+    <ctml:wikiDataId>Q23819224</ctml:wikiDataId>
+    <ctml:latitude>35.57272000</ctml:latitude>
+    <ctml:longitude>-0.89960000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31343" kind="city">
+    <ctml:name>Es Senia</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Oran</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-31</ctml:parentRef>
+    <ctml:wikiDataId>Q649874</ctml:wikiDataId>
+    <ctml:latitude>35.64779000</ctml:latitude>
+    <ctml:longitude>-0.62397000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31383" kind="city">
+    <ctml:name>Mers el Kebir</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Oran</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-31</ctml:parentRef>
+    <ctml:wikiDataId>Q31085</ctml:wikiDataId>
+    <ctml:latitude>35.72790000</ctml:latitude>
+    <ctml:longitude>-0.70810000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31432" kind="city">
+    <ctml:name>Sidi ech Chahmi</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Oran</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-31</ctml:parentRef>
+    <ctml:wikiDataId>Q2621177</ctml:wikiDataId>
+    <ctml:latitude>35.65903000</ctml:latitude>
+    <ctml:longitude>-0.52168000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31316" kind="city">
+    <ctml:name>Djamaa</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Ouargla</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q3032751</ctml:wikiDataId>
+    <ctml:latitude>33.53388000</ctml:latitude>
+    <ctml:longitude>5.99306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31335" kind="city">
+    <ctml:name>El Hadjira</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Ouargla</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q3049930</ctml:wikiDataId>
+    <ctml:latitude>32.61336000</ctml:latitude>
+    <ctml:longitude>5.51259000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31353" kind="city">
+    <ctml:name>Hassi Messaoud</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Ouargla</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q1000139</ctml:wikiDataId>
+    <ctml:latitude>31.68041000</ctml:latitude>
+    <ctml:longitude>6.07286000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31378" kind="city">
+    <ctml:name>Megarine</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Ouargla</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q2384877</ctml:wikiDataId>
+    <ctml:latitude>33.19195000</ctml:latitude>
+    <ctml:longitude>6.08695000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31414" kind="city">
+    <ctml:name>Rouissat</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Ouargla</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q1649802</ctml:wikiDataId>
+    <ctml:latitude>31.92427000</ctml:latitude>
+    <ctml:longitude>5.35018000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31425" kind="city">
+    <ctml:name>Sidi Amrane</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Ouargla</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q3325140</ctml:wikiDataId>
+    <ctml:latitude>33.49885000</ctml:latitude>
+    <ctml:longitude>6.00803000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31445" kind="city">
+    <ctml:name>Tebesbest</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Ouargla</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q601174</ctml:wikiDataId>
+    <ctml:latitude>33.11667000</ctml:latitude>
+    <ctml:longitude>6.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31242" kind="city">
+    <ctml:name>Aïn Beïda</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Oum El Bouaghi</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2088349</ctml:wikiDataId>
+    <ctml:latitude>35.79639000</ctml:latitude>
+    <ctml:longitude>7.39278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31244" kind="city">
+    <ctml:name>Aïn Fakroun</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Oum El Bouaghi</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2876323</ctml:wikiDataId>
+    <ctml:latitude>35.97108000</ctml:latitude>
+    <ctml:longitude>6.87374000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31245" kind="city">
+    <ctml:name>Aïn Kercha</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Oum El Bouaghi</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q593739</ctml:wikiDataId>
+    <ctml:latitude>35.92472000</ctml:latitude>
+    <ctml:longitude>6.69528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31330" kind="city">
+    <ctml:name>El Aouinet</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Oum El Bouaghi</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q921801</ctml:wikiDataId>
+    <ctml:latitude>35.86691000</ctml:latitude>
+    <ctml:longitude>7.88673000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31384" kind="city">
+    <ctml:name>Meskiana</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Oum El Bouaghi</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3306857</ctml:wikiDataId>
+    <ctml:latitude>35.63058000</ctml:latitude>
+    <ctml:longitude>7.66606000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31473" kind="city">
+    <ctml:name>’Aïn Merane</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Relizane</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-48</ctml:parentRef>
+    <ctml:wikiDataId>Q2876264</ctml:wikiDataId>
+    <ctml:latitude>36.16277000</ctml:latitude>
+    <ctml:longitude>0.97037000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31232" kind="city">
+    <ctml:name>Ammi Moussa</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Relizane</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-48</ctml:parentRef>
+    <ctml:wikiDataId>Q4747238</ctml:wikiDataId>
+    <ctml:latitude>35.86781000</ctml:latitude>
+    <ctml:longitude>1.11143000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31319" kind="city">
+    <ctml:name>Djidiouia</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Relizane</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-48</ctml:parentRef>
+    <ctml:wikiDataId>Q3032949</ctml:wikiDataId>
+    <ctml:latitude>35.92989000</ctml:latitude>
+    <ctml:longitude>0.82871000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31376" kind="city">
+    <ctml:name>Mazouna</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Relizane</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-48</ctml:parentRef>
+    <ctml:wikiDataId>Q978267</ctml:wikiDataId>
+    <ctml:latitude>36.12232000</ctml:latitude>
+    <ctml:longitude>0.89865000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31398" kind="city">
+    <ctml:name>Oued Rhiou</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Relizane</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-48</ctml:parentRef>
+    <ctml:wikiDataId>Q1571443</ctml:wikiDataId>
+    <ctml:latitude>35.96124000</ctml:latitude>
+    <ctml:longitude>0.91896000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31435" kind="city">
+    <ctml:name>Smala</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Relizane</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-48</ctml:parentRef>
+    <ctml:wikiDataId>Q2292517</ctml:wikiDataId>
+    <ctml:latitude>35.71652000</ctml:latitude>
+    <ctml:longitude>0.75437000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31464" kind="city">
+    <ctml:name>Zemoura</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Relizane</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-48</ctml:parentRef>
+    <ctml:wikiDataId>Q3324824</ctml:wikiDataId>
+    <ctml:latitude>35.72251000</ctml:latitude>
+    <ctml:longitude>0.75509000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31475" kind="city">
+    <ctml:name>’Aïn el Hadjar</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Saïda</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-20</ctml:parentRef>
+    <ctml:wikiDataId>Q599887</ctml:wikiDataId>
+    <ctml:latitude>34.75846000</ctml:latitude>
+    <ctml:longitude>0.14528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31240" kind="city">
+    <ctml:name>Aïn Arnat</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sétif</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q2876253</ctml:wikiDataId>
+    <ctml:latitude>36.18683000</ctml:latitude>
+    <ctml:longitude>5.31347000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31253" kind="city">
+    <ctml:name>Babor - Ville</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sétif</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q23826440</ctml:wikiDataId>
+    <ctml:latitude>36.48994000</ctml:latitude>
+    <ctml:longitude>5.53930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31288" kind="city">
+    <ctml:name>Bougaa</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sétif</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q2921542</ctml:wikiDataId>
+    <ctml:latitude>36.33293000</ctml:latitude>
+    <ctml:longitude>5.08843000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31333" kind="city">
+    <ctml:name>El Eulma</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sétif</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q401747</ctml:wikiDataId>
+    <ctml:latitude>36.15281000</ctml:latitude>
+    <ctml:longitude>5.69016000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31417" kind="city">
+    <ctml:name>Salah Bey</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sétif</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q3469526</ctml:wikiDataId>
+    <ctml:latitude>35.85451000</ctml:latitude>
+    <ctml:longitude>5.29053000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146185" kind="city">
+    <ctml:name>Aïn El Berd</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q4833272</ctml:wikiDataId>
+    <ctml:latitude>35.35000000</ctml:latitude>
+    <ctml:longitude>-0.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146186" kind="city">
+    <ctml:name>Balidat Ameur</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2906568</ctml:wikiDataId>
+    <ctml:latitude>32.95138900</ctml:latitude>
+    <ctml:longitude>5.98055600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146187" kind="city">
+    <ctml:name>Belarbi</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1648915</ctml:wikiDataId>
+    <ctml:latitude>35.15149480</ctml:latitude>
+    <ctml:longitude>-0.45679090</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146188" kind="city">
+    <ctml:name>Ben Badis Sid Bel Abbés</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2895336</ctml:wikiDataId>
+    <ctml:latitude>34.95277778</ctml:latitude>
+    <ctml:longitude>-0.91444444</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146189" kind="city">
+    <ctml:name>Djamaa</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3032751</ctml:wikiDataId>
+    <ctml:latitude>33.53137870</ctml:latitude>
+    <ctml:longitude>5.99098210</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146191" kind="city">
+    <ctml:name>El Hadjira</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3049930</ctml:wikiDataId>
+    <ctml:latitude>32.61666667</ctml:latitude>
+    <ctml:longitude>5.51666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146192" kind="city">
+    <ctml:name>Haoud El Hamra</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q12470040</ctml:wikiDataId>
+    <ctml:latitude>31.88944444</ctml:latitude>
+    <ctml:longitude>5.97305556</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146193" kind="city">
+    <ctml:name>Hassi Messaoud</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1000139</ctml:wikiDataId>
+    <ctml:latitude>31.70000000</ctml:latitude>
+    <ctml:longitude>6.06666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146194" kind="city">
+    <ctml:name>Lamtar</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3216882</ctml:wikiDataId>
+    <ctml:latitude>35.07062700</ctml:latitude>
+    <ctml:longitude>-0.79814000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146195" kind="city">
+    <ctml:name>Marhoum</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3290834</ctml:wikiDataId>
+    <ctml:latitude>34.44600420</ctml:latitude>
+    <ctml:longitude>-0.19502440</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146196" kind="city">
+    <ctml:name>Megarine</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2384877</ctml:wikiDataId>
+    <ctml:latitude>33.19262320</ctml:latitude>
+    <ctml:longitude>6.09346390</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146197" kind="city">
+    <ctml:name>Merine</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1649208</ctml:wikiDataId>
+    <ctml:latitude>34.78074720</ctml:latitude>
+    <ctml:longitude>-0.45104030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146198" kind="city">
+    <ctml:name>Mezaourou</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1649368</ctml:wikiDataId>
+    <ctml:latitude>34.81732670</ctml:latitude>
+    <ctml:longitude>-0.62331890</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146199" kind="city">
+    <ctml:name>Moggar</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q12646398</ctml:wikiDataId>
+    <ctml:latitude>33.26722222</ctml:latitude>
+    <ctml:longitude>6.06777778</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146200" kind="city">
+    <ctml:name>Moulay Slissen</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1649394</ctml:wikiDataId>
+    <ctml:latitude>34.81666667</ctml:latitude>
+    <ctml:longitude>-0.76666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146201" kind="city">
+    <ctml:name>N'Goussa</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3334101</ctml:wikiDataId>
+    <ctml:latitude>32.14087970</ctml:latitude>
+    <ctml:longitude>5.30828480</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146203" kind="city">
+    <ctml:name>Rouissat</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1649802</ctml:wikiDataId>
+    <ctml:latitude>31.93657600</ctml:latitude>
+    <ctml:longitude>5.33540730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146204" kind="city">
+    <ctml:name>Sfissef</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3481104</ctml:wikiDataId>
+    <ctml:latitude>35.23440280</ctml:latitude>
+    <ctml:longitude>-0.24341580</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146205" kind="city">
+    <ctml:name>Sidi Ali Boussidi</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1650046</ctml:wikiDataId>
+    <ctml:latitude>35.10000000</ctml:latitude>
+    <ctml:longitude>-0.83333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146206" kind="city">
+    <ctml:name>Sidi Amrane</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3325140</ctml:wikiDataId>
+    <ctml:latitude>33.50000000</ctml:latitude>
+    <ctml:longitude>6.01666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146208" kind="city">
+    <ctml:name>Sidi Brahim</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1650068</ctml:wikiDataId>
+    <ctml:latitude>35.26055600</ctml:latitude>
+    <ctml:longitude>-0.56750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146209" kind="city">
+    <ctml:name>Sidi Hamadouche</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1650247</ctml:wikiDataId>
+    <ctml:latitude>35.29916667</ctml:latitude>
+    <ctml:longitude>-0.54888889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146210" kind="city">
+    <ctml:name>Sidi Slimane</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3483291</ctml:wikiDataId>
+    <ctml:latitude>33.28861111</ctml:latitude>
+    <ctml:longitude>6.09472222</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146211" kind="city">
+    <ctml:name>Sidi Yacoub</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1649961</ctml:wikiDataId>
+    <ctml:latitude>35.13333333</ctml:latitude>
+    <ctml:longitude>-0.78333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146212" kind="city">
+    <ctml:name>Sidi Yahia</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q11811858</ctml:wikiDataId>
+    <ctml:latitude>33.52166667</ctml:latitude>
+    <ctml:longitude>5.94555556</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146213" kind="city">
+    <ctml:name>Tabia Sid Bel Abbés</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3512757</ctml:wikiDataId>
+    <ctml:latitude>35.01783660</ctml:latitude>
+    <ctml:longitude>-0.73385240</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146214" kind="city">
+    <ctml:name>Taibet</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3513962</ctml:wikiDataId>
+    <ctml:latitude>33.08391890</ctml:latitude>
+    <ctml:longitude>6.39996530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146215" kind="city">
+    <ctml:name>Tamellaht</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q12641156</ctml:wikiDataId>
+    <ctml:latitude>33.01190000</ctml:latitude>
+    <ctml:longitude>6.00972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146216" kind="city">
+    <ctml:name>Tamerna Djedida</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q11773942</ctml:wikiDataId>
+    <ctml:latitude>33.44640000</ctml:latitude>
+    <ctml:longitude>5.95639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146217" kind="city">
+    <ctml:name>Tebesbest</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q601174</ctml:wikiDataId>
+    <ctml:latitude>33.12001290</ctml:latitude>
+    <ctml:longitude>6.08007430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146218" kind="city">
+    <ctml:name>Teghalimet</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3517138</ctml:wikiDataId>
+    <ctml:latitude>34.88283300</ctml:latitude>
+    <ctml:longitude>-0.56000230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146219" kind="city">
+    <ctml:name>Telagh</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2215476</ctml:wikiDataId>
+    <ctml:latitude>34.78490640</ctml:latitude>
+    <ctml:longitude>-0.57317730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146220" kind="city">
+    <ctml:name>Tenezara</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3518076</ctml:wikiDataId>
+    <ctml:latitude>34.96341170</ctml:latitude>
+    <ctml:longitude>-0.61446190</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146221" kind="city">
+    <ctml:name>Tenira</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1650283</ctml:wikiDataId>
+    <ctml:latitude>35.01966420</ctml:latitude>
+    <ctml:longitude>-0.53206440</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146222" kind="city">
+    <ctml:name>Tessala</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2381247</ctml:wikiDataId>
+    <ctml:latitude>35.24300000</ctml:latitude>
+    <ctml:longitude>-0.77316300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-146224" kind="city">
+    <ctml:name>Zerouala</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Sidi Bel Abbès</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1650844</ctml:wikiDataId>
+    <ctml:latitude>35.24232450</ctml:latitude>
+    <ctml:longitude>-0.52219390</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31239" kind="city">
+    <ctml:name>Azzaba</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Skikda</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-21</ctml:parentRef>
+    <ctml:wikiDataId>Q23823384</ctml:wikiDataId>
+    <ctml:latitude>36.73944000</ctml:latitude>
+    <ctml:longitude>7.10528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31360" kind="city">
+    <ctml:name>Karkira</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Skikda</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1649432</ctml:wikiDataId>
+    <ctml:latitude>36.92917000</ctml:latitude>
+    <ctml:longitude>6.58556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31442" kind="city">
+    <ctml:name>Tamalous</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Skikda</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1650231</ctml:wikiDataId>
+    <ctml:latitude>36.83763000</ctml:latitude>
+    <ctml:longitude>6.64018000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31422" kind="city">
+    <ctml:name>Sedrata</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Souk Ahras</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-41</ctml:parentRef>
+    <ctml:wikiDataId>Q1649881</ctml:wikiDataId>
+    <ctml:latitude>36.12868000</ctml:latitude>
+    <ctml:longitude>7.53376000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31356" kind="city">
+    <ctml:name>I-n-Salah</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tamanghasset</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-11</ctml:parentRef>
+    <ctml:wikiDataId>Q32061388</ctml:wikiDataId>
+    <ctml:latitude>27.19351000</ctml:latitude>
+    <ctml:longitude>2.46069000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31271" kind="city">
+    <ctml:name>Bir el Ater</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tébessa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2904370</ctml:wikiDataId>
+    <ctml:latitude>34.74488000</ctml:latitude>
+    <ctml:longitude>8.06024000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31305" kind="city">
+    <ctml:name>Cheria</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tébessa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-12</ctml:parentRef>
+    <ctml:wikiDataId>Q736205</ctml:wikiDataId>
+    <ctml:latitude>35.27306000</ctml:latitude>
+    <ctml:longitude>7.75194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31352" kind="city">
+    <ctml:name>Hammamet</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tébessa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-12</ctml:parentRef>
+    <ctml:wikiDataId>Q3126511</ctml:wikiDataId>
+    <ctml:latitude>35.44862000</ctml:latitude>
+    <ctml:longitude>7.95184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31472" kind="city">
+    <ctml:name>’Aïn Deheb</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tiaret</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2876264</ctml:wikiDataId>
+    <ctml:latitude>34.84218000</ctml:latitude>
+    <ctml:longitude>1.54697000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31317" kind="city">
+    <ctml:name>Djebilet Rosfa</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tiaret</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1649054</ctml:wikiDataId>
+    <ctml:latitude>34.86375000</ctml:latitude>
+    <ctml:longitude>0.83496000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31346" kind="city">
+    <ctml:name>Frenda</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tiaret</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2215495</ctml:wikiDataId>
+    <ctml:latitude>35.06544000</ctml:latitude>
+    <ctml:longitude>1.04945000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31365" kind="city">
+    <ctml:name>Ksar Chellala</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tiaret</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1648944</ctml:wikiDataId>
+    <ctml:latitude>35.21222000</ctml:latitude>
+    <ctml:longitude>2.31889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31379" kind="city">
+    <ctml:name>Mehdia daira de meghila</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tiaret</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q3277676</ctml:wikiDataId>
+    <ctml:latitude>35.43058000</ctml:latitude>
+    <ctml:longitude>1.75714000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31436" kind="city">
+    <ctml:name>Sougueur</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tiaret</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1483423</ctml:wikiDataId>
+    <ctml:latitude>35.18568000</ctml:latitude>
+    <ctml:longitude>1.49612000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31470" kind="city">
+    <ctml:name>’Aïn Benian</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tipasa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-42</ctml:parentRef>
+    <ctml:wikiDataId>Q2876264</ctml:wikiDataId>
+    <ctml:latitude>36.80277000</ctml:latitude>
+    <ctml:longitude>2.92185000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31255" kind="city">
+    <ctml:name>Baraki</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tipasa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-42</ctml:parentRef>
+    <ctml:wikiDataId>Q2736044</ctml:wikiDataId>
+    <ctml:latitude>36.66655000</ctml:latitude>
+    <ctml:longitude>3.09606000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31283" kind="city">
+    <ctml:name>Bou Ismaïl</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tipasa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-42</ctml:parentRef>
+    <ctml:wikiDataId>Q1438489</ctml:wikiDataId>
+    <ctml:latitude>36.64262000</ctml:latitude>
+    <ctml:longitude>2.69007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31304" kind="city">
+    <ctml:name>Cheraga</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tipasa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-42</ctml:parentRef>
+    <ctml:wikiDataId>Q335751</ctml:wikiDataId>
+    <ctml:latitude>36.76775000</ctml:latitude>
+    <ctml:longitude>2.95924000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31320" kind="city">
+    <ctml:name>Douera</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tipasa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-42</ctml:parentRef>
+    <ctml:wikiDataId>Q1649106</ctml:wikiDataId>
+    <ctml:latitude>36.67000000</ctml:latitude>
+    <ctml:longitude>2.94444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31328" kind="city">
+    <ctml:name>El Affroun</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tipasa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-42</ctml:parentRef>
+    <ctml:wikiDataId>Q3049687</ctml:wikiDataId>
+    <ctml:latitude>36.47010000</ctml:latitude>
+    <ctml:longitude>2.62528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31349" kind="city">
+    <ctml:name>Hadjout</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tipasa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-42</ctml:parentRef>
+    <ctml:wikiDataId>Q3125565</ctml:wikiDataId>
+    <ctml:latitude>36.51257000</ctml:latitude>
+    <ctml:longitude>2.41382000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31364" kind="city">
+    <ctml:name>Kolea</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tipasa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-42</ctml:parentRef>
+    <ctml:wikiDataId>Q3198497</ctml:wikiDataId>
+    <ctml:latitude>36.63888000</ctml:latitude>
+    <ctml:longitude>2.76845000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31389" kind="city">
+    <ctml:name>Mouzaïa</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tipasa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-42</ctml:parentRef>
+    <ctml:wikiDataId>Q1649746</ctml:wikiDataId>
+    <ctml:latitude>36.46695000</ctml:latitude>
+    <ctml:longitude>2.68991000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31401" kind="city">
+    <ctml:name>Oued el Alleug</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tipasa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-42</ctml:parentRef>
+    <ctml:wikiDataId>Q941199</ctml:wikiDataId>
+    <ctml:latitude>36.55528000</ctml:latitude>
+    <ctml:longitude>2.79028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31418" kind="city">
+    <ctml:name>Saoula</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tipasa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-42</ctml:parentRef>
+    <ctml:wikiDataId>Q1884982</ctml:wikiDataId>
+    <ctml:latitude>36.70456000</ctml:latitude>
+    <ctml:longitude>3.02462000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31465" kind="city">
+    <ctml:name>Zeralda</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tipasa</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-42</ctml:parentRef>
+    <ctml:wikiDataId>Q2215424</ctml:wikiDataId>
+    <ctml:latitude>36.71169000</ctml:latitude>
+    <ctml:longitude>2.84244000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31370" kind="city">
+    <ctml:name>Lardjem</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tissemsilt</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-38</ctml:parentRef>
+    <ctml:wikiDataId>Q3217877</ctml:wikiDataId>
+    <ctml:latitude>35.74922000</ctml:latitude>
+    <ctml:longitude>1.54778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31476" kind="city">
+    <ctml:name>’Aïn el Hammam</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q599887</ctml:wikiDataId>
+    <ctml:latitude>36.56471000</ctml:latitude>
+    <ctml:longitude>4.30619000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31236" kind="city">
+    <ctml:name>Arhribs</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1648638</ctml:wikiDataId>
+    <ctml:latitude>36.79361000</ctml:latitude>
+    <ctml:longitude>4.31158000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31238" kind="city">
+    <ctml:name>Azazga</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2875118</ctml:wikiDataId>
+    <ctml:latitude>36.74472000</ctml:latitude>
+    <ctml:longitude>4.37222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31262" kind="city">
+    <ctml:name>Beni Douala</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2895885</ctml:wikiDataId>
+    <ctml:latitude>36.61954000</ctml:latitude>
+    <ctml:longitude>4.08282000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31277" kind="city">
+    <ctml:name>Boghni</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1649016</ctml:wikiDataId>
+    <ctml:latitude>36.54222000</ctml:latitude>
+    <ctml:longitude>3.95306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31285" kind="city">
+    <ctml:name>Boudjima</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2921489</ctml:wikiDataId>
+    <ctml:latitude>36.80218000</ctml:latitude>
+    <ctml:longitude>4.15187000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31303" kind="city">
+    <ctml:name>Chemini</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2962465</ctml:wikiDataId>
+    <ctml:latitude>36.60000000</ctml:latitude>
+    <ctml:longitude>4.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31321" kind="city">
+    <ctml:name>Draa Ben Khedda</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q5306152</ctml:wikiDataId>
+    <ctml:latitude>36.73436000</ctml:latitude>
+    <ctml:longitude>3.96223000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31345" kind="city">
+    <ctml:name>Freha</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1895391</ctml:wikiDataId>
+    <ctml:latitude>36.75234000</ctml:latitude>
+    <ctml:longitude>4.31550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31357" kind="city">
+    <ctml:name>Ighram</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2215840</ctml:wikiDataId>
+    <ctml:latitude>36.46295000</ctml:latitude>
+    <ctml:longitude>4.50532000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31371" kind="city">
+    <ctml:name>L’Arbaa Naït Irathen</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q764741</ctml:wikiDataId>
+    <ctml:latitude>36.63112000</ctml:latitude>
+    <ctml:longitude>4.19864000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31380" kind="city">
+    <ctml:name>Mekla</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1649145</ctml:wikiDataId>
+    <ctml:latitude>36.68178000</ctml:latitude>
+    <ctml:longitude>4.26378000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31451" kind="city">
+    <ctml:name>Timizart</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q3529010</ctml:wikiDataId>
+    <ctml:latitude>36.80000000</ctml:latitude>
+    <ctml:longitude>4.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31454" kind="city">
+    <ctml:name>Tirmitine</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q3529393</ctml:wikiDataId>
+    <ctml:latitude>36.65393000</ctml:latitude>
+    <ctml:longitude>3.98143000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31458" kind="city">
+    <ctml:name>Tizi Rached</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q3529993</ctml:wikiDataId>
+    <ctml:latitude>36.67176000</ctml:latitude>
+    <ctml:longitude>4.19176000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31459" kind="city">
+    <ctml:name>Tizi-n-Tleta</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tizi Ouzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-15</ctml:parentRef>
+    <ctml:wikiDataId>Q23782332</ctml:wikiDataId>
+    <ctml:latitude>36.54569000</ctml:latitude>
+    <ctml:longitude>4.05712000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31264" kind="city">
+    <ctml:name>Beni Mester</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tlemcen</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1649238</ctml:wikiDataId>
+    <ctml:latitude>34.87045000</ctml:latitude>
+    <ctml:longitude>-1.42319000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31266" kind="city">
+    <ctml:name>Bensekrane</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tlemcen</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q282544</ctml:wikiDataId>
+    <ctml:latitude>35.07465000</ctml:latitude>
+    <ctml:longitude>-1.22431000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31306" kind="city">
+    <ctml:name>Chetouane</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tlemcen</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2962883</ctml:wikiDataId>
+    <ctml:latitude>34.92129000</ctml:latitude>
+    <ctml:longitude>-1.29512000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31354" kind="city">
+    <ctml:name>Hennaya</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tlemcen</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q3130297</ctml:wikiDataId>
+    <ctml:latitude>34.95139000</ctml:latitude>
+    <ctml:longitude>-1.36806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31374" kind="city">
+    <ctml:name>Mansoûra</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tlemcen</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q3286584</ctml:wikiDataId>
+    <ctml:latitude>34.86158000</ctml:latitude>
+    <ctml:longitude>-1.33935000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31394" kind="city">
+    <ctml:name>Nedroma</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tlemcen</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2670516</ctml:wikiDataId>
+    <ctml:latitude>35.01361000</ctml:latitude>
+    <ctml:longitude>-1.74799000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31402" kind="city">
+    <ctml:name>Ouled Mimoun</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tlemcen</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2110236</ctml:wikiDataId>
+    <ctml:latitude>34.90472000</ctml:latitude>
+    <ctml:longitude>-1.03394000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31410" kind="city">
+    <ctml:name>Remchi</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tlemcen</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q3424477</ctml:wikiDataId>
+    <ctml:latitude>35.06196000</ctml:latitude>
+    <ctml:longitude>-1.43362000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31420" kind="city">
+    <ctml:name>Sebdou</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tlemcen</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1649930</ctml:wikiDataId>
+    <ctml:latitude>34.63703000</ctml:latitude>
+    <ctml:longitude>-1.33143000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31423" kind="city">
+    <ctml:name>Sidi Abdelli</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tlemcen</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q3483155</ctml:wikiDataId>
+    <ctml:latitude>35.06937000</ctml:latitude>
+    <ctml:longitude>-1.13706000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DZA-31431" kind="city">
+    <ctml:name>Sidi Senoussi سيدي سنوسي</ctml:name>
+    <ctml:country>DZA</ctml:country>
+    <ctml:admin1>Tlemcen</ctml:admin1>
+    <ctml:parentRef>place:admin1:DZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2215485</ctml:wikiDataId>
+    <ctml:latitude>34.99691000</ctml:latitude>
+    <ctml:longitude>-1.09449000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

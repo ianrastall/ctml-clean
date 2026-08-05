@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:CRI-21647" kind="city">
+    <ctml:name>Atenas</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q2406261</ctml:wikiDataId>
+    <ctml:latitude>9.98333000</ctml:latitude>
+    <ctml:longitude>-84.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21653" kind="city">
+    <ctml:name>Bijagua</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q3639885</ctml:wikiDataId>
+    <ctml:latitude>10.73279000</ctml:latitude>
+    <ctml:longitude>-85.05676000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21658" kind="city">
+    <ctml:name>Carrillos</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q23745374</ctml:wikiDataId>
+    <ctml:latitude>10.02918000</ctml:latitude>
+    <ctml:longitude>-84.27403000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21672" kind="city">
+    <ctml:name>Desamparados</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q23743609</ctml:wikiDataId>
+    <ctml:latitude>9.94727000</ctml:latitude>
+    <ctml:longitude>-84.50626000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21678" kind="city">
+    <ctml:name>Esquipulas</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q23743713</ctml:wikiDataId>
+    <ctml:latitude>10.05676000</ctml:latitude>
+    <ctml:longitude>-84.42337000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21685" kind="city">
+    <ctml:name>Grecia</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q2594049</ctml:wikiDataId>
+    <ctml:latitude>10.06892000</ctml:latitude>
+    <ctml:longitude>-84.31458000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21687" kind="city">
+    <ctml:name>Guatuso</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q1189935</ctml:wikiDataId>
+    <ctml:latitude>10.66667000</ctml:latitude>
+    <ctml:longitude>-84.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21698" kind="city">
+    <ctml:name>La Fortuna</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q2518042</ctml:wikiDataId>
+    <ctml:latitude>10.47089000</ctml:latitude>
+    <ctml:longitude>-84.64535000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21705" kind="city">
+    <ctml:name>Los Chiles</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q1189266</ctml:wikiDataId>
+    <ctml:latitude>10.86667000</ctml:latitude>
+    <ctml:longitude>-84.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21715" kind="city">
+    <ctml:name>Naranjo</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q2544794</ctml:wikiDataId>
+    <ctml:latitude>10.11667000</ctml:latitude>
+    <ctml:longitude>-84.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21719" kind="city">
+    <ctml:name>Orotina</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q891356</ctml:wikiDataId>
+    <ctml:latitude>9.90000000</ctml:latitude>
+    <ctml:longitude>-84.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21722" kind="city">
+    <ctml:name>Palmares</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q2610139</ctml:wikiDataId>
+    <ctml:latitude>10.03333000</ctml:latitude>
+    <ctml:longitude>-84.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21729" kind="city">
+    <ctml:name>Pital</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q23738634</ctml:wikiDataId>
+    <ctml:latitude>10.45056000</ctml:latitude>
+    <ctml:longitude>-84.27406000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21733" kind="city">
+    <ctml:name>Poás</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q2610373</ctml:wikiDataId>
+    <ctml:latitude>10.08333000</ctml:latitude>
+    <ctml:longitude>-84.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21732" kind="city">
+    <ctml:name>Pocosol</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q3906875</ctml:wikiDataId>
+    <ctml:latitude>10.36667000</ctml:latitude>
+    <ctml:longitude>-84.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21739" kind="city">
+    <ctml:name>Quesada</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q196254</ctml:wikiDataId>
+    <ctml:latitude>10.32381000</ctml:latitude>
+    <ctml:longitude>-84.42714000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21741" kind="city">
+    <ctml:name>Río Segundo</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q23736841</ctml:wikiDataId>
+    <ctml:latitude>10.24138000</ctml:latitude>
+    <ctml:longitude>-84.27933000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21742" kind="city">
+    <ctml:name>Sabanilla</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q23736874</ctml:wikiDataId>
+    <ctml:latitude>10.07404000</ctml:latitude>
+    <ctml:longitude>-84.21551000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21747" kind="city">
+    <ctml:name>San Carlos</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q931244</ctml:wikiDataId>
+    <ctml:latitude>10.58333000</ctml:latitude>
+    <ctml:longitude>-84.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21755" kind="city">
+    <ctml:name>San José</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q23736949</ctml:wikiDataId>
+    <ctml:latitude>10.95173000</ctml:latitude>
+    <ctml:longitude>-85.13610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21758" kind="city">
+    <ctml:name>San Juan</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q23736961</ctml:wikiDataId>
+    <ctml:latitude>10.10248000</ctml:latitude>
+    <ctml:longitude>-84.31694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21761" kind="city">
+    <ctml:name>San Mateo</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q1936056</ctml:wikiDataId>
+    <ctml:latitude>9.95000000</ctml:latitude>
+    <ctml:longitude>-84.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21766" kind="city">
+    <ctml:name>San Rafael</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q23736998</ctml:wikiDataId>
+    <ctml:latitude>10.06403000</ctml:latitude>
+    <ctml:longitude>-84.47281000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21770" kind="city">
+    <ctml:name>San Ramón</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q1932227</ctml:wikiDataId>
+    <ctml:latitude>10.08718000</ctml:latitude>
+    <ctml:longitude>-84.47044000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21777" kind="city">
+    <ctml:name>Santiago</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q23737052</ctml:wikiDataId>
+    <ctml:latitude>10.02275000</ctml:latitude>
+    <ctml:longitude>-84.44420000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21795" kind="city">
+    <ctml:name>Upala</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q2223674</ctml:wikiDataId>
+    <ctml:latitude>10.85000000</ctml:latitude>
+    <ctml:longitude>-85.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21796" kind="city">
+    <ctml:name>Valverde Vega</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q2610105</ctml:wikiDataId>
+    <ctml:latitude>10.18721000</ctml:latitude>
+    <ctml:longitude>-84.30290000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21798" kind="city">
+    <ctml:name>Zarcero</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Alajuela</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-A</ctml:parentRef>
+    <ctml:wikiDataId>Q12856942</ctml:wikiDataId>
+    <ctml:latitude>10.20000000</ctml:latitude>
+    <ctml:longitude>-84.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21645" kind="city">
+    <ctml:name>Alvarado</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2610378</ctml:wikiDataId>
+    <ctml:latitude>9.93333000</ctml:latitude>
+    <ctml:longitude>-83.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21665" kind="city">
+    <ctml:name>Concepción</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q23745508</ctml:wikiDataId>
+    <ctml:latitude>9.93333000</ctml:latitude>
+    <ctml:longitude>-84.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21668" kind="city">
+    <ctml:name>Cot</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q23743515</ctml:wikiDataId>
+    <ctml:latitude>9.89449000</ctml:latitude>
+    <ctml:longitude>-83.87302000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21694" kind="city">
+    <ctml:name>Jiménez</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2610255</ctml:wikiDataId>
+    <ctml:latitude>9.75000000</ctml:latitude>
+    <ctml:longitude>-83.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21699" kind="city">
+    <ctml:name>La Suiza</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q23740198</ctml:wikiDataId>
+    <ctml:latitude>9.85065000</ctml:latitude>
+    <ctml:longitude>-83.61690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21700" kind="city">
+    <ctml:name>La Unión</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2610394</ctml:wikiDataId>
+    <ctml:latitude>9.91667000</ctml:latitude>
+    <ctml:longitude>-83.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21717" kind="city">
+    <ctml:name>Oreamuno</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q936794</ctml:wikiDataId>
+    <ctml:latitude>10.00000000</ctml:latitude>
+    <ctml:longitude>-83.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21718" kind="city">
+    <ctml:name>Orosí</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q936794</ctml:wikiDataId>
+    <ctml:latitude>9.79617000</ctml:latitude>
+    <ctml:longitude>-83.85383000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21721" kind="city">
+    <ctml:name>Pacayas</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q23738480</ctml:wikiDataId>
+    <ctml:latitude>9.80709000</ctml:latitude>
+    <ctml:longitude>-84.04764000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21725" kind="city">
+    <ctml:name>Paraíso</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2618877</ctml:wikiDataId>
+    <ctml:latitude>9.75000000</ctml:latitude>
+    <ctml:longitude>-83.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21728" kind="city">
+    <ctml:name>Pejibaye</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q23738587</ctml:wikiDataId>
+    <ctml:latitude>9.81135000</ctml:latitude>
+    <ctml:longitude>-83.70336000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21748" kind="city">
+    <ctml:name>San Diego</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q931244</ctml:wikiDataId>
+    <ctml:latitude>9.89898000</ctml:latitude>
+    <ctml:longitude>-84.00287000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21790" kind="city">
+    <ctml:name>Tobosi</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2517654</ctml:wikiDataId>
+    <ctml:latitude>9.83837000</ctml:latitude>
+    <ctml:longitude>-83.98391000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21791" kind="city">
+    <ctml:name>Tres Ríos</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q23735189</ctml:wikiDataId>
+    <ctml:latitude>9.90644000</ctml:latitude>
+    <ctml:longitude>-83.98760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21792" kind="city">
+    <ctml:name>Tucurrique</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q23735189</ctml:wikiDataId>
+    <ctml:latitude>9.85336000</ctml:latitude>
+    <ctml:longitude>-83.72273000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21793" kind="city">
+    <ctml:name>Turrialba</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Cartago</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2610150</ctml:wikiDataId>
+    <ctml:latitude>9.80000000</ctml:latitude>
+    <ctml:longitude>-83.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21641" kind="city">
+    <ctml:name>Abangares</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2517638</ctml:wikiDataId>
+    <ctml:latitude>10.21667000</ctml:latitude>
+    <ctml:longitude>-85.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21648" kind="city">
+    <ctml:name>Bagaces</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q647978</ctml:wikiDataId>
+    <ctml:latitude>10.50000000</ctml:latitude>
+    <ctml:longitude>-85.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21651" kind="city">
+    <ctml:name>Belén</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q23746715</ctml:wikiDataId>
+    <ctml:latitude>10.40789000</ctml:latitude>
+    <ctml:longitude>-85.58836000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21660" kind="city">
+    <ctml:name>Cañas</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2225426</ctml:wikiDataId>
+    <ctml:latitude>10.48005000</ctml:latitude>
+    <ctml:longitude>-85.11349000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21657" kind="city">
+    <ctml:name>Carrillo</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2517601</ctml:wikiDataId>
+    <ctml:latitude>10.41667000</ctml:latitude>
+    <ctml:longitude>-85.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21680" kind="city">
+    <ctml:name>Fortuna</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q23741797</ctml:wikiDataId>
+    <ctml:latitude>10.67384000</ctml:latitude>
+    <ctml:longitude>-85.19984000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21691" kind="city">
+    <ctml:name>Hojancha</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2518200</ctml:wikiDataId>
+    <ctml:latitude>9.96667000</ctml:latitude>
+    <ctml:longitude>-85.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21695" kind="city">
+    <ctml:name>Juntas</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q23742046</ctml:wikiDataId>
+    <ctml:latitude>10.28089000</ctml:latitude>
+    <ctml:longitude>-84.95951000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21697" kind="city">
+    <ctml:name>La Cruz</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2518042</ctml:wikiDataId>
+    <ctml:latitude>11.00000000</ctml:latitude>
+    <ctml:longitude>-85.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21714" kind="city">
+    <ctml:name>Nandayure</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2518031</ctml:wikiDataId>
+    <ctml:latitude>9.91667000</ctml:latitude>
+    <ctml:longitude>-85.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21716" kind="city">
+    <ctml:name>Nicoya</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q3656199</ctml:wikiDataId>
+    <ctml:latitude>10.08333000</ctml:latitude>
+    <ctml:longitude>-85.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21784" kind="city">
+    <ctml:name>Sámara</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q3438102</ctml:wikiDataId>
+    <ctml:latitude>9.88147000</ctml:latitude>
+    <ctml:longitude>-85.52809000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21776" kind="city">
+    <ctml:name>Santa Cruz</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2291051</ctml:wikiDataId>
+    <ctml:latitude>10.25000000</ctml:latitude>
+    <ctml:longitude>-85.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21781" kind="city">
+    <ctml:name>Sardinal</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q23734998</ctml:wikiDataId>
+    <ctml:latitude>10.51674000</ctml:latitude>
+    <ctml:longitude>-85.64748000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CRI-21789" kind="admin2">
+    <ctml:name>Tilarán</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Guanacaste</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2517654</ctml:wikiDataId>
+    <ctml:latitude>10.45878000</ctml:latitude>
+    <ctml:longitude>-84.97513000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21799" kind="city">
+    <ctml:name>Ángeles</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q23746564</ctml:wikiDataId>
+    <ctml:latitude>9.99591000</ctml:latitude>
+    <ctml:longitude>-84.05126000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21652" kind="city">
+    <ctml:name>Belén</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q2613791</ctml:wikiDataId>
+    <ctml:latitude>9.98333000</ctml:latitude>
+    <ctml:longitude>-84.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21679" kind="city">
+    <ctml:name>Flores</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q2610307</ctml:wikiDataId>
+    <ctml:latitude>10.00000000</ctml:latitude>
+    <ctml:longitude>-84.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21696" kind="city">
+    <ctml:name>La Asunción</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q23742060</ctml:wikiDataId>
+    <ctml:latitude>9.97961000</ctml:latitude>
+    <ctml:longitude>-84.17281000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21704" kind="city">
+    <ctml:name>Llorente</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q23740235</ctml:wikiDataId>
+    <ctml:latitude>9.99844000</ctml:latitude>
+    <ctml:longitude>-84.15448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21708" kind="city">
+    <ctml:name>Mercedes</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q3183475</ctml:wikiDataId>
+    <ctml:latitude>10.00695000</ctml:latitude>
+    <ctml:longitude>-84.13396000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21746" kind="city">
+    <ctml:name>San Antonio</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q23736909</ctml:wikiDataId>
+    <ctml:latitude>9.98333000</ctml:latitude>
+    <ctml:longitude>-84.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21750" kind="city">
+    <ctml:name>San Francisco</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q23736933</ctml:wikiDataId>
+    <ctml:latitude>9.99299000</ctml:latitude>
+    <ctml:longitude>-84.12934000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21753" kind="city">
+    <ctml:name>San Isidro</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q2610270</ctml:wikiDataId>
+    <ctml:latitude>10.03333000</ctml:latitude>
+    <ctml:longitude>-84.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21754" kind="city">
+    <ctml:name>San Josecito</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q23736957</ctml:wikiDataId>
+    <ctml:latitude>10.01667000</ctml:latitude>
+    <ctml:longitude>-84.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21763" kind="city">
+    <ctml:name>San Pablo</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q23736977</ctml:wikiDataId>
+    <ctml:latitude>10.00000000</ctml:latitude>
+    <ctml:longitude>-84.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21767" kind="city">
+    <ctml:name>San Rafael</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q587080</ctml:wikiDataId>
+    <ctml:latitude>10.05000000</ctml:latitude>
+    <ctml:longitude>-84.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21775" kind="city">
+    <ctml:name>Santa Bárbara</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q2610157</ctml:wikiDataId>
+    <ctml:latitude>10.08333000</ctml:latitude>
+    <ctml:longitude>-84.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21779" kind="city">
+    <ctml:name>Santo Domingo</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q23737055</ctml:wikiDataId>
+    <ctml:latitude>10.06389000</ctml:latitude>
+    <ctml:longitude>-84.15499000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21780" kind="city">
+    <ctml:name>Sarapiquí</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Heredia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-H</ctml:parentRef>
+    <ctml:wikiDataId>Q2610385</ctml:wikiDataId>
+    <ctml:latitude>10.50000000</ctml:latitude>
+    <ctml:longitude>-84.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21650" kind="city">
+    <ctml:name>Batán</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Limón</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2614093</ctml:wikiDataId>
+    <ctml:latitude>10.08354000</ctml:latitude>
+    <ctml:longitude>-83.33413000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21688" kind="city">
+    <ctml:name>Guácimo</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Limón</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-L</ctml:parentRef>
+    <ctml:wikiDataId>Q609975</ctml:wikiDataId>
+    <ctml:latitude>10.20000000</ctml:latitude>
+    <ctml:longitude>-83.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21689" kind="city">
+    <ctml:name>Guápiles</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Limón</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-L</ctml:parentRef>
+    <ctml:wikiDataId>Q609975</ctml:wikiDataId>
+    <ctml:latitude>10.21682000</ctml:latitude>
+    <ctml:longitude>-83.78483000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21706" kind="city">
+    <ctml:name>Matina</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Limón</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2669000</ctml:wikiDataId>
+    <ctml:latitude>10.00000000</ctml:latitude>
+    <ctml:longitude>-83.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21730" kind="city">
+    <ctml:name>Pococí</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Limón</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1852750</ctml:wikiDataId>
+    <ctml:latitude>10.50000000</ctml:latitude>
+    <ctml:longitude>-83.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21731" kind="city">
+    <ctml:name>Pocora</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Limón</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-L</ctml:parentRef>
+    <ctml:wikiDataId>Q23738674</ctml:wikiDataId>
+    <ctml:latitude>10.17185000</ctml:latitude>
+    <ctml:longitude>-83.60439000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21740" kind="city">
+    <ctml:name>Roxana</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Limón</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-L</ctml:parentRef>
+    <ctml:wikiDataId>Q23736864</ctml:wikiDataId>
+    <ctml:latitude>10.26712000</ctml:latitude>
+    <ctml:longitude>-83.75110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21782" kind="city">
+    <ctml:name>Siquirres</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Limón</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-L</ctml:parentRef>
+    <ctml:wikiDataId>Q930152</ctml:wikiDataId>
+    <ctml:latitude>10.11667000</ctml:latitude>
+    <ctml:longitude>-83.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21783" kind="city">
+    <ctml:name>Sixaola</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Limón</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1759580</ctml:wikiDataId>
+    <ctml:latitude>9.52766000</ctml:latitude>
+    <ctml:longitude>-82.62185000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21785" kind="city">
+    <ctml:name>Talamanca</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Limón</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2669009</ctml:wikiDataId>
+    <ctml:latitude>9.50000000</ctml:latitude>
+    <ctml:longitude>-83.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21654" kind="city">
+    <ctml:name>Buenos Aires</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q2669006</ctml:wikiDataId>
+    <ctml:latitude>9.11667000</ctml:latitude>
+    <ctml:longitude>-83.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21656" kind="city">
+    <ctml:name>Canoas</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q23745345</ctml:wikiDataId>
+    <ctml:latitude>8.53305000</ctml:latitude>
+    <ctml:longitude>-82.83844000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21661" kind="city">
+    <ctml:name>Chacarita</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q23745417</ctml:wikiDataId>
+    <ctml:latitude>9.98424000</ctml:latitude>
+    <ctml:longitude>-84.77892000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21662" kind="city">
+    <ctml:name>Ciudad Cortés</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q23745475</ctml:wikiDataId>
+    <ctml:latitude>8.95988000</ctml:latitude>
+    <ctml:longitude>-83.52381000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21666" kind="city">
+    <ctml:name>Corredor</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q23743507</ctml:wikiDataId>
+    <ctml:latitude>8.64002000</ctml:latitude>
+    <ctml:longitude>-82.94600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21667" kind="city">
+    <ctml:name>Corredores</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q2610166</ctml:wikiDataId>
+    <ctml:latitude>8.58333000</ctml:latitude>
+    <ctml:longitude>-82.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21669" kind="city">
+    <ctml:name>Coto Brus</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q2610318</ctml:wikiDataId>
+    <ctml:latitude>8.88333000</ctml:latitude>
+    <ctml:longitude>-82.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21677" kind="city">
+    <ctml:name>Esparza</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q2610122</ctml:wikiDataId>
+    <ctml:latitude>10.00000000</ctml:latitude>
+    <ctml:longitude>-84.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CRI-21681" kind="admin2">
+    <ctml:name>Garabito</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q970097</ctml:wikiDataId>
+    <ctml:latitude>9.61903000</ctml:latitude>
+    <ctml:longitude>-84.62013000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CRI-21683" kind="admin2">
+    <ctml:name>Golfito</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q2610281</ctml:wikiDataId>
+    <ctml:latitude>8.60000000</ctml:latitude>
+    <ctml:longitude>-83.12000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CRI-21693" kind="admin2">
+    <ctml:name>Jacó</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q23742002</ctml:wikiDataId>
+    <ctml:latitude>9.61497000</ctml:latitude>
+    <ctml:longitude>-84.62975000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21709" kind="city">
+    <ctml:name>Miramar</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q23740335</ctml:wikiDataId>
+    <ctml:latitude>10.09250000</ctml:latitude>
+    <ctml:longitude>-84.72978000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21711" kind="city">
+    <ctml:name>Montes de Oro</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q369259</ctml:wikiDataId>
+    <ctml:latitude>10.10000000</ctml:latitude>
+    <ctml:longitude>-84.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21720" kind="city">
+    <ctml:name>Osa</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q2610114</ctml:wikiDataId>
+    <ctml:latitude>8.83333000</ctml:latitude>
+    <ctml:longitude>-83.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21724" kind="city">
+    <ctml:name>Paquera</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q3894943</ctml:wikiDataId>
+    <ctml:latitude>9.82005000</ctml:latitude>
+    <ctml:longitude>-84.93513000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21726" kind="city">
+    <ctml:name>Parrita</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q2610144</ctml:wikiDataId>
+    <ctml:latitude>9.55000000</ctml:latitude>
+    <ctml:longitude>-84.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CRI-21738" kind="admin2">
+    <ctml:name>Quepos</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q196254</ctml:wikiDataId>
+    <ctml:latitude>9.43187000</ctml:latitude>
+    <ctml:longitude>-84.16141000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21773" kind="city">
+    <ctml:name>San Vito</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>Puntarenas</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-P</ctml:parentRef>
+    <ctml:wikiDataId>Q23734994</ctml:wikiDataId>
+    <ctml:latitude>8.82079000</ctml:latitude>
+    <ctml:longitude>-82.97092000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21642" kind="city">
+    <ctml:name>Acosta</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1935173</ctml:wikiDataId>
+    <ctml:latitude>9.80000000</ctml:latitude>
+    <ctml:longitude>-84.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21644" kind="city">
+    <ctml:name>Alajuelita</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q37104</ctml:wikiDataId>
+    <ctml:latitude>9.90000000</ctml:latitude>
+    <ctml:longitude>-84.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21646" kind="city">
+    <ctml:name>Aserrí</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1935231</ctml:wikiDataId>
+    <ctml:latitude>9.86667000</ctml:latitude>
+    <ctml:longitude>-84.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21655" kind="city">
+    <ctml:name>Calle Blancos</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23745297</ctml:wikiDataId>
+    <ctml:latitude>9.95000000</ctml:latitude>
+    <ctml:longitude>-84.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21663" kind="city">
+    <ctml:name>Colima</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23745491</ctml:wikiDataId>
+    <ctml:latitude>9.95091000</ctml:latitude>
+    <ctml:longitude>-84.08503000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21664" kind="city">
+    <ctml:name>Colón</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23745494</ctml:wikiDataId>
+    <ctml:latitude>9.91491000</ctml:latitude>
+    <ctml:longitude>-84.24170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21670" kind="city">
+    <ctml:name>Curridabat</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1935162</ctml:wikiDataId>
+    <ctml:latitude>9.91667000</ctml:latitude>
+    <ctml:longitude>-84.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21671" kind="city">
+    <ctml:name>Daniel Flores</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3701600</ctml:wikiDataId>
+    <ctml:latitude>9.33554000</ctml:latitude>
+    <ctml:longitude>-83.66940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21673" kind="city">
+    <ctml:name>Desamparados</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1444404</ctml:wikiDataId>
+    <ctml:latitude>9.90000000</ctml:latitude>
+    <ctml:longitude>-84.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21676" kind="city">
+    <ctml:name>Escazú</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2221760</ctml:wikiDataId>
+    <ctml:latitude>9.93333000</ctml:latitude>
+    <ctml:longitude>-84.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21682" kind="city">
+    <ctml:name>Goicoechea</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2406129</ctml:wikiDataId>
+    <ctml:latitude>9.94848000</ctml:latitude>
+    <ctml:longitude>-84.06365000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21684" kind="city">
+    <ctml:name>Granadilla</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23741849</ctml:wikiDataId>
+    <ctml:latitude>9.93491000</ctml:latitude>
+    <ctml:longitude>-84.01688000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21686" kind="city">
+    <ctml:name>Guadalupe</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2594049</ctml:wikiDataId>
+    <ctml:latitude>9.94805000</ctml:latitude>
+    <ctml:longitude>-84.05665000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21692" kind="city">
+    <ctml:name>Ipís</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23742002</ctml:wikiDataId>
+    <ctml:latitude>9.96745000</ctml:latitude>
+    <ctml:longitude>-84.01326000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CRI-21701" kind="admin2">
+    <ctml:name>León Cortés</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q196346</ctml:wikiDataId>
+    <ctml:latitude>9.68300000</ctml:latitude>
+    <ctml:longitude>-84.04781000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21707" kind="city">
+    <ctml:name>Mercedes</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23740327</ctml:wikiDataId>
+    <ctml:latitude>9.26270000</ctml:latitude>
+    <ctml:longitude>-83.58202000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21710" kind="city">
+    <ctml:name>Montes de Oca</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2739710</ctml:wikiDataId>
+    <ctml:latitude>9.93960000</ctml:latitude>
+    <ctml:longitude>-84.03013000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21712" kind="city">
+    <ctml:name>Mora</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1935206</ctml:wikiDataId>
+    <ctml:latitude>9.91667000</ctml:latitude>
+    <ctml:longitude>-84.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21713" kind="city">
+    <ctml:name>Moravia</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1935256</ctml:wikiDataId>
+    <ctml:latitude>10.04000000</ctml:latitude>
+    <ctml:longitude>-84.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21723" kind="city">
+    <ctml:name>Palmichal</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23738505</ctml:wikiDataId>
+    <ctml:latitude>9.83778000</ctml:latitude>
+    <ctml:longitude>-84.20478000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21727" kind="city">
+    <ctml:name>Patarrá</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3897580</ctml:wikiDataId>
+    <ctml:latitude>9.88071000</ctml:latitude>
+    <ctml:longitude>-84.03501000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21737" kind="city">
+    <ctml:name>Pérez Zeledón</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q196254</ctml:wikiDataId>
+    <ctml:latitude>9.35473000</ctml:latitude>
+    <ctml:longitude>-83.63484000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21735" kind="city">
+    <ctml:name>Puriscal</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q196298</ctml:wikiDataId>
+    <ctml:latitude>9.75000000</ctml:latitude>
+    <ctml:longitude>-84.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21736" kind="city">
+    <ctml:name>Purral</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q531605</ctml:wikiDataId>
+    <ctml:latitude>9.95808000</ctml:latitude>
+    <ctml:longitude>-84.03050000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21743" kind="city">
+    <ctml:name>Sabanilla</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23736873</ctml:wikiDataId>
+    <ctml:latitude>9.94522000</ctml:latitude>
+    <ctml:longitude>-84.03927000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21744" kind="city">
+    <ctml:name>Salitral</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23736889</ctml:wikiDataId>
+    <ctml:latitude>9.91163000</ctml:latitude>
+    <ctml:longitude>-84.17835000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21745" kind="city">
+    <ctml:name>Salitrillos</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23736896</ctml:wikiDataId>
+    <ctml:latitude>9.85259000</ctml:latitude>
+    <ctml:longitude>-84.09062000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21749" kind="city">
+    <ctml:name>San Felipe</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23736930</ctml:wikiDataId>
+    <ctml:latitude>9.90488000</ctml:latitude>
+    <ctml:longitude>-84.10551000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21751" kind="city">
+    <ctml:name>San Ignacio</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3947359</ctml:wikiDataId>
+    <ctml:latitude>9.79853000</ctml:latitude>
+    <ctml:longitude>-84.16173000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21752" kind="city">
+    <ctml:name>San Isidro</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3947359</ctml:wikiDataId>
+    <ctml:latitude>9.36740000</ctml:latitude>
+    <ctml:longitude>-83.69713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21756" kind="city">
+    <ctml:name>San José</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3070</ctml:wikiDataId>
+    <ctml:latitude>9.93333000</ctml:latitude>
+    <ctml:longitude>-84.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21757" kind="city">
+    <ctml:name>San Juan</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23736960</ctml:wikiDataId>
+    <ctml:latitude>9.95974000</ctml:latitude>
+    <ctml:longitude>-84.08165000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21759" kind="city">
+    <ctml:name>San Juan de Dios</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23736963</ctml:wikiDataId>
+    <ctml:latitude>9.87730000</ctml:latitude>
+    <ctml:longitude>-84.08470000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CRI-21760" kind="admin2">
+    <ctml:name>San Marcos</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2410422</ctml:wikiDataId>
+    <ctml:latitude>9.66010000</ctml:latitude>
+    <ctml:longitude>-84.02026000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21762" kind="city">
+    <ctml:name>San Miguel</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23736977</ctml:wikiDataId>
+    <ctml:latitude>9.87121000</ctml:latitude>
+    <ctml:longitude>-84.06084000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CRI-21764" kind="admin2">
+    <ctml:name>San Pedro</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1815110</ctml:wikiDataId>
+    <ctml:latitude>9.92829000</ctml:latitude>
+    <ctml:longitude>-84.05074000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21765" kind="city">
+    <ctml:name>San Rafael</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23736995</ctml:wikiDataId>
+    <ctml:latitude>9.92787000</ctml:latitude>
+    <ctml:longitude>-84.13722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21768" kind="city">
+    <ctml:name>San Rafael Abajo</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q587080</ctml:wikiDataId>
+    <ctml:latitude>9.83100000</ctml:latitude>
+    <ctml:longitude>-84.29008000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21769" kind="city">
+    <ctml:name>San Rafael Arriba</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q587080</ctml:wikiDataId>
+    <ctml:latitude>9.87556000</ctml:latitude>
+    <ctml:longitude>-84.07661000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21771" kind="city">
+    <ctml:name>San Vicente</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23734992</ctml:wikiDataId>
+    <ctml:latitude>9.96016000</ctml:latitude>
+    <ctml:longitude>-84.04762000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21772" kind="city">
+    <ctml:name>San Vicente de Moravia</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23734992</ctml:wikiDataId>
+    <ctml:latitude>9.96164000</ctml:latitude>
+    <ctml:longitude>-84.04880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21774" kind="city">
+    <ctml:name>Santa Ana</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3948919</ctml:wikiDataId>
+    <ctml:latitude>9.93260000</ctml:latitude>
+    <ctml:longitude>-84.18255000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21778" kind="city">
+    <ctml:name>Santiago</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3556823</ctml:wikiDataId>
+    <ctml:latitude>9.84636000</ctml:latitude>
+    <ctml:longitude>-84.31428000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21786" kind="city">
+    <ctml:name>Tarrazú</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q196260</ctml:wikiDataId>
+    <ctml:latitude>9.65965000</ctml:latitude>
+    <ctml:longitude>-84.02138000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21787" kind="city">
+    <ctml:name>Tejar</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23735108</ctml:wikiDataId>
+    <ctml:latitude>9.74622000</ctml:latitude>
+    <ctml:longitude>-84.23368000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21788" kind="city">
+    <ctml:name>Tibás</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q23735108</ctml:wikiDataId>
+    <ctml:latitude>9.96667000</ctml:latitude>
+    <ctml:longitude>-84.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21794" kind="city">
+    <ctml:name>Turrubares</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q196257</ctml:wikiDataId>
+    <ctml:latitude>9.75000000</ctml:latitude>
+    <ctml:longitude>-84.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CRI-21797" kind="city">
+    <ctml:name>Vázquez de Coronado</ctml:name>
+    <ctml:country>CRI</ctml:country>
+    <ctml:admin1>San José</ctml:admin1>
+    <ctml:parentRef>place:admin1:CR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2610105</ctml:wikiDataId>
+    <ctml:latitude>10.06000000</ctml:latitude>
+    <ctml:longitude>-84.00000000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

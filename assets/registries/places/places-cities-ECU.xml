@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ECU-31493" kind="city">
+    <ctml:name>Cantón San Fernando</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Azuay</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-A</ctml:parentRef>
+    <ctml:wikiDataId>Q2449055</ctml:wikiDataId>
+    <ctml:latitude>-3.13349000</ctml:latitude>
+    <ctml:longitude>-79.26893000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31507" kind="admin2">
+    <ctml:name>Gualaceo</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Azuay</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-A</ctml:parentRef>
+    <ctml:wikiDataId>Q1992935</ctml:wikiDataId>
+    <ctml:latitude>-2.89264000</ctml:latitude>
+    <ctml:longitude>-78.77814000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31519" kind="city">
+    <ctml:name>La Unión</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Azuay</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-A</ctml:parentRef>
+    <ctml:wikiDataId>Q6465577</ctml:wikiDataId>
+    <ctml:latitude>-2.85000000</ctml:latitude>
+    <ctml:longitude>-78.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31521" kind="city">
+    <ctml:name>Llacao</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Azuay</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-A</ctml:parentRef>
+    <ctml:wikiDataId>Q379338</ctml:wikiDataId>
+    <ctml:latitude>-2.86667000</ctml:latitude>
+    <ctml:longitude>-78.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31535" kind="city">
+    <ctml:name>Nulti</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Azuay</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-A</ctml:parentRef>
+    <ctml:wikiDataId>Q683938</ctml:wikiDataId>
+    <ctml:latitude>-2.91667000</ctml:latitude>
+    <ctml:longitude>-78.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31569" kind="city">
+    <ctml:name>San Miguel</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Bolívar</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-B</ctml:parentRef>
+    <ctml:wikiDataId>Q7414937</ctml:wikiDataId>
+    <ctml:latitude>-1.70884000</ctml:latitude>
+    <ctml:longitude>-79.04311000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31496" kind="admin2">
+    <ctml:name>Cañar</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Cañar</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-F</ctml:parentRef>
+    <ctml:wikiDataId>Q23885206</ctml:wikiDataId>
+    <ctml:latitude>-2.56062000</ctml:latitude>
+    <ctml:longitude>-78.93940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31518" kind="admin2">
+    <ctml:name>La Troncal</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Cañar</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-F</ctml:parentRef>
+    <ctml:wikiDataId>Q6465543</ctml:wikiDataId>
+    <ctml:latitude>-2.42355000</ctml:latitude>
+    <ctml:longitude>-79.33977000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31503" kind="admin2">
+    <ctml:name>El Ángel</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Carchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-C</ctml:parentRef>
+    <ctml:wikiDataId>Q19017191</ctml:wikiDataId>
+    <ctml:latitude>0.62279000</ctml:latitude>
+    <ctml:longitude>-77.94003000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31567" kind="admin2">
+    <ctml:name>San Gabriel</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Carchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-C</ctml:parentRef>
+    <ctml:wikiDataId>Q4405656</ctml:wikiDataId>
+    <ctml:latitude>0.59318000</ctml:latitude>
+    <ctml:longitude>-77.83078000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31479" kind="admin2">
+    <ctml:name>Alausí</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Chimborazo</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-H</ctml:parentRef>
+    <ctml:wikiDataId>Q2640072</ctml:wikiDataId>
+    <ctml:latitude>-2.20329000</ctml:latitude>
+    <ctml:longitude>-78.84714000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31509" kind="admin2">
+    <ctml:name>Guano</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Chimborazo</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-H</ctml:parentRef>
+    <ctml:wikiDataId>Q5613774</ctml:wikiDataId>
+    <ctml:latitude>-1.60789000</ctml:latitude>
+    <ctml:longitude>-78.63105000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31517" kind="admin2">
+    <ctml:name>La Maná</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Cotopaxi</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-X</ctml:parentRef>
+    <ctml:wikiDataId>Q2523409</ctml:wikiDataId>
+    <ctml:latitude>-0.94094000</ctml:latitude>
+    <ctml:longitude>-79.22506000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31556" kind="city">
+    <ctml:name>Pujilí</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Cotopaxi</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-X</ctml:parentRef>
+    <ctml:wikiDataId>Q2117685</ctml:wikiDataId>
+    <ctml:latitude>-0.95759000</ctml:latitude>
+    <ctml:longitude>-78.69636000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31570" kind="admin2">
+    <ctml:name>San Miguel de Salcedo</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Cotopaxi</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-X</ctml:parentRef>
+    <ctml:wikiDataId>Q2198509</ctml:wikiDataId>
+    <ctml:latitude>-1.04547000</ctml:latitude>
+    <ctml:longitude>-78.59063000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31578" kind="admin2">
+    <ctml:name>Saquisilí</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Cotopaxi</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-X</ctml:parentRef>
+    <ctml:wikiDataId>Q2621005</ctml:wikiDataId>
+    <ctml:latitude>-0.83990000</ctml:latitude>
+    <ctml:longitude>-78.66700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31512" kind="city">
+    <ctml:name>Huaquillas</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>El Oro</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-O</ctml:parentRef>
+    <ctml:wikiDataId>Q3322678</ctml:wikiDataId>
+    <ctml:latitude>-3.47523000</ctml:latitude>
+    <ctml:longitude>-80.23084000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31542" kind="city">
+    <ctml:name>Pasaje</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>El Oro</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-O</ctml:parentRef>
+    <ctml:wikiDataId>Q3367230</ctml:wikiDataId>
+    <ctml:latitude>-3.32561000</ctml:latitude>
+    <ctml:longitude>-79.80697000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31547" kind="admin2">
+    <ctml:name>Piñas</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>El Oro</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-O</ctml:parentRef>
+    <ctml:wikiDataId>Q7883868</ctml:wikiDataId>
+    <ctml:latitude>-3.68107000</ctml:latitude>
+    <ctml:longitude>-79.68083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31549" kind="admin2">
+    <ctml:name>Portovelo</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>El Oro</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-O</ctml:parentRef>
+    <ctml:wikiDataId>Q7232216</ctml:wikiDataId>
+    <ctml:latitude>-3.72145000</ctml:latitude>
+    <ctml:longitude>-79.62187000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31553" kind="city">
+    <ctml:name>Puerto Bolívar</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>El Oro</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-O</ctml:parentRef>
+    <ctml:wikiDataId>Q1026239</ctml:wikiDataId>
+    <ctml:latitude>-3.26649000</ctml:latitude>
+    <ctml:longitude>-79.99749000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31576" kind="admin2">
+    <ctml:name>Santa Rosa</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>El Oro</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-O</ctml:parentRef>
+    <ctml:wikiDataId>Q7419863</ctml:wikiDataId>
+    <ctml:latitude>-3.44882000</ctml:latitude>
+    <ctml:longitude>-79.95952000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31592" kind="admin2">
+    <ctml:name>Zaruma</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>El Oro</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-O</ctml:parentRef>
+    <ctml:wikiDataId>Q148121</ctml:wikiDataId>
+    <ctml:latitude>-3.69132000</ctml:latitude>
+    <ctml:longitude>-79.61174000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31531" kind="admin2">
+    <ctml:name>Muisne</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Esmeraldas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-E</ctml:parentRef>
+    <ctml:wikiDataId>Q6933279</ctml:wikiDataId>
+    <ctml:latitude>0.61129000</ctml:latitude>
+    <ctml:longitude>-80.01863000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31541" kind="city">
+    <ctml:name>Pampanal de Bolívar</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Esmeraldas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-E</ctml:parentRef>
+    <ctml:wikiDataId>Q10949718</ctml:wikiDataId>
+    <ctml:latitude>1.35251000</ctml:latitude>
+    <ctml:longitude>-78.89360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31561" kind="admin2">
+    <ctml:name>Rio Verde</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Esmeraldas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-E</ctml:parentRef>
+    <ctml:wikiDataId>Q2900</ctml:wikiDataId>
+    <ctml:latitude>1.06235000</ctml:latitude>
+    <ctml:longitude>-79.39939000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31564" kind="city">
+    <ctml:name>Rosa Zarate</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Esmeraldas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-E</ctml:parentRef>
+    <ctml:wikiDataId>Q7846193</ctml:wikiDataId>
+    <ctml:latitude>0.32779000</ctml:latitude>
+    <ctml:longitude>-79.47407000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31568" kind="city">
+    <ctml:name>San Lorenzo de Esmeraldas</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Esmeraldas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-E</ctml:parentRef>
+    <ctml:wikiDataId>Q7414682</ctml:wikiDataId>
+    <ctml:latitude>1.28626000</ctml:latitude>
+    <ctml:longitude>-78.83514000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31585" kind="city">
+    <ctml:name>Valdez</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Esmeraldas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-E</ctml:parentRef>
+    <ctml:wikiDataId>Q7909405</ctml:wikiDataId>
+    <ctml:latitude>1.24917000</ctml:latitude>
+    <ctml:longitude>-78.98306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31551" kind="city">
+    <ctml:name>Puerto Ayora</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Galápagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1013526</ctml:wikiDataId>
+    <ctml:latitude>-0.74018000</ctml:latitude>
+    <ctml:longitude>-90.31380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31555" kind="city">
+    <ctml:name>Puerto Villamil</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Galápagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1208152</ctml:wikiDataId>
+    <ctml:latitude>-0.95542000</ctml:latitude>
+    <ctml:longitude>-90.96654000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31480" kind="city">
+    <ctml:name>Alfredo Baquerizo Moreno</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q4723711</ctml:wikiDataId>
+    <ctml:latitude>-1.91667000</ctml:latitude>
+    <ctml:longitude>-79.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31488" kind="admin2">
+    <ctml:name>Baláo</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q4850064</ctml:wikiDataId>
+    <ctml:latitude>-2.91100000</ctml:latitude>
+    <ctml:longitude>-79.81441000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31487" kind="admin2">
+    <ctml:name>Balzar</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q4853169</ctml:wikiDataId>
+    <ctml:latitude>-1.36501000</ctml:latitude>
+    <ctml:longitude>-79.90494000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31498" kind="city">
+    <ctml:name>Colimes</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q5144832</ctml:wikiDataId>
+    <ctml:latitude>-1.54553000</ctml:latitude>
+    <ctml:longitude>-80.01165000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31499" kind="admin2">
+    <ctml:name>Coronel Marcelino Maridueña</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q642543</ctml:wikiDataId>
+    <ctml:latitude>-2.20924000</ctml:latitude>
+    <ctml:longitude>-79.43248000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31502" kind="city">
+    <ctml:name>El Triunfo</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q5352286</ctml:wikiDataId>
+    <ctml:latitude>-1.93333000</ctml:latitude>
+    <ctml:longitude>-79.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31504" kind="admin2">
+    <ctml:name>Eloy Alfaro</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q1120810</ctml:wikiDataId>
+    <ctml:latitude>-2.17579000</ctml:latitude>
+    <ctml:longitude>-79.85519000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31522" kind="admin2">
+    <ctml:name>Lomas de Sargentillo</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q6669164</ctml:wikiDataId>
+    <ctml:latitude>-1.88333000</ctml:latitude>
+    <ctml:longitude>-80.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31528" kind="admin2">
+    <ctml:name>Milagro</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q773238</ctml:wikiDataId>
+    <ctml:latitude>-2.13404000</ctml:latitude>
+    <ctml:longitude>-79.59415000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31532" kind="admin2">
+    <ctml:name>Naranjal</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q6965358</ctml:wikiDataId>
+    <ctml:latitude>-2.67364000</ctml:latitude>
+    <ctml:longitude>-79.61830000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31533" kind="admin2">
+    <ctml:name>Naranjito</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q962774</ctml:wikiDataId>
+    <ctml:latitude>-2.16671000</ctml:latitude>
+    <ctml:longitude>-79.46540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31539" kind="city">
+    <ctml:name>Palestina</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q7127272</ctml:wikiDataId>
+    <ctml:latitude>-1.93709000</ctml:latitude>
+    <ctml:longitude>-79.71396000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31544" kind="city">
+    <ctml:name>Pedro Carbo</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q11004410</ctml:wikiDataId>
+    <ctml:latitude>-1.81563000</ctml:latitude>
+    <ctml:longitude>-80.23309000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31548" kind="city">
+    <ctml:name>Playas</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q3123278</ctml:wikiDataId>
+    <ctml:latitude>-2.63199000</ctml:latitude>
+    <ctml:longitude>-80.38808000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31566" kind="admin2">
+    <ctml:name>Samborondón</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q368320</ctml:wikiDataId>
+    <ctml:latitude>-1.96276000</ctml:latitude>
+    <ctml:longitude>-79.72402000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31575" kind="city">
+    <ctml:name>Santa Lucía</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q13190708</ctml:wikiDataId>
+    <ctml:latitude>-2.18333000</ctml:latitude>
+    <ctml:longitude>-80.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31586" kind="city">
+    <ctml:name>Velasco Ibarra</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q5351224</ctml:wikiDataId>
+    <ctml:latitude>-1.04376000</ctml:latitude>
+    <ctml:longitude>-79.63837000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31589" kind="city">
+    <ctml:name>Yaguachi Nuevo</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Guayas</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-G</ctml:parentRef>
+    <ctml:wikiDataId>Q3816731</ctml:wikiDataId>
+    <ctml:latitude>-2.09680000</ctml:latitude>
+    <ctml:longitude>-79.69485000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31483" kind="admin2">
+    <ctml:name>Atuntaqui</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Imbabura</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-I</ctml:parentRef>
+    <ctml:wikiDataId>Q4741622</ctml:wikiDataId>
+    <ctml:latitude>0.33247000</ctml:latitude>
+    <ctml:longitude>-78.21371000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31500" kind="admin2">
+    <ctml:name>Cotacachi</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Imbabura</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-I</ctml:parentRef>
+    <ctml:wikiDataId>Q1001959</ctml:wikiDataId>
+    <ctml:latitude>0.30107000</ctml:latitude>
+    <ctml:longitude>-78.26428000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31536" kind="city">
+    <ctml:name>Otavalo</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Imbabura</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-I</ctml:parentRef>
+    <ctml:wikiDataId>Q1020794</ctml:wikiDataId>
+    <ctml:latitude>0.23457000</ctml:latitude>
+    <ctml:longitude>-78.26248000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31546" kind="admin2">
+    <ctml:name>Pimampiro</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Imbabura</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-I</ctml:parentRef>
+    <ctml:wikiDataId>Q4746020</ctml:wikiDataId>
+    <ctml:latitude>0.39116000</ctml:latitude>
+    <ctml:longitude>-77.94068000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31494" kind="city">
+    <ctml:name>Catarama</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-R</ctml:parentRef>
+    <ctml:wikiDataId>Q5051473</ctml:wikiDataId>
+    <ctml:latitude>-1.57504000</ctml:latitude>
+    <ctml:longitude>-79.45998000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31529" kind="city">
+    <ctml:name>Montalvo</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-R</ctml:parentRef>
+    <ctml:wikiDataId>Q23877370</ctml:wikiDataId>
+    <ctml:latitude>-1.79008000</ctml:latitude>
+    <ctml:longitude>-79.28759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31538" kind="admin2">
+    <ctml:name>Palenque</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-R</ctml:parentRef>
+    <ctml:wikiDataId>Q23875490</ctml:wikiDataId>
+    <ctml:latitude>-1.43795000</ctml:latitude>
+    <ctml:longitude>-79.75647000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31559" kind="admin2">
+    <ctml:name>Quevedo</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-R</ctml:parentRef>
+    <ctml:wikiDataId>Q773225</ctml:wikiDataId>
+    <ctml:latitude>-1.02863000</ctml:latitude>
+    <ctml:longitude>-79.46352000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31587" kind="admin2">
+    <ctml:name>Ventanas</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-R</ctml:parentRef>
+    <ctml:wikiDataId>Q931224</ctml:wikiDataId>
+    <ctml:latitude>-1.44158000</ctml:latitude>
+    <ctml:longitude>-79.45943000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31588" kind="admin2">
+    <ctml:name>Vinces</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Los Ríos</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-R</ctml:parentRef>
+    <ctml:wikiDataId>Q5762368</ctml:wikiDataId>
+    <ctml:latitude>-1.55611000</ctml:latitude>
+    <ctml:longitude>-79.75191000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31486" kind="admin2">
+    <ctml:name>Bahía de Caráquez</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Manabí</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2749246</ctml:wikiDataId>
+    <ctml:latitude>-0.59792000</ctml:latitude>
+    <ctml:longitude>-80.42367000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31491" kind="city">
+    <ctml:name>Calceta</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Manabí</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-M</ctml:parentRef>
+    <ctml:wikiDataId>Q5018764</ctml:wikiDataId>
+    <ctml:latitude>-0.84582000</ctml:latitude>
+    <ctml:longitude>-80.16389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31497" kind="admin2">
+    <ctml:name>Chone</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Manabí</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2756591</ctml:wikiDataId>
+    <ctml:latitude>-0.69819000</ctml:latitude>
+    <ctml:longitude>-80.09361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31514" kind="admin2">
+    <ctml:name>Jipijapa</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Manabí</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-M</ctml:parentRef>
+    <ctml:wikiDataId>Q11249733</ctml:wikiDataId>
+    <ctml:latitude>-1.34872000</ctml:latitude>
+    <ctml:longitude>-80.57875000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31515" kind="city">
+    <ctml:name>Junín</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Manabí</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-M</ctml:parentRef>
+    <ctml:wikiDataId>Q13189564</ctml:wikiDataId>
+    <ctml:latitude>-0.92777000</ctml:latitude>
+    <ctml:longitude>-80.20583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31527" kind="admin2">
+    <ctml:name>Manta</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Manabí</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-M</ctml:parentRef>
+    <ctml:wikiDataId>Q990738</ctml:wikiDataId>
+    <ctml:latitude>-0.96212000</ctml:latitude>
+    <ctml:longitude>-80.71271000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31530" kind="city">
+    <ctml:name>Montecristi</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Manabí</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1014493</ctml:wikiDataId>
+    <ctml:latitude>-1.04576000</ctml:latitude>
+    <ctml:longitude>-80.65889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31537" kind="admin2">
+    <ctml:name>Paján</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Manabí</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-M</ctml:parentRef>
+    <ctml:wikiDataId>Q7125333</ctml:wikiDataId>
+    <ctml:latitude>-1.55238000</ctml:latitude>
+    <ctml:longitude>-80.42958000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31543" kind="admin2">
+    <ctml:name>Pedernales</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Manabí</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-M</ctml:parentRef>
+    <ctml:wikiDataId>Q23858165</ctml:wikiDataId>
+    <ctml:latitude>0.07167000</ctml:latitude>
+    <ctml:longitude>-80.05250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31563" kind="admin2">
+    <ctml:name>Rocafuerte</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Manabí</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-M</ctml:parentRef>
+    <ctml:wikiDataId>Q7846193</ctml:wikiDataId>
+    <ctml:latitude>-0.92360000</ctml:latitude>
+    <ctml:longitude>-80.44946000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31571" kind="admin2">
+    <ctml:name>San Vicente</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Manabí</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2198509</ctml:wikiDataId>
+    <ctml:latitude>-0.60435000</ctml:latitude>
+    <ctml:longitude>-80.40267000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31573" kind="city">
+    <ctml:name>Santa Ana</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Manabí</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-M</ctml:parentRef>
+    <ctml:wikiDataId>Q23871398</ctml:wikiDataId>
+    <ctml:latitude>-1.20726000</ctml:latitude>
+    <ctml:longitude>-80.37132000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31579" kind="admin2">
+    <ctml:name>Sucre</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Manabí</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-M</ctml:parentRef>
+    <ctml:wikiDataId>Q7633158</ctml:wikiDataId>
+    <ctml:latitude>-1.27974000</ctml:latitude>
+    <ctml:longitude>-80.41885000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31582" kind="admin2">
+    <ctml:name>Tosagua</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Manabí</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-M</ctml:parentRef>
+    <ctml:wikiDataId>Q5835883</ctml:wikiDataId>
+    <ctml:latitude>-0.78679000</ctml:latitude>
+    <ctml:longitude>-80.23473000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31508" kind="admin2">
+    <ctml:name>Gualaquiza</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Morona-Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-S</ctml:parentRef>
+    <ctml:wikiDataId>Q5613370</ctml:wikiDataId>
+    <ctml:latitude>-3.40359000</ctml:latitude>
+    <ctml:longitude>-78.58166000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31540" kind="admin2">
+    <ctml:name>Palora</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Morona-Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-S</ctml:parentRef>
+    <ctml:wikiDataId>Q10949718</ctml:wikiDataId>
+    <ctml:latitude>-1.70131000</ctml:latitude>
+    <ctml:longitude>-77.96516000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31580" kind="admin2">
+    <ctml:name>Sucúa</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Morona-Santiago</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-S</ctml:parentRef>
+    <ctml:wikiDataId>Q11041865</ctml:wikiDataId>
+    <ctml:latitude>-2.45866000</ctml:latitude>
+    <ctml:longitude>-78.17171000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31482" kind="city">
+    <ctml:name>Archidona</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Napo</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-N</ctml:parentRef>
+    <ctml:wikiDataId>Q4786593</ctml:wikiDataId>
+    <ctml:latitude>-0.90950000</ctml:latitude>
+    <ctml:longitude>-77.80772000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31490" kind="city">
+    <ctml:name>Boca Suno</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Orellana</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-D</ctml:parentRef>
+    <ctml:wikiDataId>Q23885707</ctml:wikiDataId>
+    <ctml:latitude>-0.69832000</ctml:latitude>
+    <ctml:longitude>-77.14083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31523" kind="city">
+    <ctml:name>Loreto Canton</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Orellana</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-D</ctml:parentRef>
+    <ctml:wikiDataId>Q6669164</ctml:wikiDataId>
+    <ctml:latitude>-0.69487000</ctml:latitude>
+    <ctml:longitude>-77.30255000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31495" kind="admin2">
+    <ctml:name>Cayambe</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Pichincha</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-P</ctml:parentRef>
+    <ctml:wikiDataId>Q1051957</ctml:wikiDataId>
+    <ctml:latitude>0.04084000</ctml:latitude>
+    <ctml:longitude>-78.14524000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31525" kind="admin2">
+    <ctml:name>Machachi</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Pichincha</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-P</ctml:parentRef>
+    <ctml:wikiDataId>Q6723341</ctml:wikiDataId>
+    <ctml:latitude>-0.51011000</ctml:latitude>
+    <ctml:longitude>-78.56712000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31560" kind="city">
+    <ctml:name>Quito</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Pichincha</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-P</ctml:parentRef>
+    <ctml:wikiDataId>Q2900</ctml:wikiDataId>
+    <ctml:latitude>-0.22985000</ctml:latitude>
+    <ctml:longitude>-78.52495000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31572" kind="city">
+    <ctml:name>Sangolquí</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Pichincha</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-P</ctml:parentRef>
+    <ctml:wikiDataId>Q2361658</ctml:wikiDataId>
+    <ctml:latitude>-0.33405000</ctml:latitude>
+    <ctml:longitude>-78.45217000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31516" kind="city">
+    <ctml:name>La Libertad</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Santa Elena</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q1798895</ctml:wikiDataId>
+    <ctml:latitude>-2.23300000</ctml:latitude>
+    <ctml:longitude>-80.91039000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31565" kind="city">
+    <ctml:name>Salinas</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Santa Elena</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q1026284</ctml:wikiDataId>
+    <ctml:latitude>-2.21452000</ctml:latitude>
+    <ctml:longitude>-80.95151000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31489" kind="city">
+    <ctml:name>Baños</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Tungurahua</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-T</ctml:parentRef>
+    <ctml:wikiDataId>Q23885609</ctml:wikiDataId>
+    <ctml:latitude>-1.39699000</ctml:latitude>
+    <ctml:longitude>-78.42289000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31545" kind="admin2">
+    <ctml:name>Pelileo</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Tungurahua</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-T</ctml:parentRef>
+    <ctml:wikiDataId>Q3773723</ctml:wikiDataId>
+    <ctml:latitude>-1.32990000</ctml:latitude>
+    <ctml:longitude>-78.54341000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ECU-31558" kind="city">
+    <ctml:name>Píllaro</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Tungurahua</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-T</ctml:parentRef>
+    <ctml:wikiDataId>Q8215260</ctml:wikiDataId>
+    <ctml:latitude>-1.17414000</ctml:latitude>
+    <ctml:longitude>-78.54676000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ECU-31590" kind="admin2">
+    <ctml:name>Yantzaza</ctml:name>
+    <ctml:country>ECU</ctml:country>
+    <ctml:admin1>Zamora Chinchipe</ctml:admin1>
+    <ctml:parentRef>place:admin1:EC-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q5763412</ctml:wikiDataId>
+    <ctml:latitude>-3.83261000</ctml:latitude>
+    <ctml:longitude>-78.76076000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SLB-102902" kind="city">
+    <ctml:name>Honiara</ctml:name>
+    <ctml:country>SLB</ctml:country>
+    <ctml:admin1>Guadalcanal</ctml:admin1>
+    <ctml:parentRef>place:admin1:SB-GU</ctml:parentRef>
+    <ctml:wikiDataId>Q40921</ctml:wikiDataId>
+    <ctml:latitude>-9.43333000</ctml:latitude>
+    <ctml:longitude>159.95000000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

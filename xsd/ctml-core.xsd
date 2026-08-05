@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:ctml="urn:ctml:2.0"
+  targetNamespace="urn:ctml:2.0"
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified">
+
+  <xs:annotation>
+    <xs:documentation>
+      CTML 2.0 - Core tournament container schema (driver schema).
+      Includes: vocab, names, dates, entities (adds playerRegistry), places
+      (adds placeRegistry), game (adds analysis), events. Validates a single
+      tournament/event record with participants and games.
+
+      Carried over from reference/v1-xsd/ctml-core.xsd with two fixes:
+      - v1 included both ctml-events.xsd directly AND ctml-game.xsd (which
+        did not itself include ctml-events.xsd) -- not broken, but
+        untidy. Here, ctml-core.xsd is the single place that assembles the
+        full module set; ctml.xsd (the umbrella) includes only this file.
+      - GamesType's XSD 1.1 assert (every game's @white != @black) is a true
+        cross-sibling value comparison, which XSD 1.0 cannot express. Moved
+        to the Python import pipeline; see docs/HANDOFF.md.
+    </xs:documentation>
+  </xs:annotation>
+
+  <!-- Include the modules (same targetNamespace) -->
+  <xs:include schemaLocation="ctml-vocab.xsd"/>
+  <xs:include schemaLocation="ctml-names.xsd"/>
+  <xs:include schemaLocation="ctml-dates.xsd"/>
+  <xs:include schemaLocation="ctml-entities.xsd"/>
+  <xs:include schemaLocation="ctml-places.xsd"/>
+  <xs:include schemaLocation="ctml-game.xsd"/>      <!-- pulls in ctml-analysis.xsd -->
+  <xs:include schemaLocation="ctml-events.xsd"/>    <!-- header eventRef -->
+
+  <!-- Root element (tournament document) -->
+  <xs:element name="tournament" type="ctml:TournamentType"/>
+
+  <xs:complexType name="TournamentType">
+    <xs:sequence>
+      <xs:element name="header" type="ctml:TournamentHeaderType"/>
+      <xs:element name="participants" type="ctml:ParticipantsType" minOccurs="0"/>
+      <xs:element name="games" type="ctml:GamesType" minOccurs="0"/>
+      <xs:element name="notes" type="xs:string" minOccurs="0"/>
+      <xs:element name="source" type="ctml:SourceType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+
+    <xs:attribute name="id" type="xs:ID" use="optional"/>
+    <xs:attribute name="ctmlVersion" type="xs:token" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="TournamentHeaderType">
+    <xs:sequence>
+      <xs:element name="name" type="xs:string"/>
+      <!-- Link to the canonical occurrence in the event registry -->
+      <xs:element ref="ctml:eventRef" minOccurs="0"/>
+      <xs:element name="eventType" type="ctml:EventFormatType" minOccurs="0"/>
+      <xs:element name="cadence" type="ctml:EventCadenceType" minOccurs="0"/>
+      <xs:element name="federation" type="ctml:FederationCodeType" minOccurs="0"/>
+
+      <xs:element name="dates" type="ctml:DateRangeType"/>
+      <xs:element ref="ctml:placeRef" minOccurs="0"/>
+      <xs:element name="venue" type="xs:string" minOccurs="0"/>
+
+      <xs:element name="organizers" type="ctml:OrganizerSetType" minOccurs="0"/>
+      <xs:element name="arbiters" type="ctml:ArbiterSetType" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="OrganizerSetType">
+    <xs:sequence>
+      <xs:element name="organizer" type="ctml:NamedPartyType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="ArbiterSetType">
+    <xs:sequence>
+      <xs:element name="arbiter" type="ctml:NamedPartyType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="NamedPartyType">
+    <xs:sequence>
+      <xs:element name="name" type="xs:string"/>
+      <xs:element name="federation" type="ctml:FederationCodeType" minOccurs="0"/>
+      <xs:element name="role" type="xs:string" minOccurs="0"/>
+      <xs:element name="ids" type="ctml:IdentifierSetType" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="ParticipantsType">
+    <xs:sequence>
+      <xs:element name="participant" type="ctml:ParticipantType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="ParticipantType">
+    <xs:sequence>
+      <xs:element ref="ctml:playerRef"/>
+      <xs:element ref="ctml:ratingSnapshot" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="seed" type="xs:positiveInteger" minOccurs="0"/>
+      <xs:element name="score" type="xs:decimal" minOccurs="0"/>
+      <!-- Added 2026-08-05, alongside ctml:nonGame (see GamesType/NonGameType
+           below): the round after which this participant left the event, for
+           sources that record withdrawal as a fact about the participant
+           rather than, or in addition to, a per-round non-game entry.
+           Optional and orthogonal to nonGame: a withdrawal is commonly ALSO
+           recorded as a nonGame kind="withdrawn" for each round the
+           participant missed; this element just names the point of
+           departure once instead of requiring every subsequent round to be
+           enumerated. -->
+      <xs:element name="withdrawnAfterRound" type="ctml:RoundType" minOccurs="0"/>
+      <xs:element name="notes" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+
+    <!-- Local participant id used by games via @white/@black -->
+    <xs:attribute name="id" type="xs:ID" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="GamesType">
+    <xs:sequence>
+      <xs:element ref="ctml:game" minOccurs="0" maxOccurs="unbounded"/>
+      <!-- Added 2026-08-05: round-participant slots that are not a played
+           game between two known opponents (byes, forfeits, withdrawals).
+           See ctml:NonGameType and ctml:NonGameKindType (ctml-vocab.xsd). A
+           scheduled pairing where neither side played is NOT a nonGame; it
+           is an ordinary ctml:game with result="0-0" termination="forfeit",
+           since both participants and the pairing itself are known facts. -->
+      <xs:element name="nonGames" type="ctml:NonGameSetType" minOccurs="0"/>
+    </xs:sequence>
+    <!-- "every game's @white != @black" was an XSD 1.1 assert in v1; a true
+         cross-sibling value comparison, so it is enforced by the Python
+         import pipeline instead of here. -->
+  </xs:complexType>
+
+  <xs:complexType name="NonGameSetType">
+    <xs:sequence>
+      <xs:element name="nonGame" type="ctml:NonGameType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="NonGameType">
+    <!-- One participant's non-game outcome in one round. @opponent is
+         optional and deliberately separate from ctml:game's required
+         @white/@black: a bye by definition has no opponent, and a
+         forfeit-win/forfeit-loss sometimes has a known opponent (who
+         simply didn't show) and sometimes doesn't (the source only says
+         "player X forfeited round 3"). Recording a known opponent here does
+         not promote this into a ctml:game: no moves were played and no
+         board result between two sides was recorded, which is exactly what
+         distinguishes this element from GameType. -->
+    <xs:attribute name="participant" type="xs:IDREF" use="required"/>
+    <xs:attribute name="opponent" type="xs:IDREF" use="optional"/>
+    <xs:attribute name="round" type="ctml:RoundType" use="optional"/>
+    <xs:attribute name="kind" type="ctml:NonGameKindType" use="required"/>
+  </xs:complexType>
+
+</xs:schema>

@@ -1,0 +1,2073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BIH-8230" kind="city">
+    <ctml:name>Brka</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Brčko</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BRC</ctml:parentRef>
+    <ctml:wikiDataId>Q911568</ctml:wikiDataId>
+    <ctml:latitude>44.82837000</ctml:latitude>
+    <ctml:longitude>18.72420000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8217" kind="city">
+    <ctml:name>Banovići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q806935</ctml:wikiDataId>
+    <ctml:latitude>44.40596000</ctml:latitude>
+    <ctml:longitude>18.52648000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8218" kind="city">
+    <ctml:name>Barice</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q806935</ctml:wikiDataId>
+    <ctml:latitude>44.54065000</ctml:latitude>
+    <ctml:longitude>18.48069000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8219" kind="admin2">
+    <ctml:name>Bihać</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q204434</ctml:wikiDataId>
+    <ctml:latitude>44.81694000</ctml:latitude>
+    <ctml:longitude>15.87083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8220" kind="city">
+    <ctml:name>Bijela</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q2902487</ctml:wikiDataId>
+    <ctml:latitude>43.60871000</ctml:latitude>
+    <ctml:longitude>17.95078000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8222" kind="city">
+    <ctml:name>Bila</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q207801</ctml:wikiDataId>
+    <ctml:latitude>43.78265000</ctml:latitude>
+    <ctml:longitude>16.92676000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8224" kind="city">
+    <ctml:name>Blagaj</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1277723</ctml:wikiDataId>
+    <ctml:latitude>43.25892000</ctml:latitude>
+    <ctml:longitude>17.88815000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8226" kind="city">
+    <ctml:name>Bosanska Krupa</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q841411</ctml:wikiDataId>
+    <ctml:latitude>44.88250000</ctml:latitude>
+    <ctml:longitude>16.15139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8227" kind="city">
+    <ctml:name>Bosanski Petrovac</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q894348</ctml:wikiDataId>
+    <ctml:latitude>44.55537000</ctml:latitude>
+    <ctml:longitude>16.36897000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8228" kind="city">
+    <ctml:name>Bosansko Grahovo</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q894349</ctml:wikiDataId>
+    <ctml:latitude>44.17944000</ctml:latitude>
+    <ctml:longitude>16.36389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8229" kind="city">
+    <ctml:name>Breza</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q911568</ctml:wikiDataId>
+    <ctml:latitude>44.01862000</ctml:latitude>
+    <ctml:longitude>18.26063000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8234" kind="city">
+    <ctml:name>Bugojno</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q934612</ctml:wikiDataId>
+    <ctml:latitude>44.05722000</ctml:latitude>
+    <ctml:longitude>17.45083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8235" kind="city">
+    <ctml:name>Busovača</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q612603</ctml:wikiDataId>
+    <ctml:latitude>44.09769000</ctml:latitude>
+    <ctml:longitude>17.87830000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8236" kind="city">
+    <ctml:name>Bužim</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1017912</ctml:wikiDataId>
+    <ctml:latitude>45.05361000</ctml:latitude>
+    <ctml:longitude>16.03254000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8431" kind="city">
+    <ctml:name>Čapljina</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q231517</ctml:wikiDataId>
+    <ctml:latitude>43.12139000</ctml:latitude>
+    <ctml:longitude>17.68444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8237" kind="city">
+    <ctml:name>Cazin</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q994203</ctml:wikiDataId>
+    <ctml:latitude>44.96694000</ctml:latitude>
+    <ctml:longitude>15.94306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8433" kind="city">
+    <ctml:name>Čelić</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q231517</ctml:wikiDataId>
+    <ctml:latitude>44.72524000</ctml:latitude>
+    <ctml:longitude>18.81474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8238" kind="city">
+    <ctml:name>Cim</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q994203</ctml:wikiDataId>
+    <ctml:latitude>43.35401000</ctml:latitude>
+    <ctml:longitude>17.78045000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8435" kind="city">
+    <ctml:name>Čitluk</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q8079790</ctml:wikiDataId>
+    <ctml:latitude>43.22861000</ctml:latitude>
+    <ctml:longitude>17.70083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8429" kind="city">
+    <ctml:name>Ćoralići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q231517</ctml:wikiDataId>
+    <ctml:latitude>45.00694000</ctml:latitude>
+    <ctml:longitude>15.87194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8239" kind="city">
+    <ctml:name>Crnići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q994203</ctml:wikiDataId>
+    <ctml:latitude>43.13156000</ctml:latitude>
+    <ctml:longitude>17.86452000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8241" kind="city">
+    <ctml:name>Divičani</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3032430</ctml:wikiDataId>
+    <ctml:latitude>44.36682000</ctml:latitude>
+    <ctml:longitude>17.32678000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8243" kind="city">
+    <ctml:name>Dobrinje</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q21717056</ctml:wikiDataId>
+    <ctml:latitude>44.05008000</ctml:latitude>
+    <ctml:longitude>18.11958000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8245" kind="city">
+    <ctml:name>Domaljevac</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3033365</ctml:wikiDataId>
+    <ctml:latitude>45.06110000</ctml:latitude>
+    <ctml:longitude>18.58612000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8246" kind="city">
+    <ctml:name>Donja Dubica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3036333</ctml:wikiDataId>
+    <ctml:latitude>45.07559000</ctml:latitude>
+    <ctml:longitude>18.41023000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8247" kind="city">
+    <ctml:name>Donja Mahala</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1256607</ctml:wikiDataId>
+    <ctml:latitude>45.04327000</ctml:latitude>
+    <ctml:longitude>18.66996000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8248" kind="city">
+    <ctml:name>Donja Međiđa</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3036371</ctml:wikiDataId>
+    <ctml:latitude>44.80235000</ctml:latitude>
+    <ctml:longitude>18.40477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8249" kind="city">
+    <ctml:name>Donji Vakuf</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1017938</ctml:wikiDataId>
+    <ctml:latitude>44.14361000</ctml:latitude>
+    <ctml:longitude>17.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8250" kind="city">
+    <ctml:name>Drežnica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1017938</ctml:wikiDataId>
+    <ctml:latitude>43.52891000</ctml:latitude>
+    <ctml:longitude>17.28120000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8251" kind="city">
+    <ctml:name>Drinovci</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1278437</ctml:wikiDataId>
+    <ctml:latitude>43.35454000</ctml:latitude>
+    <ctml:longitude>17.32536000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8252" kind="city">
+    <ctml:name>Drvar</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q762884</ctml:wikiDataId>
+    <ctml:latitude>44.37389000</ctml:latitude>
+    <ctml:longitude>16.38083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8253" kind="city">
+    <ctml:name>Dubrave Donje</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3040627</ctml:wikiDataId>
+    <ctml:latitude>44.48060000</ctml:latitude>
+    <ctml:longitude>18.69709000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8254" kind="city">
+    <ctml:name>Dubrave Gornje</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3040628</ctml:wikiDataId>
+    <ctml:latitude>44.47229000</ctml:latitude>
+    <ctml:longitude>18.72685000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8255" kind="city">
+    <ctml:name>Dubravica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3040628</ctml:wikiDataId>
+    <ctml:latitude>44.44131000</ctml:latitude>
+    <ctml:longitude>18.11883000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8257" kind="city">
+    <ctml:name>Fojnica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3041862</ctml:wikiDataId>
+    <ctml:latitude>43.95952000</ctml:latitude>
+    <ctml:longitude>17.90288000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8260" kind="city">
+    <ctml:name>Glamoč</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1017615</ctml:wikiDataId>
+    <ctml:latitude>44.04583000</ctml:latitude>
+    <ctml:longitude>16.84861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8261" kind="city">
+    <ctml:name>Gnojnica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1017615</ctml:wikiDataId>
+    <ctml:latitude>44.62058000</ctml:latitude>
+    <ctml:longitude>18.44684000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8262" kind="admin2">
+    <ctml:name>Goražde</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q504058</ctml:wikiDataId>
+    <ctml:latitude>43.66795000</ctml:latitude>
+    <ctml:longitude>18.97564000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8263" kind="city">
+    <ctml:name>Gorica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q504058</ctml:wikiDataId>
+    <ctml:latitude>43.41833000</ctml:latitude>
+    <ctml:longitude>17.28500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8264" kind="city">
+    <ctml:name>Gornja Breza</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3111106</ctml:wikiDataId>
+    <ctml:latitude>44.03758000</ctml:latitude>
+    <ctml:longitude>18.24564000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8265" kind="city">
+    <ctml:name>Gornja Koprivna</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3111122</ctml:wikiDataId>
+    <ctml:latitude>45.01091000</ctml:latitude>
+    <ctml:longitude>15.95487000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8266" kind="city">
+    <ctml:name>Gornja Tuzla</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3026538</ctml:wikiDataId>
+    <ctml:latitude>44.55659000</ctml:latitude>
+    <ctml:longitude>18.76159000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8267" kind="city">
+    <ctml:name>Gornje Moštre</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3111206</ctml:wikiDataId>
+    <ctml:latitude>44.01911000</ctml:latitude>
+    <ctml:longitude>18.15477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8268" kind="city">
+    <ctml:name>Gornje Živinice</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3111206</ctml:wikiDataId>
+    <ctml:latitude>44.42921000</ctml:latitude>
+    <ctml:longitude>18.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8269" kind="city">
+    <ctml:name>Gornji Vakuf</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q924098</ctml:wikiDataId>
+    <ctml:latitude>43.93806000</ctml:latitude>
+    <ctml:longitude>17.58833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8270" kind="city">
+    <ctml:name>Gostovići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q924098</ctml:wikiDataId>
+    <ctml:latitude>44.41124000</ctml:latitude>
+    <ctml:longitude>18.17029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8273" kind="city">
+    <ctml:name>Gračanica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q4843326</ctml:wikiDataId>
+    <ctml:latitude>43.73333000</ctml:latitude>
+    <ctml:longitude>18.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8271" kind="city">
+    <ctml:name>Gradačac</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q924098</ctml:wikiDataId>
+    <ctml:latitude>44.87851000</ctml:latitude>
+    <ctml:longitude>18.42764000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8274" kind="city">
+    <ctml:name>Gromiljak</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3039971</ctml:wikiDataId>
+    <ctml:latitude>43.96668000</ctml:latitude>
+    <ctml:longitude>18.05504000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8275" kind="city">
+    <ctml:name>Grude</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3039971</ctml:wikiDataId>
+    <ctml:latitude>43.37208000</ctml:latitude>
+    <ctml:longitude>17.41449000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8276" kind="city">
+    <ctml:name>Hadžići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q939528</ctml:wikiDataId>
+    <ctml:latitude>43.82222000</ctml:latitude>
+    <ctml:longitude>18.20667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8277" kind="admin2">
+    <ctml:name>Hercegovačko-Neretvanski Kanton</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q18273</ctml:wikiDataId>
+    <ctml:latitude>43.45722000</ctml:latitude>
+    <ctml:longitude>17.81250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8279" kind="city">
+    <ctml:name>Hotonj</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3129606</ctml:wikiDataId>
+    <ctml:latitude>43.89341000</ctml:latitude>
+    <ctml:longitude>18.37751000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8281" kind="city">
+    <ctml:name>Ilići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3148686</ctml:wikiDataId>
+    <ctml:latitude>43.34765000</ctml:latitude>
+    <ctml:longitude>17.76848000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8280" kind="city">
+    <ctml:name>Ilijaš</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q583396</ctml:wikiDataId>
+    <ctml:latitude>43.95128000</ctml:latitude>
+    <ctml:longitude>18.27128000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8283" kind="city">
+    <ctml:name>Izačić</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3116283</ctml:wikiDataId>
+    <ctml:latitude>44.87485000</ctml:latitude>
+    <ctml:longitude>15.78256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8284" kind="city">
+    <ctml:name>Jablanica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q994232</ctml:wikiDataId>
+    <ctml:latitude>43.66028000</ctml:latitude>
+    <ctml:longitude>17.76167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8285" kind="city">
+    <ctml:name>Jajce</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q258429</ctml:wikiDataId>
+    <ctml:latitude>44.34203000</ctml:latitude>
+    <ctml:longitude>17.27059000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8287" kind="city">
+    <ctml:name>Jelah</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1280373</ctml:wikiDataId>
+    <ctml:latitude>44.65400000</ctml:latitude>
+    <ctml:longitude>17.95897000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8288" kind="city">
+    <ctml:name>Jezerski</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1280373</ctml:wikiDataId>
+    <ctml:latitude>44.98172000</ctml:latitude>
+    <ctml:longitude>16.09447000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8293" kind="city">
+    <ctml:name>Kačuni</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3194540</ctml:wikiDataId>
+    <ctml:latitude>44.06433000</ctml:latitude>
+    <ctml:longitude>17.93894000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8289" kind="city">
+    <ctml:name>Kakanj</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q963038</ctml:wikiDataId>
+    <ctml:latitude>44.13311000</ctml:latitude>
+    <ctml:longitude>18.12292000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8291" kind="city">
+    <ctml:name>Kanton Sarajevo</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q18276</ctml:wikiDataId>
+    <ctml:latitude>43.84333000</ctml:latitude>
+    <ctml:longitude>18.24222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8292" kind="city">
+    <ctml:name>Karadaglije</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3192906</ctml:wikiDataId>
+    <ctml:latitude>44.57065000</ctml:latitude>
+    <ctml:longitude>18.01775000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8294" kind="city">
+    <ctml:name>Kiseljak</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q2513015</ctml:wikiDataId>
+    <ctml:latitude>44.48904000</ctml:latitude>
+    <ctml:longitude>18.56982000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8295" kind="city">
+    <ctml:name>Kladanj</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q2513015</ctml:wikiDataId>
+    <ctml:latitude>44.22669000</ctml:latitude>
+    <ctml:longitude>18.69274000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8296" kind="city">
+    <ctml:name>Ključ</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q279995</ctml:wikiDataId>
+    <ctml:latitude>44.53251000</ctml:latitude>
+    <ctml:longitude>16.77682000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8299" kind="city">
+    <ctml:name>Kobilja Glava</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3130339</ctml:wikiDataId>
+    <ctml:latitude>43.88188000</ctml:latitude>
+    <ctml:longitude>18.38864000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8306" kind="city">
+    <ctml:name>Kočerin</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3025567</ctml:wikiDataId>
+    <ctml:latitude>43.39005000</ctml:latitude>
+    <ctml:longitude>17.48552000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8300" kind="city">
+    <ctml:name>Konjic</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3130339</ctml:wikiDataId>
+    <ctml:latitude>43.65126000</ctml:latitude>
+    <ctml:longitude>17.96082000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8304" kind="city">
+    <ctml:name>Kovači</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1017897</ctml:wikiDataId>
+    <ctml:latitude>44.44874000</ctml:latitude>
+    <ctml:longitude>18.20521000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8310" kind="city">
+    <ctml:name>Liješnica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3039520</ctml:wikiDataId>
+    <ctml:latitude>44.49497000</ctml:latitude>
+    <ctml:longitude>18.07644000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8311" kind="admin2">
+    <ctml:name>Livno</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q746073</ctml:wikiDataId>
+    <ctml:latitude>43.82695000</ctml:latitude>
+    <ctml:longitude>17.00746000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8313" kind="city">
+    <ctml:name>Ljubuški</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q936404</ctml:wikiDataId>
+    <ctml:latitude>43.19694000</ctml:latitude>
+    <ctml:longitude>17.54500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8314" kind="city">
+    <ctml:name>Lokvine</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3258745</ctml:wikiDataId>
+    <ctml:latitude>44.20466000</ctml:latitude>
+    <ctml:longitude>17.85665000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8316" kind="city">
+    <ctml:name>Lukavac</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1017976</ctml:wikiDataId>
+    <ctml:latitude>44.54245000</ctml:latitude>
+    <ctml:longitude>18.52618000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8317" kind="city">
+    <ctml:name>Lukavica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3120593</ctml:wikiDataId>
+    <ctml:latitude>44.76452000</ctml:latitude>
+    <ctml:longitude>18.16887000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8318" kind="city">
+    <ctml:name>Maglaj</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q967813</ctml:wikiDataId>
+    <ctml:latitude>44.54771000</ctml:latitude>
+    <ctml:longitude>18.10003000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8320" kind="city">
+    <ctml:name>Mahala</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3124439</ctml:wikiDataId>
+    <ctml:latitude>44.01194000</ctml:latitude>
+    <ctml:longitude>18.25528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8321" kind="city">
+    <ctml:name>Mala Kladuša</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3281109</ctml:wikiDataId>
+    <ctml:latitude>45.13443000</ctml:latitude>
+    <ctml:longitude>15.85217000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8322" kind="city">
+    <ctml:name>Malešići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3120668</ctml:wikiDataId>
+    <ctml:latitude>44.73824000</ctml:latitude>
+    <ctml:longitude>18.27335000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8327" kind="city">
+    <ctml:name>Mionica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1254473</ctml:wikiDataId>
+    <ctml:latitude>44.86646000</ctml:latitude>
+    <ctml:longitude>18.46603000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8329" kind="admin2">
+    <ctml:name>Mostar</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q93347</ctml:wikiDataId>
+    <ctml:latitude>43.34333000</ctml:latitude>
+    <ctml:longitude>17.80806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8330" kind="city">
+    <ctml:name>Mramor</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q93347</ctml:wikiDataId>
+    <ctml:latitude>44.59234000</ctml:latitude>
+    <ctml:longitude>18.56458000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8332" kind="city">
+    <ctml:name>Neum</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q320623</ctml:wikiDataId>
+    <ctml:latitude>42.92333000</ctml:latitude>
+    <ctml:longitude>17.61556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8336" kind="city">
+    <ctml:name>Novi Šeher</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3129223</ctml:wikiDataId>
+    <ctml:latitude>44.51031000</ctml:latitude>
+    <ctml:longitude>18.02624000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8335" kind="city">
+    <ctml:name>Novi Travnik</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1017907</ctml:wikiDataId>
+    <ctml:latitude>44.17133000</ctml:latitude>
+    <ctml:longitude>17.65816000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8338" kind="city">
+    <ctml:name>Odžak</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q994167</ctml:wikiDataId>
+    <ctml:latitude>45.02461000</ctml:latitude>
+    <ctml:longitude>18.32107000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8339" kind="city">
+    <ctml:name>Olovo</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q994167</ctml:wikiDataId>
+    <ctml:latitude>44.12770000</ctml:latitude>
+    <ctml:longitude>18.58065000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8340" kind="city">
+    <ctml:name>Omanjska</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q994167</ctml:wikiDataId>
+    <ctml:latitude>44.69831000</ctml:latitude>
+    <ctml:longitude>17.95757000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8344" kind="city">
+    <ctml:name>Orahovica Donja</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1280321</ctml:wikiDataId>
+    <ctml:latitude>44.65345000</ctml:latitude>
+    <ctml:longitude>18.36951000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8345" kind="city">
+    <ctml:name>Orašac</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1280321</ctml:wikiDataId>
+    <ctml:latitude>44.63039000</ctml:latitude>
+    <ctml:longitude>16.07443000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8346" kind="admin2">
+    <ctml:name>Orašje</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1280321</ctml:wikiDataId>
+    <ctml:latitude>45.03366000</ctml:latitude>
+    <ctml:longitude>18.69334000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8347" kind="city">
+    <ctml:name>Orguz</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3042786</ctml:wikiDataId>
+    <ctml:latitude>43.77414000</ctml:latitude>
+    <ctml:longitude>16.86329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8348" kind="city">
+    <ctml:name>Ostrožac</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3039456</ctml:wikiDataId>
+    <ctml:latitude>44.90866000</ctml:latitude>
+    <ctml:longitude>15.94045000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8349" kind="city">
+    <ctml:name>Otoka</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3048630</ctml:wikiDataId>
+    <ctml:latitude>44.96000000</ctml:latitude>
+    <ctml:longitude>16.17917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8351" kind="city">
+    <ctml:name>Pajić Polje</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3037543</ctml:wikiDataId>
+    <ctml:latitude>43.97583000</ctml:latitude>
+    <ctml:longitude>17.52750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8353" kind="city">
+    <ctml:name>Pazarić</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3130171</ctml:wikiDataId>
+    <ctml:latitude>43.78882000</ctml:latitude>
+    <ctml:longitude>18.16049000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8356" kind="city">
+    <ctml:name>Peći</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3038550</ctml:wikiDataId>
+    <ctml:latitude>44.63139000</ctml:latitude>
+    <ctml:longitude>16.78250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8357" kind="city">
+    <ctml:name>Pećigrad</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3377900</ctml:wikiDataId>
+    <ctml:latitude>45.05444000</ctml:latitude>
+    <ctml:longitude>15.89694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8359" kind="city">
+    <ctml:name>Pjanići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3389647</ctml:wikiDataId>
+    <ctml:latitude>44.98568000</ctml:latitude>
+    <ctml:longitude>15.82304000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8361" kind="city">
+    <ctml:name>Podhum</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3389647</ctml:wikiDataId>
+    <ctml:latitude>43.72295000</ctml:latitude>
+    <ctml:longitude>16.99887000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8362" kind="city">
+    <ctml:name>Podzvizd</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3393154</ctml:wikiDataId>
+    <ctml:latitude>45.17417000</ctml:latitude>
+    <ctml:longitude>15.87361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8363" kind="city">
+    <ctml:name>Polje</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3393154</ctml:wikiDataId>
+    <ctml:latitude>43.88014000</ctml:latitude>
+    <ctml:longitude>18.07452000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8364" kind="city">
+    <ctml:name>Polje-Bijela</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3393154</ctml:wikiDataId>
+    <ctml:latitude>43.63299000</ctml:latitude>
+    <ctml:longitude>17.97216000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8366" kind="city">
+    <ctml:name>Potoci</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3113096</ctml:wikiDataId>
+    <ctml:latitude>43.40953000</ctml:latitude>
+    <ctml:longitude>17.87855000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8370" kind="city">
+    <ctml:name>Prozor</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q323986</ctml:wikiDataId>
+    <ctml:latitude>43.82222000</ctml:latitude>
+    <ctml:longitude>17.60917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8371" kind="city">
+    <ctml:name>Puračić</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3119184</ctml:wikiDataId>
+    <ctml:latitude>44.54562000</ctml:latitude>
+    <ctml:longitude>18.47865000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8372" kind="city">
+    <ctml:name>Radišići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3040866</ctml:wikiDataId>
+    <ctml:latitude>43.22302000</ctml:latitude>
+    <ctml:longitude>17.54056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8373" kind="city">
+    <ctml:name>Rodoč</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3035854</ctml:wikiDataId>
+    <ctml:latitude>43.31453000</ctml:latitude>
+    <ctml:longitude>17.80290000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8376" kind="city">
+    <ctml:name>Rumboci</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3453154</ctml:wikiDataId>
+    <ctml:latitude>43.83154000</ctml:latitude>
+    <ctml:longitude>17.50273000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8377" kind="city">
+    <ctml:name>Sanica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1020920</ctml:wikiDataId>
+    <ctml:latitude>44.61354000</ctml:latitude>
+    <ctml:longitude>16.64062000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8378" kind="city">
+    <ctml:name>Sanski Most</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1020920</ctml:wikiDataId>
+    <ctml:latitude>44.76670000</ctml:latitude>
+    <ctml:longitude>16.66700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8379" kind="city">
+    <ctml:name>Sapna</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1754436</ctml:wikiDataId>
+    <ctml:latitude>44.50380000</ctml:latitude>
+    <ctml:longitude>18.99818000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8380" kind="city">
+    <ctml:name>Sarajevo</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q11194</ctml:wikiDataId>
+    <ctml:latitude>43.84864000</ctml:latitude>
+    <ctml:longitude>18.35644000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8438" kind="city">
+    <ctml:name>Šerići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q586566</ctml:wikiDataId>
+    <ctml:latitude>44.46674000</ctml:latitude>
+    <ctml:longitude>18.56370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8440" kind="admin2">
+    <ctml:name>Široki Brijeg</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q391729</ctml:wikiDataId>
+    <ctml:latitude>43.38290000</ctml:latitude>
+    <ctml:longitude>17.59416000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8381" kind="city">
+    <ctml:name>Skokovi</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3486347</ctml:wikiDataId>
+    <ctml:latitude>45.03139000</ctml:latitude>
+    <ctml:longitude>15.91444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8382" kind="city">
+    <ctml:name>Sladna</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3118302</ctml:wikiDataId>
+    <ctml:latitude>44.72897000</ctml:latitude>
+    <ctml:longitude>18.42575000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8384" kind="city">
+    <ctml:name>Solina</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q180755</ctml:wikiDataId>
+    <ctml:latitude>44.56226000</ctml:latitude>
+    <ctml:longitude>18.69322000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8387" kind="city">
+    <ctml:name>Srebrenik</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q156053</ctml:wikiDataId>
+    <ctml:latitude>44.70819000</ctml:latitude>
+    <ctml:longitude>18.48834000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8390" kind="city">
+    <ctml:name>Stijena</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1280363</ctml:wikiDataId>
+    <ctml:latitude>44.93630000</ctml:latitude>
+    <ctml:longitude>16.02224000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8391" kind="city">
+    <ctml:name>Stjepan-Polje</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3120688</ctml:wikiDataId>
+    <ctml:latitude>44.71634000</ctml:latitude>
+    <ctml:longitude>18.25783000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8392" kind="city">
+    <ctml:name>Stolac</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1026587</ctml:wikiDataId>
+    <ctml:latitude>43.08400000</ctml:latitude>
+    <ctml:longitude>17.95995000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8441" kind="city">
+    <ctml:name>Šturlić</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q539033</ctml:wikiDataId>
+    <ctml:latitude>45.06389000</ctml:latitude>
+    <ctml:longitude>15.77806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8442" kind="city">
+    <ctml:name>Šumatac</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3507166</ctml:wikiDataId>
+    <ctml:latitude>45.09743000</ctml:latitude>
+    <ctml:longitude>15.85818000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8394" kind="city">
+    <ctml:name>Tasovčići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q953826</ctml:wikiDataId>
+    <ctml:latitude>43.11333000</ctml:latitude>
+    <ctml:longitude>17.72000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8396" kind="city">
+    <ctml:name>Tešanj</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q953826</ctml:wikiDataId>
+    <ctml:latitude>44.61191000</ctml:latitude>
+    <ctml:longitude>17.98552000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8397" kind="city">
+    <ctml:name>Tešanjka</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q953826</ctml:wikiDataId>
+    <ctml:latitude>44.67228000</ctml:latitude>
+    <ctml:longitude>18.01109000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8398" kind="city">
+    <ctml:name>Todorovo</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q953826</ctml:wikiDataId>
+    <ctml:latitude>45.08833000</ctml:latitude>
+    <ctml:longitude>15.93083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8399" kind="city">
+    <ctml:name>Tojšići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3122331</ctml:wikiDataId>
+    <ctml:latitude>44.50133000</ctml:latitude>
+    <ctml:longitude>18.78523000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8400" kind="admin2">
+    <ctml:name>Tomislavgrad</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q998961</ctml:wikiDataId>
+    <ctml:latitude>43.71849000</ctml:latitude>
+    <ctml:longitude>17.22515000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8401" kind="admin2">
+    <ctml:name>Travnik</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q159818</ctml:wikiDataId>
+    <ctml:latitude>44.22637000</ctml:latitude>
+    <ctml:longitude>17.66583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8404" kind="city">
+    <ctml:name>Tržačka Raštela</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q427932</ctml:wikiDataId>
+    <ctml:latitude>44.97597000</ctml:latitude>
+    <ctml:longitude>15.78489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8405" kind="city">
+    <ctml:name>Turbe</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1017935</ctml:wikiDataId>
+    <ctml:latitude>44.24352000</ctml:latitude>
+    <ctml:longitude>17.57499000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8406" kind="admin2">
+    <ctml:name>Tuzla</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q174684</ctml:wikiDataId>
+    <ctml:latitude>44.53842000</ctml:latitude>
+    <ctml:longitude>18.66709000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8408" kind="city">
+    <ctml:name>Ustikolina</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q174684</ctml:wikiDataId>
+    <ctml:latitude>43.58338000</ctml:latitude>
+    <ctml:longitude>18.79106000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8409" kind="city">
+    <ctml:name>Vareš</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1017965</ctml:wikiDataId>
+    <ctml:latitude>44.16444000</ctml:latitude>
+    <ctml:longitude>18.32833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8410" kind="city">
+    <ctml:name>Varoška Rijeka</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3182475</ctml:wikiDataId>
+    <ctml:latitude>45.08936000</ctml:latitude>
+    <ctml:longitude>16.01906000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8411" kind="city">
+    <ctml:name>Velagići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3115919</ctml:wikiDataId>
+    <ctml:latitude>44.55618000</ctml:latitude>
+    <ctml:longitude>16.73349000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8412" kind="city">
+    <ctml:name>Velika Kladuša</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q994287</ctml:wikiDataId>
+    <ctml:latitude>45.18497000</ctml:latitude>
+    <ctml:longitude>15.80579000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8414" kind="city">
+    <ctml:name>Vidoši</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1017898</ctml:wikiDataId>
+    <ctml:latitude>43.77139000</ctml:latitude>
+    <ctml:longitude>17.02833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8415" kind="city">
+    <ctml:name>Visoko</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q193229</ctml:wikiDataId>
+    <ctml:latitude>43.98889000</ctml:latitude>
+    <ctml:longitude>18.17806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8416" kind="city">
+    <ctml:name>Vitez</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1018006</ctml:wikiDataId>
+    <ctml:latitude>44.15424000</ctml:latitude>
+    <ctml:longitude>17.79009000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8417" kind="city">
+    <ctml:name>Vitina</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3119141</ctml:wikiDataId>
+    <ctml:latitude>43.23750000</ctml:latitude>
+    <ctml:longitude>17.48389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8420" kind="city">
+    <ctml:name>Vogošća</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1017988</ctml:wikiDataId>
+    <ctml:latitude>43.90225000</ctml:latitude>
+    <ctml:longitude>18.34438000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8421" kind="city">
+    <ctml:name>Voljevac</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1017988</ctml:wikiDataId>
+    <ctml:latitude>43.87873000</ctml:latitude>
+    <ctml:longitude>17.65861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8422" kind="city">
+    <ctml:name>Vrnograč</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3118032</ctml:wikiDataId>
+    <ctml:latitude>45.16369000</ctml:latitude>
+    <ctml:longitude>15.95444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8423" kind="city">
+    <ctml:name>Vukovije Donje</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q3118849</ctml:wikiDataId>
+    <ctml:latitude>44.46209000</ctml:latitude>
+    <ctml:longitude>18.74941000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8424" kind="city">
+    <ctml:name>Zabrišće</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q284257</ctml:wikiDataId>
+    <ctml:latitude>43.79224000</ctml:latitude>
+    <ctml:longitude>16.94224000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8425" kind="city">
+    <ctml:name>Zavidovići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q284257</ctml:wikiDataId>
+    <ctml:latitude>44.44583000</ctml:latitude>
+    <ctml:longitude>18.14972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8426" kind="city">
+    <ctml:name>Zborište</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q284257</ctml:wikiDataId>
+    <ctml:latitude>45.14593000</ctml:latitude>
+    <ctml:longitude>16.01728000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8443" kind="city">
+    <ctml:name>Željezno Polje</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q1256550</ctml:wikiDataId>
+    <ctml:latitude>44.39875000</ctml:latitude>
+    <ctml:longitude>17.94103000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8427" kind="admin2">
+    <ctml:name>Zenica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q184046</ctml:wikiDataId>
+    <ctml:latitude>44.20169000</ctml:latitude>
+    <ctml:longitude>17.90397000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8444" kind="city">
+    <ctml:name>Žepče</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q393860</ctml:wikiDataId>
+    <ctml:latitude>44.42667000</ctml:latitude>
+    <ctml:longitude>18.03778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8445" kind="city">
+    <ctml:name>Živinice</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Federation of Bosnia and Herzegovina</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-BIH</ctml:parentRef>
+    <ctml:wikiDataId>Q394166</ctml:wikiDataId>
+    <ctml:latitude>44.44929000</ctml:latitude>
+    <ctml:longitude>18.64978000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8215" kind="city">
+    <ctml:name>Balatun</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q2880588</ctml:wikiDataId>
+    <ctml:latitude>44.86332000</ctml:latitude>
+    <ctml:longitude>19.33931000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8221" kind="city">
+    <ctml:name>Bijeljina</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q207801</ctml:wikiDataId>
+    <ctml:latitude>44.76583000</ctml:latitude>
+    <ctml:longitude>19.15083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8223" kind="admin2">
+    <ctml:name>Bileća</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q861772</ctml:wikiDataId>
+    <ctml:latitude>42.87645000</ctml:latitude>
+    <ctml:longitude>18.42967000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8225" kind="city">
+    <ctml:name>Blatnica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q1277723</ctml:wikiDataId>
+    <ctml:latitude>44.48677000</ctml:latitude>
+    <ctml:longitude>17.82278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8231" kind="admin2">
+    <ctml:name>Brod</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q911568</ctml:wikiDataId>
+    <ctml:latitude>45.13747000</ctml:latitude>
+    <ctml:longitude>17.98722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8232" kind="city">
+    <ctml:name>Bronzani Majdan</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q2926105</ctml:wikiDataId>
+    <ctml:latitude>44.79237000</ctml:latitude>
+    <ctml:longitude>16.94039000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8430" kind="admin2">
+    <ctml:name>Čajniče</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q231517</ctml:wikiDataId>
+    <ctml:latitude>43.55712000</ctml:latitude>
+    <ctml:longitude>19.07186000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8434" kind="city">
+    <ctml:name>Čečava</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q524284</ctml:wikiDataId>
+    <ctml:latitude>44.67961000</ctml:latitude>
+    <ctml:longitude>17.75780000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8432" kind="city">
+    <ctml:name>Čelinac</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q231517</ctml:wikiDataId>
+    <ctml:latitude>44.72453000</ctml:latitude>
+    <ctml:longitude>17.32431000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8240" kind="admin2">
+    <ctml:name>Derventa</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q768439</ctml:wikiDataId>
+    <ctml:latitude>44.97839000</ctml:latitude>
+    <ctml:longitude>17.90779000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8242" kind="city">
+    <ctml:name>Doboj</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q169247</ctml:wikiDataId>
+    <ctml:latitude>44.75944000</ctml:latitude>
+    <ctml:longitude>18.06500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8244" kind="city">
+    <ctml:name>Dobrljin</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3033365</ctml:wikiDataId>
+    <ctml:latitude>45.15106000</ctml:latitude>
+    <ctml:longitude>16.47869000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8256" kind="city">
+    <ctml:name>Dvorovi</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3041862</ctml:wikiDataId>
+    <ctml:latitude>44.80753000</ctml:latitude>
+    <ctml:longitude>19.25999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8258" kind="admin2">
+    <ctml:name>Foča</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q180333</ctml:wikiDataId>
+    <ctml:latitude>43.50646000</ctml:latitude>
+    <ctml:longitude>18.77854000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8259" kind="admin2">
+    <ctml:name>Gacko</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q168991</ctml:wikiDataId>
+    <ctml:latitude>43.16722000</ctml:latitude>
+    <ctml:longitude>18.53528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8272" kind="admin2">
+    <ctml:name>Gradiška</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q180731</ctml:wikiDataId>
+    <ctml:latitude>45.14484000</ctml:latitude>
+    <ctml:longitude>17.25453000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8278" kind="city">
+    <ctml:name>Hiseti</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q18273</ctml:wikiDataId>
+    <ctml:latitude>44.76111000</ctml:latitude>
+    <ctml:longitude>17.17944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8282" kind="city">
+    <ctml:name>Istočni Mostar</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q932546</ctml:wikiDataId>
+    <ctml:latitude>43.42056000</ctml:latitude>
+    <ctml:longitude>18.00833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8286" kind="city">
+    <ctml:name>Janja</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q2744414</ctml:wikiDataId>
+    <ctml:latitude>44.66554000</ctml:latitude>
+    <ctml:longitude>19.24691000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8290" kind="city">
+    <ctml:name>Kalenderovci Donji</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q2987685</ctml:wikiDataId>
+    <ctml:latitude>44.94673000</ctml:latitude>
+    <ctml:longitude>17.83785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8297" kind="admin2">
+    <ctml:name>Kneževo</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q279995</ctml:wikiDataId>
+    <ctml:latitude>44.49071000</ctml:latitude>
+    <ctml:longitude>17.38161000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8298" kind="city">
+    <ctml:name>Knežica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3118091</ctml:wikiDataId>
+    <ctml:latitude>45.10548000</ctml:latitude>
+    <ctml:longitude>16.67668000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8301" kind="city">
+    <ctml:name>Koran</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3130339</ctml:wikiDataId>
+    <ctml:latitude>43.81038000</ctml:latitude>
+    <ctml:longitude>18.56999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8302" kind="admin2">
+    <ctml:name>Kostajnica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q1017897</ctml:wikiDataId>
+    <ctml:latitude>45.21956000</ctml:latitude>
+    <ctml:longitude>16.53929000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8303" kind="admin2">
+    <ctml:name>Kotor Varoš</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q1017897</ctml:wikiDataId>
+    <ctml:latitude>44.61831000</ctml:latitude>
+    <ctml:longitude>17.37204000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8305" kind="admin2">
+    <ctml:name>Kozarska Dubica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q180290</ctml:wikiDataId>
+    <ctml:latitude>45.17667000</ctml:latitude>
+    <ctml:longitude>16.80944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8307" kind="city">
+    <ctml:name>Krupa na Vrbasu</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3115436</ctml:wikiDataId>
+    <ctml:latitude>44.61875000</ctml:latitude>
+    <ctml:longitude>17.14351000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8308" kind="admin2">
+    <ctml:name>Laktaši</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3115436</ctml:wikiDataId>
+    <ctml:latitude>44.90857000</ctml:latitude>
+    <ctml:longitude>17.30135000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8309" kind="city">
+    <ctml:name>Lamovita</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3039520</ctml:wikiDataId>
+    <ctml:latitude>44.92018000</ctml:latitude>
+    <ctml:longitude>16.89933000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8312" kind="admin2">
+    <ctml:name>Ljubinje</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q936404</ctml:wikiDataId>
+    <ctml:latitude>42.95120000</ctml:latitude>
+    <ctml:longitude>18.08702000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8315" kind="admin2">
+    <ctml:name>Lopare</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3258745</ctml:wikiDataId>
+    <ctml:latitude>44.63498000</ctml:latitude>
+    <ctml:longitude>18.84340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8319" kind="city">
+    <ctml:name>Maglajani</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q44967</ctml:wikiDataId>
+    <ctml:latitude>44.94975000</ctml:latitude>
+    <ctml:longitude>17.35014000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8323" kind="city">
+    <ctml:name>Marićka</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3039506</ctml:wikiDataId>
+    <ctml:latitude>44.86801000</ctml:latitude>
+    <ctml:longitude>16.85510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8324" kind="city">
+    <ctml:name>Maslovare</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q1254473</ctml:wikiDataId>
+    <ctml:latitude>44.56594000</ctml:latitude>
+    <ctml:longitude>17.53216000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8325" kind="city">
+    <ctml:name>Mejdan - Obilićevo</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q1254473</ctml:wikiDataId>
+    <ctml:latitude>44.76324000</ctml:latitude>
+    <ctml:longitude>17.19012000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8326" kind="admin2">
+    <ctml:name>Milići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q1254473</ctml:wikiDataId>
+    <ctml:latitude>44.17016000</ctml:latitude>
+    <ctml:longitude>19.09195000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8328" kind="city">
+    <ctml:name>Modriča</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q180743</ctml:wikiDataId>
+    <ctml:latitude>44.95444000</ctml:latitude>
+    <ctml:longitude>18.30361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8331" kind="admin2">
+    <ctml:name>Mrkonjić Grad</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q1000971</ctml:wikiDataId>
+    <ctml:latitude>44.41729000</ctml:latitude>
+    <ctml:longitude>17.08288000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8333" kind="admin2">
+    <ctml:name>Nevesinje</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q320623</ctml:wikiDataId>
+    <ctml:latitude>43.25861000</ctml:latitude>
+    <ctml:longitude>18.11333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8334" kind="admin2">
+    <ctml:name>Novi Grad</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q194948</ctml:wikiDataId>
+    <ctml:latitude>45.04643000</ctml:latitude>
+    <ctml:longitude>16.37782000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8337" kind="city">
+    <ctml:name>Obudovac</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3129223</ctml:wikiDataId>
+    <ctml:latitude>44.95215000</ctml:latitude>
+    <ctml:longitude>18.59869000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8341" kind="city">
+    <ctml:name>Omarska</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q1938626</ctml:wikiDataId>
+    <ctml:latitude>44.89170000</ctml:latitude>
+    <ctml:longitude>16.89814000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8342" kind="city">
+    <ctml:name>Opština Oštra Luka</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q2189505</ctml:wikiDataId>
+    <ctml:latitude>44.73278000</ctml:latitude>
+    <ctml:longitude>16.82861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8343" kind="city">
+    <ctml:name>Opština Višegrad</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q239266</ctml:wikiDataId>
+    <ctml:latitude>43.72167000</ctml:latitude>
+    <ctml:longitude>19.31361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8350" kind="city">
+    <ctml:name>Oštra Luka</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3048630</ctml:wikiDataId>
+    <ctml:latitude>44.99724000</ctml:latitude>
+    <ctml:longitude>18.58464000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8352" kind="city">
+    <ctml:name>Pale</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q222084</ctml:wikiDataId>
+    <ctml:latitude>43.81664000</ctml:latitude>
+    <ctml:longitude>18.56949000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8354" kind="admin2">
+    <ctml:name>Pelagićevo</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3130171</ctml:wikiDataId>
+    <ctml:latitude>44.90105000</ctml:latitude>
+    <ctml:longitude>18.59185000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8355" kind="city">
+    <ctml:name>Petkovci</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3377531</ctml:wikiDataId>
+    <ctml:latitude>44.46849000</ctml:latitude>
+    <ctml:longitude>19.07466000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8358" kind="city">
+    <ctml:name>Piskavica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3377900</ctml:wikiDataId>
+    <ctml:latitude>44.86717000</ctml:latitude>
+    <ctml:longitude>16.97464000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8360" kind="city">
+    <ctml:name>Podbrdo</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3389647</ctml:wikiDataId>
+    <ctml:latitude>44.44189000</ctml:latitude>
+    <ctml:longitude>17.01495000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8365" kind="city">
+    <ctml:name>Popovi</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3113096</ctml:wikiDataId>
+    <ctml:latitude>44.76547000</ctml:latitude>
+    <ctml:longitude>19.28667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8367" kind="city">
+    <ctml:name>Pribinić</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3113679</ctml:wikiDataId>
+    <ctml:latitude>44.61010000</ctml:latitude>
+    <ctml:longitude>17.68981000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8368" kind="city">
+    <ctml:name>Priboj</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3113679</ctml:wikiDataId>
+    <ctml:latitude>44.60233000</ctml:latitude>
+    <ctml:longitude>18.93165000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8369" kind="admin2">
+    <ctml:name>Prijedor</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q323986</ctml:wikiDataId>
+    <ctml:latitude>44.97991000</ctml:latitude>
+    <ctml:longitude>16.71401000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8374" kind="admin2">
+    <ctml:name>Rogatica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q180791</ctml:wikiDataId>
+    <ctml:latitude>43.79894000</ctml:latitude>
+    <ctml:longitude>19.00363000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8375" kind="admin2">
+    <ctml:name>Rudo</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q1018824</ctml:wikiDataId>
+    <ctml:latitude>43.61781000</ctml:latitude>
+    <ctml:longitude>19.36719000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8436" kind="admin2">
+    <ctml:name>Šamac</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q391033</ctml:wikiDataId>
+    <ctml:latitude>45.05987000</ctml:latitude>
+    <ctml:longitude>18.46756000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8437" kind="admin2">
+    <ctml:name>Šekovići</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q391033</ctml:wikiDataId>
+    <ctml:latitude>44.29896000</ctml:latitude>
+    <ctml:longitude>18.85532000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8439" kind="admin2">
+    <ctml:name>Šipovo</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q586566</ctml:wikiDataId>
+    <ctml:latitude>44.28237000</ctml:latitude>
+    <ctml:longitude>17.08597000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8383" kind="city">
+    <ctml:name>Sokolac</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q180755</ctml:wikiDataId>
+    <ctml:latitude>43.93817000</ctml:latitude>
+    <ctml:longitude>18.80079000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8385" kind="admin2">
+    <ctml:name>Srbac</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q995071</ctml:wikiDataId>
+    <ctml:latitude>45.09730000</ctml:latitude>
+    <ctml:longitude>17.52331000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8386" kind="admin2">
+    <ctml:name>Srebrenica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q156053</ctml:wikiDataId>
+    <ctml:latitude>44.10748000</ctml:latitude>
+    <ctml:longitude>19.29669000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8388" kind="admin2">
+    <ctml:name>Stanari</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q1280363</ctml:wikiDataId>
+    <ctml:latitude>44.74475000</ctml:latitude>
+    <ctml:longitude>17.82714000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8389" kind="city">
+    <ctml:name>Starcevica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q1280363</ctml:wikiDataId>
+    <ctml:latitude>44.75708000</ctml:latitude>
+    <ctml:longitude>17.21178000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8393" kind="city">
+    <ctml:name>Svodna</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q1026587</ctml:wikiDataId>
+    <ctml:latitude>45.03770000</ctml:latitude>
+    <ctml:longitude>16.54019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8395" kind="admin2">
+    <ctml:name>Teslić</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q953826</ctml:wikiDataId>
+    <ctml:latitude>44.60639000</ctml:latitude>
+    <ctml:longitude>17.85972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8402" kind="admin2">
+    <ctml:name>Trebinje</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q690052</ctml:wikiDataId>
+    <ctml:latitude>42.71197000</ctml:latitude>
+    <ctml:longitude>18.34362000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8403" kind="city">
+    <ctml:name>Trn</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q690052</ctml:wikiDataId>
+    <ctml:latitude>44.85829000</ctml:latitude>
+    <ctml:longitude>17.23583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8407" kind="city">
+    <ctml:name>Ugljevik</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q174684</ctml:wikiDataId>
+    <ctml:latitude>44.66361000</ctml:latitude>
+    <ctml:longitude>19.02028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8413" kind="city">
+    <ctml:name>Velika Obarska</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q1018636</ctml:wikiDataId>
+    <ctml:latitude>44.80461000</ctml:latitude>
+    <ctml:longitude>19.16183000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8418" kind="admin2">
+    <ctml:name>Višegrad</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3119141</ctml:wikiDataId>
+    <ctml:latitude>43.78260000</ctml:latitude>
+    <ctml:longitude>19.29256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8419" kind="admin2">
+    <ctml:name>Vlasenica</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q1017988</ctml:wikiDataId>
+    <ctml:latitude>44.18183000</ctml:latitude>
+    <ctml:longitude>18.94096000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BIH-8446" kind="city">
+    <ctml:name>Živinice</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q3110939</ctml:wikiDataId>
+    <ctml:latitude>44.54765000</ctml:latitude>
+    <ctml:longitude>17.37357000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BIH-8428" kind="admin2">
+    <ctml:name>Zvornik</ctml:name>
+    <ctml:country>BIH</ctml:country>
+    <ctml:admin1>Republika Srpska</ctml:admin1>
+    <ctml:parentRef>place:admin1:BA-SRP</ctml:parentRef>
+    <ctml:wikiDataId>Q231517</ctml:wikiDataId>
+    <ctml:latitude>44.38605000</ctml:latitude>
+    <ctml:longitude>19.10247000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

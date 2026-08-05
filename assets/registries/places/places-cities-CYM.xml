@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:CYM-153943" kind="city">
+    <ctml:name>Cayman Brac</ctml:name>
+    <ctml:country>CYM</ctml:country>
+    <ctml:admin1>Cayman Brac</ctml:admin1>
+    <ctml:parentRef>place:admin1:KY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q111386576</ctml:wikiDataId>
+    <ctml:latitude>19.71999700</ctml:latitude>
+    <ctml:longitude>-79.89072660</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYM-153938" kind="city">
+    <ctml:name>Bodden Town</ctml:name>
+    <ctml:country>CYM</ctml:country>
+    <ctml:admin1>Grand Cayman</ctml:admin1>
+    <ctml:parentRef>place:admin1:KY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q4936407</ctml:wikiDataId>
+    <ctml:latitude>19.27966930</ctml:latitude>
+    <ctml:longitude>-81.27779990</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYM-153940" kind="city">
+    <ctml:name>George Town</ctml:name>
+    <ctml:country>CYM</ctml:country>
+    <ctml:admin1>Grand Cayman</ctml:admin1>
+    <ctml:parentRef>place:admin1:KY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q172996</ctml:wikiDataId>
+    <ctml:latitude>19.29023260</ctml:latitude>
+    <ctml:longitude>-81.44333720</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYM-153941" kind="city">
+    <ctml:name>North Side</ctml:name>
+    <ctml:country>CYM</ctml:country>
+    <ctml:admin1>Grand Cayman</ctml:admin1>
+    <ctml:parentRef>place:admin1:KY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q7056735</ctml:wikiDataId>
+    <ctml:latitude>19.33620470</ctml:latitude>
+    <ctml:longitude>-81.51398130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYM-153942" kind="city">
+    <ctml:name>West Bay</ctml:name>
+    <ctml:country>CYM</ctml:country>
+    <ctml:admin1>Grand Cayman</ctml:admin1>
+    <ctml:parentRef>place:admin1:KY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q7984402</ctml:wikiDataId>
+    <ctml:latitude>19.36651530</ctml:latitude>
+    <ctml:longitude>-81.43170260</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

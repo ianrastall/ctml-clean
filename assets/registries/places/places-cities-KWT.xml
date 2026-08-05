@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:KWT-65574" kind="city">
+    <ctml:name>Al Faḩāḩīl</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Al Ahmadi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q980396</ctml:wikiDataId>
+    <ctml:latitude>29.08250000</ctml:latitude>
+    <ctml:longitude>48.13028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65575" kind="city">
+    <ctml:name>Al Finţās</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Al Ahmadi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q980396</ctml:wikiDataId>
+    <ctml:latitude>29.17389000</ctml:latitude>
+    <ctml:longitude>48.12111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65578" kind="city">
+    <ctml:name>Al Mahbūlah</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Al Ahmadi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q980396</ctml:wikiDataId>
+    <ctml:latitude>29.14500000</ctml:latitude>
+    <ctml:longitude>48.13028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65579" kind="city">
+    <ctml:name>Al Manqaf</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Al Ahmadi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q980396</ctml:wikiDataId>
+    <ctml:latitude>29.09611000</ctml:latitude>
+    <ctml:longitude>48.13278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65580" kind="city">
+    <ctml:name>Al Wafrah</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Al Ahmadi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q27347097</ctml:wikiDataId>
+    <ctml:latitude>28.63917000</ctml:latitude>
+    <ctml:longitude>47.93056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65582" kind="city">
+    <ctml:name>Ar Riqqah</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Al Ahmadi</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q27347097</ctml:wikiDataId>
+    <ctml:latitude>29.14583000</ctml:latitude>
+    <ctml:longitude>48.09472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65571" kind="city">
+    <ctml:name>Ad Dasmah</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Al Asimah</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-KU</ctml:parentRef>
+    <ctml:wikiDataId>Q50431</ctml:wikiDataId>
+    <ctml:latitude>29.36500000</ctml:latitude>
+    <ctml:longitude>48.00139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65584" kind="city">
+    <ctml:name>Ar Rābiyah</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Al Asimah</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-KU</ctml:parentRef>
+    <ctml:wikiDataId>Q27347097</ctml:wikiDataId>
+    <ctml:latitude>29.29500000</ctml:latitude>
+    <ctml:longitude>47.93306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65586" kind="city">
+    <ctml:name>Ash Shāmīyah</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Al Asimah</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-KU</ctml:parentRef>
+    <ctml:wikiDataId>Q3505782</ctml:wikiDataId>
+    <ctml:latitude>29.34722000</ctml:latitude>
+    <ctml:longitude>47.96167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65587" kind="city">
+    <ctml:name>Az Zawr</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Al Asimah</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-KU</ctml:parentRef>
+    <ctml:wikiDataId>Q3505782</ctml:wikiDataId>
+    <ctml:latitude>29.44250000</ctml:latitude>
+    <ctml:longitude>48.27472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65590" kind="city">
+    <ctml:name>Kuwait City</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Al Asimah</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-KU</ctml:parentRef>
+    <ctml:wikiDataId>Q35178</ctml:wikiDataId>
+    <ctml:latitude>29.36972000</ctml:latitude>
+    <ctml:longitude>47.97833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65589" kind="city">
+    <ctml:name>Janūb as Surrah</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Al Farwaniyah</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-FA</ctml:parentRef>
+    <ctml:wikiDataId>Q3505782</ctml:wikiDataId>
+    <ctml:latitude>29.26917000</ctml:latitude>
+    <ctml:longitude>47.97806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65583" kind="city">
+    <ctml:name>Ar Rumaythīyah</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Hawalli</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q27347097</ctml:wikiDataId>
+    <ctml:latitude>29.31167000</ctml:latitude>
+    <ctml:longitude>48.07417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65585" kind="city">
+    <ctml:name>As Sālimīyah</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Hawalli</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q3505782</ctml:wikiDataId>
+    <ctml:latitude>29.33389000</ctml:latitude>
+    <ctml:longitude>48.07611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65588" kind="city">
+    <ctml:name>Bayān</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Hawalli</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q3505782</ctml:wikiDataId>
+    <ctml:latitude>29.30320000</ctml:latitude>
+    <ctml:longitude>48.04881000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65591" kind="city">
+    <ctml:name>Salwá</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Hawalli</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q1179881</ctml:wikiDataId>
+    <ctml:latitude>29.29583000</ctml:latitude>
+    <ctml:longitude>48.07861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65569" kind="city">
+    <ctml:name>Abu Al Hasaniya</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Mubarak Al-Kabeer</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-MU</ctml:parentRef>
+    <ctml:wikiDataId>Q50431</ctml:wikiDataId>
+    <ctml:latitude>29.19076000</ctml:latitude>
+    <ctml:longitude>48.11355000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65570" kind="city">
+    <ctml:name>Abu Fatira</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Mubarak Al-Kabeer</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-MU</ctml:parentRef>
+    <ctml:wikiDataId>Q50431</ctml:wikiDataId>
+    <ctml:latitude>29.19746000</ctml:latitude>
+    <ctml:longitude>48.10278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65576" kind="city">
+    <ctml:name>Al Funayţīs</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Mubarak Al-Kabeer</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-MU</ctml:parentRef>
+    <ctml:wikiDataId>Q980396</ctml:wikiDataId>
+    <ctml:latitude>29.22528000</ctml:latitude>
+    <ctml:longitude>48.10167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65581" kind="city">
+    <ctml:name>Al-Masayel</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Mubarak Al-Kabeer</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-MU</ctml:parentRef>
+    <ctml:wikiDataId>Q27347097</ctml:wikiDataId>
+    <ctml:latitude>29.23930000</ctml:latitude>
+    <ctml:longitude>48.08862000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KWT-65592" kind="city">
+    <ctml:name>Şabāḩ as Sālim</ctml:name>
+    <ctml:country>KWT</ctml:country>
+    <ctml:admin1>Mubarak Al-Kabeer</ctml:admin1>
+    <ctml:parentRef>place:admin1:KW-MU</ctml:parentRef>
+    <ctml:wikiDataId>Q1179881</ctml:wikiDataId>
+    <ctml:latitude>29.25722000</ctml:latitude>
+    <ctml:longitude>48.05722000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

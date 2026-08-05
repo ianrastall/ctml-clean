@@ -1,0 +1,4089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:NGA-76744" kind="admin2">
+    <ctml:name>Aba</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q202162</ctml:wikiDataId>
+    <ctml:latitude>5.10658000</ctml:latitude>
+    <ctml:longitude>7.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76769" kind="city">
+    <ctml:name>Amaigbo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q423831</ctml:wikiDataId>
+    <ctml:latitude>5.78917000</ctml:latitude>
+    <ctml:longitude>7.83829000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76779" kind="admin2">
+    <ctml:name>Arochukwu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q617618</ctml:wikiDataId>
+    <ctml:latitude>5.38941000</ctml:latitude>
+    <ctml:longitude>7.91235000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76799" kind="admin2">
+    <ctml:name>Bende</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q811144</ctml:wikiDataId>
+    <ctml:latitude>5.55874000</ctml:latitude>
+    <ctml:longitude>7.63359000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77057" kind="city">
+    <ctml:name>Ohafia-Ifigh</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abia</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q7080311</ctml:wikiDataId>
+    <ctml:latitude>5.61455000</ctml:latitude>
+    <ctml:longitude>7.81191000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76749" kind="city">
+    <ctml:name>Abuja</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q3787</ctml:wikiDataId>
+    <ctml:latitude>9.05785000</ctml:latitude>
+    <ctml:longitude>7.49508000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-153367" kind="city">
+    <ctml:name>Asokoro</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q111664646</ctml:wikiDataId>
+    <ctml:latitude>9.04790000</ctml:latitude>
+    <ctml:longitude>7.51550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-153362" kind="city">
+    <ctml:name>Bamburu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q116200216</ctml:wikiDataId>
+    <ctml:latitude>9.11360000</ctml:latitude>
+    <ctml:longitude>7.10960000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-160138" kind="admin2">
+    <ctml:name>Bwari</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q5003670</ctml:wikiDataId>
+    <ctml:latitude>9.26823520</ctml:latitude>
+    <ctml:longitude>7.35431090</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-153366" kind="city">
+    <ctml:name>Garki</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q5523392</ctml:wikiDataId>
+    <ctml:latitude>9.03190000</ctml:latitude>
+    <ctml:longitude>7.48280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153364" kind="admin2">
+    <ctml:name>Gwagwalada</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q2285343</ctml:wikiDataId>
+    <ctml:latitude>8.95080000</ctml:latitude>
+    <ctml:longitude>7.07670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153363" kind="admin2">
+    <ctml:name>Gwarinpa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q111673946</ctml:wikiDataId>
+    <ctml:latitude>9.10990000</ctml:latitude>
+    <ctml:longitude>7.40420000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-153371" kind="city">
+    <ctml:name>Jikwoyi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q113350959</ctml:wikiDataId>
+    <ctml:latitude>8.99130000</ctml:latitude>
+    <ctml:longitude>7.55630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153368" kind="admin2">
+    <ctml:name>Karu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q6373591</ctml:wikiDataId>
+    <ctml:latitude>8.99280000</ctml:latitude>
+    <ctml:longitude>7.57250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153369" kind="admin2">
+    <ctml:name>Kubwa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q6441355</ctml:wikiDataId>
+    <ctml:latitude>9.15380000</ctml:latitude>
+    <ctml:longitude>7.32200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76990" kind="admin2">
+    <ctml:name>Kuje</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>8.87952000</ctml:latitude>
+    <ctml:longitude>7.22756000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-153370" kind="city">
+    <ctml:name>Kurunduma</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q116200207</ctml:wikiDataId>
+    <ctml:latitude>9.01510000</ctml:latitude>
+    <ctml:longitude>7.53490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76997" kind="admin2">
+    <ctml:name>Kwali</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>8.88346000</ctml:latitude>
+    <ctml:longitude>7.01858000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77014" kind="city">
+    <ctml:name>Madala</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q8673</ctml:wikiDataId>
+    <ctml:latitude>9.10444000</ctml:latitude>
+    <ctml:longitude>7.21333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-153365" kind="city">
+    <ctml:name>Maitama</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q106687379</ctml:wikiDataId>
+    <ctml:latitude>9.08820000</ctml:latitude>
+    <ctml:longitude>7.49340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-153373" kind="city">
+    <ctml:name>Wuse</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q59815530</ctml:wikiDataId>
+    <ctml:latitude>9.07470000</ctml:latitude>
+    <ctml:longitude>7.47600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-153372" kind="city">
+    <ctml:name>Zuba</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Abuja Federal Capital Territory</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-FC</ctml:parentRef>
+    <ctml:wikiDataId>Q106514690</ctml:wikiDataId>
+    <ctml:latitude>9.10230000</ctml:latitude>
+    <ctml:longitude>7.19520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76876" kind="admin2">
+    <ctml:name>Ganye</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q3056264</ctml:wikiDataId>
+    <ctml:latitude>8.43497000</ctml:latitude>
+    <ctml:longitude>12.05107000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76885" kind="admin2">
+    <ctml:name>Gombi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>10.16756000</ctml:latitude>
+    <ctml:longitude>12.73684000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76904" kind="city">
+    <ctml:name>Holma</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q5637733</ctml:wikiDataId>
+    <ctml:latitude>9.89863000</ctml:latitude>
+    <ctml:longitude>13.05450000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76962" kind="admin2">
+    <ctml:name>Jimeta</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q1689268</ctml:wikiDataId>
+    <ctml:latitude>9.27949000</ctml:latitude>
+    <ctml:longitude>12.45819000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77013" kind="city">
+    <ctml:name>Madagali</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q8673</ctml:wikiDataId>
+    <ctml:latitude>10.88942000</ctml:latitude>
+    <ctml:longitude>13.62832000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77027" kind="admin2">
+    <ctml:name>Mayo-Belwa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q994096</ctml:wikiDataId>
+    <ctml:latitude>9.05421000</ctml:latitude>
+    <ctml:longitude>12.05794000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77035" kind="admin2">
+    <ctml:name>Mubi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q1951627</ctml:wikiDataId>
+    <ctml:latitude>10.26858000</ctml:latitude>
+    <ctml:longitude>13.26701000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77041" kind="city">
+    <ctml:name>Ngurore</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q1951627</ctml:wikiDataId>
+    <ctml:latitude>9.28871000</ctml:latitude>
+    <ctml:longitude>12.24026000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77046" kind="admin2">
+    <ctml:name>Numan</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q2750772</ctml:wikiDataId>
+    <ctml:latitude>9.46374000</ctml:latitude>
+    <ctml:longitude>12.03062000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77114" kind="admin2">
+    <ctml:name>Toungo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q336350</ctml:wikiDataId>
+    <ctml:latitude>8.11733000</ctml:latitude>
+    <ctml:longitude>12.04611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161602" kind="admin2">
+    <ctml:name>Abak</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q2820150</ctml:wikiDataId>
+    <ctml:latitude>4.99330000</ctml:latitude>
+    <ctml:longitude>7.78950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161603" kind="admin2">
+    <ctml:name>Eastern Obolo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q5330341</ctml:wikiDataId>
+    <ctml:latitude>4.54980000</ctml:latitude>
+    <ctml:longitude>7.78390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76858" kind="admin2">
+    <ctml:name>Eket</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q1296439</ctml:wikiDataId>
+    <ctml:latitude>4.64231000</ctml:latitude>
+    <ctml:longitude>7.92438000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161604" kind="admin2">
+    <ctml:name>Esit Eket</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q5397964</ctml:wikiDataId>
+    <ctml:latitude>4.63550000</ctml:latitude>
+    <ctml:longitude>7.89930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161605" kind="admin2">
+    <ctml:name>Essien Udim</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q5399896</ctml:wikiDataId>
+    <ctml:latitude>5.01670000</ctml:latitude>
+    <ctml:longitude>7.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76865" kind="city">
+    <ctml:name>Esuk Oron</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q1023707</ctml:wikiDataId>
+    <ctml:latitude>4.80293000</ctml:latitude>
+    <ctml:longitude>8.25341000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161606" kind="admin2">
+    <ctml:name>Etim Ekpo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q5404590</ctml:wikiDataId>
+    <ctml:latitude>4.96670000</ctml:latitude>
+    <ctml:longitude>7.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161607" kind="admin2">
+    <ctml:name>Etinan</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q5404600</ctml:wikiDataId>
+    <ctml:latitude>4.90000000</ctml:latitude>
+    <ctml:longitude>7.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161608" kind="admin2">
+    <ctml:name>Ibeno</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q5983812</ctml:wikiDataId>
+    <ctml:latitude>4.53330000</ctml:latitude>
+    <ctml:longitude>8.06670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161609" kind="admin2">
+    <ctml:name>Ibesikpo Asutan</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q5983991</ctml:wikiDataId>
+    <ctml:latitude>4.93330000</ctml:latitude>
+    <ctml:longitude>7.93330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161610" kind="admin2">
+    <ctml:name>Ibiono-Ibom</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q5984067</ctml:wikiDataId>
+    <ctml:latitude>5.11670000</ctml:latitude>
+    <ctml:longitude>7.91670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161611" kind="admin2">
+    <ctml:name>Ika</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q5995269</ctml:wikiDataId>
+    <ctml:latitude>4.91670000</ctml:latitude>
+    <ctml:longitude>7.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161612" kind="admin2">
+    <ctml:name>Ikono</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q5996152</ctml:wikiDataId>
+    <ctml:latitude>5.13330000</ctml:latitude>
+    <ctml:longitude>7.68330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161613" kind="admin2">
+    <ctml:name>Ikot Abasi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q5996219</ctml:wikiDataId>
+    <ctml:latitude>4.56670000</ctml:latitude>
+    <ctml:longitude>7.56670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76937" kind="admin2">
+    <ctml:name>Ikot Ekpene</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q3511297</ctml:wikiDataId>
+    <ctml:latitude>5.18194000</ctml:latitude>
+    <ctml:longitude>7.71481000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161614" kind="admin2">
+    <ctml:name>Ini</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q13140466</ctml:wikiDataId>
+    <ctml:latitude>5.20000000</ctml:latitude>
+    <ctml:longitude>7.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76955" kind="admin2">
+    <ctml:name>Itu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q3140630</ctml:wikiDataId>
+    <ctml:latitude>5.20131000</ctml:latitude>
+    <ctml:longitude>7.98373000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161615" kind="admin2">
+    <ctml:name>Mbo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q6799703</ctml:wikiDataId>
+    <ctml:latitude>4.46670000</ctml:latitude>
+    <ctml:longitude>8.08330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161616" kind="admin2">
+    <ctml:name>Mkpat-Enin</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q6885516</ctml:wikiDataId>
+    <ctml:latitude>5.03330000</ctml:latitude>
+    <ctml:longitude>7.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161617" kind="admin2">
+    <ctml:name>Nsit-Atai</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q7067566</ctml:wikiDataId>
+    <ctml:latitude>5.06670000</ctml:latitude>
+    <ctml:longitude>7.73330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161618" kind="admin2">
+    <ctml:name>Nsit-Ibom</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q7067567</ctml:wikiDataId>
+    <ctml:latitude>4.98330000</ctml:latitude>
+    <ctml:longitude>7.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161619" kind="admin2">
+    <ctml:name>Nsit-Ubium</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q10494314</ctml:wikiDataId>
+    <ctml:latitude>4.93330000</ctml:latitude>
+    <ctml:longitude>7.98330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161620" kind="admin2">
+    <ctml:name>Obot Akara</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q7075311</ctml:wikiDataId>
+    <ctml:latitude>5.26670000</ctml:latitude>
+    <ctml:longitude>7.71670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161621" kind="admin2">
+    <ctml:name>Okobo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q7082466</ctml:wikiDataId>
+    <ctml:latitude>4.55000000</ctml:latitude>
+    <ctml:longitude>8.11670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161622" kind="admin2">
+    <ctml:name>Onna</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q7094369</ctml:wikiDataId>
+    <ctml:latitude>4.75000000</ctml:latitude>
+    <ctml:longitude>8.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161623" kind="admin2">
+    <ctml:name>Oron</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q1277335</ctml:wikiDataId>
+    <ctml:latitude>4.80170000</ctml:latitude>
+    <ctml:longitude>8.23580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161624" kind="admin2">
+    <ctml:name>Oruk Anam</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q7105162</ctml:wikiDataId>
+    <ctml:latitude>4.96670000</ctml:latitude>
+    <ctml:longitude>7.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161625" kind="admin2">
+    <ctml:name>Udung-Uko</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q7877346</ctml:wikiDataId>
+    <ctml:latitude>4.43330000</ctml:latitude>
+    <ctml:longitude>7.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161626" kind="admin2">
+    <ctml:name>Ukanafun</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q7878266</ctml:wikiDataId>
+    <ctml:latitude>4.96670000</ctml:latitude>
+    <ctml:longitude>7.81670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161627" kind="admin2">
+    <ctml:name>Uruan</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q11058133</ctml:wikiDataId>
+    <ctml:latitude>5.03330000</ctml:latitude>
+    <ctml:longitude>8.08330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-161628" kind="admin2">
+    <ctml:name>Urue-Offong/Oruko</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Akwa Ibom</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q7901410</ctml:wikiDataId>
+    <ctml:latitude>4.71670000</ctml:latitude>
+    <ctml:longitude>8.18330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76759" kind="city">
+    <ctml:name>Agulu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Anambra</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q3509527</ctml:wikiDataId>
+    <ctml:latitude>6.10045000</ctml:latitude>
+    <ctml:longitude>7.06100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76781" kind="admin2">
+    <ctml:name>Atani</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Anambra</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q1061665</ctml:wikiDataId>
+    <ctml:latitude>6.01277000</ctml:latitude>
+    <ctml:longitude>6.74768000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76863" kind="city">
+    <ctml:name>Enugu-Ukwu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Anambra</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q465022</ctml:wikiDataId>
+    <ctml:latitude>6.17146000</ctml:latitude>
+    <ctml:longitude>7.00525000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76920" kind="city">
+    <ctml:name>Igbo-Ukwu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Anambra</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q1024641</ctml:wikiDataId>
+    <ctml:latitude>6.01798000</ctml:latitude>
+    <ctml:longitude>7.02027000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76924" kind="admin2">
+    <ctml:name>Ihiala</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Anambra</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q5991613</ctml:wikiDataId>
+    <ctml:latitude>5.85475000</ctml:latitude>
+    <ctml:longitude>6.85944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77043" kind="city">
+    <ctml:name>Nkpor</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Anambra</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q1951627</ctml:wikiDataId>
+    <ctml:latitude>6.15038000</ctml:latitude>
+    <ctml:longitude>6.83042000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77044" kind="admin2">
+    <ctml:name>Nnewi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Anambra</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q2750772</ctml:wikiDataId>
+    <ctml:latitude>6.01962000</ctml:latitude>
+    <ctml:longitude>6.91729000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77068" kind="admin2">
+    <ctml:name>Onitsha</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Anambra</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q852238</ctml:wikiDataId>
+    <ctml:latitude>6.14978000</ctml:latitude>
+    <ctml:longitude>6.78569000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77083" kind="admin2">
+    <ctml:name>Ozubulu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Anambra</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q1023703</ctml:wikiDataId>
+    <ctml:latitude>5.95753000</ctml:latitude>
+    <ctml:longitude>6.85305000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77120" kind="city">
+    <ctml:name>Uga</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Anambra</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q7859479</ctml:wikiDataId>
+    <ctml:latitude>5.93576000</ctml:latitude>
+    <ctml:longitude>7.07930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77128" kind="city">
+    <ctml:name>Uruobo-Okija</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Anambra</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-AN</ctml:parentRef>
+    <ctml:wikiDataId>Q3510262</ctml:wikiDataId>
+    <ctml:latitude>5.90016000</ctml:latitude>
+    <ctml:longitude>6.84312000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76786" kind="admin2">
+    <ctml:name>Azare</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q793588</ctml:wikiDataId>
+    <ctml:latitude>11.67478000</ctml:latitude>
+    <ctml:longitude>10.19069000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76810" kind="city">
+    <ctml:name>Boi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>9.56109000</ctml:latitude>
+    <ctml:longitude>9.50154000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76818" kind="city">
+    <ctml:name>Bununu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q4987153</ctml:wikiDataId>
+    <ctml:latitude>9.88224000</ctml:latitude>
+    <ctml:longitude>9.68058000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76835" kind="admin2">
+    <ctml:name>Darazo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1023722</ctml:wikiDataId>
+    <ctml:latitude>10.99920000</ctml:latitude>
+    <ctml:longitude>10.41062000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76836" kind="admin2">
+    <ctml:name>Dass</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1023722</ctml:wikiDataId>
+    <ctml:latitude>10.00065000</ctml:latitude>
+    <ctml:longitude>9.51596000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76843" kind="city">
+    <ctml:name>Dindima</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1173023</ctml:wikiDataId>
+    <ctml:latitude>10.22629000</ctml:latitude>
+    <ctml:longitude>10.15132000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76844" kind="city">
+    <ctml:name>Disina</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1173023</ctml:wikiDataId>
+    <ctml:latitude>11.48135000</ctml:latitude>
+    <ctml:longitude>9.91903000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76871" kind="city">
+    <ctml:name>Gabarin</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q3056264</ctml:wikiDataId>
+    <ctml:latitude>11.10930000</ctml:latitude>
+    <ctml:longitude>10.44410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76897" kind="city">
+    <ctml:name>Gwaram</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>10.23295000</ctml:latitude>
+    <ctml:longitude>10.28572000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76978" kind="city">
+    <ctml:name>Kari</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q182984</ctml:wikiDataId>
+    <ctml:latitude>11.24710000</ctml:latitude>
+    <ctml:longitude>10.56100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77005" kind="city">
+    <ctml:name>Lame</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q8673</ctml:wikiDataId>
+    <ctml:latitude>10.44154000</ctml:latitude>
+    <ctml:longitude>9.23955000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77015" kind="city">
+    <ctml:name>Madara</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q8673</ctml:wikiDataId>
+    <ctml:latitude>11.77980000</ctml:latitude>
+    <ctml:longitude>10.44790000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77031" kind="admin2">
+    <ctml:name>Misau</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q994105</ctml:wikiDataId>
+    <ctml:latitude>11.31370000</ctml:latitude>
+    <ctml:longitude>10.46664000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77095" kind="city">
+    <ctml:name>Sade</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1023703</ctml:wikiDataId>
+    <ctml:latitude>11.35950000</ctml:latitude>
+    <ctml:longitude>10.67320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77140" kind="city">
+    <ctml:name>Yamrat</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q574593</ctml:wikiDataId>
+    <ctml:latitude>10.11161000</ctml:latitude>
+    <ctml:longitude>9.82604000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77141" kind="city">
+    <ctml:name>Yanda Bayo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q574593</ctml:wikiDataId>
+    <ctml:latitude>11.50710000</ctml:latitude>
+    <ctml:longitude>10.74590000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77147" kind="city">
+    <ctml:name>Yuli</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q994114</ctml:wikiDataId>
+    <ctml:latitude>9.69707000</ctml:latitude>
+    <ctml:longitude>10.27350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77148" kind="city">
+    <ctml:name>Zadawa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q994114</ctml:wikiDataId>
+    <ctml:latitude>11.44960000</ctml:latitude>
+    <ctml:longitude>10.36720000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77150" kind="city">
+    <ctml:name>Zalanga</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bauchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q994114</ctml:wikiDataId>
+    <ctml:latitude>10.61432000</ctml:latitude>
+    <ctml:longitude>10.17647000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76770" kind="city">
+    <ctml:name>Amassoma</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bayelsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BY</ctml:parentRef>
+    <ctml:wikiDataId>Q423831</ctml:wikiDataId>
+    <ctml:latitude>4.97032000</ctml:latitude>
+    <ctml:longitude>6.10915000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77116" kind="admin2">
+    <ctml:name>Twon-Brass</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Bayelsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BY</ctml:parentRef>
+    <ctml:wikiDataId>Q7859479</ctml:wikiDataId>
+    <ctml:latitude>4.31231000</ctml:latitude>
+    <ctml:longitude>6.24091000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76767" kind="admin2">
+    <ctml:name>Aliade</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Benue</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q423831</ctml:wikiDataId>
+    <ctml:latitude>7.29627000</ctml:latitude>
+    <ctml:longitude>8.48278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76811" kind="city">
+    <ctml:name>Boju</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Benue</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>7.35572000</ctml:latitude>
+    <ctml:longitude>7.89303000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-149066" kind="admin2">
+    <ctml:name>Gboko</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Benue</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q2425179</ctml:wikiDataId>
+    <ctml:latitude>7.33159530</ctml:latitude>
+    <ctml:longitude>8.97600680</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76922" kind="city">
+    <ctml:name>Igbor</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Benue</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q5991613</ctml:wikiDataId>
+    <ctml:latitude>7.45123000</ctml:latitude>
+    <ctml:longitude>8.60805000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77049" kind="city">
+    <ctml:name>Ochobo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Benue</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q7074926</ctml:wikiDataId>
+    <ctml:latitude>7.18045000</ctml:latitude>
+    <ctml:longitude>7.98240000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77077" kind="admin2">
+    <ctml:name>Otukpa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Benue</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q3320817</ctml:wikiDataId>
+    <ctml:latitude>7.10168000</ctml:latitude>
+    <ctml:longitude>7.65945000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77110" kind="city">
+    <ctml:name>Takum</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Benue</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q336350</ctml:wikiDataId>
+    <ctml:latitude>7.26667000</ctml:latitude>
+    <ctml:longitude>9.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77121" kind="admin2">
+    <ctml:name>Ugbokpo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Benue</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q7859479</ctml:wikiDataId>
+    <ctml:latitude>7.65321000</ctml:latitude>
+    <ctml:longitude>7.88410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77142" kind="city">
+    <ctml:name>Yandev</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Benue</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q574593</ctml:wikiDataId>
+    <ctml:latitude>7.36308000</ctml:latitude>
+    <ctml:longitude>9.04235000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77149" kind="city">
+    <ctml:name>Zaki Biam</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Benue</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q994114</ctml:wikiDataId>
+    <ctml:latitude>7.50671000</ctml:latitude>
+    <ctml:longitude>9.61040000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76793" kind="admin2">
+    <ctml:name>Bama</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q793588</ctml:wikiDataId>
+    <ctml:latitude>11.52134000</ctml:latitude>
+    <ctml:longitude>13.68952000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76801" kind="admin2">
+    <ctml:name>Benisheikh</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>11.80919000</ctml:latitude>
+    <ctml:longitude>12.49151000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76808" kind="admin2">
+    <ctml:name>Biu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>10.61285000</ctml:latitude>
+    <ctml:longitude>12.19458000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76814" kind="city">
+    <ctml:name>Bornu Yassu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>12.27503000</ctml:latitude>
+    <ctml:longitude>12.56856000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76825" kind="admin2">
+    <ctml:name>Damasak</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q15043598</ctml:wikiDataId>
+    <ctml:latitude>13.10518000</ctml:latitude>
+    <ctml:longitude>12.50854000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76827" kind="admin2">
+    <ctml:name>Damboa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q1023722</ctml:wikiDataId>
+    <ctml:latitude>11.15534000</ctml:latitude>
+    <ctml:longitude>12.75638000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76842" kind="admin2">
+    <ctml:name>Dikwa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q1173023</ctml:wikiDataId>
+    <ctml:latitude>12.03609000</ctml:latitude>
+    <ctml:longitude>13.91815000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76874" kind="admin2">
+    <ctml:name>Gamboru</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q3056264</ctml:wikiDataId>
+    <ctml:latitude>12.37299000</ctml:latitude>
+    <ctml:longitude>14.20690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76901" kind="admin2">
+    <ctml:name>Gwoza</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>11.08313000</ctml:latitude>
+    <ctml:longitude>13.69595000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76991" kind="admin2">
+    <ctml:name>Kukawa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>12.92475000</ctml:latitude>
+    <ctml:longitude>13.56617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77016" kind="admin2">
+    <ctml:name>Magumeri</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q8673</ctml:wikiDataId>
+    <ctml:latitude>12.11451000</ctml:latitude>
+    <ctml:longitude>12.82620000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77024" kind="admin2">
+    <ctml:name>Marte</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q994096</ctml:wikiDataId>
+    <ctml:latitude>12.36532000</ctml:latitude>
+    <ctml:longitude>13.82930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77030" kind="city">
+    <ctml:name>Miringa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q994105</ctml:wikiDataId>
+    <ctml:latitude>10.73115000</ctml:latitude>
+    <ctml:longitude>12.14626000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77033" kind="admin2">
+    <ctml:name>Monguno</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q6887995</ctml:wikiDataId>
+    <ctml:latitude>12.67059000</ctml:latitude>
+    <ctml:longitude>13.61224000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77040" kind="city">
+    <ctml:name>Ngala</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q1951627</ctml:wikiDataId>
+    <ctml:latitude>12.34053000</ctml:latitude>
+    <ctml:longitude>14.18670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77101" kind="city">
+    <ctml:name>Shaffa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q3500788</ctml:wikiDataId>
+    <ctml:latitude>10.50673000</ctml:latitude>
+    <ctml:longitude>12.33315000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77103" kind="admin2">
+    <ctml:name>Shani</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q3500788</ctml:wikiDataId>
+    <ctml:latitude>10.21824000</ctml:latitude>
+    <ctml:longitude>12.06059000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77113" kind="city">
+    <ctml:name>Tokombere</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q336350</ctml:wikiDataId>
+    <ctml:latitude>11.22135000</ctml:latitude>
+    <ctml:longitude>13.48783000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77117" kind="city">
+    <ctml:name>Uba</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q7859479</ctml:wikiDataId>
+    <ctml:latitude>10.45509000</ctml:latitude>
+    <ctml:longitude>13.22233000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77138" kind="city">
+    <ctml:name>Wuyo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q574593</ctml:wikiDataId>
+    <ctml:latitude>10.38522000</ctml:latitude>
+    <ctml:longitude>11.69678000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77139" kind="city">
+    <ctml:name>Yajiwa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Borno</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q574593</ctml:wikiDataId>
+    <ctml:latitude>11.38623000</ctml:latitude>
+    <ctml:longitude>12.71992000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76761" kind="city">
+    <ctml:name>Akankpa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Cross River</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-CR</ctml:parentRef>
+    <ctml:wikiDataId>Q3509527</ctml:wikiDataId>
+    <ctml:latitude>5.12640000</ctml:latitude>
+    <ctml:longitude>8.18980000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76873" kind="city">
+    <ctml:name>Gakem</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Cross River</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-CR</ctml:parentRef>
+    <ctml:wikiDataId>Q3056264</ctml:wikiDataId>
+    <ctml:latitude>6.76963000</ctml:latitude>
+    <ctml:longitude>8.99120000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76931" kind="city">
+    <ctml:name>Ikang</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Cross River</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-CR</ctml:parentRef>
+    <ctml:wikiDataId>Q5995177</ctml:wikiDataId>
+    <ctml:latitude>4.78978000</ctml:latitude>
+    <ctml:longitude>8.53160000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77122" kind="admin2">
+    <ctml:name>Ugep</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Cross River</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-CR</ctml:parentRef>
+    <ctml:wikiDataId>Q3084715</ctml:wikiDataId>
+    <ctml:latitude>5.80865000</ctml:latitude>
+    <ctml:longitude>8.08098000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76748" kind="city">
+    <ctml:name>Abraka</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Delta</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q13479516</ctml:wikiDataId>
+    <ctml:latitude>5.79023000</ctml:latitude>
+    <ctml:longitude>6.10473000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76756" kind="admin2">
+    <ctml:name>Agbor</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Delta</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q3848215</ctml:wikiDataId>
+    <ctml:latitude>6.25375000</ctml:latitude>
+    <ctml:longitude>6.19420000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76813" kind="admin2">
+    <ctml:name>Bomadi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Delta</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>5.16073000</ctml:latitude>
+    <ctml:longitude>5.92375000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76820" kind="admin2">
+    <ctml:name>Burutu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Delta</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q3510499</ctml:wikiDataId>
+    <ctml:latitude>5.35328000</ctml:latitude>
+    <ctml:longitude>5.50826000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76996" kind="admin2">
+    <ctml:name>Kwale</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Delta</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>5.70773000</ctml:latitude>
+    <ctml:longitude>6.43402000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77047" kind="admin2">
+    <ctml:name>Obiaruku</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Delta</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q7074926</ctml:wikiDataId>
+    <ctml:latitude>5.84672000</ctml:latitude>
+    <ctml:longitude>6.15290000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77056" kind="admin2">
+    <ctml:name>Ogwashi-Uku</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Delta</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q7080311</ctml:wikiDataId>
+    <ctml:latitude>6.17811000</ctml:latitude>
+    <ctml:longitude>6.52461000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77071" kind="admin2">
+    <ctml:name>Orerokpe</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Delta</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q852238</ctml:wikiDataId>
+    <ctml:latitude>5.63747000</ctml:latitude>
+    <ctml:longitude>5.89013000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77086" kind="admin2">
+    <ctml:name>Patani</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Delta</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q1023703</ctml:wikiDataId>
+    <ctml:latitude>5.22885000</ctml:latitude>
+    <ctml:longitude>6.19139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77099" kind="admin2">
+    <ctml:name>Sapele</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Delta</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q3500788</ctml:wikiDataId>
+    <ctml:latitude>5.89405000</ctml:latitude>
+    <ctml:longitude>5.67666000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77123" kind="admin2">
+    <ctml:name>Ughelli</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Delta</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q3509166</ctml:wikiDataId>
+    <ctml:latitude>5.48956000</ctml:latitude>
+    <ctml:longitude>6.00407000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77126" kind="city">
+    <ctml:name>Umunede</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Delta</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q203301</ctml:wikiDataId>
+    <ctml:latitude>6.26549000</ctml:latitude>
+    <ctml:longitude>6.30962000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77133" kind="admin2">
+    <ctml:name>Warri</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Delta</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-DE</ctml:parentRef>
+    <ctml:wikiDataId>Q574593</ctml:wikiDataId>
+    <ctml:latitude>5.51737000</ctml:latitude>
+    <ctml:longitude>5.75006000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76754" kind="admin2">
+    <ctml:name>Afikpo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ebonyi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EB</ctml:parentRef>
+    <ctml:wikiDataId>Q4689247</ctml:wikiDataId>
+    <ctml:latitude>5.89258000</ctml:latitude>
+    <ctml:longitude>7.93534000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76852" kind="city">
+    <ctml:name>Effium</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ebonyi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EB</ctml:parentRef>
+    <ctml:wikiDataId>Q1173023</ctml:wikiDataId>
+    <ctml:latitude>6.63105000</ctml:latitude>
+    <ctml:longitude>8.05814000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76867" kind="city">
+    <ctml:name>Ezza-Ohu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ebonyi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EB</ctml:parentRef>
+    <ctml:wikiDataId>Q1023707</ctml:wikiDataId>
+    <ctml:latitude>6.44094000</ctml:latitude>
+    <ctml:longitude>8.08432000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76954" kind="city">
+    <ctml:name>Isieke</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ebonyi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EB</ctml:parentRef>
+    <ctml:wikiDataId>Q3140630</ctml:wikiDataId>
+    <ctml:latitude>6.38186000</ctml:latitude>
+    <ctml:longitude>8.03736000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76757" kind="admin2">
+    <ctml:name>Agenebode</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Edo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ED</ctml:parentRef>
+    <ctml:wikiDataId>Q3509527</ctml:wikiDataId>
+    <ctml:latitude>7.10512000</ctml:latitude>
+    <ctml:longitude>6.69381000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76782" kind="admin2">
+    <ctml:name>Auchi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Edo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ED</ctml:parentRef>
+    <ctml:wikiDataId>Q3509036</ctml:wikiDataId>
+    <ctml:latitude>7.06756000</ctml:latitude>
+    <ctml:longitude>6.26360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76859" kind="admin2">
+    <ctml:name>Ekpoma</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Edo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ED</ctml:parentRef>
+    <ctml:wikiDataId>Q3511311</ctml:wikiDataId>
+    <ctml:latitude>6.74300000</ctml:latitude>
+    <ctml:longitude>6.14029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76916" kind="admin2">
+    <ctml:name>Igarra</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Edo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ED</ctml:parentRef>
+    <ctml:wikiDataId>Q183298</ctml:wikiDataId>
+    <ctml:latitude>7.29366000</ctml:latitude>
+    <ctml:longitude>6.10432000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76944" kind="city">
+    <ctml:name>Illushi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Edo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ED</ctml:parentRef>
+    <ctml:wikiDataId>Q763595</ctml:wikiDataId>
+    <ctml:latitude>6.67033000</ctml:latitude>
+    <ctml:longitude>6.62907000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77104" kind="city">
+    <ctml:name>Siluko</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Edo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ED</ctml:parentRef>
+    <ctml:wikiDataId>Q3500788</ctml:wikiDataId>
+    <ctml:latitude>6.53589000</ctml:latitude>
+    <ctml:longitude>5.16005000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77118" kind="admin2">
+    <ctml:name>Ubiaja</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Edo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ED</ctml:parentRef>
+    <ctml:wikiDataId>Q7859479</ctml:wikiDataId>
+    <ctml:latitude>6.65581000</ctml:latitude>
+    <ctml:longitude>6.38494000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77127" kind="city">
+    <ctml:name>Uromi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Edo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ED</ctml:parentRef>
+    <ctml:wikiDataId>Q3510262</ctml:wikiDataId>
+    <ctml:latitude>6.70000000</ctml:latitude>
+    <ctml:longitude>6.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76777" kind="admin2">
+    <ctml:name>Aramoko-Ekiti</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ekiti</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EK</ctml:parentRef>
+    <ctml:wikiDataId>Q617618</ctml:wikiDataId>
+    <ctml:latitude>7.70483000</ctml:latitude>
+    <ctml:longitude>5.04054000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76853" kind="admin2">
+    <ctml:name>Efon-Alaaye</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ekiti</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EK</ctml:parentRef>
+    <ctml:wikiDataId>Q1296439</ctml:wikiDataId>
+    <ctml:latitude>7.65649000</ctml:latitude>
+    <ctml:longitude>4.92235000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76860" kind="admin2">
+    <ctml:name>Emure-Ekiti</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ekiti</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EK</ctml:parentRef>
+    <ctml:wikiDataId>Q3511311</ctml:wikiDataId>
+    <ctml:latitude>7.43636000</ctml:latitude>
+    <ctml:longitude>5.45925000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76913" kind="city">
+    <ctml:name>Ifaki</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ekiti</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EK</ctml:parentRef>
+    <ctml:wikiDataId>Q183298</ctml:wikiDataId>
+    <ctml:latitude>7.78942000</ctml:latitude>
+    <ctml:longitude>5.24852000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76917" kind="city">
+    <ctml:name>Igbara-Odo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ekiti</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EK</ctml:parentRef>
+    <ctml:wikiDataId>Q183298</ctml:wikiDataId>
+    <ctml:latitude>7.50251000</ctml:latitude>
+    <ctml:longitude>5.06258000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76923" kind="admin2">
+    <ctml:name>Igede-Ekiti</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ekiti</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EK</ctml:parentRef>
+    <ctml:wikiDataId>Q5991613</ctml:wikiDataId>
+    <ctml:latitude>7.66850000</ctml:latitude>
+    <ctml:longitude>5.12627000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76930" kind="admin2">
+    <ctml:name>Ijero-Ekiti</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ekiti</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EK</ctml:parentRef>
+    <ctml:wikiDataId>Q5995177</ctml:wikiDataId>
+    <ctml:latitude>7.81514000</ctml:latitude>
+    <ctml:longitude>5.06716000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76934" kind="admin2">
+    <ctml:name>Ikere-Ekiti</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ekiti</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EK</ctml:parentRef>
+    <ctml:wikiDataId>Q946097</ctml:wikiDataId>
+    <ctml:latitude>7.49748000</ctml:latitude>
+    <ctml:longitude>5.23041000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-157075" kind="admin2">
+    <ctml:name>Ilawe-Ekiti</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ekiti</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EK</ctml:parentRef>
+    <ctml:wikiDataId>Q3509400</ctml:wikiDataId>
+    <ctml:latitude>7.59494270</ctml:latitude>
+    <ctml:longitude>5.10340682</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76950" kind="city">
+    <ctml:name>Ipoti</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ekiti</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EK</ctml:parentRef>
+    <ctml:wikiDataId>Q6034035</ctml:wikiDataId>
+    <ctml:latitude>7.87377000</ctml:latitude>
+    <ctml:longitude>5.07691000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76953" kind="admin2">
+    <ctml:name>Ise-Ekiti</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ekiti</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EK</ctml:parentRef>
+    <ctml:wikiDataId>Q3140630</ctml:wikiDataId>
+    <ctml:latitude>7.46478000</ctml:latitude>
+    <ctml:longitude>5.42333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77058" kind="city">
+    <ctml:name>Oke Ila</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ekiti</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EK</ctml:parentRef>
+    <ctml:wikiDataId>Q7080311</ctml:wikiDataId>
+    <ctml:latitude>7.95000000</ctml:latitude>
+    <ctml:longitude>4.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77066" kind="city">
+    <ctml:name>Omuo-Ekiti</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ekiti</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EK</ctml:parentRef>
+    <ctml:wikiDataId>Q2017187</ctml:wikiDataId>
+    <ctml:latitude>7.75833000</ctml:latitude>
+    <ctml:longitude>5.72227000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-157076" kind="admin2">
+    <ctml:name>Oye-Ekiti</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ekiti</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EK</ctml:parentRef>
+    <ctml:wikiDataId>Q7116252</ctml:wikiDataId>
+    <ctml:latitude>7.79803574</ctml:latitude>
+    <ctml:longitude>5.32854717</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76750" kind="city">
+    <ctml:name>Adani</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Enugu</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q3787</ctml:wikiDataId>
+    <ctml:latitude>6.73971000</ctml:latitude>
+    <ctml:longitude>7.01117000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76762" kind="city">
+    <ctml:name>Ake-Eze</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Enugu</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q3509527</ctml:wikiDataId>
+    <ctml:latitude>5.91677000</ctml:latitude>
+    <ctml:longitude>7.67615000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76764" kind="city">
+    <ctml:name>Aku</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Enugu</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q3509527</ctml:wikiDataId>
+    <ctml:latitude>6.70902000</ctml:latitude>
+    <ctml:longitude>7.31826000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76768" kind="admin2">
+    <ctml:name>Amagunze</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Enugu</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q423831</ctml:wikiDataId>
+    <ctml:latitude>6.33063000</ctml:latitude>
+    <ctml:longitude>7.65247000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76784" kind="admin2">
+    <ctml:name>Awgu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Enugu</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q3509036</ctml:wikiDataId>
+    <ctml:latitude>6.07278000</ctml:latitude>
+    <ctml:longitude>7.47739000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76855" kind="city">
+    <ctml:name>Eha Amufu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Enugu</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q1296439</ctml:wikiDataId>
+    <ctml:latitude>6.65915000</ctml:latitude>
+    <ctml:longitude>7.75961000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76862" kind="admin2">
+    <ctml:name>Enugu-Ezike</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Enugu</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q465022</ctml:wikiDataId>
+    <ctml:latitude>6.98270000</ctml:latitude>
+    <ctml:longitude>7.45534000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76866" kind="city">
+    <ctml:name>Ete</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Enugu</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q1023707</ctml:wikiDataId>
+    <ctml:latitude>7.08956000</ctml:latitude>
+    <ctml:longitude>7.45341000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76933" kind="admin2">
+    <ctml:name>Ikem</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Enugu</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q5995177</ctml:wikiDataId>
+    <ctml:latitude>6.77993000</ctml:latitude>
+    <ctml:longitude>7.71484000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77028" kind="city">
+    <ctml:name>Mberubu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Enugu</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q994096</ctml:wikiDataId>
+    <ctml:latitude>6.17310000</ctml:latitude>
+    <ctml:longitude>7.63017000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77045" kind="city">
+    <ctml:name>Nsukka</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Enugu</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q2750772</ctml:wikiDataId>
+    <ctml:latitude>6.85783000</ctml:latitude>
+    <ctml:longitude>7.39577000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77048" kind="city">
+    <ctml:name>Obolo-Eke (1)</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Enugu</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q7074926</ctml:wikiDataId>
+    <ctml:latitude>6.88333000</ctml:latitude>
+    <ctml:longitude>7.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77069" kind="city">
+    <ctml:name>Opi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Enugu</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q852238</ctml:wikiDataId>
+    <ctml:latitude>6.78223000</ctml:latitude>
+    <ctml:longitude>7.43319000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77119" kind="admin2">
+    <ctml:name>Udi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Enugu</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q7859479</ctml:wikiDataId>
+    <ctml:latitude>6.31592000</ctml:latitude>
+    <ctml:longitude>7.42086000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76763" kind="city">
+    <ctml:name>Akko</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Gombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-GO</ctml:parentRef>
+    <ctml:wikiDataId>Q3509527</ctml:wikiDataId>
+    <ctml:latitude>10.28899000</ctml:latitude>
+    <ctml:longitude>10.97320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76794" kind="city">
+    <ctml:name>Bara</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Gombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-GO</ctml:parentRef>
+    <ctml:wikiDataId>Q793588</ctml:wikiDataId>
+    <ctml:latitude>10.37444000</ctml:latitude>
+    <ctml:longitude>10.72884000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76802" kind="city">
+    <ctml:name>Billiri</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Gombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-GO</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>9.86545000</ctml:latitude>
+    <ctml:longitude>11.22624000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76823" kind="city">
+    <ctml:name>Dadiya</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Gombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-GO</ctml:parentRef>
+    <ctml:wikiDataId>Q844091</ctml:wikiDataId>
+    <ctml:latitude>9.61667000</ctml:latitude>
+    <ctml:longitude>11.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76839" kind="admin2">
+    <ctml:name>Deba</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Gombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-GO</ctml:parentRef>
+    <ctml:wikiDataId>Q1173023</ctml:wikiDataId>
+    <ctml:latitude>10.21187000</ctml:latitude>
+    <ctml:longitude>11.38710000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76846" kind="admin2">
+    <ctml:name>Dukku</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Gombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-GO</ctml:parentRef>
+    <ctml:wikiDataId>Q1173023</ctml:wikiDataId>
+    <ctml:latitude>10.82379000</ctml:latitude>
+    <ctml:longitude>10.77221000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76877" kind="city">
+    <ctml:name>Garko</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Gombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-GO</ctml:parentRef>
+    <ctml:wikiDataId>Q3056264</ctml:wikiDataId>
+    <ctml:latitude>10.17506000</ctml:latitude>
+    <ctml:longitude>11.16458000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76903" kind="city">
+    <ctml:name>Hinna</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Gombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-GO</ctml:parentRef>
+    <ctml:wikiDataId>Q5637733</ctml:wikiDataId>
+    <ctml:latitude>10.30426000</ctml:latitude>
+    <ctml:longitude>11.49905000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76968" kind="city">
+    <ctml:name>Kafarati</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Gombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-GO</ctml:parentRef>
+    <ctml:wikiDataId>Q6346073</ctml:wikiDataId>
+    <ctml:latitude>10.38304000</ctml:latitude>
+    <ctml:longitude>11.09567000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76973" kind="admin2">
+    <ctml:name>Kaltungo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Gombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-GO</ctml:parentRef>
+    <ctml:wikiDataId>Q6346073</ctml:wikiDataId>
+    <ctml:latitude>9.81998000</ctml:latitude>
+    <ctml:longitude>11.30871000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76993" kind="admin2">
+    <ctml:name>Kumo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Gombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-GO</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>10.04807000</ctml:latitude>
+    <ctml:longitude>11.21055000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77037" kind="admin2">
+    <ctml:name>Nafada</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Gombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-GO</ctml:parentRef>
+    <ctml:wikiDataId>Q1951627</ctml:wikiDataId>
+    <ctml:latitude>11.09596000</ctml:latitude>
+    <ctml:longitude>11.33261000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77088" kind="city">
+    <ctml:name>Pindiga</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Gombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-GO</ctml:parentRef>
+    <ctml:wikiDataId>Q1023703</ctml:wikiDataId>
+    <ctml:latitude>9.98433000</ctml:latitude>
+    <ctml:longitude>10.95229000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76925" kind="admin2">
+    <ctml:name>Iho</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Imo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q5991613</ctml:wikiDataId>
+    <ctml:latitude>5.58225000</ctml:latitude>
+    <ctml:longitude>7.09896000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77055" kind="admin2">
+    <ctml:name>Oguta</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Imo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q500366</ctml:wikiDataId>
+    <ctml:latitude>5.71044000</ctml:latitude>
+    <ctml:longitude>6.80936000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77062" kind="admin2">
+    <ctml:name>Okigwe</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Imo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q2017187</ctml:wikiDataId>
+    <ctml:latitude>5.82917000</ctml:latitude>
+    <ctml:longitude>7.35056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77073" kind="admin2">
+    <ctml:name>Orlu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Imo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q852238</ctml:wikiDataId>
+    <ctml:latitude>5.79565000</ctml:latitude>
+    <ctml:longitude>7.03513000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77074" kind="city">
+    <ctml:name>Orodo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Imo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q852238</ctml:wikiDataId>
+    <ctml:latitude>5.61667000</ctml:latitude>
+    <ctml:longitude>7.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76788" kind="admin2">
+    <ctml:name>Babura</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Jigawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q793588</ctml:wikiDataId>
+    <ctml:latitude>12.77256000</ctml:latitude>
+    <ctml:longitude>9.01525000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76806" kind="admin2">
+    <ctml:name>Birnin Kudu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Jigawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>11.45207000</ctml:latitude>
+    <ctml:longitude>9.47856000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76807" kind="admin2">
+    <ctml:name>Birniwa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Jigawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>12.79070000</ctml:latitude>
+    <ctml:longitude>10.23614000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76872" kind="admin2">
+    <ctml:name>Gagarawa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Jigawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q3056264</ctml:wikiDataId>
+    <ctml:latitude>12.40848000</ctml:latitude>
+    <ctml:longitude>9.52881000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76892" kind="admin2">
+    <ctml:name>Gumel</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Jigawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>12.62690000</ctml:latitude>
+    <ctml:longitude>9.38807000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76902" kind="admin2">
+    <ctml:name>Hadejia</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Jigawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q5637733</ctml:wikiDataId>
+    <ctml:latitude>12.45347000</ctml:latitude>
+    <ctml:longitude>10.04115000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76969" kind="admin2">
+    <ctml:name>Kafin Hausa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Jigawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q6346073</ctml:wikiDataId>
+    <ctml:latitude>12.23933000</ctml:latitude>
+    <ctml:longitude>9.91105000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76981" kind="admin2">
+    <ctml:name>Kazaure</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Jigawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>12.64846000</ctml:latitude>
+    <ctml:longitude>8.41178000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76985" kind="admin2">
+    <ctml:name>Kiyawa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Jigawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>11.78442000</ctml:latitude>
+    <ctml:longitude>9.60690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77022" kind="city">
+    <ctml:name>Mallammaduri</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Jigawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q994096</ctml:wikiDataId>
+    <ctml:latitude>12.56427000</ctml:latitude>
+    <ctml:longitude>9.95727000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77091" kind="admin2">
+    <ctml:name>Ringim</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Jigawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q1023703</ctml:wikiDataId>
+    <ctml:latitude>12.15143000</ctml:latitude>
+    <ctml:longitude>9.16216000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77097" kind="city">
+    <ctml:name>Samamiya</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Jigawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-JI</ctml:parentRef>
+    <ctml:wikiDataId>Q3500788</ctml:wikiDataId>
+    <ctml:latitude>11.34873000</ctml:latitude>
+    <ctml:longitude>9.63989000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76772" kind="admin2">
+    <ctml:name>Anchau</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q423831</ctml:wikiDataId>
+    <ctml:latitude>10.96245000</ctml:latitude>
+    <ctml:longitude>8.39233000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76819" kind="city">
+    <ctml:name>Burumburum</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q4987153</ctml:wikiDataId>
+    <ctml:latitude>11.39106000</ctml:latitude>
+    <ctml:longitude>8.72341000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76849" kind="city">
+    <ctml:name>Dutsen Wai</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q1173023</ctml:wikiDataId>
+    <ctml:latitude>10.85009000</ctml:latitude>
+    <ctml:longitude>8.19900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76905" kind="admin2">
+    <ctml:name>Hunkuyi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q5637733</ctml:wikiDataId>
+    <ctml:latitude>11.26680000</ctml:latitude>
+    <ctml:longitude>7.64916000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76965" kind="admin2">
+    <ctml:name>Kachia</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q321079</ctml:wikiDataId>
+    <ctml:latitude>9.87342000</ctml:latitude>
+    <ctml:longitude>7.95407000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76967" kind="admin2">
+    <ctml:name>Kafanchan</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q6346073</ctml:wikiDataId>
+    <ctml:latitude>9.58126000</ctml:latitude>
+    <ctml:longitude>8.29260000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76970" kind="city">
+    <ctml:name>Kagoro</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q6346073</ctml:wikiDataId>
+    <ctml:latitude>9.60776000</ctml:latitude>
+    <ctml:longitude>8.39043000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76972" kind="admin2">
+    <ctml:name>Kajuru</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q6346073</ctml:wikiDataId>
+    <ctml:latitude>10.32281000</ctml:latitude>
+    <ctml:longitude>7.68462000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76989" kind="admin2">
+    <ctml:name>Kujama</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>10.45767000</ctml:latitude>
+    <ctml:longitude>7.63808000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77009" kind="city">
+    <ctml:name>Lere</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q8673</ctml:wikiDataId>
+    <ctml:latitude>10.38584000</ctml:latitude>
+    <ctml:longitude>8.57286000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77023" kind="city">
+    <ctml:name>Mando</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q994096</ctml:wikiDataId>
+    <ctml:latitude>10.71667000</ctml:latitude>
+    <ctml:longitude>6.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77098" kind="admin2">
+    <ctml:name>Saminaka</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q3500788</ctml:wikiDataId>
+    <ctml:latitude>10.41227000</ctml:latitude>
+    <ctml:longitude>8.68748000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77105" kind="city">
+    <ctml:name>Soba</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q3500788</ctml:wikiDataId>
+    <ctml:latitude>10.98133000</ctml:latitude>
+    <ctml:longitude>8.05749000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77106" kind="city">
+    <ctml:name>Sofo-Birnin-Gwari</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q3500788</ctml:wikiDataId>
+    <ctml:latitude>11.01537000</ctml:latitude>
+    <ctml:longitude>6.78036000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77151" kind="city">
+    <ctml:name>Zaria</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kaduna</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q147975</ctml:wikiDataId>
+    <ctml:latitude>11.11128000</ctml:latitude>
+    <ctml:longitude>7.72270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76828" kind="city">
+    <ctml:name>Dan Gora</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kano</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KN</ctml:parentRef>
+    <ctml:wikiDataId>Q1023722</ctml:wikiDataId>
+    <ctml:latitude>11.53485000</ctml:latitude>
+    <ctml:longitude>8.15224000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76880" kind="admin2">
+    <ctml:name>Gaya</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kano</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KN</ctml:parentRef>
+    <ctml:wikiDataId>Q5526456</ctml:wikiDataId>
+    <ctml:latitude>11.86064000</ctml:latitude>
+    <ctml:longitude>9.00270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76831" kind="admin2">
+    <ctml:name>Danja</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Katsina</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1023722</ctml:wikiDataId>
+    <ctml:latitude>11.37710000</ctml:latitude>
+    <ctml:longitude>7.56097000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76833" kind="city">
+    <ctml:name>Dankama</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Katsina</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1023722</ctml:wikiDataId>
+    <ctml:latitude>13.29782000</ctml:latitude>
+    <ctml:longitude>7.79492000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76837" kind="admin2">
+    <ctml:name>Daura</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Katsina</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1173023</ctml:wikiDataId>
+    <ctml:latitude>13.03299000</ctml:latitude>
+    <ctml:longitude>8.32351000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76850" kind="admin2">
+    <ctml:name>Dutsin-Ma</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Katsina</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1173023</ctml:wikiDataId>
+    <ctml:latitude>12.45392000</ctml:latitude>
+    <ctml:longitude>7.49723000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76870" kind="admin2">
+    <ctml:name>Funtua</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Katsina</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q3056264</ctml:wikiDataId>
+    <ctml:latitude>11.47196000</ctml:latitude>
+    <ctml:longitude>7.30699000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76887" kind="city">
+    <ctml:name>Gora</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Katsina</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>11.91294000</ctml:latitude>
+    <ctml:longitude>7.66531000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76960" kind="admin2">
+    <ctml:name>Jibia</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Katsina</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q3509021</ctml:wikiDataId>
+    <ctml:latitude>13.09378000</ctml:latitude>
+    <ctml:longitude>7.22624000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76961" kind="city">
+    <ctml:name>Jikamshi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Katsina</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q3509021</ctml:wikiDataId>
+    <ctml:latitude>12.17328000</ctml:latitude>
+    <ctml:longitude>7.77424000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76976" kind="admin2">
+    <ctml:name>Kankara</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Katsina</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q6346073</ctml:wikiDataId>
+    <ctml:latitude>11.93114000</ctml:latitude>
+    <ctml:longitude>7.41115000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77026" kind="admin2">
+    <ctml:name>Mashi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Katsina</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q994096</ctml:wikiDataId>
+    <ctml:latitude>12.98044000</ctml:latitude>
+    <ctml:longitude>7.94703000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77093" kind="city">
+    <ctml:name>Ruma</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Katsina</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1023703</ctml:wikiDataId>
+    <ctml:latitude>12.86260000</ctml:latitude>
+    <ctml:longitude>7.23469000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77094" kind="city">
+    <ctml:name>Runka</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Katsina</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1023703</ctml:wikiDataId>
+    <ctml:latitude>12.44788000</ctml:latitude>
+    <ctml:longitude>7.30918000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77131" kind="city">
+    <ctml:name>Wagini</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Katsina</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q3510262</ctml:wikiDataId>
+    <ctml:latitude>12.68781000</ctml:latitude>
+    <ctml:longitude>7.19579000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76778" kind="admin2">
+    <ctml:name>Argungu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q617618</ctml:wikiDataId>
+    <ctml:latitude>12.74482000</ctml:latitude>
+    <ctml:longitude>4.52514000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76791" kind="admin2">
+    <ctml:name>Bagudo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q793588</ctml:wikiDataId>
+    <ctml:latitude>11.40351000</ctml:latitude>
+    <ctml:longitude>4.22571000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76798" kind="city">
+    <ctml:name>Bena</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q811144</ctml:wikiDataId>
+    <ctml:latitude>11.28444000</ctml:latitude>
+    <ctml:longitude>5.93472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76803" kind="city">
+    <ctml:name>Bin Yauri</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>10.78230000</ctml:latitude>
+    <ctml:longitude>4.81135000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76822" kind="city">
+    <ctml:name>Dabai</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q844091</ctml:wikiDataId>
+    <ctml:latitude>11.47651000</ctml:latitude>
+    <ctml:longitude>5.20625000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76824" kind="admin2">
+    <ctml:name>Dakingari</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q844091</ctml:wikiDataId>
+    <ctml:latitude>11.64809000</ctml:latitude>
+    <ctml:longitude>4.06177000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76891" kind="city">
+    <ctml:name>Gulma</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>12.64231000</ctml:latitude>
+    <ctml:longitude>4.35545000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76896" kind="admin2">
+    <ctml:name>Gwandu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>12.50204000</ctml:latitude>
+    <ctml:longitude>4.64295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76959" kind="admin2">
+    <ctml:name>Jega</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q3509021</ctml:wikiDataId>
+    <ctml:latitude>12.22336000</ctml:latitude>
+    <ctml:longitude>4.37971000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76974" kind="admin2">
+    <ctml:name>Kamba</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q6346073</ctml:wikiDataId>
+    <ctml:latitude>11.85172000</ctml:latitude>
+    <ctml:longitude>3.65478000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76975" kind="admin2">
+    <ctml:name>Kangiwa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q6346073</ctml:wikiDataId>
+    <ctml:latitude>12.55339000</ctml:latitude>
+    <ctml:longitude>3.81814000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76983" kind="city">
+    <ctml:name>Kende</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>11.51966000</ctml:latitude>
+    <ctml:longitude>4.26030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77017" kind="admin2">
+    <ctml:name>Mahuta</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q8673</ctml:wikiDataId>
+    <ctml:latitude>11.55338000</ctml:latitude>
+    <ctml:longitude>4.98138000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77019" kind="admin2">
+    <ctml:name>Maiyama</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q221436</ctml:wikiDataId>
+    <ctml:latitude>12.08225000</ctml:latitude>
+    <ctml:longitude>4.36907000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77102" kind="admin2">
+    <ctml:name>Shanga</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q3500788</ctml:wikiDataId>
+    <ctml:latitude>11.21374000</ctml:latitude>
+    <ctml:longitude>4.57941000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77134" kind="city">
+    <ctml:name>Wasagu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q574593</ctml:wikiDataId>
+    <ctml:latitude>11.37640000</ctml:latitude>
+    <ctml:longitude>5.79536000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77153" kind="admin2">
+    <ctml:name>Zuru</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kebbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q8075286</ctml:wikiDataId>
+    <ctml:latitude>11.43522000</ctml:latitude>
+    <ctml:longitude>5.23494000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76747" kind="city">
+    <ctml:name>Abocho</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kogi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q206484</ctml:wikiDataId>
+    <ctml:latitude>7.56770000</ctml:latitude>
+    <ctml:longitude>6.98630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76753" kind="city">
+    <ctml:name>Adoru</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kogi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q359955</ctml:wikiDataId>
+    <ctml:latitude>6.97694000</ctml:latitude>
+    <ctml:longitude>7.16262000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76774" kind="admin2">
+    <ctml:name>Ankpa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kogi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q423831</ctml:wikiDataId>
+    <ctml:latitude>7.40249000</ctml:latitude>
+    <ctml:longitude>7.63196000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76816" kind="city">
+    <ctml:name>Bugana</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kogi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>7.99917000</ctml:latitude>
+    <ctml:longitude>7.58361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76840" kind="admin2">
+    <ctml:name>Dekina</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kogi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q1173023</ctml:wikiDataId>
+    <ctml:latitude>7.68967000</ctml:latitude>
+    <ctml:longitude>7.04380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76854" kind="city">
+    <ctml:name>Egbe</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kogi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q1296439</ctml:wikiDataId>
+    <ctml:latitude>8.21667000</ctml:latitude>
+    <ctml:longitude>5.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76909" kind="city">
+    <ctml:name>Icheu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kogi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q183298</ctml:wikiDataId>
+    <ctml:latitude>7.70670000</ctml:latitude>
+    <ctml:longitude>6.77180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76910" kind="admin2">
+    <ctml:name>Idah</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kogi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q183298</ctml:wikiDataId>
+    <ctml:latitude>7.11345000</ctml:latitude>
+    <ctml:longitude>6.73866000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76951" kind="city">
+    <ctml:name>Isanlu-Itedoijowa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kogi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q6034035</ctml:wikiDataId>
+    <ctml:latitude>8.27445000</ctml:latitude>
+    <ctml:longitude>5.83528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76964" kind="admin2">
+    <ctml:name>Kabba</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kogi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q321079</ctml:wikiDataId>
+    <ctml:latitude>7.82719000</ctml:latitude>
+    <ctml:longitude>6.07502000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76988" kind="admin2">
+    <ctml:name>Koton-Karfe</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kogi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>8.09120000</ctml:latitude>
+    <ctml:longitude>6.79782000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77052" kind="admin2">
+    <ctml:name>Ogaminana</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kogi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q7074926</ctml:wikiDataId>
+    <ctml:latitude>7.59383000</ctml:latitude>
+    <ctml:longitude>6.21798000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77054" kind="city">
+    <ctml:name>Ogurugu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kogi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q500366</ctml:wikiDataId>
+    <ctml:latitude>6.78636000</ctml:latitude>
+    <ctml:longitude>6.95017000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77061" kind="admin2">
+    <ctml:name>Okene</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kogi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q2017187</ctml:wikiDataId>
+    <ctml:latitude>7.55122000</ctml:latitude>
+    <ctml:longitude>6.23589000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76760" kind="city">
+    <ctml:name>Ajasse Ipo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q3509527</ctml:wikiDataId>
+    <ctml:latitude>8.23333000</ctml:latitude>
+    <ctml:longitude>4.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76809" kind="admin2">
+    <ctml:name>Bode Saadu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>8.93900000</ctml:latitude>
+    <ctml:longitude>4.78227000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76899" kind="city">
+    <ctml:name>Gwasero</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>9.48333000</ctml:latitude>
+    <ctml:longitude>3.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76958" kind="city">
+    <ctml:name>Jebba</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q3509021</ctml:wikiDataId>
+    <ctml:latitude>9.11972000</ctml:latitude>
+    <ctml:longitude>4.82360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76971" kind="admin2">
+    <ctml:name>Kaiama</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q6346073</ctml:wikiDataId>
+    <ctml:latitude>9.60530000</ctml:latitude>
+    <ctml:longitude>3.94101000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77001" kind="admin2">
+    <ctml:name>Lafiagi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>8.85299000</ctml:latitude>
+    <ctml:longitude>5.41641000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77051" kind="admin2">
+    <ctml:name>Offa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q7074926</ctml:wikiDataId>
+    <ctml:latitude>8.14911000</ctml:latitude>
+    <ctml:longitude>4.72074000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77063" kind="city">
+    <ctml:name>Okuta</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q2017187</ctml:wikiDataId>
+    <ctml:latitude>9.21667000</ctml:latitude>
+    <ctml:longitude>3.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77065" kind="admin2">
+    <ctml:name>Omu-Aran</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q2017187</ctml:wikiDataId>
+    <ctml:latitude>8.13857000</ctml:latitude>
+    <ctml:longitude>5.10260000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77087" kind="admin2">
+    <ctml:name>Patigi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q1023703</ctml:wikiDataId>
+    <ctml:latitude>8.72851000</ctml:latitude>
+    <ctml:longitude>5.75561000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77109" kind="city">
+    <ctml:name>Suya</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q336350</ctml:wikiDataId>
+    <ctml:latitude>9.46667000</ctml:latitude>
+    <ctml:longitude>3.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77143" kind="city">
+    <ctml:name>Yashikera</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Kwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-KW</ctml:parentRef>
+    <ctml:wikiDataId>Q574593</ctml:wikiDataId>
+    <ctml:latitude>9.76667000</ctml:latitude>
+    <ctml:longitude>3.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153687" kind="admin2">
+    <ctml:name>Abule Egba</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q16733311</ctml:wikiDataId>
+    <ctml:latitude>6.65074410</ctml:latitude>
+    <ctml:longitude>3.26554510</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153665" kind="admin2">
+    <ctml:name>Agege</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q3509545</ctml:wikiDataId>
+    <ctml:latitude>6.61522360</ctml:latitude>
+    <ctml:longitude>3.30029700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-153661" kind="city">
+    <ctml:name>Alimosho</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q3509580</ctml:wikiDataId>
+    <ctml:latitude>6.58890000</ctml:latitude>
+    <ctml:longitude>3.24850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-153672" kind="city">
+    <ctml:name>Amuwo-Odofin</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q3509621</ctml:wikiDataId>
+    <ctml:latitude>6.44674340</ctml:latitude>
+    <ctml:longitude>3.19682600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76775" kind="admin2">
+    <ctml:name>Apapa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q617618</ctml:wikiDataId>
+    <ctml:latitude>6.44880000</ctml:latitude>
+    <ctml:longitude>3.35901000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76789" kind="admin2">
+    <ctml:name>Badagry</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q793588</ctml:wikiDataId>
+    <ctml:latitude>6.41502000</ctml:latitude>
+    <ctml:longitude>2.88132000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153677" kind="admin2">
+    <ctml:name>Bariga</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q21294921</ctml:wikiDataId>
+    <ctml:latitude>6.53931230</ctml:latitude>
+    <ctml:longitude>3.37627060</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76851" kind="city">
+    <ctml:name>Ebute Ikorodu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q1173023</ctml:wikiDataId>
+    <ctml:latitude>6.60086000</ctml:latitude>
+    <ctml:longitude>3.48818000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153686" kind="admin2">
+    <ctml:name>Ebute Metta</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q5332126</ctml:wikiDataId>
+    <ctml:latitude>6.48437590</ctml:latitude>
+    <ctml:longitude>3.37591680</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76857" kind="city">
+    <ctml:name>Ejirin</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q1296439</ctml:wikiDataId>
+    <ctml:latitude>6.61423000</ctml:latitude>
+    <ctml:longitude>3.90019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76864" kind="city">
+    <ctml:name>Epe</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q1023707</ctml:wikiDataId>
+    <ctml:latitude>6.58412000</ctml:latitude>
+    <ctml:longitude>3.98336000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153666" kind="admin2">
+    <ctml:name>Eti-Osa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q5404527</ctml:wikiDataId>
+    <ctml:latitude>6.46812400</ctml:latitude>
+    <ctml:longitude>3.37093780</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153680" kind="admin2">
+    <ctml:name>Festac</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q5445658</ctml:wikiDataId>
+    <ctml:latitude>6.47178330</ctml:latitude>
+    <ctml:longitude>3.26493870</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153674" kind="admin2">
+    <ctml:name>Ibeju-Lekki</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q5983804</ctml:wikiDataId>
+    <ctml:latitude>6.45764360</ctml:latitude>
+    <ctml:longitude>3.62324400</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153682" kind="admin2">
+    <ctml:name>Idimu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q59816091</ctml:wikiDataId>
+    <ctml:latitude>6.58337980</ctml:latitude>
+    <ctml:longitude>3.20442780</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153671" kind="admin2">
+    <ctml:name>Ifako-Ijaiye</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q5991116</ctml:wikiDataId>
+    <ctml:latitude>6.68309720</ctml:latitude>
+    <ctml:longitude>3.22079170</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153681" kind="admin2">
+    <ctml:name>Igando</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q26213412</ctml:wikiDataId>
+    <ctml:latitude>6.55132390</ctml:latitude>
+    <ctml:longitude>3.22181130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-153679" kind="city">
+    <ctml:name>Ijora</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q28401809</ctml:wikiDataId>
+    <ctml:latitude>6.46330450</ctml:latitude>
+    <ctml:longitude>3.34062410</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153663" kind="admin2">
+    <ctml:name>Ikorodu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q1658159</ctml:wikiDataId>
+    <ctml:latitude>6.61526000</ctml:latitude>
+    <ctml:longitude>3.50690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153683" kind="admin2">
+    <ctml:name>Ipaja</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q94751205</ctml:wikiDataId>
+    <ctml:latitude>6.60983200</ctml:latitude>
+    <ctml:longitude>3.22299940</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-153664" kind="city">
+    <ctml:name>Isheri-Olofin</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q94751188</ctml:wikiDataId>
+    <ctml:latitude>6.58092030</ctml:latitude>
+    <ctml:longitude>3.27417280</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77002" kind="admin2">
+    <ctml:name>Lagos</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q8673</ctml:wikiDataId>
+    <ctml:latitude>6.45407000</ctml:latitude>
+    <ctml:longitude>3.39467000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153662" kind="admin2">
+    <ctml:name>Lagos Island</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q98000447</ctml:wikiDataId>
+    <ctml:latitude>6.44999820</ctml:latitude>
+    <ctml:longitude>3.39999840</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153673" kind="admin2">
+    <ctml:name>Lekki</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q25247514</ctml:wikiDataId>
+    <ctml:latitude>6.51148130</ctml:latitude>
+    <ctml:longitude>3.44453810</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77020" kind="city">
+    <ctml:name>Makoko</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q6739858</ctml:wikiDataId>
+    <ctml:latitude>6.49611000</ctml:latitude>
+    <ctml:longitude>3.38778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153668" kind="admin2">
+    <ctml:name>Mushin</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q3139881</ctml:wikiDataId>
+    <ctml:latitude>6.53563240</ctml:latitude>
+    <ctml:longitude>3.33022530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153684" kind="admin2">
+    <ctml:name>Ogba</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q31793608</ctml:wikiDataId>
+    <ctml:latitude>6.62306240</ctml:latitude>
+    <ctml:longitude>3.33418360</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-153667" kind="city">
+    <ctml:name>Ojo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q623249</ctml:wikiDataId>
+    <ctml:latitude>6.46202130</ctml:latitude>
+    <ctml:longitude>3.07969150</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153688" kind="admin2">
+    <ctml:name>Ojodu Berger</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q124669880</ctml:wikiDataId>
+    <ctml:latitude>6.64545230</ctml:latitude>
+    <ctml:longitude>3.36639730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153685" kind="admin2">
+    <ctml:name>Ojota</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q59816186</ctml:wikiDataId>
+    <ctml:latitude>6.58516560</ctml:latitude>
+    <ctml:longitude>3.37092540</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-153670" kind="city">
+    <ctml:name>Oshodi-Isolo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q7106648</ctml:wikiDataId>
+    <ctml:latitude>6.53654830</ctml:latitude>
+    <ctml:longitude>3.27551430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153675" kind="admin2">
+    <ctml:name>Shomolu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q280585</ctml:wikiDataId>
+    <ctml:latitude>6.53759550</ctml:latitude>
+    <ctml:longitude>3.36506450</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153669" kind="admin2">
+    <ctml:name>Surulere</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q994119</ctml:wikiDataId>
+    <ctml:latitude>6.49009830</ctml:latitude>
+    <ctml:longitude>3.30251430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153676" kind="admin2">
+    <ctml:name>Victoria Island</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q2522772</ctml:wikiDataId>
+    <ctml:latitude>6.42998400</ctml:latitude>
+    <ctml:longitude>3.40224490</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-153678" kind="admin2">
+    <ctml:name>Yaba</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Lagos</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q3509639</ctml:wikiDataId>
+    <ctml:latitude>6.50594570</ctml:latitude>
+    <ctml:longitude>3.36012860</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76815" kind="city">
+    <ctml:name>Buga</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Nasarawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NA</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>8.49056000</ctml:latitude>
+    <ctml:longitude>7.34139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76845" kind="admin2">
+    <ctml:name>Doma</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Nasarawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NA</ctml:parentRef>
+    <ctml:wikiDataId>Q1173023</ctml:wikiDataId>
+    <ctml:latitude>8.39307000</ctml:latitude>
+    <ctml:longitude>8.35544000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76982" kind="admin2">
+    <ctml:name>Keffi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Nasarawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NA</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>8.84651000</ctml:latitude>
+    <ctml:longitude>7.87354000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77038" kind="admin2">
+    <ctml:name>Nasarawa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Nasarawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NA</ctml:parentRef>
+    <ctml:wikiDataId>Q1951627</ctml:wikiDataId>
+    <ctml:latitude>8.53895000</ctml:latitude>
+    <ctml:longitude>7.70821000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77132" kind="admin2">
+    <ctml:name>Wamba</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Nasarawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NA</ctml:parentRef>
+    <ctml:wikiDataId>Q3510262</ctml:wikiDataId>
+    <ctml:latitude>8.94153000</ctml:latitude>
+    <ctml:longitude>8.60315000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76783" kind="city">
+    <ctml:name>Auna</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q3509036</ctml:wikiDataId>
+    <ctml:latitude>10.18805000</ctml:latitude>
+    <ctml:longitude>4.72318000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76787" kind="city">
+    <ctml:name>Babana</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q793588</ctml:wikiDataId>
+    <ctml:latitude>10.42949000</ctml:latitude>
+    <ctml:longitude>3.81495000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76790" kind="city">
+    <ctml:name>Badeggi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q793588</ctml:wikiDataId>
+    <ctml:latitude>9.05630000</ctml:latitude>
+    <ctml:longitude>6.14300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76795" kind="city">
+    <ctml:name>Baro</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q3635086</ctml:wikiDataId>
+    <ctml:latitude>8.61565000</ctml:latitude>
+    <ctml:longitude>6.41850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76812" kind="city">
+    <ctml:name>Bokani</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>9.43333000</ctml:latitude>
+    <ctml:longitude>5.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76847" kind="city">
+    <ctml:name>Duku</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q1173023</ctml:wikiDataId>
+    <ctml:latitude>11.23610000</ctml:latitude>
+    <ctml:longitude>4.90727000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76907" kind="city">
+    <ctml:name>Ibeto</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q183298</ctml:wikiDataId>
+    <ctml:latitude>10.48536000</ctml:latitude>
+    <ctml:longitude>5.14501000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76986" kind="city">
+    <ctml:name>Konkwesso</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>10.84686000</ctml:latitude>
+    <ctml:longitude>4.09835000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76987" kind="admin2">
+    <ctml:name>Kontagora</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>10.40319000</ctml:latitude>
+    <ctml:longitude>5.47080000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76994" kind="city">
+    <ctml:name>Kusheriki</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>10.53283000</ctml:latitude>
+    <ctml:longitude>6.44222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76995" kind="admin2">
+    <ctml:name>Kuta</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>9.86864000</ctml:latitude>
+    <ctml:longitude>6.71042000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77007" kind="admin2">
+    <ctml:name>Lapai</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q8673</ctml:wikiDataId>
+    <ctml:latitude>9.04439000</ctml:latitude>
+    <ctml:longitude>6.57089000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77039" kind="city">
+    <ctml:name>New Shagunnu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q1951627</ctml:wikiDataId>
+    <ctml:latitude>10.33957000</ctml:latitude>
+    <ctml:longitude>4.46880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77108" kind="admin2">
+    <ctml:name>Suleja</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q336350</ctml:wikiDataId>
+    <ctml:latitude>9.18059000</ctml:latitude>
+    <ctml:longitude>7.17939000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77112" kind="city">
+    <ctml:name>Tegina</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q336350</ctml:wikiDataId>
+    <ctml:latitude>10.07060000</ctml:latitude>
+    <ctml:longitude>6.19060000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77124" kind="city">
+    <ctml:name>Ukata</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q3509166</ctml:wikiDataId>
+    <ctml:latitude>10.83122000</ctml:latitude>
+    <ctml:longitude>5.82494000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77135" kind="city">
+    <ctml:name>Wawa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q574593</ctml:wikiDataId>
+    <ctml:latitude>9.90222000</ctml:latitude>
+    <ctml:longitude>4.41917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77152" kind="city">
+    <ctml:name>Zungeru</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Niger</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q8075286</ctml:wikiDataId>
+    <ctml:latitude>9.80726000</ctml:latitude>
+    <ctml:longitude>6.15238000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76751" kind="city">
+    <ctml:name>Ado Odo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ogun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OG</ctml:parentRef>
+    <ctml:wikiDataId>Q3787</ctml:wikiDataId>
+    <ctml:latitude>6.60000000</ctml:latitude>
+    <ctml:longitude>2.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76912" kind="city">
+    <ctml:name>Idi Iroko</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ogun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OG</ctml:parentRef>
+    <ctml:wikiDataId>Q183298</ctml:wikiDataId>
+    <ctml:latitude>6.63333000</ctml:latitude>
+    <ctml:longitude>2.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76914" kind="admin2">
+    <ctml:name>Ifo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ogun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OG</ctml:parentRef>
+    <ctml:wikiDataId>Q183298</ctml:wikiDataId>
+    <ctml:latitude>6.81491000</ctml:latitude>
+    <ctml:longitude>3.19518000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76926" kind="city">
+    <ctml:name>Ijebu-Ife</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ogun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OG</ctml:parentRef>
+    <ctml:wikiDataId>Q5991613</ctml:wikiDataId>
+    <ctml:latitude>6.77837000</ctml:latitude>
+    <ctml:longitude>4.03386000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76927" kind="admin2">
+    <ctml:name>Ijebu-Igbo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ogun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OG</ctml:parentRef>
+    <ctml:wikiDataId>Q3320832</ctml:wikiDataId>
+    <ctml:latitude>6.97198000</ctml:latitude>
+    <ctml:longitude>3.99938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76929" kind="admin2">
+    <ctml:name>Ijebu-Ode</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ogun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OG</ctml:parentRef>
+    <ctml:wikiDataId>Q3509424</ctml:wikiDataId>
+    <ctml:latitude>6.81944000</ctml:latitude>
+    <ctml:longitude>3.91731000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76940" kind="admin2">
+    <ctml:name>Ilaro</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ogun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OG</ctml:parentRef>
+    <ctml:wikiDataId>Q5997200</ctml:wikiDataId>
+    <ctml:latitude>6.88901000</ctml:latitude>
+    <ctml:longitude>3.01416000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76947" kind="admin2">
+    <ctml:name>Imeko</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ogun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OG</ctml:parentRef>
+    <ctml:wikiDataId>Q587085</ctml:wikiDataId>
+    <ctml:latitude>7.44888000</ctml:latitude>
+    <ctml:longitude>2.84289000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76949" kind="city">
+    <ctml:name>Iperu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ogun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OG</ctml:parentRef>
+    <ctml:wikiDataId>Q6034035</ctml:wikiDataId>
+    <ctml:latitude>6.91002000</ctml:latitude>
+    <ctml:longitude>3.66557000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76952" kind="admin2">
+    <ctml:name>Isara</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ogun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OG</ctml:parentRef>
+    <ctml:wikiDataId>Q6034035</ctml:wikiDataId>
+    <ctml:latitude>6.99345000</ctml:latitude>
+    <ctml:longitude>3.68148000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77080" kind="admin2">
+    <ctml:name>Owode</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ogun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OG</ctml:parentRef>
+    <ctml:wikiDataId>Q1788128</ctml:wikiDataId>
+    <ctml:latitude>6.94851000</ctml:latitude>
+    <ctml:longitude>3.50561000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76755" kind="city">
+    <ctml:name>Agbabu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ondo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ON</ctml:parentRef>
+    <ctml:wikiDataId>Q4689247</ctml:wikiDataId>
+    <ctml:latitude>6.58862000</ctml:latitude>
+    <ctml:longitude>4.83430000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76911" kind="city">
+    <ctml:name>Idanre</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ondo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ON</ctml:parentRef>
+    <ctml:wikiDataId>Q183298</ctml:wikiDataId>
+    <ctml:latitude>7.11270000</ctml:latitude>
+    <ctml:longitude>5.11590000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76915" kind="admin2">
+    <ctml:name>Ifon</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ondo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ON</ctml:parentRef>
+    <ctml:wikiDataId>Q183298</ctml:wikiDataId>
+    <ctml:latitude>6.92973000</ctml:latitude>
+    <ctml:longitude>5.77368000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76939" kind="city">
+    <ctml:name>Ilare</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ondo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ON</ctml:parentRef>
+    <ctml:wikiDataId>Q3498903</ctml:wikiDataId>
+    <ctml:latitude>7.35067000</ctml:latitude>
+    <ctml:longitude>5.11333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77050" kind="city">
+    <ctml:name>Ode</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ondo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ON</ctml:parentRef>
+    <ctml:wikiDataId>Q7074926</ctml:wikiDataId>
+    <ctml:latitude>7.78990000</ctml:latitude>
+    <ctml:longitude>5.71170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77067" kind="admin2">
+    <ctml:name>Ondo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ondo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ON</ctml:parentRef>
+    <ctml:wikiDataId>Q1853310</ctml:wikiDataId>
+    <ctml:latitude>7.09316000</ctml:latitude>
+    <ctml:longitude>4.83528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77070" kind="admin2">
+    <ctml:name>Ore</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ondo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ON</ctml:parentRef>
+    <ctml:wikiDataId>Q852238</ctml:wikiDataId>
+    <ctml:latitude>6.74716000</ctml:latitude>
+    <ctml:longitude>4.87610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77079" kind="admin2">
+    <ctml:name>Owo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Ondo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ON</ctml:parentRef>
+    <ctml:wikiDataId>Q1788128</ctml:wikiDataId>
+    <ctml:latitude>7.19620000</ctml:latitude>
+    <ctml:longitude>5.58681000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76776" kind="admin2">
+    <ctml:name>Apomu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q617618</ctml:wikiDataId>
+    <ctml:latitude>7.35156000</ctml:latitude>
+    <ctml:longitude>4.18335000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76856" kind="admin2">
+    <ctml:name>Ejigbo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q1296439</ctml:wikiDataId>
+    <ctml:latitude>7.90292000</ctml:latitude>
+    <ctml:longitude>4.31419000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76881" kind="admin2">
+    <ctml:name>Gbongan</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q5526456</ctml:wikiDataId>
+    <ctml:latitude>7.47734000</ctml:latitude>
+    <ctml:longitude>4.35351000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76928" kind="admin2">
+    <ctml:name>Ijebu-Jesa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q3509424</ctml:wikiDataId>
+    <ctml:latitude>7.68287000</ctml:latitude>
+    <ctml:longitude>4.81769000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76935" kind="admin2">
+    <ctml:name>Ikire</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q2749233</ctml:wikiDataId>
+    <ctml:latitude>7.36983000</ctml:latitude>
+    <ctml:longitude>4.18630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76936" kind="admin2">
+    <ctml:name>Ikirun</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q3511297</ctml:wikiDataId>
+    <ctml:latitude>7.91283000</ctml:latitude>
+    <ctml:longitude>4.66741000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76938" kind="admin2">
+    <ctml:name>Ila Orangun</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q3498903</ctml:wikiDataId>
+    <ctml:latitude>8.01714000</ctml:latitude>
+    <ctml:longitude>4.90421000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76941" kind="admin2">
+    <ctml:name>Ile-Ife</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q180084</ctml:wikiDataId>
+    <ctml:latitude>7.48240000</ctml:latitude>
+    <ctml:longitude>4.56032000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76942" kind="admin2">
+    <ctml:name>Ilesa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q763595</ctml:wikiDataId>
+    <ctml:latitude>7.62789000</ctml:latitude>
+    <ctml:longitude>4.74161000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76945" kind="admin2">
+    <ctml:name>Ilobu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q3845161</ctml:wikiDataId>
+    <ctml:latitude>7.84036000</ctml:latitude>
+    <ctml:longitude>4.48557000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76948" kind="city">
+    <ctml:name>Inisa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q6034035</ctml:wikiDataId>
+    <ctml:latitude>7.85000000</ctml:latitude>
+    <ctml:longitude>4.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76956" kind="admin2">
+    <ctml:name>Iwo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q3140630</ctml:wikiDataId>
+    <ctml:latitude>7.63527000</ctml:latitude>
+    <ctml:longitude>4.18156000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77032" kind="city">
+    <ctml:name>Modakeke</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q6887995</ctml:wikiDataId>
+    <ctml:latitude>7.38299000</ctml:latitude>
+    <ctml:longitude>4.26031000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77059" kind="city">
+    <ctml:name>Oke Mesi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q7080311</ctml:wikiDataId>
+    <ctml:latitude>7.81667000</ctml:latitude>
+    <ctml:longitude>4.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77064" kind="city">
+    <ctml:name>Olupona</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q2017187</ctml:wikiDataId>
+    <ctml:latitude>7.60000000</ctml:latitude>
+    <ctml:longitude>4.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77076" kind="admin2">
+    <ctml:name>Otan Ayegbaju</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q3320817</ctml:wikiDataId>
+    <ctml:latitude>7.94783000</ctml:latitude>
+    <ctml:longitude>4.78836000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77081" kind="city">
+    <ctml:name>Oyan</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Osun</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q1788128</ctml:wikiDataId>
+    <ctml:latitude>8.05000000</ctml:latitude>
+    <ctml:longitude>4.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76758" kind="city">
+    <ctml:name>Ago Are</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Oyo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OY</ctml:parentRef>
+    <ctml:wikiDataId>Q3509527</ctml:wikiDataId>
+    <ctml:latitude>8.50000000</ctml:latitude>
+    <ctml:longitude>3.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76766" kind="city">
+    <ctml:name>Alapa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Oyo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OY</ctml:parentRef>
+    <ctml:wikiDataId>Q423831</ctml:wikiDataId>
+    <ctml:latitude>8.61667000</ctml:latitude>
+    <ctml:longitude>4.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76868" kind="city">
+    <ctml:name>Fiditi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Oyo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OY</ctml:parentRef>
+    <ctml:wikiDataId>Q1023707</ctml:wikiDataId>
+    <ctml:latitude>7.71361000</ctml:latitude>
+    <ctml:longitude>3.91722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76918" kind="admin2">
+    <ctml:name>Igbeti</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Oyo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OY</ctml:parentRef>
+    <ctml:wikiDataId>Q183298</ctml:wikiDataId>
+    <ctml:latitude>8.74921000</ctml:latitude>
+    <ctml:longitude>4.13113000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76919" kind="admin2">
+    <ctml:name>Igbo-Ora</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Oyo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OY</ctml:parentRef>
+    <ctml:wikiDataId>Q5991559</ctml:wikiDataId>
+    <ctml:latitude>7.43383000</ctml:latitude>
+    <ctml:longitude>3.28788000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76921" kind="admin2">
+    <ctml:name>Igboho</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Oyo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OY</ctml:parentRef>
+    <ctml:wikiDataId>Q5991613</ctml:wikiDataId>
+    <ctml:latitude>8.83784000</ctml:latitude>
+    <ctml:longitude>3.75628000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76984" kind="admin2">
+    <ctml:name>Kisi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Oyo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OY</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>9.08297000</ctml:latitude>
+    <ctml:longitude>3.85196000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77004" kind="city">
+    <ctml:name>Lalupon</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Oyo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OY</ctml:parentRef>
+    <ctml:wikiDataId>Q8673</ctml:wikiDataId>
+    <ctml:latitude>7.46791000</ctml:latitude>
+    <ctml:longitude>4.06594000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77053" kind="admin2">
+    <ctml:name>Ogbomoso</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Oyo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OY</ctml:parentRef>
+    <ctml:wikiDataId>Q500366</ctml:wikiDataId>
+    <ctml:latitude>8.13373000</ctml:latitude>
+    <ctml:longitude>4.24014000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77060" kind="admin2">
+    <ctml:name>Okeho</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Oyo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OY</ctml:parentRef>
+    <ctml:wikiDataId>Q7080311</ctml:wikiDataId>
+    <ctml:latitude>8.03386000</ctml:latitude>
+    <ctml:longitude>3.34759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77072" kind="city">
+    <ctml:name>Orita Eruwa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Oyo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OY</ctml:parentRef>
+    <ctml:wikiDataId>Q852238</ctml:wikiDataId>
+    <ctml:latitude>7.55000000</ctml:latitude>
+    <ctml:longitude>3.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77082" kind="admin2">
+    <ctml:name>Oyo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Oyo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OY</ctml:parentRef>
+    <ctml:wikiDataId>Q1023703</ctml:wikiDataId>
+    <ctml:latitude>7.85257000</ctml:latitude>
+    <ctml:longitude>3.93125000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77096" kind="admin2">
+    <ctml:name>Saki</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Oyo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-OY</ctml:parentRef>
+    <ctml:wikiDataId>Q3500788</ctml:wikiDataId>
+    <ctml:latitude>8.66762000</ctml:latitude>
+    <ctml:longitude>3.39393000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76771" kind="city">
+    <ctml:name>Amper</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Plateau</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q423831</ctml:wikiDataId>
+    <ctml:latitude>9.35509000</ctml:latitude>
+    <ctml:longitude>9.70121000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76817" kind="admin2">
+    <ctml:name>Bukuru</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Plateau</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q4987153</ctml:wikiDataId>
+    <ctml:latitude>9.79399000</ctml:latitude>
+    <ctml:longitude>8.86397000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76841" kind="admin2">
+    <ctml:name>Dengi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Plateau</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q1173023</ctml:wikiDataId>
+    <ctml:latitude>9.36872000</ctml:latitude>
+    <ctml:longitude>9.96223000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76999" kind="city">
+    <ctml:name>Kwolla</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Plateau</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>8.90361000</ctml:latitude>
+    <ctml:longitude>9.29086000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77006" kind="admin2">
+    <ctml:name>Langtang</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Plateau</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q8673</ctml:wikiDataId>
+    <ctml:latitude>9.14164000</ctml:latitude>
+    <ctml:longitude>9.79101000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77084" kind="admin2">
+    <ctml:name>Pankshin</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Plateau</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q1023703</ctml:wikiDataId>
+    <ctml:latitude>9.32541000</ctml:latitude>
+    <ctml:longitude>9.43520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77085" kind="city">
+    <ctml:name>Panyam</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Plateau</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q1023703</ctml:wikiDataId>
+    <ctml:latitude>9.40756000</ctml:latitude>
+    <ctml:longitude>9.21481000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77130" kind="city">
+    <ctml:name>Vom</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Plateau</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q3510262</ctml:wikiDataId>
+    <ctml:latitude>9.72910000</ctml:latitude>
+    <ctml:longitude>8.79138000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77144" kind="city">
+    <ctml:name>Yelwa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Plateau</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q574593</ctml:wikiDataId>
+    <ctml:latitude>8.83333000</ctml:latitude>
+    <ctml:longitude>9.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-148541" kind="admin2">
+    <ctml:name>Abalama</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Rivers</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q4663313</ctml:wikiDataId>
+    <ctml:latitude>4.76305556</ctml:latitude>
+    <ctml:longitude>6.84027778</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-148542" kind="admin2">
+    <ctml:name>Abonnema</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Rivers</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q4668297</ctml:wikiDataId>
+    <ctml:latitude>4.72311690</ctml:latitude>
+    <ctml:longitude>6.77884610</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-148543" kind="admin2">
+    <ctml:name>Ahoada</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Rivers</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q3510354</ctml:wikiDataId>
+    <ctml:latitude>5.08333333</ctml:latitude>
+    <ctml:longitude>6.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-148544" kind="admin2">
+    <ctml:name>Bori</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Rivers</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q4945102</ctml:wikiDataId>
+    <ctml:latitude>4.67277778</ctml:latitude>
+    <ctml:longitude>7.37027778</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-148545" kind="admin2">
+    <ctml:name>Buguma</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Rivers</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q4986278</ctml:wikiDataId>
+    <ctml:latitude>4.73333333</ctml:latitude>
+    <ctml:longitude>6.86666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-148546" kind="admin2">
+    <ctml:name>Chokocho</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Rivers</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q5104241</ctml:wikiDataId>
+    <ctml:latitude>4.99083300</ctml:latitude>
+    <ctml:longitude>7.05444400</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-148547" kind="city">
+    <ctml:name>Elele</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Rivers</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q5358800</ctml:wikiDataId>
+    <ctml:latitude>5.10184167</ctml:latitude>
+    <ctml:longitude>6.81902222</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-148548" kind="city">
+    <ctml:name>Obonoma</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Rivers</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q33468685</ctml:wikiDataId>
+    <ctml:latitude>4.71138889</ctml:latitude>
+    <ctml:longitude>6.79083333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-148549" kind="admin2">
+    <ctml:name>Omoku</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Rivers</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q3510966</ctml:wikiDataId>
+    <ctml:latitude>5.34200000</ctml:latitude>
+    <ctml:longitude>6.65600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-148551" kind="admin2">
+    <ctml:name>Opobo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Rivers</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q3238928</ctml:wikiDataId>
+    <ctml:latitude>4.51138889</ctml:latitude>
+    <ctml:longitude>7.54000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-148553" kind="admin2">
+    <ctml:name>Rumuokoro</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Rivers</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-RI</ctml:parentRef>
+    <ctml:wikiDataId>Q7379429</ctml:wikiDataId>
+    <ctml:latitude>4.86666667</ctml:latitude>
+    <ctml:longitude>6.98333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76804" kind="admin2">
+    <ctml:name>Binji</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Sokoto</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q320704</ctml:wikiDataId>
+    <ctml:latitude>13.22294000</ctml:latitude>
+    <ctml:longitude>4.90888000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76830" kind="admin2">
+    <ctml:name>Dange</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Sokoto</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q1023722</ctml:wikiDataId>
+    <ctml:latitude>12.85313000</ctml:latitude>
+    <ctml:longitude>5.34572000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76875" kind="city">
+    <ctml:name>Gandi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Sokoto</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q3056264</ctml:wikiDataId>
+    <ctml:latitude>12.96358000</ctml:latitude>
+    <ctml:longitude>5.74337000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76889" kind="admin2">
+    <ctml:name>Goronyo</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Sokoto</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>13.44226000</ctml:latitude>
+    <ctml:longitude>5.67234000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76895" kind="admin2">
+    <ctml:name>Gwadabawa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Sokoto</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>13.35819000</ctml:latitude>
+    <ctml:longitude>5.23812000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76943" kind="admin2">
+    <ctml:name>Illela</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Sokoto</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q763595</ctml:wikiDataId>
+    <ctml:latitude>13.73064000</ctml:latitude>
+    <ctml:longitude>5.29777000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77090" kind="admin2">
+    <ctml:name>Rabah</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Sokoto</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q1023703</ctml:wikiDataId>
+    <ctml:latitude>13.12257000</ctml:latitude>
+    <ctml:longitude>5.50762000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77111" kind="admin2">
+    <ctml:name>Tambuwal</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Sokoto</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q336350</ctml:wikiDataId>
+    <ctml:latitude>12.40592000</ctml:latitude>
+    <ctml:longitude>4.64605000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77137" kind="admin2">
+    <ctml:name>Wurno</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Sokoto</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q574593</ctml:wikiDataId>
+    <ctml:latitude>13.29048000</ctml:latitude>
+    <ctml:longitude>5.42373000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76792" kind="admin2">
+    <ctml:name>Baissa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Taraba</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q793588</ctml:wikiDataId>
+    <ctml:latitude>7.23087000</ctml:latitude>
+    <ctml:longitude>10.62444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76797" kind="city">
+    <ctml:name>Beli</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Taraba</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q811144</ctml:wikiDataId>
+    <ctml:latitude>7.85868000</ctml:latitude>
+    <ctml:longitude>10.97187000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76879" kind="city">
+    <ctml:name>Gassol</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Taraba</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q5526456</ctml:wikiDataId>
+    <ctml:latitude>8.53535000</ctml:latitude>
+    <ctml:longitude>10.44615000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76883" kind="city">
+    <ctml:name>Gembu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Taraba</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q5530585</ctml:wikiDataId>
+    <ctml:latitude>6.72556000</ctml:latitude>
+    <ctml:longitude>11.25652000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76908" kind="admin2">
+    <ctml:name>Ibi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Taraba</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q183298</ctml:wikiDataId>
+    <ctml:latitude>8.18122000</ctml:latitude>
+    <ctml:longitude>9.74431000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77008" kind="admin2">
+    <ctml:name>Lau</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Taraba</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q8673</ctml:wikiDataId>
+    <ctml:latitude>9.20827000</ctml:latitude>
+    <ctml:longitude>11.27541000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77036" kind="admin2">
+    <ctml:name>Mutum Biyu</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Taraba</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q1951627</ctml:wikiDataId>
+    <ctml:latitude>8.64138000</ctml:latitude>
+    <ctml:longitude>10.77355000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77092" kind="city">
+    <ctml:name>Riti</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Taraba</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q1023703</ctml:wikiDataId>
+    <ctml:latitude>7.90844000</ctml:latitude>
+    <ctml:longitude>9.61688000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77136" kind="admin2">
+    <ctml:name>Wukari</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Taraba</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q574593</ctml:wikiDataId>
+    <ctml:latitude>7.87139000</ctml:latitude>
+    <ctml:longitude>9.77786000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76832" kind="city">
+    <ctml:name>Dankalwa</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Yobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-YO</ctml:parentRef>
+    <ctml:wikiDataId>Q1023722</ctml:wikiDataId>
+    <ctml:latitude>11.74449000</ctml:latitude>
+    <ctml:longitude>12.18545000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76834" kind="admin2">
+    <ctml:name>Dapchi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Yobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-YO</ctml:parentRef>
+    <ctml:wikiDataId>Q1023722</ctml:wikiDataId>
+    <ctml:latitude>12.49536000</ctml:latitude>
+    <ctml:longitude>11.49977000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76869" kind="admin2">
+    <ctml:name>Fika</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Yobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-YO</ctml:parentRef>
+    <ctml:wikiDataId>Q5448220</ctml:wikiDataId>
+    <ctml:latitude>11.37700000</ctml:latitude>
+    <ctml:longitude>11.23746000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76878" kind="admin2">
+    <ctml:name>Gashua</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Yobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-YO</ctml:parentRef>
+    <ctml:wikiDataId>Q5526456</ctml:wikiDataId>
+    <ctml:latitude>12.87398000</ctml:latitude>
+    <ctml:longitude>11.04057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76882" kind="admin2">
+    <ctml:name>Geidam</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Yobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-YO</ctml:parentRef>
+    <ctml:wikiDataId>Q5526456</ctml:wikiDataId>
+    <ctml:latitude>12.89439000</ctml:latitude>
+    <ctml:longitude>11.92649000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76886" kind="city">
+    <ctml:name>Goniri</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Yobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-YO</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>11.48451000</ctml:latitude>
+    <ctml:longitude>12.31264000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76888" kind="city">
+    <ctml:name>Gorgoram</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Yobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-YO</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>12.63958000</ctml:latitude>
+    <ctml:longitude>10.70422000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76890" kind="city">
+    <ctml:name>Gujba</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Yobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-YO</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>11.49959000</ctml:latitude>
+    <ctml:longitude>11.93396000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76900" kind="city">
+    <ctml:name>Gwio Kura</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Yobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-YO</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>12.67479000</ctml:latitude>
+    <ctml:longitude>11.06690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76992" kind="city">
+    <ctml:name>Kumagunnam</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Yobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-YO</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>13.15498000</ctml:latitude>
+    <ctml:longitude>10.63468000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77003" kind="city">
+    <ctml:name>Lajere</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Yobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-YO</ctml:parentRef>
+    <ctml:wikiDataId>Q8673</ctml:wikiDataId>
+    <ctml:latitude>11.98022000</ctml:latitude>
+    <ctml:longitude>11.44002000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77012" kind="admin2">
+    <ctml:name>Machina</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Yobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-YO</ctml:parentRef>
+    <ctml:wikiDataId>Q8673</ctml:wikiDataId>
+    <ctml:latitude>13.13639000</ctml:latitude>
+    <ctml:longitude>10.04924000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77042" kind="admin2">
+    <ctml:name>Nguru</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Yobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-YO</ctml:parentRef>
+    <ctml:wikiDataId>Q1951627</ctml:wikiDataId>
+    <ctml:latitude>12.87695000</ctml:latitude>
+    <ctml:longitude>10.45536000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77089" kind="admin2">
+    <ctml:name>Potiskum</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Yobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-YO</ctml:parentRef>
+    <ctml:wikiDataId>Q1023703</ctml:wikiDataId>
+    <ctml:latitude>11.71391000</ctml:latitude>
+    <ctml:longitude>11.08108000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76773" kind="admin2">
+    <ctml:name>Anka</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Zamfara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ZA</ctml:parentRef>
+    <ctml:wikiDataId>Q423831</ctml:wikiDataId>
+    <ctml:latitude>12.11347000</ctml:latitude>
+    <ctml:longitude>5.92681000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76829" kind="city">
+    <ctml:name>Dan Sadau</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Zamfara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ZA</ctml:parentRef>
+    <ctml:wikiDataId>Q1023722</ctml:wikiDataId>
+    <ctml:latitude>11.29621000</ctml:latitude>
+    <ctml:longitude>6.49520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76893" kind="admin2">
+    <ctml:name>Gummi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Zamfara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ZA</ctml:parentRef>
+    <ctml:wikiDataId>Q591598</ctml:wikiDataId>
+    <ctml:latitude>12.14484000</ctml:latitude>
+    <ctml:longitude>5.11776000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-76980" kind="admin2">
+    <ctml:name>Kaura Namoda</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Zamfara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ZA</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>12.59371000</ctml:latitude>
+    <ctml:longitude>6.58648000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-76998" kind="city">
+    <ctml:name>Kwatarkwashi</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Zamfara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ZA</ctml:parentRef>
+    <ctml:wikiDataId>Q937487</ctml:wikiDataId>
+    <ctml:latitude>12.14082000</ctml:latitude>
+    <ctml:longitude>6.82196000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77025" kind="admin2">
+    <ctml:name>Maru</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Zamfara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ZA</ctml:parentRef>
+    <ctml:wikiDataId>Q994096</ctml:wikiDataId>
+    <ctml:latitude>12.33360000</ctml:latitude>
+    <ctml:longitude>6.40372000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77034" kind="city">
+    <ctml:name>Moriki</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Zamfara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ZA</ctml:parentRef>
+    <ctml:wikiDataId>Q6887995</ctml:wikiDataId>
+    <ctml:latitude>12.87405000</ctml:latitude>
+    <ctml:longitude>6.48754000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NGA-77100" kind="city">
+    <ctml:name>Sauri</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Zamfara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ZA</ctml:parentRef>
+    <ctml:wikiDataId>Q3500788</ctml:wikiDataId>
+    <ctml:latitude>11.72655000</ctml:latitude>
+    <ctml:longitude>6.78374000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NGA-77115" kind="admin2">
+    <ctml:name>Tsafe</ctml:name>
+    <ctml:country>NGA</ctml:country>
+    <ctml:admin1>Zamfara</ctml:admin1>
+    <ctml:parentRef>place:admin1:NG-ZA</ctml:parentRef>
+    <ctml:wikiDataId>Q336350</ctml:wikiDataId>
+    <ctml:latitude>11.95775000</ctml:latitude>
+    <ctml:longitude>6.92083000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

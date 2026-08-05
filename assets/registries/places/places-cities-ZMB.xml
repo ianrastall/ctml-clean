@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ZMB-131332" kind="city">
+    <ctml:name>Chibombo</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1071771</ctml:wikiDataId>
+    <ctml:latitude>-14.65685000</ctml:latitude>
+    <ctml:longitude>28.07057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131333" kind="city">
+    <ctml:name>Chibombo District</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-02</ctml:parentRef>
+    <ctml:wikiDataId>Q595913</ctml:wikiDataId>
+    <ctml:latitude>-14.65808000</ctml:latitude>
+    <ctml:longitude>28.07376000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131352" kind="city">
+    <ctml:name>Kapiri Mposhi</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-02</ctml:parentRef>
+    <ctml:wikiDataId>Q985822</ctml:wikiDataId>
+    <ctml:latitude>-13.97147000</ctml:latitude>
+    <ctml:longitude>28.66985000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131371" kind="city">
+    <ctml:name>Mkushi</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-02</ctml:parentRef>
+    <ctml:wikiDataId>Q572000</ctml:wikiDataId>
+    <ctml:latitude>-13.62015000</ctml:latitude>
+    <ctml:longitude>29.39390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131380" kind="city">
+    <ctml:name>Mumbwa</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1952600</ctml:wikiDataId>
+    <ctml:latitude>-14.98293000</ctml:latitude>
+    <ctml:longitude>27.06190000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131393" kind="city">
+    <ctml:name>Serenje</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2272373</ctml:wikiDataId>
+    <ctml:latitude>-13.23251000</ctml:latitude>
+    <ctml:longitude>30.23522000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131331" kind="city">
+    <ctml:name>Chambishi</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Copperbelt</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1060403</ctml:wikiDataId>
+    <ctml:latitude>-12.63247000</ctml:latitude>
+    <ctml:longitude>28.05367000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131334" kind="city">
+    <ctml:name>Chililabombwe</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Copperbelt</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-08</ctml:parentRef>
+    <ctml:wikiDataId>Q993200</ctml:wikiDataId>
+    <ctml:latitude>-12.36475000</ctml:latitude>
+    <ctml:longitude>27.82286000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZMB-131335" kind="admin2">
+    <ctml:name>Chingola</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Copperbelt</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-08</ctml:parentRef>
+    <ctml:wikiDataId>Q431533</ctml:wikiDataId>
+    <ctml:latitude>-12.52897000</ctml:latitude>
+    <ctml:longitude>27.88382000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131336" kind="city">
+    <ctml:name>Chingola District</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Copperbelt</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3031128</ctml:wikiDataId>
+    <ctml:latitude>-12.48478000</ctml:latitude>
+    <ctml:longitude>27.66313000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131349" kind="city">
+    <ctml:name>Kalulushi</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Copperbelt</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1014130</ctml:wikiDataId>
+    <ctml:latitude>-12.84151000</ctml:latitude>
+    <ctml:longitude>28.09479000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131356" kind="city">
+    <ctml:name>Kataba</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Copperbelt</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1584887</ctml:wikiDataId>
+    <ctml:latitude>-11.88333000</ctml:latitude>
+    <ctml:longitude>29.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131358" kind="city">
+    <ctml:name>Kitwe</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Copperbelt</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-08</ctml:parentRef>
+    <ctml:wikiDataId>Q239580</ctml:wikiDataId>
+    <ctml:latitude>-12.80243000</ctml:latitude>
+    <ctml:longitude>28.21323000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131362" kind="city">
+    <ctml:name>Luanshya</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Copperbelt</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-08</ctml:parentRef>
+    <ctml:wikiDataId>Q854109</ctml:wikiDataId>
+    <ctml:latitude>-13.13667000</ctml:latitude>
+    <ctml:longitude>28.41661000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131375" kind="city">
+    <ctml:name>Mpongwe</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Copperbelt</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-08</ctml:parentRef>
+    <ctml:wikiDataId>Q31959439</ctml:wikiDataId>
+    <ctml:latitude>-13.50914000</ctml:latitude>
+    <ctml:longitude>28.15504000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131378" kind="city">
+    <ctml:name>Mufulira</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Copperbelt</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-08</ctml:parentRef>
+    <ctml:wikiDataId>Q636209</ctml:wikiDataId>
+    <ctml:latitude>-12.54982000</ctml:latitude>
+    <ctml:longitude>28.24071000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131329" kind="city">
+    <ctml:name>Chadiza</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1058666</ctml:wikiDataId>
+    <ctml:latitude>-14.06779000</ctml:latitude>
+    <ctml:longitude>32.43917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131364" kind="city">
+    <ctml:name>Lundazi</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-03</ctml:parentRef>
+    <ctml:wikiDataId>Q260171</ctml:wikiDataId>
+    <ctml:latitude>-12.29292000</ctml:latitude>
+    <ctml:longitude>33.17820000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131389" kind="city">
+    <ctml:name>Nyimba</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-03</ctml:parentRef>
+    <ctml:wikiDataId>Q31975013</ctml:wikiDataId>
+    <ctml:latitude>-14.55656000</ctml:latitude>
+    <ctml:longitude>30.81490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131390" kind="city">
+    <ctml:name>Petauke</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2073224</ctml:wikiDataId>
+    <ctml:latitude>-14.24117000</ctml:latitude>
+    <ctml:longitude>31.31975000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131357" kind="city">
+    <ctml:name>Kawambwa</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Luapula</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1737290</ctml:wikiDataId>
+    <ctml:latitude>-9.79150000</ctml:latitude>
+    <ctml:longitude>29.07913000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131382" kind="city">
+    <ctml:name>Mwense</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Luapula</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-04</ctml:parentRef>
+    <ctml:wikiDataId>Q31964641</ctml:wikiDataId>
+    <ctml:latitude>-10.38447000</ctml:latitude>
+    <ctml:longitude>28.69800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131387" kind="city">
+    <ctml:name>Nchelenge</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Luapula</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-04</ctml:parentRef>
+    <ctml:wikiDataId>Q287722</ctml:wikiDataId>
+    <ctml:latitude>-9.34506000</ctml:latitude>
+    <ctml:longitude>28.73396000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131391" kind="city">
+    <ctml:name>Samfya</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Luapula</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2093156</ctml:wikiDataId>
+    <ctml:latitude>-11.36491000</ctml:latitude>
+    <ctml:longitude>29.55652000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131340" kind="city">
+    <ctml:name>Chongwe</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Lusaka</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-09</ctml:parentRef>
+    <ctml:wikiDataId>Q31906348</ctml:wikiDataId>
+    <ctml:latitude>-15.32916000</ctml:latitude>
+    <ctml:longitude>28.68204000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131346" kind="city">
+    <ctml:name>Kafue</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Lusaka</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1022290</ctml:wikiDataId>
+    <ctml:latitude>-15.76911000</ctml:latitude>
+    <ctml:longitude>28.18136000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131361" kind="city">
+    <ctml:name>Luangwa</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Lusaka</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1304609</ctml:wikiDataId>
+    <ctml:latitude>-15.61667000</ctml:latitude>
+    <ctml:longitude>30.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131365" kind="city">
+    <ctml:name>Lusaka</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Lusaka</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3881</ctml:wikiDataId>
+    <ctml:latitude>-15.40669000</ctml:latitude>
+    <ctml:longitude>28.28713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131330" kind="city">
+    <ctml:name>Chama</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Muchinga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1060403</ctml:wikiDataId>
+    <ctml:latitude>-11.21303000</ctml:latitude>
+    <ctml:longitude>33.15210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131342" kind="city">
+    <ctml:name>Isoka</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Muchinga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1674448</ctml:wikiDataId>
+    <ctml:latitude>-10.16062000</ctml:latitude>
+    <ctml:longitude>32.63353000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131374" kind="city">
+    <ctml:name>Mpika</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Muchinga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1004510</ctml:wikiDataId>
+    <ctml:latitude>-11.83431000</ctml:latitude>
+    <ctml:longitude>31.45287000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131385" kind="city">
+    <ctml:name>Nakonde</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Muchinga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-10</ctml:parentRef>
+    <ctml:wikiDataId>Q31966657</ctml:wikiDataId>
+    <ctml:latitude>-9.34213000</ctml:latitude>
+    <ctml:longitude>32.74500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131353" kind="city">
+    <ctml:name>Kaputa</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-05</ctml:parentRef>
+    <ctml:wikiDataId>Q31929934</ctml:wikiDataId>
+    <ctml:latitude>-8.46887000</ctml:latitude>
+    <ctml:longitude>29.66193000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131366" kind="city">
+    <ctml:name>Luwingu</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1878272</ctml:wikiDataId>
+    <ctml:latitude>-10.26210000</ctml:latitude>
+    <ctml:longitude>29.92712000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131370" kind="city">
+    <ctml:name>Mbala</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1014108</ctml:wikiDataId>
+    <ctml:latitude>-8.84024000</ctml:latitude>
+    <ctml:longitude>31.36587000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131376" kind="city">
+    <ctml:name>Mporokoso</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1022156</ctml:wikiDataId>
+    <ctml:latitude>-9.37273000</ctml:latitude>
+    <ctml:longitude>30.12501000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131377" kind="city">
+    <ctml:name>Mpulungu</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1951400</ctml:wikiDataId>
+    <ctml:latitude>-8.76234000</ctml:latitude>
+    <ctml:longitude>31.11405000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131381" kind="city">
+    <ctml:name>Mungwi</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-05</ctml:parentRef>
+    <ctml:wikiDataId>Q31961167</ctml:wikiDataId>
+    <ctml:latitude>-10.17320000</ctml:latitude>
+    <ctml:longitude>31.36942000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131344" kind="city">
+    <ctml:name>Kabompo</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Northwestern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1001226</ctml:wikiDataId>
+    <ctml:latitude>-13.59268000</ctml:latitude>
+    <ctml:longitude>24.20081000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131348" kind="city">
+    <ctml:name>Kalengwa</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Northwestern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-06</ctml:parentRef>
+    <ctml:wikiDataId>Q31929243</ctml:wikiDataId>
+    <ctml:latitude>-13.46586000</ctml:latitude>
+    <ctml:longitude>25.00271000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131350" kind="city">
+    <ctml:name>Kansanshi</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Northwestern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1014130</ctml:wikiDataId>
+    <ctml:latitude>-12.09514000</ctml:latitude>
+    <ctml:longitude>26.42727000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131355" kind="city">
+    <ctml:name>Kasempa</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Northwestern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1734917</ctml:wikiDataId>
+    <ctml:latitude>-13.45836000</ctml:latitude>
+    <ctml:longitude>25.83380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131379" kind="city">
+    <ctml:name>Mufumbwe</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Northwestern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-06</ctml:parentRef>
+    <ctml:wikiDataId>Q31960445</ctml:wikiDataId>
+    <ctml:latitude>-13.68333000</ctml:latitude>
+    <ctml:longitude>24.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131383" kind="city">
+    <ctml:name>Mwinilunga</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Northwestern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1956313</ctml:wikiDataId>
+    <ctml:latitude>-11.73584000</ctml:latitude>
+    <ctml:longitude>24.42926000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131399" kind="city">
+    <ctml:name>Zambezi</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Northwestern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-06</ctml:parentRef>
+    <ctml:wikiDataId>Q145470</ctml:wikiDataId>
+    <ctml:latitude>-13.54323000</ctml:latitude>
+    <ctml:longitude>23.10467000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131341" kind="city">
+    <ctml:name>Gwembe</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1022140</ctml:wikiDataId>
+    <ctml:latitude>-16.49755000</ctml:latitude>
+    <ctml:longitude>27.60691000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131343" kind="city">
+    <ctml:name>Itezhi-Tezhi</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3030957</ctml:wikiDataId>
+    <ctml:latitude>-15.74092000</ctml:latitude>
+    <ctml:longitude>26.04146000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZMB-131360" kind="admin2">
+    <ctml:name>Livingstone</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1866604</ctml:wikiDataId>
+    <ctml:latitude>-17.84194000</ctml:latitude>
+    <ctml:longitude>25.85425000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131367" kind="city">
+    <ctml:name>Maamba</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-07</ctml:parentRef>
+    <ctml:wikiDataId>Q31945986</ctml:wikiDataId>
+    <ctml:latitude>-17.36667000</ctml:latitude>
+    <ctml:longitude>27.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131369" kind="city">
+    <ctml:name>Mazabuka</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1859663</ctml:wikiDataId>
+    <ctml:latitude>-15.85601000</ctml:latitude>
+    <ctml:longitude>27.74800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131373" kind="city">
+    <ctml:name>Monze</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-07</ctml:parentRef>
+    <ctml:wikiDataId>Q31957419</ctml:wikiDataId>
+    <ctml:latitude>-16.28333000</ctml:latitude>
+    <ctml:longitude>27.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131384" kind="city">
+    <ctml:name>Nakambala</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-07</ctml:parentRef>
+    <ctml:wikiDataId>Q31966512</ctml:wikiDataId>
+    <ctml:latitude>-15.83244000</ctml:latitude>
+    <ctml:longitude>27.77994000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131386" kind="city">
+    <ctml:name>Namwala</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-07</ctml:parentRef>
+    <ctml:wikiDataId>Q912503</ctml:wikiDataId>
+    <ctml:latitude>-15.75042000</ctml:latitude>
+    <ctml:longitude>26.43839000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131395" kind="city">
+    <ctml:name>Siavonga</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2280835</ctml:wikiDataId>
+    <ctml:latitude>-16.53818000</ctml:latitude>
+    <ctml:longitude>28.70876000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131396" kind="city">
+    <ctml:name>Siavonga District</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-07</ctml:parentRef>
+    <ctml:wikiDataId>Q3031862</ctml:wikiDataId>
+    <ctml:latitude>-16.26742000</ctml:latitude>
+    <ctml:longitude>28.55036000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131397" kind="city">
+    <ctml:name>Sinazongwe</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-07</ctml:parentRef>
+    <ctml:wikiDataId>Q996098</ctml:wikiDataId>
+    <ctml:latitude>-17.26140000</ctml:latitude>
+    <ctml:longitude>27.46179000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131347" kind="city">
+    <ctml:name>Kalabo</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1015056</ctml:wikiDataId>
+    <ctml:latitude>-14.99307000</ctml:latitude>
+    <ctml:longitude>22.67926000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131351" kind="city">
+    <ctml:name>Kaoma</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1728285</ctml:wikiDataId>
+    <ctml:latitude>-14.78333000</ctml:latitude>
+    <ctml:longitude>24.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131359" kind="city">
+    <ctml:name>Limulunga</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-01</ctml:parentRef>
+    <ctml:wikiDataId>Q624670</ctml:wikiDataId>
+    <ctml:latitude>-15.09691000</ctml:latitude>
+    <ctml:longitude>23.13757000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131363" kind="city">
+    <ctml:name>Lukulu</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1629398</ctml:wikiDataId>
+    <ctml:latitude>-14.37067000</ctml:latitude>
+    <ctml:longitude>23.24196000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131392" kind="city">
+    <ctml:name>Senanga</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-01</ctml:parentRef>
+    <ctml:wikiDataId>Q569090</ctml:wikiDataId>
+    <ctml:latitude>-16.11667000</ctml:latitude>
+    <ctml:longitude>23.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZMB-131394" kind="city">
+    <ctml:name>Sesheke</ctml:name>
+    <ctml:country>ZMB</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZM-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1756357</ctml:wikiDataId>
+    <ctml:latitude>-17.47593000</ctml:latitude>
+    <ctml:longitude>24.29684000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

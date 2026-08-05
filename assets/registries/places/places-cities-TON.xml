@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:TON-107044" kind="city">
+    <ctml:name>Haveluloto</ctml:name>
+    <ctml:country>TON</ctml:country>
+    <ctml:admin1>Tongatapu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q148142</ctml:wikiDataId>
+    <ctml:latitude>-21.15216000</ctml:latitude>
+    <ctml:longitude>-175.21333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TON-107046" kind="city">
+    <ctml:name>Kolonga</ctml:name>
+    <ctml:country>TON</ctml:country>
+    <ctml:admin1>Tongatapu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3711234</ctml:wikiDataId>
+    <ctml:latitude>-21.13333000</ctml:latitude>
+    <ctml:longitude>-175.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TON-107048" kind="city">
+    <ctml:name>Nuku‘alofa</ctml:name>
+    <ctml:country>TON</ctml:country>
+    <ctml:admin1>Tongatapu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q38834</ctml:wikiDataId>
+    <ctml:latitude>-21.13938000</ctml:latitude>
+    <ctml:longitude>-175.20180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TON-107050" kind="city">
+    <ctml:name>Vaini</ctml:name>
+    <ctml:country>TON</ctml:country>
+    <ctml:admin1>Tongatapu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TO-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1027037</ctml:wikiDataId>
+    <ctml:latitude>-21.19292000</ctml:latitude>
+    <ctml:longitude>-175.17678000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

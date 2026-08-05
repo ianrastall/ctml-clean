@@ -1,0 +1,3819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:DNK-30993" kind="admin2">
+    <ctml:name>Aarhus</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q25319</ctml:wikiDataId>
+    <ctml:latitude>56.15674000</ctml:latitude>
+    <ctml:longitude>10.21076000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30994" kind="city">
+    <ctml:name>Aarhus Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q240262</ctml:wikiDataId>
+    <ctml:latitude>56.16317000</ctml:latitude>
+    <ctml:longitude>10.16897000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30580" kind="city">
+    <ctml:name>Allingåbro</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q3218538</ctml:wikiDataId>
+    <ctml:latitude>56.46432000</ctml:latitude>
+    <ctml:longitude>10.31957000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30585" kind="city">
+    <ctml:name>Assentoft</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2450123</ctml:wikiDataId>
+    <ctml:latitude>56.44210000</ctml:latitude>
+    <ctml:longitude>10.15170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30587" kind="city">
+    <ctml:name>Auning</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2262931</ctml:wikiDataId>
+    <ctml:latitude>56.43079000</ctml:latitude>
+    <ctml:longitude>10.37818000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30588" kind="city">
+    <ctml:name>Avlum</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q1771824</ctml:wikiDataId>
+    <ctml:latitude>56.26539000</ctml:latitude>
+    <ctml:longitude>8.79256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30591" kind="city">
+    <ctml:name>Beder</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q4441429</ctml:wikiDataId>
+    <ctml:latitude>56.06025000</ctml:latitude>
+    <ctml:longitude>10.21179000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30596" kind="city">
+    <ctml:name>Bjerringbro</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q4919613</ctml:wikiDataId>
+    <ctml:latitude>56.37797000</ctml:latitude>
+    <ctml:longitude>9.66065000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30600" kind="city">
+    <ctml:name>Bording Kirkeby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q23749528</ctml:wikiDataId>
+    <ctml:latitude>56.16871000</ctml:latitude>
+    <ctml:longitude>9.24384000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30604" kind="city">
+    <ctml:name>Brande</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q897848</ctml:wikiDataId>
+    <ctml:latitude>55.94316000</ctml:latitude>
+    <ctml:longitude>9.12798000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30609" kind="city">
+    <ctml:name>Brædstrup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2717744</ctml:wikiDataId>
+    <ctml:latitude>55.97153000</ctml:latitude>
+    <ctml:longitude>9.61129000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30626" kind="city">
+    <ctml:name>Ebeltoft</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q523400</ctml:wikiDataId>
+    <ctml:latitude>56.19442000</ctml:latitude>
+    <ctml:longitude>10.68210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30639" kind="city">
+    <ctml:name>Favrskov Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q512550</ctml:wikiDataId>
+    <ctml:latitude>56.31667000</ctml:latitude>
+    <ctml:longitude>9.94000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30647" kind="city">
+    <ctml:name>Framlev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q23747554</ctml:wikiDataId>
+    <ctml:latitude>56.15664000</ctml:latitude>
+    <ctml:longitude>10.01318000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30663" kind="city">
+    <ctml:name>Galten</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2372527</ctml:wikiDataId>
+    <ctml:latitude>56.15902000</ctml:latitude>
+    <ctml:longitude>9.91691000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30669" kind="city">
+    <ctml:name>Gjellerup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q4994802</ctml:wikiDataId>
+    <ctml:latitude>56.14616000</ctml:latitude>
+    <ctml:longitude>9.05467000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30675" kind="admin2">
+    <ctml:name>Grenaa</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q3619316</ctml:wikiDataId>
+    <ctml:latitude>56.41578000</ctml:latitude>
+    <ctml:longitude>10.87825000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30688" kind="city">
+    <ctml:name>Hadsten</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q3522043</ctml:wikiDataId>
+    <ctml:latitude>56.32819000</ctml:latitude>
+    <ctml:longitude>10.04931000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30692" kind="city">
+    <ctml:name>Hammel</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2604983</ctml:wikiDataId>
+    <ctml:latitude>56.25762000</ctml:latitude>
+    <ctml:longitude>9.86316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30693" kind="city">
+    <ctml:name>Hammerum</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2604983</ctml:wikiDataId>
+    <ctml:latitude>56.13361000</ctml:latitude>
+    <ctml:longitude>9.06121000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30695" kind="city">
+    <ctml:name>Harboøre</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q12315699</ctml:wikiDataId>
+    <ctml:latitude>56.61752000</ctml:latitude>
+    <ctml:longitude>8.18069000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30698" kind="admin2">
+    <ctml:name>Hedensted</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q3500912</ctml:wikiDataId>
+    <ctml:latitude>55.77043000</ctml:latitude>
+    <ctml:longitude>9.70110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30699" kind="city">
+    <ctml:name>Hedensted Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q515986</ctml:wikiDataId>
+    <ctml:latitude>55.79680000</ctml:latitude>
+    <ctml:longitude>9.74400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30705" kind="admin2">
+    <ctml:name>Herning</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q27393</ctml:wikiDataId>
+    <ctml:latitude>56.13615000</ctml:latitude>
+    <ctml:longitude>8.97662000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30706" kind="city">
+    <ctml:name>Herning Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q506877</ctml:wikiDataId>
+    <ctml:latitude>56.14997000</ctml:latitude>
+    <ctml:longitude>8.89712000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30709" kind="admin2">
+    <ctml:name>Hinnerup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q3175755</ctml:wikiDataId>
+    <ctml:latitude>56.26608000</ctml:latitude>
+    <ctml:longitude>10.06299000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30712" kind="city">
+    <ctml:name>Hjortshøj</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2692491</ctml:wikiDataId>
+    <ctml:latitude>56.24811000</ctml:latitude>
+    <ctml:longitude>10.26533000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30719" kind="admin2">
+    <ctml:name>Holstebro</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q27678</ctml:wikiDataId>
+    <ctml:latitude>56.36009000</ctml:latitude>
+    <ctml:longitude>8.61607000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30720" kind="admin2">
+    <ctml:name>Holstebro Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q506109</ctml:wikiDataId>
+    <ctml:latitude>56.35916000</ctml:latitude>
+    <ctml:longitude>8.59631000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30723" kind="city">
+    <ctml:name>Hornslet</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q1809950</ctml:wikiDataId>
+    <ctml:latitude>56.31550000</ctml:latitude>
+    <ctml:longitude>10.32041000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30724" kind="city">
+    <ctml:name>Hornsyld</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q5373628</ctml:wikiDataId>
+    <ctml:latitude>55.75621000</ctml:latitude>
+    <ctml:longitude>9.85643000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30725" kind="admin2">
+    <ctml:name>Horsens</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q190235</ctml:wikiDataId>
+    <ctml:latitude>55.86066000</ctml:latitude>
+    <ctml:longitude>9.85034000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30726" kind="city">
+    <ctml:name>Horsens Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q512064</ctml:wikiDataId>
+    <ctml:latitude>55.92740000</ctml:latitude>
+    <ctml:longitude>9.77377000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30738" kind="city">
+    <ctml:name>Hørning</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q3527551</ctml:wikiDataId>
+    <ctml:latitude>56.08701000</ctml:latitude>
+    <ctml:longitude>10.03716000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30730" kind="city">
+    <ctml:name>Hvide Sande</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q734408</ctml:wikiDataId>
+    <ctml:latitude>55.99866000</ctml:latitude>
+    <ctml:longitude>8.12605000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30743" kind="admin2">
+    <ctml:name>Ikast</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q1021277</ctml:wikiDataId>
+    <ctml:latitude>56.13883000</ctml:latitude>
+    <ctml:longitude>9.15768000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30744" kind="city">
+    <ctml:name>Ikast-Brande Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q512595</ctml:wikiDataId>
+    <ctml:latitude>55.98333000</ctml:latitude>
+    <ctml:longitude>9.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30749" kind="city">
+    <ctml:name>Juelsminde</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q835708</ctml:wikiDataId>
+    <ctml:latitude>55.70876000</ctml:latitude>
+    <ctml:longitude>10.01668000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30755" kind="city">
+    <ctml:name>Karup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q1734691</ctml:wikiDataId>
+    <ctml:latitude>56.30673000</ctml:latitude>
+    <ctml:longitude>9.16835000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30758" kind="city">
+    <ctml:name>Kibæk</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2693547</ctml:wikiDataId>
+    <ctml:latitude>56.03170000</ctml:latitude>
+    <ctml:longitude>8.85697000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30760" kind="city">
+    <ctml:name>Kjellerup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2302168</ctml:wikiDataId>
+    <ctml:latitude>56.28581000</ctml:latitude>
+    <ctml:longitude>9.43528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30765" kind="city">
+    <ctml:name>Kolt</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q23746178</ctml:wikiDataId>
+    <ctml:latitude>56.10845000</ctml:latitude>
+    <ctml:longitude>10.06986000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30775" kind="city">
+    <ctml:name>Langå</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q3528917</ctml:wikiDataId>
+    <ctml:latitude>56.39026000</ctml:latitude>
+    <ctml:longitude>9.89486000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30778" kind="admin2">
+    <ctml:name>Lemvig</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q502632</ctml:wikiDataId>
+    <ctml:latitude>56.54856000</ctml:latitude>
+    <ctml:longitude>8.31019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30779" kind="admin2">
+    <ctml:name>Lemvig Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q502644</ctml:wikiDataId>
+    <ctml:latitude>56.49136000</ctml:latitude>
+    <ctml:longitude>8.29927000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30781" kind="city">
+    <ctml:name>Lind</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q23744911</ctml:wikiDataId>
+    <ctml:latitude>56.10600000</ctml:latitude>
+    <ctml:longitude>8.97915000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30790" kind="city">
+    <ctml:name>Løgten</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q1865449</ctml:wikiDataId>
+    <ctml:latitude>56.27459000</ctml:latitude>
+    <ctml:longitude>10.31181000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30787" kind="city">
+    <ctml:name>Lystrup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2633183</ctml:wikiDataId>
+    <ctml:latitude>56.23750000</ctml:latitude>
+    <ctml:longitude>10.23778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30794" kind="city">
+    <ctml:name>Malling</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q1011688</ctml:wikiDataId>
+    <ctml:latitude>56.03632000</ctml:latitude>
+    <ctml:longitude>10.19632000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30804" kind="city">
+    <ctml:name>Mårslet</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2038569</ctml:wikiDataId>
+    <ctml:latitude>56.06690000</ctml:latitude>
+    <ctml:longitude>10.16112000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30813" kind="city">
+    <ctml:name>Norddjurs Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q505156</ctml:wikiDataId>
+    <ctml:latitude>56.44124000</ctml:latitude>
+    <ctml:longitude>10.76660000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30827" kind="admin2">
+    <ctml:name>Odder</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q925736</ctml:wikiDataId>
+    <ctml:latitude>55.97313000</ctml:latitude>
+    <ctml:longitude>10.15300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30828" kind="admin2">
+    <ctml:name>Odder Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q500058</ctml:wikiDataId>
+    <ctml:latitude>55.92967000</ctml:latitude>
+    <ctml:longitude>10.15304000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30838" kind="admin2">
+    <ctml:name>Randers</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q27168</ctml:wikiDataId>
+    <ctml:latitude>56.46070000</ctml:latitude>
+    <ctml:longitude>10.03639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30839" kind="city">
+    <ctml:name>Randers Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q512457</ctml:wikiDataId>
+    <ctml:latitude>56.51561000</ctml:latitude>
+    <ctml:longitude>10.06901000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30843" kind="admin2">
+    <ctml:name>Ringkøbing</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q502693</ctml:wikiDataId>
+    <ctml:latitude>56.09006000</ctml:latitude>
+    <ctml:longitude>8.24402000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30844" kind="city">
+    <ctml:name>Ringkøbing-Skjern Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q514777</ctml:wikiDataId>
+    <ctml:latitude>56.01000000</ctml:latitude>
+    <ctml:longitude>8.39667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30860" kind="admin2">
+    <ctml:name>Rønde</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q1993774</ctml:wikiDataId>
+    <ctml:latitude>56.30145000</ctml:latitude>
+    <ctml:longitude>10.47505000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30851" kind="city">
+    <ctml:name>Ry</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q3350663</ctml:wikiDataId>
+    <ctml:latitude>56.09038000</ctml:latitude>
+    <ctml:longitude>9.76505000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30852" kind="city">
+    <ctml:name>Ryomgård</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2555857</ctml:wikiDataId>
+    <ctml:latitude>56.38430000</ctml:latitude>
+    <ctml:longitude>10.50295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30863" kind="city">
+    <ctml:name>Sabro</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q7396449</ctml:wikiDataId>
+    <ctml:latitude>56.21333000</ctml:latitude>
+    <ctml:longitude>10.03441000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30865" kind="city">
+    <ctml:name>Samsø Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q513256</ctml:wikiDataId>
+    <ctml:latitude>55.85245000</ctml:latitude>
+    <ctml:longitude>10.60045000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30867" kind="admin2">
+    <ctml:name>Silkeborg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q21180</ctml:wikiDataId>
+    <ctml:latitude>56.16970000</ctml:latitude>
+    <ctml:longitude>9.54508000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30868" kind="admin2">
+    <ctml:name>Silkeborg Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q505151</ctml:wikiDataId>
+    <ctml:latitude>56.17495000</ctml:latitude>
+    <ctml:longitude>9.54666000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30872" kind="admin2">
+    <ctml:name>Skanderborg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q503379</ctml:wikiDataId>
+    <ctml:latitude>56.03434000</ctml:latitude>
+    <ctml:longitude>9.93177000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30873" kind="city">
+    <ctml:name>Skanderborg Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q7725510</ctml:wikiDataId>
+    <ctml:latitude>56.07956000</ctml:latitude>
+    <ctml:longitude>9.89868000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30875" kind="admin2">
+    <ctml:name>Skive</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q1019470</ctml:wikiDataId>
+    <ctml:latitude>56.56699000</ctml:latitude>
+    <ctml:longitude>9.02707000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30876" kind="city">
+    <ctml:name>Skive Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q503108</ctml:wikiDataId>
+    <ctml:latitude>56.64478000</ctml:latitude>
+    <ctml:longitude>8.97660000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30877" kind="city">
+    <ctml:name>Skjern</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2035962</ctml:wikiDataId>
+    <ctml:latitude>55.95000000</ctml:latitude>
+    <ctml:longitude>8.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30878" kind="city">
+    <ctml:name>Skovby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2035962</ctml:wikiDataId>
+    <ctml:latitude>56.15672000</ctml:latitude>
+    <ctml:longitude>9.94523000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30886" kind="city">
+    <ctml:name>Snejbjerg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q1715139</ctml:wikiDataId>
+    <ctml:latitude>56.13291000</ctml:latitude>
+    <ctml:longitude>8.90353000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30888" kind="city">
+    <ctml:name>Solbjerg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2884430</ctml:wikiDataId>
+    <ctml:latitude>56.04271000</ctml:latitude>
+    <ctml:longitude>10.08631000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30925" kind="city">
+    <ctml:name>Søften</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q1880810</ctml:wikiDataId>
+    <ctml:latitude>56.23801000</ctml:latitude>
+    <ctml:longitude>10.08510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30894" kind="city">
+    <ctml:name>Spentrup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2403073</ctml:wikiDataId>
+    <ctml:latitude>56.53703000</ctml:latitude>
+    <ctml:longitude>10.03792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30897" kind="city">
+    <ctml:name>Stavtrup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2107465</ctml:wikiDataId>
+    <ctml:latitude>56.13124000</ctml:latitude>
+    <ctml:longitude>10.11987000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30903" kind="city">
+    <ctml:name>Stilling</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2382537</ctml:wikiDataId>
+    <ctml:latitude>56.06224000</ctml:latitude>
+    <ctml:longitude>9.98822000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30904" kind="city">
+    <ctml:name>Stoholm</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2311042</ctml:wikiDataId>
+    <ctml:latitude>56.48454000</ctml:latitude>
+    <ctml:longitude>9.14617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30909" kind="admin2">
+    <ctml:name>Struer</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q1797189</ctml:wikiDataId>
+    <ctml:latitude>56.49205000</ctml:latitude>
+    <ctml:longitude>8.59397000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30910" kind="admin2">
+    <ctml:name>Struer Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q503227</ctml:wikiDataId>
+    <ctml:latitude>56.46667000</ctml:latitude>
+    <ctml:longitude>8.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30915" kind="city">
+    <ctml:name>Sunds</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2788609</ctml:wikiDataId>
+    <ctml:latitude>56.20743000</ctml:latitude>
+    <ctml:longitude>9.01386000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30917" kind="city">
+    <ctml:name>Svejbæk</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2173126</ctml:wikiDataId>
+    <ctml:latitude>56.13255000</ctml:latitude>
+    <ctml:longitude>9.63289000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30923" kind="city">
+    <ctml:name>Syddjurs Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q512581</ctml:wikiDataId>
+    <ctml:latitude>56.31250000</ctml:latitude>
+    <ctml:longitude>10.52083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30931" kind="city">
+    <ctml:name>Tarm</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2582163</ctml:wikiDataId>
+    <ctml:latitude>55.90861000</ctml:latitude>
+    <ctml:longitude>8.53041000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30936" kind="city">
+    <ctml:name>Thyborøn</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q165793</ctml:wikiDataId>
+    <ctml:latitude>56.69846000</ctml:latitude>
+    <ctml:longitude>8.21238000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30952" kind="city">
+    <ctml:name>Tørring</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2183058</ctml:wikiDataId>
+    <ctml:latitude>55.85000000</ctml:latitude>
+    <ctml:longitude>9.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30942" kind="city">
+    <ctml:name>Tranbjerg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2329474</ctml:wikiDataId>
+    <ctml:latitude>56.09519000</ctml:latitude>
+    <ctml:longitude>10.13605000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30943" kind="city">
+    <ctml:name>Trige</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2739196</ctml:wikiDataId>
+    <ctml:latitude>56.25291000</ctml:latitude>
+    <ctml:longitude>10.14840000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30953" kind="city">
+    <ctml:name>Ulfborg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2474915</ctml:wikiDataId>
+    <ctml:latitude>56.26725000</ctml:latitude>
+    <ctml:longitude>8.32167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30955" kind="city">
+    <ctml:name>Ulstrup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q1942974</ctml:wikiDataId>
+    <ctml:latitude>56.38994000</ctml:latitude>
+    <ctml:longitude>9.79354000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30973" kind="city">
+    <ctml:name>Viborg Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q502962</ctml:wikiDataId>
+    <ctml:latitude>56.45000000</ctml:latitude>
+    <ctml:longitude>9.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30975" kind="city">
+    <ctml:name>Videbæk</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q12343916</ctml:wikiDataId>
+    <ctml:latitude>56.08760000</ctml:latitude>
+    <ctml:longitude>8.62852000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30976" kind="city">
+    <ctml:name>Vildbjerg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2693795</ctml:wikiDataId>
+    <ctml:latitude>56.20000000</ctml:latitude>
+    <ctml:longitude>8.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30978" kind="city">
+    <ctml:name>Vinderup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q3591036</ctml:wikiDataId>
+    <ctml:latitude>56.48176000</ctml:latitude>
+    <ctml:longitude>8.77991000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30981" kind="city">
+    <ctml:name>Virklund</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Central Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-82</ctml:parentRef>
+    <ctml:wikiDataId>Q2441845</ctml:wikiDataId>
+    <ctml:latitude>56.13218000</ctml:latitude>
+    <ctml:longitude>9.55582000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30990" kind="city">
+    <ctml:name>Åkirkeby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q259969</ctml:wikiDataId>
+    <ctml:latitude>55.07080000</ctml:latitude>
+    <ctml:longitude>14.91978000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30577" kind="admin2">
+    <ctml:name>Albertslund</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q3196726</ctml:wikiDataId>
+    <ctml:latitude>55.65691000</ctml:latitude>
+    <ctml:longitude>12.36381000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30578" kind="admin2">
+    <ctml:name>Albertslund Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q493833</ctml:wikiDataId>
+    <ctml:latitude>55.68022000</ctml:latitude>
+    <ctml:longitude>12.34797000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30579" kind="city">
+    <ctml:name>Allerød Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q499479</ctml:wikiDataId>
+    <ctml:latitude>55.85856000</ctml:latitude>
+    <ctml:longitude>12.32558000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30589" kind="admin2">
+    <ctml:name>Ballerup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q28143</ctml:wikiDataId>
+    <ctml:latitude>55.73165000</ctml:latitude>
+    <ctml:longitude>12.36328000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30590" kind="admin2">
+    <ctml:name>Ballerup Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q257223</ctml:wikiDataId>
+    <ctml:latitude>55.73248000</ctml:latitude>
+    <ctml:longitude>12.35793000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30595" kind="city">
+    <ctml:name>Birkerød</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q865630</ctml:wikiDataId>
+    <ctml:latitude>55.84759000</ctml:latitude>
+    <ctml:longitude>12.42791000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30598" kind="city">
+    <ctml:name>Blovstrød</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q3054896</ctml:wikiDataId>
+    <ctml:latitude>55.87038000</ctml:latitude>
+    <ctml:longitude>12.38640000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30601" kind="city">
+    <ctml:name>Bornholm Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q2598329</ctml:wikiDataId>
+    <ctml:latitude>55.12386000</ctml:latitude>
+    <ctml:longitude>14.91115000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30610" kind="city">
+    <ctml:name>Brøndby Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q484038</ctml:wikiDataId>
+    <ctml:latitude>55.64290000</ctml:latitude>
+    <ctml:longitude>12.41101000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30616" kind="admin2">
+    <ctml:name>Charlottenlund</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q12304863</ctml:wikiDataId>
+    <ctml:latitude>55.75238000</ctml:latitude>
+    <ctml:longitude>12.57450000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30618" kind="city">
+    <ctml:name>Christianshavn</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q861363</ctml:wikiDataId>
+    <ctml:latitude>55.67383000</ctml:latitude>
+    <ctml:longitude>12.59541000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30619" kind="admin2">
+    <ctml:name>Christiansø</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q861363</ctml:wikiDataId>
+    <ctml:latitude>55.31982000</ctml:latitude>
+    <ctml:longitude>15.18783000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30620" kind="city">
+    <ctml:name>Copenhagen</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q1748</ctml:wikiDataId>
+    <ctml:latitude>43.89343900</ctml:latitude>
+    <ctml:longitude>-75.67382800</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30622" kind="admin2">
+    <ctml:name>Dragør</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q1255278</ctml:wikiDataId>
+    <ctml:latitude>55.59280000</ctml:latitude>
+    <ctml:longitude>12.67221000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30623" kind="city">
+    <ctml:name>Dragør Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q838823</ctml:wikiDataId>
+    <ctml:latitude>55.58233000</ctml:latitude>
+    <ctml:longitude>12.62756000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30627" kind="city">
+    <ctml:name>Egedal Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q505113</ctml:wikiDataId>
+    <ctml:latitude>55.75556000</ctml:latitude>
+    <ctml:longitude>12.22778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30633" kind="city">
+    <ctml:name>Espergærde</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q3058415</ctml:wikiDataId>
+    <ctml:latitude>55.99464000</ctml:latitude>
+    <ctml:longitude>12.54733000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30638" kind="admin2">
+    <ctml:name>Farum</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q3554742</ctml:wikiDataId>
+    <ctml:latitude>55.80858000</ctml:latitude>
+    <ctml:longitude>12.36066000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30645" kind="city">
+    <ctml:name>Fløng</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q5463763</ctml:wikiDataId>
+    <ctml:latitude>55.66212000</ctml:latitude>
+    <ctml:longitude>12.18698000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30648" kind="city">
+    <ctml:name>Fredensborg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q565436</ctml:wikiDataId>
+    <ctml:latitude>55.97558000</ctml:latitude>
+    <ctml:longitude>12.40314000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30649" kind="city">
+    <ctml:name>Fredensborg Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q503045</ctml:wikiDataId>
+    <ctml:latitude>55.95000000</ctml:latitude>
+    <ctml:longitude>12.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30652" kind="admin2">
+    <ctml:name>Frederiksberg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q30096</ctml:wikiDataId>
+    <ctml:latitude>55.67938000</ctml:latitude>
+    <ctml:longitude>12.53463000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30654" kind="admin2">
+    <ctml:name>Frederiksberg Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q2488464</ctml:wikiDataId>
+    <ctml:latitude>55.67856000</ctml:latitude>
+    <ctml:longitude>12.52216000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30657" kind="admin2">
+    <ctml:name>Frederikssund</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q3223801</ctml:wikiDataId>
+    <ctml:latitude>55.83956000</ctml:latitude>
+    <ctml:longitude>12.06896000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30658" kind="city">
+    <ctml:name>Frederikssund Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q503232</ctml:wikiDataId>
+    <ctml:latitude>55.80957000</ctml:latitude>
+    <ctml:longitude>12.04038000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30659" kind="admin2">
+    <ctml:name>Frederiksværk</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q1796191</ctml:wikiDataId>
+    <ctml:latitude>55.97073000</ctml:latitude>
+    <ctml:longitude>12.02250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30662" kind="admin2">
+    <ctml:name>Furesø Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q503138</ctml:wikiDataId>
+    <ctml:latitude>55.78333000</ctml:latitude>
+    <ctml:longitude>12.34167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30664" kind="city">
+    <ctml:name>Ganløse</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q23747609</ctml:wikiDataId>
+    <ctml:latitude>55.79124000</ctml:latitude>
+    <ctml:longitude>12.26421000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30665" kind="city">
+    <ctml:name>Gentofte Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q500076</ctml:wikiDataId>
+    <ctml:latitude>55.75000000</ctml:latitude>
+    <ctml:longitude>12.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30666" kind="city">
+    <ctml:name>Gilleleje</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q2687297</ctml:wikiDataId>
+    <ctml:latitude>56.12196000</ctml:latitude>
+    <ctml:longitude>12.31056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30670" kind="city">
+    <ctml:name>Gladsaxe</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q484018</ctml:wikiDataId>
+    <ctml:latitude>55.76667000</ctml:latitude>
+    <ctml:longitude>12.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30672" kind="admin2">
+    <ctml:name>Glostrup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q3226599</ctml:wikiDataId>
+    <ctml:latitude>55.66660000</ctml:latitude>
+    <ctml:longitude>12.40377000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30673" kind="admin2">
+    <ctml:name>Glostrup Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q21006</ctml:wikiDataId>
+    <ctml:latitude>55.68188000</ctml:latitude>
+    <ctml:longitude>12.41018000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30681" kind="city">
+    <ctml:name>Græsted</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q847888</ctml:wikiDataId>
+    <ctml:latitude>56.06558000</ctml:latitude>
+    <ctml:longitude>12.28512000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30678" kind="city">
+    <ctml:name>Gribskov Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q494827</ctml:wikiDataId>
+    <ctml:latitude>56.05833000</ctml:latitude>
+    <ctml:longitude>12.24167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30691" kind="city">
+    <ctml:name>Halsnæs Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q505130</ctml:wikiDataId>
+    <ctml:latitude>55.96765000</ctml:latitude>
+    <ctml:longitude>11.94214000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-153629" kind="city">
+    <ctml:name>Hedehusene</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q2248624</ctml:wikiDataId>
+    <ctml:latitude>55.64801270</ctml:latitude>
+    <ctml:longitude>12.19689260</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30700" kind="city">
+    <ctml:name>Hellebæk</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q1025348</ctml:wikiDataId>
+    <ctml:latitude>56.06823000</ctml:latitude>
+    <ctml:longitude>12.55782000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30701" kind="admin2">
+    <ctml:name>Helsinge</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q3173563</ctml:wikiDataId>
+    <ctml:latitude>56.02283000</ctml:latitude>
+    <ctml:longitude>12.19752000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30702" kind="admin2">
+    <ctml:name>Helsingør</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q26881</ctml:wikiDataId>
+    <ctml:latitude>56.03606000</ctml:latitude>
+    <ctml:longitude>12.61360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30703" kind="city">
+    <ctml:name>Helsingør Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q511546</ctml:wikiDataId>
+    <ctml:latitude>56.05000000</ctml:latitude>
+    <ctml:longitude>12.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30704" kind="admin2">
+    <ctml:name>Herlev Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q164490</ctml:wikiDataId>
+    <ctml:latitude>55.73317000</ctml:latitude>
+    <ctml:longitude>12.43106000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30708" kind="city">
+    <ctml:name>Hillerød Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q221394</ctml:wikiDataId>
+    <ctml:latitude>55.92319000</ctml:latitude>
+    <ctml:longitude>12.23794000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30722" kind="city">
+    <ctml:name>Hornbæk</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q1257552</ctml:wikiDataId>
+    <ctml:latitude>56.09027000</ctml:latitude>
+    <ctml:longitude>12.45693000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30736" kind="city">
+    <ctml:name>Høje-Taastrup Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q499400</ctml:wikiDataId>
+    <ctml:latitude>55.65643000</ctml:latitude>
+    <ctml:longitude>12.24854000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30739" kind="admin2">
+    <ctml:name>Hørsholm</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q20835</ctml:wikiDataId>
+    <ctml:latitude>55.88098000</ctml:latitude>
+    <ctml:longitude>12.50111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30740" kind="admin2">
+    <ctml:name>Hørsholm Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q512540</ctml:wikiDataId>
+    <ctml:latitude>55.88759000</ctml:latitude>
+    <ctml:longitude>12.48566000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30727" kind="city">
+    <ctml:name>Humlebæk</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q2631512</ctml:wikiDataId>
+    <ctml:latitude>55.96180000</ctml:latitude>
+    <ctml:longitude>12.53410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30728" kind="city">
+    <ctml:name>Hundested</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q1020031</ctml:wikiDataId>
+    <ctml:latitude>55.96397000</ctml:latitude>
+    <ctml:longitude>11.85044000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30731" kind="admin2">
+    <ctml:name>Hvidovre</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q3590079</ctml:wikiDataId>
+    <ctml:latitude>55.65719000</ctml:latitude>
+    <ctml:longitude>12.47364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30732" kind="city">
+    <ctml:name>Hvidovre Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q512562</ctml:wikiDataId>
+    <ctml:latitude>55.63166000</ctml:latitude>
+    <ctml:longitude>12.46615000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30745" kind="admin2">
+    <ctml:name>Ishøj</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q3196979</ctml:wikiDataId>
+    <ctml:latitude>55.61543000</ctml:latitude>
+    <ctml:longitude>12.35182000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30746" kind="admin2">
+    <ctml:name>Ishøj Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q502040</ctml:wikiDataId>
+    <ctml:latitude>55.62299000</ctml:latitude>
+    <ctml:longitude>12.30567000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30752" kind="city">
+    <ctml:name>Jægerspris</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q852156</ctml:wikiDataId>
+    <ctml:latitude>55.85248000</ctml:latitude>
+    <ctml:longitude>11.98565000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30762" kind="admin2">
+    <ctml:name>Kokkedal</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q2040882</ctml:wikiDataId>
+    <ctml:latitude>55.91179000</ctml:latitude>
+    <ctml:longitude>12.49952000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30766" kind="admin2">
+    <ctml:name>Kongens Lyngby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q2239</ctml:wikiDataId>
+    <ctml:latitude>55.77044000</ctml:latitude>
+    <ctml:longitude>12.50378000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30770" kind="city">
+    <ctml:name>København</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q504125</ctml:wikiDataId>
+    <ctml:latitude>55.67110000</ctml:latitude>
+    <ctml:longitude>12.56529000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30780" kind="admin2">
+    <ctml:name>Lillerød</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q656234</ctml:wikiDataId>
+    <ctml:latitude>55.87496000</ctml:latitude>
+    <ctml:longitude>12.34579000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30782" kind="city">
+    <ctml:name>Liseleje</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q1827929</ctml:wikiDataId>
+    <ctml:latitude>56.01295000</ctml:latitude>
+    <ctml:longitude>11.96544000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30785" kind="admin2">
+    <ctml:name>Lyngby-Tårbæk Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q493826</ctml:wikiDataId>
+    <ctml:latitude>55.78456000</ctml:latitude>
+    <ctml:longitude>12.50508000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30786" kind="city">
+    <ctml:name>Lynge</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q2885506</ctml:wikiDataId>
+    <ctml:latitude>55.83941000</ctml:latitude>
+    <ctml:longitude>12.27725000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30803" kind="city">
+    <ctml:name>Måløv</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q6950010</ctml:wikiDataId>
+    <ctml:latitude>55.75528000</ctml:latitude>
+    <ctml:longitude>12.32327000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30808" kind="city">
+    <ctml:name>Nexø</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q643410</ctml:wikiDataId>
+    <ctml:latitude>55.06067000</ctml:latitude>
+    <ctml:longitude>15.13058000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30810" kind="city">
+    <ctml:name>Nivå</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q2926034</ctml:wikiDataId>
+    <ctml:latitude>55.93405000</ctml:latitude>
+    <ctml:longitude>12.50485000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30823" kind="city">
+    <ctml:name>Nødebo</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q1946281</ctml:wikiDataId>
+    <ctml:latitude>55.97877000</ctml:latitude>
+    <ctml:longitude>12.34685000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-31000" kind="city">
+    <ctml:name>Ølstykke</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q308106</ctml:wikiDataId>
+    <ctml:latitude>55.79567000</ctml:latitude>
+    <ctml:longitude>12.15509000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30857" kind="admin2">
+    <ctml:name>Rødovre</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q28230</ctml:wikiDataId>
+    <ctml:latitude>55.68062000</ctml:latitude>
+    <ctml:longitude>12.45373000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30858" kind="admin2">
+    <ctml:name>Rødovre Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q503097</ctml:wikiDataId>
+    <ctml:latitude>55.68852000</ctml:latitude>
+    <ctml:longitude>12.44834000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30861" kind="admin2">
+    <ctml:name>Rønne</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q690062</ctml:wikiDataId>
+    <ctml:latitude>55.10091000</ctml:latitude>
+    <ctml:longitude>14.70664000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30849" kind="admin2">
+    <ctml:name>Rudersdal Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q511949</ctml:wikiDataId>
+    <ctml:latitude>55.82500000</ctml:latitude>
+    <ctml:longitude>12.49167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30880" kind="city">
+    <ctml:name>Skævinge</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q12342777</ctml:wikiDataId>
+    <ctml:latitude>55.90785000</ctml:latitude>
+    <ctml:longitude>12.15036000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30874" kind="city">
+    <ctml:name>Skibby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q12335622</ctml:wikiDataId>
+    <ctml:latitude>55.75122000</ctml:latitude>
+    <ctml:longitude>11.96083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30884" kind="city">
+    <ctml:name>Slangerup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q3617406</ctml:wikiDataId>
+    <ctml:latitude>55.85000000</ctml:latitude>
+    <ctml:longitude>12.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30885" kind="city">
+    <ctml:name>Smørumnedre</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q1715139</ctml:wikiDataId>
+    <ctml:latitude>55.74232000</ctml:latitude>
+    <ctml:longitude>12.30276000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30896" kind="city">
+    <ctml:name>Stavnsholt</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q12336957</ctml:wikiDataId>
+    <ctml:latitude>55.81479000</ctml:latitude>
+    <ctml:longitude>12.40545000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30900" kind="admin2">
+    <ctml:name>Stenløse</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q9345649</ctml:wikiDataId>
+    <ctml:latitude>55.76828000</ctml:latitude>
+    <ctml:longitude>12.19723000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30930" kind="admin2">
+    <ctml:name>Taastrup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q20999</ctml:wikiDataId>
+    <ctml:latitude>55.65006000</ctml:latitude>
+    <ctml:longitude>12.30160000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30946" kind="admin2">
+    <ctml:name>Tårnby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q28173</ctml:wikiDataId>
+    <ctml:latitude>55.63030000</ctml:latitude>
+    <ctml:longitude>12.60035000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30947" kind="admin2">
+    <ctml:name>Tårnby Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q282496</ctml:wikiDataId>
+    <ctml:latitude>55.60391000</ctml:latitude>
+    <ctml:longitude>12.59599000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30944" kind="city">
+    <ctml:name>Trørød</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q3432926</ctml:wikiDataId>
+    <ctml:latitude>55.83946000</ctml:latitude>
+    <ctml:longitude>12.54432000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30958" kind="admin2">
+    <ctml:name>Vallensbæk Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q514844</ctml:wikiDataId>
+    <ctml:latitude>55.63128000</ctml:latitude>
+    <ctml:longitude>12.37369000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30957" kind="city">
+    <ctml:name>Vallensbæk Strand</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q2590975</ctml:wikiDataId>
+    <ctml:latitude>55.62199000</ctml:latitude>
+    <ctml:longitude>12.38511000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30960" kind="city">
+    <ctml:name>Vanløse</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q3547196</ctml:wikiDataId>
+    <ctml:latitude>55.68361000</ctml:latitude>
+    <ctml:longitude>12.48713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30988" kind="city">
+    <ctml:name>Værløse</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q3171395</ctml:wikiDataId>
+    <ctml:latitude>55.78251000</ctml:latitude>
+    <ctml:longitude>12.36856000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30967" kind="city">
+    <ctml:name>Veksø</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-84</ctml:parentRef>
+    <ctml:wikiDataId>Q7918750</ctml:wikiDataId>
+    <ctml:latitude>55.75473000</ctml:latitude>
+    <ctml:longitude>12.23837000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30576" kind="admin2">
+    <ctml:name>Aars</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q303066</ctml:wikiDataId>
+    <ctml:latitude>56.80399000</ctml:latitude>
+    <ctml:longitude>9.51441000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30989" kind="admin2">
+    <ctml:name>Åbybro</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q3171757</ctml:wikiDataId>
+    <ctml:latitude>57.16249000</ctml:latitude>
+    <ctml:longitude>9.72996000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30991" kind="city">
+    <ctml:name>Ålborg Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q300856</ctml:wikiDataId>
+    <ctml:latitude>57.00000000</ctml:latitude>
+    <ctml:longitude>9.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30992" kind="city">
+    <ctml:name>Ålestrup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q300888</ctml:wikiDataId>
+    <ctml:latitude>56.69470000</ctml:latitude>
+    <ctml:longitude>9.49336000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30581" kind="city">
+    <ctml:name>Arden</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q10417379</ctml:wikiDataId>
+    <ctml:latitude>56.76899000</ctml:latitude>
+    <ctml:longitude>9.86184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30608" kind="city">
+    <ctml:name>Brovst</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q8092118</ctml:wikiDataId>
+    <ctml:latitude>57.09750000</ctml:latitude>
+    <ctml:longitude>9.52264000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30611" kind="admin2">
+    <ctml:name>Brønderslev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q995880</ctml:wikiDataId>
+    <ctml:latitude>57.27021000</ctml:latitude>
+    <ctml:longitude>9.94102000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30612" kind="city">
+    <ctml:name>Brønderslev Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q511376</ctml:wikiDataId>
+    <ctml:latitude>57.23506000</ctml:latitude>
+    <ctml:longitude>10.10061000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30624" kind="city">
+    <ctml:name>Dronninglund</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q1260229</ctml:wikiDataId>
+    <ctml:latitude>57.16035000</ctml:latitude>
+    <ctml:longitude>10.29287000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30637" kind="city">
+    <ctml:name>Farsø</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q3413045</ctml:wikiDataId>
+    <ctml:latitude>56.77276000</ctml:latitude>
+    <ctml:longitude>9.33925000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30644" kind="city">
+    <ctml:name>Fjerritslev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q3167139</ctml:wikiDataId>
+    <ctml:latitude>57.08822000</ctml:latitude>
+    <ctml:longitude>9.26622000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30655" kind="admin2">
+    <ctml:name>Frederikshavn</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q27452</ctml:wikiDataId>
+    <ctml:latitude>57.44073000</ctml:latitude>
+    <ctml:longitude>10.53661000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30656" kind="city">
+    <ctml:name>Frederikshavn Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q502168</ctml:wikiDataId>
+    <ctml:latitude>57.43347000</ctml:latitude>
+    <ctml:longitude>10.42507000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30660" kind="city">
+    <ctml:name>Frejlev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q2701822</ctml:wikiDataId>
+    <ctml:latitude>57.00623000</ctml:latitude>
+    <ctml:longitude>9.81711000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30667" kind="city">
+    <ctml:name>Gistrup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q1936506</ctml:wikiDataId>
+    <ctml:latitude>56.99430000</ctml:latitude>
+    <ctml:longitude>9.99085000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30689" kind="city">
+    <ctml:name>Hadsund</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q663011</ctml:wikiDataId>
+    <ctml:latitude>56.71482000</ctml:latitude>
+    <ctml:longitude>10.11682000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30690" kind="city">
+    <ctml:name>Hals</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q678119</ctml:wikiDataId>
+    <ctml:latitude>56.99609000</ctml:latitude>
+    <ctml:longitude>10.30807000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30694" kind="city">
+    <ctml:name>Hanstholm</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q1026874</ctml:wikiDataId>
+    <ctml:latitude>57.11667000</ctml:latitude>
+    <ctml:longitude>8.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30710" kind="city">
+    <ctml:name>Hirtshals</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q846052</ctml:wikiDataId>
+    <ctml:latitude>57.58812000</ctml:latitude>
+    <ctml:longitude>9.95922000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30711" kind="city">
+    <ctml:name>Hjallerup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q2326573</ctml:wikiDataId>
+    <ctml:latitude>57.16466000</ctml:latitude>
+    <ctml:longitude>10.14571000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30713" kind="admin2">
+    <ctml:name>Hjørring</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q21185</ctml:wikiDataId>
+    <ctml:latitude>57.46417000</ctml:latitude>
+    <ctml:longitude>9.98229000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30714" kind="city">
+    <ctml:name>Hjørring Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q511214</ctml:wikiDataId>
+    <ctml:latitude>57.45682000</ctml:latitude>
+    <ctml:longitude>10.05859000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30715" kind="admin2">
+    <ctml:name>Hobro</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q927713</ctml:wikiDataId>
+    <ctml:latitude>56.64306000</ctml:latitude>
+    <ctml:longitude>9.79029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30729" kind="city">
+    <ctml:name>Hurup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q1879794</ctml:wikiDataId>
+    <ctml:latitude>56.74944000</ctml:latitude>
+    <ctml:longitude>8.41953000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30747" kind="city">
+    <ctml:name>Jammerbugt Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q503222</ctml:wikiDataId>
+    <ctml:latitude>57.14583000</ctml:latitude>
+    <ctml:longitude>9.56250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30769" kind="city">
+    <ctml:name>Kås</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q3643248</ctml:wikiDataId>
+    <ctml:latitude>57.19774000</ctml:latitude>
+    <ctml:longitude>9.67173000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30761" kind="city">
+    <ctml:name>Klarup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q2398552</ctml:wikiDataId>
+    <ctml:latitude>57.01194000</ctml:latitude>
+    <ctml:longitude>10.05617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30788" kind="city">
+    <ctml:name>Læso Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q498457</ctml:wikiDataId>
+    <ctml:latitude>57.26774000</ctml:latitude>
+    <ctml:longitude>11.02265000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30789" kind="city">
+    <ctml:name>Løgstør</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q3414045</ctml:wikiDataId>
+    <ctml:latitude>56.96245000</ctml:latitude>
+    <ctml:longitude>9.25830000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30793" kind="city">
+    <ctml:name>Løkken</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q1021910</ctml:wikiDataId>
+    <ctml:latitude>57.37047000</ctml:latitude>
+    <ctml:longitude>9.71466000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30795" kind="city">
+    <ctml:name>Mariager</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q3173150</ctml:wikiDataId>
+    <ctml:latitude>56.64985000</ctml:latitude>
+    <ctml:longitude>9.97515000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30796" kind="city">
+    <ctml:name>Mariagerfjord Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q512528</ctml:wikiDataId>
+    <ctml:latitude>56.69722000</ctml:latitude>
+    <ctml:longitude>9.84722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30801" kind="city">
+    <ctml:name>Morsø Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q502770</ctml:wikiDataId>
+    <ctml:latitude>56.79622000</ctml:latitude>
+    <ctml:longitude>8.73272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30809" kind="city">
+    <ctml:name>Nibe</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q1019502</ctml:wikiDataId>
+    <ctml:latitude>56.98150000</ctml:latitude>
+    <ctml:longitude>9.63917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30826" kind="city">
+    <ctml:name>Nørresundby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q1246235</ctml:wikiDataId>
+    <ctml:latitude>57.05877000</ctml:latitude>
+    <ctml:longitude>9.92284000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30818" kind="admin2">
+    <ctml:name>Nykøbing Mors</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q1019481</ctml:wikiDataId>
+    <ctml:latitude>56.79334000</ctml:latitude>
+    <ctml:longitude>8.85282000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30836" kind="city">
+    <ctml:name>Pandrup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q3169598</ctml:wikiDataId>
+    <ctml:latitude>57.22147000</ctml:latitude>
+    <ctml:longitude>9.67569000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30840" kind="admin2">
+    <ctml:name>Rebild Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q499896</ctml:wikiDataId>
+    <ctml:latitude>56.80556000</ctml:latitude>
+    <ctml:longitude>9.77778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30924" kind="city">
+    <ctml:name>Sæby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q346802</ctml:wikiDataId>
+    <ctml:latitude>57.33188000</ctml:latitude>
+    <ctml:longitude>10.52251000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30869" kind="city">
+    <ctml:name>Sindal</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q3177752</ctml:wikiDataId>
+    <ctml:latitude>57.47117000</ctml:latitude>
+    <ctml:longitude>10.20312000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30871" kind="city">
+    <ctml:name>Skagen</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q215177</ctml:wikiDataId>
+    <ctml:latitude>57.72093000</ctml:latitude>
+    <ctml:longitude>10.58394000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30881" kind="city">
+    <ctml:name>Skørping</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q3413549</ctml:wikiDataId>
+    <ctml:latitude>56.83626000</ctml:latitude>
+    <ctml:longitude>9.89255000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30906" kind="city">
+    <ctml:name>Storvorde</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q2349723</ctml:wikiDataId>
+    <ctml:latitude>57.00392000</ctml:latitude>
+    <ctml:longitude>10.10125000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30913" kind="admin2">
+    <ctml:name>Støvring</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q3413440</ctml:wikiDataId>
+    <ctml:latitude>56.88536000</ctml:latitude>
+    <ctml:longitude>9.83839000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30907" kind="city">
+    <ctml:name>Strandby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q1999151</ctml:wikiDataId>
+    <ctml:latitude>57.49150000</ctml:latitude>
+    <ctml:longitude>10.49609000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30920" kind="city">
+    <ctml:name>Svenstrup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q21182</ctml:wikiDataId>
+    <ctml:latitude>56.97230000</ctml:latitude>
+    <ctml:longitude>9.84806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30948" kind="city">
+    <ctml:name>Tårs</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q2086166</ctml:wikiDataId>
+    <ctml:latitude>57.38333000</ctml:latitude>
+    <ctml:longitude>10.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30933" kind="admin2">
+    <ctml:name>Thisted</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q1008152</ctml:wikiDataId>
+    <ctml:latitude>56.95523000</ctml:latitude>
+    <ctml:longitude>8.69491000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30934" kind="city">
+    <ctml:name>Thisted Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q7715809</ctml:wikiDataId>
+    <ctml:latitude>57.00397000</ctml:latitude>
+    <ctml:longitude>8.61834000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30956" kind="city">
+    <ctml:name>Vadum</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q2590975</ctml:wikiDataId>
+    <ctml:latitude>57.11790000</ctml:latitude>
+    <ctml:longitude>9.85700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30968" kind="city">
+    <ctml:name>Vestbjerg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q2458635</ctml:wikiDataId>
+    <ctml:latitude>57.13166000</ctml:latitude>
+    <ctml:longitude>9.95942000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30969" kind="city">
+    <ctml:name>Vester Hassing</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q1015392</ctml:wikiDataId>
+    <ctml:latitude>57.06767000</ctml:latitude>
+    <ctml:longitude>10.12558000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30971" kind="city">
+    <ctml:name>Vesthimmerland Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q511975</ctml:wikiDataId>
+    <ctml:latitude>56.80000000</ctml:latitude>
+    <ctml:longitude>9.37083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30983" kind="city">
+    <ctml:name>Vodskov</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q2205752</ctml:wikiDataId>
+    <ctml:latitude>57.10854000</ctml:latitude>
+    <ctml:longitude>10.02215000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30987" kind="city">
+    <ctml:name>Vrå</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>North Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-81</ctml:parentRef>
+    <ctml:wikiDataId>Q912141</ctml:wikiDataId>
+    <ctml:latitude>57.35370000</ctml:latitude>
+    <ctml:longitude>9.94176000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30573" kind="admin2">
+    <ctml:name>Aabenraa</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q154897</ctml:wikiDataId>
+    <ctml:latitude>55.04434000</ctml:latitude>
+    <ctml:longitude>9.41741000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30574" kind="city">
+    <ctml:name>Aabenraa Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q21152</ctml:wikiDataId>
+    <ctml:latitude>54.98980000</ctml:latitude>
+    <ctml:longitude>9.31282000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30995" kind="city">
+    <ctml:name>Årslev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3624563</ctml:wikiDataId>
+    <ctml:latitude>55.30353000</ctml:latitude>
+    <ctml:longitude>10.46428000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30996" kind="city">
+    <ctml:name>Årup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3405593</ctml:wikiDataId>
+    <ctml:latitude>55.37315000</ctml:latitude>
+    <ctml:longitude>10.04131000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30583" kind="admin2">
+    <ctml:name>Assens</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q741067</ctml:wikiDataId>
+    <ctml:latitude>55.27023000</ctml:latitude>
+    <ctml:longitude>9.90081000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30584" kind="city">
+    <ctml:name>Assens Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q27967</ctml:wikiDataId>
+    <ctml:latitude>55.29958000</ctml:latitude>
+    <ctml:longitude>10.07952000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30586" kind="city">
+    <ctml:name>Augustenborg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q645631</ctml:wikiDataId>
+    <ctml:latitude>54.95201000</ctml:latitude>
+    <ctml:longitude>9.87216000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30997" kind="city">
+    <ctml:name>Ærø Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q21104</ctml:wikiDataId>
+    <ctml:latitude>54.85833000</ctml:latitude>
+    <ctml:longitude>10.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30998" kind="admin2">
+    <ctml:name>Ærøskøbing</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q272129</ctml:wikiDataId>
+    <ctml:latitude>54.88803000</ctml:latitude>
+    <ctml:longitude>10.41117000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30592" kind="city">
+    <ctml:name>Bellinge</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q2788987</ctml:wikiDataId>
+    <ctml:latitude>55.33535000</ctml:latitude>
+    <ctml:longitude>10.32045000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30593" kind="city">
+    <ctml:name>Billund</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q1701099</ctml:wikiDataId>
+    <ctml:latitude>55.73349000</ctml:latitude>
+    <ctml:longitude>9.10785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30594" kind="city">
+    <ctml:name>Billund Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q27875</ctml:wikiDataId>
+    <ctml:latitude>55.73079000</ctml:latitude>
+    <ctml:longitude>8.96844000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30599" kind="admin2">
+    <ctml:name>Bogense</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q890536</ctml:wikiDataId>
+    <ctml:latitude>55.56691000</ctml:latitude>
+    <ctml:longitude>10.08863000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30615" kind="city">
+    <ctml:name>Børkop</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q12304863</ctml:wikiDataId>
+    <ctml:latitude>55.64195000</ctml:latitude>
+    <ctml:longitude>9.64958000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30603" kind="city">
+    <ctml:name>Bramming</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q12304252</ctml:wikiDataId>
+    <ctml:latitude>55.46946000</ctml:latitude>
+    <ctml:longitude>8.70007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30605" kind="city">
+    <ctml:name>Brejning</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q2445802</ctml:wikiDataId>
+    <ctml:latitude>55.66594000</ctml:latitude>
+    <ctml:longitude>9.67217000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30606" kind="city">
+    <ctml:name>Brenderup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q1923876</ctml:wikiDataId>
+    <ctml:latitude>55.48407000</ctml:latitude>
+    <ctml:longitude>9.97908000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30607" kind="city">
+    <ctml:name>Broager</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3196551</ctml:wikiDataId>
+    <ctml:latitude>54.88940000</ctml:latitude>
+    <ctml:longitude>9.67465000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30613" kind="city">
+    <ctml:name>Brørup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q12304584</ctml:wikiDataId>
+    <ctml:latitude>55.48194000</ctml:latitude>
+    <ctml:longitude>9.01756000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30614" kind="city">
+    <ctml:name>Bullerup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q2340281</ctml:wikiDataId>
+    <ctml:latitude>55.42686000</ctml:latitude>
+    <ctml:longitude>10.47137000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30617" kind="city">
+    <ctml:name>Christiansfeld</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3197288</ctml:wikiDataId>
+    <ctml:latitude>55.35817000</ctml:latitude>
+    <ctml:longitude>9.48701000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30625" kind="city">
+    <ctml:name>Dybbøl</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q2567585</ctml:wikiDataId>
+    <ctml:latitude>54.91079000</ctml:latitude>
+    <ctml:longitude>9.73601000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30628" kind="city">
+    <ctml:name>Egtved</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3412882</ctml:wikiDataId>
+    <ctml:latitude>55.61613000</ctml:latitude>
+    <ctml:longitude>9.30763000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30629" kind="city">
+    <ctml:name>Ejby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3618954</ctml:wikiDataId>
+    <ctml:latitude>55.43010000</ctml:latitude>
+    <ctml:longitude>9.92973000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30631" kind="admin2">
+    <ctml:name>Esbjerg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q26234</ctml:wikiDataId>
+    <ctml:latitude>55.47028000</ctml:latitude>
+    <ctml:longitude>8.45187000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30632" kind="admin2">
+    <ctml:name>Esbjerg Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q645747</ctml:wikiDataId>
+    <ctml:latitude>55.46893000</ctml:latitude>
+    <ctml:longitude>8.46222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30634" kind="city">
+    <ctml:name>Faaborg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3547421</ctml:wikiDataId>
+    <ctml:latitude>55.09510000</ctml:latitude>
+    <ctml:longitude>10.24226000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30635" kind="city">
+    <ctml:name>Faaborg-Midtfyn Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q27976</ctml:wikiDataId>
+    <ctml:latitude>55.22667000</ctml:latitude>
+    <ctml:longitude>10.40667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30636" kind="city">
+    <ctml:name>Fanø Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q493285</ctml:wikiDataId>
+    <ctml:latitude>55.41667000</ctml:latitude>
+    <ctml:longitude>8.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30650" kind="admin2">
+    <ctml:name>Fredericia</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q21181</ctml:wikiDataId>
+    <ctml:latitude>55.56568000</ctml:latitude>
+    <ctml:longitude>9.75257000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30651" kind="city">
+    <ctml:name>Fredericia Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q21145</ctml:wikiDataId>
+    <ctml:latitude>55.57271000</ctml:latitude>
+    <ctml:longitude>9.69489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30668" kind="city">
+    <ctml:name>Give</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q4994802</ctml:wikiDataId>
+    <ctml:latitude>55.84523000</ctml:latitude>
+    <ctml:longitude>9.23769000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30671" kind="city">
+    <ctml:name>Glamsbjerg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3177358</ctml:wikiDataId>
+    <ctml:latitude>55.27237000</ctml:latitude>
+    <ctml:longitude>10.10483000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30674" kind="city">
+    <ctml:name>Gram</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q1025378</ctml:wikiDataId>
+    <ctml:latitude>55.28948000</ctml:latitude>
+    <ctml:longitude>9.04913000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30680" kind="city">
+    <ctml:name>Gråsten</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3414260</ctml:wikiDataId>
+    <ctml:latitude>54.91918000</ctml:latitude>
+    <ctml:longitude>9.59523000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30679" kind="admin2">
+    <ctml:name>Grindsted</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3547368</ctml:wikiDataId>
+    <ctml:latitude>55.75726000</ctml:latitude>
+    <ctml:longitude>8.92750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30682" kind="city">
+    <ctml:name>Guderup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q821231</ctml:wikiDataId>
+    <ctml:latitude>54.98978000</ctml:latitude>
+    <ctml:longitude>9.87174000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30686" kind="admin2">
+    <ctml:name>Haderslev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q29868</ctml:wikiDataId>
+    <ctml:latitude>55.24943000</ctml:latitude>
+    <ctml:longitude>9.48771000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30687" kind="city">
+    <ctml:name>Haderslev Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q21143</ctml:wikiDataId>
+    <ctml:latitude>55.24441000</ctml:latitude>
+    <ctml:longitude>9.32261000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30733" kind="city">
+    <ctml:name>Hårby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q4994795</ctml:wikiDataId>
+    <ctml:latitude>55.22357000</ctml:latitude>
+    <ctml:longitude>10.12268000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30721" kind="city">
+    <ctml:name>Holsted</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q12317155</ctml:wikiDataId>
+    <ctml:latitude>55.51086000</ctml:latitude>
+    <ctml:longitude>8.91872000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30735" kind="city">
+    <ctml:name>Højby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q2634492</ctml:wikiDataId>
+    <ctml:latitude>55.33177000</ctml:latitude>
+    <ctml:longitude>10.43725000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30741" kind="city">
+    <ctml:name>Høruphav</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q821237</ctml:wikiDataId>
+    <ctml:latitude>54.91017000</ctml:latitude>
+    <ctml:longitude>9.89872000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30748" kind="city">
+    <ctml:name>Jelling</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q835708</ctml:wikiDataId>
+    <ctml:latitude>55.75588000</ctml:latitude>
+    <ctml:longitude>9.42580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30756" kind="admin2">
+    <ctml:name>Kerteminde</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q29969</ctml:wikiDataId>
+    <ctml:latitude>55.44903000</ctml:latitude>
+    <ctml:longitude>10.65769000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30757" kind="city">
+    <ctml:name>Kerteminde Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q612488</ctml:wikiDataId>
+    <ctml:latitude>55.45498000</ctml:latitude>
+    <ctml:longitude>10.62220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30763" kind="admin2">
+    <ctml:name>Kolding</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q27119</ctml:wikiDataId>
+    <ctml:latitude>55.49040000</ctml:latitude>
+    <ctml:longitude>9.47216000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30764" kind="admin2">
+    <ctml:name>Kolding Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q21101</ctml:wikiDataId>
+    <ctml:latitude>55.45006000</ctml:latitude>
+    <ctml:longitude>9.45807000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30768" kind="city">
+    <ctml:name>Kruså</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q570436</ctml:wikiDataId>
+    <ctml:latitude>54.85097000</ctml:latitude>
+    <ctml:longitude>9.40129000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30773" kind="city">
+    <ctml:name>Langeland Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q506647</ctml:wikiDataId>
+    <ctml:latitude>54.90000000</ctml:latitude>
+    <ctml:longitude>10.77222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30774" kind="city">
+    <ctml:name>Langeskov</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q737985</ctml:wikiDataId>
+    <ctml:latitude>55.35655000</ctml:latitude>
+    <ctml:longitude>10.58447000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30791" kind="city">
+    <ctml:name>Løgumkloster</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3172924</ctml:wikiDataId>
+    <ctml:latitude>55.05941000</ctml:latitude>
+    <ctml:longitude>8.95508000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30792" kind="city">
+    <ctml:name>Løjt Kirkeby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q1880927</ctml:wikiDataId>
+    <ctml:latitude>55.08959000</ctml:latitude>
+    <ctml:longitude>9.46084000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30784" kind="city">
+    <ctml:name>Lunderskov</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q12325132</ctml:wikiDataId>
+    <ctml:latitude>55.48375000</ctml:latitude>
+    <ctml:longitude>9.29917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30798" kind="city">
+    <ctml:name>Marstal</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3413939</ctml:wikiDataId>
+    <ctml:latitude>54.85621000</ctml:latitude>
+    <ctml:longitude>10.51726000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30799" kind="admin2">
+    <ctml:name>Middelfart</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q613441</ctml:wikiDataId>
+    <ctml:latitude>55.50591000</ctml:latitude>
+    <ctml:longitude>9.73054000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30800" kind="city">
+    <ctml:name>Middelfart Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q21140</ctml:wikiDataId>
+    <ctml:latitude>55.45782000</ctml:latitude>
+    <ctml:longitude>9.88100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30802" kind="city">
+    <ctml:name>Munkebo</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q1953365</ctml:wikiDataId>
+    <ctml:latitude>55.45553000</ctml:latitude>
+    <ctml:longitude>10.55433000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30806" kind="city">
+    <ctml:name>Neder Holluf</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q12328490</ctml:wikiDataId>
+    <ctml:latitude>55.36451000</ctml:latitude>
+    <ctml:longitude>10.44824000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30811" kind="city">
+    <ctml:name>Nordborg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q1997687</ctml:wikiDataId>
+    <ctml:latitude>55.05732000</ctml:latitude>
+    <ctml:longitude>9.74080000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30812" kind="admin2">
+    <ctml:name>Nordby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q2533977</ctml:wikiDataId>
+    <ctml:latitude>55.44603000</ctml:latitude>
+    <ctml:longitude>8.39786000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30814" kind="city">
+    <ctml:name>Nordfyns Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q20770</ctml:wikiDataId>
+    <ctml:latitude>55.52222000</ctml:latitude>
+    <ctml:longitude>10.22222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30825" kind="city">
+    <ctml:name>Nørre Åby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q5259773</ctml:wikiDataId>
+    <ctml:latitude>55.46107000</ctml:latitude>
+    <ctml:longitude>9.87940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30815" kind="admin2">
+    <ctml:name>Nyborg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3530435</ctml:wikiDataId>
+    <ctml:latitude>55.31274000</ctml:latitude>
+    <ctml:longitude>10.78964000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30816" kind="admin2">
+    <ctml:name>Nyborg Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q30013</ctml:wikiDataId>
+    <ctml:latitude>55.29473000</ctml:latitude>
+    <ctml:longitude>10.70310000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30829" kind="admin2">
+    <ctml:name>Odense</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q25331</ctml:wikiDataId>
+    <ctml:latitude>55.39594000</ctml:latitude>
+    <ctml:longitude>10.38831000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30830" kind="admin2">
+    <ctml:name>Odense Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q21146</ctml:wikiDataId>
+    <ctml:latitude>55.39570000</ctml:latitude>
+    <ctml:longitude>10.37761000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30832" kind="city">
+    <ctml:name>Oksbøl</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q202965</ctml:wikiDataId>
+    <ctml:latitude>55.62680000</ctml:latitude>
+    <ctml:longitude>8.28757000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30834" kind="city">
+    <ctml:name>Otterup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q2633021</ctml:wikiDataId>
+    <ctml:latitude>55.51527000</ctml:latitude>
+    <ctml:longitude>10.39756000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30999" kind="city">
+    <ctml:name>Ølgod</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q308106</ctml:wikiDataId>
+    <ctml:latitude>55.80682000</ctml:latitude>
+    <ctml:longitude>8.62859000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30835" kind="city">
+    <ctml:name>Padborg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q707345</ctml:wikiDataId>
+    <ctml:latitude>54.82657000</ctml:latitude>
+    <ctml:longitude>9.36247000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30841" kind="city">
+    <ctml:name>Ribe</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q322361</ctml:wikiDataId>
+    <ctml:latitude>55.33051000</ctml:latitude>
+    <ctml:longitude>8.76966000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30842" kind="admin2">
+    <ctml:name>Ringe</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q303111</ctml:wikiDataId>
+    <ctml:latitude>55.23828000</ctml:latitude>
+    <ctml:longitude>10.47860000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30855" kind="city">
+    <ctml:name>Rødding</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q836960</ctml:wikiDataId>
+    <ctml:latitude>55.36569000</ctml:latitude>
+    <ctml:longitude>9.06316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30856" kind="city">
+    <ctml:name>Rødekro</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q4541616</ctml:wikiDataId>
+    <ctml:latitude>55.07076000</ctml:latitude>
+    <ctml:longitude>9.33531000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30850" kind="admin2">
+    <ctml:name>Rudkøbing</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q731023</ctml:wikiDataId>
+    <ctml:latitude>54.93639000</ctml:latitude>
+    <ctml:longitude>10.71019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30866" kind="city">
+    <ctml:name>Seden</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q513256</ctml:wikiDataId>
+    <ctml:latitude>55.42648000</ctml:latitude>
+    <ctml:longitude>10.44265000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30870" kind="city">
+    <ctml:name>Skaerbaek</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q2622689</ctml:wikiDataId>
+    <ctml:latitude>55.15735000</ctml:latitude>
+    <ctml:longitude>8.76901000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30887" kind="city">
+    <ctml:name>Snoghøj</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q2253859</ctml:wikiDataId>
+    <ctml:latitude>55.52253000</ctml:latitude>
+    <ctml:longitude>9.72125000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30926" kind="city">
+    <ctml:name>Sønder Bjert</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q2856489</ctml:wikiDataId>
+    <ctml:latitude>55.45272000</ctml:latitude>
+    <ctml:longitude>9.56741000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30927" kind="admin2">
+    <ctml:name>Sønderborg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q21179</ctml:wikiDataId>
+    <ctml:latitude>54.90896000</ctml:latitude>
+    <ctml:longitude>9.78917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30928" kind="admin2">
+    <ctml:name>Sønderborg Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q21108</ctml:wikiDataId>
+    <ctml:latitude>54.91667000</ctml:latitude>
+    <ctml:longitude>9.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30929" kind="city">
+    <ctml:name>Søndersø</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3531267</ctml:wikiDataId>
+    <ctml:latitude>55.48526000</ctml:latitude>
+    <ctml:longitude>10.25540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30895" kind="city">
+    <ctml:name>Starup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q12336888</ctml:wikiDataId>
+    <ctml:latitude>55.24097000</ctml:latitude>
+    <ctml:longitude>9.53503000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30902" kind="city">
+    <ctml:name>Stige</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q503153</ctml:wikiDataId>
+    <ctml:latitude>55.43941000</ctml:latitude>
+    <ctml:longitude>10.40940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30908" kind="city">
+    <ctml:name>Strib</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q1951945</ctml:wikiDataId>
+    <ctml:latitude>55.54021000</ctml:latitude>
+    <ctml:longitude>9.76748000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30918" kind="admin2">
+    <ctml:name>Svendborg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q28031</ctml:wikiDataId>
+    <ctml:latitude>55.05982000</ctml:latitude>
+    <ctml:longitude>10.60677000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30919" kind="admin2">
+    <ctml:name>Svendborg Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q21182</ctml:wikiDataId>
+    <ctml:latitude>55.08410000</ctml:latitude>
+    <ctml:longitude>10.61391000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30932" kind="city">
+    <ctml:name>Taulov</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q4994751</ctml:wikiDataId>
+    <ctml:latitude>55.54582000</ctml:latitude>
+    <ctml:longitude>9.61553000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30935" kind="city">
+    <ctml:name>Thurø By</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q23734741</ctml:wikiDataId>
+    <ctml:latitude>55.04740000</ctml:latitude>
+    <ctml:longitude>10.66385000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30937" kind="city">
+    <ctml:name>Tinglev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3618891</ctml:wikiDataId>
+    <ctml:latitude>54.93788000</ctml:latitude>
+    <ctml:longitude>9.25547000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30938" kind="city">
+    <ctml:name>Tjæreborg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q2339781</ctml:wikiDataId>
+    <ctml:latitude>55.46457000</ctml:latitude>
+    <ctml:longitude>8.57968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30939" kind="city">
+    <ctml:name>Toftlund</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q2051188</ctml:wikiDataId>
+    <ctml:latitude>55.18858000</ctml:latitude>
+    <ctml:longitude>9.06925000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30940" kind="city">
+    <ctml:name>Tommerup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q2702722</ctml:wikiDataId>
+    <ctml:latitude>55.31952000</ctml:latitude>
+    <ctml:longitude>10.20659000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30941" kind="city">
+    <ctml:name>Tommerup Stationsby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q4358920</ctml:wikiDataId>
+    <ctml:latitude>55.34535000</ctml:latitude>
+    <ctml:longitude>10.17594000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30950" kind="admin2">
+    <ctml:name>Tønder</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3223979</ctml:wikiDataId>
+    <ctml:latitude>54.93306000</ctml:latitude>
+    <ctml:longitude>8.86674000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30951" kind="admin2">
+    <ctml:name>Tønder Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3162907</ctml:wikiDataId>
+    <ctml:latitude>55.07304000</ctml:latitude>
+    <ctml:longitude>8.87214000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30954" kind="city">
+    <ctml:name>Ullerslev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3547139</ctml:wikiDataId>
+    <ctml:latitude>55.36172000</ctml:latitude>
+    <ctml:longitude>10.65190000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30959" kind="city">
+    <ctml:name>Vamdrup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3547196</ctml:wikiDataId>
+    <ctml:latitude>55.42764000</ctml:latitude>
+    <ctml:longitude>9.28435000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30961" kind="admin2">
+    <ctml:name>Varde</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q2048321</ctml:wikiDataId>
+    <ctml:latitude>55.62112000</ctml:latitude>
+    <ctml:longitude>8.48069000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30962" kind="city">
+    <ctml:name>Varde Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q21142</ctml:wikiDataId>
+    <ctml:latitude>55.61667000</ctml:latitude>
+    <ctml:longitude>8.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30963" kind="admin2">
+    <ctml:name>Vejen</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q1016313</ctml:wikiDataId>
+    <ctml:latitude>55.48117000</ctml:latitude>
+    <ctml:longitude>9.13795000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30964" kind="city">
+    <ctml:name>Vejen Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q21150</ctml:wikiDataId>
+    <ctml:latitude>55.46312000</ctml:latitude>
+    <ctml:longitude>9.05004000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30966" kind="city">
+    <ctml:name>Vejle Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q28150</ctml:wikiDataId>
+    <ctml:latitude>55.74874000</ctml:latitude>
+    <ctml:longitude>9.40421000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30970" kind="city">
+    <ctml:name>Vester-Skerninge</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3386709</ctml:wikiDataId>
+    <ctml:latitude>55.07322000</ctml:latitude>
+    <ctml:longitude>10.45536000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30977" kind="city">
+    <ctml:name>Vindeby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q1286001</ctml:wikiDataId>
+    <ctml:latitude>55.04489000</ctml:latitude>
+    <ctml:longitude>10.61309000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30982" kind="city">
+    <ctml:name>Vissenbjerg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q3547096</ctml:wikiDataId>
+    <ctml:latitude>55.38482000</ctml:latitude>
+    <ctml:longitude>10.13784000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30984" kind="city">
+    <ctml:name>Vojens</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Southern Denmark</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-83</ctml:parentRef>
+    <ctml:wikiDataId>Q1645444</ctml:wikiDataId>
+    <ctml:latitude>55.24639000</ctml:latitude>
+    <ctml:longitude>9.30603000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30582" kind="city">
+    <ctml:name>Asnæs</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2019461</ctml:wikiDataId>
+    <ctml:latitude>55.81229000</ctml:latitude>
+    <ctml:longitude>11.50129000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30597" kind="city">
+    <ctml:name>Bjæverskov</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2223144</ctml:wikiDataId>
+    <ctml:latitude>55.45756000</ctml:latitude>
+    <ctml:longitude>12.03651000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30602" kind="city">
+    <ctml:name>Borup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q3265865</ctml:wikiDataId>
+    <ctml:latitude>55.49472000</ctml:latitude>
+    <ctml:longitude>11.97584000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30621" kind="city">
+    <ctml:name>Dianalund</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q12308571</ctml:wikiDataId>
+    <ctml:latitude>55.53133000</ctml:latitude>
+    <ctml:longitude>11.49250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30630" kind="city">
+    <ctml:name>Ejby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2609155</ctml:wikiDataId>
+    <ctml:latitude>55.48580000</ctml:latitude>
+    <ctml:longitude>12.08171000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30640" kind="city">
+    <ctml:name>Faxe</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q777334</ctml:wikiDataId>
+    <ctml:latitude>55.25561000</ctml:latitude>
+    <ctml:longitude>12.11926000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30641" kind="city">
+    <ctml:name>Faxe Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q505000</ctml:wikiDataId>
+    <ctml:latitude>55.29444000</ctml:latitude>
+    <ctml:longitude>12.06111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30642" kind="city">
+    <ctml:name>Faxe Ladeplads</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q848213</ctml:wikiDataId>
+    <ctml:latitude>55.21981000</ctml:latitude>
+    <ctml:longitude>12.17013000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30643" kind="city">
+    <ctml:name>Fensmark</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2792516</ctml:wikiDataId>
+    <ctml:latitude>55.27919000</ctml:latitude>
+    <ctml:longitude>11.80382000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30646" kind="city">
+    <ctml:name>Forlev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q12311988</ctml:wikiDataId>
+    <ctml:latitude>55.37445000</ctml:latitude>
+    <ctml:longitude>11.25966000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30653" kind="city">
+    <ctml:name>Frederiksberg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q5509820</ctml:wikiDataId>
+    <ctml:latitude>55.41618000</ctml:latitude>
+    <ctml:longitude>11.56934000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30661" kind="city">
+    <ctml:name>Fuglebjerg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q12313132</ctml:wikiDataId>
+    <ctml:latitude>55.30604000</ctml:latitude>
+    <ctml:longitude>11.54766000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30685" kind="city">
+    <ctml:name>Gørlev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q12314806</ctml:wikiDataId>
+    <ctml:latitude>55.53926000</ctml:latitude>
+    <ctml:longitude>11.22708000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30676" kind="admin2">
+    <ctml:name>Greve</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q3619316</ctml:wikiDataId>
+    <ctml:latitude>55.58333000</ctml:latitude>
+    <ctml:longitude>12.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30677" kind="city">
+    <ctml:name>Greve Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q504977</ctml:wikiDataId>
+    <ctml:latitude>55.58770000</ctml:latitude>
+    <ctml:longitude>12.25060000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30683" kind="city">
+    <ctml:name>Guldborgsund Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q510997</ctml:wikiDataId>
+    <ctml:latitude>54.76944000</ctml:latitude>
+    <ctml:longitude>11.83611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30684" kind="city">
+    <ctml:name>Gundsømagle</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2612301</ctml:wikiDataId>
+    <ctml:latitude>55.73565000</ctml:latitude>
+    <ctml:longitude>12.15158000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30734" kind="city">
+    <ctml:name>Hårlev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q1001430</ctml:wikiDataId>
+    <ctml:latitude>55.34936000</ctml:latitude>
+    <ctml:longitude>12.23382000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30696" kind="admin2">
+    <ctml:name>Haslev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q1016690</ctml:wikiDataId>
+    <ctml:latitude>55.32346000</ctml:latitude>
+    <ctml:longitude>11.96389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30697" kind="city">
+    <ctml:name>Havdrup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2892005</ctml:wikiDataId>
+    <ctml:latitude>55.54481000</ctml:latitude>
+    <ctml:longitude>12.12392000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30716" kind="admin2">
+    <ctml:name>Holbæk</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q28042</ctml:wikiDataId>
+    <ctml:latitude>55.71750000</ctml:latitude>
+    <ctml:longitude>11.71279000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30717" kind="city">
+    <ctml:name>Holbæk Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q503159</ctml:wikiDataId>
+    <ctml:latitude>55.65919000</ctml:latitude>
+    <ctml:longitude>11.62049000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30718" kind="city">
+    <ctml:name>Holeby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q1624448</ctml:wikiDataId>
+    <ctml:latitude>54.71148000</ctml:latitude>
+    <ctml:longitude>11.46416000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30737" kind="city">
+    <ctml:name>Høng</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q12317806</ctml:wikiDataId>
+    <ctml:latitude>55.50736000</ctml:latitude>
+    <ctml:longitude>11.28873000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30742" kind="city">
+    <ctml:name>Hørve</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2671662</ctml:wikiDataId>
+    <ctml:latitude>55.75292000</ctml:latitude>
+    <ctml:longitude>11.45298000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30750" kind="city">
+    <ctml:name>Jyderup</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q1769354</ctml:wikiDataId>
+    <ctml:latitude>55.66399000</ctml:latitude>
+    <ctml:longitude>11.42029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30751" kind="city">
+    <ctml:name>Jyllinge</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2546789</ctml:wikiDataId>
+    <ctml:latitude>55.75295000</ctml:latitude>
+    <ctml:longitude>12.10315000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30753" kind="admin2">
+    <ctml:name>Kalundborg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q204957</ctml:wikiDataId>
+    <ctml:latitude>55.67954000</ctml:latitude>
+    <ctml:longitude>11.08864000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30754" kind="city">
+    <ctml:name>Kalundborg Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q204976</ctml:wikiDataId>
+    <ctml:latitude>55.63545000</ctml:latitude>
+    <ctml:longitude>11.19993000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30759" kind="admin2">
+    <ctml:name>Kirke Hvalsø</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q1019136</ctml:wikiDataId>
+    <ctml:latitude>55.59170000</ctml:latitude>
+    <ctml:longitude>11.86253000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30767" kind="city">
+    <ctml:name>Korsør</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q1784816</ctml:wikiDataId>
+    <ctml:latitude>55.32993000</ctml:latitude>
+    <ctml:longitude>11.13857000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30771" kind="admin2">
+    <ctml:name>Køge</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q21184</ctml:wikiDataId>
+    <ctml:latitude>55.45802000</ctml:latitude>
+    <ctml:longitude>12.18214000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30772" kind="city">
+    <ctml:name>Køge Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q504664</ctml:wikiDataId>
+    <ctml:latitude>55.45668000</ctml:latitude>
+    <ctml:longitude>12.07332000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30776" kind="city">
+    <ctml:name>Lejre</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2689028</ctml:wikiDataId>
+    <ctml:latitude>55.60461000</ctml:latitude>
+    <ctml:longitude>11.97477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30777" kind="city">
+    <ctml:name>Lejre Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q505369</ctml:wikiDataId>
+    <ctml:latitude>55.63375000</ctml:latitude>
+    <ctml:longitude>11.92234000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30783" kind="city">
+    <ctml:name>Lolland Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q670153</ctml:wikiDataId>
+    <ctml:latitude>54.80238000</ctml:latitude>
+    <ctml:longitude>11.29524000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30797" kind="admin2">
+    <ctml:name>Maribo</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q386402</ctml:wikiDataId>
+    <ctml:latitude>54.77662000</ctml:latitude>
+    <ctml:longitude>11.50017000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30805" kind="city">
+    <ctml:name>Nakskov</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q24231</ctml:wikiDataId>
+    <ctml:latitude>54.83038000</ctml:latitude>
+    <ctml:longitude>11.13567000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30821" kind="admin2">
+    <ctml:name>Næstved</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q21178</ctml:wikiDataId>
+    <ctml:latitude>55.22992000</ctml:latitude>
+    <ctml:longitude>11.76092000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30822" kind="admin2">
+    <ctml:name>Næstved Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q506716</ctml:wikiDataId>
+    <ctml:latitude>55.25855000</ctml:latitude>
+    <ctml:longitude>11.74615000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30807" kind="city">
+    <ctml:name>Neder Vindinge</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q12328490</ctml:wikiDataId>
+    <ctml:latitude>55.03211000</ctml:latitude>
+    <ctml:longitude>11.88356000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30824" kind="city">
+    <ctml:name>Nørre Alslev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q15142774</ctml:wikiDataId>
+    <ctml:latitude>54.89784000</ctml:latitude>
+    <ctml:longitude>11.88414000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30817" kind="admin2">
+    <ctml:name>Nykøbing Falster</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q986435</ctml:wikiDataId>
+    <ctml:latitude>54.76906000</ctml:latitude>
+    <ctml:longitude>11.87425000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30819" kind="city">
+    <ctml:name>Nykøbing Sjælland</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2003608</ctml:wikiDataId>
+    <ctml:latitude>55.92491000</ctml:latitude>
+    <ctml:longitude>11.67109000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30820" kind="city">
+    <ctml:name>Nyråd</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q4420514</ctml:wikiDataId>
+    <ctml:latitude>55.00511000</ctml:latitude>
+    <ctml:longitude>11.96060000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30831" kind="city">
+    <ctml:name>Odsherred Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q1425064</ctml:wikiDataId>
+    <ctml:latitude>55.88333000</ctml:latitude>
+    <ctml:longitude>11.59444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30833" kind="city">
+    <ctml:name>Osted</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2361237</ctml:wikiDataId>
+    <ctml:latitude>55.56228000</ctml:latitude>
+    <ctml:longitude>11.95786000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-31001" kind="city">
+    <ctml:name>Ørslev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q308256</ctml:wikiDataId>
+    <ctml:latitude>55.04356000</ctml:latitude>
+    <ctml:longitude>11.96792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30837" kind="city">
+    <ctml:name>Præstø</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q1563543</ctml:wikiDataId>
+    <ctml:latitude>55.12374000</ctml:latitude>
+    <ctml:longitude>12.04477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30845" kind="admin2">
+    <ctml:name>Ringsted</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q283658</ctml:wikiDataId>
+    <ctml:latitude>55.44260000</ctml:latitude>
+    <ctml:longitude>11.79011000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30846" kind="city">
+    <ctml:name>Ringsted Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q503116</ctml:wikiDataId>
+    <ctml:latitude>55.44721000</ctml:latitude>
+    <ctml:longitude>11.81720000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30847" kind="admin2">
+    <ctml:name>Roskilde</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q26563</ctml:wikiDataId>
+    <ctml:latitude>55.64152000</ctml:latitude>
+    <ctml:longitude>12.08035000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30848" kind="city">
+    <ctml:name>Roskilde Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q510810</ctml:wikiDataId>
+    <ctml:latitude>55.65000000</ctml:latitude>
+    <ctml:longitude>12.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30853" kind="city">
+    <ctml:name>Rødby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q161975</ctml:wikiDataId>
+    <ctml:latitude>54.69495000</ctml:latitude>
+    <ctml:longitude>11.38885000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30854" kind="city">
+    <ctml:name>Rødbyhavn</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q1011683</ctml:wikiDataId>
+    <ctml:latitude>54.65944000</ctml:latitude>
+    <ctml:longitude>11.35504000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30859" kind="city">
+    <ctml:name>Rødvig</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q848502</ctml:wikiDataId>
+    <ctml:latitude>55.25540000</ctml:latitude>
+    <ctml:longitude>12.37936000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30862" kind="city">
+    <ctml:name>Rønnede</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q1402824</ctml:wikiDataId>
+    <ctml:latitude>55.25710000</ctml:latitude>
+    <ctml:longitude>12.02125000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30864" kind="city">
+    <ctml:name>Sakskøbing</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q13218306</ctml:wikiDataId>
+    <ctml:latitude>54.79970000</ctml:latitude>
+    <ctml:longitude>11.62599000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30879" kind="city">
+    <ctml:name>Skælskør</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q1668279</ctml:wikiDataId>
+    <ctml:latitude>55.25058000</ctml:latitude>
+    <ctml:longitude>11.29352000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30882" kind="admin2">
+    <ctml:name>Slagelse</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q3414556</ctml:wikiDataId>
+    <ctml:latitude>55.40276000</ctml:latitude>
+    <ctml:longitude>11.35459000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30883" kind="city">
+    <ctml:name>Slagelse Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q29927</ctml:wikiDataId>
+    <ctml:latitude>55.34546000</ctml:latitude>
+    <ctml:longitude>11.33390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30889" kind="admin2">
+    <ctml:name>Solrød</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2884430</ctml:wikiDataId>
+    <ctml:latitude>55.53628000</ctml:latitude>
+    <ctml:longitude>12.18270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30890" kind="admin2">
+    <ctml:name>Solrød Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q499469</ctml:wikiDataId>
+    <ctml:latitude>55.53553000</ctml:latitude>
+    <ctml:longitude>12.17337000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30891" kind="city">
+    <ctml:name>Solrød Strand</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2229515</ctml:wikiDataId>
+    <ctml:latitude>55.53285000</ctml:latitude>
+    <ctml:longitude>12.22227000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30898" kind="city">
+    <ctml:name>Stege</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2301524</ctml:wikiDataId>
+    <ctml:latitude>54.98704000</ctml:latitude>
+    <ctml:longitude>12.28461000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30899" kind="city">
+    <ctml:name>Stenlille</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q603045</ctml:wikiDataId>
+    <ctml:latitude>55.53888000</ctml:latitude>
+    <ctml:longitude>11.59120000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30901" kind="city">
+    <ctml:name>Stevns Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q503153</ctml:wikiDataId>
+    <ctml:latitude>55.33373000</ctml:latitude>
+    <ctml:longitude>12.30692000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30905" kind="admin2">
+    <ctml:name>Store Heddinge</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q1019126</ctml:wikiDataId>
+    <ctml:latitude>55.30965000</ctml:latitude>
+    <ctml:longitude>12.38885000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30911" kind="city">
+    <ctml:name>Strøby Egede</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2357704</ctml:wikiDataId>
+    <ctml:latitude>55.41382000</ctml:latitude>
+    <ctml:longitude>12.24502000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30912" kind="city">
+    <ctml:name>Stubbekøbing</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q507747</ctml:wikiDataId>
+    <ctml:latitude>54.88875000</ctml:latitude>
+    <ctml:longitude>12.04102000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30914" kind="city">
+    <ctml:name>Sundby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2595635</ctml:wikiDataId>
+    <ctml:latitude>54.76711000</ctml:latitude>
+    <ctml:longitude>11.84979000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30916" kind="city">
+    <ctml:name>Svebølle</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q4353560</ctml:wikiDataId>
+    <ctml:latitude>55.65183000</ctml:latitude>
+    <ctml:longitude>11.28658000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30921" kind="city">
+    <ctml:name>Svinninge</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q7652712</ctml:wikiDataId>
+    <ctml:latitude>55.72111000</ctml:latitude>
+    <ctml:longitude>11.46547000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30922" kind="city">
+    <ctml:name>Svogerslev</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2217489</ctml:wikiDataId>
+    <ctml:latitude>55.63423000</ctml:latitude>
+    <ctml:longitude>12.01465000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30949" kind="city">
+    <ctml:name>Tølløse</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q7061097</ctml:wikiDataId>
+    <ctml:latitude>55.61250000</ctml:latitude>
+    <ctml:longitude>11.77034000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30945" kind="city">
+    <ctml:name>Tune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2505467</ctml:wikiDataId>
+    <ctml:latitude>55.59287000</ctml:latitude>
+    <ctml:longitude>12.16968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30974" kind="city">
+    <ctml:name>Viby</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q12340905</ctml:wikiDataId>
+    <ctml:latitude>55.54872000</ctml:latitude>
+    <ctml:longitude>12.02391000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30979" kind="city">
+    <ctml:name>Vindinge</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q16325016</ctml:wikiDataId>
+    <ctml:latitude>55.62298000</ctml:latitude>
+    <ctml:longitude>12.13870000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30980" kind="city">
+    <ctml:name>Vipperød</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2481211</ctml:wikiDataId>
+    <ctml:latitude>55.66768000</ctml:latitude>
+    <ctml:longitude>11.73967000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:DNK-30985" kind="admin2">
+    <ctml:name>Vordingborg</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q2608258</ctml:wikiDataId>
+    <ctml:latitude>55.00801000</ctml:latitude>
+    <ctml:longitude>11.91057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DNK-30986" kind="city">
+    <ctml:name>Vordingborg Kommune</ctml:name>
+    <ctml:country>DNK</ctml:country>
+    <ctml:admin1>Zealand</ctml:admin1>
+    <ctml:parentRef>place:admin1:DK-85</ctml:parentRef>
+    <ctml:wikiDataId>Q183572</ctml:wikiDataId>
+    <ctml:latitude>55.01383000</ctml:latitude>
+    <ctml:longitude>12.10008000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

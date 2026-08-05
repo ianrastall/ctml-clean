@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:GIN-52323" kind="city">
+    <ctml:name>Boffa</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Boké</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-B</ctml:parentRef>
+    <ctml:wikiDataId>Q890340</ctml:wikiDataId>
+    <ctml:latitude>10.33333000</ctml:latitude>
+    <ctml:longitude>-14.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52324" kind="city">
+    <ctml:name>Boke Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Boké</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-B</ctml:parentRef>
+    <ctml:wikiDataId>Q891238</ctml:wikiDataId>
+    <ctml:latitude>11.08333000</ctml:latitude>
+    <ctml:longitude>-14.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52332" kind="admin2">
+    <ctml:name>Fria</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Boké</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-B</ctml:parentRef>
+    <ctml:wikiDataId>Q1456055</ctml:wikiDataId>
+    <ctml:latitude>10.41667000</ctml:latitude>
+    <ctml:longitude>-13.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52333" kind="admin2">
+    <ctml:name>Gaoual</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Boké</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-B</ctml:parentRef>
+    <ctml:wikiDataId>Q1456055</ctml:wikiDataId>
+    <ctml:latitude>11.75409600</ctml:latitude>
+    <ctml:longitude>-13.20033300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52334" kind="city">
+    <ctml:name>Gaoual Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Boké</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-B</ctml:parentRef>
+    <ctml:wikiDataId>Q614669</ctml:wikiDataId>
+    <ctml:latitude>11.72434350</ctml:latitude>
+    <ctml:longitude>-13.24778750</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52339" kind="city">
+    <ctml:name>Kimbo</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Boké</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-B</ctml:parentRef>
+    <ctml:wikiDataId>Q962654</ctml:wikiDataId>
+    <ctml:latitude>10.40000000</ctml:latitude>
+    <ctml:longitude>-13.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52342" kind="admin2">
+    <ctml:name>Koundara</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Boké</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-B</ctml:parentRef>
+    <ctml:wikiDataId>Q985374</ctml:wikiDataId>
+    <ctml:latitude>12.48333000</ctml:latitude>
+    <ctml:longitude>-13.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52343" kind="city">
+    <ctml:name>Koundara Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Boké</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-B</ctml:parentRef>
+    <ctml:wikiDataId>Q1781312</ctml:wikiDataId>
+    <ctml:latitude>12.41667000</ctml:latitude>
+    <ctml:longitude>-13.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52364" kind="city">
+    <ctml:name>Sanguéya</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Boké</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-B</ctml:parentRef>
+    <ctml:wikiDataId>Q623142</ctml:wikiDataId>
+    <ctml:latitude>10.70000000</ctml:latitude>
+    <ctml:longitude>-14.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52374" kind="city">
+    <ctml:name>Youkounkoun</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Boké</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-B</ctml:parentRef>
+    <ctml:wikiDataId>Q623139</ctml:wikiDataId>
+    <ctml:latitude>12.53110000</ctml:latitude>
+    <ctml:longitude>-13.12240000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52326" kind="city">
+    <ctml:name>Camayenne</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Conakry</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-C</ctml:parentRef>
+    <ctml:wikiDataId>Q891240</ctml:wikiDataId>
+    <ctml:latitude>9.53500000</ctml:latitude>
+    <ctml:longitude>-13.68778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52327" kind="city">
+    <ctml:name>Conakry</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Conakry</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-C</ctml:parentRef>
+    <ctml:wikiDataId>Q3733</ctml:wikiDataId>
+    <ctml:latitude>9.53795000</ctml:latitude>
+    <ctml:longitude>-13.67729000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52337" kind="city">
+    <ctml:name>Kankan Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kankan</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-K</ctml:parentRef>
+    <ctml:wikiDataId>Q581719</ctml:wikiDataId>
+    <ctml:latitude>10.27100000</ctml:latitude>
+    <ctml:longitude>-9.17800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52345" kind="admin2">
+    <ctml:name>Kérouané</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kankan</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-K</ctml:parentRef>
+    <ctml:wikiDataId>Q1152900</ctml:wikiDataId>
+    <ctml:latitude>9.26667000</ctml:latitude>
+    <ctml:longitude>-9.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52338" kind="city">
+    <ctml:name>Kerouane Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kankan</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-K</ctml:parentRef>
+    <ctml:wikiDataId>Q962654</ctml:wikiDataId>
+    <ctml:latitude>9.16667000</ctml:latitude>
+    <ctml:longitude>-9.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52344" kind="admin2">
+    <ctml:name>Kouroussa</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kankan</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-K</ctml:parentRef>
+    <ctml:wikiDataId>Q1471573</ctml:wikiDataId>
+    <ctml:latitude>10.66667000</ctml:latitude>
+    <ctml:longitude>-9.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52356" kind="admin2">
+    <ctml:name>Mandiana</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kankan</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-K</ctml:parentRef>
+    <ctml:wikiDataId>Q6748057</ctml:wikiDataId>
+    <ctml:latitude>10.62577000</ctml:latitude>
+    <ctml:longitude>-8.69413000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52357" kind="city">
+    <ctml:name>Mandiana Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kankan</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-K</ctml:parentRef>
+    <ctml:wikiDataId>Q1470878</ctml:wikiDataId>
+    <ctml:latitude>10.65800000</ctml:latitude>
+    <ctml:longitude>-8.61500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52365" kind="admin2">
+    <ctml:name>Siguiri</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kankan</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-K</ctml:parentRef>
+    <ctml:wikiDataId>Q1100303</ctml:wikiDataId>
+    <ctml:latitude>11.42282000</ctml:latitude>
+    <ctml:longitude>-9.16852000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52366" kind="city">
+    <ctml:name>Siguiri Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kankan</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-K</ctml:parentRef>
+    <ctml:wikiDataId>Q1780649</ctml:wikiDataId>
+    <ctml:latitude>11.66667000</ctml:latitude>
+    <ctml:longitude>-9.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52368" kind="city">
+    <ctml:name>Tokonou</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kankan</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-K</ctml:parentRef>
+    <ctml:wikiDataId>Q922545</ctml:wikiDataId>
+    <ctml:latitude>9.65000000</ctml:latitude>
+    <ctml:longitude>-9.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52328" kind="city">
+    <ctml:name>Coyah</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kindia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-D</ctml:parentRef>
+    <ctml:wikiDataId>Q616816</ctml:wikiDataId>
+    <ctml:latitude>9.75000000</ctml:latitude>
+    <ctml:longitude>-13.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52330" kind="admin2">
+    <ctml:name>Dubréka</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kindia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-D</ctml:parentRef>
+    <ctml:wikiDataId>Q985362</ctml:wikiDataId>
+    <ctml:latitude>9.79111000</ctml:latitude>
+    <ctml:longitude>-13.52333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52331" kind="admin2">
+    <ctml:name>Forécariah</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kindia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-D</ctml:parentRef>
+    <ctml:wikiDataId>Q3077142</ctml:wikiDataId>
+    <ctml:latitude>9.43056000</ctml:latitude>
+    <ctml:longitude>-13.08806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52361" kind="city">
+    <ctml:name>Préfecture de Dubréka</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kindia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-D</ctml:parentRef>
+    <ctml:wikiDataId>Q1263263</ctml:wikiDataId>
+    <ctml:latitude>10.25000000</ctml:latitude>
+    <ctml:longitude>-13.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52362" kind="admin2">
+    <ctml:name>Préfecture de Forécariah</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kindia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-D</ctml:parentRef>
+    <ctml:wikiDataId>Q1439329</ctml:wikiDataId>
+    <ctml:latitude>9.43333000</ctml:latitude>
+    <ctml:longitude>-13.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52372" kind="admin2">
+    <ctml:name>Télimélé</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kindia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-D</ctml:parentRef>
+    <ctml:wikiDataId>Q7862201</ctml:wikiDataId>
+    <ctml:latitude>10.90000000</ctml:latitude>
+    <ctml:longitude>-13.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52367" kind="city">
+    <ctml:name>Telimele Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kindia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-D</ctml:parentRef>
+    <ctml:wikiDataId>Q922545</ctml:wikiDataId>
+    <ctml:latitude>10.91667000</ctml:latitude>
+    <ctml:longitude>-13.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52369" kind="city">
+    <ctml:name>Tondon</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Kindia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-D</ctml:parentRef>
+    <ctml:wikiDataId>Q7820819</ctml:wikiDataId>
+    <ctml:latitude>10.36667000</ctml:latitude>
+    <ctml:longitude>-13.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52341" kind="admin2">
+    <ctml:name>Koubia</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Labé</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-L</ctml:parentRef>
+    <ctml:wikiDataId>Q623409</ctml:wikiDataId>
+    <ctml:latitude>11.58333000</ctml:latitude>
+    <ctml:longitude>-11.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52347" kind="admin2">
+    <ctml:name>Labé</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Labé</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1020384</ctml:wikiDataId>
+    <ctml:latitude>11.31823000</ctml:latitude>
+    <ctml:longitude>-12.28332000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52346" kind="city">
+    <ctml:name>Labe Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Labé</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1781303</ctml:wikiDataId>
+    <ctml:latitude>11.36600000</ctml:latitude>
+    <ctml:longitude>-12.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52350" kind="admin2">
+    <ctml:name>Lélouma</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Labé</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3270350</ctml:wikiDataId>
+    <ctml:latitude>11.42383000</ctml:latitude>
+    <ctml:longitude>-12.68183000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52348" kind="city">
+    <ctml:name>Lelouma Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Labé</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-L</ctml:parentRef>
+    <ctml:wikiDataId>Q253661</ctml:wikiDataId>
+    <ctml:latitude>11.41667000</ctml:latitude>
+    <ctml:longitude>-12.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52352" kind="admin2">
+    <ctml:name>Mali</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Labé</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1019078</ctml:wikiDataId>
+    <ctml:latitude>12.07900000</ctml:latitude>
+    <ctml:longitude>-12.29820000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52353" kind="city">
+    <ctml:name>Mali Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Labé</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1781017</ctml:wikiDataId>
+    <ctml:latitude>12.08333000</ctml:latitude>
+    <ctml:longitude>-12.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52371" kind="admin2">
+    <ctml:name>Tougué</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Labé</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-L</ctml:parentRef>
+    <ctml:wikiDataId>Q7828837</ctml:wikiDataId>
+    <ctml:latitude>11.44503000</ctml:latitude>
+    <ctml:longitude>-11.66422000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52370" kind="city">
+    <ctml:name>Tougue Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Labé</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1432094</ctml:wikiDataId>
+    <ctml:latitude>11.46667000</ctml:latitude>
+    <ctml:longitude>-11.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52329" kind="admin2">
+    <ctml:name>Dalaba</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Mamou</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-M</ctml:parentRef>
+    <ctml:wikiDataId>Q623302</ctml:wikiDataId>
+    <ctml:latitude>10.75000000</ctml:latitude>
+    <ctml:longitude>-12.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52355" kind="city">
+    <ctml:name>Mamou Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Mamou</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-M</ctml:parentRef>
+    <ctml:wikiDataId>Q623295</ctml:wikiDataId>
+    <ctml:latitude>10.45900000</ctml:latitude>
+    <ctml:longitude>-11.81500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52360" kind="city">
+    <ctml:name>Pita</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Mamou</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-M</ctml:parentRef>
+    <ctml:wikiDataId>Q736507</ctml:wikiDataId>
+    <ctml:latitude>10.83333000</ctml:latitude>
+    <ctml:longitude>-12.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52321" kind="admin2">
+    <ctml:name>Beyla</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Nzérékoré</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1076707</ctml:wikiDataId>
+    <ctml:latitude>8.69011000</ctml:latitude>
+    <ctml:longitude>-8.64869000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52322" kind="city">
+    <ctml:name>Beyla Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Nzérékoré</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-N</ctml:parentRef>
+    <ctml:wikiDataId>Q853169</ctml:wikiDataId>
+    <ctml:latitude>8.91667000</ctml:latitude>
+    <ctml:longitude>-8.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52335" kind="admin2">
+    <ctml:name>Gueckedou</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Nzérékoré</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-N</ctml:parentRef>
+    <ctml:wikiDataId>Q740687</ctml:wikiDataId>
+    <ctml:latitude>8.56744000</ctml:latitude>
+    <ctml:longitude>-10.13360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52349" kind="city">
+    <ctml:name>Lola</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Nzérékoré</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-N</ctml:parentRef>
+    <ctml:wikiDataId>Q623145</ctml:wikiDataId>
+    <ctml:latitude>7.83333000</ctml:latitude>
+    <ctml:longitude>-8.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52351" kind="admin2">
+    <ctml:name>Macenta</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Nzérékoré</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-N</ctml:parentRef>
+    <ctml:wikiDataId>Q949332</ctml:wikiDataId>
+    <ctml:latitude>8.50000000</ctml:latitude>
+    <ctml:longitude>-9.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52358" kind="city">
+    <ctml:name>Nzerekore Prefecture</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Nzérékoré</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1471203</ctml:wikiDataId>
+    <ctml:latitude>7.94500000</ctml:latitude>
+    <ctml:longitude>-8.78300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GIN-52363" kind="city">
+    <ctml:name>Préfecture de Guékédou</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Nzérékoré</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-N</ctml:parentRef>
+    <ctml:wikiDataId>Q623142</ctml:wikiDataId>
+    <ctml:latitude>8.66667000</ctml:latitude>
+    <ctml:longitude>-10.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GIN-52373" kind="admin2">
+    <ctml:name>Yomou</ctml:name>
+    <ctml:country>GIN</ctml:country>
+    <ctml:admin1>Nzérékoré</ctml:admin1>
+    <ctml:parentRef>place:admin1:GN-N</ctml:parentRef>
+    <ctml:wikiDataId>Q623139</ctml:wikiDataId>
+    <ctml:latitude>7.50000000</ctml:latitude>
+    <ctml:longitude>-9.16667000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

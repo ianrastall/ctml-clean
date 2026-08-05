@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ERI-31881" kind="city">
+    <ctml:name>Adi Keyh</ctml:name>
+    <ctml:country>ERI</ctml:country>
+    <ctml:admin1>Debub</ctml:admin1>
+    <ctml:parentRef>place:admin1:ER-DU</ctml:parentRef>
+    <ctml:wikiDataId>Q356811</ctml:wikiDataId>
+    <ctml:latitude>14.84444000</ctml:latitude>
+    <ctml:longitude>39.37722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ERI-31886" kind="city">
+    <ctml:name>Dek’emhāre</ctml:name>
+    <ctml:country>ERI</ctml:country>
+    <ctml:admin1>Debub</ctml:admin1>
+    <ctml:parentRef>place:admin1:ER-DU</ctml:parentRef>
+    <ctml:wikiDataId>Q1020477</ctml:wikiDataId>
+    <ctml:latitude>15.07000000</ctml:latitude>
+    <ctml:longitude>39.04750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ERI-31882" kind="city">
+    <ctml:name>Ak’ordat</ctml:name>
+    <ctml:country>ERI</ctml:country>
+    <ctml:admin1>Gash-Barka</ctml:admin1>
+    <ctml:parentRef>place:admin1:ER-GB</ctml:parentRef>
+    <ctml:wikiDataId>Q395433</ctml:wikiDataId>
+    <ctml:latitude>15.54798000</ctml:latitude>
+    <ctml:longitude>37.88291000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ERI-31891" kind="city">
+    <ctml:name>Teseney</ctml:name>
+    <ctml:country>ERI</ctml:country>
+    <ctml:admin1>Gash-Barka</ctml:admin1>
+    <ctml:parentRef>place:admin1:ER-GB</ctml:parentRef>
+    <ctml:wikiDataId>Q1797764</ctml:wikiDataId>
+    <ctml:latitude>15.11000000</ctml:latitude>
+    <ctml:longitude>36.65750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ERI-31883" kind="city">
+    <ctml:name>Asmara</ctml:name>
+    <ctml:country>ERI</ctml:country>
+    <ctml:admin1>Maekel</ctml:admin1>
+    <ctml:parentRef>place:admin1:ER-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q3642</ctml:wikiDataId>
+    <ctml:latitude>15.33805000</ctml:latitude>
+    <ctml:longitude>38.93184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ERI-31887" kind="city">
+    <ctml:name>Edd</ctml:name>
+    <ctml:country>ERI</ctml:country>
+    <ctml:admin1>Southern Red Sea</ctml:admin1>
+    <ctml:parentRef>place:admin1:ER-DK</ctml:parentRef>
+    <ctml:wikiDataId>Q523618</ctml:wikiDataId>
+    <ctml:latitude>13.93088000</ctml:latitude>
+    <ctml:longitude>41.69380000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

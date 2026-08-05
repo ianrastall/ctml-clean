@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:NAM-76626" kind="city">
+    <ctml:name>Arandis</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Erongo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q438851</ctml:wikiDataId>
+    <ctml:latitude>-22.41667000</ctml:latitude>
+    <ctml:longitude>14.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76633" kind="city">
+    <ctml:name>Hentiesbaai</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Erongo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q1013389</ctml:wikiDataId>
+    <ctml:latitude>-22.11667000</ctml:latitude>
+    <ctml:longitude>14.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76636" kind="city">
+    <ctml:name>Karibib</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Erongo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q1348181</ctml:wikiDataId>
+    <ctml:latitude>-21.93333000</ctml:latitude>
+    <ctml:longitude>15.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76648" kind="city">
+    <ctml:name>Omaruru</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Erongo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q1896161</ctml:wikiDataId>
+    <ctml:latitude>-21.43333000</ctml:latitude>
+    <ctml:longitude>15.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76659" kind="city">
+    <ctml:name>Otjimbingwe</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Erongo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q464050</ctml:wikiDataId>
+    <ctml:latitude>-22.35000000</ctml:latitude>
+    <ctml:longitude>16.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76667" kind="city">
+    <ctml:name>Swakopmund Constituency</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Erongo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q3711710</ctml:wikiDataId>
+    <ctml:latitude>-22.63199000</ctml:latitude>
+    <ctml:longitude>14.60119000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76670" kind="city">
+    <ctml:name>Usakos</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Erongo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q1457265</ctml:wikiDataId>
+    <ctml:latitude>-22.00000000</ctml:latitude>
+    <ctml:longitude>15.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76671" kind="city">
+    <ctml:name>Walvis Bay</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Erongo</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q220843</ctml:wikiDataId>
+    <ctml:latitude>-22.95750000</ctml:latitude>
+    <ctml:longitude>14.50528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76627" kind="city">
+    <ctml:name>Aranos</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Hardap</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q626040</ctml:wikiDataId>
+    <ctml:latitude>-24.13333000</ctml:latitude>
+    <ctml:longitude>19.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76634" kind="city">
+    <ctml:name>Hoachanas</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Hardap</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q1621498</ctml:wikiDataId>
+    <ctml:latitude>-23.91667000</ctml:latitude>
+    <ctml:longitude>18.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76643" kind="city">
+    <ctml:name>Maltahöhe</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Hardap</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q666079</ctml:wikiDataId>
+    <ctml:latitude>-24.83333000</ctml:latitude>
+    <ctml:longitude>16.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76663" kind="city">
+    <ctml:name>Rehoboth</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Hardap</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q700050</ctml:wikiDataId>
+    <ctml:latitude>-23.31700000</ctml:latitude>
+    <ctml:longitude>17.09000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76629" kind="city">
+    <ctml:name>Bethanie</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Karas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q251677</ctml:wikiDataId>
+    <ctml:latitude>-26.48333000</ctml:latitude>
+    <ctml:longitude>17.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76635" kind="city">
+    <ctml:name>Karasburg</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Karas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q1003328</ctml:wikiDataId>
+    <ctml:latitude>-28.01667000</ctml:latitude>
+    <ctml:longitude>18.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76642" kind="city">
+    <ctml:name>Lüderitz</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Karas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q159325</ctml:wikiDataId>
+    <ctml:latitude>-26.64807000</ctml:latitude>
+    <ctml:longitude>15.15383000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76655" kind="city">
+    <ctml:name>Oranjemund</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Karas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q1404518</ctml:wikiDataId>
+    <ctml:latitude>-28.55000000</ctml:latitude>
+    <ctml:longitude>16.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76668" kind="city">
+    <ctml:name>Tses</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Karas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q1529444</ctml:wikiDataId>
+    <ctml:latitude>-25.88333000</ctml:latitude>
+    <ctml:longitude>18.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76672" kind="city">
+    <ctml:name>Warmbad</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Karas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q479312</ctml:wikiDataId>
+    <ctml:latitude>-28.45000000</ctml:latitude>
+    <ctml:longitude>18.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76638" kind="city">
+    <ctml:name>Katutura</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Khomas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-KH</ctml:parentRef>
+    <ctml:wikiDataId>Q864100</ctml:wikiDataId>
+    <ctml:latitude>-22.52306000</ctml:latitude>
+    <ctml:longitude>17.06028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76673" kind="city">
+    <ctml:name>Windhoek</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Khomas</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-KH</ctml:parentRef>
+    <ctml:wikiDataId>Q3935</ctml:wikiDataId>
+    <ctml:latitude>-22.55941000</ctml:latitude>
+    <ctml:longitude>17.08323000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76630" kind="city">
+    <ctml:name>Epupa Constituency</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Kunene</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-KU</ctml:parentRef>
+    <ctml:wikiDataId>Q1026511</ctml:wikiDataId>
+    <ctml:latitude>-17.00388000</ctml:latitude>
+    <ctml:longitude>13.24825000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76640" kind="city">
+    <ctml:name>Khorixas</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Kunene</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-KU</ctml:parentRef>
+    <ctml:wikiDataId>Q1740681</ctml:wikiDataId>
+    <ctml:latitude>-20.36667000</ctml:latitude>
+    <ctml:longitude>14.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76641" kind="city">
+    <ctml:name>Khorixas Constituency</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Kunene</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-KU</ctml:parentRef>
+    <ctml:wikiDataId>Q4122340</ctml:wikiDataId>
+    <ctml:latitude>-20.36792000</ctml:latitude>
+    <ctml:longitude>14.95996000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76654" kind="city">
+    <ctml:name>Opuwo Constituency</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Kunene</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-KU</ctml:parentRef>
+    <ctml:wikiDataId>Q3711697</ctml:wikiDataId>
+    <ctml:latitude>-18.54247000</ctml:latitude>
+    <ctml:longitude>13.51617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76662" kind="city">
+    <ctml:name>Outjo</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Kunene</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-KU</ctml:parentRef>
+    <ctml:wikiDataId>Q1704346</ctml:wikiDataId>
+    <ctml:latitude>-20.11667000</ctml:latitude>
+    <ctml:longitude>16.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76665" kind="city">
+    <ctml:name>Sesfontein Constituency</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Kunene</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-KU</ctml:parentRef>
+    <ctml:wikiDataId>Q3711708</ctml:wikiDataId>
+    <ctml:latitude>-19.56106000</ctml:latitude>
+    <ctml:longitude>13.76530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76657" kind="city">
+    <ctml:name>Oshikango</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Ohangwena</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-OW</ctml:parentRef>
+    <ctml:wikiDataId>Q2033319</ctml:wikiDataId>
+    <ctml:latitude>-17.40000000</ctml:latitude>
+    <ctml:longitude>15.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NAM-76646" kind="admin2">
+    <ctml:name>Okahao</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Omusati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q2017063</ctml:wikiDataId>
+    <ctml:latitude>-17.88758000</ctml:latitude>
+    <ctml:longitude>15.06677000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NAM-76651" kind="admin2">
+    <ctml:name>Ongandjera</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Omusati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-OS</ctml:parentRef>
+    <ctml:wikiDataId>Q3352721</ctml:wikiDataId>
+    <ctml:latitude>-17.88333000</ctml:latitude>
+    <ctml:longitude>15.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76650" kind="city">
+    <ctml:name>Ondangwa</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Oshana</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-ON</ctml:parentRef>
+    <ctml:wikiDataId>Q2023773</ctml:wikiDataId>
+    <ctml:latitude>-17.91667000</ctml:latitude>
+    <ctml:longitude>15.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76652" kind="city">
+    <ctml:name>Ongwediva</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Oshana</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-ON</ctml:parentRef>
+    <ctml:wikiDataId>Q841557</ctml:wikiDataId>
+    <ctml:latitude>-17.78333000</ctml:latitude>
+    <ctml:longitude>15.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76669" kind="city">
+    <ctml:name>Tsumeb</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Oshikoto</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-OT</ctml:parentRef>
+    <ctml:wikiDataId>Q639467</ctml:wikiDataId>
+    <ctml:latitude>-19.23333000</ctml:latitude>
+    <ctml:longitude>17.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76632" kind="city">
+    <ctml:name>Grootfontein</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Otjozondjupa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-OD</ctml:parentRef>
+    <ctml:wikiDataId>Q986336</ctml:wikiDataId>
+    <ctml:latitude>-19.56667000</ctml:latitude>
+    <ctml:longitude>18.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76645" kind="city">
+    <ctml:name>Okahandja</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Otjozondjupa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-OD</ctml:parentRef>
+    <ctml:wikiDataId>Q597491</ctml:wikiDataId>
+    <ctml:latitude>-21.98333000</ctml:latitude>
+    <ctml:longitude>16.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76647" kind="city">
+    <ctml:name>Okakarara</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Otjozondjupa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-OD</ctml:parentRef>
+    <ctml:wikiDataId>Q992077</ctml:wikiDataId>
+    <ctml:latitude>-20.58333000</ctml:latitude>
+    <ctml:longitude>17.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76658" kind="city">
+    <ctml:name>Otavi</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Otjozondjupa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-OD</ctml:parentRef>
+    <ctml:wikiDataId>Q1013965</ctml:wikiDataId>
+    <ctml:latitude>-19.65000000</ctml:latitude>
+    <ctml:longitude>17.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NAM-76628" kind="city">
+    <ctml:name>Bagani</ctml:name>
+    <ctml:country>NAM</ctml:country>
+    <ctml:admin1>Zambezi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NA-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q799830</ctml:wikiDataId>
+    <ctml:latitude>-18.11065000</ctml:latitude>
+    <ctml:longitude>21.61645000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

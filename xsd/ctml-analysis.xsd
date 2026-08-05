@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:ctml="urn:ctml:2.0"
+  targetNamespace="urn:ctml:2.0"
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified">
+
+  <xs:annotation>
+    <xs:documentation>
+      CTML 2.0 - Analysis: game fingerprints and engine evaluations.
+
+      New module. Deliberately separate from ctml-game.xsd to preserve the
+      boundary between "what the source said" (ctml-game.xsd: result, tags,
+      the recorded move list) and "what our pipeline computed" (this module:
+      dedup fingerprints, engine evals). ctml-game.xsd includes this module
+      because MoveType/GameType need FingerprintType and EvalType; the
+      computed/recorded boundary is conceptual, not a strict layering of
+      xs:include direction.
+
+      Fingerprint scope is deliberately split in two:
+      - trajectory: hash of the whole move sequence. THE identity/dedup key.
+      - finalPosition: hash of the endpoint position only. A separate,
+        optional feature for future position-search. Must never be used for
+        dedup decisions: many unrelated games (especially short draws and
+        common endgames) converge on the same final position, so conflating
+        "same final position" with "same game" is a real bug risk, not a
+        theoretical one.
+
+      scheme is an explicit token (e.g. "zobrist-polyglot-1") rather than an
+      assumed-fixed algorithm, so a future change to the hashing approach can
+      coexist with old fingerprints during a transition instead of forcing a
+      one-shot migration.
+    </xs:documentation>
+  </xs:annotation>
+
+  <xs:complexType name="FingerprintType">
+    <xs:attribute name="scheme" type="xs:token" use="required"/>
+    <xs:attribute name="scope" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="trajectory"/>     <!-- whole move sequence: THE identity/dedup key -->
+          <xs:enumeration value="finalPosition"/>  <!-- endpoint only: position search, never dedup -->
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+    <xs:attribute name="value" type="xs:hexBinary" use="required"/>
+  </xs:complexType>
+
+  <!-- Wraps repeatable fingerprints, matching the schema's existing
+       convention for repeatable sets (tags, ids, aliases). -->
+  <xs:complexType name="FingerprintSetType">
+    <xs:sequence>
+      <xs:element name="fingerprint" type="ctml:FingerprintType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="EvalType">
+    <xs:annotation>
+      <xs:documentation>
+        value is signed, from the perspective of the side to move at this ply
+        -- matches UCI engine output directly, so no sign-flipping is needed
+        when storing raw analysis results.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:attribute name="kind" use="required">
+      <xs:simpleType>
+        <xs:restriction base="xs:token">
+          <xs:enumeration value="cp"/>    <!-- centipawns -->
+          <xs:enumeration value="mate"/>  <!-- mate distance, full moves -->
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:attribute>
+    <xs:attribute name="value" type="xs:integer" use="required"/>
+    <xs:attribute name="engine" type="xs:token" use="optional"/>
+    <xs:attribute name="depth" type="xs:nonNegativeInteger" use="optional"/>
+  </xs:complexType>
+
+</xs:schema>

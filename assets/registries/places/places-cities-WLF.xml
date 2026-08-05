@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:WLF-160132" kind="city">
+    <ctml:name>Mata Utu</ctml:name>
+    <ctml:country>WLF</ctml:country>
+    <ctml:admin1>Uvea</ctml:admin1>
+    <ctml:parentRef>place:admin1:WF-UV</ctml:parentRef>
+    <ctml:wikiDataId>Q31002</ctml:wikiDataId>
+    <ctml:latitude>-13.28333333</ctml:latitude>
+    <ctml:longitude>-176.18333333</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

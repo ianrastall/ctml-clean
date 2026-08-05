@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:GLP-154948" kind="city">
+    <ctml:name>Baie-Mahault</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q660165</ctml:wikiDataId>
+    <ctml:latitude>16.24976070</ctml:latitude>
+    <ctml:longitude>-61.67750720</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154949" kind="city">
+    <ctml:name>Baillif</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q773569</ctml:wikiDataId>
+    <ctml:latitude>16.04973310</ctml:latitude>
+    <ctml:longitude>-61.75705910</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154950" kind="city">
+    <ctml:name>Basse-Terre</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q167024</ctml:wikiDataId>
+    <ctml:latitude>15.99916310</ctml:latitude>
+    <ctml:longitude>-61.74998100</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154951" kind="city">
+    <ctml:name>Bouillante</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q895024</ctml:wikiDataId>
+    <ctml:latitude>16.13869370</ctml:latitude>
+    <ctml:longitude>-61.79898970</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154952" kind="city">
+    <ctml:name>Capesterre-Belle-Eau</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1014795</ctml:wikiDataId>
+    <ctml:latitude>16.04854020</ctml:latitude>
+    <ctml:longitude>-61.70210450</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154953" kind="city">
+    <ctml:name>Deshaies</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q996301</ctml:wikiDataId>
+    <ctml:latitude>16.31936050</ctml:latitude>
+    <ctml:longitude>-61.82425780</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154954" kind="city">
+    <ctml:name>Gourbeyre</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q996284</ctml:wikiDataId>
+    <ctml:latitude>16.00565950</ctml:latitude>
+    <ctml:longitude>-61.73023870</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154955" kind="city">
+    <ctml:name>Goyave</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1014741</ctml:wikiDataId>
+    <ctml:latitude>16.12310770</ctml:latitude>
+    <ctml:longitude>-61.69740210</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154956" kind="city">
+    <ctml:name>Lamentin</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1014790</ctml:wikiDataId>
+    <ctml:latitude>16.24431320</ctml:latitude>
+    <ctml:longitude>-61.75191940</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154957" kind="city">
+    <ctml:name>Petit-Bourg</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q844987</ctml:wikiDataId>
+    <ctml:latitude>16.16948810</ctml:latitude>
+    <ctml:longitude>-61.74043310</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154958" kind="city">
+    <ctml:name>Pointe-Noire</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1014751</ctml:wikiDataId>
+    <ctml:latitude>16.22702770</ctml:latitude>
+    <ctml:longitude>-61.80631220</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154959" kind="city">
+    <ctml:name>Saint-Claude</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q996400</ctml:wikiDataId>
+    <ctml:latitude>16.04057440</ctml:latitude>
+    <ctml:longitude>-61.73648730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154960" kind="city">
+    <ctml:name>Sainte-Rose</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q996367</ctml:wikiDataId>
+    <ctml:latitude>16.29372520</ctml:latitude>
+    <ctml:longitude>-61.76595760</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154961" kind="city">
+    <ctml:name>Terre-de-Bas</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1014805</ctml:wikiDataId>
+    <ctml:latitude>15.85541960</ctml:latitude>
+    <ctml:longitude>-61.65329200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154962" kind="city">
+    <ctml:name>Terre-de-Haut</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q996237</ctml:wikiDataId>
+    <ctml:latitude>15.85803760</ctml:latitude>
+    <ctml:longitude>-61.60960980</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154963" kind="city">
+    <ctml:name>Trois-Rivières</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q539756</ctml:wikiDataId>
+    <ctml:latitude>15.99313620</ctml:latitude>
+    <ctml:longitude>-61.69052960</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154964" kind="city">
+    <ctml:name>Vieux-Fort</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q996207</ctml:wikiDataId>
+    <ctml:latitude>15.96070380</ctml:latitude>
+    <ctml:longitude>-61.71351770</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154965" kind="city">
+    <ctml:name>Vieux-Habitants</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Basse-Terre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-01</ctml:parentRef>
+    <ctml:wikiDataId>Q996336</ctml:wikiDataId>
+    <ctml:latitude>16.08466180</ctml:latitude>
+    <ctml:longitude>-61.79939230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154967" kind="city">
+    <ctml:name>Anse-Bertrand</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Pointe-à-Pitre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569447</ctml:wikiDataId>
+    <ctml:latitude>16.46681810</ctml:latitude>
+    <ctml:longitude>-61.55217680</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154968" kind="city">
+    <ctml:name>Capesterre-de-Marie-Galante</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Pointe-à-Pitre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-02</ctml:parentRef>
+    <ctml:wikiDataId>Q996138</ctml:wikiDataId>
+    <ctml:latitude>15.91763990</ctml:latitude>
+    <ctml:longitude>-61.27077860</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154971" kind="city">
+    <ctml:name>Grand-Bourg</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Pointe-à-Pitre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-02</ctml:parentRef>
+    <ctml:wikiDataId>Q651187</ctml:wikiDataId>
+    <ctml:latitude>15.90853800</ctml:latitude>
+    <ctml:longitude>-61.33406180</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154969" kind="city">
+    <ctml:name>La Désirade</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Pointe-à-Pitre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3208509</ctml:wikiDataId>
+    <ctml:latitude>16.25845450</ctml:latitude>
+    <ctml:longitude>-61.14902790</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154970" kind="city">
+    <ctml:name>Le Gosier</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Pointe-à-Pitre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-02</ctml:parentRef>
+    <ctml:wikiDataId>Q918874</ctml:wikiDataId>
+    <ctml:latitude>16.22726250</ctml:latitude>
+    <ctml:longitude>-61.55734490</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154973" kind="city">
+    <ctml:name>Le Moule</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Pointe-à-Pitre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-02</ctml:parentRef>
+    <ctml:wikiDataId>Q845039</ctml:wikiDataId>
+    <ctml:latitude>16.33536870</ctml:latitude>
+    <ctml:longitude>-61.44242930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154966" kind="city">
+    <ctml:name>Les Abymes</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Pointe-à-Pitre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-02</ctml:parentRef>
+    <ctml:wikiDataId>Q13636</ctml:wikiDataId>
+    <ctml:latitude>16.26773830</ctml:latitude>
+    <ctml:longitude>-61.57907270</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154972" kind="city">
+    <ctml:name>Morne-à-l'Eau</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Pointe-à-Pitre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-02</ctml:parentRef>
+    <ctml:wikiDataId>Q996320</ctml:wikiDataId>
+    <ctml:latitude>16.32110610</ctml:latitude>
+    <ctml:longitude>-61.66356890</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154974" kind="city">
+    <ctml:name>Petit-Canal</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Pointe-à-Pitre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-02</ctml:parentRef>
+    <ctml:wikiDataId>Q767111</ctml:wikiDataId>
+    <ctml:latitude>16.39213100</ctml:latitude>
+    <ctml:longitude>-61.53713120</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154975" kind="city">
+    <ctml:name>Pointe-à-Pitre</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Pointe-à-Pitre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-02</ctml:parentRef>
+    <ctml:wikiDataId>Q335322</ctml:wikiDataId>
+    <ctml:latitude>16.23313040</ctml:latitude>
+    <ctml:longitude>-61.56234850</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154976" kind="city">
+    <ctml:name>Port-Louis</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Pointe-à-Pitre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-02</ctml:parentRef>
+    <ctml:wikiDataId>Q996180</ctml:wikiDataId>
+    <ctml:latitude>16.42012820</ctml:latitude>
+    <ctml:longitude>-61.57039890</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154977" kind="city">
+    <ctml:name>Saint-François</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Pointe-à-Pitre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-02</ctml:parentRef>
+    <ctml:wikiDataId>Q608483</ctml:wikiDataId>
+    <ctml:latitude>16.27834950</ctml:latitude>
+    <ctml:longitude>-61.33624980</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154978" kind="city">
+    <ctml:name>Saint-Louis</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Pointe-à-Pitre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-02</ctml:parentRef>
+    <ctml:wikiDataId>Q996414</ctml:wikiDataId>
+    <ctml:latitude>15.96535890</ctml:latitude>
+    <ctml:longitude>-61.35562500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GLP-154979" kind="city">
+    <ctml:name>Sainte-Anne</ctml:name>
+    <ctml:country>GLP</ctml:country>
+    <ctml:admin1>Pointe-à-Pitre</ctml:admin1>
+    <ctml:parentRef>place:admin1:GP-02</ctml:parentRef>
+    <ctml:wikiDataId>Q386243</ctml:wikiDataId>
+    <ctml:latitude>16.25646130</ctml:latitude>
+    <ctml:longitude>-61.47202880</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

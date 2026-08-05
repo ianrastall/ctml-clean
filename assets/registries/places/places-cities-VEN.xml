@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:VEN-130106" kind="admin2">
+    <ctml:name>Maroa</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q685198</ctml:wikiDataId>
+    <ctml:latitude>2.71880000</ctml:latitude>
+    <ctml:longitude>-67.56046000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130110" kind="city">
+    <ctml:name>Municipio Autónomo Alto Orinoco</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q31960357</ctml:wikiDataId>
+    <ctml:latitude>2.73456000</ctml:latitude>
+    <ctml:longitude>-64.83032000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130142" kind="admin2">
+    <ctml:name>San Carlos de Río Negro</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q1269422</ctml:wikiDataId>
+    <ctml:latitude>1.92027000</ctml:latitude>
+    <ctml:longitude>-67.06089000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130146" kind="admin2">
+    <ctml:name>San Fernando de Atabapo</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q371223</ctml:wikiDataId>
+    <ctml:latitude>4.04564000</ctml:latitude>
+    <ctml:longitude>-67.69934000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130149" kind="admin2">
+    <ctml:name>San Juan de Manapiare</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Amazonas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q1023656</ctml:wikiDataId>
+    <ctml:latitude>5.32665000</ctml:latitude>
+    <ctml:longitude>-66.05402000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130041" kind="admin2">
+    <ctml:name>Anaco</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Anzoátegui</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-B</ctml:parentRef>
+    <ctml:wikiDataId>Q1897488</ctml:wikiDataId>
+    <ctml:latitude>9.42958000</ctml:latitude>
+    <ctml:longitude>-64.46428000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130042" kind="admin2">
+    <ctml:name>Aragua de Barcelona</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Anzoátegui</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-B</ctml:parentRef>
+    <ctml:wikiDataId>Q2859442</ctml:wikiDataId>
+    <ctml:latitude>9.45588000</ctml:latitude>
+    <ctml:longitude>-64.82928000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130054" kind="admin2">
+    <ctml:name>Cantaura</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Anzoátegui</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-B</ctml:parentRef>
+    <ctml:wikiDataId>Q2919593</ctml:wikiDataId>
+    <ctml:latitude>9.30571000</ctml:latitude>
+    <ctml:longitude>-64.35841000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130078" kind="admin2">
+    <ctml:name>El Tigre</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Anzoátegui</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-B</ctml:parentRef>
+    <ctml:wikiDataId>Q1020297</ctml:wikiDataId>
+    <ctml:latitude>8.88902000</ctml:latitude>
+    <ctml:longitude>-64.25270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130113" kind="city">
+    <ctml:name>Municipio José Gregorio Monagas</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Anzoátegui</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-B</ctml:parentRef>
+    <ctml:wikiDataId>Q2545115</ctml:wikiDataId>
+    <ctml:latitude>7.73874000</ctml:latitude>
+    <ctml:longitude>-64.71876000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130127" kind="admin2">
+    <ctml:name>Onoto</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Anzoátegui</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-B</ctml:parentRef>
+    <ctml:wikiDataId>Q3132654</ctml:wikiDataId>
+    <ctml:latitude>9.59714000</ctml:latitude>
+    <ctml:longitude>-65.19350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130133" kind="admin2">
+    <ctml:name>Puerto La Cruz</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Anzoátegui</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-B</ctml:parentRef>
+    <ctml:wikiDataId>Q379509</ctml:wikiDataId>
+    <ctml:latitude>10.21382000</ctml:latitude>
+    <ctml:longitude>-64.63280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130134" kind="admin2">
+    <ctml:name>Puerto Píritu</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Anzoátegui</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-B</ctml:parentRef>
+    <ctml:wikiDataId>Q3132040</ctml:wikiDataId>
+    <ctml:latitude>10.05896000</ctml:latitude>
+    <ctml:longitude>-65.03698000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130148" kind="admin2">
+    <ctml:name>San José de Guanipa</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Anzoátegui</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-B</ctml:parentRef>
+    <ctml:wikiDataId>Q3067441</ctml:wikiDataId>
+    <ctml:latitude>8.88724000</ctml:latitude>
+    <ctml:longitude>-64.16512000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130052" kind="admin2">
+    <ctml:name>Cagua</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Aragua</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-D</ctml:parentRef>
+    <ctml:wikiDataId>Q979808</ctml:wikiDataId>
+    <ctml:latitude>10.18634000</ctml:latitude>
+    <ctml:longitude>-67.45935000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130077" kind="admin2">
+    <ctml:name>El Limón</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Aragua</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-D</ctml:parentRef>
+    <ctml:wikiDataId>Q1324317</ctml:wikiDataId>
+    <ctml:latitude>10.30589000</ctml:latitude>
+    <ctml:longitude>-67.63212000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130093" kind="admin2">
+    <ctml:name>La Victoria</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Aragua</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-D</ctml:parentRef>
+    <ctml:wikiDataId>Q590133</ctml:wikiDataId>
+    <ctml:latitude>10.22677000</ctml:latitude>
+    <ctml:longitude>-67.33122000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130096" kind="admin2">
+    <ctml:name>Las Tejerías</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Aragua</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-D</ctml:parentRef>
+    <ctml:wikiDataId>Q3218244</ctml:wikiDataId>
+    <ctml:latitude>10.25416000</ctml:latitude>
+    <ctml:longitude>-67.17333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130128" kind="admin2">
+    <ctml:name>Palo Negro</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Aragua</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-D</ctml:parentRef>
+    <ctml:wikiDataId>Q3132654</ctml:wikiDataId>
+    <ctml:latitude>10.17389000</ctml:latitude>
+    <ctml:longitude>-67.54194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130151" kind="admin2">
+    <ctml:name>San Mateo</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Aragua</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-D</ctml:parentRef>
+    <ctml:wikiDataId>Q3471566</ctml:wikiDataId>
+    <ctml:latitude>10.21302000</ctml:latitude>
+    <ctml:longitude>-67.42365000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130153" kind="admin2">
+    <ctml:name>Santa Rita</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Aragua</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-D</ctml:parentRef>
+    <ctml:wikiDataId>Q1027004</ctml:wikiDataId>
+    <ctml:latitude>10.20540000</ctml:latitude>
+    <ctml:longitude>-67.55948000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130162" kind="admin2">
+    <ctml:name>Turmero</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Aragua</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-D</ctml:parentRef>
+    <ctml:wikiDataId>Q997084</ctml:wikiDataId>
+    <ctml:latitude>10.22856000</ctml:latitude>
+    <ctml:longitude>-67.47421000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130169" kind="admin2">
+    <ctml:name>Villa de Cura</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Aragua</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-D</ctml:parentRef>
+    <ctml:wikiDataId>Q2721732</ctml:wikiDataId>
+    <ctml:latitude>10.03863000</ctml:latitude>
+    <ctml:longitude>-67.48938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130040" kind="city">
+    <ctml:name>Alto Barinas</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Barinas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-E</ctml:parentRef>
+    <ctml:wikiDataId>Q433758</ctml:wikiDataId>
+    <ctml:latitude>8.59310000</ctml:latitude>
+    <ctml:longitude>-70.22610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130046" kind="admin2">
+    <ctml:name>Barinitas</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Barinas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-E</ctml:parentRef>
+    <ctml:wikiDataId>Q2884528</ctml:wikiDataId>
+    <ctml:latitude>8.76171000</ctml:latitude>
+    <ctml:longitude>-70.41199000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130068" kind="admin2">
+    <ctml:name>Ciudad Guayana</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Bolívar</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-F</ctml:parentRef>
+    <ctml:wikiDataId>Q507080</ctml:wikiDataId>
+    <ctml:latitude>8.35122000</ctml:latitude>
+    <ctml:longitude>-62.64102000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130119" kind="admin2">
+    <ctml:name>Municipio Padre Pedro Chien</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Bolívar</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-F</ctml:parentRef>
+    <ctml:wikiDataId>Q535057</ctml:wikiDataId>
+    <ctml:latitude>8.02455000</ctml:latitude>
+    <ctml:longitude>-61.88187000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130152" kind="admin2">
+    <ctml:name>Santa Elena de Uairén</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Bolívar</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-F</ctml:parentRef>
+    <ctml:wikiDataId>Q2568748</ctml:wikiDataId>
+    <ctml:latitude>4.60226000</ctml:latitude>
+    <ctml:longitude>-61.11025000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130164" kind="admin2">
+    <ctml:name>Upata</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Bolívar</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-F</ctml:parentRef>
+    <ctml:wikiDataId>Q940082</ctml:wikiDataId>
+    <ctml:latitude>8.01620000</ctml:latitude>
+    <ctml:longitude>-62.40561000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130081" kind="admin2">
+    <ctml:name>Guacara</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Carabobo</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-G</ctml:parentRef>
+    <ctml:wikiDataId>Q1552562</ctml:wikiDataId>
+    <ctml:latitude>10.22609000</ctml:latitude>
+    <ctml:longitude>-67.87700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130085" kind="admin2">
+    <ctml:name>Güigüe</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Carabobo</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-G</ctml:parentRef>
+    <ctml:wikiDataId>Q1000143</ctml:wikiDataId>
+    <ctml:latitude>10.08344000</ctml:latitude>
+    <ctml:longitude>-67.77799000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130098" kind="admin2">
+    <ctml:name>Los Guayos</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Carabobo</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-G</ctml:parentRef>
+    <ctml:wikiDataId>Q1817441</ctml:wikiDataId>
+    <ctml:latitude>10.18932000</ctml:latitude>
+    <ctml:longitude>-67.93828000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130105" kind="admin2">
+    <ctml:name>Mariara</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Carabobo</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-G</ctml:parentRef>
+    <ctml:wikiDataId>Q1816684</ctml:wikiDataId>
+    <ctml:latitude>10.29532000</ctml:latitude>
+    <ctml:longitude>-67.71770000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130108" kind="admin2">
+    <ctml:name>Morón</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Carabobo</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-G</ctml:parentRef>
+    <ctml:wikiDataId>Q452706</ctml:wikiDataId>
+    <ctml:latitude>10.48715000</ctml:latitude>
+    <ctml:longitude>-68.20078000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130132" kind="admin2">
+    <ctml:name>Puerto Cabello</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Carabobo</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-G</ctml:parentRef>
+    <ctml:wikiDataId>Q995695</ctml:wikiDataId>
+    <ctml:latitude>10.47306000</ctml:latitude>
+    <ctml:longitude>-68.01250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130147" kind="admin2">
+    <ctml:name>San Joaquín</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Carabobo</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-G</ctml:parentRef>
+    <ctml:wikiDataId>Q1631420</ctml:wikiDataId>
+    <ctml:latitude>10.26061000</ctml:latitude>
+    <ctml:longitude>-67.79348000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130156" kind="city">
+    <ctml:name>Tacarigua</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Carabobo</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-G</ctml:parentRef>
+    <ctml:wikiDataId>Q32026586</ctml:wikiDataId>
+    <ctml:latitude>10.08621000</ctml:latitude>
+    <ctml:longitude>-67.91982000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130158" kind="admin2">
+    <ctml:name>Tocuyito</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Carabobo</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-G</ctml:parentRef>
+    <ctml:wikiDataId>Q913356</ctml:wikiDataId>
+    <ctml:latitude>10.11347000</ctml:latitude>
+    <ctml:longitude>-68.06783000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130157" kind="admin2">
+    <ctml:name>Tinaquillo</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Cojedes</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-H</ctml:parentRef>
+    <ctml:wikiDataId>Q1517139</ctml:wikiDataId>
+    <ctml:latitude>9.91861000</ctml:latitude>
+    <ctml:longitude>-68.30472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-149261" kind="city">
+    <ctml:name>Caracas</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Distrito Capital</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-A</ctml:parentRef>
+    <ctml:wikiDataId>Q1533</ctml:wikiDataId>
+    <ctml:latitude>10.50000000</ctml:latitude>
+    <ctml:longitude>-66.93333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130065" kind="admin2">
+    <ctml:name>Chichiriviche</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Falcón</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-I</ctml:parentRef>
+    <ctml:wikiDataId>Q2963374</ctml:wikiDataId>
+    <ctml:latitude>10.92872000</ctml:latitude>
+    <ctml:longitude>-68.27283000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130116" kind="city">
+    <ctml:name>Municipio Los Taques</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Falcón</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-I</ctml:parentRef>
+    <ctml:wikiDataId>Q2318412</ctml:wikiDataId>
+    <ctml:latitude>11.82308000</ctml:latitude>
+    <ctml:longitude>-70.25353000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130118" kind="city">
+    <ctml:name>Municipio Miranda</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Falcón</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-I</ctml:parentRef>
+    <ctml:wikiDataId>Q1910828</ctml:wikiDataId>
+    <ctml:latitude>11.31667000</ctml:latitude>
+    <ctml:longitude>-69.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130135" kind="city">
+    <ctml:name>Punta Cardón</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Falcón</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-I</ctml:parentRef>
+    <ctml:wikiDataId>Q3132040</ctml:wikiDataId>
+    <ctml:latitude>11.65806000</ctml:latitude>
+    <ctml:longitude>-70.21500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130136" kind="admin2">
+    <ctml:name>Punto Fijo</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Falcón</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-I</ctml:parentRef>
+    <ctml:wikiDataId>Q1020279</ctml:wikiDataId>
+    <ctml:latitude>11.69152000</ctml:latitude>
+    <ctml:longitude>-70.19918000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130160" kind="admin2">
+    <ctml:name>Tucacas</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Falcón</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-I</ctml:parentRef>
+    <ctml:wikiDataId>Q2094682</ctml:wikiDataId>
+    <ctml:latitude>10.79006000</ctml:latitude>
+    <ctml:longitude>-68.32564000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130039" kind="admin2">
+    <ctml:name>Altagracia de Orituco</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Guárico</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-J</ctml:parentRef>
+    <ctml:wikiDataId>Q433758</ctml:wikiDataId>
+    <ctml:latitude>9.86005000</ctml:latitude>
+    <ctml:longitude>-66.38139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130053" kind="admin2">
+    <ctml:name>Calabozo</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Guárico</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-J</ctml:parentRef>
+    <ctml:wikiDataId>Q1026185</ctml:wikiDataId>
+    <ctml:latitude>8.92416000</ctml:latitude>
+    <ctml:longitude>-67.42929000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130167" kind="admin2">
+    <ctml:name>Valle de La Pascua</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Guárico</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-J</ctml:parentRef>
+    <ctml:wikiDataId>Q1308292</ctml:wikiDataId>
+    <ctml:latitude>9.21554000</ctml:latitude>
+    <ctml:longitude>-66.00734000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130171" kind="admin2">
+    <ctml:name>Zaraza</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Guárico</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-J</ctml:parentRef>
+    <ctml:wikiDataId>Q147782</ctml:wikiDataId>
+    <ctml:latitude>9.35029000</ctml:latitude>
+    <ctml:longitude>-65.32452000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130055" kind="city">
+    <ctml:name>Caraballeda</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>La Guaira</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-X</ctml:parentRef>
+    <ctml:wikiDataId>Q2919593</ctml:wikiDataId>
+    <ctml:latitude>10.61216000</ctml:latitude>
+    <ctml:longitude>-66.85192000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130060" kind="city">
+    <ctml:name>Catia La Mar</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>La Guaira</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-X</ctml:parentRef>
+    <ctml:wikiDataId>Q2725457</ctml:wikiDataId>
+    <ctml:latitude>10.60545000</ctml:latitude>
+    <ctml:longitude>-67.03238000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130102" kind="city">
+    <ctml:name>Maiquetía</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>La Guaira</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-X</ctml:parentRef>
+    <ctml:wikiDataId>Q1677956</ctml:wikiDataId>
+    <ctml:latitude>10.59450000</ctml:latitude>
+    <ctml:longitude>-66.95624000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130051" kind="admin2">
+    <ctml:name>Cabudare</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Lara</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-K</ctml:parentRef>
+    <ctml:wikiDataId>Q580968</ctml:wikiDataId>
+    <ctml:latitude>10.02658000</ctml:latitude>
+    <ctml:longitude>-69.26203000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130057" kind="admin2">
+    <ctml:name>Carora</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Lara</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-K</ctml:parentRef>
+    <ctml:wikiDataId>Q1044689</ctml:wikiDataId>
+    <ctml:latitude>10.17283000</ctml:latitude>
+    <ctml:longitude>-70.08100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130079" kind="admin2">
+    <ctml:name>El Tocuyo</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Lara</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-K</ctml:parentRef>
+    <ctml:wikiDataId>Q1324653</ctml:wikiDataId>
+    <ctml:latitude>9.78709000</ctml:latitude>
+    <ctml:longitude>-69.79294000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130099" kind="city">
+    <ctml:name>Los Rastrojos</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Lara</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-K</ctml:parentRef>
+    <ctml:wikiDataId>Q31943619</ctml:wikiDataId>
+    <ctml:latitude>10.02588000</ctml:latitude>
+    <ctml:longitude>-69.24166000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130137" kind="admin2">
+    <ctml:name>Quíbor</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Lara</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-K</ctml:parentRef>
+    <ctml:wikiDataId>Q1021748</ctml:wikiDataId>
+    <ctml:latitude>9.92866000</ctml:latitude>
+    <ctml:longitude>-69.62010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130074" kind="admin2">
+    <ctml:name>Ejido</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Mérida</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q770309</ctml:wikiDataId>
+    <ctml:latitude>8.54665000</ctml:latitude>
+    <ctml:longitude>-71.24087000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130080" kind="admin2">
+    <ctml:name>El Vigía</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Mérida</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1324653</ctml:wikiDataId>
+    <ctml:latitude>8.61350000</ctml:latitude>
+    <ctml:longitude>-71.65702000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130115" kind="admin2">
+    <ctml:name>Municipio Libertador</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Mérida</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2207830</ctml:wikiDataId>
+    <ctml:latitude>8.33333000</ctml:latitude>
+    <ctml:longitude>-71.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130048" kind="admin2">
+    <ctml:name>Baruta</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q3071358</ctml:wikiDataId>
+    <ctml:latitude>10.43424000</ctml:latitude>
+    <ctml:longitude>-66.87558000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130058" kind="admin2">
+    <ctml:name>Carrizal</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1044689</ctml:wikiDataId>
+    <ctml:latitude>10.34985000</ctml:latitude>
+    <ctml:longitude>-66.98632000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130061" kind="admin2">
+    <ctml:name>Caucaguita</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q31890677</ctml:wikiDataId>
+    <ctml:latitude>10.35782000</ctml:latitude>
+    <ctml:longitude>-66.80252000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130062" kind="city">
+    <ctml:name>Caucagüito</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q31890677</ctml:wikiDataId>
+    <ctml:latitude>10.48666000</ctml:latitude>
+    <ctml:longitude>-66.73799000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130063" kind="admin2">
+    <ctml:name>Chacao</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q374734</ctml:wikiDataId>
+    <ctml:latitude>10.49581000</ctml:latitude>
+    <ctml:longitude>-66.85367000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130064" kind="admin2">
+    <ctml:name>Charallave</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q163464</ctml:wikiDataId>
+    <ctml:latitude>10.24247000</ctml:latitude>
+    <ctml:longitude>-66.85723000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130073" kind="admin2">
+    <ctml:name>Cúa</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q770309</ctml:wikiDataId>
+    <ctml:latitude>10.16245000</ctml:latitude>
+    <ctml:longitude>-66.88248000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130075" kind="city">
+    <ctml:name>El Cafetal</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q770309</ctml:wikiDataId>
+    <ctml:latitude>10.46541000</ctml:latitude>
+    <ctml:longitude>-66.82951000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130076" kind="admin2">
+    <ctml:name>El Hatillo</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q975765</ctml:wikiDataId>
+    <ctml:latitude>10.42411000</ctml:latitude>
+    <ctml:longitude>-66.82581000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130083" kind="admin2">
+    <ctml:name>Guarenas</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q996478</ctml:wikiDataId>
+    <ctml:latitude>10.47027000</ctml:latitude>
+    <ctml:longitude>-66.61934000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130084" kind="admin2">
+    <ctml:name>Guatire</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1026987</ctml:wikiDataId>
+    <ctml:latitude>10.47400000</ctml:latitude>
+    <ctml:longitude>-66.54241000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130089" kind="city">
+    <ctml:name>La Dolorita</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q3131511</ctml:wikiDataId>
+    <ctml:latitude>10.48830000</ctml:latitude>
+    <ctml:longitude>-66.78608000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130097" kind="city">
+    <ctml:name>Los Dos Caminos</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q5411186</ctml:wikiDataId>
+    <ctml:latitude>10.49389000</ctml:latitude>
+    <ctml:longitude>-66.82863000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130126" kind="admin2">
+    <ctml:name>Ocumare del Tuy</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1972757</ctml:wikiDataId>
+    <ctml:latitude>10.11820000</ctml:latitude>
+    <ctml:longitude>-66.77513000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130129" kind="admin2">
+    <ctml:name>Petare</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q983946</ctml:wikiDataId>
+    <ctml:latitude>10.47679000</ctml:latitude>
+    <ctml:longitude>-66.80786000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130139" kind="admin2">
+    <ctml:name>San Antonio de Los Altos</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2895437</ctml:wikiDataId>
+    <ctml:latitude>10.38853000</ctml:latitude>
+    <ctml:longitude>-66.95179000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130155" kind="admin2">
+    <ctml:name>Santa Teresa del Tuy</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Miranda</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1390081</ctml:wikiDataId>
+    <ctml:latitude>10.23291000</ctml:latitude>
+    <ctml:longitude>-66.66474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130056" kind="admin2">
+    <ctml:name>Caripito</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Monagas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-N</ctml:parentRef>
+    <ctml:wikiDataId>Q2938844</ctml:wikiDataId>
+    <ctml:latitude>10.11135000</ctml:latitude>
+    <ctml:longitude>-63.09985000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130117" kind="city">
+    <ctml:name>Municipio Maturín</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Monagas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-N</ctml:parentRef>
+    <ctml:wikiDataId>Q3300002</ctml:wikiDataId>
+    <ctml:latitude>9.40000000</ctml:latitude>
+    <ctml:longitude>-63.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130122" kind="admin2">
+    <ctml:name>Municipio Uracoa</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Monagas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-N</ctml:parentRef>
+    <ctml:wikiDataId>Q2635968</ctml:wikiDataId>
+    <ctml:latitude>8.99960000</ctml:latitude>
+    <ctml:longitude>-62.35164000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130087" kind="admin2">
+    <ctml:name>Juan Griego</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Nueva Esparta</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-O</ctml:parentRef>
+    <ctml:wikiDataId>Q3131511</ctml:wikiDataId>
+    <ctml:latitude>11.08172000</ctml:latitude>
+    <ctml:longitude>-63.96549000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130130" kind="admin2">
+    <ctml:name>Porlamar</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Nueva Esparta</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-O</ctml:parentRef>
+    <ctml:wikiDataId>Q953449</ctml:wikiDataId>
+    <ctml:latitude>10.95771000</ctml:latitude>
+    <ctml:longitude>-63.86971000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130038" kind="admin2">
+    <ctml:name>Acarigua</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Portuguesa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-P</ctml:parentRef>
+    <ctml:wikiDataId>Q338059</ctml:wikiDataId>
+    <ctml:latitude>9.55451000</ctml:latitude>
+    <ctml:longitude>-69.19564000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130043" kind="admin2">
+    <ctml:name>Araure</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Portuguesa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-P</ctml:parentRef>
+    <ctml:wikiDataId>Q626670</ctml:wikiDataId>
+    <ctml:latitude>9.58144000</ctml:latitude>
+    <ctml:longitude>-69.23851000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130168" kind="admin2">
+    <ctml:name>Villa Bruzual</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Portuguesa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-P</ctml:parentRef>
+    <ctml:wikiDataId>Q430981</ctml:wikiDataId>
+    <ctml:latitude>9.33186000</ctml:latitude>
+    <ctml:longitude>-69.11968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130059" kind="admin2">
+    <ctml:name>Carúpano</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Sucre</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-R</ctml:parentRef>
+    <ctml:wikiDataId>Q153511</ctml:wikiDataId>
+    <ctml:latitude>10.66516000</ctml:latitude>
+    <ctml:longitude>-63.25387000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130086" kind="admin2">
+    <ctml:name>Güiria</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Sucre</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-R</ctml:parentRef>
+    <ctml:wikiDataId>Q1000143</ctml:wikiDataId>
+    <ctml:latitude>10.57721000</ctml:latitude>
+    <ctml:longitude>-62.29841000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130123" kind="admin2">
+    <ctml:name>Municipio Valdez</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Sucre</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-R</ctml:parentRef>
+    <ctml:wikiDataId>Q2230534</ctml:wikiDataId>
+    <ctml:latitude>10.57945000</ctml:latitude>
+    <ctml:longitude>-62.30029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130070" kind="admin2">
+    <ctml:name>Colón</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Táchira</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-S</ctml:parentRef>
+    <ctml:wikiDataId>Q3072164</ctml:wikiDataId>
+    <ctml:latitude>8.03125000</ctml:latitude>
+    <ctml:longitude>-72.26053000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130090" kind="admin2">
+    <ctml:name>La Fría</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Táchira</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-S</ctml:parentRef>
+    <ctml:wikiDataId>Q525112</ctml:wikiDataId>
+    <ctml:latitude>8.21523000</ctml:latitude>
+    <ctml:longitude>-72.24888000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130091" kind="admin2">
+    <ctml:name>La Grita</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Táchira</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-S</ctml:parentRef>
+    <ctml:wikiDataId>Q3134346</ctml:wikiDataId>
+    <ctml:latitude>8.13316000</ctml:latitude>
+    <ctml:longitude>-71.98390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130114" kind="admin2">
+    <ctml:name>Municipio José María Vargas</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Táchira</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-S</ctml:parentRef>
+    <ctml:wikiDataId>Q2545115</ctml:wikiDataId>
+    <ctml:latitude>8.03514000</ctml:latitude>
+    <ctml:longitude>-72.05675000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130138" kind="admin2">
+    <ctml:name>Rubio</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Táchira</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-S</ctml:parentRef>
+    <ctml:wikiDataId>Q1002638</ctml:wikiDataId>
+    <ctml:latitude>7.70131000</ctml:latitude>
+    <ctml:longitude>-72.35569000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130140" kind="admin2">
+    <ctml:name>San Antonio del Táchira</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Táchira</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-S</ctml:parentRef>
+    <ctml:wikiDataId>Q2602785</ctml:wikiDataId>
+    <ctml:latitude>7.81454000</ctml:latitude>
+    <ctml:longitude>-72.44310000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130163" kind="admin2">
+    <ctml:name>Táriba</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Táchira</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-S</ctml:parentRef>
+    <ctml:wikiDataId>Q167974</ctml:wikiDataId>
+    <ctml:latitude>7.81880000</ctml:latitude>
+    <ctml:longitude>-72.22427000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130049" kind="admin2">
+    <ctml:name>Boconó</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Trujillo</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-T</ctml:parentRef>
+    <ctml:wikiDataId>Q889344</ctml:wikiDataId>
+    <ctml:latitude>9.25385000</ctml:latitude>
+    <ctml:longitude>-70.25105000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130120" kind="admin2">
+    <ctml:name>Municipio Pampanito</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Trujillo</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-T</ctml:parentRef>
+    <ctml:wikiDataId>Q2596580</ctml:wikiDataId>
+    <ctml:latitude>9.41147000</ctml:latitude>
+    <ctml:longitude>-70.49592000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130121" kind="admin2">
+    <ctml:name>Municipio San Rafael de Carvajal</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Trujillo</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-T</ctml:parentRef>
+    <ctml:wikiDataId>Q1905292</ctml:wikiDataId>
+    <ctml:latitude>9.30756000</ctml:latitude>
+    <ctml:longitude>-70.58965000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130166" kind="admin2">
+    <ctml:name>Valera</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Trujillo</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-T</ctml:parentRef>
+    <ctml:wikiDataId>Q1010367</ctml:wikiDataId>
+    <ctml:latitude>9.31778000</ctml:latitude>
+    <ctml:longitude>-70.60361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130066" kind="admin2">
+    <ctml:name>Chivacoa</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Yaracuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q3499515</ctml:wikiDataId>
+    <ctml:latitude>10.15951000</ctml:latitude>
+    <ctml:longitude>-68.89453000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130112" kind="admin2">
+    <ctml:name>Municipio Independencia</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Yaracuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q2884525</ctml:wikiDataId>
+    <ctml:latitude>10.33472000</ctml:latitude>
+    <ctml:longitude>-68.75555000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130125" kind="admin2">
+    <ctml:name>Nirgua</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Yaracuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1409152</ctml:wikiDataId>
+    <ctml:latitude>10.15039000</ctml:latitude>
+    <ctml:longitude>-68.56478000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130170" kind="admin2">
+    <ctml:name>Yaritagua</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Yaracuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1023493</ctml:wikiDataId>
+    <ctml:latitude>10.08081000</ctml:latitude>
+    <ctml:longitude>-69.12420000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130050" kind="admin2">
+    <ctml:name>Cabimas</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Zulia</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-V</ctml:parentRef>
+    <ctml:wikiDataId>Q723588</ctml:wikiDataId>
+    <ctml:latitude>10.39907000</ctml:latitude>
+    <ctml:longitude>-71.45206000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130069" kind="admin2">
+    <ctml:name>Ciudad Ojeda</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Zulia</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-V</ctml:parentRef>
+    <ctml:wikiDataId>Q953490</ctml:wikiDataId>
+    <ctml:latitude>10.20161000</ctml:latitude>
+    <ctml:longitude>-71.31480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130094" kind="admin2">
+    <ctml:name>La Villa del Rosario</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Zulia</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-V</ctml:parentRef>
+    <ctml:wikiDataId>Q5410028</ctml:wikiDataId>
+    <ctml:latitude>10.32580000</ctml:latitude>
+    <ctml:longitude>-72.31343000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VEN-130095" kind="city">
+    <ctml:name>Lagunillas</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Zulia</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-V</ctml:parentRef>
+    <ctml:wikiDataId>Q5410028</ctml:wikiDataId>
+    <ctml:latitude>10.13008000</ctml:latitude>
+    <ctml:longitude>-71.25946000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130101" kind="admin2">
+    <ctml:name>Machiques</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Zulia</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-V</ctml:parentRef>
+    <ctml:wikiDataId>Q3236167</ctml:wikiDataId>
+    <ctml:latitude>10.06077000</ctml:latitude>
+    <ctml:longitude>-72.55212000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130143" kind="admin2">
+    <ctml:name>San Carlos del Zulia</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Zulia</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-V</ctml:parentRef>
+    <ctml:wikiDataId>Q1005022</ctml:wikiDataId>
+    <ctml:latitude>9.00098000</ctml:latitude>
+    <ctml:longitude>-71.92683000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:VEN-130154" kind="admin2">
+    <ctml:name>Santa Rita</ctml:name>
+    <ctml:country>VEN</ctml:country>
+    <ctml:admin1>Zulia</ctml:admin1>
+    <ctml:parentRef>place:admin1:VE-V</ctml:parentRef>
+    <ctml:wikiDataId>Q1027004</ctml:wikiDataId>
+    <ctml:latitude>10.53642000</ctml:latitude>
+    <ctml:longitude>-71.51104000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

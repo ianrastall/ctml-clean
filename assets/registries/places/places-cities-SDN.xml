@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SDN-102921" kind="city">
+    <ctml:name>Al Hasaheisa</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Al Jazirah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-GZ</ctml:parentRef>
+    <ctml:wikiDataId>Q290849</ctml:wikiDataId>
+    <ctml:latitude>14.75264000</ctml:latitude>
+    <ctml:longitude>33.29836000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102922" kind="city">
+    <ctml:name>Al Hilāliyya</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Al Jazirah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-GZ</ctml:parentRef>
+    <ctml:wikiDataId>Q31872977</ctml:wikiDataId>
+    <ctml:latitude>14.93980000</ctml:latitude>
+    <ctml:longitude>33.23400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102924" kind="city">
+    <ctml:name>Al Kiremit al ‘Arakiyyīn</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Al Jazirah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-GZ</ctml:parentRef>
+    <ctml:wikiDataId>Q31874191</ctml:wikiDataId>
+    <ctml:latitude>14.34760000</ctml:latitude>
+    <ctml:longitude>32.94370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102926" kind="city">
+    <ctml:name>Al Manāqil</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Al Jazirah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-GZ</ctml:parentRef>
+    <ctml:wikiDataId>Q31874596</ctml:wikiDataId>
+    <ctml:latitude>14.24590000</ctml:latitude>
+    <ctml:longitude>32.98910000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102927" kind="city">
+    <ctml:name>Al Masallamiyya</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Al Jazirah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-GZ</ctml:parentRef>
+    <ctml:wikiDataId>Q31874774</ctml:wikiDataId>
+    <ctml:latitude>14.57480000</ctml:latitude>
+    <ctml:longitude>33.33730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102981" kind="city">
+    <ctml:name>Wad Rāwah</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Al Jazirah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-GZ</ctml:parentRef>
+    <ctml:wikiDataId>Q852528</ctml:wikiDataId>
+    <ctml:latitude>15.16028000</ctml:latitude>
+    <ctml:longitude>33.13972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102931" kind="city">
+    <ctml:name>Al Ḩawātah</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Al Qadarif</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-GD</ctml:parentRef>
+    <ctml:wikiDataId>Q31876309</ctml:wikiDataId>
+    <ctml:latitude>13.41667000</ctml:latitude>
+    <ctml:longitude>34.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102942" kind="city">
+    <ctml:name>Doka</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Al Qadarif</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-GD</ctml:parentRef>
+    <ctml:wikiDataId>Q5210211</ctml:wikiDataId>
+    <ctml:latitude>13.51667000</ctml:latitude>
+    <ctml:longitude>35.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102934" kind="city">
+    <ctml:name>Ar Ruseris</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Blue Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q3055933</ctml:wikiDataId>
+    <ctml:latitude>11.86590000</ctml:latitude>
+    <ctml:longitude>34.38690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102961" kind="city">
+    <ctml:name>Kurmuk</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Blue Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NB</ctml:parentRef>
+    <ctml:wikiDataId>Q2329622</ctml:wikiDataId>
+    <ctml:latitude>10.55000000</ctml:latitude>
+    <ctml:longitude>34.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102936" kind="city">
+    <ctml:name>Aroma</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Kassala</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q31888917</ctml:wikiDataId>
+    <ctml:latitude>15.81667000</ctml:latitude>
+    <ctml:longitude>36.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102983" kind="city">
+    <ctml:name>Wagar</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Kassala</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q852528</ctml:wikiDataId>
+    <ctml:latitude>16.15250000</ctml:latitude>
+    <ctml:longitude>36.20320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102957" kind="city">
+    <ctml:name>Khartoum</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Khartoum</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-KH</ctml:parentRef>
+    <ctml:wikiDataId>Q1963</ctml:wikiDataId>
+    <ctml:latitude>15.55177000</ctml:latitude>
+    <ctml:longitude>32.53241000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102967" kind="city">
+    <ctml:name>Omdurman</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Khartoum</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-KH</ctml:parentRef>
+    <ctml:wikiDataId>Q180921</ctml:wikiDataId>
+    <ctml:latitude>15.64453000</ctml:latitude>
+    <ctml:longitude>32.47773000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102962" kind="city">
+    <ctml:name>Kutum</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>North Darfur</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-DN</ctml:parentRef>
+    <ctml:wikiDataId>Q3317346</ctml:wikiDataId>
+    <ctml:latitude>14.20000000</ctml:latitude>
+    <ctml:longitude>24.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102978" kind="city">
+    <ctml:name>Umm Kaddadah</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>North Darfur</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-DN</ctml:parentRef>
+    <ctml:wikiDataId>Q1010754</ctml:wikiDataId>
+    <ctml:latitude>13.60169000</ctml:latitude>
+    <ctml:longitude>26.68759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102933" kind="city">
+    <ctml:name>Ar Rahad</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>North Kordofan</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-KN</ctml:parentRef>
+    <ctml:wikiDataId>Q4118058</ctml:wikiDataId>
+    <ctml:latitude>12.71667000</ctml:latitude>
+    <ctml:longitude>30.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SDN-102940" kind="admin2">
+    <ctml:name>Bārah</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>North Kordofan</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-KN</ctml:parentRef>
+    <ctml:wikiDataId>Q614453</ctml:wikiDataId>
+    <ctml:latitude>13.70000000</ctml:latitude>
+    <ctml:longitude>30.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102979" kind="city">
+    <ctml:name>Umm Ruwaba</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>North Kordofan</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-KN</ctml:parentRef>
+    <ctml:wikiDataId>Q2618048</ctml:wikiDataId>
+    <ctml:latitude>12.90610000</ctml:latitude>
+    <ctml:longitude>31.21580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102916" kind="city">
+    <ctml:name>Ad Dabbah</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q1754253</ctml:wikiDataId>
+    <ctml:latitude>18.05000000</ctml:latitude>
+    <ctml:longitude>30.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102935" kind="city">
+    <ctml:name>Argo</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q31887833</ctml:wikiDataId>
+    <ctml:latitude>19.51667000</ctml:latitude>
+    <ctml:longitude>30.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102955" kind="city">
+    <ctml:name>Karmah an Nuzul</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q1107569</ctml:wikiDataId>
+    <ctml:latitude>19.63333000</ctml:latitude>
+    <ctml:longitude>30.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102960" kind="city">
+    <ctml:name>Kuraymah</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q1729372</ctml:wikiDataId>
+    <ctml:latitude>18.55000000</ctml:latitude>
+    <ctml:longitude>31.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102965" kind="city">
+    <ctml:name>Merowe</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2784541</ctml:wikiDataId>
+    <ctml:latitude>18.47036000</ctml:latitude>
+    <ctml:longitude>31.81126000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102950" kind="city">
+    <ctml:name>Gebeit</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Red Sea</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-RS</ctml:parentRef>
+    <ctml:wikiDataId>Q309475</ctml:wikiDataId>
+    <ctml:latitude>21.06667000</ctml:latitude>
+    <ctml:longitude>36.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102970" kind="city">
+    <ctml:name>Sawākin</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Red Sea</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-RS</ctml:parentRef>
+    <ctml:wikiDataId>Q571215</ctml:wikiDataId>
+    <ctml:latitude>19.10590000</ctml:latitude>
+    <ctml:longitude>37.33210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102976" kind="city">
+    <ctml:name>Tokār</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Red Sea</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-RS</ctml:parentRef>
+    <ctml:wikiDataId>Q1010754</ctml:wikiDataId>
+    <ctml:latitude>18.42540000</ctml:latitude>
+    <ctml:longitude>37.72900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102938" kind="city">
+    <ctml:name>Atbara</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>River Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NR</ctml:parentRef>
+    <ctml:wikiDataId>Q753906</ctml:wikiDataId>
+    <ctml:latitude>17.70217000</ctml:latitude>
+    <ctml:longitude>33.98638000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102939" kind="city">
+    <ctml:name>Berber</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>River Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NR</ctml:parentRef>
+    <ctml:wikiDataId>Q375935</ctml:wikiDataId>
+    <ctml:latitude>18.02158000</ctml:latitude>
+    <ctml:longitude>33.98299000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102945" kind="city">
+    <ctml:name>El Bauga</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>River Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NR</ctml:parentRef>
+    <ctml:wikiDataId>Q311312</ctml:wikiDataId>
+    <ctml:latitude>18.26197000</ctml:latitude>
+    <ctml:longitude>33.90812000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102948" kind="city">
+    <ctml:name>El Matama</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>River Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NR</ctml:parentRef>
+    <ctml:wikiDataId>Q311204</ctml:wikiDataId>
+    <ctml:latitude>16.70950000</ctml:latitude>
+    <ctml:longitude>33.35650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102971" kind="city">
+    <ctml:name>Shendi</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>River Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NR</ctml:parentRef>
+    <ctml:wikiDataId>Q997838</ctml:wikiDataId>
+    <ctml:latitude>16.69150000</ctml:latitude>
+    <ctml:longitude>33.43410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102917" kind="city">
+    <ctml:name>Ad Dindar</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Sennar</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q31868891</ctml:wikiDataId>
+    <ctml:latitude>13.20000000</ctml:latitude>
+    <ctml:longitude>34.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102937" kind="city">
+    <ctml:name>As Sūkī</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Sennar</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q31890580</ctml:wikiDataId>
+    <ctml:latitude>13.31667000</ctml:latitude>
+    <ctml:longitude>33.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102953" kind="city">
+    <ctml:name>Jalqani</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Sennar</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q15615482</ctml:wikiDataId>
+    <ctml:latitude>12.44860000</ctml:latitude>
+    <ctml:longitude>34.21860000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102958" kind="city">
+    <ctml:name>Kināna</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Sennar</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q1963</ctml:wikiDataId>
+    <ctml:latitude>14.03610000</ctml:latitude>
+    <ctml:longitude>33.17120000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102963" kind="city">
+    <ctml:name>Maiurno</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Sennar</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q3317346</ctml:wikiDataId>
+    <ctml:latitude>13.41667000</ctml:latitude>
+    <ctml:longitude>33.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102973" kind="city">
+    <ctml:name>Sinnar</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>Sennar</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q611867</ctml:wikiDataId>
+    <ctml:latitude>13.56907000</ctml:latitude>
+    <ctml:longitude>33.56718000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102952" kind="city">
+    <ctml:name>Gereida</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>South Darfur</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-DS</ctml:parentRef>
+    <ctml:wikiDataId>Q15615482</ctml:wikiDataId>
+    <ctml:latitude>11.27543000</ctml:latitude>
+    <ctml:longitude>25.14026000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102914" kind="city">
+    <ctml:name>Abu Jibeha</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>South Kordofan</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-KS</ctml:parentRef>
+    <ctml:wikiDataId>Q31866628</ctml:wikiDataId>
+    <ctml:latitude>11.45620000</ctml:latitude>
+    <ctml:longitude>31.22850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102920" kind="city">
+    <ctml:name>Al Fūlah</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>South Kordofan</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-KS</ctml:parentRef>
+    <ctml:wikiDataId>Q290849</ctml:wikiDataId>
+    <ctml:latitude>11.73292000</ctml:latitude>
+    <ctml:longitude>28.35786000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102941" kind="city">
+    <ctml:name>Dilling</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>South Kordofan</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-KS</ctml:parentRef>
+    <ctml:wikiDataId>Q5210211</ctml:wikiDataId>
+    <ctml:latitude>12.05000000</ctml:latitude>
+    <ctml:longitude>29.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102974" kind="city">
+    <ctml:name>Talodi</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>South Kordofan</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-KS</ctml:parentRef>
+    <ctml:wikiDataId>Q2390680</ctml:wikiDataId>
+    <ctml:latitude>10.63246000</ctml:latitude>
+    <ctml:longitude>30.37970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102915" kind="city">
+    <ctml:name>Abū Zabad</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>West Kordofan</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-GK</ctml:parentRef>
+    <ctml:wikiDataId>Q31868120</ctml:wikiDataId>
+    <ctml:latitude>12.35000000</ctml:latitude>
+    <ctml:longitude>29.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102925" kind="city">
+    <ctml:name>Al Lagowa</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>West Kordofan</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-GK</ctml:parentRef>
+    <ctml:wikiDataId>Q31874300</ctml:wikiDataId>
+    <ctml:latitude>11.40000000</ctml:latitude>
+    <ctml:longitude>29.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102928" kind="city">
+    <ctml:name>Al Mijlad</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>West Kordofan</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-GK</ctml:parentRef>
+    <ctml:wikiDataId>Q31875125</ctml:wikiDataId>
+    <ctml:latitude>11.03333000</ctml:latitude>
+    <ctml:longitude>27.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102932" kind="city">
+    <ctml:name>An Nuhūd</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>West Kordofan</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-GK</ctml:parentRef>
+    <ctml:wikiDataId>Q287343</ctml:wikiDataId>
+    <ctml:latitude>12.70000000</ctml:latitude>
+    <ctml:longitude>28.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102918" kind="city">
+    <ctml:name>Ad Douiem</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>White Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q2501279</ctml:wikiDataId>
+    <ctml:latitude>14.00120000</ctml:latitude>
+    <ctml:longitude>32.31160000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102923" kind="city">
+    <ctml:name>Al Kawa</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>White Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q31873641</ctml:wikiDataId>
+    <ctml:latitude>13.74630000</ctml:latitude>
+    <ctml:longitude>32.49960000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102930" kind="city">
+    <ctml:name>Al Qiţena</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>White Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q31875767</ctml:wikiDataId>
+    <ctml:latitude>14.86480000</ctml:latitude>
+    <ctml:longitude>32.36680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102959" kind="city">
+    <ctml:name>Kosti</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>White Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q587715</ctml:wikiDataId>
+    <ctml:latitude>13.16290000</ctml:latitude>
+    <ctml:longitude>32.66347000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102964" kind="city">
+    <ctml:name>Marabba</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>White Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q3317346</ctml:wikiDataId>
+    <ctml:latitude>12.35000000</ctml:latitude>
+    <ctml:longitude>32.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102975" kind="city">
+    <ctml:name>Tandaltī</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>White Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q115022</ctml:wikiDataId>
+    <ctml:latitude>13.01667000</ctml:latitude>
+    <ctml:longitude>31.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102977" kind="city">
+    <ctml:name>Um Jar Al Gharbiyya</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>White Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q1010754</ctml:wikiDataId>
+    <ctml:latitude>13.80130000</ctml:latitude>
+    <ctml:longitude>32.40780000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SDN-102982" kind="city">
+    <ctml:name>Wad az Zāki</ctml:name>
+    <ctml:country>SDN</ctml:country>
+    <ctml:admin1>White Nile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SD-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q852528</ctml:wikiDataId>
+    <ctml:latitude>14.46190000</ctml:latitude>
+    <ctml:longitude>32.20650000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

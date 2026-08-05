@@ -1,0 +1,2748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ZAF-131015" kind="city">
+    <ctml:name>Adelaide</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q353952</ctml:wikiDataId>
+    <ctml:latitude>-32.70747000</ctml:latitude>
+    <ctml:longitude>26.29564000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131018" kind="city">
+    <ctml:name>Alfred Nzo</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1664120</ctml:wikiDataId>
+    <ctml:latitude>-30.66803000</ctml:latitude>
+    <ctml:longitude>29.15490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131019" kind="city">
+    <ctml:name>Alice</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q2003910</ctml:wikiDataId>
+    <ctml:latitude>-32.78749000</ctml:latitude>
+    <ctml:longitude>26.83440000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131020" kind="city">
+    <ctml:name>Aliwal North</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q2143142</ctml:wikiDataId>
+    <ctml:latitude>-30.69366000</ctml:latitude>
+    <ctml:longitude>26.71141000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131023" kind="city">
+    <ctml:name>Amathole</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q455705</ctml:wikiDataId>
+    <ctml:latitude>-32.55895000</ctml:latitude>
+    <ctml:longitude>27.45919000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131052" kind="city">
+    <ctml:name>Buffalo City Metropolitan</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1002006</ctml:wikiDataId>
+    <ctml:latitude>-32.95141000</ctml:latitude>
+    <ctml:longitude>27.61164000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131053" kind="city">
+    <ctml:name>Burgersdorp</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1014910</ctml:wikiDataId>
+    <ctml:latitude>-30.99766000</ctml:latitude>
+    <ctml:longitude>26.32862000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131054" kind="city">
+    <ctml:name>Butterworth</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1018158</ctml:wikiDataId>
+    <ctml:latitude>-32.33083000</ctml:latitude>
+    <ctml:longitude>28.14981000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131055" kind="city">
+    <ctml:name>Cacadu</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1024985</ctml:wikiDataId>
+    <ctml:latitude>-33.06583000</ctml:latitude>
+    <ctml:longitude>24.77583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131068" kind="city">
+    <ctml:name>Chris Hani</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1077283</ctml:wikiDataId>
+    <ctml:latitude>-31.79033000</ctml:latitude>
+    <ctml:longitude>26.43965000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131078" kind="city">
+    <ctml:name>Cradock</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1138465</ctml:wikiDataId>
+    <ctml:latitude>-32.16422000</ctml:latitude>
+    <ctml:longitude>25.61918000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131086" kind="city">
+    <ctml:name>Dordrecht</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q652552</ctml:wikiDataId>
+    <ctml:latitude>-31.37200000</ctml:latitude>
+    <ctml:longitude>27.04878000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131093" kind="admin2">
+    <ctml:name>East London</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q209537</ctml:wikiDataId>
+    <ctml:latitude>-33.01529000</ctml:latitude>
+    <ctml:longitude>27.91162000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131103" kind="city">
+    <ctml:name>Elliot</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1880498</ctml:wikiDataId>
+    <ctml:latitude>-31.33333000</ctml:latitude>
+    <ctml:longitude>27.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131109" kind="city">
+    <ctml:name>Fort Beaufort</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q473216</ctml:wikiDataId>
+    <ctml:latitude>-32.77477000</ctml:latitude>
+    <ctml:longitude>26.63376000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131119" kind="city">
+    <ctml:name>Graaff-Reinet</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1004667</ctml:wikiDataId>
+    <ctml:latitude>-32.25215000</ctml:latitude>
+    <ctml:longitude>24.53075000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131121" kind="city">
+    <ctml:name>Grahamstown</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q951161</ctml:wikiDataId>
+    <ctml:latitude>-33.30422000</ctml:latitude>
+    <ctml:longitude>26.53276000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131133" kind="city">
+    <ctml:name>Ilinge</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q31922881</ctml:wikiDataId>
+    <ctml:latitude>-31.97676000</ctml:latitude>
+    <ctml:longitude>27.04267000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131135" kind="city">
+    <ctml:name>Joe Gqabi</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q654849</ctml:wikiDataId>
+    <ctml:latitude>-30.94178000</ctml:latitude>
+    <ctml:longitude>27.06053000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131141" kind="city">
+    <ctml:name>Kirkwood</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q3643016</ctml:wikiDataId>
+    <ctml:latitude>-33.39829000</ctml:latitude>
+    <ctml:longitude>25.44279000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131152" kind="city">
+    <ctml:name>Kruisfontein</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q31935880</ctml:wikiDataId>
+    <ctml:latitude>-34.00333000</ctml:latitude>
+    <ctml:longitude>24.73142000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131157" kind="city">
+    <ctml:name>Lady Frere</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q3642180</ctml:wikiDataId>
+    <ctml:latitude>-31.70312000</ctml:latitude>
+    <ctml:longitude>27.23290000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131174" kind="city">
+    <ctml:name>Middelburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1002188</ctml:wikiDataId>
+    <ctml:latitude>-31.49285000</ctml:latitude>
+    <ctml:longitude>25.00633000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131182" kind="city">
+    <ctml:name>Molteno</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1003348</ctml:wikiDataId>
+    <ctml:latitude>-31.39675000</ctml:latitude>
+    <ctml:longitude>26.36246000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131191" kind="city">
+    <ctml:name>Mthatha</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1020914</ctml:wikiDataId>
+    <ctml:latitude>-31.58893000</ctml:latitude>
+    <ctml:longitude>28.78443000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131197" kind="city">
+    <ctml:name>Nelson Mandela Bay Metropolitan</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1856565</ctml:wikiDataId>
+    <ctml:latitude>-33.80399000</ctml:latitude>
+    <ctml:longitude>25.49213000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131206" kind="city">
+    <ctml:name>OR Tambo</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q2007299</ctml:wikiDataId>
+    <ctml:latitude>-31.46740000</ctml:latitude>
+    <ctml:longitude>29.05247000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131224" kind="city">
+    <ctml:name>Port Alfred</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1693203</ctml:wikiDataId>
+    <ctml:latitude>-33.58601000</ctml:latitude>
+    <ctml:longitude>26.88329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131225" kind="admin2">
+    <ctml:name>Port Elizabeth</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q125434</ctml:wikiDataId>
+    <ctml:latitude>-33.96109000</ctml:latitude>
+    <ctml:longitude>25.61494000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131226" kind="city">
+    <ctml:name>Port Saint John’s</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q2604557</ctml:wikiDataId>
+    <ctml:latitude>-31.62291000</ctml:latitude>
+    <ctml:longitude>29.54477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131233" kind="city">
+    <ctml:name>Queensdale</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q32004551</ctml:wikiDataId>
+    <ctml:latitude>-31.87101000</ctml:latitude>
+    <ctml:longitude>26.97862000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131234" kind="admin2">
+    <ctml:name>Queenstown</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q610600</ctml:wikiDataId>
+    <ctml:latitude>-31.89756000</ctml:latitude>
+    <ctml:longitude>26.87533000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131259" kind="city">
+    <ctml:name>Somerset East</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1021900</ctml:wikiDataId>
+    <ctml:latitude>-32.72173000</ctml:latitude>
+    <ctml:longitude>25.58804000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131266" kind="city">
+    <ctml:name>Stutterheim</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1021884</ctml:wikiDataId>
+    <ctml:latitude>-32.57076000</ctml:latitude>
+    <ctml:longitude>27.42396000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131279" kind="city">
+    <ctml:name>Uitenhage</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1020192</ctml:wikiDataId>
+    <ctml:latitude>-33.75757000</ctml:latitude>
+    <ctml:longitude>25.39710000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131308" kind="city">
+    <ctml:name>Whittlesea</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1027839</ctml:wikiDataId>
+    <ctml:latitude>-32.17588000</ctml:latitude>
+    <ctml:longitude>26.82437000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131309" kind="city">
+    <ctml:name>Willowmore</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Eastern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q827319</ctml:wikiDataId>
+    <ctml:latitude>-33.29265000</ctml:latitude>
+    <ctml:longitude>23.48954000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131021" kind="city">
+    <ctml:name>Allanridge</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q2331526</ctml:wikiDataId>
+    <ctml:latitude>-27.75431000</ctml:latitude>
+    <ctml:longitude>26.64382000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131036" kind="city">
+    <ctml:name>Bethlehem</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q831326</ctml:wikiDataId>
+    <ctml:latitude>-28.23078000</ctml:latitude>
+    <ctml:longitude>28.30707000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131043" kind="city">
+    <ctml:name>Bothaville</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q2795307</ctml:wikiDataId>
+    <ctml:latitude>-27.38870000</ctml:latitude>
+    <ctml:longitude>26.61701000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131044" kind="city">
+    <ctml:name>Botshabelo</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q894856</ctml:wikiDataId>
+    <ctml:latitude>-29.26737000</ctml:latitude>
+    <ctml:longitude>26.72595000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131046" kind="city">
+    <ctml:name>Brandfort</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q2805770</ctml:wikiDataId>
+    <ctml:latitude>-28.70008000</ctml:latitude>
+    <ctml:longitude>26.45968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131075" kind="city">
+    <ctml:name>Clocolan</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1102116</ctml:wikiDataId>
+    <ctml:latitude>-28.91367000</ctml:latitude>
+    <ctml:longitude>27.56555000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131084" kind="city">
+    <ctml:name>Deneysville</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1956442</ctml:wikiDataId>
+    <ctml:latitude>-26.89080000</ctml:latitude>
+    <ctml:longitude>28.09707000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131107" kind="city">
+    <ctml:name>Fezile Dabi</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1410315</ctml:wikiDataId>
+    <ctml:latitude>-27.33918000</ctml:latitude>
+    <ctml:longitude>27.71927000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131111" kind="city">
+    <ctml:name>Frankfort</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1263830</ctml:wikiDataId>
+    <ctml:latitude>-27.27888000</ctml:latitude>
+    <ctml:longitude>28.49696000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131124" kind="city">
+    <ctml:name>Harrismith</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1586262</ctml:wikiDataId>
+    <ctml:latitude>-28.27276000</ctml:latitude>
+    <ctml:longitude>29.12946000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131126" kind="city">
+    <ctml:name>Heilbron</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1233509</ctml:wikiDataId>
+    <ctml:latitude>-27.28115000</ctml:latitude>
+    <ctml:longitude>27.97090000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131128" kind="city">
+    <ctml:name>Hennenman</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q3642568</ctml:wikiDataId>
+    <ctml:latitude>-27.97654000</ctml:latitude>
+    <ctml:longitude>27.02423000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131131" kind="city">
+    <ctml:name>Hoopstad</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1993670</ctml:wikiDataId>
+    <ctml:latitude>-27.83273000</ctml:latitude>
+    <ctml:longitude>25.90833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131146" kind="city">
+    <ctml:name>Koppies</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q3642525</ctml:wikiDataId>
+    <ctml:latitude>-27.24179000</ctml:latitude>
+    <ctml:longitude>27.57422000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131150" kind="city">
+    <ctml:name>Kroonstad</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q264014</ctml:wikiDataId>
+    <ctml:latitude>-27.65036000</ctml:latitude>
+    <ctml:longitude>27.23488000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131154" kind="city">
+    <ctml:name>Kutloanong</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q31936566</ctml:wikiDataId>
+    <ctml:latitude>-27.83333000</ctml:latitude>
+    <ctml:longitude>26.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131158" kind="city">
+    <ctml:name>Ladybrand</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q608877</ctml:wikiDataId>
+    <ctml:latitude>-29.19448000</ctml:latitude>
+    <ctml:longitude>27.45739000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131161" kind="city">
+    <ctml:name>Lejweleputswa</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1816477</ctml:wikiDataId>
+    <ctml:latitude>-28.23982000</ctml:latitude>
+    <ctml:longitude>26.12649000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131163" kind="city">
+    <ctml:name>Lindley</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q3642967</ctml:wikiDataId>
+    <ctml:latitude>-27.87910000</ctml:latitude>
+    <ctml:longitude>27.91348000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131170" kind="city">
+    <ctml:name>Mangaung Metropolitan</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1159185</ctml:wikiDataId>
+    <ctml:latitude>-29.15627000</ctml:latitude>
+    <ctml:longitude>26.35116000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131173" kind="city">
+    <ctml:name>Marquard</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q3643543</ctml:wikiDataId>
+    <ctml:latitude>-28.66449000</ctml:latitude>
+    <ctml:longitude>27.43048000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131214" kind="city">
+    <ctml:name>Parys</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q2835080</ctml:wikiDataId>
+    <ctml:latitude>-26.90330000</ctml:latitude>
+    <ctml:longitude>27.45727000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131216" kind="admin2">
+    <ctml:name>Phuthaditjhaba</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1437581</ctml:wikiDataId>
+    <ctml:latitude>-28.52423000</ctml:latitude>
+    <ctml:longitude>28.81582000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131237" kind="city">
+    <ctml:name>Reitz</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q2208947</ctml:wikiDataId>
+    <ctml:latitude>-27.80138000</ctml:latitude>
+    <ctml:longitude>28.42726000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131249" kind="admin2">
+    <ctml:name>Sasolburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q963786</ctml:wikiDataId>
+    <ctml:latitude>-26.81358000</ctml:latitude>
+    <ctml:longitude>27.81695000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131255" kind="city">
+    <ctml:name>Senekal</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1021742</ctml:wikiDataId>
+    <ctml:latitude>-28.31971000</ctml:latitude>
+    <ctml:longitude>27.62082000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131271" kind="city">
+    <ctml:name>Thaba Nchu</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1256430</ctml:wikiDataId>
+    <ctml:latitude>-29.20932000</ctml:latitude>
+    <ctml:longitude>26.83898000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131273" kind="city">
+    <ctml:name>Thabo Mofutsanyana</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1437719</ctml:wikiDataId>
+    <ctml:latitude>-28.24378000</ctml:latitude>
+    <ctml:longitude>28.34077000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131274" kind="city">
+    <ctml:name>Theunissen</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q2842892</ctml:wikiDataId>
+    <ctml:latitude>-28.41098000</ctml:latitude>
+    <ctml:longitude>26.70107000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131285" kind="city">
+    <ctml:name>Ventersburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q3642271</ctml:wikiDataId>
+    <ctml:latitude>-28.08561000</ctml:latitude>
+    <ctml:longitude>27.13814000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131288" kind="city">
+    <ctml:name>Viljoenskroon</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q2593872</ctml:wikiDataId>
+    <ctml:latitude>-27.20841000</ctml:latitude>
+    <ctml:longitude>26.94855000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131289" kind="city">
+    <ctml:name>Villiers</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q3643597</ctml:wikiDataId>
+    <ctml:latitude>-27.03026000</ctml:latitude>
+    <ctml:longitude>28.60061000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131290" kind="city">
+    <ctml:name>Virginia</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1027286</ctml:wikiDataId>
+    <ctml:latitude>-28.10391000</ctml:latitude>
+    <ctml:longitude>26.86593000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131292" kind="city">
+    <ctml:name>Vrede</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1983656</ctml:wikiDataId>
+    <ctml:latitude>-27.42573000</ctml:latitude>
+    <ctml:longitude>29.16585000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131293" kind="city">
+    <ctml:name>Vredefort</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1689721</ctml:wikiDataId>
+    <ctml:latitude>-27.00805000</ctml:latitude>
+    <ctml:longitude>27.36460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131301" kind="admin2">
+    <ctml:name>Welkom</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q1015631</ctml:wikiDataId>
+    <ctml:latitude>-27.97742000</ctml:latitude>
+    <ctml:longitude>26.73506000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131303" kind="city">
+    <ctml:name>Wesselsbron</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q2234104</ctml:wikiDataId>
+    <ctml:latitude>-27.85490000</ctml:latitude>
+    <ctml:longitude>26.36583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131310" kind="city">
+    <ctml:name>Winburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q238991</ctml:wikiDataId>
+    <ctml:latitude>-28.51805000</ctml:latitude>
+    <ctml:longitude>27.00933000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131314" kind="city">
+    <ctml:name>Xhariep</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q2006764</ctml:wikiDataId>
+    <ctml:latitude>-29.84311000</ctml:latitude>
+    <ctml:longitude>25.83286000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131315" kind="city">
+    <ctml:name>Zastron</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Free State</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-FS</ctml:parentRef>
+    <ctml:wikiDataId>Q148289</ctml:wikiDataId>
+    <ctml:latitude>-30.30225000</ctml:latitude>
+    <ctml:longitude>27.08395000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131017" kind="city">
+    <ctml:name>Alberton</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q1637702</ctml:wikiDataId>
+    <ctml:latitude>-26.26786000</ctml:latitude>
+    <ctml:longitude>28.12225000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131032" kind="city">
+    <ctml:name>Benoni</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q818106</ctml:wikiDataId>
+    <ctml:latitude>-26.18848000</ctml:latitude>
+    <ctml:longitude>28.32078000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131042" kind="city">
+    <ctml:name>Boksburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q891229</ctml:wikiDataId>
+    <ctml:latitude>-26.21197000</ctml:latitude>
+    <ctml:longitude>28.25958000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131045" kind="city">
+    <ctml:name>Brakpan</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q897489</ctml:wikiDataId>
+    <ctml:latitude>-26.23656000</ctml:latitude>
+    <ctml:longitude>28.36938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131051" kind="city">
+    <ctml:name>Bronkhorstspruit</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q927671</ctml:wikiDataId>
+    <ctml:latitude>-25.81015000</ctml:latitude>
+    <ctml:longitude>28.74248000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131062" kind="city">
+    <ctml:name>Carletonville</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q536114</ctml:wikiDataId>
+    <ctml:latitude>-26.36094000</ctml:latitude>
+    <ctml:longitude>27.39767000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131066" kind="city">
+    <ctml:name>Centurion</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q1054450</ctml:wikiDataId>
+    <ctml:latitude>-25.85891000</ctml:latitude>
+    <ctml:longitude>28.18577000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131071" kind="city">
+    <ctml:name>City of Johannesburg Metropolitan</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q2346838</ctml:wikiDataId>
+    <ctml:latitude>-26.17673000</ctml:latitude>
+    <ctml:longitude>27.96353000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131072" kind="city">
+    <ctml:name>City of Tshwane Metropolitan</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q1094207</ctml:wikiDataId>
+    <ctml:latitude>-25.65985000</ctml:latitude>
+    <ctml:longitude>28.44343000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131079" kind="city">
+    <ctml:name>Cullinan</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q2450605</ctml:wikiDataId>
+    <ctml:latitude>-25.67088000</ctml:latitude>
+    <ctml:longitude>28.52364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131085" kind="city">
+    <ctml:name>Diepsloot</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q1956442</ctml:wikiDataId>
+    <ctml:latitude>-25.93312000</ctml:latitude>
+    <ctml:longitude>28.01213000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131094" kind="city">
+    <ctml:name>Eastleigh</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q209537</ctml:wikiDataId>
+    <ctml:latitude>-26.12965000</ctml:latitude>
+    <ctml:longitude>28.15541000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131096" kind="city">
+    <ctml:name>Eden Glen</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q220249</ctml:wikiDataId>
+    <ctml:latitude>-26.13230000</ctml:latitude>
+    <ctml:longitude>28.16859000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131097" kind="city">
+    <ctml:name>Eden Glen Ext 60</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q220249</ctml:wikiDataId>
+    <ctml:latitude>-26.12593000</ctml:latitude>
+    <ctml:longitude>28.16500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131098" kind="city">
+    <ctml:name>Edenvale</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q3643050</ctml:wikiDataId>
+    <ctml:latitude>-26.14095000</ctml:latitude>
+    <ctml:longitude>28.15247000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131100" kind="city">
+    <ctml:name>Ekangala</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q31913215</ctml:wikiDataId>
+    <ctml:latitude>-25.69619000</ctml:latitude>
+    <ctml:longitude>28.74918000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131101" kind="city">
+    <ctml:name>Ekurhuleni Metropolitan</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q326891</ctml:wikiDataId>
+    <ctml:latitude>-26.19890000</ctml:latitude>
+    <ctml:longitude>28.31262000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131125" kind="city">
+    <ctml:name>Heidelberg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q1594009</ctml:wikiDataId>
+    <ctml:latitude>-26.50476000</ctml:latitude>
+    <ctml:longitude>28.35921000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131151" kind="city">
+    <ctml:name>Krugersdorp</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q644506</ctml:wikiDataId>
+    <ctml:latitude>-26.08577000</ctml:latitude>
+    <ctml:longitude>27.77515000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131166" kind="city">
+    <ctml:name>Mabopane</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q747507</ctml:wikiDataId>
+    <ctml:latitude>-25.49768000</ctml:latitude>
+    <ctml:longitude>28.10065000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131176" kind="city">
+    <ctml:name>Midrand</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q639518</ctml:wikiDataId>
+    <ctml:latitude>-25.98953000</ctml:latitude>
+    <ctml:longitude>28.12843000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131177" kind="city">
+    <ctml:name>Midstream</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q639518</ctml:wikiDataId>
+    <ctml:latitude>-25.91849000</ctml:latitude>
+    <ctml:longitude>28.19881000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131179" kind="city">
+    <ctml:name>Modderfontein</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q6888071</ctml:wikiDataId>
+    <ctml:latitude>-26.08909000</ctml:latitude>
+    <ctml:longitude>28.16534000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131193" kind="city">
+    <ctml:name>Muldersdriseloop</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q1013531</ctml:wikiDataId>
+    <ctml:latitude>-26.03673000</ctml:latitude>
+    <ctml:longitude>27.83798000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131202" kind="city">
+    <ctml:name>Nigel</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q1989529</ctml:wikiDataId>
+    <ctml:latitude>-26.43138000</ctml:latitude>
+    <ctml:longitude>28.47713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131207" kind="city">
+    <ctml:name>Orange Farm</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q7099614</ctml:wikiDataId>
+    <ctml:latitude>-26.48333000</ctml:latitude>
+    <ctml:longitude>27.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131230" kind="city">
+    <ctml:name>Pretoria</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q3926</ctml:wikiDataId>
+    <ctml:latitude>-25.74486000</ctml:latitude>
+    <ctml:longitude>28.18783000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131235" kind="city">
+    <ctml:name>Randburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q2296366</ctml:wikiDataId>
+    <ctml:latitude>-26.09410000</ctml:latitude>
+    <ctml:longitude>28.00123000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131236" kind="admin2">
+    <ctml:name>Randfontein</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q744437</ctml:wikiDataId>
+    <ctml:latitude>-26.18440000</ctml:latitude>
+    <ctml:longitude>27.70203000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131245" kind="city">
+    <ctml:name>Roodepoort</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q2166182</ctml:wikiDataId>
+    <ctml:latitude>-26.16250000</ctml:latitude>
+    <ctml:longitude>27.87250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131253" kind="city">
+    <ctml:name>Sedibeng</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q2038939</ctml:wikiDataId>
+    <ctml:latitude>-26.56686000</ctml:latitude>
+    <ctml:longitude>28.18277000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131260" kind="city">
+    <ctml:name>Soweto</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q217426</ctml:wikiDataId>
+    <ctml:latitude>-26.26781000</ctml:latitude>
+    <ctml:longitude>27.85849000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131262" kind="city">
+    <ctml:name>Springs</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q761408</ctml:wikiDataId>
+    <ctml:latitude>-26.25000000</ctml:latitude>
+    <ctml:longitude>28.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131270" kind="city">
+    <ctml:name>Tembisa</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q1580709</ctml:wikiDataId>
+    <ctml:latitude>-25.99636000</ctml:latitude>
+    <ctml:longitude>28.22680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131284" kind="city">
+    <ctml:name>Vanderbijlpark</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q989955</ctml:wikiDataId>
+    <ctml:latitude>-26.71171000</ctml:latitude>
+    <ctml:longitude>27.83795000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131286" kind="admin2">
+    <ctml:name>Vereeniging</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q503056</ctml:wikiDataId>
+    <ctml:latitude>-26.67313000</ctml:latitude>
+    <ctml:longitude>27.92615000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131305" kind="city">
+    <ctml:name>West Rand</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q1789890</ctml:wikiDataId>
+    <ctml:latitude>-26.24565000</ctml:latitude>
+    <ctml:longitude>27.55538000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131306" kind="city">
+    <ctml:name>Westonaria</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Gauteng</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q1789890</ctml:wikiDataId>
+    <ctml:latitude>-26.31905000</ctml:latitude>
+    <ctml:longitude>27.64860000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131022" kind="city">
+    <ctml:name>Amajuba</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q452565</ctml:wikiDataId>
+    <ctml:latitude>-27.73558000</ctml:latitude>
+    <ctml:longitude>30.13537000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131027" kind="city">
+    <ctml:name>Ballito</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q2188373</ctml:wikiDataId>
+    <ctml:latitude>-29.53897000</ctml:latitude>
+    <ctml:longitude>31.21439000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131033" kind="city">
+    <ctml:name>Berea</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q818106</ctml:wikiDataId>
+    <ctml:latitude>-29.85185000</ctml:latitude>
+    <ctml:longitude>30.99337000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131091" kind="admin2">
+    <ctml:name>Dundee</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1265538</ctml:wikiDataId>
+    <ctml:latitude>-28.16678000</ctml:latitude>
+    <ctml:longitude>30.23371000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131092" kind="admin2">
+    <ctml:name>Durban</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q5468</ctml:wikiDataId>
+    <ctml:latitude>-29.85790000</ctml:latitude>
+    <ctml:longitude>31.02920000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131102" kind="city">
+    <ctml:name>Ekuvukeni</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q5350627</ctml:wikiDataId>
+    <ctml:latitude>-28.46752000</ctml:latitude>
+    <ctml:longitude>30.15513000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131320" kind="city">
+    <ctml:name>eMkhomazi</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q2096887</ctml:wikiDataId>
+    <ctml:latitude>-30.20674000</ctml:latitude>
+    <ctml:longitude>30.79776000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131104" kind="city">
+    <ctml:name>Empangeni</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1339143</ctml:wikiDataId>
+    <ctml:latitude>-28.76197000</ctml:latitude>
+    <ctml:longitude>31.89329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131106" kind="city">
+    <ctml:name>Eshowe</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1367652</ctml:wikiDataId>
+    <ctml:latitude>-28.88649000</ctml:latitude>
+    <ctml:longitude>31.46990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131321" kind="city">
+    <ctml:name>eSikhaleni</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q985865</ctml:wikiDataId>
+    <ctml:latitude>-28.87097000</ctml:latitude>
+    <ctml:longitude>31.89961000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131322" kind="city">
+    <ctml:name>eThekwini Metropolitan</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q311544</ctml:wikiDataId>
+    <ctml:latitude>-29.86670000</ctml:latitude>
+    <ctml:longitude>31.01670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131118" kind="city">
+    <ctml:name>Glencoe</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q285782</ctml:wikiDataId>
+    <ctml:latitude>-28.17827000</ctml:latitude>
+    <ctml:longitude>30.14702000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131122" kind="city">
+    <ctml:name>Greytown</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1021891</ctml:wikiDataId>
+    <ctml:latitude>-29.06415000</ctml:latitude>
+    <ctml:longitude>30.59279000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131130" kind="city">
+    <ctml:name>Hluhluwe</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1004768</ctml:wikiDataId>
+    <ctml:latitude>-28.01895000</ctml:latitude>
+    <ctml:longitude>32.26762000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131132" kind="city">
+    <ctml:name>Howick</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1503458</ctml:wikiDataId>
+    <ctml:latitude>-29.47795000</ctml:latitude>
+    <ctml:longitude>30.23057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131323" kind="city">
+    <ctml:name>iLembe</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q311794</ctml:wikiDataId>
+    <ctml:latitude>-29.27326000</ctml:latitude>
+    <ctml:longitude>31.14253000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131144" kind="city">
+    <ctml:name>Kokstad</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1671256</ctml:wikiDataId>
+    <ctml:latitude>-30.54723000</ctml:latitude>
+    <ctml:longitude>29.42412000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131155" kind="city">
+    <ctml:name>KwaDukuza</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q10676708</ctml:wikiDataId>
+    <ctml:latitude>-29.32816000</ctml:latitude>
+    <ctml:longitude>31.28954000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131172" kind="city">
+    <ctml:name>Margate</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q631231</ctml:wikiDataId>
+    <ctml:latitude>-30.86360000</ctml:latitude>
+    <ctml:longitude>30.37052000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131183" kind="city">
+    <ctml:name>Mondlo</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q2611079</ctml:wikiDataId>
+    <ctml:latitude>-27.98299000</ctml:latitude>
+    <ctml:longitude>30.71769000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131185" kind="city">
+    <ctml:name>Mooirivier</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1946653</ctml:wikiDataId>
+    <ctml:latitude>-29.20824000</ctml:latitude>
+    <ctml:longitude>29.99460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131189" kind="city">
+    <ctml:name>Mpophomeni</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q2491104</ctml:wikiDataId>
+    <ctml:latitude>-29.56822000</ctml:latitude>
+    <ctml:longitude>30.18618000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131190" kind="city">
+    <ctml:name>Mpumalanga</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1005268</ctml:wikiDataId>
+    <ctml:latitude>-29.81292000</ctml:latitude>
+    <ctml:longitude>30.63646000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131192" kind="city">
+    <ctml:name>Mtubatuba</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1013531</ctml:wikiDataId>
+    <ctml:latitude>-28.41789000</ctml:latitude>
+    <ctml:longitude>32.18483000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131196" kind="city">
+    <ctml:name>Ndwedwe</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1717872</ctml:wikiDataId>
+    <ctml:latitude>-29.51686000</ctml:latitude>
+    <ctml:longitude>30.92687000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131199" kind="admin2">
+    <ctml:name>Newcastle</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1027294</ctml:wikiDataId>
+    <ctml:latitude>-27.75796000</ctml:latitude>
+    <ctml:longitude>29.93180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131227" kind="admin2">
+    <ctml:name>Port Shepstone</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q121395</ctml:wikiDataId>
+    <ctml:latitude>-30.74137000</ctml:latitude>
+    <ctml:longitude>30.45499000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131239" kind="admin2">
+    <ctml:name>Richards Bay</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1471757</ctml:wikiDataId>
+    <ctml:latitude>-28.78301000</ctml:latitude>
+    <ctml:longitude>32.03768000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131240" kind="city">
+    <ctml:name>Richmond</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1471757</ctml:wikiDataId>
+    <ctml:latitude>-29.87196000</ctml:latitude>
+    <ctml:longitude>30.27235000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131251" kind="city">
+    <ctml:name>Scottburgh</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q933028</ctml:wikiDataId>
+    <ctml:latitude>-30.28666000</ctml:latitude>
+    <ctml:longitude>30.75316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131256" kind="city">
+    <ctml:name>Sisonke</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q549746</ctml:wikiDataId>
+    <ctml:latitude>-30.11082000</ctml:latitude>
+    <ctml:longitude>29.66009000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131267" kind="city">
+    <ctml:name>Sundumbili</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q32025251</ctml:wikiDataId>
+    <ctml:latitude>-29.13371000</ctml:latitude>
+    <ctml:longitude>31.39752000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131278" kind="city">
+    <ctml:name>Ugu</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q2091235</ctml:wikiDataId>
+    <ctml:latitude>-30.54365000</ctml:latitude>
+    <ctml:longitude>30.27480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131280" kind="admin2">
+    <ctml:name>Ulundi</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1013421</ctml:wikiDataId>
+    <ctml:latitude>-28.33523000</ctml:latitude>
+    <ctml:longitude>31.41617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131324" kind="city">
+    <ctml:name>uMgungundlovu</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q311803</ctml:wikiDataId>
+    <ctml:latitude>-29.50927000</ctml:latitude>
+    <ctml:longitude>30.19838000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131325" kind="city">
+    <ctml:name>uMkhanyakude</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1654018</ctml:wikiDataId>
+    <ctml:latitude>-27.62236000</ctml:latitude>
+    <ctml:longitude>32.32945000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131326" kind="city">
+    <ctml:name>uMzinyathi</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q2226837</ctml:wikiDataId>
+    <ctml:latitude>-28.58570000</ctml:latitude>
+    <ctml:longitude>30.55883000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131327" kind="city">
+    <ctml:name>uThukela</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1324549</ctml:wikiDataId>
+    <ctml:latitude>-28.71920000</ctml:latitude>
+    <ctml:longitude>29.65799000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131328" kind="city">
+    <ctml:name>uThungulu</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q311668</ctml:wikiDataId>
+    <ctml:latitude>-28.70046000</ctml:latitude>
+    <ctml:longitude>31.51527000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131282" kind="city">
+    <ctml:name>Utrecht</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q18108</ctml:wikiDataId>
+    <ctml:latitude>-27.65862000</ctml:latitude>
+    <ctml:longitude>30.32166000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131297" kind="city">
+    <ctml:name>Vryheid</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q1023254</ctml:wikiDataId>
+    <ctml:latitude>-27.76952000</ctml:latitude>
+    <ctml:longitude>30.79165000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131318" kind="city">
+    <ctml:name>Zululand</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>KwaZulu-Natal</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-KZN</ctml:parentRef>
+    <ctml:wikiDataId>Q2309262</ctml:wikiDataId>
+    <ctml:latitude>-27.81139000</ctml:latitude>
+    <ctml:longitude>31.29426000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131040" kind="city">
+    <ctml:name>Bochum</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q1150364</ctml:wikiDataId>
+    <ctml:latitude>-23.28609000</ctml:latitude>
+    <ctml:longitude>29.13964000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131061" kind="city">
+    <ctml:name>Capricorn</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q692290</ctml:wikiDataId>
+    <ctml:latitude>-23.48163000</ctml:latitude>
+    <ctml:longitude>29.18350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131090" kind="city">
+    <ctml:name>Duiwelskloof</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q2302331</ctml:wikiDataId>
+    <ctml:latitude>-23.69339000</ctml:latitude>
+    <ctml:longitude>30.14002000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131113" kind="city">
+    <ctml:name>Ga-Kgapane</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q5515188</ctml:wikiDataId>
+    <ctml:latitude>-23.64378000</ctml:latitude>
+    <ctml:longitude>30.22324000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131117" kind="admin2">
+    <ctml:name>Giyani</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q1528852</ctml:wikiDataId>
+    <ctml:latitude>-23.30246000</ctml:latitude>
+    <ctml:longitude>30.71868000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131160" kind="city">
+    <ctml:name>Lebowakgomo</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q544201</ctml:wikiDataId>
+    <ctml:latitude>-24.20000000</ctml:latitude>
+    <ctml:longitude>29.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131164" kind="city">
+    <ctml:name>Louis Trichardt</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q1641474</ctml:wikiDataId>
+    <ctml:latitude>-23.04385000</ctml:latitude>
+    <ctml:longitude>29.90319000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131171" kind="city">
+    <ctml:name>Mankoeng</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q31949208</ctml:wikiDataId>
+    <ctml:latitude>-23.90000000</ctml:latitude>
+    <ctml:longitude>29.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131180" kind="admin2">
+    <ctml:name>Modimolle</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q6888071</ctml:wikiDataId>
+    <ctml:latitude>-24.70000000</ctml:latitude>
+    <ctml:longitude>28.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131181" kind="city">
+    <ctml:name>Mokopane</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q326927</ctml:wikiDataId>
+    <ctml:latitude>-24.19436000</ctml:latitude>
+    <ctml:longitude>29.00974000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131187" kind="city">
+    <ctml:name>Mopani</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q611074</ctml:wikiDataId>
+    <ctml:latitude>-23.76661000</ctml:latitude>
+    <ctml:longitude>30.83600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131194" kind="city">
+    <ctml:name>Musina</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q1025661</ctml:wikiDataId>
+    <ctml:latitude>-22.34881000</ctml:latitude>
+    <ctml:longitude>30.04074000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131204" kind="city">
+    <ctml:name>Nkowakowa</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q2565925</ctml:wikiDataId>
+    <ctml:latitude>-23.88782000</ctml:latitude>
+    <ctml:longitude>30.28708000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131215" kind="city">
+    <ctml:name>Phalaborwa</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q1896233</ctml:wikiDataId>
+    <ctml:latitude>-23.94299000</ctml:latitude>
+    <ctml:longitude>31.14107000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131254" kind="city">
+    <ctml:name>Sekhukhune</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q1544445</ctml:wikiDataId>
+    <ctml:latitude>-24.82806000</ctml:latitude>
+    <ctml:longitude>29.83803000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131272" kind="city">
+    <ctml:name>Thabazimbi</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q3643767</ctml:wikiDataId>
+    <ctml:latitude>-24.59165000</ctml:latitude>
+    <ctml:longitude>27.41155000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131275" kind="admin2">
+    <ctml:name>Thohoyandou</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q1025654</ctml:wikiDataId>
+    <ctml:latitude>-22.94564000</ctml:latitude>
+    <ctml:longitude>30.48497000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131276" kind="city">
+    <ctml:name>Thulamahashi</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q32028934</ctml:wikiDataId>
+    <ctml:latitude>-24.72459000</ctml:latitude>
+    <ctml:longitude>31.19939000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131277" kind="city">
+    <ctml:name>Tzaneen</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q964666</ctml:wikiDataId>
+    <ctml:latitude>-23.83322000</ctml:latitude>
+    <ctml:longitude>30.16351000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131287" kind="city">
+    <ctml:name>Vhembe</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q2305610</ctml:wikiDataId>
+    <ctml:latitude>-22.75467000</ctml:latitude>
+    <ctml:longitude>30.19360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131298" kind="city">
+    <ctml:name>Warmbaths</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q32041226</ctml:wikiDataId>
+    <ctml:latitude>-24.88333000</ctml:latitude>
+    <ctml:longitude>28.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131300" kind="city">
+    <ctml:name>Waterberg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Limpopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-LP</ctml:parentRef>
+    <ctml:wikiDataId>Q2096830</ctml:wikiDataId>
+    <ctml:latitude>-24.20514000</ctml:latitude>
+    <ctml:longitude>27.97870000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131026" kind="city">
+    <ctml:name>Balfour</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q2188373</ctml:wikiDataId>
+    <ctml:latitude>-26.66331000</ctml:latitude>
+    <ctml:longitude>28.59016000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131028" kind="city">
+    <ctml:name>Barberton</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q807828</ctml:wikiDataId>
+    <ctml:latitude>-25.78842000</ctml:latitude>
+    <ctml:longitude>31.05319000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131031" kind="city">
+    <ctml:name>Belfast</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q301107</ctml:wikiDataId>
+    <ctml:latitude>-25.68991000</ctml:latitude>
+    <ctml:longitude>30.03504000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131035" kind="city">
+    <ctml:name>Bethal</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q747174</ctml:wikiDataId>
+    <ctml:latitude>-26.45794000</ctml:latitude>
+    <ctml:longitude>29.46553000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131049" kind="city">
+    <ctml:name>Breyten</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q2586861</ctml:wikiDataId>
+    <ctml:latitude>-26.30176000</ctml:latitude>
+    <ctml:longitude>29.98696000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131064" kind="city">
+    <ctml:name>Carolina</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q2119900</ctml:wikiDataId>
+    <ctml:latitude>-26.06927000</ctml:latitude>
+    <ctml:longitude>30.11489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131083" kind="city">
+    <ctml:name>Delmas</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q1184513</ctml:wikiDataId>
+    <ctml:latitude>-26.14660000</ctml:latitude>
+    <ctml:longitude>28.68322000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131089" kind="city">
+    <ctml:name>Driefontein</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q31912197</ctml:wikiDataId>
+    <ctml:latitude>-27.01770000</ctml:latitude>
+    <ctml:longitude>30.44979000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131099" kind="city">
+    <ctml:name>Ehlanzeni</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q1244497</ctml:wikiDataId>
+    <ctml:latitude>-25.35100000</ctml:latitude>
+    <ctml:longitude>31.36100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131319" kind="city">
+    <ctml:name>eMbalenhle</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q2522086</ctml:wikiDataId>
+    <ctml:latitude>-26.53333000</ctml:latitude>
+    <ctml:longitude>29.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131105" kind="city">
+    <ctml:name>Ermelo</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q1027521</ctml:wikiDataId>
+    <ctml:latitude>-26.53333000</ctml:latitude>
+    <ctml:longitude>29.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131116" kind="city">
+    <ctml:name>Gert Sibande</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q1515346</ctml:wikiDataId>
+    <ctml:latitude>-26.67100000</ctml:latitude>
+    <ctml:longitude>29.92953000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131127" kind="city">
+    <ctml:name>Hendrina</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q2753004</ctml:wikiDataId>
+    <ctml:latitude>-26.15881000</ctml:latitude>
+    <ctml:longitude>29.71528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131145" kind="city">
+    <ctml:name>Komatipoort</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q1779827</ctml:wikiDataId>
+    <ctml:latitude>-25.43321000</ctml:latitude>
+    <ctml:longitude>31.95478000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131149" kind="city">
+    <ctml:name>Kriel</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q31935641</ctml:wikiDataId>
+    <ctml:latitude>-26.27391000</ctml:latitude>
+    <ctml:longitude>29.22530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131165" kind="city">
+    <ctml:name>Lydenburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q1836921</ctml:wikiDataId>
+    <ctml:latitude>-25.09598000</ctml:latitude>
+    <ctml:longitude>30.44393000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131175" kind="admin2">
+    <ctml:name>Middelburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q1931836</ctml:wikiDataId>
+    <ctml:latitude>-25.77507000</ctml:latitude>
+    <ctml:longitude>29.46482000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131198" kind="city">
+    <ctml:name>Nelspruit</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q170313</ctml:wikiDataId>
+    <ctml:latitude>-25.47448000</ctml:latitude>
+    <ctml:longitude>30.97033000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131203" kind="city">
+    <ctml:name>Nkangala</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q1856181</ctml:wikiDataId>
+    <ctml:latitude>-25.71222000</ctml:latitude>
+    <ctml:longitude>29.42431000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131217" kind="city">
+    <ctml:name>Piet Retief</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q1395427</ctml:wikiDataId>
+    <ctml:latitude>-27.00706000</ctml:latitude>
+    <ctml:longitude>30.81323000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131252" kind="admin2">
+    <ctml:name>Secunda</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q2110377</ctml:wikiDataId>
+    <ctml:latitude>-26.55000000</ctml:latitude>
+    <ctml:longitude>29.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131257" kind="city">
+    <ctml:name>Siyabuswa</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q1934696</ctml:wikiDataId>
+    <ctml:latitude>-25.11319000</ctml:latitude>
+    <ctml:longitude>29.04454000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131263" kind="city">
+    <ctml:name>Standerton</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q742514</ctml:wikiDataId>
+    <ctml:latitude>-26.93366000</ctml:latitude>
+    <ctml:longitude>29.24152000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131291" kind="city">
+    <ctml:name>Volksrust</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q118638</ctml:wikiDataId>
+    <ctml:latitude>-27.36541000</ctml:latitude>
+    <ctml:longitude>29.88175000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131307" kind="city">
+    <ctml:name>White River</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q2046203</ctml:wikiDataId>
+    <ctml:latitude>-25.33177000</ctml:latitude>
+    <ctml:longitude>31.01166000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131311" kind="city">
+    <ctml:name>Witbank</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Mpumalanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-MP</ctml:parentRef>
+    <ctml:wikiDataId>Q311700</ctml:wikiDataId>
+    <ctml:latitude>-25.87133000</ctml:latitude>
+    <ctml:longitude>29.23323000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131039" kind="city">
+    <ctml:name>Bloemhof</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q2633575</ctml:wikiDataId>
+    <ctml:latitude>-27.64685000</ctml:latitude>
+    <ctml:longitude>25.60697000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131041" kind="city">
+    <ctml:name>Bojanala Platinum</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q891165</ctml:wikiDataId>
+    <ctml:latitude>-25.42612000</ctml:latitude>
+    <ctml:longitude>27.22430000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131050" kind="city">
+    <ctml:name>Brits</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q3948</ctml:wikiDataId>
+    <ctml:latitude>-25.63473000</ctml:latitude>
+    <ctml:longitude>27.78022000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131069" kind="city">
+    <ctml:name>Christiana</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q1082602</ctml:wikiDataId>
+    <ctml:latitude>-27.91402000</ctml:latitude>
+    <ctml:longitude>25.16111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131087" kind="city">
+    <ctml:name>Dr Kenneth Kaunda</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q1150452</ctml:wikiDataId>
+    <ctml:latitude>-26.80678000</ctml:latitude>
+    <ctml:longitude>26.56926000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131088" kind="city">
+    <ctml:name>Dr Ruth Segomotsi Mompati</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q1254171</ctml:wikiDataId>
+    <ctml:latitude>-26.63765000</ctml:latitude>
+    <ctml:longitude>24.27462000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131108" kind="city">
+    <ctml:name>Fochville</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q2370739</ctml:wikiDataId>
+    <ctml:latitude>-26.48862000</ctml:latitude>
+    <ctml:longitude>27.49387000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131114" kind="city">
+    <ctml:name>Ga-Rankuwa</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q2468130</ctml:wikiDataId>
+    <ctml:latitude>-25.61692000</ctml:latitude>
+    <ctml:longitude>27.99471000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131134" kind="city">
+    <ctml:name>Jan Kempdorp</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q2539888</ctml:wikiDataId>
+    <ctml:latitude>-27.92246000</ctml:latitude>
+    <ctml:longitude>24.83051000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131142" kind="admin2">
+    <ctml:name>Klerksdorp</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q1015647</ctml:wikiDataId>
+    <ctml:latitude>-26.85213000</ctml:latitude>
+    <ctml:longitude>26.66672000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131147" kind="city">
+    <ctml:name>Koster</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q3643783</ctml:wikiDataId>
+    <ctml:latitude>-25.86301000</ctml:latitude>
+    <ctml:longitude>26.89756000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131162" kind="city">
+    <ctml:name>Lichtenburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q2671213</ctml:wikiDataId>
+    <ctml:latitude>-26.15200000</ctml:latitude>
+    <ctml:longitude>26.15968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131168" kind="city">
+    <ctml:name>Maile</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q211055</ctml:wikiDataId>
+    <ctml:latitude>-25.44152000</ctml:latitude>
+    <ctml:longitude>27.28165000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131178" kind="city">
+    <ctml:name>Mmabatho</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q358762</ctml:wikiDataId>
+    <ctml:latitude>-25.85000000</ctml:latitude>
+    <ctml:longitude>25.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131201" kind="city">
+    <ctml:name>Ngaka Modiri Molema</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q1984191</ctml:wikiDataId>
+    <ctml:latitude>-25.95559000</ctml:latitude>
+    <ctml:longitude>25.80782000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131209" kind="city">
+    <ctml:name>Orkney</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q1788096</ctml:wikiDataId>
+    <ctml:latitude>-26.98023000</ctml:latitude>
+    <ctml:longitude>26.67272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131229" kind="city">
+    <ctml:name>Potchefstroom</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q605167</ctml:wikiDataId>
+    <ctml:latitude>-26.71667000</ctml:latitude>
+    <ctml:longitude>27.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131247" kind="city">
+    <ctml:name>Rustenburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q182049</ctml:wikiDataId>
+    <ctml:latitude>-25.66756000</ctml:latitude>
+    <ctml:longitude>27.24208000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131250" kind="city">
+    <ctml:name>Schweizer-Reneke</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q2568047</ctml:wikiDataId>
+    <ctml:latitude>-27.18871000</ctml:latitude>
+    <ctml:longitude>25.32931000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131265" kind="city">
+    <ctml:name>Stilfontein</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q2327720</ctml:wikiDataId>
+    <ctml:latitude>-26.84493000</ctml:latitude>
+    <ctml:longitude>26.76829000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131296" kind="admin2">
+    <ctml:name>Vryburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q1027291</ctml:wikiDataId>
+    <ctml:latitude>-26.95659000</ctml:latitude>
+    <ctml:longitude>24.72840000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131312" kind="city">
+    <ctml:name>Wolmaransstad</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q3642582</ctml:wikiDataId>
+    <ctml:latitude>-27.19740000</ctml:latitude>
+    <ctml:longitude>25.98311000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131316" kind="city">
+    <ctml:name>Zeerust</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q184412</ctml:wikiDataId>
+    <ctml:latitude>-25.53695000</ctml:latitude>
+    <ctml:longitude>26.07512000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131029" kind="city">
+    <ctml:name>Barkly West</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q808304</ctml:wikiDataId>
+    <ctml:latitude>-28.53537000</ctml:latitude>
+    <ctml:longitude>24.52151000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131047" kind="city">
+    <ctml:name>Brandvlei</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q898384</ctml:wikiDataId>
+    <ctml:latitude>-30.46532000</ctml:latitude>
+    <ctml:longitude>20.48659000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131058" kind="city">
+    <ctml:name>Calvinia</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q1027757</ctml:wikiDataId>
+    <ctml:latitude>-31.47069000</ctml:latitude>
+    <ctml:longitude>19.77601000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131063" kind="city">
+    <ctml:name>Carnarvon</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q625378</ctml:wikiDataId>
+    <ctml:latitude>-30.96827000</ctml:latitude>
+    <ctml:longitude>22.13303000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131076" kind="city">
+    <ctml:name>Colesberg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q2232441</ctml:wikiDataId>
+    <ctml:latitude>-30.71999000</ctml:latitude>
+    <ctml:longitude>25.09718000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131080" kind="city">
+    <ctml:name>Daniëlskuil</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q2296645</ctml:wikiDataId>
+    <ctml:latitude>-28.18873000</ctml:latitude>
+    <ctml:longitude>23.53951000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131081" kind="admin2">
+    <ctml:name>De Aar</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q743069</ctml:wikiDataId>
+    <ctml:latitude>-30.64966000</ctml:latitude>
+    <ctml:longitude>24.01230000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131110" kind="city">
+    <ctml:name>Frances Baard</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q1263830</ctml:wikiDataId>
+    <ctml:latitude>-28.30003000</ctml:latitude>
+    <ctml:longitude>24.38188000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131112" kind="city">
+    <ctml:name>Fraserburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q2609896</ctml:wikiDataId>
+    <ctml:latitude>-31.91566000</ctml:latitude>
+    <ctml:longitude>21.51335000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131137" kind="city">
+    <ctml:name>John Taolo Gaetsewe</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q384731</ctml:wikiDataId>
+    <ctml:latitude>-27.04549000</ctml:latitude>
+    <ctml:longitude>23.04706000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131138" kind="city">
+    <ctml:name>Kathu</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q1736557</ctml:wikiDataId>
+    <ctml:latitude>-27.69569000</ctml:latitude>
+    <ctml:longitude>23.04929000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131139" kind="city">
+    <ctml:name>Kenhardt</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q3643099</ctml:wikiDataId>
+    <ctml:latitude>-29.34574000</ctml:latitude>
+    <ctml:longitude>21.15786000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131153" kind="admin2">
+    <ctml:name>Kuruman</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q1025965</ctml:wikiDataId>
+    <ctml:latitude>-27.45240000</ctml:latitude>
+    <ctml:longitude>23.43246000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131195" kind="city">
+    <ctml:name>Namakwa</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q617646</ctml:wikiDataId>
+    <ctml:latitude>-30.53561000</ctml:latitude>
+    <ctml:longitude>19.42892000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131205" kind="city">
+    <ctml:name>Noupoort</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q3642267</ctml:wikiDataId>
+    <ctml:latitude>-31.18736000</ctml:latitude>
+    <ctml:longitude>24.94991000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131208" kind="city">
+    <ctml:name>Orania</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q1011020</ctml:wikiDataId>
+    <ctml:latitude>-29.81381000</ctml:latitude>
+    <ctml:longitude>24.41205000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131213" kind="city">
+    <ctml:name>Pampierstad</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q68597</ctml:wikiDataId>
+    <ctml:latitude>-27.78324000</ctml:latitude>
+    <ctml:longitude>24.68768000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131220" kind="city">
+    <ctml:name>Pixley ka Seme</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q1886098</ctml:wikiDataId>
+    <ctml:latitude>-30.28920000</ctml:latitude>
+    <ctml:longitude>23.25818000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131222" kind="city">
+    <ctml:name>Pofadder</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q993179</ctml:wikiDataId>
+    <ctml:latitude>-29.12830000</ctml:latitude>
+    <ctml:longitude>19.39492000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131228" kind="city">
+    <ctml:name>Postmasburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q2580907</ctml:wikiDataId>
+    <ctml:latitude>-28.33392000</ctml:latitude>
+    <ctml:longitude>23.06541000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131231" kind="city">
+    <ctml:name>Prieska</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q1021731</ctml:wikiDataId>
+    <ctml:latitude>-29.66803000</ctml:latitude>
+    <ctml:longitude>22.74251000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131241" kind="city">
+    <ctml:name>Ritchie</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q2152772</ctml:wikiDataId>
+    <ctml:latitude>-29.03801000</ctml:latitude>
+    <ctml:longitude>24.60278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131258" kind="city">
+    <ctml:name>Siyanda</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q1773268</ctml:wikiDataId>
+    <ctml:latitude>-28.00013000</ctml:latitude>
+    <ctml:longitude>21.18459000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131261" kind="admin2">
+    <ctml:name>Springbok</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q2301363</ctml:wikiDataId>
+    <ctml:latitude>-29.66434000</ctml:latitude>
+    <ctml:longitude>17.88650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131281" kind="admin2">
+    <ctml:name>Upington</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q575780</ctml:wikiDataId>
+    <ctml:latitude>-28.44776000</ctml:latitude>
+    <ctml:longitude>21.25612000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131283" kind="city">
+    <ctml:name>Van Wyksvlei</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q18108</ctml:wikiDataId>
+    <ctml:latitude>-30.35101000</ctml:latitude>
+    <ctml:longitude>21.82498000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131299" kind="city">
+    <ctml:name>Warrenton</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Northern Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-NC</ctml:parentRef>
+    <ctml:wikiDataId>Q1832033</ctml:wikiDataId>
+    <ctml:latitude>-28.11396000</ctml:latitude>
+    <ctml:longitude>24.84753000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131016" kind="city">
+    <ctml:name>Albertina</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q2549949</ctml:wikiDataId>
+    <ctml:latitude>-34.20544000</ctml:latitude>
+    <ctml:longitude>21.58001000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131024" kind="city">
+    <ctml:name>Arniston</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q694016</ctml:wikiDataId>
+    <ctml:latitude>-34.66739000</ctml:latitude>
+    <ctml:longitude>20.23086000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131025" kind="city">
+    <ctml:name>Atlantis</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q3493630</ctml:wikiDataId>
+    <ctml:latitude>-33.56668000</ctml:latitude>
+    <ctml:longitude>18.48335000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131030" kind="admin2">
+    <ctml:name>Beaufort West</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q813395</ctml:wikiDataId>
+    <ctml:latitude>-32.35671000</ctml:latitude>
+    <ctml:longitude>22.58295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131034" kind="city">
+    <ctml:name>Bergvliet</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q2897143</ctml:wikiDataId>
+    <ctml:latitude>-34.04746000</ctml:latitude>
+    <ctml:longitude>18.45250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131048" kind="admin2">
+    <ctml:name>Bredasdorp</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1640898</ctml:wikiDataId>
+    <ctml:latitude>-34.53215000</ctml:latitude>
+    <ctml:longitude>20.04031000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131056" kind="city">
+    <ctml:name>Caledon</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q777884</ctml:wikiDataId>
+    <ctml:latitude>-34.22997000</ctml:latitude>
+    <ctml:longitude>19.42650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131057" kind="city">
+    <ctml:name>Calitzdorp</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1027048</ctml:wikiDataId>
+    <ctml:latitude>-33.52755000</ctml:latitude>
+    <ctml:longitude>21.67620000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131060" kind="city">
+    <ctml:name>Cape Winelands</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1974486</ctml:wikiDataId>
+    <ctml:latitude>-33.32249000</ctml:latitude>
+    <ctml:longitude>19.68998000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131065" kind="city">
+    <ctml:name>Central Karoo</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1053888</ctml:wikiDataId>
+    <ctml:latitude>-32.62812000</ctml:latitude>
+    <ctml:longitude>22.21192000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131067" kind="city">
+    <ctml:name>Ceres</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q2038408</ctml:wikiDataId>
+    <ctml:latitude>-33.36889000</ctml:latitude>
+    <ctml:longitude>19.31095000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131073" kind="city">
+    <ctml:name>Clanwilliam</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1025657</ctml:wikiDataId>
+    <ctml:latitude>-32.18173000</ctml:latitude>
+    <ctml:longitude>18.89217000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131074" kind="city">
+    <ctml:name>Claremont</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q2975541</ctml:wikiDataId>
+    <ctml:latitude>-33.98056000</ctml:latitude>
+    <ctml:longitude>18.46528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131077" kind="city">
+    <ctml:name>Constantia</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1127739</ctml:wikiDataId>
+    <ctml:latitude>-34.03139000</ctml:latitude>
+    <ctml:longitude>18.41833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131082" kind="city">
+    <ctml:name>De Rust</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1021906</ctml:wikiDataId>
+    <ctml:latitude>-33.49035000</ctml:latitude>
+    <ctml:longitude>22.53523000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131095" kind="city">
+    <ctml:name>Eden</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q220249</ctml:wikiDataId>
+    <ctml:latitude>-33.82139000</ctml:latitude>
+    <ctml:longitude>22.01263000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131115" kind="admin2">
+    <ctml:name>George</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q370456</ctml:wikiDataId>
+    <ctml:latitude>-33.96300000</ctml:latitude>
+    <ctml:longitude>22.46173000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131120" kind="city">
+    <ctml:name>Grabouw</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1540958</ctml:wikiDataId>
+    <ctml:latitude>-34.15152000</ctml:latitude>
+    <ctml:longitude>19.01509000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131123" kind="city">
+    <ctml:name>Hardys Memories of Africa</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1021891</ctml:wikiDataId>
+    <ctml:latitude>-33.90539000</ctml:latitude>
+    <ctml:longitude>20.71690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131129" kind="city">
+    <ctml:name>Hermanus</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1613480</ctml:wikiDataId>
+    <ctml:latitude>-34.41870000</ctml:latitude>
+    <ctml:longitude>19.23446000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131143" kind="city">
+    <ctml:name>Knysna</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q251137</ctml:wikiDataId>
+    <ctml:latitude>-34.03627000</ctml:latitude>
+    <ctml:longitude>23.04713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131148" kind="city">
+    <ctml:name>Kraaifontein</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q5200520</ctml:wikiDataId>
+    <ctml:latitude>-33.84808000</ctml:latitude>
+    <ctml:longitude>18.71723000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131156" kind="city">
+    <ctml:name>Ladismith</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1800028</ctml:wikiDataId>
+    <ctml:latitude>-33.49331000</ctml:latitude>
+    <ctml:longitude>21.26755000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131159" kind="city">
+    <ctml:name>Lansdowne</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q6487354</ctml:wikiDataId>
+    <ctml:latitude>-33.98735000</ctml:latitude>
+    <ctml:longitude>18.49746000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131169" kind="city">
+    <ctml:name>Malmesbury</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q3113320</ctml:wikiDataId>
+    <ctml:latitude>-33.46080000</ctml:latitude>
+    <ctml:longitude>18.72714000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131184" kind="city">
+    <ctml:name>Montagu</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1800611</ctml:wikiDataId>
+    <ctml:latitude>-33.78664000</ctml:latitude>
+    <ctml:longitude>20.12106000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131186" kind="admin2">
+    <ctml:name>Moorreesburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1003332</ctml:wikiDataId>
+    <ctml:latitude>-33.15388000</ctml:latitude>
+    <ctml:longitude>18.66031000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131188" kind="city">
+    <ctml:name>Mossel Bay</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q995615</ctml:wikiDataId>
+    <ctml:latitude>-34.18307000</ctml:latitude>
+    <ctml:longitude>22.14605000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131200" kind="city">
+    <ctml:name>Newlands</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q636253</ctml:wikiDataId>
+    <ctml:latitude>-33.97846000</ctml:latitude>
+    <ctml:longitude>18.44810000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131210" kind="city">
+    <ctml:name>Oudtshoorn</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q951049</ctml:wikiDataId>
+    <ctml:latitude>-33.60047000</ctml:latitude>
+    <ctml:longitude>22.19955000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131211" kind="city">
+    <ctml:name>Overberg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1899307</ctml:wikiDataId>
+    <ctml:latitude>-34.26131000</ctml:latitude>
+    <ctml:longitude>19.93985000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131212" kind="city">
+    <ctml:name>Paarl</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1018144</ctml:wikiDataId>
+    <ctml:latitude>-33.73378000</ctml:latitude>
+    <ctml:longitude>18.97523000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131219" kind="city">
+    <ctml:name>Piketberg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q2006534</ctml:wikiDataId>
+    <ctml:latitude>-32.90323000</ctml:latitude>
+    <ctml:longitude>18.75704000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131221" kind="city">
+    <ctml:name>Plettenberg Bay</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q922360</ctml:wikiDataId>
+    <ctml:latitude>-34.05274000</ctml:latitude>
+    <ctml:longitude>23.37160000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131232" kind="city">
+    <ctml:name>Prince Albert</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1533623</ctml:wikiDataId>
+    <ctml:latitude>-33.22476000</ctml:latitude>
+    <ctml:longitude>22.02673000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131238" kind="city">
+    <ctml:name>Retreat</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q7316910</ctml:wikiDataId>
+    <ctml:latitude>-34.05515000</ctml:latitude>
+    <ctml:longitude>18.47617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131242" kind="city">
+    <ctml:name>Riversdale</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q2120963</ctml:wikiDataId>
+    <ctml:latitude>-34.09345000</ctml:latitude>
+    <ctml:longitude>21.25725000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131243" kind="city">
+    <ctml:name>Robertson</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q2096823</ctml:wikiDataId>
+    <ctml:latitude>-33.80342000</ctml:latitude>
+    <ctml:longitude>19.88537000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131244" kind="city">
+    <ctml:name>Rondebosch</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q3073398</ctml:wikiDataId>
+    <ctml:latitude>-33.96333000</ctml:latitude>
+    <ctml:longitude>18.47639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131246" kind="city">
+    <ctml:name>Rosebank</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q7368057</ctml:wikiDataId>
+    <ctml:latitude>-33.95556000</ctml:latitude>
+    <ctml:longitude>18.47417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131248" kind="city">
+    <ctml:name>Saldanha</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1643816</ctml:wikiDataId>
+    <ctml:latitude>-33.01167000</ctml:latitude>
+    <ctml:longitude>17.94420000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131264" kind="city">
+    <ctml:name>Stellenbosch</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q5460</ctml:wikiDataId>
+    <ctml:latitude>-33.93462000</ctml:latitude>
+    <ctml:longitude>18.86676000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131268" kind="city">
+    <ctml:name>Sunset Beach</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q32025251</ctml:wikiDataId>
+    <ctml:latitude>-33.85395000</ctml:latitude>
+    <ctml:longitude>18.49231000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131269" kind="city">
+    <ctml:name>Swellendam</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1023257</ctml:wikiDataId>
+    <ctml:latitude>-34.02262000</ctml:latitude>
+    <ctml:longitude>20.44171000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131294" kind="city">
+    <ctml:name>Vredenburg</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q2620432</ctml:wikiDataId>
+    <ctml:latitude>-32.90719000</ctml:latitude>
+    <ctml:longitude>17.98997000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131295" kind="city">
+    <ctml:name>Vredendal</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1341350</ctml:wikiDataId>
+    <ctml:latitude>-31.66833000</ctml:latitude>
+    <ctml:longitude>18.50119000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131302" kind="city">
+    <ctml:name>Wellington</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1534385</ctml:wikiDataId>
+    <ctml:latitude>-33.63981000</ctml:latitude>
+    <ctml:longitude>19.01120000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131304" kind="city">
+    <ctml:name>West Coast</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q2562901</ctml:wikiDataId>
+    <ctml:latitude>-32.09506000</ctml:latitude>
+    <ctml:longitude>18.62695000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ZAF-131313" kind="admin2">
+    <ctml:name>Worcester</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q1025649</ctml:wikiDataId>
+    <ctml:latitude>-33.64651000</ctml:latitude>
+    <ctml:longitude>19.44852000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ZAF-131317" kind="city">
+    <ctml:name>Zoar</ctml:name>
+    <ctml:country>ZAF</ctml:country>
+    <ctml:admin1>Western Cape</ctml:admin1>
+    <ctml:parentRef>place:admin1:ZA-WC</ctml:parentRef>
+    <ctml:wikiDataId>Q218020</ctml:wikiDataId>
+    <ctml:latitude>-33.49560000</ctml:latitude>
+    <ctml:longitude>21.44373000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

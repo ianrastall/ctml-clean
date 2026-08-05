@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ALA-160431" kind="city">
+    <ctml:name>Bomarsund</ctml:name>
+    <ctml:country>ALA</ctml:country>
+    <ctml:admin1>Jomala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AX-02</ctml:parentRef>
+    <ctml:latitude>60.21234000</ctml:latitude>
+    <ctml:longitude>20.24023000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALA-160427" kind="city">
+    <ctml:name>Finström</ctml:name>
+    <ctml:country>ALA</ctml:country>
+    <ctml:admin1>Jomala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AX-02</ctml:parentRef>
+    <ctml:latitude>60.26667000</ctml:latitude>
+    <ctml:longitude>19.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALA-160432" kind="city">
+    <ctml:name>Godby</ctml:name>
+    <ctml:country>ALA</ctml:country>
+    <ctml:admin1>Jomala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AX-02</ctml:parentRef>
+    <ctml:latitude>60.22995000</ctml:latitude>
+    <ctml:longitude>19.98810000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALA-160428" kind="city">
+    <ctml:name>Hammarland</ctml:name>
+    <ctml:country>ALA</ctml:country>
+    <ctml:admin1>Jomala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AX-02</ctml:parentRef>
+    <ctml:latitude>60.21667000</ctml:latitude>
+    <ctml:longitude>19.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALA-160429" kind="city">
+    <ctml:name>Jomala</ctml:name>
+    <ctml:country>ALA</ctml:country>
+    <ctml:admin1>Jomala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AX-02</ctml:parentRef>
+    <ctml:latitude>60.14902000</ctml:latitude>
+    <ctml:longitude>19.95100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALA-160433" kind="city">
+    <ctml:name>Lemland</ctml:name>
+    <ctml:country>ALA</ctml:country>
+    <ctml:admin1>Jomala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AX-02</ctml:parentRef>
+    <ctml:latitude>60.07178000</ctml:latitude>
+    <ctml:longitude>20.08472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALA-160434" kind="city">
+    <ctml:name>Saltvik</ctml:name>
+    <ctml:country>ALA</ctml:country>
+    <ctml:admin1>Jomala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AX-02</ctml:parentRef>
+    <ctml:latitude>60.28333000</ctml:latitude>
+    <ctml:longitude>20.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALA-160435" kind="city">
+    <ctml:name>Sund</ctml:name>
+    <ctml:country>ALA</ctml:country>
+    <ctml:admin1>Jomala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AX-02</ctml:parentRef>
+    <ctml:latitude>60.25000000</ctml:latitude>
+    <ctml:longitude>20.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALA-160430" kind="city">
+    <ctml:name>Tjudö</ctml:name>
+    <ctml:country>ALA</ctml:country>
+    <ctml:admin1>Jomala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AX-02</ctml:parentRef>
+    <ctml:latitude>60.33333000</ctml:latitude>
+    <ctml:longitude>19.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALA-160426" kind="city">
+    <ctml:name>Yomala</ctml:name>
+    <ctml:country>ALA</ctml:country>
+    <ctml:admin1>Jomala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AX-02</ctml:parentRef>
+    <ctml:latitude>60.16689000</ctml:latitude>
+    <ctml:longitude>19.93341000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALA-160436" kind="city">
+    <ctml:name>Ytterby</ctml:name>
+    <ctml:country>ALA</ctml:country>
+    <ctml:admin1>Jomala</ctml:admin1>
+    <ctml:parentRef>place:admin1:AX-02</ctml:parentRef>
+    <ctml:latitude>60.16667000</ctml:latitude>
+    <ctml:longitude>20.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ALA-160425" kind="city">
+    <ctml:name>Mariehamn</ctml:name>
+    <ctml:country>ALA</ctml:country>
+    <ctml:admin1>Mariehamn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AX-01</ctml:parentRef>
+    <ctml:latitude>60.09726000</ctml:latitude>
+    <ctml:longitude>19.93481000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

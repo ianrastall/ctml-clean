@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:NER-76677" kind="city">
+    <ctml:name>Alaghsas</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Agadez</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-1</ctml:parentRef>
+    <ctml:wikiDataId>Q320049</ctml:wikiDataId>
+    <ctml:latitude>17.01870000</ctml:latitude>
+    <ctml:longitude>8.01680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76678" kind="city">
+    <ctml:name>Arlit</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Agadez</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-1</ctml:parentRef>
+    <ctml:wikiDataId>Q675798</ctml:wikiDataId>
+    <ctml:latitude>18.83409000</ctml:latitude>
+    <ctml:longitude>7.43327000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76681" kind="admin2">
+    <ctml:name>Bilma</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Agadez</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-1</ctml:parentRef>
+    <ctml:wikiDataId>Q15713669</ctml:wikiDataId>
+    <ctml:latitude>18.68532000</ctml:latitude>
+    <ctml:longitude>12.91643000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76690" kind="city">
+    <ctml:name>Département de Bilma</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Agadez</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-1</ctml:parentRef>
+    <ctml:wikiDataId>Q863297</ctml:wikiDataId>
+    <ctml:latitude>20.50000000</ctml:latitude>
+    <ctml:longitude>13.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76711" kind="city">
+    <ctml:name>Département de Tchirozérine</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Agadez</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-1</ctml:parentRef>
+    <ctml:wikiDataId>Q1464380</ctml:wikiDataId>
+    <ctml:latitude>17.43293000</ctml:latitude>
+    <ctml:longitude>7.89321000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76694" kind="city">
+    <ctml:name>Département de Diffa</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Diffa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-2</ctml:parentRef>
+    <ctml:wikiDataId>Q749567</ctml:wikiDataId>
+    <ctml:latitude>13.66667000</ctml:latitude>
+    <ctml:longitude>12.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76705" kind="admin2">
+    <ctml:name>Département de Maïné-Soroa</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Diffa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-2</ctml:parentRef>
+    <ctml:wikiDataId>Q1538108</ctml:wikiDataId>
+    <ctml:latitude>13.31206000</ctml:latitude>
+    <ctml:longitude>12.08321000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76706" kind="admin2">
+    <ctml:name>Département de Nguigmi</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Diffa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-2</ctml:parentRef>
+    <ctml:wikiDataId>Q1422302</ctml:wikiDataId>
+    <ctml:latitude>14.20753000</ctml:latitude>
+    <ctml:longitude>13.12177000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76729" kind="admin2">
+    <ctml:name>Maïné Soroa</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Diffa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-2</ctml:parentRef>
+    <ctml:wikiDataId>Q664550</ctml:wikiDataId>
+    <ctml:latitude>13.21139000</ctml:latitude>
+    <ctml:longitude>12.02410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76731" kind="admin2">
+    <ctml:name>Nguigmi</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Diffa</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-2</ctml:parentRef>
+    <ctml:wikiDataId>Q664550</ctml:wikiDataId>
+    <ctml:latitude>14.24953000</ctml:latitude>
+    <ctml:longitude>13.10921000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76683" kind="admin2">
+    <ctml:name>Boboye Department</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Dosso</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-3</ctml:parentRef>
+    <ctml:wikiDataId>Q888839</ctml:wikiDataId>
+    <ctml:latitude>13.08167000</ctml:latitude>
+    <ctml:longitude>2.91083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76695" kind="admin2">
+    <ctml:name>Département de Dogondoutchi</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Dosso</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-3</ctml:parentRef>
+    <ctml:wikiDataId>Q912641</ctml:wikiDataId>
+    <ctml:latitude>13.50000000</ctml:latitude>
+    <ctml:longitude>4.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76696" kind="city">
+    <ctml:name>Département de Dosso</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Dosso</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-3</ctml:parentRef>
+    <ctml:wikiDataId>Q1251043</ctml:wikiDataId>
+    <ctml:latitude>12.83333000</ctml:latitude>
+    <ctml:longitude>3.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76698" kind="admin2">
+    <ctml:name>Département de Gaya</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Dosso</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-3</ctml:parentRef>
+    <ctml:wikiDataId>Q912246</ctml:wikiDataId>
+    <ctml:latitude>11.95970000</ctml:latitude>
+    <ctml:longitude>3.46045000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76702" kind="city">
+    <ctml:name>Département de Loga</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Dosso</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-3</ctml:parentRef>
+    <ctml:wikiDataId>Q1540086</ctml:wikiDataId>
+    <ctml:latitude>13.63333000</ctml:latitude>
+    <ctml:longitude>3.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76687" kind="admin2">
+    <ctml:name>Dogondoutchi</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Dosso</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-3</ctml:parentRef>
+    <ctml:wikiDataId>Q888839</ctml:wikiDataId>
+    <ctml:latitude>13.64030000</ctml:latitude>
+    <ctml:longitude>4.02649000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76716" kind="admin2">
+    <ctml:name>Gaya</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Dosso</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-3</ctml:parentRef>
+    <ctml:wikiDataId>Q766896</ctml:wikiDataId>
+    <ctml:latitude>11.88435000</ctml:latitude>
+    <ctml:longitude>3.44919000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76676" kind="admin2">
+    <ctml:name>Aguié</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Maradi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-4</ctml:parentRef>
+    <ctml:wikiDataId>Q320049</ctml:wikiDataId>
+    <ctml:latitude>13.50601000</ctml:latitude>
+    <ctml:longitude>7.77863000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76685" kind="admin2">
+    <ctml:name>Dakoro</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Maradi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-4</ctml:parentRef>
+    <ctml:wikiDataId>Q888839</ctml:wikiDataId>
+    <ctml:latitude>14.51056000</ctml:latitude>
+    <ctml:longitude>6.76500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76714" kind="admin2">
+    <ctml:name>Département d’Aguié</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Maradi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-4</ctml:parentRef>
+    <ctml:wikiDataId>Q398476</ctml:wikiDataId>
+    <ctml:latitude>13.46976000</ctml:latitude>
+    <ctml:longitude>7.74219000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76693" kind="city">
+    <ctml:name>Département de Dakoro</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Maradi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-4</ctml:parentRef>
+    <ctml:wikiDataId>Q912576</ctml:wikiDataId>
+    <ctml:latitude>14.75000000</ctml:latitude>
+    <ctml:longitude>7.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76704" kind="city">
+    <ctml:name>Département de Mayahi</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Maradi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-4</ctml:parentRef>
+    <ctml:wikiDataId>Q205039</ctml:wikiDataId>
+    <ctml:latitude>14.10000000</ctml:latitude>
+    <ctml:longitude>7.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76712" kind="city">
+    <ctml:name>Département de Tessaoua</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Maradi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-4</ctml:parentRef>
+    <ctml:wikiDataId>Q912585</ctml:wikiDataId>
+    <ctml:latitude>13.60000000</ctml:latitude>
+    <ctml:longitude>7.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76718" kind="admin2">
+    <ctml:name>Guidan Roumdji Department</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Maradi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-4</ctml:parentRef>
+    <ctml:wikiDataId>Q912927</ctml:wikiDataId>
+    <ctml:latitude>13.65750000</ctml:latitude>
+    <ctml:longitude>6.69583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76724" kind="admin2">
+    <ctml:name>Madarounfa</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Maradi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-4</ctml:parentRef>
+    <ctml:wikiDataId>Q912554</ctml:wikiDataId>
+    <ctml:latitude>13.28253000</ctml:latitude>
+    <ctml:longitude>7.15495000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76728" kind="admin2">
+    <ctml:name>Mayahi</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Maradi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-4</ctml:parentRef>
+    <ctml:wikiDataId>Q664550</ctml:wikiDataId>
+    <ctml:latitude>13.95532000</ctml:latitude>
+    <ctml:longitude>7.67122000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76738" kind="admin2">
+    <ctml:name>Tessaoua</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Maradi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-4</ctml:parentRef>
+    <ctml:wikiDataId>Q1538673</ctml:wikiDataId>
+    <ctml:latitude>13.75737000</ctml:latitude>
+    <ctml:longitude>7.98740000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76739" kind="city">
+    <ctml:name>Tibiri</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Maradi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-4</ctml:parentRef>
+    <ctml:wikiDataId>Q1538673</ctml:wikiDataId>
+    <ctml:latitude>13.56271000</ctml:latitude>
+    <ctml:longitude>7.04848000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-160096" kind="city">
+    <ctml:name>Niamey</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Niamey</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-8</ctml:parentRef>
+    <ctml:wikiDataId>Q3674</ctml:wikiDataId>
+    <ctml:latitude>13.51361111</ctml:latitude>
+    <ctml:longitude>2.10888889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76674" kind="city">
+    <ctml:name>Abalak</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tahoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-5</ctml:parentRef>
+    <ctml:wikiDataId>Q305217</ctml:wikiDataId>
+    <ctml:latitude>15.41618000</ctml:latitude>
+    <ctml:longitude>6.16975000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76682" kind="city">
+    <ctml:name>Birni N Konni</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tahoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-5</ctml:parentRef>
+    <ctml:wikiDataId>Q15713669</ctml:wikiDataId>
+    <ctml:latitude>13.79599000</ctml:latitude>
+    <ctml:longitude>5.25026000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76684" kind="admin2">
+    <ctml:name>Bouza</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tahoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-5</ctml:parentRef>
+    <ctml:wikiDataId>Q888839</ctml:wikiDataId>
+    <ctml:latitude>14.42293000</ctml:latitude>
+    <ctml:longitude>6.04278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76689" kind="city">
+    <ctml:name>Département d' Illéla</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tahoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-5</ctml:parentRef>
+    <ctml:wikiDataId>Q605633</ctml:wikiDataId>
+    <ctml:latitude>14.25000000</ctml:latitude>
+    <ctml:longitude>5.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76691" kind="city">
+    <ctml:name>Département de Birni Nkonni</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tahoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-5</ctml:parentRef>
+    <ctml:wikiDataId>Q865805</ctml:wikiDataId>
+    <ctml:latitude>13.90000000</ctml:latitude>
+    <ctml:longitude>5.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76692" kind="admin2">
+    <ctml:name>Département de Bouza</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tahoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-5</ctml:parentRef>
+    <ctml:wikiDataId>Q895323</ctml:wikiDataId>
+    <ctml:latitude>14.43333000</ctml:latitude>
+    <ctml:longitude>6.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76701" kind="admin2">
+    <ctml:name>Département de Keïta</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tahoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-5</ctml:parentRef>
+    <ctml:wikiDataId>Q1674773</ctml:wikiDataId>
+    <ctml:latitude>14.80000000</ctml:latitude>
+    <ctml:longitude>6.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76703" kind="admin2">
+    <ctml:name>Département de Madaoua</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tahoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-5</ctml:parentRef>
+    <ctml:wikiDataId>Q427279</ctml:wikiDataId>
+    <ctml:latitude>13.99988000</ctml:latitude>
+    <ctml:longitude>6.10012000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76709" kind="city">
+    <ctml:name>Département de Tahoua</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tahoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-5</ctml:parentRef>
+    <ctml:wikiDataId>Q13403317</ctml:wikiDataId>
+    <ctml:latitude>14.80000000</ctml:latitude>
+    <ctml:longitude>4.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76710" kind="city">
+    <ctml:name>Département de Tchin-Tabaraden</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tahoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-5</ctml:parentRef>
+    <ctml:wikiDataId>Q1509694</ctml:wikiDataId>
+    <ctml:latitude>15.86694000</ctml:latitude>
+    <ctml:longitude>5.71042000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76719" kind="admin2">
+    <ctml:name>Illéla</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tahoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-5</ctml:parentRef>
+    <ctml:wikiDataId>Q912927</ctml:wikiDataId>
+    <ctml:latitude>14.46050000</ctml:latitude>
+    <ctml:longitude>5.24370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76720" kind="admin2">
+    <ctml:name>Keïta</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tahoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-5</ctml:parentRef>
+    <ctml:wikiDataId>Q912927</ctml:wikiDataId>
+    <ctml:latitude>14.75510000</ctml:latitude>
+    <ctml:longitude>5.77490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76723" kind="admin2">
+    <ctml:name>Madaoua</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tahoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-5</ctml:parentRef>
+    <ctml:wikiDataId>Q667343</ctml:wikiDataId>
+    <ctml:latitude>14.07300000</ctml:latitude>
+    <ctml:longitude>5.96000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76736" kind="admin2">
+    <ctml:name>Tchintabaraden</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tahoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-5</ctml:parentRef>
+    <ctml:wikiDataId>Q664550</ctml:wikiDataId>
+    <ctml:latitude>15.89690000</ctml:latitude>
+    <ctml:longitude>5.79850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76679" kind="city">
+    <ctml:name>Ayorou</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tillabéri</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-6</ctml:parentRef>
+    <ctml:wikiDataId>Q675798</ctml:wikiDataId>
+    <ctml:latitude>14.73075000</ctml:latitude>
+    <ctml:longitude>0.91739000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76680" kind="city">
+    <ctml:name>Balleyara</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tillabéri</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-6</ctml:parentRef>
+    <ctml:wikiDataId>Q15713669</ctml:wikiDataId>
+    <ctml:latitude>13.72848000</ctml:latitude>
+    <ctml:longitude>2.87503000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76697" kind="city">
+    <ctml:name>Département de Filingué</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tillabéri</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-6</ctml:parentRef>
+    <ctml:wikiDataId>Q1413476</ctml:wikiDataId>
+    <ctml:latitude>14.31645000</ctml:latitude>
+    <ctml:longitude>3.23611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76707" kind="city">
+    <ctml:name>Département de Ouallam</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tillabéri</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-6</ctml:parentRef>
+    <ctml:wikiDataId>Q912803</ctml:wikiDataId>
+    <ctml:latitude>14.63333000</ctml:latitude>
+    <ctml:longitude>2.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76708" kind="city">
+    <ctml:name>Département de Say</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tillabéri</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-6</ctml:parentRef>
+    <ctml:wikiDataId>Q1236539</ctml:wikiDataId>
+    <ctml:latitude>13.03579000</ctml:latitude>
+    <ctml:longitude>2.22112000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76715" kind="admin2">
+    <ctml:name>Filingué</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tillabéri</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-6</ctml:parentRef>
+    <ctml:wikiDataId>Q398476</ctml:wikiDataId>
+    <ctml:latitude>14.35210000</ctml:latitude>
+    <ctml:longitude>3.31680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76721" kind="admin2">
+    <ctml:name>Kollo</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tillabéri</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-6</ctml:parentRef>
+    <ctml:wikiDataId>Q912927</ctml:wikiDataId>
+    <ctml:latitude>13.30430000</ctml:latitude>
+    <ctml:longitude>2.33900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76722" kind="city">
+    <ctml:name>Kollo Department</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tillabéri</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-6</ctml:parentRef>
+    <ctml:wikiDataId>Q667343</ctml:wikiDataId>
+    <ctml:latitude>13.57600000</ctml:latitude>
+    <ctml:longitude>2.45200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76732" kind="admin2">
+    <ctml:name>Ouallam</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tillabéri</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-6</ctml:parentRef>
+    <ctml:wikiDataId>Q664550</ctml:wikiDataId>
+    <ctml:latitude>14.31641000</ctml:latitude>
+    <ctml:longitude>2.08597000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76733" kind="admin2">
+    <ctml:name>Say</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tillabéri</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-6</ctml:parentRef>
+    <ctml:wikiDataId>Q664550</ctml:wikiDataId>
+    <ctml:latitude>13.10070000</ctml:latitude>
+    <ctml:longitude>2.36890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76742" kind="admin2">
+    <ctml:name>Téra</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tillabéri</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-6</ctml:parentRef>
+    <ctml:wikiDataId>Q1538697</ctml:wikiDataId>
+    <ctml:latitude>14.00776000</ctml:latitude>
+    <ctml:longitude>0.75306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76737" kind="city">
+    <ctml:name>Tera Department</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Tillabéri</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-6</ctml:parentRef>
+    <ctml:wikiDataId>Q1538673</ctml:wikiDataId>
+    <ctml:latitude>14.18600000</ctml:latitude>
+    <ctml:longitude>0.84300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76699" kind="city">
+    <ctml:name>Département de Gouré</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Zinder</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-7</ctml:parentRef>
+    <ctml:wikiDataId>Q1538708</ctml:wikiDataId>
+    <ctml:latitude>14.01618000</ctml:latitude>
+    <ctml:longitude>10.14722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76700" kind="city">
+    <ctml:name>Département de Kantché</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Zinder</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-7</ctml:parentRef>
+    <ctml:wikiDataId>Q913147</ctml:wikiDataId>
+    <ctml:latitude>13.40000000</ctml:latitude>
+    <ctml:longitude>8.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76713" kind="city">
+    <ctml:name>Département de Tânout</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Zinder</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-7</ctml:parentRef>
+    <ctml:wikiDataId>Q913289</ctml:wikiDataId>
+    <ctml:latitude>14.75000000</ctml:latitude>
+    <ctml:longitude>8.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76717" kind="admin2">
+    <ctml:name>Gouré</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Zinder</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-7</ctml:parentRef>
+    <ctml:wikiDataId>Q766896</ctml:wikiDataId>
+    <ctml:latitude>13.98350000</ctml:latitude>
+    <ctml:longitude>10.27035000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76725" kind="admin2">
+    <ctml:name>Magaria</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Zinder</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-7</ctml:parentRef>
+    <ctml:wikiDataId>Q912554</ctml:wikiDataId>
+    <ctml:latitude>12.99826000</ctml:latitude>
+    <ctml:longitude>8.90991000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NER-76727" kind="city">
+    <ctml:name>Matamey</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Zinder</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-7</ctml:parentRef>
+    <ctml:wikiDataId>Q664550</ctml:wikiDataId>
+    <ctml:latitude>13.42309000</ctml:latitude>
+    <ctml:longitude>8.47485000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76730" kind="admin2">
+    <ctml:name>Mirriah</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Zinder</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-7</ctml:parentRef>
+    <ctml:wikiDataId>Q664550</ctml:wikiDataId>
+    <ctml:latitude>13.70727000</ctml:latitude>
+    <ctml:longitude>9.15013000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:NER-76735" kind="admin2">
+    <ctml:name>Tanout</ctml:name>
+    <ctml:country>NER</ctml:country>
+    <ctml:admin1>Zinder</ctml:admin1>
+    <ctml:parentRef>place:admin1:NE-7</ctml:parentRef>
+    <ctml:wikiDataId>Q664550</ctml:wikiDataId>
+    <ctml:latitude>14.97089000</ctml:latitude>
+    <ctml:longitude>8.88786000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BEN-9782" kind="city">
+    <ctml:name>Banikoara</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Alibori</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-AL</ctml:parentRef>
+    <ctml:wikiDataId>Q189685</ctml:wikiDataId>
+    <ctml:latitude>11.29845000</ctml:latitude>
+    <ctml:longitude>2.43856000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9803" kind="city">
+    <ctml:name>Malanville</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Alibori</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-AL</ctml:parentRef>
+    <ctml:wikiDataId>Q2337446</ctml:wikiDataId>
+    <ctml:latitude>11.86819000</ctml:latitude>
+    <ctml:longitude>3.38327000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9797" kind="city">
+    <ctml:name>Guilmaro</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Atakora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q3032740</ctml:wikiDataId>
+    <ctml:latitude>10.56583000</ctml:latitude>
+    <ctml:longitude>1.72444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9813" kind="city">
+    <ctml:name>Tanguieta</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Atakora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-AK</ctml:parentRef>
+    <ctml:wikiDataId>Q2269248</ctml:wikiDataId>
+    <ctml:latitude>11.03621000</ctml:latitude>
+    <ctml:longitude>1.41757000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9780" kind="city">
+    <ctml:name>Abomey-Calavi</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Atlantique</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-AQ</ctml:parentRef>
+    <ctml:wikiDataId>Q189685</ctml:wikiDataId>
+    <ctml:latitude>6.44852000</ctml:latitude>
+    <ctml:longitude>2.35566000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9799" kind="city">
+    <ctml:name>Hévié</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Atlantique</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-AQ</ctml:parentRef>
+    <ctml:wikiDataId>Q3032740</ctml:wikiDataId>
+    <ctml:latitude>6.41667000</ctml:latitude>
+    <ctml:longitude>2.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9798" kind="city">
+    <ctml:name>Hinvi</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Atlantique</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-AQ</ctml:parentRef>
+    <ctml:wikiDataId>Q3032740</ctml:wikiDataId>
+    <ctml:latitude>6.76667000</ctml:latitude>
+    <ctml:longitude>2.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9806" kind="city">
+    <ctml:name>Ouidah</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Atlantique</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-AQ</ctml:parentRef>
+    <ctml:wikiDataId>Q2337446</ctml:wikiDataId>
+    <ctml:latitude>6.36307000</ctml:latitude>
+    <ctml:longitude>2.08506000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9784" kind="city">
+    <ctml:name>Bembèrèkè</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Borgou</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q189685</ctml:wikiDataId>
+    <ctml:latitude>10.22827000</ctml:latitude>
+    <ctml:longitude>2.66335000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9786" kind="city">
+    <ctml:name>Bétérou</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Borgou</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q2756784</ctml:wikiDataId>
+    <ctml:latitude>9.19916000</ctml:latitude>
+    <ctml:longitude>2.25855000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9805" kind="city">
+    <ctml:name>Nikki</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Borgou</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q2337446</ctml:wikiDataId>
+    <ctml:latitude>9.94009000</ctml:latitude>
+    <ctml:longitude>3.21075000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9815" kind="city">
+    <ctml:name>Tchaourou</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Borgou</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q2269248</ctml:wikiDataId>
+    <ctml:latitude>8.88649000</ctml:latitude>
+    <ctml:longitude>2.59753000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9790" kind="city">
+    <ctml:name>Comé</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Collines</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q2682057</ctml:wikiDataId>
+    <ctml:latitude>6.40764000</ctml:latitude>
+    <ctml:longitude>1.88198000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9811" kind="city">
+    <ctml:name>Savalou</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Collines</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q3799</ctml:wikiDataId>
+    <ctml:latitude>7.92807000</ctml:latitude>
+    <ctml:longitude>1.97558000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9812" kind="city">
+    <ctml:name>Savé</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Collines</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q21788742</ctml:wikiDataId>
+    <ctml:latitude>8.03424000</ctml:latitude>
+    <ctml:longitude>2.48660000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9783" kind="city">
+    <ctml:name>Bassila</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Donga</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-DO</ctml:parentRef>
+    <ctml:wikiDataId>Q189685</ctml:wikiDataId>
+    <ctml:latitude>9.00814000</ctml:latitude>
+    <ctml:longitude>1.66540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9789" kind="city">
+    <ctml:name>Commune of Djougou</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Donga</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-DO</ctml:parentRef>
+    <ctml:wikiDataId>Q2682057</ctml:wikiDataId>
+    <ctml:latitude>9.64300000</ctml:latitude>
+    <ctml:longitude>1.89600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9794" kind="city">
+    <ctml:name>Djakotomey</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Kouffo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q3032740</ctml:wikiDataId>
+    <ctml:latitude>6.90000000</ctml:latitude>
+    <ctml:longitude>1.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BEN-9796" kind="admin2">
+    <ctml:name>Dogbo</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Kouffo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-KO</ctml:parentRef>
+    <ctml:wikiDataId>Q3032740</ctml:wikiDataId>
+    <ctml:latitude>6.79911000</ctml:latitude>
+    <ctml:longitude>1.78073000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9791" kind="city">
+    <ctml:name>Cotonou</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q43595</ctml:wikiDataId>
+    <ctml:latitude>6.36536000</ctml:latitude>
+    <ctml:longitude>2.41833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BEN-9788" kind="admin2">
+    <ctml:name>Commune of Athieme</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Mono</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q2682057</ctml:wikiDataId>
+    <ctml:latitude>6.56924000</ctml:latitude>
+    <ctml:longitude>1.70259000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9809" kind="city">
+    <ctml:name>Porto-Novo</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Ouémé</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q3799</ctml:wikiDataId>
+    <ctml:latitude>6.49646000</ctml:latitude>
+    <ctml:longitude>2.60359000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9801" kind="city">
+    <ctml:name>Kétou</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Plateau</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q3032740</ctml:wikiDataId>
+    <ctml:latitude>7.36332000</ctml:latitude>
+    <ctml:longitude>2.59978000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BEN-9808" kind="admin2">
+    <ctml:name>Pobé</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Plateau</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q2337446</ctml:wikiDataId>
+    <ctml:latitude>6.98008000</ctml:latitude>
+    <ctml:longitude>2.66490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9810" kind="city">
+    <ctml:name>Sakété</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Plateau</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q3799</ctml:wikiDataId>
+    <ctml:latitude>6.73618000</ctml:latitude>
+    <ctml:longitude>2.65866000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BEN-9785" kind="admin2">
+    <ctml:name>Bohicon</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Zou</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-ZO</ctml:parentRef>
+    <ctml:wikiDataId>Q189685</ctml:wikiDataId>
+    <ctml:latitude>7.17826000</ctml:latitude>
+    <ctml:longitude>2.06670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BEN-9792" kind="city">
+    <ctml:name>Cové</ctml:name>
+    <ctml:country>BEN</ctml:country>
+    <ctml:admin1>Zou</ctml:admin1>
+    <ctml:parentRef>place:admin1:BJ-ZO</ctml:parentRef>
+    <ctml:wikiDataId>Q43595</ctml:wikiDataId>
+    <ctml:latitude>7.22097000</ctml:latitude>
+    <ctml:longitude>2.34017000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

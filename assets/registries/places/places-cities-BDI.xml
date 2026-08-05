@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BDI-9767" kind="city">
+    <ctml:name>Gitega</ctml:name>
+    <ctml:country>BDI</ctml:country>
+    <ctml:admin1>Gitega</ctml:admin1>
+    <ctml:parentRef>place:admin1:BI-GI</ctml:parentRef>
+    <ctml:wikiDataId>Q746329</ctml:wikiDataId>
+    <ctml:latitude>-3.42708000</ctml:latitude>
+    <ctml:longitude>29.92463000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BDI-9772" kind="admin2">
+    <ctml:name>Muramvya</ctml:name>
+    <ctml:country>BDI</ctml:country>
+    <ctml:admin1>Muramvya</ctml:admin1>
+    <ctml:parentRef>place:admin1:BI-MU</ctml:parentRef>
+    <ctml:wikiDataId>Q557529</ctml:wikiDataId>
+    <ctml:latitude>-3.26820000</ctml:latitude>
+    <ctml:longitude>29.60790000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

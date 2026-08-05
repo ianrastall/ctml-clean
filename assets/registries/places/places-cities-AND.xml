@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:AND-1" kind="city">
+    <ctml:name>Andorra la Vella</ctml:name>
+    <ctml:country>AND</ctml:country>
+    <ctml:admin1>Andorra la Vella</ctml:admin1>
+    <ctml:parentRef>place:admin1:AD-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1863</ctml:wikiDataId>
+    <ctml:latitude>42.50779000</ctml:latitude>
+    <ctml:longitude>1.52109000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AND-4" kind="city">
+    <ctml:name>El Tarter</ctml:name>
+    <ctml:country>AND</ctml:country>
+    <ctml:admin1>Canillo</ctml:admin1>
+    <ctml:parentRef>place:admin1:AD-02</ctml:parentRef>
+    <ctml:wikiDataId>Q24413</ctml:wikiDataId>
+    <ctml:latitude>42.57952000</ctml:latitude>
+    <ctml:longitude>1.65362000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AND-7" kind="city">
+    <ctml:name>Pas de la Casa</ctml:name>
+    <ctml:country>AND</ctml:country>
+    <ctml:admin1>Encamp</ctml:admin1>
+    <ctml:parentRef>place:admin1:AD-03</ctml:parentRef>
+    <ctml:wikiDataId>Q24456</ctml:wikiDataId>
+    <ctml:latitude>42.54277000</ctml:latitude>
+    <ctml:longitude>1.73361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AND-2" kind="city">
+    <ctml:name>Arinsal</ctml:name>
+    <ctml:country>AND</ctml:country>
+    <ctml:admin1>La Massana</ctml:admin1>
+    <ctml:parentRef>place:admin1:AD-04</ctml:parentRef>
+    <ctml:wikiDataId>Q24554</ctml:wikiDataId>
+    <ctml:latitude>42.57205000</ctml:latitude>
+    <ctml:longitude>1.48453000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

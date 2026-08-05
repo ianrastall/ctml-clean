@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MRT-150074" kind="city">
+    <ctml:name>Azougui</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Adrar</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-07</ctml:parentRef>
+    <ctml:wikiDataId>Q639003</ctml:wikiDataId>
+    <ctml:latitude>20.56764000</ctml:latitude>
+    <ctml:longitude>-13.11191000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-67748" kind="city">
+    <ctml:name>Chingueṭṭi</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Adrar</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-07</ctml:parentRef>
+    <ctml:wikiDataId>Q312357</ctml:wikiDataId>
+    <ctml:latitude>20.46300000</ctml:latitude>
+    <ctml:longitude>-12.36200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150075" kind="city">
+    <ctml:name>Ksar el Khali</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Adrar</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-07</ctml:parentRef>
+    <ctml:wikiDataId>Q6440702</ctml:wikiDataId>
+    <ctml:latitude>20.93333333</ctml:latitude>
+    <ctml:longitude>-11.61666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-67747" kind="city">
+    <ctml:name>Barkéwol</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Assaba</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-03</ctml:parentRef>
+    <ctml:wikiDataId>Q735645</ctml:wikiDataId>
+    <ctml:latitude>16.64039000</ctml:latitude>
+    <ctml:longitude>-12.49849000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-67757" kind="city">
+    <ctml:name>’Elb el Jmel</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Brakna</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-05</ctml:parentRef>
+    <ctml:wikiDataId>Q227072</ctml:wikiDataId>
+    <ctml:latitude>17.01050000</ctml:latitude>
+    <ctml:longitude>-13.97102000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150071" kind="city">
+    <ctml:name>Bofal</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Brakna</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-05</ctml:parentRef>
+    <ctml:wikiDataId>Q4937271</ctml:wikiDataId>
+    <ctml:latitude>16.41666667</ctml:latitude>
+    <ctml:longitude>-13.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150072" kind="city">
+    <ctml:name>Sori Malé</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Brakna</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3281053</ctml:wikiDataId>
+    <ctml:latitude>16.95416667</ctml:latitude>
+    <ctml:longitude>-13.37916667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150076" kind="city">
+    <ctml:name>Cansado</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Dakhlet Nouadhibou</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2936539</ctml:wikiDataId>
+    <ctml:latitude>20.85333333</ctml:latitude>
+    <ctml:longitude>-17.03250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150077" kind="city">
+    <ctml:name>Iouik</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Dakhlet Nouadhibou</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-08</ctml:parentRef>
+    <ctml:wikiDataId>Q6064166</ctml:wikiDataId>
+    <ctml:latitude>19.84944444</ctml:latitude>
+    <ctml:longitude>-16.33083333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150066" kind="city">
+    <ctml:name>Diade</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Hodh Ech Chargui</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-01</ctml:parentRef>
+    <ctml:wikiDataId>Q5270265</ctml:wikiDataId>
+    <ctml:latitude>16.23333333</ctml:latitude>
+    <ctml:longitude>-7.41666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150067" kind="city">
+    <ctml:name>Kataouane</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Hodh Ech Chargui</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-01</ctml:parentRef>
+    <ctml:wikiDataId>Q6375118</ctml:wikiDataId>
+    <ctml:latitude>16.06888889</ctml:latitude>
+    <ctml:longitude>-6.49888889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150068" kind="city">
+    <ctml:name>Timbedra</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Hodh Ech Chargui</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-01</ctml:parentRef>
+    <ctml:wikiDataId>Q986057</ctml:wikiDataId>
+    <ctml:latitude>16.24472222</ctml:latitude>
+    <ctml:longitude>-8.16750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-67743" kind="city">
+    <ctml:name>Aioun</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Hodh El Gharbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-02</ctml:parentRef>
+    <ctml:wikiDataId>Q175596</ctml:wikiDataId>
+    <ctml:latitude>16.66140000</ctml:latitude>
+    <ctml:longitude>-9.61490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150070" kind="city">
+    <ctml:name>Togba</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Hodh El Gharbi</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-02</ctml:parentRef>
+    <ctml:wikiDataId>Q7813050</ctml:wikiDataId>
+    <ctml:latitude>17.40000000</ctml:latitude>
+    <ctml:longitude>-10.36666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150082" kind="city">
+    <ctml:name>Ksar</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Nouakchott-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-13</ctml:parentRef>
+    <ctml:wikiDataId>Q3200125</ctml:wikiDataId>
+    <ctml:latitude>18.10490330</ctml:latitude>
+    <ctml:longitude>-15.96443370</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150083" kind="city">
+    <ctml:name>Sebkha</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Nouakchott-Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-13</ctml:parentRef>
+    <ctml:wikiDataId>Q891950</ctml:wikiDataId>
+    <ctml:latitude>18.07555556</ctml:latitude>
+    <ctml:longitude>-16.00194444</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-153945" kind="city">
+    <ctml:name>Moudjeria</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Tagant</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-09</ctml:parentRef>
+    <ctml:wikiDataId>Q27754054</ctml:wikiDataId>
+    <ctml:latitude>17.97955140</ctml:latitude>
+    <ctml:longitude>-13.39795340</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-153946" kind="city">
+    <ctml:name>Tichit</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Tagant</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-09</ctml:parentRef>
+    <ctml:wikiDataId>Q27754058</ctml:wikiDataId>
+    <ctml:latitude>18.49686260</ctml:latitude>
+    <ctml:longitude>-12.12199350</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-153947" kind="city">
+    <ctml:name>Tijigja</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Tagant</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-09</ctml:parentRef>
+    <ctml:wikiDataId>Q27754129</ctml:wikiDataId>
+    <ctml:latitude>18.51647870</ctml:latitude>
+    <ctml:longitude>-12.98264760</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150078" kind="city">
+    <ctml:name>Ain Ben Tili</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Tiris Zemmour</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2828130</ctml:wikiDataId>
+    <ctml:latitude>25.99444444</ctml:latitude>
+    <ctml:longitude>-9.55333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150079" kind="city">
+    <ctml:name>Chegga</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Tiris Zemmour</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3498088</ctml:wikiDataId>
+    <ctml:latitude>25.37194444</ctml:latitude>
+    <ctml:longitude>-5.78666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150080" kind="city">
+    <ctml:name>Fderîck</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Tiris Zemmour</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-11</ctml:parentRef>
+    <ctml:wikiDataId>Q113034</ctml:wikiDataId>
+    <ctml:latitude>22.67777778</ctml:latitude>
+    <ctml:longitude>-12.70750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-150073" kind="city">
+    <ctml:name>Legat</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Trarza</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-06</ctml:parentRef>
+    <ctml:wikiDataId>Q6517678</ctml:wikiDataId>
+    <ctml:latitude>16.75000000</ctml:latitude>
+    <ctml:longitude>-14.83333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MRT-67755" kind="city">
+    <ctml:name>Tékane</ctml:name>
+    <ctml:country>MRT</ctml:country>
+    <ctml:admin1>Trarza</ctml:admin1>
+    <ctml:parentRef>place:admin1:MR-06</ctml:parentRef>
+    <ctml:wikiDataId>Q861580</ctml:wikiDataId>
+    <ctml:latitude>16.60175000</ctml:latitude>
+    <ctml:longitude>-15.34866000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

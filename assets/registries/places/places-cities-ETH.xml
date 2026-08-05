@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ETH-38587" kind="city">
+    <ctml:name>Addis Ababa</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Addis Ababa</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AA</ctml:parentRef>
+    <ctml:wikiDataId>Q3624</ctml:wikiDataId>
+    <ctml:latitude>9.02497000</ctml:latitude>
+    <ctml:longitude>38.74689000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38589" kind="city">
+    <ctml:name>Administrative Zone 2</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Afar</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AF</ctml:parentRef>
+    <ctml:wikiDataId>Q3444683</ctml:wikiDataId>
+    <ctml:latitude>13.68513000</ctml:latitude>
+    <ctml:longitude>40.05615000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38590" kind="city">
+    <ctml:name>Administrative Zone 3</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Afar</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AF</ctml:parentRef>
+    <ctml:wikiDataId>Q3444674</ctml:wikiDataId>
+    <ctml:latitude>10.00902000</ctml:latitude>
+    <ctml:longitude>40.47394000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38595" kind="city">
+    <ctml:name>Asaita</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Afar</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AF</ctml:parentRef>
+    <ctml:wikiDataId>Q720557</ctml:wikiDataId>
+    <ctml:latitude>11.56838000</ctml:latitude>
+    <ctml:longitude>41.43869000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38729" kind="city">
+    <ctml:name>Āwash</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Afar</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AF</ctml:parentRef>
+    <ctml:wikiDataId>Q791636</ctml:wikiDataId>
+    <ctml:latitude>8.98333000</ctml:latitude>
+    <ctml:longitude>40.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38624" kind="city">
+    <ctml:name>Dubti</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Afar</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AF</ctml:parentRef>
+    <ctml:wikiDataId>Q3033674</ctml:wikiDataId>
+    <ctml:latitude>11.73292000</ctml:latitude>
+    <ctml:longitude>41.08200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38637" kind="city">
+    <ctml:name>Gewanē</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Afar</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AF</ctml:parentRef>
+    <ctml:wikiDataId>Q585723</ctml:wikiDataId>
+    <ctml:latitude>10.16658000</ctml:latitude>
+    <ctml:longitude>40.64689000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38585" kind="city">
+    <ctml:name>Abomsa</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q329984</ctml:wikiDataId>
+    <ctml:latitude>9.98333000</ctml:latitude>
+    <ctml:longitude>39.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38586" kind="city">
+    <ctml:name>Addiet Canna</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q2824323</ctml:wikiDataId>
+    <ctml:latitude>11.26667000</ctml:latitude>
+    <ctml:longitude>37.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38722" kind="city">
+    <ctml:name>Ādīs Zemen</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q2472273</ctml:wikiDataId>
+    <ctml:latitude>12.11667000</ctml:latitude>
+    <ctml:longitude>37.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38600" kind="city">
+    <ctml:name>Batī</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q2891356</ctml:wikiDataId>
+    <ctml:latitude>11.19152000</ctml:latitude>
+    <ctml:longitude>40.01675000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38604" kind="city">
+    <ctml:name>Bichena</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q2901625</ctml:wikiDataId>
+    <ctml:latitude>10.45000000</ctml:latitude>
+    <ctml:longitude>38.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38608" kind="city">
+    <ctml:name>Burē</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q2928324</ctml:wikiDataId>
+    <ctml:latitude>10.70000000</ctml:latitude>
+    <ctml:longitude>37.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38610" kind="city">
+    <ctml:name>Dabat</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q5207434</ctml:wikiDataId>
+    <ctml:latitude>12.98417000</ctml:latitude>
+    <ctml:longitude>37.76500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38611" kind="city">
+    <ctml:name>Debark’</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q1067464</ctml:wikiDataId>
+    <ctml:latitude>13.15611000</ctml:latitude>
+    <ctml:longitude>37.89806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38612" kind="city">
+    <ctml:name>Debre Birhan</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q1181637</ctml:wikiDataId>
+    <ctml:latitude>9.67954000</ctml:latitude>
+    <ctml:longitude>39.53262000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38613" kind="city">
+    <ctml:name>Debre Mark’os</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q1024659</ctml:wikiDataId>
+    <ctml:latitude>10.35000000</ctml:latitude>
+    <ctml:longitude>37.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38614" kind="city">
+    <ctml:name>Debre Sīna</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q1024659</ctml:wikiDataId>
+    <ctml:latitude>9.84752000</ctml:latitude>
+    <ctml:longitude>39.76027000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38615" kind="city">
+    <ctml:name>Debre Tabor</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q163619</ctml:wikiDataId>
+    <ctml:latitude>11.85000000</ctml:latitude>
+    <ctml:longitude>38.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38616" kind="city">
+    <ctml:name>Debre Werk’</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q163619</ctml:wikiDataId>
+    <ctml:latitude>10.66667000</ctml:latitude>
+    <ctml:longitude>38.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38619" kind="city">
+    <ctml:name>Dejen</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q5252725</ctml:wikiDataId>
+    <ctml:latitude>10.16667000</ctml:latitude>
+    <ctml:longitude>38.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38621" kind="city">
+    <ctml:name>Desē</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q755752</ctml:wikiDataId>
+    <ctml:latitude>11.13333000</ctml:latitude>
+    <ctml:longitude>39.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38631" kind="city">
+    <ctml:name>Finote Selam</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q2354276</ctml:wikiDataId>
+    <ctml:latitude>10.70000000</ctml:latitude>
+    <ctml:longitude>37.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38642" kind="city">
+    <ctml:name>Gondar</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q218861</ctml:wikiDataId>
+    <ctml:latitude>12.60000000</ctml:latitude>
+    <ctml:longitude>37.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38664" kind="city">
+    <ctml:name>Kemisē</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q3194972</ctml:wikiDataId>
+    <ctml:latitude>10.71668000</ctml:latitude>
+    <ctml:longitude>39.86997000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38667" kind="city">
+    <ctml:name>Kombolcha</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q222420</ctml:wikiDataId>
+    <ctml:latitude>11.08155000</ctml:latitude>
+    <ctml:longitude>39.74339000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38671" kind="city">
+    <ctml:name>Lalībela</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q207590</ctml:wikiDataId>
+    <ctml:latitude>12.03219000</ctml:latitude>
+    <ctml:longitude>39.04756000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38686" kind="city">
+    <ctml:name>North Shewa Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q1070780</ctml:wikiDataId>
+    <ctml:latitude>9.76900000</ctml:latitude>
+    <ctml:longitude>39.66800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38688" kind="city">
+    <ctml:name>North Wollo Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q2916300</ctml:wikiDataId>
+    <ctml:latitude>11.92000000</ctml:latitude>
+    <ctml:longitude>39.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38689" kind="city">
+    <ctml:name>Robīt</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q2916300</ctml:wikiDataId>
+    <ctml:latitude>12.01667000</ctml:latitude>
+    <ctml:longitude>39.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38701" kind="city">
+    <ctml:name>South Gondar Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q1070727</ctml:wikiDataId>
+    <ctml:latitude>11.83850000</ctml:latitude>
+    <ctml:longitude>38.09954000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38702" kind="city">
+    <ctml:name>South Wollo Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q2919962</ctml:wikiDataId>
+    <ctml:latitude>11.00000000</ctml:latitude>
+    <ctml:longitude>39.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38708" kind="city">
+    <ctml:name>Wag Hemra Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q1070687</ctml:wikiDataId>
+    <ctml:latitude>12.76500000</ctml:latitude>
+    <ctml:longitude>38.84300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38712" kind="city">
+    <ctml:name>Were Īlu</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q3567301</ctml:wikiDataId>
+    <ctml:latitude>10.58964000</ctml:latitude>
+    <ctml:longitude>39.43767000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38713" kind="city">
+    <ctml:name>Werota</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Amhara</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-AM</ctml:parentRef>
+    <ctml:wikiDataId>Q3567308</ctml:wikiDataId>
+    <ctml:latitude>11.91667000</ctml:latitude>
+    <ctml:longitude>37.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38679" kind="city">
+    <ctml:name>Metekel</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Benishangul-Gumuz</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q742955</ctml:wikiDataId>
+    <ctml:latitude>10.42673000</ctml:latitude>
+    <ctml:longitude>35.71975000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38588" kind="city">
+    <ctml:name>Administrative Zone 1</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Gambela</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-GA</ctml:parentRef>
+    <ctml:wikiDataId>Q3575755</ctml:wikiDataId>
+    <ctml:latitude>8.14699000</ctml:latitude>
+    <ctml:longitude>33.97335000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38723" kind="city">
+    <ctml:name>Ādīs ‘Alem</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q353038</ctml:wikiDataId>
+    <ctml:latitude>9.03333000</ctml:latitude>
+    <ctml:longitude>38.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38724" kind="city">
+    <ctml:name>Āgaro</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q1110037</ctml:wikiDataId>
+    <ctml:latitude>7.85000000</ctml:latitude>
+    <ctml:longitude>36.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38594" kind="city">
+    <ctml:name>Arsi Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q646859</ctml:wikiDataId>
+    <ctml:latitude>7.50000000</ctml:latitude>
+    <ctml:longitude>39.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38726" kind="city">
+    <ctml:name>Āsasa</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q2866322</ctml:wikiDataId>
+    <ctml:latitude>7.10000000</ctml:latitude>
+    <ctml:longitude>39.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38727" kind="city">
+    <ctml:name>Āsbe Teferī</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q764231</ctml:wikiDataId>
+    <ctml:latitude>9.08569000</ctml:latitude>
+    <ctml:longitude>40.86708000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38601" kind="city">
+    <ctml:name>Bedelē</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q2893561</ctml:wikiDataId>
+    <ctml:latitude>8.45600000</ctml:latitude>
+    <ctml:longitude>36.35302000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38602" kind="city">
+    <ctml:name>Bedēsa</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q2893571</ctml:wikiDataId>
+    <ctml:latitude>8.90000000</ctml:latitude>
+    <ctml:longitude>40.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38605" kind="city">
+    <ctml:name>Bishoftu</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q740499</ctml:wikiDataId>
+    <ctml:latitude>8.75225000</ctml:latitude>
+    <ctml:longitude>38.97846000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38617" kind="city">
+    <ctml:name>Deder</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q163619</ctml:wikiDataId>
+    <ctml:latitude>9.31168000</ctml:latitude>
+    <ctml:longitude>41.44301000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38620" kind="city">
+    <ctml:name>Dembī Dolo</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q2563156</ctml:wikiDataId>
+    <ctml:latitude>8.53333000</ctml:latitude>
+    <ctml:longitude>34.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38623" kind="city">
+    <ctml:name>Dodola</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3033674</ctml:wikiDataId>
+    <ctml:latitude>6.98333000</ctml:latitude>
+    <ctml:longitude>39.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38626" kind="city">
+    <ctml:name>East Harerghe Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3113831</ctml:wikiDataId>
+    <ctml:latitude>8.70114000</ctml:latitude>
+    <ctml:longitude>42.00241000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38627" kind="city">
+    <ctml:name>East Shewa Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q1109846</ctml:wikiDataId>
+    <ctml:latitude>8.21353000</ctml:latitude>
+    <ctml:longitude>38.84809000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38628" kind="city">
+    <ctml:name>East Wellega Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q1109870</ctml:wikiDataId>
+    <ctml:latitude>9.51928000</ctml:latitude>
+    <ctml:longitude>36.75762000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38630" kind="city">
+    <ctml:name>Fichē</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3073074</ctml:wikiDataId>
+    <ctml:latitude>9.80000000</ctml:latitude>
+    <ctml:longitude>38.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38633" kind="city">
+    <ctml:name>Gebre Guracha</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3100037</ctml:wikiDataId>
+    <ctml:latitude>9.80000000</ctml:latitude>
+    <ctml:longitude>38.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38646" kind="city">
+    <ctml:name>Gēdo</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q1070678</ctml:wikiDataId>
+    <ctml:latitude>9.01667000</ctml:latitude>
+    <ctml:longitude>37.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38635" kind="city">
+    <ctml:name>Gelemso</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3100278</ctml:wikiDataId>
+    <ctml:latitude>8.81667000</ctml:latitude>
+    <ctml:longitude>40.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38636" kind="city">
+    <ctml:name>Genet</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3139315</ctml:wikiDataId>
+    <ctml:latitude>9.06667000</ctml:latitude>
+    <ctml:longitude>38.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38638" kind="city">
+    <ctml:name>Gimbi</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q987235</ctml:wikiDataId>
+    <ctml:latitude>9.17031000</ctml:latitude>
+    <ctml:longitude>35.83491000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38639" kind="city">
+    <ctml:name>Ginir</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3106775</ctml:wikiDataId>
+    <ctml:latitude>7.13952000</ctml:latitude>
+    <ctml:longitude>40.71083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38640" kind="city">
+    <ctml:name>Goba</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q745871</ctml:wikiDataId>
+    <ctml:latitude>7.01667000</ctml:latitude>
+    <ctml:longitude>39.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38643" kind="city">
+    <ctml:name>Gorē</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3110215</ctml:wikiDataId>
+    <ctml:latitude>8.15000000</ctml:latitude>
+    <ctml:longitude>35.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38644" kind="city">
+    <ctml:name>Guji Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q5617057</ctml:wikiDataId>
+    <ctml:latitude>5.58800000</ctml:latitude>
+    <ctml:longitude>39.06700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38654" kind="city">
+    <ctml:name>Hāgere Hiywet</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q1266796</ctml:wikiDataId>
+    <ctml:latitude>8.98333000</ctml:latitude>
+    <ctml:longitude>37.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38649" kind="city">
+    <ctml:name>Hagere Maryam</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3125692</ctml:wikiDataId>
+    <ctml:latitude>5.63418000</ctml:latitude>
+    <ctml:longitude>38.23603000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38656" kind="city">
+    <ctml:name>Hīrna</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q5769883</ctml:wikiDataId>
+    <ctml:latitude>9.21667000</ctml:latitude>
+    <ctml:longitude>41.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38653" kind="city">
+    <ctml:name>Huruta</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3143438</ctml:wikiDataId>
+    <ctml:latitude>8.15000000</ctml:latitude>
+    <ctml:longitude>39.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38657" kind="city">
+    <ctml:name>Illubabor Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q768586</ctml:wikiDataId>
+    <ctml:latitude>8.27526000</ctml:latitude>
+    <ctml:longitude>35.75596000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38660" kind="city">
+    <ctml:name>Jimma</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q385341</ctml:wikiDataId>
+    <ctml:latitude>7.67344000</ctml:latitude>
+    <ctml:longitude>36.83441000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38661" kind="city">
+    <ctml:name>Jimma Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q1109877</ctml:wikiDataId>
+    <ctml:latitude>7.66667000</ctml:latitude>
+    <ctml:longitude>37.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38665" kind="city">
+    <ctml:name>Kibre Mengist</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3194972</ctml:wikiDataId>
+    <ctml:latitude>5.88333000</ctml:latitude>
+    <ctml:longitude>38.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38666" kind="city">
+    <ctml:name>Kofelē</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q934205</ctml:wikiDataId>
+    <ctml:latitude>7.06667000</ctml:latitude>
+    <ctml:longitude>38.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38682" kind="city">
+    <ctml:name>Mēga</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3304215</ctml:wikiDataId>
+    <ctml:latitude>4.05000000</ctml:latitude>
+    <ctml:longitude>38.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38677" kind="city">
+    <ctml:name>Mendī</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3305771</ctml:wikiDataId>
+    <ctml:latitude>9.80000000</ctml:latitude>
+    <ctml:longitude>35.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38678" kind="city">
+    <ctml:name>Metahāra</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3305771</ctml:wikiDataId>
+    <ctml:latitude>8.90000000</ctml:latitude>
+    <ctml:longitude>39.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38680" kind="city">
+    <ctml:name>Metu</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q742955</ctml:wikiDataId>
+    <ctml:latitude>8.30000000</ctml:latitude>
+    <ctml:longitude>35.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38681" kind="city">
+    <ctml:name>Mojo</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3319332</ctml:wikiDataId>
+    <ctml:latitude>8.58679000</ctml:latitude>
+    <ctml:longitude>39.12111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38684" kind="city">
+    <ctml:name>Nazrēt</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3317332</ctml:wikiDataId>
+    <ctml:latitude>8.55000000</ctml:latitude>
+    <ctml:longitude>39.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38685" kind="city">
+    <ctml:name>Nejo</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3337871</ctml:wikiDataId>
+    <ctml:latitude>9.50000000</ctml:latitude>
+    <ctml:longitude>35.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38687" kind="city">
+    <ctml:name>North Shewa Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3478428</ctml:wikiDataId>
+    <ctml:latitude>9.66915000</ctml:latitude>
+    <ctml:longitude>38.81240000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38690" kind="city">
+    <ctml:name>Sebeta</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3476942</ctml:wikiDataId>
+    <ctml:latitude>8.91667000</ctml:latitude>
+    <ctml:longitude>38.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38692" kind="city">
+    <ctml:name>Sendafa</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3478522</ctml:wikiDataId>
+    <ctml:latitude>9.15203000</ctml:latitude>
+    <ctml:longitude>39.02335000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38693" kind="city">
+    <ctml:name>Shakiso</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3481278</ctml:wikiDataId>
+    <ctml:latitude>5.76494000</ctml:latitude>
+    <ctml:longitude>38.91006000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38694" kind="city">
+    <ctml:name>Shambu</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3481302</ctml:wikiDataId>
+    <ctml:latitude>9.56667000</ctml:latitude>
+    <ctml:longitude>37.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38695" kind="city">
+    <ctml:name>Shashemenē</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q731020</ctml:wikiDataId>
+    <ctml:latitude>7.20000000</ctml:latitude>
+    <ctml:longitude>38.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38699" kind="city">
+    <ctml:name>Sirre</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q1070673</ctml:wikiDataId>
+    <ctml:latitude>8.31667000</ctml:latitude>
+    <ctml:longitude>39.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38706" kind="city">
+    <ctml:name>Tulu Bolo</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q4465171</ctml:wikiDataId>
+    <ctml:latitude>8.66667000</ctml:latitude>
+    <ctml:longitude>38.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38709" kind="city">
+    <ctml:name>Waliso</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3565377</ctml:wikiDataId>
+    <ctml:latitude>8.53417000</ctml:latitude>
+    <ctml:longitude>37.96515000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38711" kind="city">
+    <ctml:name>Wenjī</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q3565377</ctml:wikiDataId>
+    <ctml:latitude>8.45000000</ctml:latitude>
+    <ctml:longitude>39.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38714" kind="city">
+    <ctml:name>West Harerghe Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q1109889</ctml:wikiDataId>
+    <ctml:latitude>8.67245000</ctml:latitude>
+    <ctml:longitude>40.84885000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38715" kind="city">
+    <ctml:name>West Wellega Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q1709377</ctml:wikiDataId>
+    <ctml:latitude>9.17283000</ctml:latitude>
+    <ctml:longitude>35.05279000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38717" kind="city">
+    <ctml:name>Yabēlo</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q1067172</ctml:wikiDataId>
+    <ctml:latitude>4.88333000</ctml:latitude>
+    <ctml:longitude>38.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38720" kind="city">
+    <ctml:name>Ziway</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Oromia</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-OR</ctml:parentRef>
+    <ctml:wikiDataId>Q2570767</ctml:wikiDataId>
+    <ctml:latitude>7.93333000</ctml:latitude>
+    <ctml:longitude>38.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38625" kind="city">
+    <ctml:name>Dīla</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Sidama</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q3033674</ctml:wikiDataId>
+    <ctml:latitude>6.41667000</ctml:latitude>
+    <ctml:longitude>38.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38655" kind="city">
+    <ctml:name>Hāgere Selam</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Sidama</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q3125693</ctml:wikiDataId>
+    <ctml:latitude>6.48333000</ctml:latitude>
+    <ctml:longitude>38.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38651" kind="city">
+    <ctml:name>Hawassa</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Sidama</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q755765</ctml:wikiDataId>
+    <ctml:latitude>7.06205000</ctml:latitude>
+    <ctml:longitude>38.47635000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38672" kind="city">
+    <ctml:name>Leku</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Sidama</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q207590</ctml:wikiDataId>
+    <ctml:latitude>6.87309000</ctml:latitude>
+    <ctml:longitude>38.44425000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38698" kind="city">
+    <ctml:name>Sidama Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Sidama</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q1070673</ctml:wikiDataId>
+    <ctml:latitude>6.71800000</ctml:latitude>
+    <ctml:longitude>38.44800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38710" kind="city">
+    <ctml:name>Wendo</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Sidama</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q3565377</ctml:wikiDataId>
+    <ctml:latitude>6.60000000</ctml:latitude>
+    <ctml:longitude>38.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38719" kind="city">
+    <ctml:name>Yirga ‘Alem</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Sidama</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SI</ctml:parentRef>
+    <ctml:wikiDataId>Q2189137</ctml:wikiDataId>
+    <ctml:latitude>6.75000000</ctml:latitude>
+    <ctml:longitude>38.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38591" kind="city">
+    <ctml:name>Afder Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Somali</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q382135</ctml:wikiDataId>
+    <ctml:latitude>5.25000000</ctml:latitude>
+    <ctml:longitude>43.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38618" kind="city">
+    <ctml:name>Degehabur Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Somali</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q1182808</ctml:wikiDataId>
+    <ctml:latitude>8.25000000</ctml:latitude>
+    <ctml:longitude>43.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38641" kind="city">
+    <ctml:name>Gode Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Somali</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q1435849</ctml:wikiDataId>
+    <ctml:latitude>6.00000000</ctml:latitude>
+    <ctml:longitude>43.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38673" kind="city">
+    <ctml:name>Liben zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Somali</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q1822845</ctml:wikiDataId>
+    <ctml:latitude>4.75000000</ctml:latitude>
+    <ctml:longitude>40.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38697" kind="city">
+    <ctml:name>Shinile Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Somali</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SO</ctml:parentRef>
+    <ctml:wikiDataId>Q2279103</ctml:wikiDataId>
+    <ctml:latitude>10.17097000</ctml:latitude>
+    <ctml:longitude>41.83748000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38592" kind="city">
+    <ctml:name>Alaba Special Wereda</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q2829448</ctml:wikiDataId>
+    <ctml:latitude>7.45347000</ctml:latitude>
+    <ctml:longitude>38.21189000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38593" kind="city">
+    <ctml:name>Arba Minch</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q626861</ctml:wikiDataId>
+    <ctml:latitude>6.03333000</ctml:latitude>
+    <ctml:longitude>37.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38725" kind="city">
+    <ctml:name>Āreka</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q4788771</ctml:wikiDataId>
+    <ctml:latitude>7.06667000</ctml:latitude>
+    <ctml:longitude>37.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38599" kind="city">
+    <ctml:name>Bako</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q464699</ctml:wikiDataId>
+    <ctml:latitude>5.78333000</ctml:latitude>
+    <ctml:longitude>36.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38606" kind="city">
+    <ctml:name>Bodītī</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q965112</ctml:wikiDataId>
+    <ctml:latitude>6.96667000</ctml:latitude>
+    <ctml:longitude>37.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38609" kind="city">
+    <ctml:name>Butajīra</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q2928812</ctml:wikiDataId>
+    <ctml:latitude>8.11667000</ctml:latitude>
+    <ctml:longitude>38.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38629" kind="city">
+    <ctml:name>Felege Neway</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q1109870</ctml:wikiDataId>
+    <ctml:latitude>6.30000000</ctml:latitude>
+    <ctml:longitude>36.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38634" kind="city">
+    <ctml:name>Gedeo Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q500213</ctml:wikiDataId>
+    <ctml:latitude>6.12727000</ctml:latitude>
+    <ctml:longitude>38.27716000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38647" kind="city">
+    <ctml:name>Gīdolē</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q3105416</ctml:wikiDataId>
+    <ctml:latitude>5.65000000</ctml:latitude>
+    <ctml:longitude>37.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38645" kind="city">
+    <ctml:name>Guraghe Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q1070678</ctml:wikiDataId>
+    <ctml:latitude>8.25000000</ctml:latitude>
+    <ctml:longitude>38.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38648" kind="city">
+    <ctml:name>Hadiya Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q3125547</ctml:wikiDataId>
+    <ctml:latitude>7.50000000</ctml:latitude>
+    <ctml:longitude>37.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38662" kind="city">
+    <ctml:name>Jinka</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q3110186</ctml:wikiDataId>
+    <ctml:latitude>5.65000000</ctml:latitude>
+    <ctml:longitude>36.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38670" kind="city">
+    <ctml:name>K’olīto</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q3198925</ctml:wikiDataId>
+    <ctml:latitude>7.31667000</ctml:latitude>
+    <ctml:longitude>38.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38663" kind="city">
+    <ctml:name>Kembata Alaba Tembaro Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q3194972</ctml:wikiDataId>
+    <ctml:latitude>7.27039000</ctml:latitude>
+    <ctml:longitude>37.77887000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38668" kind="city">
+    <ctml:name>Konso</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q575352</ctml:wikiDataId>
+    <ctml:latitude>5.25000000</ctml:latitude>
+    <ctml:longitude>37.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38674" kind="city">
+    <ctml:name>Lobuni</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q1822845</ctml:wikiDataId>
+    <ctml:latitude>4.83333000</ctml:latitude>
+    <ctml:longitude>36.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38707" kind="city">
+    <ctml:name>Turmi</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q991408</ctml:wikiDataId>
+    <ctml:latitude>4.96667000</ctml:latitude>
+    <ctml:longitude>36.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38716" kind="city">
+    <ctml:name>Wolayita Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q8029709</ctml:wikiDataId>
+    <ctml:latitude>6.84312000</ctml:latitude>
+    <ctml:longitude>37.70051000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38718" kind="city">
+    <ctml:name>Yem</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southern Nations, Nationalities, and Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SN</ctml:parentRef>
+    <ctml:wikiDataId>Q1067172</ctml:wikiDataId>
+    <ctml:latitude>7.83333000</ctml:latitude>
+    <ctml:longitude>37.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38603" kind="city">
+    <ctml:name>Bench Maji Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southwest Ethiopia Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q2895686</ctml:wikiDataId>
+    <ctml:latitude>6.45994000</ctml:latitude>
+    <ctml:longitude>35.30549000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38683" kind="city">
+    <ctml:name>Mīzan Teferī</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southwest Ethiopia Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q3317332</ctml:wikiDataId>
+    <ctml:latitude>6.99865000</ctml:latitude>
+    <ctml:longitude>35.58879000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38696" kind="city">
+    <ctml:name>Sheka Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southwest Ethiopia Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q7493221</ctml:wikiDataId>
+    <ctml:latitude>7.56166000</ctml:latitude>
+    <ctml:longitude>35.40174000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38705" kind="city">
+    <ctml:name>Tippi</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Southwest Ethiopia Peoples</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q1067163</ctml:wikiDataId>
+    <ctml:latitude>7.20000000</ctml:latitude>
+    <ctml:longitude>35.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38721" kind="city">
+    <ctml:name>Ādīgrat</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Tigray</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-TI</ctml:parentRef>
+    <ctml:wikiDataId>Q357101</ctml:wikiDataId>
+    <ctml:latitude>14.27700000</ctml:latitude>
+    <ctml:longitude>39.46200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38597" kind="city">
+    <ctml:name>Axum</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Tigray</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-TI</ctml:parentRef>
+    <ctml:wikiDataId>Q5832</ctml:wikiDataId>
+    <ctml:latitude>14.12109000</ctml:latitude>
+    <ctml:longitude>38.72337000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38658" kind="city">
+    <ctml:name>Inda Silasē</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Tigray</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-TI</ctml:parentRef>
+    <ctml:wikiDataId>Q743859</ctml:wikiDataId>
+    <ctml:latitude>14.10307000</ctml:latitude>
+    <ctml:longitude>38.28289000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38669" kind="city">
+    <ctml:name>Korem</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Tigray</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-TI</ctml:parentRef>
+    <ctml:wikiDataId>Q3198925</ctml:wikiDataId>
+    <ctml:latitude>12.50583000</ctml:latitude>
+    <ctml:longitude>39.52278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38675" kind="city">
+    <ctml:name>Maych’ew</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Tigray</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-TI</ctml:parentRef>
+    <ctml:wikiDataId>Q3111786</ctml:wikiDataId>
+    <ctml:latitude>12.78750000</ctml:latitude>
+    <ctml:longitude>39.54222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38703" kind="city">
+    <ctml:name>Southeastern Tigray Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Tigray</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-TI</ctml:parentRef>
+    <ctml:wikiDataId>Q2919962</ctml:wikiDataId>
+    <ctml:latitude>13.24797000</ctml:latitude>
+    <ctml:longitude>39.53156000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ETH-38704" kind="city">
+    <ctml:name>Southern Tigray Zone</ctml:name>
+    <ctml:country>ETH</ctml:country>
+    <ctml:admin1>Tigray</ctml:admin1>
+    <ctml:parentRef>place:admin1:ET-TI</ctml:parentRef>
+    <ctml:wikiDataId>Q3020955</ctml:wikiDataId>
+    <ctml:latitude>12.96033000</ctml:latitude>
+    <ctml:longitude>39.52831000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

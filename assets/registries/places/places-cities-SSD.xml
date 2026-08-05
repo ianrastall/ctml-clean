@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SSD-104834" kind="city">
+    <ctml:name>Yirol</ctml:name>
+    <ctml:country>SSD</ctml:country>
+    <ctml:admin1>Lakes</ctml:admin1>
+    <ctml:parentRef>place:admin1:SS-LK</ctml:parentRef>
+    <ctml:wikiDataId>Q3132425</ctml:wikiDataId>
+    <ctml:latitude>6.55250000</ctml:latitude>
+    <ctml:longitude>30.49806000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

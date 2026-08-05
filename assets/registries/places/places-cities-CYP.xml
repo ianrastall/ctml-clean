@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:CYP-22011" kind="city">
+    <ctml:name>Acherítou</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Famagusta (Mağusa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q489776</ctml:wikiDataId>
+    <ctml:latitude>35.10022000</ctml:latitude>
+    <ctml:longitude>33.86155000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22102" kind="city">
+    <ctml:name>Áchna</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Famagusta (Mağusa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q81490</ctml:wikiDataId>
+    <ctml:latitude>35.05515000</ctml:latitude>
+    <ctml:longitude>33.78388000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22014" kind="city">
+    <ctml:name>Ammochostos</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Famagusta (Mağusa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q56118759</ctml:wikiDataId>
+    <ctml:latitude>35.11755000</ctml:latitude>
+    <ctml:longitude>33.94335000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22020" kind="city">
+    <ctml:name>Avgórou</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Famagusta (Mağusa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q3560533</ctml:wikiDataId>
+    <ctml:latitude>35.03615000</ctml:latitude>
+    <ctml:longitude>33.83918000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22021" kind="city">
+    <ctml:name>Ayia Napa</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Famagusta (Mağusa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q393593</ctml:wikiDataId>
+    <ctml:latitude>34.98213000</ctml:latitude>
+    <ctml:longitude>34.00183000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22023" kind="city">
+    <ctml:name>Derýneia</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Famagusta (Mağusa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q777760</ctml:wikiDataId>
+    <ctml:latitude>35.06484000</ctml:latitude>
+    <ctml:longitude>33.96083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22030" kind="city">
+    <ctml:name>Frénaros</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Famagusta (Mağusa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1455222</ctml:wikiDataId>
+    <ctml:latitude>35.04121000</ctml:latitude>
+    <ctml:longitude>33.92242000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22052" kind="city">
+    <ctml:name>Lefkónoiko</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Famagusta (Mağusa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q171882</ctml:wikiDataId>
+    <ctml:latitude>35.25980000</ctml:latitude>
+    <ctml:longitude>33.73189000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22054" kind="city">
+    <ctml:name>Leonárisso</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Famagusta (Mağusa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q28870916</ctml:wikiDataId>
+    <ctml:latitude>35.46892000</ctml:latitude>
+    <ctml:longitude>34.13886000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22056" kind="city">
+    <ctml:name>Liopétri</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Famagusta (Mağusa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q546060</ctml:wikiDataId>
+    <ctml:latitude>35.00885000</ctml:latitude>
+    <ctml:longitude>33.89256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22072" kind="city">
+    <ctml:name>Paralímni</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Famagusta (Mağusa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q954174</ctml:wikiDataId>
+    <ctml:latitude>35.03945000</ctml:latitude>
+    <ctml:longitude>33.98181000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22078" kind="city">
+    <ctml:name>Protaras</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Famagusta (Mağusa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2113430</ctml:wikiDataId>
+    <ctml:latitude>35.01250000</ctml:latitude>
+    <ctml:longitude>34.05833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22090" kind="city">
+    <ctml:name>Rizokárpaso</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Famagusta (Mağusa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1968566</ctml:wikiDataId>
+    <ctml:latitude>35.59719000</ctml:latitude>
+    <ctml:longitude>34.37916000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22095" kind="city">
+    <ctml:name>Tríkomo</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Famagusta (Mağusa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q7846552</ctml:wikiDataId>
+    <ctml:latitude>35.28628000</ctml:latitude>
+    <ctml:longitude>33.89167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22046" kind="city">
+    <ctml:name>Kyrenia Municipality</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Kyrenia (Keryneia)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-06</ctml:parentRef>
+    <ctml:wikiDataId>Q56241597</ctml:wikiDataId>
+    <ctml:latitude>35.33672000</ctml:latitude>
+    <ctml:longitude>33.31504000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22059" kind="city">
+    <ctml:name>Lápithos</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Kyrenia (Keryneia)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-06</ctml:parentRef>
+    <ctml:wikiDataId>Q6710344</ctml:wikiDataId>
+    <ctml:latitude>35.33823000</ctml:latitude>
+    <ctml:longitude>33.17368000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22015" kind="city">
+    <ctml:name>Aradíppou</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2009604</ctml:wikiDataId>
+    <ctml:latitude>34.95151000</ctml:latitude>
+    <ctml:longitude>33.59199000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22019" kind="city">
+    <ctml:name>Athíenou</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q570146</ctml:wikiDataId>
+    <ctml:latitude>35.06180000</ctml:latitude>
+    <ctml:longitude>33.54156000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22024" kind="city">
+    <ctml:name>Dhromolaxia</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q5308294</ctml:wikiDataId>
+    <ctml:latitude>34.87551000</ctml:latitude>
+    <ctml:longitude>33.58684000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22049" kind="city">
+    <ctml:name>Kíti</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q6418213</ctml:wikiDataId>
+    <ctml:latitude>34.84696000</ctml:latitude>
+    <ctml:longitude>33.57344000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22039" kind="city">
+    <ctml:name>Kofínou</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q6425729</ctml:wikiDataId>
+    <ctml:latitude>34.82449000</ctml:latitude>
+    <ctml:longitude>33.39130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22042" kind="city">
+    <ctml:name>Kolossi</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3353547</ctml:wikiDataId>
+    <ctml:latitude>34.66865000</ctml:latitude>
+    <ctml:longitude>32.93375000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22050" kind="city">
+    <ctml:name>Kórnos</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q6432453</ctml:wikiDataId>
+    <ctml:latitude>34.92396000</ctml:latitude>
+    <ctml:longitude>33.39764000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22057" kind="city">
+    <ctml:name>Livádia</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q11762209</ctml:wikiDataId>
+    <ctml:latitude>34.95118000</ctml:latitude>
+    <ctml:longitude>33.62658000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22062" kind="city">
+    <ctml:name>Meneou</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q6816909</ctml:wikiDataId>
+    <ctml:latitude>34.86114000</ctml:latitude>
+    <ctml:longitude>33.59516000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22064" kind="city">
+    <ctml:name>Mosfilotí</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q11785710</ctml:wikiDataId>
+    <ctml:latitude>34.95256000</ctml:latitude>
+    <ctml:longitude>33.42511000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CYP-22087" kind="admin2">
+    <ctml:name>Pérgamos</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2538717</ctml:wikiDataId>
+    <ctml:latitude>35.04167000</ctml:latitude>
+    <ctml:longitude>33.70833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22076" kind="city">
+    <ctml:name>Perivólia</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q7168940</ctml:wikiDataId>
+    <ctml:latitude>34.83355000</ctml:latitude>
+    <ctml:longitude>33.58196000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22079" kind="city">
+    <ctml:name>Psevdás</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q7255745</ctml:wikiDataId>
+    <ctml:latitude>34.94653000</ctml:latitude>
+    <ctml:longitude>33.46277000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22089" kind="city">
+    <ctml:name>Pýla</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1968566</ctml:wikiDataId>
+    <ctml:latitude>35.01237000</ctml:latitude>
+    <ctml:longitude>33.69188000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22093" kind="city">
+    <ctml:name>Tersefánou</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q7705213</ctml:wikiDataId>
+    <ctml:latitude>34.85411000</ctml:latitude>
+    <ctml:longitude>33.54746000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22094" kind="city">
+    <ctml:name>Troúlloi</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q7846552</ctml:wikiDataId>
+    <ctml:latitude>35.03203000</ctml:latitude>
+    <ctml:longitude>33.61501000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22099" kind="city">
+    <ctml:name>Voróklini</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q7103757</ctml:wikiDataId>
+    <ctml:latitude>34.98600000</ctml:latitude>
+    <ctml:longitude>33.65387000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22100" kind="city">
+    <ctml:name>Xylofágou</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q8045452</ctml:wikiDataId>
+    <ctml:latitude>34.97743000</ctml:latitude>
+    <ctml:longitude>33.84894000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22101" kind="city">
+    <ctml:name>Xylotymbou</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Larnaca (Larnaka)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q81490</ctml:wikiDataId>
+    <ctml:latitude>35.01720000</ctml:latitude>
+    <ctml:longitude>33.74245000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22103" kind="city">
+    <ctml:name>Ágios Tomás</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q4831309</ctml:wikiDataId>
+    <ctml:latitude>34.71158000</ctml:latitude>
+    <ctml:longitude>32.73129000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22104" kind="city">
+    <ctml:name>Ágios Týchon</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q4831310</ctml:wikiDataId>
+    <ctml:latitude>34.72606000</ctml:latitude>
+    <ctml:longitude>33.13872000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22028" kind="city">
+    <ctml:name>Erími</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q5389081</ctml:wikiDataId>
+    <ctml:latitude>34.67766000</ctml:latitude>
+    <ctml:longitude>32.91815000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22031" kind="city">
+    <ctml:name>Germasógeia</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q349340</ctml:wikiDataId>
+    <ctml:latitude>34.72207000</ctml:latitude>
+    <ctml:longitude>33.08254000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22044" kind="city">
+    <ctml:name>Kyperoúnta</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3499503</ctml:wikiDataId>
+    <ctml:latitude>34.93815000</ctml:latitude>
+    <ctml:longitude>32.97551000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22065" kind="city">
+    <ctml:name>Mouttagiáka</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q11786854</ctml:wikiDataId>
+    <ctml:latitude>34.72022000</ctml:latitude>
+    <ctml:longitude>33.10066000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22082" kind="city">
+    <ctml:name>Páchna</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3557407</ctml:wikiDataId>
+    <ctml:latitude>34.77874000</ctml:latitude>
+    <ctml:longitude>32.79355000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22084" kind="city">
+    <ctml:name>Páno Polemídia</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q16269888</ctml:wikiDataId>
+    <ctml:latitude>34.70559000</ctml:latitude>
+    <ctml:longitude>32.99269000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22073" kind="city">
+    <ctml:name>Parekklisha</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q7136707</ctml:wikiDataId>
+    <ctml:latitude>34.74583000</ctml:latitude>
+    <ctml:longitude>33.15833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22074" kind="city">
+    <ctml:name>Peléndri</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3561641</ctml:wikiDataId>
+    <ctml:latitude>34.89597000</ctml:latitude>
+    <ctml:longitude>32.96817000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22077" kind="city">
+    <ctml:name>Pissoúri</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1985470</ctml:wikiDataId>
+    <ctml:latitude>34.66942000</ctml:latitude>
+    <ctml:longitude>32.70132000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22081" kind="city">
+    <ctml:name>Pyrgos</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q7263520</ctml:wikiDataId>
+    <ctml:latitude>34.74167000</ctml:latitude>
+    <ctml:longitude>33.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22091" kind="city">
+    <ctml:name>Sotíra</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q733386</ctml:wikiDataId>
+    <ctml:latitude>34.71189000</ctml:latitude>
+    <ctml:longitude>32.86340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22092" kind="city">
+    <ctml:name>Soúni-Zanakiá</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q7565030</ctml:wikiDataId>
+    <ctml:latitude>34.73570000</ctml:latitude>
+    <ctml:longitude>32.88437000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22105" kind="city">
+    <ctml:name>Ýpsonas</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Limassol (Leymasun)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3560553</ctml:wikiDataId>
+    <ctml:latitude>34.68797000</ctml:latitude>
+    <ctml:longitude>32.96191000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22012" kind="city">
+    <ctml:name>Akáki</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3646772</ctml:wikiDataId>
+    <ctml:latitude>35.13341000</ctml:latitude>
+    <ctml:longitude>33.12873000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22013" kind="city">
+    <ctml:name>Alámpra</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q827206</ctml:wikiDataId>
+    <ctml:latitude>34.98898000</ctml:latitude>
+    <ctml:longitude>33.39887000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22016" kind="city">
+    <ctml:name>Aredioú</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q4788730</ctml:wikiDataId>
+    <ctml:latitude>35.04844000</ctml:latitude>
+    <ctml:longitude>33.19610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22018" kind="city">
+    <ctml:name>Astromerítis</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q4811597</ctml:wikiDataId>
+    <ctml:latitude>35.14096000</ctml:latitude>
+    <ctml:longitude>33.03793000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22025" kind="city">
+    <ctml:name>Dáli</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2555453</ctml:wikiDataId>
+    <ctml:latitude>35.02294000</ctml:latitude>
+    <ctml:longitude>33.42195000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22027" kind="city">
+    <ctml:name>Ergátes</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1828011</ctml:wikiDataId>
+    <ctml:latitude>35.05365000</ctml:latitude>
+    <ctml:longitude>33.24292000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22035" kind="city">
+    <ctml:name>Géri</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3104074</ctml:wikiDataId>
+    <ctml:latitude>35.10560000</ctml:latitude>
+    <ctml:longitude>33.41977000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22036" kind="city">
+    <ctml:name>Kakopetriá</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1308220</ctml:wikiDataId>
+    <ctml:latitude>34.98768000</ctml:latitude>
+    <ctml:longitude>32.90468000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22047" kind="city">
+    <ctml:name>Káto Defterá</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q47317971</ctml:wikiDataId>
+    <ctml:latitude>35.08489000</ctml:latitude>
+    <ctml:longitude>33.27558000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22048" kind="city">
+    <ctml:name>Káto Pýrgos</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q22988437</ctml:wikiDataId>
+    <ctml:latitude>35.17897000</ctml:latitude>
+    <ctml:longitude>32.68600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22038" kind="city">
+    <ctml:name>Klírou</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q672215</ctml:wikiDataId>
+    <ctml:latitude>35.02004000</ctml:latitude>
+    <ctml:longitude>33.17806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22040" kind="city">
+    <ctml:name>Kokkinotrimithiá</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q6426673</ctml:wikiDataId>
+    <ctml:latitude>35.15303000</ctml:latitude>
+    <ctml:longitude>33.19966000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22060" kind="city">
+    <ctml:name>Léfka</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q6710344</ctml:wikiDataId>
+    <ctml:latitude>35.11199000</ctml:latitude>
+    <ctml:longitude>32.84997000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22061" kind="city">
+    <ctml:name>Lýmpia</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q6708289</ctml:wikiDataId>
+    <ctml:latitude>34.99889000</ctml:latitude>
+    <ctml:longitude>33.46175000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22058" kind="city">
+    <ctml:name>Lythrodóntas</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q6710344</ctml:wikiDataId>
+    <ctml:latitude>34.95105000</ctml:latitude>
+    <ctml:longitude>33.29777000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22066" kind="city">
+    <ctml:name>Mámmari</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3566171</ctml:wikiDataId>
+    <ctml:latitude>35.17604000</ctml:latitude>
+    <ctml:longitude>33.20435000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22067" kind="city">
+    <ctml:name>Méniko</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q6817059</ctml:wikiDataId>
+    <ctml:latitude>35.10945000</ctml:latitude>
+    <ctml:longitude>33.14474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22068" kind="city">
+    <ctml:name>Mórfou</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q6817059</ctml:wikiDataId>
+    <ctml:latitude>35.19869000</ctml:latitude>
+    <ctml:longitude>32.99338000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22069" kind="city">
+    <ctml:name>Nicosia</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3856</ctml:wikiDataId>
+    <ctml:latitude>35.17531000</ctml:latitude>
+    <ctml:longitude>33.36420000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22070" kind="city">
+    <ctml:name>Nicosia Municipality</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q56037497</ctml:wikiDataId>
+    <ctml:latitude>35.16944000</ctml:latitude>
+    <ctml:longitude>33.36081000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22083" kind="city">
+    <ctml:name>Páno Defterá</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q11802699</ctml:wikiDataId>
+    <ctml:latitude>35.07778000</ctml:latitude>
+    <ctml:longitude>33.26584000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22086" kind="city">
+    <ctml:name>Péra</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2538717</ctml:wikiDataId>
+    <ctml:latitude>35.03350000</ctml:latitude>
+    <ctml:longitude>33.25413000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22075" kind="city">
+    <ctml:name>Peristeróna</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q4810069</ctml:wikiDataId>
+    <ctml:latitude>35.12928000</ctml:latitude>
+    <ctml:longitude>33.07858000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22080" kind="city">
+    <ctml:name>Psimolofou</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3409988</ctml:wikiDataId>
+    <ctml:latitude>35.06250000</ctml:latitude>
+    <ctml:longitude>33.26250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22097" kind="city">
+    <ctml:name>Tséri</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Nicosia (Lefkoşa)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3541492</ctml:wikiDataId>
+    <ctml:latitude>35.07307000</ctml:latitude>
+    <ctml:longitude>33.32344000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22017" kind="city">
+    <ctml:name>Argáka</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Paphos (Pafos)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q744626</ctml:wikiDataId>
+    <ctml:latitude>35.06646000</ctml:latitude>
+    <ctml:longitude>32.49446000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22022" kind="city">
+    <ctml:name>Chlórakas</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Paphos (Pafos)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q393593</ctml:wikiDataId>
+    <ctml:latitude>34.79768000</ctml:latitude>
+    <ctml:longitude>32.41207000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22026" kind="city">
+    <ctml:name>Emba</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Paphos (Pafos)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q5369408</ctml:wikiDataId>
+    <ctml:latitude>34.80700000</ctml:latitude>
+    <ctml:longitude>32.42406000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22032" kind="city">
+    <ctml:name>Geroskipou</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Paphos (Pafos)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q349340</ctml:wikiDataId>
+    <ctml:latitude>34.75498000</ctml:latitude>
+    <ctml:longitude>32.45155000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22033" kind="city">
+    <ctml:name>Geroskípou (quarter)</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Paphos (Pafos)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q47313335</ctml:wikiDataId>
+    <ctml:latitude>34.76190000</ctml:latitude>
+    <ctml:longitude>32.45135000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22034" kind="city">
+    <ctml:name>Geroskípou Municipality</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Paphos (Pafos)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q588760</ctml:wikiDataId>
+    <ctml:latitude>34.75142000</ctml:latitude>
+    <ctml:longitude>32.45449000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22037" kind="city">
+    <ctml:name>Kissonerga</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Paphos (Pafos)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q6417285</ctml:wikiDataId>
+    <ctml:latitude>34.82279000</ctml:latitude>
+    <ctml:longitude>32.40131000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22041" kind="city">
+    <ctml:name>Koloni</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Paphos (Pafos)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q6426673</ctml:wikiDataId>
+    <ctml:latitude>34.75228000</ctml:latitude>
+    <ctml:longitude>32.46487000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22043" kind="city">
+    <ctml:name>Konia</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Paphos (Pafos)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3353547</ctml:wikiDataId>
+    <ctml:latitude>34.78516000</ctml:latitude>
+    <ctml:longitude>32.45900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22063" kind="city">
+    <ctml:name>Mesógi</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Paphos (Pafos)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q6816909</ctml:wikiDataId>
+    <ctml:latitude>34.81577000</ctml:latitude>
+    <ctml:longitude>32.45542000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22085" kind="city">
+    <ctml:name>Pégeia</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Paphos (Pafos)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2538717</ctml:wikiDataId>
+    <ctml:latitude>34.88341000</ctml:latitude>
+    <ctml:longitude>32.38166000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22088" kind="city">
+    <ctml:name>Pólis</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Paphos (Pafos)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2626631</ctml:wikiDataId>
+    <ctml:latitude>35.03534000</ctml:latitude>
+    <ctml:longitude>32.42575000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22098" kind="city">
+    <ctml:name>Tála</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Paphos (Pafos)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q7678734</ctml:wikiDataId>
+    <ctml:latitude>34.83745000</ctml:latitude>
+    <ctml:longitude>32.43272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CYP-22096" kind="city">
+    <ctml:name>Tsáda</ctml:name>
+    <ctml:country>CYP</ctml:country>
+    <ctml:admin1>Paphos (Pafos)</ctml:admin1>
+    <ctml:parentRef>place:admin1:CY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q3559631</ctml:wikiDataId>
+    <ctml:latitude>34.83801000</ctml:latitude>
+    <ctml:longitude>32.47547000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

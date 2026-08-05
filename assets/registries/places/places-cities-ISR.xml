@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ISR-57446" kind="city">
+    <ctml:name>Bet Dagan</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q814900</ctml:wikiDataId>
+    <ctml:latitude>32.00191000</ctml:latitude>
+    <ctml:longitude>34.82977000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57449" kind="city">
+    <ctml:name>Bet Yiẕẖaq</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2920289</ctml:wikiDataId>
+    <ctml:latitude>32.32751000</ctml:latitude>
+    <ctml:longitude>34.88878000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57450" kind="city">
+    <ctml:name>Bnei Ayish</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2915758</ctml:wikiDataId>
+    <ctml:latitude>31.78333000</ctml:latitude>
+    <ctml:longitude>34.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57463" kind="city">
+    <ctml:name>Elyakhin</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2920239</ctml:wikiDataId>
+    <ctml:latitude>32.40793000</ctml:latitude>
+    <ctml:longitude>34.92433000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57467" kind="city">
+    <ctml:name>Eṭ Ṭaiyiba</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1022481</ctml:wikiDataId>
+    <ctml:latitude>32.26616000</ctml:latitude>
+    <ctml:longitude>35.00893000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57466" kind="city">
+    <ctml:name>Even Yehuda</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2915760</ctml:wikiDataId>
+    <ctml:latitude>32.26959000</ctml:latitude>
+    <ctml:longitude>34.88759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57468" kind="city">
+    <ctml:name>Gan Yavne</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q924849</ctml:wikiDataId>
+    <ctml:latitude>31.78737000</ctml:latitude>
+    <ctml:longitude>34.70659000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57469" kind="city">
+    <ctml:name>Ganei Tikva</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2920123</ctml:wikiDataId>
+    <ctml:latitude>32.05971000</ctml:latitude>
+    <ctml:longitude>34.87320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57470" kind="city">
+    <ctml:name>Gedera</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q921505</ctml:wikiDataId>
+    <ctml:latitude>31.81456000</ctml:latitude>
+    <ctml:longitude>34.77998000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57478" kind="city">
+    <ctml:name>Hod HaSharon</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q152379</ctml:wikiDataId>
+    <ctml:latitude>32.15934000</ctml:latitude>
+    <ctml:longitude>34.89320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57483" kind="city">
+    <ctml:name>Jaljūlya</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q180294</ctml:wikiDataId>
+    <ctml:latitude>32.15470000</ctml:latitude>
+    <ctml:longitude>34.95372000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57491" kind="city">
+    <ctml:name>Kafr Qāsim</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q152659</ctml:wikiDataId>
+    <ctml:latitude>32.11406000</ctml:latitude>
+    <ctml:longitude>34.97624000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57494" kind="city">
+    <ctml:name>Kefar H̱abad</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2570492</ctml:wikiDataId>
+    <ctml:latitude>31.98793000</ctml:latitude>
+    <ctml:longitude>34.85160000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57499" kind="city">
+    <ctml:name>Kefar Yona</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2640074</ctml:wikiDataId>
+    <ctml:latitude>32.31669000</ctml:latitude>
+    <ctml:longitude>34.93507000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57500" kind="city">
+    <ctml:name>Kfar Saba</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q152436</ctml:wikiDataId>
+    <ctml:latitude>32.17500000</ctml:latitude>
+    <ctml:longitude>34.90694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57503" kind="city">
+    <ctml:name>Lapid</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2509463</ctml:wikiDataId>
+    <ctml:latitude>31.91764000</ctml:latitude>
+    <ctml:longitude>35.03222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57505" kind="city">
+    <ctml:name>Lod</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q207540</ctml:wikiDataId>
+    <ctml:latitude>31.94670000</ctml:latitude>
+    <ctml:longitude>34.89030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57507" kind="city">
+    <ctml:name>Mazkeret Batya</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1914736</ctml:wikiDataId>
+    <ctml:latitude>31.85357000</ctml:latitude>
+    <ctml:longitude>34.84646000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57515" kind="city">
+    <ctml:name>Modi‘in Makkabbim Re‘ut</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q168140</ctml:wikiDataId>
+    <ctml:latitude>31.89385000</ctml:latitude>
+    <ctml:longitude>35.01504000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57525" kind="city">
+    <ctml:name>Neẖalim</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2614192</ctml:wikiDataId>
+    <ctml:latitude>32.06012000</ctml:latitude>
+    <ctml:longitude>34.91069000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57522" kind="city">
+    <ctml:name>Ness Ziona</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q168162</ctml:wikiDataId>
+    <ctml:latitude>31.92933000</ctml:latitude>
+    <ctml:longitude>34.79868000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57523" kind="city">
+    <ctml:name>Netanya</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q192225</ctml:wikiDataId>
+    <ctml:latitude>32.33291000</ctml:latitude>
+    <ctml:longitude>34.85992000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57526" kind="city">
+    <ctml:name>Nirit</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2614192</ctml:wikiDataId>
+    <ctml:latitude>32.14677000</ctml:latitude>
+    <ctml:longitude>34.98622000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57527" kind="city">
+    <ctml:name>Nof Ayalon</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2614192</ctml:wikiDataId>
+    <ctml:latitude>31.87111000</ctml:latitude>
+    <ctml:longitude>34.99081000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57528" kind="city">
+    <ctml:name>Nordiyya</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2920311</ctml:wikiDataId>
+    <ctml:latitude>32.31470000</ctml:latitude>
+    <ctml:longitude>34.89617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57531" kind="city">
+    <ctml:name>Pardesiyya</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1018875</ctml:wikiDataId>
+    <ctml:latitude>32.30577000</ctml:latitude>
+    <ctml:longitude>34.90911000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57533" kind="city">
+    <ctml:name>Petaẖ Tiqwa</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q190828</ctml:wikiDataId>
+    <ctml:latitude>32.08707000</ctml:latitude>
+    <ctml:longitude>34.88747000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57534" kind="city">
+    <ctml:name>Qalansuwa</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q190828</ctml:wikiDataId>
+    <ctml:latitude>32.28493000</ctml:latitude>
+    <ctml:longitude>34.98106000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57541" kind="city">
+    <ctml:name>Ra'anana</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q309164</ctml:wikiDataId>
+    <ctml:latitude>32.18360000</ctml:latitude>
+    <ctml:longitude>34.87386000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57548" kind="city">
+    <ctml:name>Reẖovot</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q207350</ctml:wikiDataId>
+    <ctml:latitude>31.89421000</ctml:latitude>
+    <ctml:longitude>34.81199000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57549" kind="city">
+    <ctml:name>Rishon LeẔiyyon</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q201051</ctml:wikiDataId>
+    <ctml:latitude>31.97102000</ctml:latitude>
+    <ctml:longitude>34.78939000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57550" kind="city">
+    <ctml:name>Rosh Ha‘Ayin</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q168202</ctml:wikiDataId>
+    <ctml:latitude>32.09556000</ctml:latitude>
+    <ctml:longitude>34.95664000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57556" kind="city">
+    <ctml:name>Savyon</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q592526</ctml:wikiDataId>
+    <ctml:latitude>32.04966000</ctml:latitude>
+    <ctml:longitude>34.87770000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57560" kind="city">
+    <ctml:name>Shoham</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q304448</ctml:wikiDataId>
+    <ctml:latitude>31.99866000</ctml:latitude>
+    <ctml:longitude>34.94559000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57565" kind="city">
+    <ctml:name>Tel Mond</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2304754</ctml:wikiDataId>
+    <ctml:latitude>32.24995000</ctml:latitude>
+    <ctml:longitude>34.91737000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57568" kind="city">
+    <ctml:name>Tirah</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q167594</ctml:wikiDataId>
+    <ctml:latitude>32.23410000</ctml:latitude>
+    <ctml:longitude>34.95023000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57573" kind="city">
+    <ctml:name>Yavné</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q167677</ctml:wikiDataId>
+    <ctml:latitude>31.87808000</ctml:latitude>
+    <ctml:longitude>34.73983000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57574" kind="city">
+    <ctml:name>Yehud</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1000887</ctml:wikiDataId>
+    <ctml:latitude>32.03317000</ctml:latitude>
+    <ctml:longitude>34.89091000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57580" kind="city">
+    <ctml:name>Ẕur Moshe</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2888680</ctml:wikiDataId>
+    <ctml:latitude>32.29819000</ctml:latitude>
+    <ctml:longitude>34.91313000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57440" kind="city">
+    <ctml:name>Atlit</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Haifa</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q757398</ctml:wikiDataId>
+    <ctml:latitude>32.68889000</ctml:latitude>
+    <ctml:longitude>34.94236000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57455" kind="city">
+    <ctml:name>Caesarea</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Haifa</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q1615560</ctml:wikiDataId>
+    <ctml:latitude>32.51888000</ctml:latitude>
+    <ctml:longitude>34.90459000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57457" kind="city">
+    <ctml:name>Daliyat al Karmel</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Haifa</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q1026821</ctml:wikiDataId>
+    <ctml:latitude>32.69383000</ctml:latitude>
+    <ctml:longitude>35.04686000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57461" kind="city">
+    <ctml:name>El Fureidīs</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Haifa</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q1011538</ctml:wikiDataId>
+    <ctml:latitude>32.59812000</ctml:latitude>
+    <ctml:longitude>34.95153000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57473" kind="city">
+    <ctml:name>Hadera</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Haifa</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q471886</ctml:wikiDataId>
+    <ctml:latitude>32.44192000</ctml:latitude>
+    <ctml:longitude>34.90390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57480" kind="city">
+    <ctml:name>Ibṭīn</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Haifa</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q2889270</ctml:wikiDataId>
+    <ctml:latitude>32.76150000</ctml:latitude>
+    <ctml:longitude>35.11402000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57521" kind="city">
+    <ctml:name>Nesher</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Haifa</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q135432</ctml:wikiDataId>
+    <ctml:latitude>32.76622000</ctml:latitude>
+    <ctml:longitude>35.04425000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57535" kind="city">
+    <ctml:name>Qiryat Ata</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Haifa</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q152602</ctml:wikiDataId>
+    <ctml:latitude>32.81149000</ctml:latitude>
+    <ctml:longitude>35.11323000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57536" kind="city">
+    <ctml:name>Qiryat Bialik</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Haifa</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q152374</ctml:wikiDataId>
+    <ctml:latitude>32.82750000</ctml:latitude>
+    <ctml:longitude>35.08583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57538" kind="city">
+    <ctml:name>Qiryat Moẕqin</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Haifa</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q152567</ctml:wikiDataId>
+    <ctml:latitude>32.83706000</ctml:latitude>
+    <ctml:longitude>35.07760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57540" kind="city">
+    <ctml:name>Qiryat Yam</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Haifa</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q152387</ctml:wikiDataId>
+    <ctml:latitude>32.84966000</ctml:latitude>
+    <ctml:longitude>35.06973000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57547" kind="city">
+    <ctml:name>Rekhasim</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Haifa</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q135485</ctml:wikiDataId>
+    <ctml:latitude>32.74907000</ctml:latitude>
+    <ctml:longitude>35.09901000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57569" kind="city">
+    <ctml:name>Tirat Karmel</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Haifa</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q168215</ctml:wikiDataId>
+    <ctml:latitude>32.76021000</ctml:latitude>
+    <ctml:longitude>34.97183000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57570" kind="city">
+    <ctml:name>Umm el Faḥm</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Haifa</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q168245</ctml:wikiDataId>
+    <ctml:latitude>32.51725000</ctml:latitude>
+    <ctml:longitude>35.15349000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57434" kind="city">
+    <ctml:name>Abū Ghaush</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Jerusalem</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-JM</ctml:parentRef>
+    <ctml:wikiDataId>Q335023</ctml:wikiDataId>
+    <ctml:latitude>31.80592000</ctml:latitude>
+    <ctml:longitude>35.10930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57447" kind="city">
+    <ctml:name>Bet Shemesh</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Jerusalem</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-JM</ctml:parentRef>
+    <ctml:wikiDataId>Q152449</ctml:wikiDataId>
+    <ctml:latitude>31.73072000</ctml:latitude>
+    <ctml:longitude>34.99293000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57475" kind="city">
+    <ctml:name>Har Adar</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Jerusalem</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-JM</ctml:parentRef>
+    <ctml:wikiDataId>Q41621</ctml:wikiDataId>
+    <ctml:latitude>31.82754000</ctml:latitude>
+    <ctml:longitude>35.13093000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57509" kind="city">
+    <ctml:name>Mevasseret Ẕiyyon</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Jerusalem</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-JM</ctml:parentRef>
+    <ctml:wikiDataId>Q1025294</ctml:wikiDataId>
+    <ctml:latitude>31.80186000</ctml:latitude>
+    <ctml:longitude>35.15072000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57514" kind="city">
+    <ctml:name>Modiin Ilit</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Jerusalem</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-JM</ctml:parentRef>
+    <ctml:wikiDataId>Q168140</ctml:wikiDataId>
+    <ctml:latitude>31.93221000</ctml:latitude>
+    <ctml:longitude>35.04416000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57571" kind="city">
+    <ctml:name>West Jerusalem</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Jerusalem</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-JM</ctml:parentRef>
+    <ctml:wikiDataId>Q2213440</ctml:wikiDataId>
+    <ctml:latitude>31.78199000</ctml:latitude>
+    <ctml:longitude>35.21961000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57579" kind="city">
+    <ctml:name>Ẕur Hadassa</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Jerusalem</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-JM</ctml:parentRef>
+    <ctml:wikiDataId>Q2890554</ctml:wikiDataId>
+    <ctml:latitude>31.71912000</ctml:latitude>
+    <ctml:longitude>35.09708000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57581" kind="city">
+    <ctml:name>‘Eilabun</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q377111</ctml:wikiDataId>
+    <ctml:latitude>32.83693000</ctml:latitude>
+    <ctml:longitude>35.40029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57583" kind="city">
+    <ctml:name>‘Uzeir</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2095241</ctml:wikiDataId>
+    <ctml:latitude>32.79212000</ctml:latitude>
+    <ctml:longitude>35.32984000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57435" kind="city">
+    <ctml:name>Acre</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q126084</ctml:wikiDataId>
+    <ctml:latitude>32.92814000</ctml:latitude>
+    <ctml:longitude>35.07647000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57436" kind="city">
+    <ctml:name>Afula</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q152462</ctml:wikiDataId>
+    <ctml:latitude>32.60907000</ctml:latitude>
+    <ctml:longitude>35.28920000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57442" kind="city">
+    <ctml:name>Basmat Ṭab‘ūn</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2651477</ctml:wikiDataId>
+    <ctml:latitude>32.73898000</ctml:latitude>
+    <ctml:longitude>35.15716000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57445" kind="city">
+    <ctml:name>Beit Jann</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q814900</ctml:wikiDataId>
+    <ctml:latitude>32.96464000</ctml:latitude>
+    <ctml:longitude>35.38152000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57448" kind="city">
+    <ctml:name>Bet She’an</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q152368</ctml:wikiDataId>
+    <ctml:latitude>32.49728000</ctml:latitude>
+    <ctml:longitude>35.49632000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57454" kind="city">
+    <ctml:name>Bīr el Maksūr</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q152467</ctml:wikiDataId>
+    <ctml:latitude>32.77732000</ctml:latitude>
+    <ctml:longitude>35.22069000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57453" kind="city">
+    <ctml:name>Bu‘eina</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q152467</ctml:wikiDataId>
+    <ctml:latitude>32.80636000</ctml:latitude>
+    <ctml:longitude>35.36486000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57452" kind="city">
+    <ctml:name>Buqei‘a</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q152467</ctml:wikiDataId>
+    <ctml:latitude>32.97747000</ctml:latitude>
+    <ctml:longitude>35.33345000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57456" kind="city">
+    <ctml:name>Dabbūrīya</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q1615560</ctml:wikiDataId>
+    <ctml:latitude>32.69256000</ctml:latitude>
+    <ctml:longitude>35.37123000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57458" kind="city">
+    <ctml:name>Deir Ḥannā</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q612483</ctml:wikiDataId>
+    <ctml:latitude>32.86196000</ctml:latitude>
+    <ctml:longitude>35.36365000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57462" kind="city">
+    <ctml:name>El Mazra‘a</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q1011538</ctml:wikiDataId>
+    <ctml:latitude>32.98338000</ctml:latitude>
+    <ctml:longitude>35.09837000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57464" kind="city">
+    <ctml:name>Er Reina</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2655682</ctml:wikiDataId>
+    <ctml:latitude>32.72339000</ctml:latitude>
+    <ctml:longitude>35.31622000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57465" kind="city">
+    <ctml:name>Esh Sheikh Dannūn</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q135434</ctml:wikiDataId>
+    <ctml:latitude>32.99410000</ctml:latitude>
+    <ctml:longitude>35.14805000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57578" kind="city">
+    <ctml:name>Ḥurfeish</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2655024</ctml:wikiDataId>
+    <ctml:latitude>33.01711000</ctml:latitude>
+    <ctml:longitude>35.34835000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57481" kind="city">
+    <ctml:name>Iksāl</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2915526</ctml:wikiDataId>
+    <ctml:latitude>32.68164000</ctml:latitude>
+    <ctml:longitude>35.32365000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57486" kind="city">
+    <ctml:name>Jīsh</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q1527236</ctml:wikiDataId>
+    <ctml:latitude>33.02216000</ctml:latitude>
+    <ctml:longitude>35.44694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57485" kind="city">
+    <ctml:name>Judeida Makr</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q1218</ctml:wikiDataId>
+    <ctml:latitude>32.92820000</ctml:latitude>
+    <ctml:longitude>35.15705000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57502" kind="city">
+    <ctml:name>Kābūl</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q1018884</ctml:wikiDataId>
+    <ctml:latitude>32.86856000</ctml:latitude>
+    <ctml:longitude>35.21171000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57487" kind="city">
+    <ctml:name>Kafr Kammā</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2576600</ctml:wikiDataId>
+    <ctml:latitude>32.72129000</ctml:latitude>
+    <ctml:longitude>35.44122000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57488" kind="city">
+    <ctml:name>Kafr Kannā</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2633158</ctml:wikiDataId>
+    <ctml:latitude>32.74660000</ctml:latitude>
+    <ctml:longitude>35.34242000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57489" kind="city">
+    <ctml:name>Kafr Mandā</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2915534</ctml:wikiDataId>
+    <ctml:latitude>32.81034000</ctml:latitude>
+    <ctml:longitude>35.26009000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57490" kind="city">
+    <ctml:name>Kafr Miṣr</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q667103</ctml:wikiDataId>
+    <ctml:latitude>32.64521000</ctml:latitude>
+    <ctml:longitude>35.42147000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57492" kind="city">
+    <ctml:name>Karmi’el</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q152418</ctml:wikiDataId>
+    <ctml:latitude>32.91708000</ctml:latitude>
+    <ctml:longitude>35.30501000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57493" kind="city">
+    <ctml:name>Kaukab Abū el Hījā</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2604424</ctml:wikiDataId>
+    <ctml:latitude>32.83155000</ctml:latitude>
+    <ctml:longitude>35.24848000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57495" kind="city">
+    <ctml:name>Kefar Rosh HaNiqra</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2570492</ctml:wikiDataId>
+    <ctml:latitude>33.08607000</ctml:latitude>
+    <ctml:longitude>35.11348000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57497" kind="city">
+    <ctml:name>Kefar Tavor</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q1186956</ctml:wikiDataId>
+    <ctml:latitude>32.68655000</ctml:latitude>
+    <ctml:longitude>35.42118000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57498" kind="city">
+    <ctml:name>Kefar Weradim</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2915542</ctml:wikiDataId>
+    <ctml:latitude>32.99385000</ctml:latitude>
+    <ctml:longitude>35.27793000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57501" kind="city">
+    <ctml:name>Kfar Yasif</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2632879</ctml:wikiDataId>
+    <ctml:latitude>32.95451000</ctml:latitude>
+    <ctml:longitude>35.16230000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57577" kind="city">
+    <ctml:name>maalot Tarshīhā</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q152385</ctml:wikiDataId>
+    <ctml:latitude>33.01667000</ctml:latitude>
+    <ctml:longitude>35.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57506" kind="city">
+    <ctml:name>Maghār</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q930847</ctml:wikiDataId>
+    <ctml:latitude>32.88984000</ctml:latitude>
+    <ctml:longitude>35.40703000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57508" kind="city">
+    <ctml:name>Metulla</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q1011497</ctml:wikiDataId>
+    <ctml:latitude>33.27918000</ctml:latitude>
+    <ctml:longitude>35.57950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57513" kind="city">
+    <ctml:name>Mi‘ilyā</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2917297</ctml:wikiDataId>
+    <ctml:latitude>33.02781000</ctml:latitude>
+    <ctml:longitude>35.25658000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57511" kind="city">
+    <ctml:name>Migdal Ha‘Emeq</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q168337</ctml:wikiDataId>
+    <ctml:latitude>32.67597000</ctml:latitude>
+    <ctml:longitude>35.23986000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57516" kind="city">
+    <ctml:name>Nahariyya</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q167749</ctml:wikiDataId>
+    <ctml:latitude>33.00892000</ctml:latitude>
+    <ctml:longitude>35.09814000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57518" kind="city">
+    <ctml:name>Naḥf</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2390257</ctml:wikiDataId>
+    <ctml:latitude>32.93444000</ctml:latitude>
+    <ctml:longitude>35.31679000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57519" kind="city">
+    <ctml:name>Nefat ‘Akko</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q5423103</ctml:wikiDataId>
+    <ctml:latitude>32.95000000</ctml:latitude>
+    <ctml:longitude>35.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57520" kind="city">
+    <ctml:name>Nein</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q934904</ctml:wikiDataId>
+    <ctml:latitude>32.63063000</ctml:latitude>
+    <ctml:longitude>35.34885000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57532" kind="city">
+    <ctml:name>Pasuta</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2917294</ctml:wikiDataId>
+    <ctml:latitude>33.04895000</ctml:latitude>
+    <ctml:longitude>35.30893000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57539" kind="city">
+    <ctml:name>Qiryat Shemona</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q327413</ctml:wikiDataId>
+    <ctml:latitude>33.20733000</ctml:latitude>
+    <ctml:longitude>35.57212000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57545" kind="city">
+    <ctml:name>Ramat Yishay</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2615322</ctml:wikiDataId>
+    <ctml:latitude>32.70444000</ctml:latitude>
+    <ctml:longitude>35.17070000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57551" kind="city">
+    <ctml:name>Rosh Pinna</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q525649</ctml:wikiDataId>
+    <ctml:latitude>32.96894000</ctml:latitude>
+    <ctml:longitude>35.54258000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57552" kind="city">
+    <ctml:name>Rumat Heib</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q525649</ctml:wikiDataId>
+    <ctml:latitude>32.77802000</ctml:latitude>
+    <ctml:longitude>35.30571000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57553" kind="city">
+    <ctml:name>Safed</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q188336</ctml:wikiDataId>
+    <ctml:latitude>32.96465000</ctml:latitude>
+    <ctml:longitude>35.49600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57561" kind="city">
+    <ctml:name>Sājūr</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q732433</ctml:wikiDataId>
+    <ctml:latitude>32.94266000</ctml:latitude>
+    <ctml:longitude>35.34136000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57554" kind="city">
+    <ctml:name>Sakhnīn</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q168330</ctml:wikiDataId>
+    <ctml:latitude>32.86422000</ctml:latitude>
+    <ctml:longitude>35.29707000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57555" kind="city">
+    <ctml:name>Sallama</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2910964</ctml:wikiDataId>
+    <ctml:latitude>32.89443000</ctml:latitude>
+    <ctml:longitude>35.36931000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57558" kind="city">
+    <ctml:name>Shelomi</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q135421</ctml:wikiDataId>
+    <ctml:latitude>33.07216000</ctml:latitude>
+    <ctml:longitude>35.14452000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57559" kind="city">
+    <ctml:name>Shibli</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q135421</ctml:wikiDataId>
+    <ctml:latitude>32.69464000</ctml:latitude>
+    <ctml:longitude>35.39252000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57562" kind="city">
+    <ctml:name>Sūlam</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q732433</ctml:wikiDataId>
+    <ctml:latitude>32.60606000</ctml:latitude>
+    <ctml:longitude>35.33408000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57563" kind="city">
+    <ctml:name>Tamra</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q168176</ctml:wikiDataId>
+    <ctml:latitude>32.85301000</ctml:latitude>
+    <ctml:longitude>35.19870000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57566" kind="city">
+    <ctml:name>Tiberias</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q151920</ctml:wikiDataId>
+    <ctml:latitude>32.79221000</ctml:latitude>
+    <ctml:longitude>35.53124000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57567" kind="city">
+    <ctml:name>Timrat</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q2889401</ctml:wikiDataId>
+    <ctml:latitude>32.70302000</ctml:latitude>
+    <ctml:longitude>35.22359000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57572" kind="city">
+    <ctml:name>Yavne’el</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-Z</ctml:parentRef>
+    <ctml:wikiDataId>Q1676894</ctml:wikiDataId>
+    <ctml:latitude>32.70619000</ctml:latitude>
+    <ctml:longitude>35.50435000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57582" kind="city">
+    <ctml:name>‘En Boqeq</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q377111</ctml:wikiDataId>
+    <ctml:latitude>31.19941000</ctml:latitude>
+    <ctml:longitude>35.36253000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57437" kind="city">
+    <ctml:name>Arad</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q152473</ctml:wikiDataId>
+    <ctml:latitude>31.25882000</ctml:latitude>
+    <ctml:longitude>35.21282000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57438" kind="city">
+    <ctml:name>Ashdod</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q171639</ctml:wikiDataId>
+    <ctml:latitude>31.79213000</ctml:latitude>
+    <ctml:longitude>34.64966000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57439" kind="city">
+    <ctml:name>Ashkelon</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q60956</ctml:wikiDataId>
+    <ctml:latitude>31.66926000</ctml:latitude>
+    <ctml:longitude>34.57149000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57459" kind="city">
+    <ctml:name>Dimona</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q152396</ctml:wikiDataId>
+    <ctml:latitude>31.07079000</ctml:latitude>
+    <ctml:longitude>35.03269000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57460" kind="city">
+    <ctml:name>Eilat</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q134762</ctml:wikiDataId>
+    <ctml:latitude>29.55805000</ctml:latitude>
+    <ctml:longitude>34.94821000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57504" kind="city">
+    <ctml:name>Lehavim</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q1589806</ctml:wikiDataId>
+    <ctml:latitude>31.37284000</ctml:latitude>
+    <ctml:longitude>34.81619000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57510" kind="city">
+    <ctml:name>Midreshet Ben-Gurion</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q2776759</ctml:wikiDataId>
+    <ctml:latitude>30.85154000</ctml:latitude>
+    <ctml:longitude>34.78340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57512" kind="city">
+    <ctml:name>Mitzpe Ramon</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q168337</ctml:wikiDataId>
+    <ctml:latitude>30.60944000</ctml:latitude>
+    <ctml:longitude>34.80111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57524" kind="city">
+    <ctml:name>Netivot</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q167649</ctml:wikiDataId>
+    <ctml:latitude>31.42305000</ctml:latitude>
+    <ctml:longitude>34.58911000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57529" kind="city">
+    <ctml:name>Ofaqim</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q167632</ctml:wikiDataId>
+    <ctml:latitude>31.31410000</ctml:latitude>
+    <ctml:longitude>34.62025000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57537" kind="city">
+    <ctml:name>Qiryat Gat</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q152406</ctml:wikiDataId>
+    <ctml:latitude>31.60998000</ctml:latitude>
+    <ctml:longitude>34.76422000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57542" kind="city">
+    <ctml:name>Rahat</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q167617</ctml:wikiDataId>
+    <ctml:latitude>31.39547000</ctml:latitude>
+    <ctml:longitude>34.75699000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57557" kind="city">
+    <ctml:name>Sederot</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q123196</ctml:wikiDataId>
+    <ctml:latitude>31.52500000</ctml:latitude>
+    <ctml:longitude>34.59693000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57576" kind="city">
+    <ctml:name>Yeroẖam</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-D</ctml:parentRef>
+    <ctml:wikiDataId>Q1687708</ctml:wikiDataId>
+    <ctml:latitude>30.98822000</ctml:latitude>
+    <ctml:longitude>34.93176000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57441" kind="city">
+    <ctml:name>Azor</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Tel Aviv</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q952186</ctml:wikiDataId>
+    <ctml:latitude>32.02430000</ctml:latitude>
+    <ctml:longitude>34.80632000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57443" kind="city">
+    <ctml:name>Bat Yam</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Tel Aviv</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q208725</ctml:wikiDataId>
+    <ctml:latitude>32.02379000</ctml:latitude>
+    <ctml:longitude>34.75185000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57451" kind="city">
+    <ctml:name>Bnei Brak</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Tel Aviv</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q152467</ctml:wikiDataId>
+    <ctml:latitude>32.08074000</ctml:latitude>
+    <ctml:longitude>34.83380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57471" kind="city">
+    <ctml:name>Giv'at Shmuel</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Tel Aviv</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q152641</ctml:wikiDataId>
+    <ctml:latitude>32.07817000</ctml:latitude>
+    <ctml:longitude>34.84858000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57472" kind="city">
+    <ctml:name>Givatayim</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Tel Aviv</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q152413</ctml:wikiDataId>
+    <ctml:latitude>32.07225000</ctml:latitude>
+    <ctml:longitude>34.81253000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57476" kind="city">
+    <ctml:name>Herzliya</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Tel Aviv</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q152491</ctml:wikiDataId>
+    <ctml:latitude>32.16627000</ctml:latitude>
+    <ctml:longitude>34.82536000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57477" kind="city">
+    <ctml:name>Herzliya Pituah</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Tel Aviv</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q152491</ctml:wikiDataId>
+    <ctml:latitude>32.17409000</ctml:latitude>
+    <ctml:longitude>34.80280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57479" kind="city">
+    <ctml:name>H̱olon</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Tel Aviv</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q192213</ctml:wikiDataId>
+    <ctml:latitude>32.01034000</ctml:latitude>
+    <ctml:longitude>34.77918000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57482" kind="city">
+    <ctml:name>Jaffa</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Tel Aviv</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q180294</ctml:wikiDataId>
+    <ctml:latitude>32.05043000</ctml:latitude>
+    <ctml:longitude>34.75224000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57496" kind="city">
+    <ctml:name>Kefar Shemaryahu</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Tel Aviv</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q2389508</ctml:wikiDataId>
+    <ctml:latitude>32.18529000</ctml:latitude>
+    <ctml:longitude>34.82082000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57530" kind="city">
+    <ctml:name>Or Yehuda</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Tel Aviv</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q950347</ctml:wikiDataId>
+    <ctml:latitude>32.02923000</ctml:latitude>
+    <ctml:longitude>34.85788000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57543" kind="city">
+    <ctml:name>Ramat Gan</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Tel Aviv</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q192807</ctml:wikiDataId>
+    <ctml:latitude>32.08227000</ctml:latitude>
+    <ctml:longitude>34.81065000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57544" kind="city">
+    <ctml:name>Ramat HaSharon</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Tel Aviv</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q845866</ctml:wikiDataId>
+    <ctml:latitude>32.14613000</ctml:latitude>
+    <ctml:longitude>34.83940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ISR-57575" kind="city">
+    <ctml:name>Yehud-Monosson</ctml:name>
+    <ctml:country>ISR</ctml:country>
+    <ctml:admin1>Tel Aviv</ctml:admin1>
+    <ctml:parentRef>place:admin1:IL-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q1000887</ctml:wikiDataId>
+    <ctml:latitude>32.02840000</ctml:latitude>
+    <ctml:longitude>34.87960000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

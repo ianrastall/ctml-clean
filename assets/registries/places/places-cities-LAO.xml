@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:LAO-65891" kind="city">
+    <ctml:name>Muang Phouvong</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Attapeu</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q7187960</ctml:wikiDataId>
+    <ctml:latitude>14.56821000</ctml:latitude>
+    <ctml:longitude>107.01087000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65895" kind="city">
+    <ctml:name>Muang Samakhixai</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Attapeu</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q7408511</ctml:wikiDataId>
+    <ctml:latitude>14.80539000</ctml:latitude>
+    <ctml:longitude>106.78164000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65897" kind="city">
+    <ctml:name>Muang Sanamxai</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Attapeu</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q7415490</ctml:wikiDataId>
+    <ctml:latitude>14.73807000</ctml:latitude>
+    <ctml:longitude>106.41328000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LAO-65898" kind="admin2">
+    <ctml:name>Muang Sanxai</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Attapeu</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q7420766</ctml:wikiDataId>
+    <ctml:latitude>15.02944000</ctml:latitude>
+    <ctml:longitude>107.23158000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LAO-65912" kind="admin2">
+    <ctml:name>Muang Xaiséttha</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Attapeu</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-AT</ctml:parentRef>
+    <ctml:wikiDataId>Q7429312</ctml:wikiDataId>
+    <ctml:latitude>14.90594000</ctml:latitude>
+    <ctml:longitude>106.97894000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65856" kind="city">
+    <ctml:name>Ban Houakhoua</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Bokeo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-BK</ctml:parentRef>
+    <ctml:wikiDataId>Q757905</ctml:wikiDataId>
+    <ctml:latitude>20.24670000</ctml:latitude>
+    <ctml:longitude>100.45401000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65872" kind="city">
+    <ctml:name>Muang Houayxay</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Bokeo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-BK</ctml:parentRef>
+    <ctml:wikiDataId>Q5912694</ctml:wikiDataId>
+    <ctml:latitude>20.38763000</ctml:latitude>
+    <ctml:longitude>100.62687000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65881" kind="city">
+    <ctml:name>Muang Meung</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Bokeo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-BK</ctml:parentRef>
+    <ctml:wikiDataId>Q10793130</ctml:wikiDataId>
+    <ctml:latitude>20.67585000</ctml:latitude>
+    <ctml:longitude>100.52639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65885" kind="city">
+    <ctml:name>Muang Paktha</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Bokeo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-BK</ctml:parentRef>
+    <ctml:wikiDataId>Q6468523</ctml:wikiDataId>
+    <ctml:latitude>20.09108000</ctml:latitude>
+    <ctml:longitude>100.59940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65889" kind="city">
+    <ctml:name>Muang Pha Oudôm</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Bokeo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-BK</ctml:parentRef>
+    <ctml:wikiDataId>Q7179857</ctml:wikiDataId>
+    <ctml:latitude>20.18744000</ctml:latitude>
+    <ctml:longitude>100.92600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65908" kind="city">
+    <ctml:name>Muang Tônpheung</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Bokeo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-BK</ctml:parentRef>
+    <ctml:wikiDataId>Q6578402</ctml:wikiDataId>
+    <ctml:latitude>20.53465000</ctml:latitude>
+    <ctml:longitude>100.29624000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65858" kind="city">
+    <ctml:name>Ban Nahin</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Bolikhamsai</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q757905</ctml:wikiDataId>
+    <ctml:latitude>18.24253000</ctml:latitude>
+    <ctml:longitude>104.21281000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65860" kind="city">
+    <ctml:name>Champasak</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Champasak</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-CH</ctml:parentRef>
+    <ctml:wikiDataId>Q611444</ctml:wikiDataId>
+    <ctml:latitude>14.89204000</ctml:latitude>
+    <ctml:longitude>105.87787000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65868" kind="city">
+    <ctml:name>Muang Bachiangchaleunsook</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Champasak</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-CH</ctml:parentRef>
+    <ctml:wikiDataId>Q4869260</ctml:wikiDataId>
+    <ctml:latitude>15.24426000</ctml:latitude>
+    <ctml:longitude>105.96716000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65874" kind="city">
+    <ctml:name>Muang Không</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Champasak</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-CH</ctml:parentRef>
+    <ctml:wikiDataId>Q6402234</ctml:wikiDataId>
+    <ctml:latitude>14.14696000</ctml:latitude>
+    <ctml:longitude>105.95938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65882" kind="city">
+    <ctml:name>Muang Mounlapamôk</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Champasak</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-CH</ctml:parentRef>
+    <ctml:wikiDataId>Q10794683</ctml:wikiDataId>
+    <ctml:latitude>14.28922000</ctml:latitude>
+    <ctml:longitude>105.56832000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65887" kind="city">
+    <ctml:name>Muang Pakxé</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Champasak</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-CH</ctml:parentRef>
+    <ctml:wikiDataId>Q7125390</ctml:wikiDataId>
+    <ctml:latitude>15.13139000</ctml:latitude>
+    <ctml:longitude>105.81612000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65886" kind="city">
+    <ctml:name>Muang Pakxong</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Champasak</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-CH</ctml:parentRef>
+    <ctml:wikiDataId>Q1897961</ctml:wikiDataId>
+    <ctml:latitude>15.09810000</ctml:latitude>
+    <ctml:longitude>106.43398000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65888" kind="city">
+    <ctml:name>Muang Pathoumphon</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Champasak</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-CH</ctml:parentRef>
+    <ctml:wikiDataId>Q7144848</ctml:wikiDataId>
+    <ctml:latitude>14.68453000</ctml:latitude>
+    <ctml:longitude>106.06357000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LAO-65894" kind="admin2">
+    <ctml:name>Muang Phônthong</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Champasak</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-CH</ctml:parentRef>
+    <ctml:wikiDataId>Q1886331</ctml:wikiDataId>
+    <ctml:latitude>15.10669000</ctml:latitude>
+    <ctml:longitude>105.64890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65901" kind="city">
+    <ctml:name>Muang Soukhouma</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Champasak</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-CH</ctml:parentRef>
+    <ctml:wikiDataId>Q7564137</ctml:wikiDataId>
+    <ctml:latitude>14.62560000</ctml:latitude>
+    <ctml:longitude>105.67520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65913" kind="city">
+    <ctml:name>Muang Xanasômboun</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Champasak</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-CH</ctml:parentRef>
+    <ctml:wikiDataId>Q7415516</ctml:wikiDataId>
+    <ctml:latitude>15.34107000</ctml:latitude>
+    <ctml:longitude>105.73703000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LAO-65919" kind="admin2">
+    <ctml:name>Pakxong</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Champasak</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-CH</ctml:parentRef>
+    <ctml:wikiDataId>Q984435</ctml:wikiDataId>
+    <ctml:latitude>15.18154000</ctml:latitude>
+    <ctml:longitude>106.23038000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65880" kind="city">
+    <ctml:name>Muang Louang Namtha</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Luang Namtha</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-LM</ctml:parentRef>
+    <ctml:wikiDataId>Q6962098</ctml:wikiDataId>
+    <ctml:latitude>21.00424000</ctml:latitude>
+    <ctml:longitude>101.44785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65875" kind="city">
+    <ctml:name>Muang Khôngxédôn</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Salavan</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SL</ctml:parentRef>
+    <ctml:wikiDataId>Q10779371</ctml:wikiDataId>
+    <ctml:latitude>15.54626000</ctml:latitude>
+    <ctml:longitude>105.77051000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65876" kind="city">
+    <ctml:name>Muang Lakhonphéng</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Salavan</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SL</ctml:parentRef>
+    <ctml:wikiDataId>Q6479599</ctml:wikiDataId>
+    <ctml:latitude>15.83308000</ctml:latitude>
+    <ctml:longitude>105.59745000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65878" kind="city">
+    <ctml:name>Muang Laongam</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Salavan</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SL</ctml:parentRef>
+    <ctml:wikiDataId>Q6487785</ctml:wikiDataId>
+    <ctml:latitude>15.47745000</ctml:latitude>
+    <ctml:longitude>106.14111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65896" kind="city">
+    <ctml:name>Muang Samouay</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Salavan</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SL</ctml:parentRef>
+    <ctml:wikiDataId>Q7395481</ctml:wikiDataId>
+    <ctml:latitude>16.35868000</ctml:latitude>
+    <ctml:longitude>106.87480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65902" kind="city">
+    <ctml:name>Muang Ta-Ôy</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Salavan</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SL</ctml:parentRef>
+    <ctml:wikiDataId>Q7672775</ctml:wikiDataId>
+    <ctml:latitude>16.07765000</ctml:latitude>
+    <ctml:longitude>106.70304000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65907" kind="city">
+    <ctml:name>Muang Toumlan</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Salavan</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SL</ctml:parentRef>
+    <ctml:wikiDataId>Q7828906</ctml:wikiDataId>
+    <ctml:latitude>16.02236000</ctml:latitude>
+    <ctml:longitude>106.23837000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65909" kind="city">
+    <ctml:name>Muang Vapi</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Salavan</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SL</ctml:parentRef>
+    <ctml:wikiDataId>Q7915353</ctml:wikiDataId>
+    <ctml:latitude>15.75005000</ctml:latitude>
+    <ctml:longitude>105.95529000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65861" kind="city">
+    <ctml:name>Kaysone Phomvihane</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Savannakhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q24087731</ctml:wikiDataId>
+    <ctml:latitude>16.54943000</ctml:latitude>
+    <ctml:longitude>104.82339000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65866" kind="city">
+    <ctml:name>Muang Alsaphangthong</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Savannakhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q4817736</ctml:wikiDataId>
+    <ctml:latitude>16.72645000</ctml:latitude>
+    <ctml:longitude>105.39326000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65867" kind="city">
+    <ctml:name>Muang Atsaphan</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Savannakhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q4808420</ctml:wikiDataId>
+    <ctml:latitude>16.94740000</ctml:latitude>
+    <ctml:longitude>105.40290000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65870" kind="city">
+    <ctml:name>Muang Champhon</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Savannakhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q5069951</ctml:wikiDataId>
+    <ctml:latitude>16.49363000</ctml:latitude>
+    <ctml:longitude>105.22020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65883" kind="city">
+    <ctml:name>Muang Nong</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Savannakhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q7049337</ctml:wikiDataId>
+    <ctml:latitude>16.38458000</ctml:latitude>
+    <ctml:longitude>106.50419000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65884" kind="city">
+    <ctml:name>Muang Outhoumphon</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Savannakhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q7112080</ctml:wikiDataId>
+    <ctml:latitude>16.66667000</ctml:latitude>
+    <ctml:longitude>105.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LAO-65890" kind="admin2">
+    <ctml:name>Muang Phin</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Savannakhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q7186334</ctml:wikiDataId>
+    <ctml:latitude>16.44316000</ctml:latitude>
+    <ctml:longitude>106.03019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65900" kind="city">
+    <ctml:name>Muang Songkhon</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Savannakhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q7561275</ctml:wikiDataId>
+    <ctml:latitude>16.17116000</ctml:latitude>
+    <ctml:longitude>105.30729000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65904" kind="city">
+    <ctml:name>Muang Thapangthong</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Savannakhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q7710677</ctml:wikiDataId>
+    <ctml:latitude>16.09132000</ctml:latitude>
+    <ctml:longitude>105.81038000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65910" kind="city">
+    <ctml:name>Muang Vilabouli</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Savannakhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q7933563</ctml:wikiDataId>
+    <ctml:latitude>16.94067000</ctml:latitude>
+    <ctml:longitude>105.93677000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65911" kind="city">
+    <ctml:name>Muang Xaibouli</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Savannakhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q8043340</ctml:wikiDataId>
+    <ctml:latitude>16.94432000</ctml:latitude>
+    <ctml:longitude>104.92312000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65915" kind="city">
+    <ctml:name>Muang Xayphoothong</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Savannakhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q10834764</ctml:wikiDataId>
+    <ctml:latitude>16.37370000</ctml:latitude>
+    <ctml:longitude>105.02165000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65916" kind="city">
+    <ctml:name>Muang Xônbouli</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Savannakhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q6400414</ctml:wikiDataId>
+    <ctml:latitude>16.40036000</ctml:latitude>
+    <ctml:longitude>105.57388000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65925" kind="city">
+    <ctml:name>Thaphalanxay</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Savannakhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q7710692</ctml:wikiDataId>
+    <ctml:latitude>16.70000000</ctml:latitude>
+    <ctml:longitude>105.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65859" kind="city">
+    <ctml:name>Ban Thatèng</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Sekong</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-XE</ctml:parentRef>
+    <ctml:wikiDataId>Q757905</ctml:wikiDataId>
+    <ctml:latitude>15.43317000</ctml:latitude>
+    <ctml:longitude>106.38272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65862" kind="city">
+    <ctml:name>Lamam</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Sekong</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-XE</ctml:parentRef>
+    <ctml:wikiDataId>Q2087536</ctml:wikiDataId>
+    <ctml:latitude>15.41705000</ctml:latitude>
+    <ctml:longitude>106.69461000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LAO-65871" kind="admin2">
+    <ctml:name>Muang Dakchung</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Sekong</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-XE</ctml:parentRef>
+    <ctml:wikiDataId>Q5209893</ctml:wikiDataId>
+    <ctml:latitude>15.38199000</ctml:latitude>
+    <ctml:longitude>107.31847000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65873" kind="city">
+    <ctml:name>Muang Khaleum</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Sekong</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-XE</ctml:parentRef>
+    <ctml:wikiDataId>Q6352195</ctml:wikiDataId>
+    <ctml:latitude>15.79886000</ctml:latitude>
+    <ctml:longitude>107.04529000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65877" kind="city">
+    <ctml:name>Muang Laman</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Sekong</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-XE</ctml:parentRef>
+    <ctml:wikiDataId>Q6480669</ctml:wikiDataId>
+    <ctml:latitude>15.41273000</ctml:latitude>
+    <ctml:longitude>106.81706000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65906" kind="city">
+    <ctml:name>Muang Thatèng</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Sekong</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-XE</ctml:parentRef>
+    <ctml:wikiDataId>Q7708782</ctml:wikiDataId>
+    <ctml:latitude>15.42745000</ctml:latitude>
+    <ctml:longitude>106.48149000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65926" kind="city">
+    <ctml:name>Vangviang</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Vientiane</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q1012615</ctml:wikiDataId>
+    <ctml:latitude>18.92350000</ctml:latitude>
+    <ctml:longitude>102.44784000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65927" kind="city">
+    <ctml:name>Vientiane</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Vientiane</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-VT</ctml:parentRef>
+    <ctml:wikiDataId>Q9326</ctml:wikiDataId>
+    <ctml:latitude>17.96667000</ctml:latitude>
+    <ctml:longitude>102.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65854" kind="city">
+    <ctml:name>Anouvong</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Xaisomboun</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-XS</ctml:parentRef>
+    <ctml:wikiDataId>Q20311301</ctml:wikiDataId>
+    <ctml:latitude>18.89731000</ctml:latitude>
+    <ctml:longitude>103.09274000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65863" kind="city">
+    <ctml:name>Longchaeng</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Xaisomboun</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-XS</ctml:parentRef>
+    <ctml:wikiDataId>Q30887129</ctml:wikiDataId>
+    <ctml:latitude>18.89394000</ctml:latitude>
+    <ctml:longitude>103.14274000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65879" kind="city">
+    <ctml:name>Muang Longxan</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Xaisomboun</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-XS</ctml:parentRef>
+    <ctml:wikiDataId>Q27436722</ctml:wikiDataId>
+    <ctml:latitude>18.61782000</ctml:latitude>
+    <ctml:longitude>102.88079000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LAO-65905" kind="city">
+    <ctml:name>Muang Thathôm</ctml:name>
+    <ctml:country>LAO</ctml:country>
+    <ctml:admin1>Xaisomboun</ctml:admin1>
+    <ctml:parentRef>place:admin1:LA-XS</ctml:parentRef>
+    <ctml:wikiDataId>Q10805186</ctml:wikiDataId>
+    <ctml:latitude>19.00130000</ctml:latitude>
+    <ctml:longitude>103.61572000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

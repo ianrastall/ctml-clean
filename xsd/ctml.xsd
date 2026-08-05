@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:ctml="urn:ctml:2.0"
+  targetNamespace="urn:ctml:2.0"
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified">
+
+  <xs:annotation>
+    <xs:documentation>
+      CTML 2.0 - Umbrella schema.
+      Consumers should validate ALL CTML documents against this file:
+        - tournaments (ctml:tournament)
+        - registries (ctml:playerRegistry, ctml:placeRegistry, ctml:eventRegistry)
+
+      A single, non-redundant include: ctml-core.xsd already pulls in every
+      other module (vocab, names, dates, entities, places, game+analysis,
+      events). v1's umbrella included ctml-core.xsd AND ctml-events.xsd
+      separately even though ctml-core.xsd already included ctml-events.xsd
+      itself -- harmless under XSD's idempotent xs:include-by-namespace
+      semantics, but untracked and worth cleaning up in the rewrite.
+
+      No hand-maintained single-file bundle (the old ctml-single.xsd
+      pattern) is kept for v2: if a one-file bundle is ever needed, generate
+      it from these modular sources at build time rather than hand-maintaining
+      a second copy that can drift out of sync.
+    </xs:documentation>
+  </xs:annotation>
+
+  <xs:include schemaLocation="ctml-core.xsd"/>
+
+</xs:schema>

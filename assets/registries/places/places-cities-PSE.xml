@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:PSE-153955" kind="city">
+    <ctml:name>Al-Dawha</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Bethlehem</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-BTH</ctml:parentRef>
+    <ctml:wikiDataId>Q4702335</ctml:wikiDataId>
+    <ctml:latitude>31.69773990</ctml:latitude>
+    <ctml:longitude>35.14595450</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153957" kind="city">
+    <ctml:name>al-Khader</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Bethlehem</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-BTH</ctml:parentRef>
+    <ctml:wikiDataId>Q1996562</ctml:wikiDataId>
+    <ctml:latitude>31.69484540</ctml:latitude>
+    <ctml:longitude>35.15014530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153960" kind="city">
+    <ctml:name>al-Ubeidiya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Bethlehem</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-BTH</ctml:parentRef>
+    <ctml:wikiDataId>Q4703304</ctml:wikiDataId>
+    <ctml:latitude>31.72386430</ctml:latitude>
+    <ctml:longitude>35.27122130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153950" kind="city">
+    <ctml:name>Battir</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Bethlehem</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-BTH</ctml:parentRef>
+    <ctml:wikiDataId>Q2915285</ctml:wikiDataId>
+    <ctml:latitude>31.72821540</ctml:latitude>
+    <ctml:longitude>35.11743230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153951" kind="city">
+    <ctml:name>Beit Fajjar</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Bethlehem</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-BTH</ctml:parentRef>
+    <ctml:wikiDataId>Q4881435</ctml:wikiDataId>
+    <ctml:latitude>31.62166990</ctml:latitude>
+    <ctml:longitude>35.13430330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153952" kind="city">
+    <ctml:name>Beit Jala</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Bethlehem</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-BTH</ctml:parentRef>
+    <ctml:wikiDataId>Q803984</ctml:wikiDataId>
+    <ctml:latitude>31.71603340</ctml:latitude>
+    <ctml:longitude>35.16654930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153953" kind="city">
+    <ctml:name>Beit Sahour</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Bethlehem</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-BTH</ctml:parentRef>
+    <ctml:wikiDataId>Q803990</ctml:wikiDataId>
+    <ctml:latitude>31.69787040</ctml:latitude>
+    <ctml:longitude>35.20793030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153954" kind="city">
+    <ctml:name>Bethlehem</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Bethlehem</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-BTH</ctml:parentRef>
+    <ctml:wikiDataId>Q5776</ctml:wikiDataId>
+    <ctml:latitude>31.70541650</ctml:latitude>
+    <ctml:longitude>35.18184280</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153956" kind="city">
+    <ctml:name>Husan</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Bethlehem</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-BTH</ctml:parentRef>
+    <ctml:wikiDataId>Q5948939</ctml:wikiDataId>
+    <ctml:latitude>31.70846040</ctml:latitude>
+    <ctml:longitude>35.11282530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153958" kind="city">
+    <ctml:name>Nahalin</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Bethlehem</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-BTH</ctml:parentRef>
+    <ctml:wikiDataId>Q2898800</ctml:wikiDataId>
+    <ctml:latitude>31.68564240</ctml:latitude>
+    <ctml:longitude>35.09976230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153959" kind="city">
+    <ctml:name>Tuqu'</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Bethlehem</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-BTH</ctml:parentRef>
+    <ctml:wikiDataId>Q2448610</ctml:wikiDataId>
+    <ctml:latitude>31.63912740</ctml:latitude>
+    <ctml:longitude>35.19189030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153961" kind="city">
+    <ctml:name>Za'atara</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Bethlehem</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-BTH</ctml:parentRef>
+    <ctml:wikiDataId>Q2898722</ctml:wikiDataId>
+    <ctml:latitude>31.67447840</ctml:latitude>
+    <ctml:longitude>35.23449130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153963" kind="city">
+    <ctml:name>az-Zawayda</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Deir El Balah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-DEB</ctml:parentRef>
+    <ctml:wikiDataId>Q59623</ctml:wikiDataId>
+    <ctml:latitude>31.42979750</ctml:latitude>
+    <ctml:longitude>34.35014230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PSE-153962" kind="admin2">
+    <ctml:name>Deir al-Balah</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Deir El Balah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-DEB</ctml:parentRef>
+    <ctml:wikiDataId>Q557383</ctml:wikiDataId>
+    <ctml:latitude>31.41717350</ctml:latitude>
+    <ctml:longitude>34.33033130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153965" kind="city">
+    <ctml:name>Al-Zahra</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Gaza</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-GZA</ctml:parentRef>
+    <ctml:wikiDataId>Q310110</ctml:wikiDataId>
+    <ctml:latitude>31.47246750</ctml:latitude>
+    <ctml:longitude>34.37782930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153970" kind="city">
+    <ctml:name>ad-Dhahiriya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q600680</ctml:wikiDataId>
+    <ctml:latitude>31.40967250</ctml:latitude>
+    <ctml:longitude>34.95490830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153980" kind="city">
+    <ctml:name>as-Samu</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q1768653</ctml:wikiDataId>
+    <ctml:latitude>31.39864450</ctml:latitude>
+    <ctml:longitude>35.04468830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153971" kind="city">
+    <ctml:name>Bani Na'im</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q2918596</ctml:wikiDataId>
+    <ctml:latitude>31.51490050</ctml:latitude>
+    <ctml:longitude>35.14474030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153972" kind="city">
+    <ctml:name>Beit 'Awwa</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q4881423</ctml:wikiDataId>
+    <ctml:latitude>31.50675240</ctml:latitude>
+    <ctml:longitude>34.92956130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153973" kind="city">
+    <ctml:name>Beit Ula</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q4881463</ctml:wikiDataId>
+    <ctml:latitude>31.59845640</ctml:latitude>
+    <ctml:longitude>35.00577530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153974" kind="city">
+    <ctml:name>Beit Ummar</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q2893117</ctml:wikiDataId>
+    <ctml:latitude>31.62284640</ctml:latitude>
+    <ctml:longitude>35.08159930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153975" kind="city">
+    <ctml:name>Deir Sammit</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q5252523</ctml:wikiDataId>
+    <ctml:latitude>31.51996340</ctml:latitude>
+    <ctml:longitude>34.95207130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153966" kind="city">
+    <ctml:name>Dura</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q2435966</ctml:wikiDataId>
+    <ctml:latitude>31.50512740</ctml:latitude>
+    <ctml:longitude>35.00692730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153967" kind="city">
+    <ctml:name>Halhul</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q2574933</ctml:wikiDataId>
+    <ctml:latitude>31.57992420</ctml:latitude>
+    <ctml:longitude>35.07930450</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153968" kind="city">
+    <ctml:name>Hebron</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q168225</ctml:wikiDataId>
+    <ctml:latitude>31.53260350</ctml:latitude>
+    <ctml:longitude>35.07922630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153976" kind="city">
+    <ctml:name>Idhna</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q2919205</ctml:wikiDataId>
+    <ctml:latitude>31.55728640</ctml:latitude>
+    <ctml:longitude>34.95864330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153977" kind="city">
+    <ctml:name>Kharas</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q6400582</ctml:wikiDataId>
+    <ctml:latitude>31.61225240</ctml:latitude>
+    <ctml:longitude>35.02365130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153978" kind="city">
+    <ctml:name>Nuba</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q7067821</ctml:wikiDataId>
+    <ctml:latitude>31.61382080</ctml:latitude>
+    <ctml:longitude>35.00579200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153979" kind="city">
+    <ctml:name>Sa'ir</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q7395443</ctml:wikiDataId>
+    <ctml:latitude>31.58248950</ctml:latitude>
+    <ctml:longitude>35.12317630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153981" kind="city">
+    <ctml:name>Surif</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q2898863</ctml:wikiDataId>
+    <ctml:latitude>31.64958640</ctml:latitude>
+    <ctml:longitude>35.04411230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153983" kind="city">
+    <ctml:name>Taffuh</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q7674962</ctml:wikiDataId>
+    <ctml:latitude>31.53848250</ctml:latitude>
+    <ctml:longitude>35.03037330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153982" kind="city">
+    <ctml:name>Tarqumiya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q1998630</ctml:wikiDataId>
+    <ctml:latitude>31.57736440</ctml:latitude>
+    <ctml:longitude>34.99357430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153969" kind="city">
+    <ctml:name>Yatta</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Hebron</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-HBN</ctml:parentRef>
+    <ctml:wikiDataId>Q2282208</ctml:wikiDataId>
+    <ctml:latitude>31.44418450</ctml:latitude>
+    <ctml:longitude>35.06950530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153986" kind="city">
+    <ctml:name>Ajjah</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q4699844</ctml:wikiDataId>
+    <ctml:latitude>32.36001710</ctml:latitude>
+    <ctml:longitude>35.17739430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153997" kind="city">
+    <ctml:name>al-Yamun</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q4703350</ctml:wikiDataId>
+    <ctml:latitude>32.48671110</ctml:latitude>
+    <ctml:longitude>35.21299230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153987" kind="city">
+    <ctml:name>Arrabah</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q2463999</ctml:wikiDataId>
+    <ctml:latitude>32.40331010</ctml:latitude>
+    <ctml:longitude>35.18531430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153988" kind="city">
+    <ctml:name>Burqin</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q286871</ctml:wikiDataId>
+    <ctml:latitude>32.45616900</ctml:latitude>
+    <ctml:longitude>35.24108830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153989" kind="city">
+    <ctml:name>Deir Abu Da'if</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q3380916</ctml:wikiDataId>
+    <ctml:latitude>32.45609510</ctml:latitude>
+    <ctml:longitude>35.34432230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153990" kind="city">
+    <ctml:name>Jaba</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q2267472</ctml:wikiDataId>
+    <ctml:latitude>32.32506110</ctml:latitude>
+    <ctml:longitude>35.19956430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153984" kind="city">
+    <ctml:name>Jenin</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q374748</ctml:wikiDataId>
+    <ctml:latitude>32.45728400</ctml:latitude>
+    <ctml:longitude>35.28161440</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153991" kind="city">
+    <ctml:name>Kafr Dan</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q2918959</ctml:wikiDataId>
+    <ctml:latitude>32.47801110</ctml:latitude>
+    <ctml:longitude>35.23318730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153992" kind="city">
+    <ctml:name>Kafr Rai</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q2898490</ctml:wikiDataId>
+    <ctml:latitude>32.37345210</ctml:latitude>
+    <ctml:longitude>35.13493630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153993" kind="city">
+    <ctml:name>Meithalun</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q2898712</ctml:wikiDataId>
+    <ctml:latitude>32.34924410</ctml:latitude>
+    <ctml:longitude>35.25088430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153985" kind="city">
+    <ctml:name>Qabatiya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q1899332</ctml:wikiDataId>
+    <ctml:latitude>32.40961710</ctml:latitude>
+    <ctml:longitude>35.25949330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153995" kind="city">
+    <ctml:name>Silat ad-Dhahr</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q2898957</ctml:wikiDataId>
+    <ctml:latitude>32.31753210</ctml:latitude>
+    <ctml:longitude>35.16663230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153994" kind="city">
+    <ctml:name>Silat al-Harithiya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q2898808</ctml:wikiDataId>
+    <ctml:latitude>32.50979700</ctml:latitude>
+    <ctml:longitude>35.20684730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153996" kind="city">
+    <ctml:name>Ya'bad</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q1828708</ctml:wikiDataId>
+    <ctml:latitude>32.44686800</ctml:latitude>
+    <ctml:longitude>35.14667430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-153998" kind="city">
+    <ctml:name>Zababdeh</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jenin</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEN</ctml:parentRef>
+    <ctml:wikiDataId>Q136690</ctml:wikiDataId>
+    <ctml:latitude>32.38523610</ctml:latitude>
+    <ctml:longitude>35.30287930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154003" kind="city">
+    <ctml:name>Abu Dis</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jerusalem (Quds)</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEM</ctml:parentRef>
+    <ctml:wikiDataId>Q246590</ctml:wikiDataId>
+    <ctml:latitude>31.76361630</ctml:latitude>
+    <ctml:longitude>35.23712230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154004" kind="city">
+    <ctml:name>Ar-Ram</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jerusalem (Quds)</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEM</ctml:parentRef>
+    <ctml:wikiDataId>Q775087</ctml:wikiDataId>
+    <ctml:latitude>31.84928630</ctml:latitude>
+    <ctml:longitude>35.21288930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154006" kind="city">
+    <ctml:name>Beit 'Anan</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jerusalem (Quds)</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEM</ctml:parentRef>
+    <ctml:wikiDataId>Q12053122</ctml:wikiDataId>
+    <ctml:latitude>31.85109930</ctml:latitude>
+    <ctml:longitude>35.09111930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154005" kind="city">
+    <ctml:name>Biddu</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jerusalem (Quds)</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEM</ctml:parentRef>
+    <ctml:wikiDataId>Q977521</ctml:wikiDataId>
+    <ctml:latitude>31.83445820</ctml:latitude>
+    <ctml:longitude>35.07441730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154007" kind="city">
+    <ctml:name>Bir Nabala</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jerusalem (Quds)</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEM</ctml:parentRef>
+    <ctml:wikiDataId>Q2905320</ctml:wikiDataId>
+    <ctml:latitude>31.85121630</ctml:latitude>
+    <ctml:longitude>35.18023530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154002" kind="city">
+    <ctml:name>East Jerusalem</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jerusalem (Quds)</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEM</ctml:parentRef>
+    <ctml:wikiDataId>Q212938</ctml:wikiDataId>
+    <ctml:latitude>31.79650430</ctml:latitude>
+    <ctml:longitude>35.01054340</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154008" kind="city">
+    <ctml:name>Hizma</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jerusalem (Quds)</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEM</ctml:parentRef>
+    <ctml:wikiDataId>Q2907886</ctml:wikiDataId>
+    <ctml:latitude>31.83649540</ctml:latitude>
+    <ctml:longitude>35.24263130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154009" kind="city">
+    <ctml:name>Kafr Aqab</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jerusalem (Quds)</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEM</ctml:parentRef>
+    <ctml:wikiDataId>Q2918647</ctml:wikiDataId>
+    <ctml:latitude>31.87472270</ctml:latitude>
+    <ctml:longitude>35.21724000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154011" kind="city">
+    <ctml:name>Qalandiya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jerusalem (Quds)</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEM</ctml:parentRef>
+    <ctml:wikiDataId>Q94800</ctml:wikiDataId>
+    <ctml:latitude>31.86163130</ctml:latitude>
+    <ctml:longitude>35.18731430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154010" kind="city">
+    <ctml:name>Qatanna</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Jerusalem (Quds)</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-JEM</ctml:parentRef>
+    <ctml:wikiDataId>Q7267085</ctml:wikiDataId>
+    <ctml:latitude>31.82695730</ctml:latitude>
+    <ctml:longitude>35.08960030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154012" kind="city">
+    <ctml:name>Abasan al-Kabira</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Khan Yunis</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-KYS</ctml:parentRef>
+    <ctml:wikiDataId>Q3303148</ctml:wikiDataId>
+    <ctml:latitude>31.32316050</ctml:latitude>
+    <ctml:longitude>34.32342530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154015" kind="city">
+    <ctml:name>Abasan al-Saghira</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Khan Yunis</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-KYS</ctml:parentRef>
+    <ctml:wikiDataId>Q1814855</ctml:wikiDataId>
+    <ctml:latitude>31.33974350</ctml:latitude>
+    <ctml:longitude>34.32603330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154017" kind="city">
+    <ctml:name>Al-Qarara</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Khan Yunis</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-KYS</ctml:parentRef>
+    <ctml:wikiDataId>Q1814845</ctml:wikiDataId>
+    <ctml:latitude>31.37134650</ctml:latitude>
+    <ctml:longitude>34.31466030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PSE-154013" kind="admin2">
+    <ctml:name>Bani Suheila</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Khan Yunis</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-KYS</ctml:parentRef>
+    <ctml:wikiDataId>Q1983186</ctml:wikiDataId>
+    <ctml:latitude>31.34213850</ctml:latitude>
+    <ctml:longitude>34.30465430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PSE-154014" kind="admin2">
+    <ctml:name>Khan Yunis</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Khan Yunis</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-KYS</ctml:parentRef>
+    <ctml:wikiDataId>Q309348</ctml:wikiDataId>
+    <ctml:latitude>31.34623510</ctml:latitude>
+    <ctml:longitude>34.28339890</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154016" kind="city">
+    <ctml:name>Khuzaʽa</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Khan Yunis</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-KYS</ctml:parentRef>
+    <ctml:wikiDataId>Q3303148</ctml:wikiDataId>
+    <ctml:latitude>31.30705660</ctml:latitude>
+    <ctml:longitude>34.33944730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154019" kind="city">
+    <ctml:name>Aqraba</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Nablus</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-NBS</ctml:parentRef>
+    <ctml:wikiDataId>Q2918318</ctml:wikiDataId>
+    <ctml:latitude>32.12762020</ctml:latitude>
+    <ctml:longitude>35.32213530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154020" kind="city">
+    <ctml:name>Asira ash-Shamaliya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Nablus</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-NBS</ctml:parentRef>
+    <ctml:wikiDataId>Q4807028</ctml:wikiDataId>
+    <ctml:latitude>32.25186910</ctml:latitude>
+    <ctml:longitude>35.24757130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154026" kind="city">
+    <ctml:name>Beit Furik</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Nablus</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-NBS</ctml:parentRef>
+    <ctml:wikiDataId>Q246369</ctml:wikiDataId>
+    <ctml:latitude>32.17549020</ctml:latitude>
+    <ctml:longitude>35.31588430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154021" kind="city">
+    <ctml:name>Beita</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Nablus</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-NBS</ctml:parentRef>
+    <ctml:wikiDataId>Q275915</ctml:wikiDataId>
+    <ctml:latitude>32.14137420</ctml:latitude>
+    <ctml:longitude>35.26579930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154022" kind="city">
+    <ctml:name>Huwara</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Nablus</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-NBS</ctml:parentRef>
+    <ctml:wikiDataId>Q2898928</ctml:wikiDataId>
+    <ctml:latitude>32.15134720</ctml:latitude>
+    <ctml:longitude>35.23619930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154023" kind="city">
+    <ctml:name>Jammain</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Nablus</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-NBS</ctml:parentRef>
+    <ctml:wikiDataId>Q2896581</ctml:wikiDataId>
+    <ctml:latitude>32.13211420</ctml:latitude>
+    <ctml:longitude>35.18274230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154018" kind="city">
+    <ctml:name>Nablus</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Nablus</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-NBS</ctml:parentRef>
+    <ctml:wikiDataId>Q214178</ctml:wikiDataId>
+    <ctml:latitude>32.22437550</ctml:latitude>
+    <ctml:longitude>35.20647930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154024" kind="city">
+    <ctml:name>Qabalan</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Nablus</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-NBS</ctml:parentRef>
+    <ctml:wikiDataId>Q7265686</ctml:wikiDataId>
+    <ctml:latitude>32.10185420</ctml:latitude>
+    <ctml:longitude>35.26712930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154025" kind="city">
+    <ctml:name>Sebastia</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Nablus</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-NBS</ctml:parentRef>
+    <ctml:wikiDataId>Q2918480</ctml:wikiDataId>
+    <ctml:latitude>32.27827510</ctml:latitude>
+    <ctml:longitude>35.17803330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154027" kind="city">
+    <ctml:name>Beit Hanoun</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>North Gaza</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-NGZ</ctml:parentRef>
+    <ctml:wikiDataId>Q74176</ctml:wikiDataId>
+    <ctml:latitude>31.53851740</ctml:latitude>
+    <ctml:longitude>34.51617030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154028" kind="city">
+    <ctml:name>Beit Lahia</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>North Gaza</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-NGZ</ctml:parentRef>
+    <ctml:wikiDataId>Q803986</ctml:wikiDataId>
+    <ctml:latitude>31.55132340</ctml:latitude>
+    <ctml:longitude>34.48862230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154029" kind="city">
+    <ctml:name>Izbat Beit Hanoun</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>North Gaza</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-NGZ</ctml:parentRef>
+    <ctml:wikiDataId>Q40337544</ctml:wikiDataId>
+    <ctml:latitude>31.54728950</ctml:latitude>
+    <ctml:longitude>34.50197220</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154030" kind="city">
+    <ctml:name>Jabalia</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>North Gaza</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-NGZ</ctml:parentRef>
+    <ctml:wikiDataId>Q1015472</ctml:wikiDataId>
+    <ctml:latitude>31.52943050</ctml:latitude>
+    <ctml:longitude>34.45914130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154031" kind="city">
+    <ctml:name>Azzun</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Qalqilya</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-QQA</ctml:parentRef>
+    <ctml:wikiDataId>Q4119457</ctml:wikiDataId>
+    <ctml:latitude>32.17713520</ctml:latitude>
+    <ctml:longitude>35.03535730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154032" kind="city">
+    <ctml:name>Hableh</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Qalqilya</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-QQA</ctml:parentRef>
+    <ctml:wikiDataId>Q2917125</ctml:wikiDataId>
+    <ctml:latitude>32.16387820</ctml:latitude>
+    <ctml:longitude>34.95768030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154034" kind="city">
+    <ctml:name>Kafr Thulth</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Qalqilya</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-QQA</ctml:parentRef>
+    <ctml:wikiDataId>Q2903619</ctml:wikiDataId>
+    <ctml:latitude>32.15283320</ctml:latitude>
+    <ctml:longitude>35.02469030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154033" kind="city">
+    <ctml:name>Qalqilya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Qalqilya</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-QQA</ctml:parentRef>
+    <ctml:wikiDataId>Q623159</ctml:wikiDataId>
+    <ctml:latitude>32.19604910</ctml:latitude>
+    <ctml:longitude>34.96091330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154037" kind="city">
+    <ctml:name>Al Qarya as Suwaydiya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Rafah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RFH</ctml:parentRef>
+    <ctml:wikiDataId>Q123376507</ctml:wikiDataId>
+    <ctml:latitude>31.32316550</ctml:latitude>
+    <ctml:longitude>34.20157530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PSE-154035" kind="admin2">
+    <ctml:name>Al-Bayuk</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Rafah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RFH</ctml:parentRef>
+    <ctml:wikiDataId>Q59624</ctml:wikiDataId>
+    <ctml:latitude>31.26347860</ctml:latitude>
+    <ctml:longitude>34.26098130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154036" kind="city">
+    <ctml:name>Al-Mawasi</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Rafah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RFH</ctml:parentRef>
+    <ctml:wikiDataId>Q4702878</ctml:wikiDataId>
+    <ctml:latitude>31.34844960</ctml:latitude>
+    <ctml:longitude>34.23553630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PSE-154038" kind="admin2">
+    <ctml:name>Rafah</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Rafah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RFH</ctml:parentRef>
+    <ctml:wikiDataId>Q172343</ctml:wikiDataId>
+    <ctml:latitude>31.29681450</ctml:latitude>
+    <ctml:longitude>34.22288230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154039" kind="city">
+    <ctml:name>Shokat as-Sufi</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Rafah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RFH</ctml:parentRef>
+    <ctml:wikiDataId>Q59769</ctml:wikiDataId>
+    <ctml:latitude>31.25091250</ctml:latitude>
+    <ctml:longitude>34.24516720</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154040" kind="city">
+    <ctml:name>Al-Bireh</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q311326</ctml:wikiDataId>
+    <ctml:latitude>31.91259730</ctml:latitude>
+    <ctml:longitude>35.20111730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154050" kind="city">
+    <ctml:name>al-Mazra'a ash-Sharqiya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q4702883</ctml:wikiDataId>
+    <ctml:latitude>32.00327220</ctml:latitude>
+    <ctml:longitude>35.25553230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154044" kind="city">
+    <ctml:name>Bani Zeid al-Sharqiya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q4855732</ctml:wikiDataId>
+    <ctml:latitude>32.04074320</ctml:latitude>
+    <ctml:longitude>35.15327830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154045" kind="city">
+    <ctml:name>Beit Liqya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q4881453</ctml:wikiDataId>
+    <ctml:latitude>31.86997130</ctml:latitude>
+    <ctml:longitude>35.04460230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154042" kind="city">
+    <ctml:name>Beitunia</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q528941</ctml:wikiDataId>
+    <ctml:latitude>31.88931530</ctml:latitude>
+    <ctml:longitude>35.14921330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154046" kind="city">
+    <ctml:name>Bir Zeit</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q212381</ctml:wikiDataId>
+    <ctml:latitude>31.97534830</ctml:latitude>
+    <ctml:longitude>35.17544230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154047" kind="city">
+    <ctml:name>Deir Dibwan</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q12212354</ctml:wikiDataId>
+    <ctml:latitude>31.91123930</ctml:latitude>
+    <ctml:longitude>35.24838830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154048" kind="city">
+    <ctml:name>Deir Jarir</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q5252515</ctml:wikiDataId>
+    <ctml:latitude>31.96564630</ctml:latitude>
+    <ctml:longitude>35.27317630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154049" kind="city">
+    <ctml:name>Kharbatha al-Misbah</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q2896932</ctml:wikiDataId>
+    <ctml:latitude>31.88530030</ctml:latitude>
+    <ctml:longitude>35.05147330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154051" kind="city">
+    <ctml:name>Ni'lin</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q2918718</ctml:wikiDataId>
+    <ctml:latitude>31.94687730</ctml:latitude>
+    <ctml:longitude>35.00086130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154041" kind="city">
+    <ctml:name>Ramallah</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q158119</ctml:wikiDataId>
+    <ctml:latitude>31.90741710</ctml:latitude>
+    <ctml:longitude>35.16468200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154043" kind="city">
+    <ctml:name>Rawabi</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q1570801</ctml:wikiDataId>
+    <ctml:latitude>32.01021570</ctml:latitude>
+    <ctml:longitude>35.17129410</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154052" kind="city">
+    <ctml:name>Silwad</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q684632</ctml:wikiDataId>
+    <ctml:latitude>31.97942420</ctml:latitude>
+    <ctml:longitude>35.24126530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154053" kind="city">
+    <ctml:name>Sinjil</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q2909143</ctml:wikiDataId>
+    <ctml:latitude>32.03364130</ctml:latitude>
+    <ctml:longitude>35.24333530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154054" kind="city">
+    <ctml:name>Turmus Ayya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Ramallah</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-RBH</ctml:parentRef>
+    <ctml:wikiDataId>Q7855610</ctml:wikiDataId>
+    <ctml:latitude>32.03276020</ctml:latitude>
+    <ctml:longitude>35.26777530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154071" kind="city">
+    <ctml:name>az-Zawiya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q9163181</ctml:wikiDataId>
+    <ctml:latitude>32.09470520</ctml:latitude>
+    <ctml:longitude>35.01867630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154055" kind="city">
+    <ctml:name>Biddya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q2533232</ctml:wikiDataId>
+    <ctml:latitude>32.11340020</ctml:latitude>
+    <ctml:longitude>35.05686530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154056" kind="city">
+    <ctml:name>Bruqin</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q4119463</ctml:wikiDataId>
+    <ctml:latitude>32.07264720</ctml:latitude>
+    <ctml:longitude>35.07780630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154057" kind="city">
+    <ctml:name>Deir Ballut</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q2905340</ctml:wikiDataId>
+    <ctml:latitude>32.06506720</ctml:latitude>
+    <ctml:longitude>35.00494930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154058" kind="city">
+    <ctml:name>Deir Istiya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q5252508</ctml:wikiDataId>
+    <ctml:latitude>32.13079620</ctml:latitude>
+    <ctml:longitude>35.11953630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154059" kind="city">
+    <ctml:name>Farkha</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q5435373</ctml:wikiDataId>
+    <ctml:latitude>32.06877720</ctml:latitude>
+    <ctml:longitude>35.13027630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154060" kind="city">
+    <ctml:name>Haris</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q4119467</ctml:wikiDataId>
+    <ctml:latitude>32.11344920</ctml:latitude>
+    <ctml:longitude>35.12311630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154061" kind="city">
+    <ctml:name>Iskaka</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q6081257</ctml:wikiDataId>
+    <ctml:latitude>32.10295520</ctml:latitude>
+    <ctml:longitude>35.20394930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154062" kind="city">
+    <ctml:name>Kafr ad-Dik</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q12060929</ctml:wikiDataId>
+    <ctml:latitude>32.06863540</ctml:latitude>
+    <ctml:longitude>35.06050810</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154063" kind="city">
+    <ctml:name>Kifl Hares</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q12060997</ctml:wikiDataId>
+    <ctml:latitude>32.11692420</ctml:latitude>
+    <ctml:longitude>35.13636430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154064" kind="city">
+    <ctml:name>Marda</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q6758606</ctml:wikiDataId>
+    <ctml:latitude>32.11425120</ctml:latitude>
+    <ctml:longitude>35.17525130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154065" kind="city">
+    <ctml:name>Mas-ha</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q4119589</ctml:wikiDataId>
+    <ctml:latitude>32.10729820</ctml:latitude>
+    <ctml:longitude>35.03037430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154066" kind="city">
+    <ctml:name>Qarawat Bani Hassan</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q2897029</ctml:wikiDataId>
+    <ctml:latitude>32.12853920</ctml:latitude>
+    <ctml:longitude>35.07877830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154067" kind="city">
+    <ctml:name>Qira</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q7267910</ctml:wikiDataId>
+    <ctml:latitude>32.12213420</ctml:latitude>
+    <ctml:longitude>35.15063230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154068" kind="city">
+    <ctml:name>Rafat</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q7282406</ctml:wikiDataId>
+    <ctml:latitude>32.07872020</ctml:latitude>
+    <ctml:longitude>35.02468730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154069" kind="city">
+    <ctml:name>Sarta</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q7424625</ctml:wikiDataId>
+    <ctml:latitude>32.10336920</ctml:latitude>
+    <ctml:longitude>35.07123830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154070" kind="city">
+    <ctml:name>Yasuf</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Salfit</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-SLT</ctml:parentRef>
+    <ctml:wikiDataId>Q2918617</ctml:wikiDataId>
+    <ctml:latitude>32.10940520</ctml:latitude>
+    <ctml:longitude>35.21911530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154073" kind="city">
+    <ctml:name>Al 'Aqaba</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Tubas</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-TBS</ctml:parentRef>
+    <ctml:wikiDataId>Q4540438</ctml:wikiDataId>
+    <ctml:latitude>32.35257060</ctml:latitude>
+    <ctml:longitude>35.32674760</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154074" kind="city">
+    <ctml:name>Tammun</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Tubas</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-TBS</ctml:parentRef>
+    <ctml:wikiDataId>Q275722</ctml:wikiDataId>
+    <ctml:latitude>32.28315510</ctml:latitude>
+    <ctml:longitude>35.36518930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PSE-154072" kind="admin2">
+    <ctml:name>Tubas</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Tubas</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-TBS</ctml:parentRef>
+    <ctml:wikiDataId>Q275919</ctml:wikiDataId>
+    <ctml:latitude>32.32112010</ctml:latitude>
+    <ctml:longitude>35.34935330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154075" kind="city">
+    <ctml:name>Anabta</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Tulkarm</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-TKM</ctml:parentRef>
+    <ctml:wikiDataId>Q2701952</ctml:wikiDataId>
+    <ctml:latitude>32.30728710</ctml:latitude>
+    <ctml:longitude>35.09887830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154076" kind="city">
+    <ctml:name>Attil</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Tulkarm</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-TKM</ctml:parentRef>
+    <ctml:wikiDataId>Q246431</ctml:wikiDataId>
+    <ctml:latitude>32.37010310</ctml:latitude>
+    <ctml:longitude>35.05193830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154077" kind="city">
+    <ctml:name>Bal'a</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Tulkarm</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-TKM</ctml:parentRef>
+    <ctml:latitude>32.33255610</ctml:latitude>
+    <ctml:longitude>35.08935330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154078" kind="city">
+    <ctml:name>Baqa ash-Sharqiyya</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Tulkarm</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-TKM</ctml:parentRef>
+    <ctml:wikiDataId>Q4857765</ctml:wikiDataId>
+    <ctml:latitude>32.41117510</ctml:latitude>
+    <ctml:longitude>35.05059330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154079" kind="city">
+    <ctml:name>Beit Lid</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Tulkarm</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-TKM</ctml:parentRef>
+    <ctml:wikiDataId>Q2903283</ctml:wikiDataId>
+    <ctml:latitude>32.26158210</ctml:latitude>
+    <ctml:longitude>35.10968030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154080" kind="city">
+    <ctml:name>Qaffin</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Tulkarm</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-TKM</ctml:parentRef>
+    <ctml:wikiDataId>Q2892780</ctml:wikiDataId>
+    <ctml:latitude>32.43341200</ctml:latitude>
+    <ctml:longitude>35.06370030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PSE-154081" kind="city">
+    <ctml:name>Tulkarm</ctml:name>
+    <ctml:country>PSE</ctml:country>
+    <ctml:admin1>Tulkarm</ctml:admin1>
+    <ctml:parentRef>place:admin1:PS-TKM</ctml:parentRef>
+    <ctml:wikiDataId>Q985531</ctml:wikiDataId>
+    <ctml:latitude>32.30796480</ctml:latitude>
+    <ctml:longitude>35.00802890</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

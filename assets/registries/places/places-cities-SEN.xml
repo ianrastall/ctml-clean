@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SEN-104704" kind="city">
+    <ctml:name>Dakar</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Dakar</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-DK</ctml:parentRef>
+    <ctml:wikiDataId>Q3718</ctml:wikiDataId>
+    <ctml:latitude>14.69370000</ctml:latitude>
+    <ctml:longitude>-17.44406000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104705" kind="city">
+    <ctml:name>Dakar Department</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Dakar</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-DK</ctml:parentRef>
+    <ctml:wikiDataId>Q2066372</ctml:wikiDataId>
+    <ctml:latitude>14.71403000</ctml:latitude>
+    <ctml:longitude>-17.45534000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104716" kind="city">
+    <ctml:name>Guédiawaye Department</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Dakar</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-DK</ctml:parentRef>
+    <ctml:wikiDataId>Q957409</ctml:wikiDataId>
+    <ctml:latitude>14.77610000</ctml:latitude>
+    <ctml:longitude>-17.39560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104737" kind="city">
+    <ctml:name>Mermoz Boabab</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Dakar</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-DK</ctml:parentRef>
+    <ctml:wikiDataId>Q2086960</ctml:wikiDataId>
+    <ctml:latitude>14.70649000</ctml:latitude>
+    <ctml:longitude>-17.47581000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104744" kind="city">
+    <ctml:name>N’diareme limamoulaye</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Dakar</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-DK</ctml:parentRef>
+    <ctml:wikiDataId>Q3090358</ctml:wikiDataId>
+    <ctml:latitude>14.78148000</ctml:latitude>
+    <ctml:longitude>-17.38410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104748" kind="city">
+    <ctml:name>Pikine</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Dakar</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-DK</ctml:parentRef>
+    <ctml:wikiDataId>Q1273644</ctml:wikiDataId>
+    <ctml:latitude>14.76457000</ctml:latitude>
+    <ctml:longitude>-17.39071000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104749" kind="city">
+    <ctml:name>Pikine Department</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Dakar</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-DK</ctml:parentRef>
+    <ctml:wikiDataId>Q255486</ctml:wikiDataId>
+    <ctml:latitude>14.76515000</ctml:latitude>
+    <ctml:longitude>-17.35198000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104756" kind="city">
+    <ctml:name>Rufisque Department</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Dakar</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-DK</ctml:parentRef>
+    <ctml:wikiDataId>Q2067770</ctml:wikiDataId>
+    <ctml:latitude>14.74339000</ctml:latitude>
+    <ctml:longitude>-17.19841000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104734" kind="city">
+    <ctml:name>Mbacké</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Diourbel Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-DB</ctml:parentRef>
+    <ctml:wikiDataId>Q2068182</ctml:wikiDataId>
+    <ctml:latitude>14.80828000</ctml:latitude>
+    <ctml:longitude>-15.86454000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104735" kind="city">
+    <ctml:name>Mbaké</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Diourbel Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-DB</ctml:parentRef>
+    <ctml:wikiDataId>Q965360</ctml:wikiDataId>
+    <ctml:latitude>14.79032000</ctml:latitude>
+    <ctml:longitude>-15.90803000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104769" kind="city">
+    <ctml:name>Tiébo</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Diourbel Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-DB</ctml:parentRef>
+    <ctml:wikiDataId>Q2087361</ctml:wikiDataId>
+    <ctml:latitude>14.63333000</ctml:latitude>
+    <ctml:longitude>-16.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104770" kind="city">
+    <ctml:name>Touba</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Diourbel Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-DB</ctml:parentRef>
+    <ctml:wikiDataId>Q657072</ctml:wikiDataId>
+    <ctml:latitude>14.85000000</ctml:latitude>
+    <ctml:longitude>-15.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104708" kind="city">
+    <ctml:name>Diofior</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Fatick</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-FK</ctml:parentRef>
+    <ctml:wikiDataId>Q685330</ctml:wikiDataId>
+    <ctml:latitude>14.18333000</ctml:latitude>
+    <ctml:longitude>-16.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104710" kind="city">
+    <ctml:name>Fatick Department</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Fatick</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-FK</ctml:parentRef>
+    <ctml:wikiDataId>Q2068250</ctml:wikiDataId>
+    <ctml:latitude>14.25909000</ctml:latitude>
+    <ctml:longitude>-16.49884000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104711" kind="city">
+    <ctml:name>Foundiougne</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Fatick</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-FK</ctml:parentRef>
+    <ctml:wikiDataId>Q3079946</ctml:wikiDataId>
+    <ctml:latitude>14.13333000</ctml:latitude>
+    <ctml:longitude>-16.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104715" kind="city">
+    <ctml:name>Guinguinéo</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Fatick</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-FK</ctml:parentRef>
+    <ctml:wikiDataId>Q3100518</ctml:wikiDataId>
+    <ctml:latitude>14.26667000</ctml:latitude>
+    <ctml:longitude>-15.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104747" kind="city">
+    <ctml:name>Passi</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Fatick</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-FK</ctml:parentRef>
+    <ctml:wikiDataId>Q3368418</ctml:wikiDataId>
+    <ctml:latitude>13.98333000</ctml:latitude>
+    <ctml:longitude>-16.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104751" kind="city">
+    <ctml:name>Pourham</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Fatick</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-FK</ctml:parentRef>
+    <ctml:wikiDataId>Q255486</ctml:wikiDataId>
+    <ctml:latitude>14.35000000</ctml:latitude>
+    <ctml:longitude>-16.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104759" kind="city">
+    <ctml:name>Sokone</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Fatick</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-FK</ctml:parentRef>
+    <ctml:wikiDataId>Q3489051</ctml:wikiDataId>
+    <ctml:latitude>13.88333000</ctml:latitude>
+    <ctml:longitude>-16.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104726" kind="city">
+    <ctml:name>Koungheul</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Kaffrine</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q3100527</ctml:wikiDataId>
+    <ctml:latitude>13.98333000</ctml:latitude>
+    <ctml:longitude>-14.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104712" kind="city">
+    <ctml:name>Gandiaye</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Kaolack</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-KL</ctml:parentRef>
+    <ctml:wikiDataId>Q3095100</ctml:wikiDataId>
+    <ctml:latitude>14.23333000</ctml:latitude>
+    <ctml:longitude>-16.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104741" kind="city">
+    <ctml:name>Ndofane</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Kaolack</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-KL</ctml:parentRef>
+    <ctml:wikiDataId>Q3337496</ctml:wikiDataId>
+    <ctml:latitude>13.91667000</ctml:latitude>
+    <ctml:longitude>-15.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104743" kind="city">
+    <ctml:name>Nioro du Rip</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Kaolack</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-KL</ctml:parentRef>
+    <ctml:wikiDataId>Q3090358</ctml:wikiDataId>
+    <ctml:latitude>13.75000000</ctml:latitude>
+    <ctml:longitude>-15.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104709" kind="city">
+    <ctml:name>Département de Salémata</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Kédougou</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q2075446</ctml:wikiDataId>
+    <ctml:latitude>12.59971000</ctml:latitude>
+    <ctml:longitude>-12.77619000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104758" kind="city">
+    <ctml:name>Saraya</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Kédougou</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q942594</ctml:wikiDataId>
+    <ctml:latitude>13.00150000</ctml:latitude>
+    <ctml:longitude>-11.79627000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104731" kind="city">
+    <ctml:name>Marsassoum</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Kolda</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q3294983</ctml:wikiDataId>
+    <ctml:latitude>12.82750000</ctml:latitude>
+    <ctml:longitude>-15.98056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104771" kind="city">
+    <ctml:name>Vélingara</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Kolda</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-KD</ctml:parentRef>
+    <ctml:wikiDataId>Q1014390</ctml:wikiDataId>
+    <ctml:latitude>13.15000000</ctml:latitude>
+    <ctml:longitude>-14.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104706" kind="city">
+    <ctml:name>Dara</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Louga</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-LG</ctml:parentRef>
+    <ctml:wikiDataId>Q3012013</ctml:wikiDataId>
+    <ctml:latitude>15.34844000</ctml:latitude>
+    <ctml:longitude>-15.47993000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104717" kind="city">
+    <ctml:name>Guéoul</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Louga</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-LG</ctml:parentRef>
+    <ctml:wikiDataId>Q3122437</ctml:wikiDataId>
+    <ctml:latitude>15.48333000</ctml:latitude>
+    <ctml:longitude>-16.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104729" kind="city">
+    <ctml:name>Linguere Department</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Louga</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-LG</ctml:parentRef>
+    <ctml:wikiDataId>Q2084742</ctml:wikiDataId>
+    <ctml:latitude>15.35900000</ctml:latitude>
+    <ctml:longitude>-15.15800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104739" kind="city">
+    <ctml:name>Ndibène Dahra</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Louga</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-LG</ctml:parentRef>
+    <ctml:wikiDataId>Q2981190</ctml:wikiDataId>
+    <ctml:latitude>15.33380000</ctml:latitude>
+    <ctml:longitude>-15.47660000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104707" kind="city">
+    <ctml:name>Diawara</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Matam</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q3026446</ctml:wikiDataId>
+    <ctml:latitude>15.02196000</ctml:latitude>
+    <ctml:longitude>-12.54374000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104720" kind="city">
+    <ctml:name>Kanel</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Matam</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q3192625</ctml:wikiDataId>
+    <ctml:latitude>15.49160000</ctml:latitude>
+    <ctml:longitude>-13.17627000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104733" kind="city">
+    <ctml:name>Matam Department</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Matam</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q2085162</ctml:wikiDataId>
+    <ctml:latitude>15.73191000</ctml:latitude>
+    <ctml:longitude>-13.63393000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104745" kind="city">
+    <ctml:name>Ouro Sogui</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Matam</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q2472697</ctml:wikiDataId>
+    <ctml:latitude>15.60588000</ctml:latitude>
+    <ctml:longitude>-13.32230000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104753" kind="city">
+    <ctml:name>Ranérou</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Matam</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q3400742</ctml:wikiDataId>
+    <ctml:latitude>15.30000000</ctml:latitude>
+    <ctml:longitude>-13.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104761" kind="city">
+    <ctml:name>Sémé</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Matam</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q671704</ctml:wikiDataId>
+    <ctml:latitude>15.19422000</ctml:latitude>
+    <ctml:longitude>-12.94482000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104772" kind="city">
+    <ctml:name>Waoundé</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Matam</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q1014390</ctml:wikiDataId>
+    <ctml:latitude>15.26367000</ctml:latitude>
+    <ctml:longitude>-12.86821000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104713" kind="city">
+    <ctml:name>Goléré</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Saint-Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-SL</ctml:parentRef>
+    <ctml:wikiDataId>Q3095100</ctml:wikiDataId>
+    <ctml:latitude>16.25575000</ctml:latitude>
+    <ctml:longitude>-14.10165000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104740" kind="city">
+    <ctml:name>Ndioum</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Saint-Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-SL</ctml:parentRef>
+    <ctml:wikiDataId>Q3337485</ctml:wikiDataId>
+    <ctml:latitude>16.51293000</ctml:latitude>
+    <ctml:longitude>-14.64706000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104750" kind="city">
+    <ctml:name>Polel Diaoubé</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Saint-Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-SL</ctml:parentRef>
+    <ctml:wikiDataId>Q255486</ctml:wikiDataId>
+    <ctml:latitude>15.26667000</ctml:latitude>
+    <ctml:longitude>-13.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104754" kind="city">
+    <ctml:name>Richard-Toll</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Saint-Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-SL</ctml:parentRef>
+    <ctml:wikiDataId>Q1153061</ctml:wikiDataId>
+    <ctml:latitude>16.46250000</ctml:latitude>
+    <ctml:longitude>-15.70083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104755" kind="city">
+    <ctml:name>Rosso</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Saint-Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-SL</ctml:parentRef>
+    <ctml:wikiDataId>Q1153061</ctml:wikiDataId>
+    <ctml:latitude>16.42028000</ctml:latitude>
+    <ctml:longitude>-15.79834000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104714" kind="city">
+    <ctml:name>Goudomp Department</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Sédhiou</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-SE</ctml:parentRef>
+    <ctml:wikiDataId>Q2066279</ctml:wikiDataId>
+    <ctml:latitude>12.57778000</ctml:latitude>
+    <ctml:longitude>-15.87222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104718" kind="city">
+    <ctml:name>Joal-Fadiout</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Thiès Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-TH</ctml:parentRef>
+    <ctml:wikiDataId>Q1340331</ctml:wikiDataId>
+    <ctml:latitude>14.16667000</ctml:latitude>
+    <ctml:longitude>-16.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104722" kind="city">
+    <ctml:name>Kayar</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Thiès Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-TH</ctml:parentRef>
+    <ctml:wikiDataId>Q847677</ctml:wikiDataId>
+    <ctml:latitude>14.91893000</ctml:latitude>
+    <ctml:longitude>-17.11978000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104723" kind="city">
+    <ctml:name>Khombole</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Thiès Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-TH</ctml:parentRef>
+    <ctml:wikiDataId>Q2277705</ctml:wikiDataId>
+    <ctml:latitude>14.76667000</ctml:latitude>
+    <ctml:longitude>-16.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104736" kind="city">
+    <ctml:name>Mbour</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Thiès Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-TH</ctml:parentRef>
+    <ctml:wikiDataId>Q2086960</ctml:wikiDataId>
+    <ctml:latitude>14.40569000</ctml:latitude>
+    <ctml:longitude>-16.85559000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104738" kind="city">
+    <ctml:name>Mékhé</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Thiès Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-TH</ctml:parentRef>
+    <ctml:wikiDataId>Q2981190</ctml:wikiDataId>
+    <ctml:latitude>15.10970000</ctml:latitude>
+    <ctml:longitude>-16.62180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104742" kind="city">
+    <ctml:name>Nguékhokh</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Thiès Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-TH</ctml:parentRef>
+    <ctml:wikiDataId>Q3339368</ctml:wikiDataId>
+    <ctml:latitude>14.51255000</ctml:latitude>
+    <ctml:longitude>-17.00447000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104752" kind="city">
+    <ctml:name>Pout</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Thiès Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-TH</ctml:parentRef>
+    <ctml:wikiDataId>Q3400742</ctml:wikiDataId>
+    <ctml:latitude>14.77099000</ctml:latitude>
+    <ctml:longitude>-17.06107000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SEN-104764" kind="admin2">
+    <ctml:name>Thiès</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Thiès Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-TH</ctml:parentRef>
+    <ctml:wikiDataId>Q2087146</ctml:wikiDataId>
+    <ctml:latitude>14.73004000</ctml:latitude>
+    <ctml:longitude>-16.86974000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104765" kind="city">
+    <ctml:name>Thiès Nones</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Thiès Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-TH</ctml:parentRef>
+    <ctml:wikiDataId>Q2087146</ctml:wikiDataId>
+    <ctml:latitude>14.78333000</ctml:latitude>
+    <ctml:longitude>-16.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104766" kind="city">
+    <ctml:name>Tiadiaye</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Thiès Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-TH</ctml:parentRef>
+    <ctml:wikiDataId>Q3523969</ctml:wikiDataId>
+    <ctml:latitude>14.41667000</ctml:latitude>
+    <ctml:longitude>-16.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104768" kind="city">
+    <ctml:name>Tivaouane</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Thiès Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-TH</ctml:parentRef>
+    <ctml:wikiDataId>Q2087361</ctml:wikiDataId>
+    <ctml:latitude>15.08519000</ctml:latitude>
+    <ctml:longitude>-16.71058000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104773" kind="city">
+    <ctml:name>Warang</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Thiès Region</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-TH</ctml:parentRef>
+    <ctml:wikiDataId>Q1014390</ctml:wikiDataId>
+    <ctml:latitude>14.37349000</ctml:latitude>
+    <ctml:longitude>-16.94366000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104702" kind="city">
+    <ctml:name>Adéane</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Ziguinchor</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-ZG</ctml:parentRef>
+    <ctml:wikiDataId>Q2825448</ctml:wikiDataId>
+    <ctml:latitude>12.63000000</ctml:latitude>
+    <ctml:longitude>-16.01694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104703" kind="city">
+    <ctml:name>Bignona</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Ziguinchor</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-ZG</ctml:parentRef>
+    <ctml:wikiDataId>Q286563</ctml:wikiDataId>
+    <ctml:latitude>12.81028000</ctml:latitude>
+    <ctml:longitude>-16.22639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104746" kind="city">
+    <ctml:name>Oussouye</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Ziguinchor</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-ZG</ctml:parentRef>
+    <ctml:wikiDataId>Q768591</ctml:wikiDataId>
+    <ctml:latitude>12.48500000</ctml:latitude>
+    <ctml:longitude>-16.54694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SEN-104767" kind="city">
+    <ctml:name>Tionk Essil</ctml:name>
+    <ctml:country>SEN</ctml:country>
+    <ctml:admin1>Ziguinchor</ctml:admin1>
+    <ctml:parentRef>place:admin1:SN-ZG</ctml:parentRef>
+    <ctml:wikiDataId>Q3523969</ctml:wikiDataId>
+    <ctml:latitude>12.78556000</ctml:latitude>
+    <ctml:longitude>-16.52167000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

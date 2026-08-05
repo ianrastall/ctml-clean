@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:NPL-79705" kind="city">
+    <ctml:name>Bhaktapur</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Bagmati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P3</ctml:parentRef>
+    <ctml:wikiDataId>Q28451</ctml:wikiDataId>
+    <ctml:latitude>27.67743440</ctml:latitude>
+    <ctml:longitude>85.40386700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79707" kind="city">
+    <ctml:name>Chitwan</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Bagmati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P3</ctml:parentRef>
+    <ctml:wikiDataId>Q28583</ctml:wikiDataId>
+    <ctml:latitude>27.61953620</ctml:latitude>
+    <ctml:longitude>84.02793400</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79713" kind="city">
+    <ctml:name>Dhading</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Bagmati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P3</ctml:parentRef>
+    <ctml:wikiDataId>Q28454</ctml:wikiDataId>
+    <ctml:latitude>28.00725840</ctml:latitude>
+    <ctml:longitude>84.28464170</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79722" kind="city">
+    <ctml:name>Dolakha</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Bagmati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P3</ctml:parentRef>
+    <ctml:wikiDataId>Q28621</ctml:wikiDataId>
+    <ctml:latitude>27.82371900</ctml:latitude>
+    <ctml:longitude>85.55991890</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79726" kind="city">
+    <ctml:name>Kathmandu</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Bagmati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P3</ctml:parentRef>
+    <ctml:wikiDataId>Q797472</ctml:wikiDataId>
+    <ctml:latitude>27.70903020</ctml:latitude>
+    <ctml:longitude>85.28493270</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79728" kind="city">
+    <ctml:name>Kavrepalanchok</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Bagmati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P3</ctml:parentRef>
+    <ctml:wikiDataId>Q28569</ctml:wikiDataId>
+    <ctml:latitude>27.54539810</ctml:latitude>
+    <ctml:longitude>85.30416730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79729" kind="city">
+    <ctml:name>Lalitpur</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Bagmati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P3</ctml:parentRef>
+    <ctml:wikiDataId>Q1108338</ctml:wikiDataId>
+    <ctml:latitude>27.54820230</ctml:latitude>
+    <ctml:longitude>85.04201470</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79732" kind="city">
+    <ctml:name>Makwanpur</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Bagmati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P3</ctml:parentRef>
+    <ctml:wikiDataId>Q28174</ctml:wikiDataId>
+    <ctml:latitude>27.43720820</ctml:latitude>
+    <ctml:longitude>84.75780400</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79733" kind="city">
+    <ctml:name>Nuwakot</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Bagmati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P3</ctml:parentRef>
+    <ctml:wikiDataId>Q28430</ctml:wikiDataId>
+    <ctml:latitude>27.92205490</ctml:latitude>
+    <ctml:longitude>84.05968460</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79735" kind="city">
+    <ctml:name>Ramechhap</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Bagmati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P3</ctml:parentRef>
+    <ctml:wikiDataId>Q28611</ctml:wikiDataId>
+    <ctml:latitude>27.53749850</ctml:latitude>
+    <ctml:longitude>85.85535100</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79737" kind="city">
+    <ctml:name>Rasuwa</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Bagmati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P3</ctml:parentRef>
+    <ctml:wikiDataId>Q28605</ctml:wikiDataId>
+    <ctml:latitude>28.17177410</ctml:latitude>
+    <ctml:longitude>84.27823120</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79740" kind="city">
+    <ctml:name>Sindhuli</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Bagmati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P3</ctml:parentRef>
+    <ctml:wikiDataId>Q28586</ctml:wikiDataId>
+    <ctml:latitude>27.18469330</ctml:latitude>
+    <ctml:longitude>85.24437150</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79742" kind="city">
+    <ctml:name>Sindhupalchok</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Bagmati</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P3</ctml:parentRef>
+    <ctml:wikiDataId>Q28445</ctml:wikiDataId>
+    <ctml:latitude>27.90711960</ctml:latitude>
+    <ctml:longitude>85.42360670</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79706" kind="city">
+    <ctml:name>Baglung</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Gandaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P4</ctml:parentRef>
+    <ctml:wikiDataId>Q28162</ctml:wikiDataId>
+    <ctml:latitude>28.27711640</ctml:latitude>
+    <ctml:longitude>83.54353530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79709" kind="city">
+    <ctml:name>Gorkha</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Gandaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P4</ctml:parentRef>
+    <ctml:wikiDataId>Q28476</ctml:wikiDataId>
+    <ctml:latitude>28.27346270</ctml:latitude>
+    <ctml:longitude>84.14877700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79711" kind="city">
+    <ctml:name>Kaski</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Gandaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P4</ctml:parentRef>
+    <ctml:wikiDataId>Q28436</ctml:wikiDataId>
+    <ctml:latitude>28.34572360</ctml:latitude>
+    <ctml:longitude>83.65987310</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79720" kind="city">
+    <ctml:name>Lamjung</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Gandaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P4</ctml:parentRef>
+    <ctml:wikiDataId>Q29275</ctml:wikiDataId>
+    <ctml:latitude>28.28305670</ctml:latitude>
+    <ctml:longitude>84.11103120</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79721" kind="city">
+    <ctml:name>Manang</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Gandaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P4</ctml:parentRef>
+    <ctml:wikiDataId>Q28434</ctml:wikiDataId>
+    <ctml:latitude>28.66872810</ctml:latitude>
+    <ctml:longitude>82.99681360</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79730" kind="city">
+    <ctml:name>Mustang</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Gandaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P4</ctml:parentRef>
+    <ctml:wikiDataId>Q2239575</ctml:wikiDataId>
+    <ctml:latitude>28.94399870</ctml:latitude>
+    <ctml:longitude>82.68067390</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79731" kind="city">
+    <ctml:name>Myagdi</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Gandaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P4</ctml:parentRef>
+    <ctml:wikiDataId>Q28624</ctml:wikiDataId>
+    <ctml:latitude>28.54609860</ctml:latitude>
+    <ctml:longitude>83.15597750</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79736" kind="city">
+    <ctml:name>Nawalpur</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Gandaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P4</ctml:parentRef>
+    <ctml:wikiDataId>Q50822475</ctml:wikiDataId>
+    <ctml:latitude>27.65319650</ctml:latitude>
+    <ctml:longitude>83.72442870</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79738" kind="city">
+    <ctml:name>Parbat</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Gandaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P4</ctml:parentRef>
+    <ctml:wikiDataId>Q28421</ctml:wikiDataId>
+    <ctml:latitude>28.20276430</ctml:latitude>
+    <ctml:longitude>83.36121860</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79739" kind="city">
+    <ctml:name>Syangja</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Gandaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P4</ctml:parentRef>
+    <ctml:wikiDataId>Q28448</ctml:wikiDataId>
+    <ctml:latitude>28.04509710</ctml:latitude>
+    <ctml:longitude>83.40612700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79744" kind="city">
+    <ctml:name>Tanahun</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Gandaki</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P4</ctml:parentRef>
+    <ctml:wikiDataId>Q28446</ctml:wikiDataId>
+    <ctml:latitude>27.93565560</ctml:latitude>
+    <ctml:longitude>83.91793110</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79717" kind="city">
+    <ctml:name>Dailekh</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Karnali</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P6</ctml:parentRef>
+    <ctml:wikiDataId>Q28443</ctml:wikiDataId>
+    <ctml:latitude>28.88480530</ctml:latitude>
+    <ctml:longitude>81.33871970</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79719" kind="city">
+    <ctml:name>Dolpa</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Karnali</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P6</ctml:parentRef>
+    <ctml:wikiDataId>Q28610</ctml:wikiDataId>
+    <ctml:latitude>29.21372390</ctml:latitude>
+    <ctml:longitude>82.37667750</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79724" kind="city">
+    <ctml:name>Humla</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Karnali</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P6</ctml:parentRef>
+    <ctml:wikiDataId>Q28623</ctml:wikiDataId>
+    <ctml:latitude>30.02557030</ctml:latitude>
+    <ctml:longitude>81.21732030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79741" kind="city">
+    <ctml:name>Jajarkot</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Karnali</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P6</ctml:parentRef>
+    <ctml:wikiDataId>Q29430</ctml:wikiDataId>
+    <ctml:latitude>28.86955260</ctml:latitude>
+    <ctml:longitude>81.87033700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79760" kind="city">
+    <ctml:name>Jumla</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Karnali</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P6</ctml:parentRef>
+    <ctml:wikiDataId>Q28619</ctml:wikiDataId>
+    <ctml:latitude>29.23886510</ctml:latitude>
+    <ctml:longitude>81.88899740</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153801" kind="city">
+    <ctml:name>Kalikot</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Karnali</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P6</ctml:parentRef>
+    <ctml:wikiDataId>Q28102</ctml:wikiDataId>
+    <ctml:latitude>29.21645520</ctml:latitude>
+    <ctml:longitude>81.41396150</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153802" kind="city">
+    <ctml:name>Mugu</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Karnali</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P6</ctml:parentRef>
+    <ctml:wikiDataId>Q28593</ctml:wikiDataId>
+    <ctml:latitude>29.67782880</ctml:latitude>
+    <ctml:longitude>81.63611370</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153803" kind="city">
+    <ctml:name>Salyan</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Karnali</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P6</ctml:parentRef>
+    <ctml:wikiDataId>Q28571</ctml:wikiDataId>
+    <ctml:latitude>28.40693490</ctml:latitude>
+    <ctml:longitude>81.76058940</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153804" kind="city">
+    <ctml:name>Surkhet</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Karnali</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P6</ctml:parentRef>
+    <ctml:wikiDataId>Q28589</ctml:wikiDataId>
+    <ctml:latitude>28.65735870</ctml:latitude>
+    <ctml:longitude>80.85115200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153805" kind="city">
+    <ctml:name>Western Rukum</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Karnali</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P6</ctml:parentRef>
+    <ctml:wikiDataId>Q53018063</ctml:wikiDataId>
+    <ctml:latitude>28.75665210</ctml:latitude>
+    <ctml:longitude>82.11273090</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79710" kind="city">
+    <ctml:name>Bhojpur</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Koshi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P1</ctml:parentRef>
+    <ctml:wikiDataId>Q2284812</ctml:wikiDataId>
+    <ctml:latitude>27.16432030</ctml:latitude>
+    <ctml:longitude>86.97399080</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79712" kind="city">
+    <ctml:name>Dhankuta</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Koshi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P1</ctml:parentRef>
+    <ctml:wikiDataId>Q28081</ctml:wikiDataId>
+    <ctml:latitude>26.98445610</ctml:latitude>
+    <ctml:longitude>87.24311290</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79718" kind="city">
+    <ctml:name>Ilam</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Koshi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P1</ctml:parentRef>
+    <ctml:wikiDataId>Q29016</ctml:wikiDataId>
+    <ctml:latitude>26.89856010</ctml:latitude>
+    <ctml:longitude>87.88160070</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79727" kind="city">
+    <ctml:name>Jhapa</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Koshi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P1</ctml:parentRef>
+    <ctml:wikiDataId>Q28160</ctml:wikiDataId>
+    <ctml:latitude>26.58377460</ctml:latitude>
+    <ctml:longitude>87.58265500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79734" kind="city">
+    <ctml:name>Khotang</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Koshi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P1</ctml:parentRef>
+    <ctml:wikiDataId>Q28599</ctml:wikiDataId>
+    <ctml:latitude>27.15640300</ctml:latitude>
+    <ctml:longitude>86.37601470</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79745" kind="city">
+    <ctml:name>Morang</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Koshi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P1</ctml:parentRef>
+    <ctml:wikiDataId>Q28083</ctml:wikiDataId>
+    <ctml:latitude>26.61072710</ctml:latitude>
+    <ctml:longitude>87.13496260</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79756" kind="city">
+    <ctml:name>Okhaldhunga</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Koshi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P1</ctml:parentRef>
+    <ctml:wikiDataId>Q29026</ctml:wikiDataId>
+    <ctml:latitude>27.33668120</ctml:latitude>
+    <ctml:longitude>86.11507710</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153792" kind="city">
+    <ctml:name>Panchthar</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Koshi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P1</ctml:parentRef>
+    <ctml:wikiDataId>Q28155</ctml:wikiDataId>
+    <ctml:latitude>27.14929510</ctml:latitude>
+    <ctml:longitude>87.45396980</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153793" kind="city">
+    <ctml:name>Sankhuwasabha</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Koshi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P1</ctml:parentRef>
+    <ctml:wikiDataId>Q28596</ctml:wikiDataId>
+    <ctml:latitude>27.54665800</ctml:latitude>
+    <ctml:longitude>86.64912720</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153794" kind="city">
+    <ctml:name>Solukhumbu</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Koshi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P1</ctml:parentRef>
+    <ctml:wikiDataId>Q28363</ctml:wikiDataId>
+    <ctml:latitude>27.72514640</ctml:latitude>
+    <ctml:longitude>86.02324040</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153795" kind="city">
+    <ctml:name>Sunsari</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Koshi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P1</ctml:parentRef>
+    <ctml:wikiDataId>Q28157</ctml:wikiDataId>
+    <ctml:latitude>26.64116460</ctml:latitude>
+    <ctml:longitude>86.79919520</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153796" kind="city">
+    <ctml:name>Taplejung</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Koshi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P1</ctml:parentRef>
+    <ctml:wikiDataId>Q28590</ctml:wikiDataId>
+    <ctml:latitude>27.61014090</ctml:latitude>
+    <ctml:longitude>87.16355390</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153797" kind="city">
+    <ctml:name>Terhathum</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Koshi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P1</ctml:parentRef>
+    <ctml:wikiDataId>Q28585</ctml:wikiDataId>
+    <ctml:latitude>27.13268960</ctml:latitude>
+    <ctml:longitude>87.40691430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153798" kind="city">
+    <ctml:name>Udayapur</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Koshi</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P1</ctml:parentRef>
+    <ctml:wikiDataId>Q28582</ctml:wikiDataId>
+    <ctml:latitude>26.93274070</ctml:latitude>
+    <ctml:longitude>86.00264640</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79708" kind="city">
+    <ctml:name>Arghakhanchi</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Lumbini</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P5</ctml:parentRef>
+    <ctml:wikiDataId>Q28432</ctml:wikiDataId>
+    <ctml:latitude>27.93234540</ctml:latitude>
+    <ctml:longitude>82.70966110</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79714" kind="city">
+    <ctml:name>Banke</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Lumbini</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P5</ctml:parentRef>
+    <ctml:wikiDataId>Q28447</ctml:wikiDataId>
+    <ctml:latitude>28.09593710</ctml:latitude>
+    <ctml:longitude>81.51662830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79715" kind="city">
+    <ctml:name>Bardiya</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Lumbini</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P5</ctml:parentRef>
+    <ctml:wikiDataId>Q28458</ctml:wikiDataId>
+    <ctml:latitude>28.37201670</ctml:latitude>
+    <ctml:longitude>81.08316830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79716" kind="city">
+    <ctml:name>Dang</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Lumbini</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P5</ctml:parentRef>
+    <ctml:wikiDataId>Q28066</ctml:wikiDataId>
+    <ctml:latitude>27.97887990</ctml:latitude>
+    <ctml:longitude>82.46841760</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79723" kind="city">
+    <ctml:name>Eastern Rukum</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Lumbini</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P5</ctml:parentRef>
+    <ctml:wikiDataId>Q51844688</ctml:wikiDataId>
+    <ctml:latitude>28.67248040</ctml:latitude>
+    <ctml:longitude>82.48940030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79725" kind="city">
+    <ctml:name>Gulmi</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Lumbini</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P5</ctml:parentRef>
+    <ctml:wikiDataId>Q28572</ctml:wikiDataId>
+    <ctml:latitude>28.09597820</ctml:latitude>
+    <ctml:longitude>82.98379720</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79748" kind="city">
+    <ctml:name>Kapilvastu</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Lumbini</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P5</ctml:parentRef>
+    <ctml:wikiDataId>Q30610827</ctml:wikiDataId>
+    <ctml:latitude>27.54506960</ctml:latitude>
+    <ctml:longitude>82.97552520</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79752" kind="city">
+    <ctml:name>Nawalparasi (West of Bardaghat Susta)</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Lumbini</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P5</ctml:parentRef>
+    <ctml:wikiDataId>Q28588</ctml:wikiDataId>
+    <ctml:latitude>27.51977900</ctml:latitude>
+    <ctml:longitude>83.40494810</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79757" kind="city">
+    <ctml:name>Palpa</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Lumbini</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P5</ctml:parentRef>
+    <ctml:wikiDataId>Q28440</ctml:wikiDataId>
+    <ctml:latitude>27.81068740</ctml:latitude>
+    <ctml:longitude>83.30000220</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-79758" kind="city">
+    <ctml:name>Pyuthan</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Lumbini</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P5</ctml:parentRef>
+    <ctml:wikiDataId>Q28094</ctml:wikiDataId>
+    <ctml:latitude>28.10805440</ctml:latitude>
+    <ctml:longitude>82.78532440</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153799" kind="city">
+    <ctml:name>Rolpa</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Lumbini</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P5</ctml:parentRef>
+    <ctml:wikiDataId>Q28597</ctml:wikiDataId>
+    <ctml:latitude>28.32573400</ctml:latitude>
+    <ctml:longitude>82.32376150</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153800" kind="city">
+    <ctml:name>Rupandehi</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Lumbini</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P5</ctml:parentRef>
+    <ctml:wikiDataId>Q28438</ctml:wikiDataId>
+    <ctml:latitude>27.54931420</ctml:latitude>
+    <ctml:longitude>83.08930670</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153809" kind="city">
+    <ctml:name>Bara</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Madhesh</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P2</ctml:parentRef>
+    <ctml:wikiDataId>Q28608</ctml:wikiDataId>
+    <ctml:latitude>27.10766310</ctml:latitude>
+    <ctml:longitude>84.73878940</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153807" kind="city">
+    <ctml:name>Dhanusha</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Madhesh</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P2</ctml:parentRef>
+    <ctml:wikiDataId>Q29036</ctml:wikiDataId>
+    <ctml:latitude>26.85112570</ctml:latitude>
+    <ctml:longitude>85.72433070</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153813" kind="city">
+    <ctml:name>Mahottari</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Madhesh</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P2</ctml:parentRef>
+    <ctml:wikiDataId>Q28618</ctml:wikiDataId>
+    <ctml:latitude>26.88439340</ctml:latitude>
+    <ctml:longitude>85.21963240</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153814" kind="city">
+    <ctml:name>Parsa</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Madhesh</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P2</ctml:parentRef>
+    <ctml:wikiDataId>Q28625</ctml:wikiDataId>
+    <ctml:latitude>27.21960860</ctml:latitude>
+    <ctml:longitude>83.54541570</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153810" kind="city">
+    <ctml:name>Rautahat</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Madhesh</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P2</ctml:parentRef>
+    <ctml:wikiDataId>Q28098</ctml:wikiDataId>
+    <ctml:latitude>26.98892410</ctml:latitude>
+    <ctml:longitude>85.00379450</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153811" kind="city">
+    <ctml:name>Saptari</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Madhesh</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P2</ctml:parentRef>
+    <ctml:wikiDataId>Q28613</ctml:wikiDataId>
+    <ctml:latitude>26.60706670</ctml:latitude>
+    <ctml:longitude>86.42052270</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153808" kind="city">
+    <ctml:name>Sarlahi</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Madhesh</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P2</ctml:parentRef>
+    <ctml:wikiDataId>Q28074</ctml:wikiDataId>
+    <ctml:latitude>26.96861190</ctml:latitude>
+    <ctml:longitude>85.23906480</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153812" kind="city">
+    <ctml:name>Siraha</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Madhesh</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P2</ctml:parentRef>
+    <ctml:wikiDataId>Q28088</ctml:wikiDataId>
+    <ctml:latitude>26.74287390</ctml:latitude>
+    <ctml:longitude>86.01304490</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153815" kind="city">
+    <ctml:name>Achham</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Sudurpashchim</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P7</ctml:parentRef>
+    <ctml:wikiDataId>Q28426</ctml:wikiDataId>
+    <ctml:latitude>29.06759620</ctml:latitude>
+    <ctml:longitude>80.97452850</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153816" kind="city">
+    <ctml:name>Baitadi</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Sudurpashchim</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P7</ctml:parentRef>
+    <ctml:wikiDataId>Q28076</ctml:wikiDataId>
+    <ctml:latitude>29.50832630</ctml:latitude>
+    <ctml:longitude>80.24534200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153817" kind="city">
+    <ctml:name>Bajhang</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Sudurpashchim</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P7</ctml:parentRef>
+    <ctml:wikiDataId>Q28592</ctml:wikiDataId>
+    <ctml:latitude>29.72211100</ctml:latitude>
+    <ctml:longitude>80.49591420</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153818" kind="city">
+    <ctml:name>Bajura</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Sudurpashchim</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P7</ctml:parentRef>
+    <ctml:wikiDataId>Q28071</ctml:wikiDataId>
+    <ctml:latitude>29.61008120</ctml:latitude>
+    <ctml:longitude>80.82948020</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153819" kind="city">
+    <ctml:name>Dadeldhura</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Sudurpashchim</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P7</ctml:parentRef>
+    <ctml:wikiDataId>Q28594</ctml:wikiDataId>
+    <ctml:latitude>29.20934090</ctml:latitude>
+    <ctml:longitude>80.15536460</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153820" kind="city">
+    <ctml:name>Darchula</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Sudurpashchim</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P7</ctml:parentRef>
+    <ctml:wikiDataId>Q28601</ctml:wikiDataId>
+    <ctml:latitude>29.91273330</ctml:latitude>
+    <ctml:longitude>80.79371590</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153821" kind="city">
+    <ctml:name>Doti</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Sudurpashchim</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P7</ctml:parentRef>
+    <ctml:wikiDataId>Q28600</ctml:wikiDataId>
+    <ctml:latitude>29.18833610</ctml:latitude>
+    <ctml:longitude>80.52682610</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153822" kind="city">
+    <ctml:name>Kailali</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Sudurpashchim</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P7</ctml:parentRef>
+    <ctml:wikiDataId>Q28153</ctml:wikiDataId>
+    <ctml:latitude>28.73090610</ctml:latitude>
+    <ctml:longitude>80.21847770</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:NPL-153823" kind="city">
+    <ctml:name>Kanchanpur</ctml:name>
+    <ctml:country>NPL</ctml:country>
+    <ctml:admin1>Sudurpashchim</ctml:admin1>
+    <ctml:parentRef>place:admin1:NP-P7</ctml:parentRef>
+    <ctml:wikiDataId>Q28981</ctml:wikiDataId>
+    <ctml:latitude>28.84394510</ctml:latitude>
+    <ctml:longitude>80.28330710</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

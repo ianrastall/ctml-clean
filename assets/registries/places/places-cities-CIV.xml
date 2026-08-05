@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:CIV-18861" kind="city">
+    <ctml:name>Abobo</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Abidjan</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q322624</ctml:wikiDataId>
+    <ctml:latitude>5.41613000</ctml:latitude>
+    <ctml:longitude>-4.01590000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18870" kind="city">
+    <ctml:name>Anyama</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Abidjan</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q2080938</ctml:wikiDataId>
+    <ctml:latitude>5.49462000</ctml:latitude>
+    <ctml:longitude>-4.05183000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18876" kind="city">
+    <ctml:name>Bingerville</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Abidjan</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q863795</ctml:wikiDataId>
+    <ctml:latitude>5.35581000</ctml:latitude>
+    <ctml:longitude>-3.88537000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18901" kind="city">
+    <ctml:name>Gbôklé</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Bas-Sassandra</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-BS</ctml:parentRef>
+    <ctml:wikiDataId>Q1268139</ctml:wikiDataId>
+    <ctml:latitude>4.95712000</ctml:latitude>
+    <ctml:longitude>-6.09372000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18924" kind="city">
+    <ctml:name>Nawa</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Bas-Sassandra</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-BS</ctml:parentRef>
+    <ctml:wikiDataId>Q1191011</ctml:wikiDataId>
+    <ctml:latitude>5.80112000</ctml:latitude>
+    <ctml:longitude>-6.60313000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18929" kind="city">
+    <ctml:name>Sassandra</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Bas-Sassandra</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-BS</ctml:parentRef>
+    <ctml:wikiDataId>Q1102546</ctml:wikiDataId>
+    <ctml:latitude>4.95384000</ctml:latitude>
+    <ctml:longitude>-6.08531000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18933" kind="city">
+    <ctml:name>Tabou</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Bas-Sassandra</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-BS</ctml:parentRef>
+    <ctml:wikiDataId>Q952665</ctml:wikiDataId>
+    <ctml:latitude>4.42295000</ctml:latitude>
+    <ctml:longitude>-7.35280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CIV-18862" kind="admin2">
+    <ctml:name>Aboisso</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Comoé</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-CM</ctml:parentRef>
+    <ctml:wikiDataId>Q521322</ctml:wikiDataId>
+    <ctml:latitude>5.46779000</ctml:latitude>
+    <ctml:longitude>-3.20711000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18863" kind="city">
+    <ctml:name>Adiaké</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Comoé</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-CM</ctml:parentRef>
+    <ctml:wikiDataId>Q521322</ctml:wikiDataId>
+    <ctml:latitude>5.28634000</ctml:latitude>
+    <ctml:longitude>-3.30403000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18867" kind="city">
+    <ctml:name>Agnibilékrou</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Comoé</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-CM</ctml:parentRef>
+    <ctml:wikiDataId>Q2080938</ctml:wikiDataId>
+    <ctml:latitude>7.13113000</ctml:latitude>
+    <ctml:longitude>-3.20415000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18872" kind="city">
+    <ctml:name>Ayamé</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Comoé</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-CM</ctml:parentRef>
+    <ctml:wikiDataId>Q4795810</ctml:wikiDataId>
+    <ctml:latitude>5.60520000</ctml:latitude>
+    <ctml:longitude>-3.15709000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18880" kind="city">
+    <ctml:name>Bonoua</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Comoé</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-CM</ctml:parentRef>
+    <ctml:wikiDataId>Q892276</ctml:wikiDataId>
+    <ctml:latitude>5.27247000</ctml:latitude>
+    <ctml:longitude>-3.59625000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18903" kind="city">
+    <ctml:name>Grand-Bassam</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Comoé</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-CM</ctml:parentRef>
+    <ctml:wikiDataId>Q582922</ctml:wikiDataId>
+    <ctml:latitude>5.21180000</ctml:latitude>
+    <ctml:longitude>-3.73884000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18931" kind="city">
+    <ctml:name>Sud-Comoé</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Comoé</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-CM</ctml:parentRef>
+    <ctml:wikiDataId>Q1102546</ctml:wikiDataId>
+    <ctml:latitude>5.49961000</ctml:latitude>
+    <ctml:longitude>-3.24080000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18898" kind="city">
+    <ctml:name>Folon</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Denguélé</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-DN</ctml:parentRef>
+    <ctml:wikiDataId>Q1268139</ctml:wikiDataId>
+    <ctml:latitude>9.81241000</ctml:latitude>
+    <ctml:longitude>-7.51894000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18915" kind="city">
+    <ctml:name>Kabadougou</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Denguélé</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-DN</ctml:parentRef>
+    <ctml:wikiDataId>Q1553776</ctml:wikiDataId>
+    <ctml:latitude>9.60571000</ctml:latitude>
+    <ctml:longitude>-7.43774000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CIV-18896" kind="admin2">
+    <ctml:name>Divo</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Gôh-Djiboua</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-GD</ctml:parentRef>
+    <ctml:wikiDataId>Q1530295</ctml:wikiDataId>
+    <ctml:latitude>5.83739000</ctml:latitude>
+    <ctml:longitude>-5.35723000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18909" kind="city">
+    <ctml:name>Gôh</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Gôh-Djiboua</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-GD</ctml:parentRef>
+    <ctml:wikiDataId>Q1553776</ctml:wikiDataId>
+    <ctml:latitude>6.14459000</ctml:latitude>
+    <ctml:longitude>-5.92644000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18906" kind="city">
+    <ctml:name>Guibéroua</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Gôh-Djiboua</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-GD</ctml:parentRef>
+    <ctml:wikiDataId>Q1102140</ctml:wikiDataId>
+    <ctml:latitude>6.23869000</ctml:latitude>
+    <ctml:longitude>-6.17147000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18917" kind="city">
+    <ctml:name>Lakota</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Gôh-Djiboua</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-GD</ctml:parentRef>
+    <ctml:wikiDataId>Q2409805</ctml:wikiDataId>
+    <ctml:latitude>5.84752000</ctml:latitude>
+    <ctml:longitude>-5.68200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18918" kind="city">
+    <ctml:name>Lôh-Djiboua</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Gôh-Djiboua</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-GD</ctml:parentRef>
+    <ctml:wikiDataId>Q2409805</ctml:wikiDataId>
+    <ctml:latitude>5.82483000</ctml:latitude>
+    <ctml:longitude>-5.47668000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18926" kind="city">
+    <ctml:name>Oumé</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Gôh-Djiboua</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-GD</ctml:parentRef>
+    <ctml:wikiDataId>Q1102546</ctml:wikiDataId>
+    <ctml:latitude>6.38309000</ctml:latitude>
+    <ctml:longitude>-5.41759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18871" kind="city">
+    <ctml:name>Arrah</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lacs</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LC</ctml:parentRef>
+    <ctml:wikiDataId>Q4795810</ctml:wikiDataId>
+    <ctml:latitude>6.67342000</ctml:latitude>
+    <ctml:longitude>-3.96938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18886" kind="city">
+    <ctml:name>Bélier</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lacs</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LC</ctml:parentRef>
+    <ctml:wikiDataId>Q2922170</ctml:wikiDataId>
+    <ctml:latitude>7.02582000</ctml:latitude>
+    <ctml:longitude>-5.06744000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18877" kind="city">
+    <ctml:name>Bocanda</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lacs</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LC</ctml:parentRef>
+    <ctml:wikiDataId>Q863795</ctml:wikiDataId>
+    <ctml:latitude>7.06264000</ctml:latitude>
+    <ctml:longitude>-4.49948000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CIV-18879" kind="admin2">
+    <ctml:name>Bongouanou</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lacs</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LC</ctml:parentRef>
+    <ctml:wikiDataId>Q892276</ctml:wikiDataId>
+    <ctml:latitude>6.65175000</ctml:latitude>
+    <ctml:longitude>-4.20406000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18894" kind="city">
+    <ctml:name>Daoukro</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lacs</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LC</ctml:parentRef>
+    <ctml:wikiDataId>Q3015844</ctml:wikiDataId>
+    <ctml:latitude>7.05910000</ctml:latitude>
+    <ctml:longitude>-3.96310000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18912" kind="city">
+    <ctml:name>Iffou</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lacs</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LC</ctml:parentRef>
+    <ctml:wikiDataId>Q1553776</ctml:wikiDataId>
+    <ctml:latitude>7.11509000</ctml:latitude>
+    <ctml:longitude>-3.95027000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18922" kind="city">
+    <ctml:name>Moronou</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lacs</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LC</ctml:parentRef>
+    <ctml:wikiDataId>Q1191011</ctml:wikiDataId>
+    <ctml:latitude>6.66830000</ctml:latitude>
+    <ctml:longitude>-4.13155000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18923" kind="city">
+    <ctml:name>N'Zi</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lacs</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LC</ctml:parentRef>
+    <ctml:wikiDataId>Q1191011</ctml:wikiDataId>
+    <ctml:latitude>6.82803000</ctml:latitude>
+    <ctml:longitude>-4.58130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18939" kind="city">
+    <ctml:name>Toumodi</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lacs</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LC</ctml:parentRef>
+    <ctml:wikiDataId>Q2308752</ctml:wikiDataId>
+    <ctml:latitude>6.55799000</ctml:latitude>
+    <ctml:longitude>-5.01769000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18942" kind="city">
+    <ctml:name>Yamoussoukro</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lacs</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LC</ctml:parentRef>
+    <ctml:wikiDataId>Q3768</ctml:wikiDataId>
+    <ctml:latitude>6.82055000</ctml:latitude>
+    <ctml:longitude>-5.27674000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CIV-18864" kind="admin2">
+    <ctml:name>Adzopé</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lagunes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LG</ctml:parentRef>
+    <ctml:wikiDataId>Q1270691</ctml:wikiDataId>
+    <ctml:latitude>6.10694000</ctml:latitude>
+    <ctml:longitude>-3.86194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18865" kind="city">
+    <ctml:name>Affery</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lagunes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LG</ctml:parentRef>
+    <ctml:wikiDataId>Q1270691</ctml:wikiDataId>
+    <ctml:latitude>6.32035000</ctml:latitude>
+    <ctml:longitude>-3.95235000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CIV-18866" kind="admin2">
+    <ctml:name>Agboville</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lagunes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LG</ctml:parentRef>
+    <ctml:wikiDataId>Q2080938</ctml:wikiDataId>
+    <ctml:latitude>5.92801000</ctml:latitude>
+    <ctml:longitude>-4.21319000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18868" kind="city">
+    <ctml:name>Agnéby-Tiassa</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lagunes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LG</ctml:parentRef>
+    <ctml:wikiDataId>Q2080938</ctml:wikiDataId>
+    <ctml:latitude>5.79488000</ctml:latitude>
+    <ctml:longitude>-4.37187000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18869" kind="city">
+    <ctml:name>Akoupé</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lagunes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LG</ctml:parentRef>
+    <ctml:wikiDataId>Q2080938</ctml:wikiDataId>
+    <ctml:latitude>6.38423000</ctml:latitude>
+    <ctml:longitude>-3.88759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18891" kind="city">
+    <ctml:name>Dabou</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lagunes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LG</ctml:parentRef>
+    <ctml:wikiDataId>Q1588249</ctml:wikiDataId>
+    <ctml:latitude>5.32556000</ctml:latitude>
+    <ctml:longitude>-4.37685000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18904" kind="city">
+    <ctml:name>Grand-Lahou</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lagunes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LG</ctml:parentRef>
+    <ctml:wikiDataId>Q1102140</ctml:wikiDataId>
+    <ctml:latitude>5.25068000</ctml:latitude>
+    <ctml:longitude>-5.00333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18905" kind="city">
+    <ctml:name>Grands-Ponts</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lagunes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LG</ctml:parentRef>
+    <ctml:wikiDataId>Q1102140</ctml:wikiDataId>
+    <ctml:latitude>5.30487000</ctml:latitude>
+    <ctml:longitude>-4.39247000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18935" kind="city">
+    <ctml:name>Tiassalé</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Lagunes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-LG</ctml:parentRef>
+    <ctml:wikiDataId>Q952665</ctml:wikiDataId>
+    <ctml:latitude>5.89839000</ctml:latitude>
+    <ctml:longitude>-4.82293000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18874" kind="city">
+    <ctml:name>Bangolo</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Montagnes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-MG</ctml:parentRef>
+    <ctml:wikiDataId>Q2882487</ctml:wikiDataId>
+    <ctml:latitude>7.01232000</ctml:latitude>
+    <ctml:longitude>-7.48639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18875" kind="city">
+    <ctml:name>Biankouma</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Montagnes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-MG</ctml:parentRef>
+    <ctml:wikiDataId>Q1102796</ctml:wikiDataId>
+    <ctml:latitude>7.73909000</ctml:latitude>
+    <ctml:longitude>-7.61377000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18889" kind="city">
+    <ctml:name>Cavally</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Montagnes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-MG</ctml:parentRef>
+    <ctml:wikiDataId>Q2922170</ctml:wikiDataId>
+    <ctml:latitude>6.56343000</ctml:latitude>
+    <ctml:longitude>-7.92526000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18893" kind="city">
+    <ctml:name>Danané</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Montagnes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-MG</ctml:parentRef>
+    <ctml:wikiDataId>Q860304</ctml:wikiDataId>
+    <ctml:latitude>7.25957000</ctml:latitude>
+    <ctml:longitude>-8.15498000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CIV-18897" kind="admin2">
+    <ctml:name>Duekoué</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Montagnes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-MG</ctml:parentRef>
+    <ctml:wikiDataId>Q1268139</ctml:wikiDataId>
+    <ctml:latitude>6.74202000</ctml:latitude>
+    <ctml:longitude>-7.34918000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18908" kind="city">
+    <ctml:name>Guémon</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Montagnes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-MG</ctml:parentRef>
+    <ctml:wikiDataId>Q1553776</ctml:wikiDataId>
+    <ctml:latitude>7.09300000</ctml:latitude>
+    <ctml:longitude>-7.17785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CIV-18907" kind="admin2">
+    <ctml:name>Guiglo</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Montagnes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-MG</ctml:parentRef>
+    <ctml:wikiDataId>Q1553776</ctml:wikiDataId>
+    <ctml:latitude>6.54368000</ctml:latitude>
+    <ctml:longitude>-7.49350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18936" kind="city">
+    <ctml:name>Tonkpi</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Montagnes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-MG</ctml:parentRef>
+    <ctml:wikiDataId>Q952665</ctml:wikiDataId>
+    <ctml:latitude>7.56785000</ctml:latitude>
+    <ctml:longitude>-7.60941000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18938" kind="city">
+    <ctml:name>Toulépleu Gueré</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Montagnes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-MG</ctml:parentRef>
+    <ctml:wikiDataId>Q2308752</ctml:wikiDataId>
+    <ctml:latitude>6.57395000</ctml:latitude>
+    <ctml:longitude>-8.42592000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CIV-18882" kind="admin2">
+    <ctml:name>Bouaflé</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Sassandra-Marahoué</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q1588797</ctml:wikiDataId>
+    <ctml:latitude>6.99041000</ctml:latitude>
+    <ctml:longitude>-5.74420000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18911" kind="city">
+    <ctml:name>Haut-Sassandra</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Sassandra-Marahoué</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q1553776</ctml:wikiDataId>
+    <ctml:latitude>6.66961000</ctml:latitude>
+    <ctml:longitude>-6.50116000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18914" kind="city">
+    <ctml:name>Issia</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Sassandra-Marahoué</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q1553776</ctml:wikiDataId>
+    <ctml:latitude>6.49224000</ctml:latitude>
+    <ctml:longitude>-6.58558000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18921" kind="city">
+    <ctml:name>Marahoué</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Sassandra-Marahoué</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q1191011</ctml:wikiDataId>
+    <ctml:latitude>7.03252000</ctml:latitude>
+    <ctml:longitude>-5.80215000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18940" kind="city">
+    <ctml:name>Vavoua</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Sassandra-Marahoué</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q2308752</ctml:wikiDataId>
+    <ctml:latitude>7.38194000</ctml:latitude>
+    <ctml:longitude>-6.47778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18943" kind="city">
+    <ctml:name>Zuénoula</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Sassandra-Marahoué</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q3768</ctml:wikiDataId>
+    <ctml:latitude>7.43027000</ctml:latitude>
+    <ctml:longitude>-6.05054000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-160024" kind="city">
+    <ctml:name>Bagoué</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Savanes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q850122</ctml:wikiDataId>
+    <ctml:latitude>9.75000000</ctml:latitude>
+    <ctml:longitude>-6.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CIV-160018" kind="admin2">
+    <ctml:name>Boundiali</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Savanes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q853434</ctml:wikiDataId>
+    <ctml:latitude>9.52434000</ctml:latitude>
+    <ctml:longitude>-6.48973000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CIV-160017" kind="admin2">
+    <ctml:name>Ferkéssédougou</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Savanes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q849717</ctml:wikiDataId>
+    <ctml:latitude>9.60055000</ctml:latitude>
+    <ctml:longitude>-5.19611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-160022" kind="city">
+    <ctml:name>Kong</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Savanes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q1030062</ctml:wikiDataId>
+    <ctml:latitude>9.15000000</ctml:latitude>
+    <ctml:longitude>-4.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-160019" kind="city">
+    <ctml:name>Ouangolodougou</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Savanes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q1788030</ctml:wikiDataId>
+    <ctml:latitude>9.96667000</ctml:latitude>
+    <ctml:longitude>-5.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-160023" kind="city">
+    <ctml:name>Poro</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Savanes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q845994</ctml:wikiDataId>
+    <ctml:latitude>9.36667000</ctml:latitude>
+    <ctml:longitude>-5.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-160020" kind="city">
+    <ctml:name>Sinématiali</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Savanes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q3485315</ctml:wikiDataId>
+    <ctml:latitude>9.58333000</ctml:latitude>
+    <ctml:longitude>-5.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-160025" kind="city">
+    <ctml:name>Tchologo</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Savanes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q845989</ctml:wikiDataId>
+    <ctml:latitude>9.76667000</ctml:latitude>
+    <ctml:longitude>-5.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-160021" kind="city">
+    <ctml:name>Tengrela</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Savanes</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q3517463</ctml:wikiDataId>
+    <ctml:latitude>10.48333000</ctml:latitude>
+    <ctml:longitude>-6.40833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18887" kind="city">
+    <ctml:name>Béoumi</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Vallée du Bandama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-VB</ctml:parentRef>
+    <ctml:wikiDataId>Q2922170</ctml:wikiDataId>
+    <ctml:latitude>7.67395000</ctml:latitude>
+    <ctml:longitude>-5.58085000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18881" kind="city">
+    <ctml:name>Botro</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Vallée du Bandama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-VB</ctml:parentRef>
+    <ctml:wikiDataId>Q892276</ctml:wikiDataId>
+    <ctml:latitude>7.85249000</ctml:latitude>
+    <ctml:longitude>-5.31063000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18890" kind="city">
+    <ctml:name>Dabakala</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Vallée du Bandama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-VB</ctml:parentRef>
+    <ctml:wikiDataId>Q6571316</ctml:wikiDataId>
+    <ctml:latitude>8.36321000</ctml:latitude>
+    <ctml:longitude>-4.42863000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18900" kind="city">
+    <ctml:name>Gbêkê</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Vallée du Bandama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-VB</ctml:parentRef>
+    <ctml:wikiDataId>Q1268139</ctml:wikiDataId>
+    <ctml:latitude>7.70271000</ctml:latitude>
+    <ctml:longitude>-5.28511000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18910" kind="city">
+    <ctml:name>Hambol</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Vallée du Bandama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-VB</ctml:parentRef>
+    <ctml:wikiDataId>Q1553776</ctml:wikiDataId>
+    <ctml:latitude>8.30368000</ctml:latitude>
+    <ctml:longitude>-5.15396000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CIV-18916" kind="admin2">
+    <ctml:name>Katiola</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Vallée du Bandama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-VB</ctml:parentRef>
+    <ctml:wikiDataId>Q2409805</ctml:wikiDataId>
+    <ctml:latitude>8.13728000</ctml:latitude>
+    <ctml:longitude>-5.10095000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18927" kind="city">
+    <ctml:name>Sakassou</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Vallée du Bandama</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-VB</ctml:parentRef>
+    <ctml:wikiDataId>Q1102546</ctml:wikiDataId>
+    <ctml:latitude>7.45462000</ctml:latitude>
+    <ctml:longitude>-5.29263000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18873" kind="city">
+    <ctml:name>Bafing</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Woroba</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-WR</ctml:parentRef>
+    <ctml:wikiDataId>Q799800</ctml:wikiDataId>
+    <ctml:latitude>8.40611000</ctml:latitude>
+    <ctml:longitude>-7.58048000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18888" kind="city">
+    <ctml:name>Béré</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Woroba</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-WR</ctml:parentRef>
+    <ctml:wikiDataId>Q2922170</ctml:wikiDataId>
+    <ctml:latitude>8.18952000</ctml:latitude>
+    <ctml:longitude>-6.17157000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CIV-18920" kind="admin2">
+    <ctml:name>Mankono</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Woroba</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-WR</ctml:parentRef>
+    <ctml:wikiDataId>Q1191011</ctml:wikiDataId>
+    <ctml:latitude>8.05861000</ctml:latitude>
+    <ctml:longitude>-6.18972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CIV-18937" kind="admin2">
+    <ctml:name>Touba</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Woroba</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-WR</ctml:parentRef>
+    <ctml:wikiDataId>Q2308752</ctml:wikiDataId>
+    <ctml:latitude>8.28333000</ctml:latitude>
+    <ctml:longitude>-7.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18941" kind="city">
+    <ctml:name>Worodougou</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Woroba</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-WR</ctml:parentRef>
+    <ctml:wikiDataId>Q2308752</ctml:wikiDataId>
+    <ctml:latitude>8.16482000</ctml:latitude>
+    <ctml:longitude>-6.66595000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CIV-18884" kind="admin2">
+    <ctml:name>Bouna</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Zanzan</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-ZZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2922170</ctml:wikiDataId>
+    <ctml:latitude>9.26927000</ctml:latitude>
+    <ctml:longitude>-2.99510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18885" kind="city">
+    <ctml:name>Bounkani</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Zanzan</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-ZZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2922170</ctml:wikiDataId>
+    <ctml:latitude>9.47841000</ctml:latitude>
+    <ctml:longitude>-3.31238000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18902" kind="city">
+    <ctml:name>Gontougo</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Zanzan</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-ZZ</ctml:parentRef>
+    <ctml:wikiDataId>Q1268139</ctml:wikiDataId>
+    <ctml:latitude>7.87132000</ctml:latitude>
+    <ctml:longitude>-3.07068000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18930" kind="city">
+    <ctml:name>Sinfra</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Zanzan</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-ZZ</ctml:parentRef>
+    <ctml:wikiDataId>Q1102546</ctml:wikiDataId>
+    <ctml:latitude>6.62103000</ctml:latitude>
+    <ctml:longitude>-5.91144000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CIV-18934" kind="city">
+    <ctml:name>Tanda</ctml:name>
+    <ctml:country>CIV</ctml:country>
+    <ctml:admin1>Zanzan</ctml:admin1>
+    <ctml:parentRef>place:admin1:CI-ZZ</ctml:parentRef>
+    <ctml:wikiDataId>Q952665</ctml:wikiDataId>
+    <ctml:latitude>7.80335000</ctml:latitude>
+    <ctml:longitude>-3.16832000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:TCD-105154" kind="city">
+    <ctml:name>Oum Hadjer</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Batha</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2656174</ctml:wikiDataId>
+    <ctml:latitude>13.29540000</ctml:latitude>
+    <ctml:longitude>19.69660000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-153256" kind="city">
+    <ctml:name>Baguirmi Department</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Chari-Baguirmi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-CB</ctml:parentRef>
+    <ctml:wikiDataId>Q2436725</ctml:wikiDataId>
+    <ctml:latitude>11.39833333</ctml:latitude>
+    <ctml:longitude>16.16750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-153257" kind="city">
+    <ctml:name>Bousso</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Chari-Baguirmi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-CB</ctml:parentRef>
+    <ctml:wikiDataId>Q658168</ctml:wikiDataId>
+    <ctml:latitude>10.48250000</ctml:latitude>
+    <ctml:longitude>16.71611111</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-153259" kind="city">
+    <ctml:name>Dababa</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Chari-Baguirmi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-CB</ctml:parentRef>
+    <ctml:wikiDataId>Q1773878</ctml:wikiDataId>
+    <ctml:latitude>12.38000000</ctml:latitude>
+    <ctml:longitude>17.06000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-153260" kind="city">
+    <ctml:name>Gaoui</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Chari-Baguirmi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-CB</ctml:parentRef>
+    <ctml:wikiDataId>Q5521718</ctml:wikiDataId>
+    <ctml:latitude>12.18070000</ctml:latitude>
+    <ctml:longitude>15.14760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-153261" kind="city">
+    <ctml:name>Linia</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Chari-Baguirmi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-CB</ctml:parentRef>
+    <ctml:wikiDataId>Q6554150</ctml:wikiDataId>
+    <ctml:latitude>12.05621410</ctml:latitude>
+    <ctml:longitude>15.30379870</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-153262" kind="city">
+    <ctml:name>Mandjafa</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Chari-Baguirmi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-CB</ctml:parentRef>
+    <ctml:wikiDataId>Q6748102</ctml:wikiDataId>
+    <ctml:latitude>11.19861111</ctml:latitude>
+    <ctml:longitude>15.36111111</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105124" kind="city">
+    <ctml:name>Bitkine</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Guéra</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2594463</ctml:wikiDataId>
+    <ctml:latitude>11.98010000</ctml:latitude>
+    <ctml:longitude>18.21380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105149" kind="city">
+    <ctml:name>Melfi</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Guéra</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q3305032</ctml:wikiDataId>
+    <ctml:latitude>11.05980000</ctml:latitude>
+    <ctml:longitude>17.93550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105125" kind="city">
+    <ctml:name>Bokoro</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Hadjer-Lamis</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q2909258</ctml:wikiDataId>
+    <ctml:latitude>12.37813000</ctml:latitude>
+    <ctml:longitude>17.05876000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105146" kind="city">
+    <ctml:name>Massaguet</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Hadjer-Lamis</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q1907375</ctml:wikiDataId>
+    <ctml:latitude>12.47554000</ctml:latitude>
+    <ctml:longitude>15.43647000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105122" kind="city">
+    <ctml:name>Beïnamar</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Logone Occidental</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q2894011</ctml:wikiDataId>
+    <ctml:latitude>8.66980000</ctml:latitude>
+    <ctml:longitude>15.38130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105121" kind="city">
+    <ctml:name>Benoy</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Logone Occidental</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q31914172</ctml:wikiDataId>
+    <ctml:latitude>8.98327000</ctml:latitude>
+    <ctml:longitude>16.31991000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105143" kind="city">
+    <ctml:name>Lac Wey</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Logone Occidental</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q1773895</ctml:wikiDataId>
+    <ctml:latitude>8.70502000</ctml:latitude>
+    <ctml:longitude>15.98303000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105129" kind="city">
+    <ctml:name>Bébédja</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Logone Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-LR</ctml:parentRef>
+    <ctml:wikiDataId>Q289802</ctml:wikiDataId>
+    <ctml:latitude>8.67610000</ctml:latitude>
+    <ctml:longitude>16.56600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105128" kind="city">
+    <ctml:name>Béboto</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Logone Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-LR</ctml:parentRef>
+    <ctml:wikiDataId>Q2929543</ctml:wikiDataId>
+    <ctml:latitude>8.26681000</ctml:latitude>
+    <ctml:longitude>16.93898000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105134" kind="city">
+    <ctml:name>Goundi</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Mandoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q516769</ctml:wikiDataId>
+    <ctml:latitude>9.36267000</ctml:latitude>
+    <ctml:longitude>17.36597000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105153" kind="city">
+    <ctml:name>Moïssala</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Mandoul</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q3327099</ctml:wikiDataId>
+    <ctml:latitude>8.34040000</ctml:latitude>
+    <ctml:longitude>17.76630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105135" kind="city">
+    <ctml:name>Gounou Gaya</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Mayo-Kebbi Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q516769</ctml:wikiDataId>
+    <ctml:latitude>9.62940000</ctml:latitude>
+    <ctml:longitude>15.51320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105138" kind="city">
+    <ctml:name>Guelendeng</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Mayo-Kebbi Est</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q3112862</ctml:wikiDataId>
+    <ctml:latitude>10.91762000</ctml:latitude>
+    <ctml:longitude>15.55011000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105148" kind="city">
+    <ctml:name>Mboursou Léré</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Mayo-Kebbi Ouest</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q35727157</ctml:wikiDataId>
+    <ctml:latitude>9.76390000</ctml:latitude>
+    <ctml:longitude>14.15390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105142" kind="city">
+    <ctml:name>Kyabé</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Moyen-Chari</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-MC</ctml:parentRef>
+    <ctml:wikiDataId>Q1070175</ctml:wikiDataId>
+    <ctml:latitude>9.45149000</ctml:latitude>
+    <ctml:longitude>18.94493000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-153264" kind="city">
+    <ctml:name>N'Djamena</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>N'Djamena</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-ND</ctml:parentRef>
+    <ctml:wikiDataId>Q3659</ctml:wikiDataId>
+    <ctml:latitude>12.11000000</ctml:latitude>
+    <ctml:longitude>15.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105117" kind="city">
+    <ctml:name>Adré</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Ouaddaï</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-OD</ctml:parentRef>
+    <ctml:wikiDataId>Q2570307</ctml:wikiDataId>
+    <ctml:latitude>13.46648000</ctml:latitude>
+    <ctml:longitude>22.19875000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105137" kind="city">
+    <ctml:name>Goz Béïda</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Ouaddaï</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-OD</ctml:parentRef>
+    <ctml:wikiDataId>Q3112862</ctml:wikiDataId>
+    <ctml:latitude>13.94563000</ctml:latitude>
+    <ctml:longitude>20.54680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105130" kind="city">
+    <ctml:name>Béré</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Tandjilé</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q289802</ctml:wikiDataId>
+    <ctml:latitude>9.32020000</ctml:latitude>
+    <ctml:longitude>16.15520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105140" kind="city">
+    <ctml:name>Kelo</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Tandjilé</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q1011669</ctml:wikiDataId>
+    <ctml:latitude>9.30859000</ctml:latitude>
+    <ctml:longitude>15.80658000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105119" kind="city">
+    <ctml:name>Aozou</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Tibesti</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-TI</ctml:parentRef>
+    <ctml:wikiDataId>Q2858017</ctml:wikiDataId>
+    <ctml:latitude>21.83750000</ctml:latitude>
+    <ctml:longitude>17.42750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TCD-105139" kind="city">
+    <ctml:name>Iriba</ctml:name>
+    <ctml:country>TCD</ctml:country>
+    <ctml:admin1>Wadi Fira</ctml:admin1>
+    <ctml:parentRef>place:admin1:TD-WF</ctml:parentRef>
+    <ctml:wikiDataId>Q3154351</ctml:wikiDataId>
+    <ctml:latitude>15.11667000</ctml:latitude>
+    <ctml:longitude>22.25000000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

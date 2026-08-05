@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:TZA-109117" kind="city">
+    <ctml:name>Kingori</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Arusha</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q6410831</ctml:wikiDataId>
+    <ctml:latitude>-3.28333000</ctml:latitude>
+    <ctml:longitude>36.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109121" kind="city">
+    <ctml:name>Kiratu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Arusha</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q11929863</ctml:wikiDataId>
+    <ctml:latitude>-3.33333000</ctml:latitude>
+    <ctml:longitude>35.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TZA-109144" kind="admin2">
+    <ctml:name>Longido</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Arusha</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q6673922</ctml:wikiDataId>
+    <ctml:latitude>-2.73319000</ctml:latitude>
+    <ctml:longitude>36.69773000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109189" kind="city">
+    <ctml:name>Mbuguni</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Arusha</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q15252474</ctml:wikiDataId>
+    <ctml:latitude>-3.56667000</ctml:latitude>
+    <ctml:longitude>36.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109192" kind="city">
+    <ctml:name>Merelani</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Arusha</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q15252474</ctml:wikiDataId>
+    <ctml:latitude>-3.56182000</ctml:latitude>
+    <ctml:longitude>36.97895000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109193" kind="city">
+    <ctml:name>Meru</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Arusha</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1111188</ctml:wikiDataId>
+    <ctml:latitude>-3.30500000</ctml:latitude>
+    <ctml:longitude>36.80100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109207" kind="city">
+    <ctml:name>Monduli</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Arusha</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q29578870</ctml:wikiDataId>
+    <ctml:latitude>-3.30000000</ctml:latitude>
+    <ctml:longitude>36.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109218" kind="city">
+    <ctml:name>Mto wa Mbu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Arusha</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q995238</ctml:wikiDataId>
+    <ctml:latitude>-3.35000000</ctml:latitude>
+    <ctml:longitude>35.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109238" kind="city">
+    <ctml:name>Namanga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Arusha</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q6961283</ctml:wikiDataId>
+    <ctml:latitude>-2.55116000</ctml:latitude>
+    <ctml:longitude>36.78377000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109253" kind="city">
+    <ctml:name>Ngorongoro</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Arusha</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q7192944</ctml:wikiDataId>
+    <ctml:latitude>-3.23973000</ctml:latitude>
+    <ctml:longitude>35.48747000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109257" kind="city">
+    <ctml:name>Nkoaranga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Arusha</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q7192944</ctml:wikiDataId>
+    <ctml:latitude>-3.34126590</ctml:latitude>
+    <ctml:longitude>36.83826900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109270" kind="city">
+    <ctml:name>Poli</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Arusha</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1851848</ctml:wikiDataId>
+    <ctml:latitude>-3.34933040</ctml:latitude>
+    <ctml:longitude>36.81437920</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109293" kind="city">
+    <ctml:name>Usa River</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Arusha</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-01</ctml:parentRef>
+    <ctml:wikiDataId>Q49369134</ctml:wikiDataId>
+    <ctml:latitude>-3.36667000</ctml:latitude>
+    <ctml:longitude>36.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-153775" kind="city">
+    <ctml:name>Ilala</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Dar es Salaam</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q17043946</ctml:wikiDataId>
+    <ctml:latitude>-6.84873800</ctml:latitude>
+    <ctml:longitude>39.28471300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-153776" kind="city">
+    <ctml:name>Kigamboni</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Dar es Salaam</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3815143</ctml:wikiDataId>
+    <ctml:latitude>-6.84945500</ctml:latitude>
+    <ctml:longitude>39.31733300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-153777" kind="city">
+    <ctml:name>Kinondoni</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Dar es Salaam</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q6414190</ctml:wikiDataId>
+    <ctml:latitude>-6.78423100</ctml:latitude>
+    <ctml:longitude>39.26567600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109157" kind="city">
+    <ctml:name>Magomeni</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Dar es Salaam</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q35722319</ctml:wikiDataId>
+    <ctml:latitude>-6.80000000</ctml:latitude>
+    <ctml:longitude>39.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-153778" kind="city">
+    <ctml:name>Temeke</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Dar es Salaam</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2571801</ctml:wikiDataId>
+    <ctml:latitude>-6.90418400</ctml:latitude>
+    <ctml:longitude>39.23528200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-153779" kind="city">
+    <ctml:name>Ubungo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Dar es Salaam</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-02</ctml:parentRef>
+    <ctml:wikiDataId>Q4002519</ctml:wikiDataId>
+    <ctml:latitude>-6.80600500</ctml:latitude>
+    <ctml:longitude>39.24663600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109065" kind="city">
+    <ctml:name>Dodoma</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Dodoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3866</ctml:wikiDataId>
+    <ctml:latitude>-6.17221000</ctml:latitude>
+    <ctml:longitude>35.73947000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109101" kind="city">
+    <ctml:name>Kibakwe</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Dodoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q6403941</ctml:wikiDataId>
+    <ctml:latitude>-6.71667000</ctml:latitude>
+    <ctml:longitude>36.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109125" kind="city">
+    <ctml:name>Kisasa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Dodoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q11929863</ctml:wikiDataId>
+    <ctml:latitude>-6.17526000</ctml:latitude>
+    <ctml:longitude>35.79266000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109135" kind="city">
+    <ctml:name>Kondoa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Dodoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1327204</ctml:wikiDataId>
+    <ctml:latitude>-4.70931000</ctml:latitude>
+    <ctml:longitude>35.86227000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109136" kind="city">
+    <ctml:name>Kongwa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Dodoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q5318130</ctml:wikiDataId>
+    <ctml:latitude>-6.20000000</ctml:latitude>
+    <ctml:longitude>36.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109211" kind="city">
+    <ctml:name>Mpwapwa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Dodoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3711197</ctml:wikiDataId>
+    <ctml:latitude>-6.35000000</ctml:latitude>
+    <ctml:longitude>36.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109212" kind="city">
+    <ctml:name>Msanga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Dodoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3711197</ctml:wikiDataId>
+    <ctml:latitude>-6.05000000</ctml:latitude>
+    <ctml:longitude>36.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109055" kind="city">
+    <ctml:name>Buseresere</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Geita</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-27</ctml:parentRef>
+    <ctml:wikiDataId>Q34784489</ctml:wikiDataId>
+    <ctml:latitude>-3.02361000</ctml:latitude>
+    <ctml:longitude>31.87472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109061" kind="city">
+    <ctml:name>Chato</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Geita</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-27</ctml:parentRef>
+    <ctml:wikiDataId>Q993159</ctml:wikiDataId>
+    <ctml:latitude>-2.63778000</ctml:latitude>
+    <ctml:longitude>31.76694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109094" kind="city">
+    <ctml:name>Kasamwa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Geita</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-27</ctml:parentRef>
+    <ctml:wikiDataId>Q1722298</ctml:wikiDataId>
+    <ctml:latitude>-2.85000000</ctml:latitude>
+    <ctml:longitude>32.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109098" kind="city">
+    <ctml:name>Katoro</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Geita</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-27</ctml:parentRef>
+    <ctml:wikiDataId>Q13123273</ctml:wikiDataId>
+    <ctml:latitude>-3.02028000</ctml:latitude>
+    <ctml:longitude>31.89583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109178" kind="city">
+    <ctml:name>Masumbwe</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Geita</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-27</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-3.63333000</ctml:latitude>
+    <ctml:longitude>32.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109296" kind="city">
+    <ctml:name>Ushirombo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Geita</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-27</ctml:parentRef>
+    <ctml:wikiDataId>Q49369134</ctml:wikiDataId>
+    <ctml:latitude>-3.49194000</ctml:latitude>
+    <ctml:longitude>31.96389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109301" kind="city">
+    <ctml:name>Uyovu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Geita</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-27</ctml:parentRef>
+    <ctml:wikiDataId>Q133448</ctml:wikiDataId>
+    <ctml:latitude>-3.28333000</ctml:latitude>
+    <ctml:longitude>31.52583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109081" kind="city">
+    <ctml:name>Ilula</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Iringa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q5997545</ctml:wikiDataId>
+    <ctml:latitude>-7.67660000</ctml:latitude>
+    <ctml:longitude>36.03658000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109087" kind="city">
+    <ctml:name>Izazi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Iringa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q6101781</ctml:wikiDataId>
+    <ctml:latitude>-7.20000000</ctml:latitude>
+    <ctml:longitude>35.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109154" kind="city">
+    <ctml:name>Mafinga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Iringa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q35722319</ctml:wikiDataId>
+    <ctml:latitude>-7.25000000</ctml:latitude>
+    <ctml:longitude>35.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109166" kind="city">
+    <ctml:name>Makungu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Iringa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-8.73333000</ctml:latitude>
+    <ctml:longitude>35.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109169" kind="city">
+    <ctml:name>Malangali</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Iringa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-04</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-8.56667000</ctml:latitude>
+    <ctml:longitude>34.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109048" kind="city">
+    <ctml:name>Biharamulo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kagera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q15941811</ctml:wikiDataId>
+    <ctml:latitude>-2.63194000</ctml:latitude>
+    <ctml:longitude>31.30889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109049" kind="city">
+    <ctml:name>Bugarama</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kagera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q15941811</ctml:wikiDataId>
+    <ctml:latitude>-2.87056000</ctml:latitude>
+    <ctml:longitude>30.52806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109050" kind="city">
+    <ctml:name>Bugene</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kagera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q15941811</ctml:wikiDataId>
+    <ctml:latitude>-1.59111000</ctml:latitude>
+    <ctml:longitude>31.14028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109088" kind="city">
+    <ctml:name>Kabanga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kagera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q6101781</ctml:wikiDataId>
+    <ctml:latitude>-2.63861000</ctml:latitude>
+    <ctml:longitude>30.46778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109092" kind="city">
+    <ctml:name>Kamachumu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kagera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1722298</ctml:wikiDataId>
+    <ctml:latitude>-1.61861000</ctml:latitude>
+    <ctml:longitude>31.62000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109096" kind="city">
+    <ctml:name>Katerero</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kagera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q13123273</ctml:wikiDataId>
+    <ctml:latitude>-1.40000000</ctml:latitude>
+    <ctml:longitude>31.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109099" kind="city">
+    <ctml:name>Katoro</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kagera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q13123273</ctml:wikiDataId>
+    <ctml:latitude>-1.39972000</ctml:latitude>
+    <ctml:longitude>31.50028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109138" kind="city">
+    <ctml:name>Kyaka</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kagera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q12731755</ctml:wikiDataId>
+    <ctml:latitude>-1.25222000</ctml:latitude>
+    <ctml:longitude>31.42028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109251" kind="city">
+    <ctml:name>Ngara</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kagera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q4810507</ctml:wikiDataId>
+    <ctml:latitude>-2.51222000</ctml:latitude>
+    <ctml:longitude>30.65583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109259" kind="city">
+    <ctml:name>Nshamba</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kagera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q7192944</ctml:wikiDataId>
+    <ctml:latitude>-1.79833000</ctml:latitude>
+    <ctml:longitude>31.55111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109260" kind="city">
+    <ctml:name>Nsunga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kagera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q7192944</ctml:wikiDataId>
+    <ctml:latitude>-1.14389000</ctml:latitude>
+    <ctml:longitude>31.39472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109263" kind="city">
+    <ctml:name>Nyakahanga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kagera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q7192944</ctml:wikiDataId>
+    <ctml:latitude>-1.60333000</ctml:latitude>
+    <ctml:longitude>31.14139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109273" kind="city">
+    <ctml:name>Rulenge</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kagera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1851848</ctml:wikiDataId>
+    <ctml:latitude>-2.71750000</ctml:latitude>
+    <ctml:longitude>30.63250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109082" kind="city">
+    <ctml:name>Inyonga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Katavi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-28</ctml:parentRef>
+    <ctml:wikiDataId>Q5997545</ctml:wikiDataId>
+    <ctml:latitude>-6.71667000</ctml:latitude>
+    <ctml:longitude>32.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109093" kind="city">
+    <ctml:name>Karema</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Katavi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-28</ctml:parentRef>
+    <ctml:wikiDataId>Q1722298</ctml:wikiDataId>
+    <ctml:latitude>-6.82052000</ctml:latitude>
+    <ctml:longitude>30.43887000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109295" kind="city">
+    <ctml:name>Usevia</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Katavi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-28</ctml:parentRef>
+    <ctml:wikiDataId>Q49369134</ctml:wikiDataId>
+    <ctml:latitude>-7.10000000</ctml:latitude>
+    <ctml:longitude>31.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109090" kind="city">
+    <ctml:name>Kakonko</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kigoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-08</ctml:parentRef>
+    <ctml:wikiDataId>Q6346798</ctml:wikiDataId>
+    <ctml:latitude>-3.28278000</ctml:latitude>
+    <ctml:longitude>30.96417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109095" kind="city">
+    <ctml:name>Kasulu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kigoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-08</ctml:parentRef>
+    <ctml:wikiDataId>Q15554012</ctml:wikiDataId>
+    <ctml:latitude>-4.57667000</ctml:latitude>
+    <ctml:longitude>30.10250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109105" kind="city">
+    <ctml:name>Kibondo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kigoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-08</ctml:parentRef>
+    <ctml:wikiDataId>Q6403941</ctml:wikiDataId>
+    <ctml:latitude>-3.58639000</ctml:latitude>
+    <ctml:longitude>30.72028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109152" kind="city">
+    <ctml:name>Mabamba</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kigoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1877120</ctml:wikiDataId>
+    <ctml:latitude>-3.59833000</ctml:latitude>
+    <ctml:longitude>30.50194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109230" kind="city">
+    <ctml:name>Mwandiga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kigoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-08</ctml:parentRef>
+    <ctml:wikiDataId>Q20621755</ctml:wikiDataId>
+    <ctml:latitude>-4.83000000</ctml:latitude>
+    <ctml:longitude>29.65806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109255" kind="city">
+    <ctml:name>Nguruka</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kigoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-08</ctml:parentRef>
+    <ctml:wikiDataId>Q7192944</ctml:wikiDataId>
+    <ctml:latitude>-5.10917000</ctml:latitude>
+    <ctml:longitude>31.04194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109299" kind="city">
+    <ctml:name>Uvinza</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kigoma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-08</ctml:parentRef>
+    <ctml:wikiDataId>Q133448</ctml:wikiDataId>
+    <ctml:latitude>-5.10361000</ctml:latitude>
+    <ctml:longitude>30.39111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109072" kind="city">
+    <ctml:name>Hedaru</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kilimanjaro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q4622385</ctml:wikiDataId>
+    <ctml:latitude>-4.50153290</ctml:latitude>
+    <ctml:longitude>37.91444740</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109164" kind="city">
+    <ctml:name>Machame</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kilimanjaro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2075157</ctml:wikiDataId>
+    <ctml:latitude>-3.20611000</ctml:latitude>
+    <ctml:longitude>37.22638890</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109233" kind="city">
+    <ctml:name>Marangu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kilimanjaro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2627745</ctml:wikiDataId>
+    <ctml:latitude>-3.28376300</ctml:latitude>
+    <ctml:longitude>37.52298200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109274" kind="city">
+    <ctml:name>Same</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Kilimanjaro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-09</ctml:parentRef>
+    <ctml:wikiDataId>Q7193222</ctml:wikiDataId>
+    <ctml:latitude>-4.22199000</ctml:latitude>
+    <ctml:longitude>37.88278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109187" kind="city">
+    <ctml:name>Mbekenyera</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Lindi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-12</ctml:parentRef>
+    <ctml:wikiDataId>Q13124009</ctml:wikiDataId>
+    <ctml:latitude>-10.00000000</ctml:latitude>
+    <ctml:longitude>38.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109198" kind="city">
+    <ctml:name>Mingoyo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Lindi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-12</ctml:parentRef>
+    <ctml:wikiDataId>Q6850269</ctml:wikiDataId>
+    <ctml:latitude>-10.10526000</ctml:latitude>
+    <ctml:longitude>39.61859000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109214" kind="city">
+    <ctml:name>Mtama</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Lindi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-12</ctml:parentRef>
+    <ctml:wikiDataId>Q13124271</ctml:wikiDataId>
+    <ctml:latitude>-10.30000000</ctml:latitude>
+    <ctml:longitude>39.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109235" kind="city">
+    <ctml:name>Nachingwea</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Lindi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-12</ctml:parentRef>
+    <ctml:wikiDataId>Q13124414</ctml:wikiDataId>
+    <ctml:latitude>-10.37250000</ctml:latitude>
+    <ctml:longitude>38.76251000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109266" kind="city">
+    <ctml:name>Nyangao</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Lindi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-12</ctml:parentRef>
+    <ctml:wikiDataId>Q20622671</ctml:wikiDataId>
+    <ctml:latitude>-10.33333000</ctml:latitude>
+    <ctml:longitude>39.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109272" kind="city">
+    <ctml:name>Ruangwa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Lindi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1851848</ctml:wikiDataId>
+    <ctml:latitude>-10.06667000</ctml:latitude>
+    <ctml:longitude>38.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109046" kind="city">
+    <ctml:name>Bashanet</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Manyara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q799843</ctml:wikiDataId>
+    <ctml:latitude>-4.23333000</ctml:latitude>
+    <ctml:longitude>35.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109047" kind="city">
+    <ctml:name>Basotu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Manyara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q799843</ctml:wikiDataId>
+    <ctml:latitude>-4.36667000</ctml:latitude>
+    <ctml:longitude>35.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109064" kind="city">
+    <ctml:name>Dareda</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Manyara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q5222492</ctml:wikiDataId>
+    <ctml:latitude>-4.21667000</ctml:latitude>
+    <ctml:longitude>35.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109066" kind="city">
+    <ctml:name>Dongobesh</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Manyara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q13122853</ctml:wikiDataId>
+    <ctml:latitude>-4.06667000</ctml:latitude>
+    <ctml:longitude>35.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109067" kind="city">
+    <ctml:name>Endasak</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Manyara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q49349721</ctml:wikiDataId>
+    <ctml:latitude>-4.41667000</ctml:latitude>
+    <ctml:longitude>35.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109068" kind="city">
+    <ctml:name>Galappo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Manyara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q49349721</ctml:wikiDataId>
+    <ctml:latitude>-4.26667000</ctml:latitude>
+    <ctml:longitude>35.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109097" kind="city">
+    <ctml:name>Katesh</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Manyara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q13123273</ctml:wikiDataId>
+    <ctml:latitude>-4.52483000</ctml:latitude>
+    <ctml:longitude>35.38490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109103" kind="city">
+    <ctml:name>Kibaya</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Manyara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q6403941</ctml:wikiDataId>
+    <ctml:latitude>-5.30000000</ctml:latitude>
+    <ctml:longitude>36.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109122" kind="city">
+    <ctml:name>Kirya</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Manyara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q11929863</ctml:wikiDataId>
+    <ctml:latitude>-3.91667000</ctml:latitude>
+    <ctml:longitude>37.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109158" kind="city">
+    <ctml:name>Magugu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Manyara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q13123849</ctml:wikiDataId>
+    <ctml:latitude>-4.01667000</ctml:latitude>
+    <ctml:longitude>35.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109190" kind="city">
+    <ctml:name>Mbulu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Manyara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q15252474</ctml:wikiDataId>
+    <ctml:latitude>-3.85000000</ctml:latitude>
+    <ctml:longitude>35.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109234" kind="city">
+    <ctml:name>Naberera</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Manyara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q13124414</ctml:wikiDataId>
+    <ctml:latitude>-4.20000000</ctml:latitude>
+    <ctml:longitude>36.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109243" kind="city">
+    <ctml:name>Nangwa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Manyara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-26</ctml:parentRef>
+    <ctml:wikiDataId>Q20622164</ctml:wikiDataId>
+    <ctml:latitude>-4.46667000</ctml:latitude>
+    <ctml:longitude>35.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109053" kind="city">
+    <ctml:name>Bukonyo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q654259</ctml:wikiDataId>
+    <ctml:latitude>-1.95000000</ctml:latitude>
+    <ctml:longitude>32.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109056" kind="city">
+    <ctml:name>Butiama</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q4833509</ctml:wikiDataId>
+    <ctml:latitude>-1.76667000</ctml:latitude>
+    <ctml:longitude>33.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109085" kind="city">
+    <ctml:name>Issenye</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q735609</ctml:wikiDataId>
+    <ctml:latitude>-2.00000000</ctml:latitude>
+    <ctml:longitude>34.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109102" kind="city">
+    <ctml:name>Kibara</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q6403941</ctml:wikiDataId>
+    <ctml:latitude>-2.15000000</ctml:latitude>
+    <ctml:longitude>33.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109221" kind="city">
+    <ctml:name>Mugango</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q646684</ctml:wikiDataId>
+    <ctml:latitude>-1.68333000</ctml:latitude>
+    <ctml:longitude>33.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109222" kind="city">
+    <ctml:name>Mugumu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q25349031</ctml:wikiDataId>
+    <ctml:latitude>-1.85000000</ctml:latitude>
+    <ctml:longitude>34.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109225" kind="city">
+    <ctml:name>Muriti</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q35735774</ctml:wikiDataId>
+    <ctml:latitude>-1.98333000</ctml:latitude>
+    <ctml:longitude>32.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109236" kind="city">
+    <ctml:name>Nakatunguru</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q13124414</ctml:wikiDataId>
+    <ctml:latitude>-2.11667000</ctml:latitude>
+    <ctml:longitude>33.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109245" kind="city">
+    <ctml:name>Nansio</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q10996284</ctml:wikiDataId>
+    <ctml:latitude>-2.13333000</ctml:latitude>
+    <ctml:longitude>33.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109265" kind="city">
+    <ctml:name>Nyamuswa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q49358510</ctml:wikiDataId>
+    <ctml:latitude>-1.90000000</ctml:latitude>
+    <ctml:longitude>34.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109280" kind="city">
+    <ctml:name>Sirari</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-13</ctml:parentRef>
+    <ctml:wikiDataId>Q10996011</ctml:wikiDataId>
+    <ctml:latitude>-1.25367000</ctml:latitude>
+    <ctml:longitude>34.47596000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149030" kind="city">
+    <ctml:name>Chimala</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q34793055</ctml:wikiDataId>
+    <ctml:latitude>-8.85637000</ctml:latitude>
+    <ctml:longitude>34.02393000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149032" kind="city">
+    <ctml:name>Ibaba</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q5983573</ctml:wikiDataId>
+    <ctml:latitude>-9.40000000</ctml:latitude>
+    <ctml:longitude>33.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149033" kind="city">
+    <ctml:name>Ikama</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q5995334</ctml:wikiDataId>
+    <ctml:latitude>-9.26666667</ctml:latitude>
+    <ctml:longitude>33.83333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149034" kind="city">
+    <ctml:name>Ikinga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q11206299</ctml:wikiDataId>
+    <ctml:latitude>-9.50000000</ctml:latitude>
+    <ctml:longitude>33.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149035" kind="city">
+    <ctml:name>Ikolo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q5996092</ctml:wikiDataId>
+    <ctml:latitude>-9.65000000</ctml:latitude>
+    <ctml:longitude>33.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149036" kind="city">
+    <ctml:name>Ikuti</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q13123064</ctml:wikiDataId>
+    <ctml:latitude>-9.31666667</ctml:latitude>
+    <ctml:longitude>33.53333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149037" kind="city">
+    <ctml:name>Ilembo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q5997528</ctml:wikiDataId>
+    <ctml:latitude>-9.25000000</ctml:latitude>
+    <ctml:longitude>33.38333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149038" kind="city">
+    <ctml:name>Ipinda</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q6065152</ctml:wikiDataId>
+    <ctml:latitude>-9.48333333</ctml:latitude>
+    <ctml:longitude>33.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149039" kind="city">
+    <ctml:name>Kabula</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q6344457</ctml:wikiDataId>
+    <ctml:latitude>-9.26666667</ctml:latitude>
+    <ctml:longitude>33.76666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149040" kind="city">
+    <ctml:name>Kahe Tanzania</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q6346882</ctml:wikiDataId>
+    <ctml:latitude>-3.50000000</ctml:latitude>
+    <ctml:longitude>37.43300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149041" kind="city">
+    <ctml:name>Kandete</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q15233437</ctml:wikiDataId>
+    <ctml:latitude>-9.15000000</ctml:latitude>
+    <ctml:longitude>33.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149042" kind="city">
+    <ctml:name>Katumba</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q6378427</ctml:wikiDataId>
+    <ctml:latitude>-9.23333333</ctml:latitude>
+    <ctml:longitude>33.61666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149043" kind="city">
+    <ctml:name>Kihurio</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q13123401</ctml:wikiDataId>
+    <ctml:latitude>-4.46666667</ctml:latitude>
+    <ctml:longitude>38.06666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149044" kind="city">
+    <ctml:name>Kisiwani</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q35696717</ctml:wikiDataId>
+    <ctml:latitude>-4.13333000</ctml:latitude>
+    <ctml:longitude>37.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149045" kind="city">
+    <ctml:name>Kiwira</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q13123586</ctml:wikiDataId>
+    <ctml:latitude>-9.16666667</ctml:latitude>
+    <ctml:longitude>33.53333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149046" kind="city">
+    <ctml:name>Kwakoa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q13123663</ctml:wikiDataId>
+    <ctml:latitude>-3.76666667</ctml:latitude>
+    <ctml:longitude>37.71666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149047" kind="city">
+    <ctml:name>Lembeni</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q20618701</ctml:wikiDataId>
+    <ctml:latitude>-3.78333333</ctml:latitude>
+    <ctml:longitude>37.61666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149048" kind="city">
+    <ctml:name>Lupata</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q6704665</ctml:wikiDataId>
+    <ctml:latitude>-9.30000000</ctml:latitude>
+    <ctml:longitude>33.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149049" kind="city">
+    <ctml:name>Lusungo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q6705340</ctml:wikiDataId>
+    <ctml:latitude>-9.50000000</ctml:latitude>
+    <ctml:longitude>33.98333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149050" kind="city">
+    <ctml:name>Machame</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1882623</ctml:wikiDataId>
+    <ctml:latitude>-3.20611111</ctml:latitude>
+    <ctml:longitude>37.22638889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149051" kind="city">
+    <ctml:name>Makanya</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q20619402</ctml:wikiDataId>
+    <ctml:latitude>-4.36666667</ctml:latitude>
+    <ctml:longitude>37.83333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149053" kind="city">
+    <ctml:name>Masukulu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q6785674</ctml:wikiDataId>
+    <ctml:latitude>-9.40000000</ctml:latitude>
+    <ctml:longitude>33.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149055" kind="city">
+    <ctml:name>Mlowo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q6885757</ctml:wikiDataId>
+    <ctml:latitude>-9.00000000</ctml:latitude>
+    <ctml:longitude>32.98333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149057" kind="city">
+    <ctml:name>Mpuguso</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q13124243</ctml:wikiDataId>
+    <ctml:latitude>-9.31666667</ctml:latitude>
+    <ctml:longitude>33.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149058" kind="city">
+    <ctml:name>Mwansanga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q6944690</ctml:wikiDataId>
+    <ctml:latitude>-8.76666667</ctml:latitude>
+    <ctml:longitude>33.53333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149059" kind="city">
+    <ctml:name>Mwaya</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q35736074</ctml:wikiDataId>
+    <ctml:latitude>-9.55000000</ctml:latitude>
+    <ctml:longitude>33.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149060" kind="city">
+    <ctml:name>Mwembe</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q20621835</ctml:wikiDataId>
+    <ctml:latitude>-4.15000000</ctml:latitude>
+    <ctml:longitude>37.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149061" kind="city">
+    <ctml:name>Same</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q6120947</ctml:wikiDataId>
+    <ctml:latitude>-4.06666667</ctml:latitude>
+    <ctml:longitude>37.78333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149062" kind="city">
+    <ctml:name>Tukuyu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q995249</ctml:wikiDataId>
+    <ctml:latitude>-9.25833333</ctml:latitude>
+    <ctml:longitude>33.64166667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149063" kind="city">
+    <ctml:name>Tunduma</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q7852915</ctml:wikiDataId>
+    <ctml:latitude>-9.30000000</ctml:latitude>
+    <ctml:longitude>32.76670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149064" kind="city">
+    <ctml:name>Ugweno</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q16902271</ctml:wikiDataId>
+    <ctml:latitude>-3.65000000</ctml:latitude>
+    <ctml:longitude>37.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-149065" kind="city">
+    <ctml:name>Ulanga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mbeya</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-14</ctml:parentRef>
+    <ctml:wikiDataId>Q7878734</ctml:wikiDataId>
+    <ctml:latitude>-8.34361000</ctml:latitude>
+    <ctml:longitude>34.28970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109070" kind="city">
+    <ctml:name>Geiro</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q49349721</ctml:wikiDataId>
+    <ctml:latitude>-6.15000000</ctml:latitude>
+    <ctml:longitude>36.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109073" kind="city">
+    <ctml:name>Ifakara</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q995454</ctml:wikiDataId>
+    <ctml:latitude>-8.13333000</ctml:latitude>
+    <ctml:longitude>36.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109106" kind="city">
+    <ctml:name>Kidatu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q939295</ctml:wikiDataId>
+    <ctml:latitude>-7.69916000</ctml:latitude>
+    <ctml:longitude>36.95722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109107" kind="city">
+    <ctml:name>Kidodi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q939295</ctml:wikiDataId>
+    <ctml:latitude>-7.60361000</ctml:latitude>
+    <ctml:longitude>37.00438000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109115" kind="city">
+    <ctml:name>Kilosa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q6408133</ctml:wikiDataId>
+    <ctml:latitude>-6.83333000</ctml:latitude>
+    <ctml:longitude>36.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109116" kind="city">
+    <ctml:name>Kimamba</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q6408133</ctml:wikiDataId>
+    <ctml:latitude>-6.78333000</ctml:latitude>
+    <ctml:longitude>37.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109123" kind="city">
+    <ctml:name>Kisanga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q11929863</ctml:wikiDataId>
+    <ctml:latitude>-7.43622000</ctml:latitude>
+    <ctml:longitude>37.70337000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109149" kind="city">
+    <ctml:name>Lupiro</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1877120</ctml:wikiDataId>
+    <ctml:latitude>-8.38333000</ctml:latitude>
+    <ctml:longitude>36.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109155" kind="city">
+    <ctml:name>Magole</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q35722319</ctml:wikiDataId>
+    <ctml:latitude>-6.37697000</ctml:latitude>
+    <ctml:longitude>37.37373000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109160" kind="city">
+    <ctml:name>Mahenge</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q13123849</ctml:wikiDataId>
+    <ctml:latitude>-8.68333000</ctml:latitude>
+    <ctml:longitude>36.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109170" kind="city">
+    <ctml:name>Malinyi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-8.93333000</ctml:latitude>
+    <ctml:longitude>36.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109197" kind="city">
+    <ctml:name>Mikumi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q6850269</ctml:wikiDataId>
+    <ctml:latitude>-7.40409000</ctml:latitude>
+    <ctml:longitude>36.98309000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109206" kind="city">
+    <ctml:name>Mlimba</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q29578870</ctml:wikiDataId>
+    <ctml:latitude>-8.80000000</ctml:latitude>
+    <ctml:longitude>35.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109213" kind="city">
+    <ctml:name>Msowero</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q3711197</ctml:wikiDataId>
+    <ctml:latitude>-6.53333000</ctml:latitude>
+    <ctml:longitude>37.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109216" kind="city">
+    <ctml:name>Mtimbira</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q13124271</ctml:wikiDataId>
+    <ctml:latitude>-8.78333000</ctml:latitude>
+    <ctml:longitude>36.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109228" kind="city">
+    <ctml:name>Mvomero</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q3711212</ctml:wikiDataId>
+    <ctml:latitude>-6.30000000</ctml:latitude>
+    <ctml:longitude>37.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109252" kind="city">
+    <ctml:name>Ngerengere</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Morogoro</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-16</ctml:parentRef>
+    <ctml:wikiDataId>Q3875760</ctml:wikiDataId>
+    <ctml:latitude>-6.75000000</ctml:latitude>
+    <ctml:longitude>38.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109062" kind="city">
+    <ctml:name>Chiungutwa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q993159</ctml:wikiDataId>
+    <ctml:latitude>-10.88333000</ctml:latitude>
+    <ctml:longitude>38.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109129" kind="city">
+    <ctml:name>Kitama</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q11929863</ctml:wikiDataId>
+    <ctml:latitude>-10.71667000</ctml:latitude>
+    <ctml:longitude>39.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109130" kind="city">
+    <ctml:name>Kitangari</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q11929863</ctml:wikiDataId>
+    <ctml:latitude>-10.65000000</ctml:latitude>
+    <ctml:longitude>39.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109145" kind="city">
+    <ctml:name>Luchingu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q6673922</ctml:wikiDataId>
+    <ctml:latitude>-10.90000000</ctml:latitude>
+    <ctml:longitude>39.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109147" kind="city">
+    <ctml:name>Lukuledi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1877120</ctml:wikiDataId>
+    <ctml:latitude>-10.56667000</ctml:latitude>
+    <ctml:longitude>38.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109148" kind="city">
+    <ctml:name>Lulindi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1877120</ctml:wikiDataId>
+    <ctml:latitude>-10.81667000</ctml:latitude>
+    <ctml:longitude>39.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109153" kind="city">
+    <ctml:name>Madimba</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q35722319</ctml:wikiDataId>
+    <ctml:latitude>-10.40000000</ctml:latitude>
+    <ctml:longitude>40.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109162" kind="city">
+    <ctml:name>Mahuta</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q13123849</ctml:wikiDataId>
+    <ctml:latitude>-10.86667000</ctml:latitude>
+    <ctml:longitude>39.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109176" kind="city">
+    <ctml:name>Masasi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-10.71667000</ctml:latitude>
+    <ctml:longitude>38.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109177" kind="city">
+    <ctml:name>Masuguru</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-11.36667000</ctml:latitude>
+    <ctml:longitude>38.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109237" kind="city">
+    <ctml:name>Namalenga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q13124414</ctml:wikiDataId>
+    <ctml:latitude>-10.95000000</ctml:latitude>
+    <ctml:longitude>39.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109240" kind="city">
+    <ctml:name>Namikupa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q6961283</ctml:wikiDataId>
+    <ctml:latitude>-10.83333000</ctml:latitude>
+    <ctml:longitude>39.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109241" kind="city">
+    <ctml:name>Nanganga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q49357302</ctml:wikiDataId>
+    <ctml:latitude>-10.38333000</ctml:latitude>
+    <ctml:longitude>39.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109242" kind="city">
+    <ctml:name>Nangomba</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q49357302</ctml:wikiDataId>
+    <ctml:latitude>-10.90000000</ctml:latitude>
+    <ctml:longitude>38.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109244" kind="city">
+    <ctml:name>Nanhyanga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q20622164</ctml:wikiDataId>
+    <ctml:latitude>-10.80000000</ctml:latitude>
+    <ctml:longitude>39.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109246" kind="city">
+    <ctml:name>Nanyamba</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q20622213</ctml:wikiDataId>
+    <ctml:latitude>-10.68333000</ctml:latitude>
+    <ctml:longitude>39.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109249" kind="city">
+    <ctml:name>Newala Kisimani</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q49357481</ctml:wikiDataId>
+    <ctml:latitude>-10.95000000</ctml:latitude>
+    <ctml:longitude>39.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109288" kind="city">
+    <ctml:name>Tandahimba</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mtwara</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-17</ctml:parentRef>
+    <ctml:wikiDataId>Q643112</ctml:wikiDataId>
+    <ctml:latitude>-10.75000000</ctml:latitude>
+    <ctml:longitude>39.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109079" kind="city">
+    <ctml:name>Ilemela</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mwanza</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-18</ctml:parentRef>
+    <ctml:wikiDataId>Q5997545</ctml:wikiDataId>
+    <ctml:latitude>-2.44783000</ctml:latitude>
+    <ctml:longitude>33.03177000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109110" kind="city">
+    <ctml:name>Kihangara</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mwanza</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-18</ctml:parentRef>
+    <ctml:wikiDataId>Q244509</ctml:wikiDataId>
+    <ctml:latitude>-2.58333000</ctml:latitude>
+    <ctml:longitude>33.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109171" kind="city">
+    <ctml:name>Malya</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mwanza</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-18</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-2.98333000</ctml:latitude>
+    <ctml:longitude>33.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109199" kind="city">
+    <ctml:name>Misasi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mwanza</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-18</ctml:parentRef>
+    <ctml:wikiDataId>Q6850269</ctml:wikiDataId>
+    <ctml:latitude>-3.00000000</ctml:latitude>
+    <ctml:longitude>33.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109200" kind="city">
+    <ctml:name>Misungwi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mwanza</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-18</ctml:parentRef>
+    <ctml:wikiDataId>Q6850269</ctml:wikiDataId>
+    <ctml:latitude>-2.85000000</ctml:latitude>
+    <ctml:longitude>33.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109254" kind="city">
+    <ctml:name>Ngudu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mwanza</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-18</ctml:parentRef>
+    <ctml:wikiDataId>Q7192944</ctml:wikiDataId>
+    <ctml:latitude>-2.96667000</ctml:latitude>
+    <ctml:longitude>33.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109267" kind="city">
+    <ctml:name>Nyanguge</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mwanza</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-18</ctml:parentRef>
+    <ctml:wikiDataId>Q13124592</ctml:wikiDataId>
+    <ctml:latitude>-2.55000000</ctml:latitude>
+    <ctml:longitude>33.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109294" kind="city">
+    <ctml:name>Usagara</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Mwanza</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-18</ctml:parentRef>
+    <ctml:wikiDataId>Q49369134</ctml:wikiDataId>
+    <ctml:latitude>-2.68333000</ctml:latitude>
+    <ctml:longitude>33.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109078" kind="city">
+    <ctml:name>Ilembula</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Njombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-29</ctml:parentRef>
+    <ctml:wikiDataId>Q13123059</ctml:wikiDataId>
+    <ctml:latitude>-8.90000000</ctml:latitude>
+    <ctml:longitude>34.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109165" kind="city">
+    <ctml:name>Makumbako</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Njombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-29</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-8.85000000</ctml:latitude>
+    <ctml:longitude>34.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109172" kind="city">
+    <ctml:name>Manda</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Njombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-29</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-10.46667000</ctml:latitude>
+    <ctml:longitude>34.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109181" kind="city">
+    <ctml:name>Matamba</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Njombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-29</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-8.98333000</ctml:latitude>
+    <ctml:longitude>33.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109205" kind="city">
+    <ctml:name>Mlangali</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Njombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-29</ctml:parentRef>
+    <ctml:wikiDataId>Q29578870</ctml:wikiDataId>
+    <ctml:latitude>-9.78333000</ctml:latitude>
+    <ctml:longitude>34.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109219" kind="city">
+    <ctml:name>Mtwango</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Njombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-29</ctml:parentRef>
+    <ctml:wikiDataId>Q995238</ctml:wikiDataId>
+    <ctml:latitude>-9.01667000</ctml:latitude>
+    <ctml:longitude>34.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109134" kind="city">
+    <ctml:name>Konde</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pemba North</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-06</ctml:parentRef>
+    <ctml:wikiDataId>Q35697548</ctml:wikiDataId>
+    <ctml:latitude>-4.95000000</ctml:latitude>
+    <ctml:longitude>39.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109196" kind="city">
+    <ctml:name>Micheweni</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pemba North</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-06</ctml:parentRef>
+    <ctml:wikiDataId>Q6826825</ctml:wikiDataId>
+    <ctml:latitude>-4.96667000</ctml:latitude>
+    <ctml:longitude>39.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109215" kind="city">
+    <ctml:name>Mtambile</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pemba South</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-10</ctml:parentRef>
+    <ctml:wikiDataId>Q13124271</ctml:wikiDataId>
+    <ctml:latitude>-5.38333000</ctml:latitude>
+    <ctml:longitude>39.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109300" kind="city">
+    <ctml:name>Uwelini</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pemba South</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-10</ctml:parentRef>
+    <ctml:wikiDataId>Q133448</ctml:wikiDataId>
+    <ctml:latitude>-5.40000000</ctml:latitude>
+    <ctml:longitude>39.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109044" kind="city">
+    <ctml:name>Bagamoyo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q799843</ctml:wikiDataId>
+    <ctml:latitude>-6.44222000</ctml:latitude>
+    <ctml:longitude>38.90422000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109054" kind="city">
+    <ctml:name>Bungu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q34784489</ctml:wikiDataId>
+    <ctml:latitude>-7.63369000</ctml:latitude>
+    <ctml:longitude>39.05818000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109059" kind="city">
+    <ctml:name>Chalinze</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q993159</ctml:wikiDataId>
+    <ctml:latitude>-6.63784000</ctml:latitude>
+    <ctml:longitude>38.35396000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109077" kind="city">
+    <ctml:name>Ikwiriri</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q13123059</ctml:wikiDataId>
+    <ctml:latitude>-7.95618000</ctml:latitude>
+    <ctml:longitude>38.97164000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109104" kind="city">
+    <ctml:name>Kibiti</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q6403941</ctml:wikiDataId>
+    <ctml:latitude>-7.72178000</ctml:latitude>
+    <ctml:longitude>38.93749000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109114" kind="city">
+    <ctml:name>Kilindoni</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q3366013</ctml:wikiDataId>
+    <ctml:latitude>-7.91446000</ctml:latitude>
+    <ctml:longitude>39.66204000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109124" kind="city">
+    <ctml:name>Kisarawe</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q11929863</ctml:wikiDataId>
+    <ctml:latitude>-6.90000000</ctml:latitude>
+    <ctml:longitude>39.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109146" kind="city">
+    <ctml:name>Lugoba</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q6673922</ctml:wikiDataId>
+    <ctml:latitude>-6.45000000</ctml:latitude>
+    <ctml:longitude>38.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109173" kind="city">
+    <ctml:name>Maneromango</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-7.19880000</ctml:latitude>
+    <ctml:longitude>38.78478000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109191" kind="city">
+    <ctml:name>Mbumi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q15252474</ctml:wikiDataId>
+    <ctml:latitude>-7.90577000</ctml:latitude>
+    <ctml:longitude>39.21047000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109202" kind="city">
+    <ctml:name>Mkuranga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q2086390</ctml:wikiDataId>
+    <ctml:latitude>-7.27000000</ctml:latitude>
+    <ctml:longitude>39.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109204" kind="city">
+    <ctml:name>Mlandizi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q29578870</ctml:wikiDataId>
+    <ctml:latitude>-6.70000000</ctml:latitude>
+    <ctml:longitude>38.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109227" kind="city">
+    <ctml:name>Mvomero</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q847315</ctml:wikiDataId>
+    <ctml:latitude>-6.25000000</ctml:latitude>
+    <ctml:longitude>38.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109298" kind="city">
+    <ctml:name>Utete</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q49369134</ctml:wikiDataId>
+    <ctml:latitude>-7.98598000</ctml:latitude>
+    <ctml:longitude>38.75795000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109302" kind="city">
+    <ctml:name>Vikindu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Pwani</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-19</ctml:parentRef>
+    <ctml:wikiDataId>Q133448</ctml:wikiDataId>
+    <ctml:latitude>-7.00667000</ctml:latitude>
+    <ctml:longitude>39.29849000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109058" kind="city">
+    <ctml:name>Chala</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Rukwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-20</ctml:parentRef>
+    <ctml:wikiDataId>Q993159</ctml:wikiDataId>
+    <ctml:latitude>-7.58333000</ctml:latitude>
+    <ctml:longitude>31.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109120" kind="city">
+    <ctml:name>Kirando</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Rukwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-20</ctml:parentRef>
+    <ctml:wikiDataId>Q11929863</ctml:wikiDataId>
+    <ctml:latitude>-7.41667000</ctml:latitude>
+    <ctml:longitude>30.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109139" kind="city">
+    <ctml:name>Laela</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Rukwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-20</ctml:parentRef>
+    <ctml:wikiDataId>Q12731755</ctml:wikiDataId>
+    <ctml:latitude>-8.56667000</ctml:latitude>
+    <ctml:longitude>32.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109180" kind="city">
+    <ctml:name>Matai</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Rukwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-20</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-8.30000000</ctml:latitude>
+    <ctml:longitude>31.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109239" kind="city">
+    <ctml:name>Namanyere</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Rukwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-20</ctml:parentRef>
+    <ctml:wikiDataId>Q6961283</ctml:wikiDataId>
+    <ctml:latitude>-7.51667000</ctml:latitude>
+    <ctml:longitude>31.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109258" kind="city">
+    <ctml:name>Nkove</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Rukwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-20</ctml:parentRef>
+    <ctml:wikiDataId>Q7192944</ctml:wikiDataId>
+    <ctml:latitude>-7.95000000</ctml:latitude>
+    <ctml:longitude>30.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109109" kind="city">
+    <ctml:name>Kigonsera</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Ruvuma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-21</ctml:parentRef>
+    <ctml:wikiDataId>Q244509</ctml:wikiDataId>
+    <ctml:latitude>-10.80000000</ctml:latitude>
+    <ctml:longitude>35.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109143" kind="city">
+    <ctml:name>Liuli</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Ruvuma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2309656</ctml:wikiDataId>
+    <ctml:latitude>-11.08333000</ctml:latitude>
+    <ctml:longitude>34.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109159" kind="city">
+    <ctml:name>Mahanje</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Ruvuma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-21</ctml:parentRef>
+    <ctml:wikiDataId>Q13123849</ctml:wikiDataId>
+    <ctml:latitude>-9.93333000</ctml:latitude>
+    <ctml:longitude>35.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109174" kind="city">
+    <ctml:name>Maposeni</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Ruvuma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-21</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-10.58333000</ctml:latitude>
+    <ctml:longitude>35.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109182" kind="city">
+    <ctml:name>Matiri</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Ruvuma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-21</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-10.75000000</ctml:latitude>
+    <ctml:longitude>34.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109186" kind="city">
+    <ctml:name>Mbamba Bay</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Ruvuma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-21</ctml:parentRef>
+    <ctml:wikiDataId>Q637890</ctml:wikiDataId>
+    <ctml:latitude>-11.28333000</ctml:latitude>
+    <ctml:longitude>34.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109188" kind="city">
+    <ctml:name>Mbinga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Ruvuma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-21</ctml:parentRef>
+    <ctml:wikiDataId>Q15252474</ctml:wikiDataId>
+    <ctml:latitude>-10.93333000</ctml:latitude>
+    <ctml:longitude>35.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109291" kind="city">
+    <ctml:name>Tingi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Ruvuma</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-21</ctml:parentRef>
+    <ctml:wikiDataId>Q49369134</ctml:wikiDataId>
+    <ctml:latitude>-11.30000000</ctml:latitude>
+    <ctml:longitude>35.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109084" kind="city">
+    <ctml:name>Isaka</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Shinyanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q735609</ctml:wikiDataId>
+    <ctml:latitude>-3.90000000</ctml:latitude>
+    <ctml:longitude>32.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109089" kind="city">
+    <ctml:name>Kahama</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Shinyanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q6346798</ctml:wikiDataId>
+    <ctml:latitude>-3.83333000</ctml:latitude>
+    <ctml:longitude>32.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109127" kind="city">
+    <ctml:name>Kishapu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Shinyanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q11929863</ctml:wikiDataId>
+    <ctml:latitude>-3.61667000</ctml:latitude>
+    <ctml:longitude>33.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109195" kind="city">
+    <ctml:name>Mhango</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Shinyanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q6826825</ctml:wikiDataId>
+    <ctml:latitude>-3.28333000</ctml:latitude>
+    <ctml:longitude>32.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109229" kind="city">
+    <ctml:name>Mwadui</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Shinyanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q3711212</ctml:wikiDataId>
+    <ctml:latitude>-3.55000000</ctml:latitude>
+    <ctml:longitude>33.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109268" kind="city">
+    <ctml:name>Old Shinyanga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Shinyanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q13124592</ctml:wikiDataId>
+    <ctml:latitude>-3.55000000</ctml:latitude>
+    <ctml:longitude>33.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109284" kind="city">
+    <ctml:name>Songwa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Shinyanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q794813</ctml:wikiDataId>
+    <ctml:latitude>-3.51667000</ctml:latitude>
+    <ctml:longitude>33.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109290" kind="city">
+    <ctml:name>Tinde</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Shinyanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-22</ctml:parentRef>
+    <ctml:wikiDataId>Q49369134</ctml:wikiDataId>
+    <ctml:latitude>-3.88333000</ctml:latitude>
+    <ctml:longitude>33.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109045" kind="city">
+    <ctml:name>Bariadi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Simiyu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q799843</ctml:wikiDataId>
+    <ctml:latitude>-2.80000000</ctml:latitude>
+    <ctml:longitude>33.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109126" kind="city">
+    <ctml:name>Kisesa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Simiyu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q11929863</ctml:wikiDataId>
+    <ctml:latitude>-3.08333000</ctml:latitude>
+    <ctml:longitude>34.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109140" kind="city">
+    <ctml:name>Lalago</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Simiyu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q12731755</ctml:wikiDataId>
+    <ctml:latitude>-3.45000000</ctml:latitude>
+    <ctml:longitude>33.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109168" kind="city">
+    <ctml:name>Malampaka</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Simiyu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-3.13333000</ctml:latitude>
+    <ctml:longitude>33.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109179" kind="city">
+    <ctml:name>Maswa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Simiyu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-2.68333000</ctml:latitude>
+    <ctml:longitude>33.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109183" kind="city">
+    <ctml:name>Matonga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Simiyu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-2.38333000</ctml:latitude>
+    <ctml:longitude>34.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109262" kind="city">
+    <ctml:name>Nyakabindi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Simiyu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q7192944</ctml:wikiDataId>
+    <ctml:latitude>-2.63333000</ctml:latitude>
+    <ctml:longitude>33.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109264" kind="city">
+    <ctml:name>Nyalikungu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Simiyu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q49358510</ctml:wikiDataId>
+    <ctml:latitude>-3.18333000</ctml:latitude>
+    <ctml:longitude>33.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109282" kind="city">
+    <ctml:name>Somanda</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Simiyu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-30</ctml:parentRef>
+    <ctml:wikiDataId>Q10996011</ctml:wikiDataId>
+    <ctml:latitude>-3.36667000</ctml:latitude>
+    <ctml:longitude>33.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109074" kind="city">
+    <ctml:name>Igugunu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Singida</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q13123047</ctml:wikiDataId>
+    <ctml:latitude>-4.56667000</ctml:latitude>
+    <ctml:longitude>34.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109076" kind="city">
+    <ctml:name>Ikungi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Singida</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q13123059</ctml:wikiDataId>
+    <ctml:latitude>-5.13333000</ctml:latitude>
+    <ctml:longitude>34.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109080" kind="city">
+    <ctml:name>Ilongero</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Singida</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q5997545</ctml:wikiDataId>
+    <ctml:latitude>-4.66667000</ctml:latitude>
+    <ctml:longitude>34.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109086" kind="city">
+    <ctml:name>Itigi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Singida</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q13123112</ctml:wikiDataId>
+    <ctml:latitude>-5.70000000</ctml:latitude>
+    <ctml:longitude>34.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109113" kind="city">
+    <ctml:name>Kilimatinde</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Singida</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q6406979</ctml:wikiDataId>
+    <ctml:latitude>-5.85000000</ctml:latitude>
+    <ctml:longitude>34.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109118" kind="city">
+    <ctml:name>Kintinku</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Singida</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q13123489</ctml:wikiDataId>
+    <ctml:latitude>-5.88333000</ctml:latitude>
+    <ctml:longitude>35.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109119" kind="city">
+    <ctml:name>Kiomboi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Singida</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q11929863</ctml:wikiDataId>
+    <ctml:latitude>-4.26667000</ctml:latitude>
+    <ctml:longitude>34.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109194" kind="city">
+    <ctml:name>Mgandu</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Singida</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q6826825</ctml:wikiDataId>
+    <ctml:latitude>-5.95000000</ctml:latitude>
+    <ctml:longitude>34.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109217" kind="city">
+    <ctml:name>Mtinko</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Singida</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q13124271</ctml:wikiDataId>
+    <ctml:latitude>-4.55000000</ctml:latitude>
+    <ctml:longitude>34.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109224" kind="city">
+    <ctml:name>Mungaa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Singida</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q13124334</ctml:wikiDataId>
+    <ctml:latitude>-4.96667000</ctml:latitude>
+    <ctml:longitude>34.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109247" kind="city">
+    <ctml:name>Ndago</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Singida</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q6983666</ctml:wikiDataId>
+    <ctml:latitude>-4.60000000</ctml:latitude>
+    <ctml:longitude>34.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109271" kind="city">
+    <ctml:name>Puma</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Singida</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q1851848</ctml:wikiDataId>
+    <ctml:latitude>-5.00000000</ctml:latitude>
+    <ctml:longitude>34.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109275" kind="city">
+    <ctml:name>Sepuka</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Singida</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q13124872</ctml:wikiDataId>
+    <ctml:latitude>-4.75000000</ctml:latitude>
+    <ctml:longitude>34.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109276" kind="city">
+    <ctml:name>Shelui</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Singida</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-23</ctml:parentRef>
+    <ctml:wikiDataId>Q7494040</ctml:wikiDataId>
+    <ctml:latitude>-4.36667000</ctml:latitude>
+    <ctml:longitude>34.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-154662" kind="city">
+    <ctml:name>Ileje</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Songwe</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-31</ctml:parentRef>
+    <ctml:wikiDataId>Q5997501</ctml:wikiDataId>
+    <ctml:latitude>-9.60000000</ctml:latitude>
+    <ctml:longitude>33.48330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-154661" kind="city">
+    <ctml:name>Mbozi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Songwe</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-31</ctml:parentRef>
+    <ctml:wikiDataId>Q1914938</ctml:wikiDataId>
+    <ctml:latitude>-9.08330000</ctml:latitude>
+    <ctml:longitude>33.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-154660" kind="city">
+    <ctml:name>Mkwajuni</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Songwe</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-31</ctml:parentRef>
+    <ctml:wikiDataId>Q6885537</ctml:wikiDataId>
+    <ctml:latitude>-8.42380000</ctml:latitude>
+    <ctml:longitude>33.02900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-154659" kind="city">
+    <ctml:name>Mlowo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Songwe</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-31</ctml:parentRef>
+    <ctml:wikiDataId>Q6885757</ctml:wikiDataId>
+    <ctml:latitude>-9.00000000</ctml:latitude>
+    <ctml:longitude>32.96670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-154658" kind="city">
+    <ctml:name>Tunduma</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Songwe</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-31</ctml:parentRef>
+    <ctml:wikiDataId>Q49109664</ctml:wikiDataId>
+    <ctml:latitude>-9.28810000</ctml:latitude>
+    <ctml:longitude>32.77460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109051" kind="city">
+    <ctml:name>Bukene</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tabora</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-24</ctml:parentRef>
+    <ctml:wikiDataId>Q15941811</ctml:wikiDataId>
+    <ctml:latitude>-4.23333000</ctml:latitude>
+    <ctml:longitude>32.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109075" kind="city">
+    <ctml:name>Igurubi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tabora</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-24</ctml:parentRef>
+    <ctml:wikiDataId>Q20614808</ctml:wikiDataId>
+    <ctml:latitude>-4.00000000</ctml:latitude>
+    <ctml:longitude>33.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109091" kind="city">
+    <ctml:name>Kaliua</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tabora</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-24</ctml:parentRef>
+    <ctml:wikiDataId>Q1722298</ctml:wikiDataId>
+    <ctml:latitude>-5.06056000</ctml:latitude>
+    <ctml:longitude>31.79361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109151" kind="city">
+    <ctml:name>Mabama</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tabora</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-24</ctml:parentRef>
+    <ctml:wikiDataId>Q1877120</ctml:wikiDataId>
+    <ctml:latitude>-5.13333000</ctml:latitude>
+    <ctml:longitude>32.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109278" kind="city">
+    <ctml:name>Sikonge</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tabora</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-24</ctml:parentRef>
+    <ctml:wikiDataId>Q7513858</ctml:wikiDataId>
+    <ctml:latitude>-5.63333000</ctml:latitude>
+    <ctml:longitude>32.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109292" kind="city">
+    <ctml:name>Tumbi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tabora</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-24</ctml:parentRef>
+    <ctml:wikiDataId>Q49369134</ctml:wikiDataId>
+    <ctml:latitude>-5.06667000</ctml:latitude>
+    <ctml:longitude>32.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109297" kind="city">
+    <ctml:name>Usoke</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tabora</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-24</ctml:parentRef>
+    <ctml:wikiDataId>Q49369134</ctml:wikiDataId>
+    <ctml:latitude>-5.16667000</ctml:latitude>
+    <ctml:longitude>32.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109060" kind="city">
+    <ctml:name>Chanika</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q993159</ctml:wikiDataId>
+    <ctml:latitude>-5.41667000</ctml:latitude>
+    <ctml:longitude>38.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109150" kind="city">
+    <ctml:name>Lushoto</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1877120</ctml:wikiDataId>
+    <ctml:latitude>-4.78333000</ctml:latitude>
+    <ctml:longitude>38.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109156" kind="city">
+    <ctml:name>Magomeni</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q35722319</ctml:wikiDataId>
+    <ctml:latitude>-5.23333000</ctml:latitude>
+    <ctml:longitude>38.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109163" kind="city">
+    <ctml:name>Majengo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q13123849</ctml:wikiDataId>
+    <ctml:latitude>-5.15000000</ctml:latitude>
+    <ctml:longitude>38.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109167" kind="city">
+    <ctml:name>Makuyuni</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-4.73333000</ctml:latitude>
+    <ctml:longitude>38.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109175" kind="city">
+    <ctml:name>Maramba</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-5.05000000</ctml:latitude>
+    <ctml:longitude>38.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109184" kind="city">
+    <ctml:name>Matui</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q6272925</ctml:wikiDataId>
+    <ctml:latitude>-4.80000000</ctml:latitude>
+    <ctml:longitude>38.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109185" kind="city">
+    <ctml:name>Mazinde</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q15252357</ctml:wikiDataId>
+    <ctml:latitude>-4.80000000</ctml:latitude>
+    <ctml:longitude>38.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109203" kind="city">
+    <ctml:name>Mlalo</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q29578870</ctml:wikiDataId>
+    <ctml:latitude>-4.93333000</ctml:latitude>
+    <ctml:longitude>38.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109223" kind="city">
+    <ctml:name>Muheza</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q25349031</ctml:wikiDataId>
+    <ctml:latitude>-5.16667000</ctml:latitude>
+    <ctml:longitude>38.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109231" kind="city">
+    <ctml:name>Mwanga</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q20621755</ctml:wikiDataId>
+    <ctml:latitude>-4.80000000</ctml:latitude>
+    <ctml:longitude>38.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109269" kind="city">
+    <ctml:name>Pangani</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q1851848</ctml:wikiDataId>
+    <ctml:latitude>-5.42526000</ctml:latitude>
+    <ctml:longitude>38.97473000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109285" kind="city">
+    <ctml:name>Soni</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Tanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-25</ctml:parentRef>
+    <ctml:wikiDataId>Q49368026</ctml:wikiDataId>
+    <ctml:latitude>-4.85000000</ctml:latitude>
+    <ctml:longitude>38.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109069" kind="city">
+    <ctml:name>Gamba</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Zanzibar North</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-07</ctml:parentRef>
+    <ctml:wikiDataId>Q49349721</ctml:wikiDataId>
+    <ctml:latitude>-5.90000000</ctml:latitude>
+    <ctml:longitude>39.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109112" kind="city">
+    <ctml:name>Kijini</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Zanzibar North</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-07</ctml:parentRef>
+    <ctml:wikiDataId>Q244509</ctml:wikiDataId>
+    <ctml:latitude>-5.85000000</ctml:latitude>
+    <ctml:longitude>39.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109131" kind="city">
+    <ctml:name>Kiwengwa</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Zanzibar North</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-07</ctml:parentRef>
+    <ctml:wikiDataId>Q11929863</ctml:wikiDataId>
+    <ctml:latitude>-5.98957000</ctml:latitude>
+    <ctml:longitude>39.37680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109261" kind="city">
+    <ctml:name>Nungwi</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Zanzibar North</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-07</ctml:parentRef>
+    <ctml:wikiDataId>Q7192944</ctml:wikiDataId>
+    <ctml:latitude>-5.72651000</ctml:latitude>
+    <ctml:longitude>39.29870000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109132" kind="city">
+    <ctml:name>Koani</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Zanzibar South</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1913957</ctml:wikiDataId>
+    <ctml:latitude>-6.13764180</ctml:latitude>
+    <ctml:longitude>39.28632640</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109161" kind="city">
+    <ctml:name>Mahonda</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Zanzibar South</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-11</ctml:parentRef>
+    <ctml:wikiDataId>Q13123849</ctml:wikiDataId>
+    <ctml:latitude>-6.45000000</ctml:latitude>
+    <ctml:longitude>39.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109250" kind="city">
+    <ctml:name>Nganane</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Zanzibar South</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-11</ctml:parentRef>
+    <ctml:wikiDataId>Q49357481</ctml:wikiDataId>
+    <ctml:latitude>-6.40000000</ctml:latitude>
+    <ctml:longitude>39.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TZA-109281" kind="city">
+    <ctml:name>Sokoni</ctml:name>
+    <ctml:country>TZA</ctml:country>
+    <ctml:admin1>Zanzibar South</ctml:admin1>
+    <ctml:parentRef>place:admin1:TZ-11</ctml:parentRef>
+    <ctml:wikiDataId>Q10996011</ctml:wikiDataId>
+    <ctml:latitude>-6.43333000</ctml:latitude>
+    <ctml:longitude>39.55000000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MAF-162131" kind="city">
+    <ctml:name>Marigot</ctml:name>
+    <ctml:country>MAF</ctml:country>
+    <ctml:admin1>Saint-Martin</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-MF</ctml:parentRef>
+    <ctml:wikiDataId>Q200605</ctml:wikiDataId>
+    <ctml:latitude>18.07310000</ctml:latitude>
+    <ctml:longitude>-63.08220000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

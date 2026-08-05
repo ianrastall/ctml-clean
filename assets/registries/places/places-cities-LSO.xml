@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:LSO-66565" kind="city">
+    <ctml:name>Leribe</ctml:name>
+    <ctml:country>LSO</ctml:country>
+    <ctml:admin1>Leribe</ctml:admin1>
+    <ctml:parentRef>place:admin1:LS-C</ctml:parentRef>
+    <ctml:wikiDataId>Q993076</ctml:wikiDataId>
+    <ctml:latitude>-28.87185000</ctml:latitude>
+    <ctml:longitude>28.04501000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LSO-66567" kind="city">
+    <ctml:name>Maputsoe</ctml:name>
+    <ctml:country>LSO</ctml:country>
+    <ctml:admin1>Leribe</ctml:admin1>
+    <ctml:parentRef>place:admin1:LS-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1892158</ctml:wikiDataId>
+    <ctml:latitude>-28.88660000</ctml:latitude>
+    <ctml:longitude>27.89915000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LSO-66568" kind="city">
+    <ctml:name>Maseru</ctml:name>
+    <ctml:country>LSO</ctml:country>
+    <ctml:admin1>Maseru</ctml:admin1>
+    <ctml:parentRef>place:admin1:LS-A</ctml:parentRef>
+    <ctml:wikiDataId>Q3909</ctml:wikiDataId>
+    <ctml:latitude>-29.31667000</ctml:latitude>
+    <ctml:longitude>27.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LSO-66571" kind="city">
+    <ctml:name>Nako</ctml:name>
+    <ctml:country>LSO</ctml:country>
+    <ctml:admin1>Maseru</ctml:admin1>
+    <ctml:parentRef>place:admin1:LS-A</ctml:parentRef>
+    <ctml:wikiDataId>Q6739344</ctml:wikiDataId>
+    <ctml:latitude>-29.61667000</ctml:latitude>
+    <ctml:longitude>27.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LSO-66572" kind="city">
+    <ctml:name>Qacha’s Nek</ctml:name>
+    <ctml:country>LSO</ctml:country>
+    <ctml:admin1>Qacha's Nek</ctml:admin1>
+    <ctml:parentRef>place:admin1:LS-H</ctml:parentRef>
+    <ctml:wikiDataId>Q491829</ctml:wikiDataId>
+    <ctml:latitude>-30.11537000</ctml:latitude>
+    <ctml:longitude>28.68936000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

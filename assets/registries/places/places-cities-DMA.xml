@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:DMA-31003" kind="city">
+    <ctml:name>Calibishie</ctml:name>
+    <ctml:country>DMA</ctml:country>
+    <ctml:admin1>Saint Andrew</ctml:admin1>
+    <ctml:parentRef>place:admin1:DM-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2933944</ctml:wikiDataId>
+    <ctml:latitude>15.59297000</ctml:latitude>
+    <ctml:longitude>-61.34901000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DMA-31008" kind="city">
+    <ctml:name>Marigot</ctml:name>
+    <ctml:country>DMA</ctml:country>
+    <ctml:admin1>Saint Andrew</ctml:admin1>
+    <ctml:parentRef>place:admin1:DM-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3052620</ctml:wikiDataId>
+    <ctml:latitude>15.53886000</ctml:latitude>
+    <ctml:longitude>-61.28375000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DMA-31018" kind="city">
+    <ctml:name>Woodford Hill</ctml:name>
+    <ctml:country>DMA</ctml:country>
+    <ctml:admin1>Saint Andrew</ctml:admin1>
+    <ctml:parentRef>place:admin1:DM-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3098466</ctml:wikiDataId>
+    <ctml:latitude>15.58093000</ctml:latitude>
+    <ctml:longitude>-61.33149000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DMA-31004" kind="city">
+    <ctml:name>Castle Bruce</ctml:name>
+    <ctml:country>DMA</ctml:country>
+    <ctml:admin1>Saint David</ctml:admin1>
+    <ctml:parentRef>place:admin1:DM-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1049398</ctml:wikiDataId>
+    <ctml:latitude>15.44397000</ctml:latitude>
+    <ctml:longitude>-61.25723000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DMA-31013" kind="city">
+    <ctml:name>Roseau</ctml:name>
+    <ctml:country>DMA</ctml:country>
+    <ctml:admin1>Saint George</ctml:admin1>
+    <ctml:parentRef>place:admin1:DM-04</ctml:parentRef>
+    <ctml:wikiDataId>Q36281</ctml:wikiDataId>
+    <ctml:latitude>15.30174000</ctml:latitude>
+    <ctml:longitude>-61.38808000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DMA-31014" kind="city">
+    <ctml:name>Saint Joseph</ctml:name>
+    <ctml:country>DMA</ctml:country>
+    <ctml:admin1>Saint Joseph</ctml:admin1>
+    <ctml:parentRef>place:admin1:DM-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1021646</ctml:wikiDataId>
+    <ctml:latitude>15.40000000</ctml:latitude>
+    <ctml:longitude>-61.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DMA-31015" kind="city">
+    <ctml:name>Salisbury</ctml:name>
+    <ctml:country>DMA</ctml:country>
+    <ctml:admin1>Saint Joseph</ctml:admin1>
+    <ctml:parentRef>place:admin1:DM-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3555054</ctml:wikiDataId>
+    <ctml:latitude>15.43689000</ctml:latitude>
+    <ctml:longitude>-61.43637000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DMA-31006" kind="city">
+    <ctml:name>La Plaine</ctml:name>
+    <ctml:country>DMA</ctml:country>
+    <ctml:admin1>Saint Patrick</ctml:admin1>
+    <ctml:parentRef>place:admin1:DM-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3174970</ctml:wikiDataId>
+    <ctml:latitude>15.32768000</ctml:latitude>
+    <ctml:longitude>-61.24753000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:DMA-31007" kind="city">
+    <ctml:name>Mahaut</ctml:name>
+    <ctml:country>DMA</ctml:country>
+    <ctml:admin1>Saint Paul</ctml:admin1>
+    <ctml:parentRef>place:admin1:DM-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3052683</ctml:wikiDataId>
+    <ctml:latitude>15.36357000</ctml:latitude>
+    <ctml:longitude>-61.39701000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

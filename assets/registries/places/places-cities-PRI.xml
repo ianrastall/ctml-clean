@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:PRI-153556" kind="city">
+    <ctml:name>Arroyo</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Arroyo</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-015</ctml:parentRef>
+    <ctml:wikiDataId>Q344528</ctml:wikiDataId>
+    <ctml:latitude>17.99642200</ctml:latitude>
+    <ctml:longitude>-66.09248790</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153557" kind="city">
+    <ctml:name>Barceloneta</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Barceloneta</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-017</ctml:parentRef>
+    <ctml:wikiDataId>Q526438</ctml:wikiDataId>
+    <ctml:latitude>41.38010610</ctml:latitude>
+    <ctml:longitude>2.18969570</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153567" kind="city">
+    <ctml:name>Ceiba</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Ceiba</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-037</ctml:parentRef>
+    <ctml:wikiDataId>Q284019</ctml:wikiDataId>
+    <ctml:latitude>18.24751770</ctml:latitude>
+    <ctml:longitude>-65.90849530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153572" kind="city">
+    <ctml:name>Corozal</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Corozal</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-047</ctml:parentRef>
+    <ctml:wikiDataId>Q451786</ctml:wikiDataId>
+    <ctml:latitude>18.40308020</ctml:latitude>
+    <ctml:longitude>-88.39675360</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153574" kind="city">
+    <ctml:name>Dorado</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Dorado</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-051</ctml:parentRef>
+    <ctml:wikiDataId>Q8837</ctml:wikiDataId>
+    <ctml:latitude>43.14805560</ctml:latitude>
+    <ctml:longitude>-77.57722220</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153576" kind="city">
+    <ctml:name>Florida</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Florida</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-054</ctml:parentRef>
+    <ctml:wikiDataId>Q812</ctml:wikiDataId>
+    <ctml:latitude>27.66482740</ctml:latitude>
+    <ctml:longitude>-81.51575350</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153582" kind="city">
+    <ctml:name>Hatillo</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Hatillo</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-065</ctml:parentRef>
+    <ctml:wikiDataId>Q1179486</ctml:wikiDataId>
+    <ctml:latitude>18.42846420</ctml:latitude>
+    <ctml:longitude>-66.78753210</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153585" kind="city">
+    <ctml:name>Isabela</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Isabela</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-071</ctml:parentRef>
+    <ctml:wikiDataId>Q230864</ctml:wikiDataId>
+    <ctml:latitude>16.97537580</ctml:latitude>
+    <ctml:longitude>121.81070790</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153590" kind="city">
+    <ctml:name>Lares</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Lares</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-081</ctml:parentRef>
+    <ctml:wikiDataId>Q504377</ctml:wikiDataId>
+    <ctml:latitude>34.02508020</ctml:latitude>
+    <ctml:longitude>-118.45945930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153591" kind="city">
+    <ctml:name>Las Marías</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Las Marías</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-083</ctml:parentRef>
+    <ctml:wikiDataId>Q2485590</ctml:wikiDataId>
+    <ctml:latitude>35.83822380</ctml:latitude>
+    <ctml:longitude>-78.61035660</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153595" kind="city">
+    <ctml:name>Manatí</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Manatí</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-091</ctml:parentRef>
+    <ctml:wikiDataId>Q674599</ctml:wikiDataId>
+    <ctml:latitude>18.41812150</ctml:latitude>
+    <ctml:longitude>-66.52627830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153609" kind="city">
+    <ctml:name>Río Grande</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Río Grande</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-119</ctml:parentRef>
+    <ctml:wikiDataId>Q160636</ctml:wikiDataId>
+    <ctml:latitude>28.81063826</ctml:latitude>
+    <ctml:longitude>-101.83538780</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153611" kind="city">
+    <ctml:name>Salinas</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Salinas</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-123</ctml:parentRef>
+    <ctml:wikiDataId>Q229252</ctml:wikiDataId>
+    <ctml:latitude>36.67773720</ctml:latitude>
+    <ctml:longitude>-121.65550130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153613" kind="city">
+    <ctml:name>San Juan</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>San Juan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1320747</ctml:wikiDataId>
+    <ctml:latitude>18.46320300</ctml:latitude>
+    <ctml:longitude>-66.11475710</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153615" kind="city">
+    <ctml:name>San Sebastián</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>San Sebastián</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-131</ctml:parentRef>
+    <ctml:wikiDataId>Q10313</ctml:wikiDataId>
+    <ctml:latitude>43.31833400</ctml:latitude>
+    <ctml:longitude>-1.98123130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153618" kind="city">
+    <ctml:name>Toa Baja</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Toa Baja</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-TB</ctml:parentRef>
+    <ctml:wikiDataId>Q2238070</ctml:wikiDataId>
+    <ctml:latitude>18.44447090</ctml:latitude>
+    <ctml:longitude>-66.25432930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153623" kind="city">
+    <ctml:name>Vieques</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Vieques</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-147</ctml:parentRef>
+    <ctml:wikiDataId>Q737624</ctml:wikiDataId>
+    <ctml:latitude>18.12628540</ctml:latitude>
+    <ctml:longitude>-65.44009850</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PRI-153624" kind="city">
+    <ctml:name>Villalba</ctml:name>
+    <ctml:country>PRI</ctml:country>
+    <ctml:admin1>Villalba</ctml:admin1>
+    <ctml:parentRef>place:admin1:PR-149</ctml:parentRef>
+    <ctml:wikiDataId>Q299761</ctml:wikiDataId>
+    <ctml:latitude>18.12175540</ctml:latitude>
+    <ctml:longitude>-66.49857870</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

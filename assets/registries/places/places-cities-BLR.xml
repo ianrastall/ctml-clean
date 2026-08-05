@@ -1,0 +1,2919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BLR-15805" kind="city">
+    <ctml:name>Antopal’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q608888</ctml:wikiDataId>
+    <ctml:latitude>52.20380000</ctml:latitude>
+    <ctml:longitude>24.78630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15810" kind="city">
+    <ctml:name>Asnyezhytsy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q4338083</ctml:wikiDataId>
+    <ctml:latitude>52.18910000</ctml:latitude>
+    <ctml:longitude>26.12990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15820" kind="admin2">
+    <ctml:name>Baranovichi</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q237655</ctml:wikiDataId>
+    <ctml:latitude>53.13270000</ctml:latitude>
+    <ctml:longitude>26.01390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15821" kind="city">
+    <ctml:name>Baranovichskiy Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q1885613</ctml:wikiDataId>
+    <ctml:latitude>53.16667000</ctml:latitude>
+    <ctml:longitude>25.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15833" kind="city">
+    <ctml:name>Brest</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q140147</ctml:wikiDataId>
+    <ctml:latitude>52.09755000</ctml:latitude>
+    <ctml:longitude>23.68775000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15834" kind="city">
+    <ctml:name>Brestski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q1888816</ctml:wikiDataId>
+    <ctml:latitude>52.00000000</ctml:latitude>
+    <ctml:longitude>23.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15841" kind="admin2">
+    <ctml:name>Byaroza</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q879406</ctml:wikiDataId>
+    <ctml:latitude>52.53140000</ctml:latitude>
+    <ctml:longitude>24.97860000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15843" kind="city">
+    <ctml:name>Byarozawski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q545069</ctml:wikiDataId>
+    <ctml:latitude>52.50000000</ctml:latitude>
+    <ctml:longitude>25.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15844" kind="city">
+    <ctml:name>Byelaazyorsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q956460</ctml:wikiDataId>
+    <ctml:latitude>52.47310000</ctml:latitude>
+    <ctml:longitude>25.17840000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15850" kind="city">
+    <ctml:name>Charnawchytsy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q377440</ctml:wikiDataId>
+    <ctml:latitude>52.21948000</ctml:latitude>
+    <ctml:longitude>23.74043000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15861" kind="city">
+    <ctml:name>Damachava</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q550040</ctml:wikiDataId>
+    <ctml:latitude>51.75000000</ctml:latitude>
+    <ctml:longitude>23.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15863" kind="city">
+    <ctml:name>Davyd-Haradok</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q956621</ctml:wikiDataId>
+    <ctml:latitude>52.05660000</ctml:latitude>
+    <ctml:longitude>27.21610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15868" kind="admin2">
+    <ctml:name>Drahichyn</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q956471</ctml:wikiDataId>
+    <ctml:latitude>52.18740000</ctml:latitude>
+    <ctml:longitude>25.15970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15869" kind="city">
+    <ctml:name>Drahichynski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q1888829</ctml:wikiDataId>
+    <ctml:latitude>52.16667000</ctml:latitude>
+    <ctml:longitude>25.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15884" kind="admin2">
+    <ctml:name>Hantsavichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q956470</ctml:wikiDataId>
+    <ctml:latitude>52.75800000</ctml:latitude>
+    <ctml:longitude>26.43000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15885" kind="city">
+    <ctml:name>Hantsavitski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q1566438</ctml:wikiDataId>
+    <ctml:latitude>52.66667000</ctml:latitude>
+    <ctml:longitude>26.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15888" kind="city">
+    <ctml:name>Haradzishcha</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q2446336</ctml:wikiDataId>
+    <ctml:latitude>53.32470000</ctml:latitude>
+    <ctml:longitude>26.01070000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15897" kind="city">
+    <ctml:name>Horad Baranavichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q237655</ctml:wikiDataId>
+    <ctml:latitude>53.13333000</ctml:latitude>
+    <ctml:longitude>26.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15898" kind="city">
+    <ctml:name>Horad Brest</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q237655</ctml:wikiDataId>
+    <ctml:latitude>52.10000000</ctml:latitude>
+    <ctml:longitude>23.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15909" kind="admin2">
+    <ctml:name>Ivanava</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q956207</ctml:wikiDataId>
+    <ctml:latitude>52.14510000</ctml:latitude>
+    <ctml:longitude>25.53650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15910" kind="city">
+    <ctml:name>Ivanawski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q1885588</ctml:wikiDataId>
+    <ctml:latitude>52.16667000</ctml:latitude>
+    <ctml:longitude>25.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15911" kind="admin2">
+    <ctml:name>Ivatsevichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q587173</ctml:wikiDataId>
+    <ctml:latitude>52.70900000</ctml:latitude>
+    <ctml:longitude>25.34010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15917" kind="admin2">
+    <ctml:name>Kamyanyets</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q956614</ctml:wikiDataId>
+    <ctml:latitude>52.40013000</ctml:latitude>
+    <ctml:longitude>23.81000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15918" kind="city">
+    <ctml:name>Kamyanyetski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q1103893</ctml:wikiDataId>
+    <ctml:latitude>52.41667000</ctml:latitude>
+    <ctml:longitude>23.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15919" kind="city">
+    <ctml:name>Kamyanyuki</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q6497459</ctml:wikiDataId>
+    <ctml:latitude>52.55757000</ctml:latitude>
+    <ctml:longitude>23.80525000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15942" kind="admin2">
+    <ctml:name>Kobryn</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q955992</ctml:wikiDataId>
+    <ctml:latitude>52.21380000</ctml:latitude>
+    <ctml:longitude>24.35640000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15946" kind="city">
+    <ctml:name>Kosava</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q956635</ctml:wikiDataId>
+    <ctml:latitude>52.75830000</ctml:latitude>
+    <ctml:longitude>25.15540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15957" kind="city">
+    <ctml:name>Lahishyn</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q2471831</ctml:wikiDataId>
+    <ctml:latitude>52.33900000</ctml:latitude>
+    <ctml:longitude>25.98670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15964" kind="admin2">
+    <ctml:name>Luninyets</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q956132</ctml:wikiDataId>
+    <ctml:latitude>52.24720000</ctml:latitude>
+    <ctml:longitude>26.80470000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15965" kind="admin2">
+    <ctml:name>Lyakhavichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q956607</ctml:wikiDataId>
+    <ctml:latitude>53.03880000</ctml:latitude>
+    <ctml:longitude>26.26560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15982" kind="admin2">
+    <ctml:name>Malaryta</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q656579</ctml:wikiDataId>
+    <ctml:latitude>51.79050000</ctml:latitude>
+    <ctml:longitude>24.07400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15988" kind="city">
+    <ctml:name>Mikashevichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q956464</ctml:wikiDataId>
+    <ctml:latitude>52.21730000</ctml:latitude>
+    <ctml:longitude>27.47600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15993" kind="city">
+    <ctml:name>Motal’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q773891</ctml:wikiDataId>
+    <ctml:latitude>52.31380000</ctml:latitude>
+    <ctml:longitude>25.60720000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16010" kind="city">
+    <ctml:name>Nyakhachava</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q13029898</ctml:wikiDataId>
+    <ctml:latitude>52.64400000</ctml:latitude>
+    <ctml:longitude>25.20270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16021" kind="city">
+    <ctml:name>Pinsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q21579783</ctml:wikiDataId>
+    <ctml:latitude>52.12290000</ctml:latitude>
+    <ctml:longitude>26.09510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16027" kind="city">
+    <ctml:name>Pruzhanski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q1885543</ctml:wikiDataId>
+    <ctml:latitude>52.66667000</ctml:latitude>
+    <ctml:longitude>24.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16028" kind="admin2">
+    <ctml:name>Pruzhany</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q956159</ctml:wikiDataId>
+    <ctml:latitude>52.55600000</ctml:latitude>
+    <ctml:longitude>24.45730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16044" kind="city">
+    <ctml:name>Ruzhany</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q615132</ctml:wikiDataId>
+    <ctml:latitude>52.86322000</ctml:latitude>
+    <ctml:longitude>24.89357000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16075" kind="admin2">
+    <ctml:name>Stolin</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q956565</ctml:wikiDataId>
+    <ctml:latitude>51.89115000</ctml:latitude>
+    <ctml:longitude>26.84597000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16076" kind="city">
+    <ctml:name>Stolinski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q1885570</ctml:wikiDataId>
+    <ctml:latitude>52.00000000</ctml:latitude>
+    <ctml:longitude>27.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16089" kind="city">
+    <ctml:name>Tsyelyakhany</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q576393</ctml:wikiDataId>
+    <ctml:latitude>52.51750000</ctml:latitude>
+    <ctml:longitude>25.84290000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16114" kind="city">
+    <ctml:name>Vysokaye</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q956627</ctml:wikiDataId>
+    <ctml:latitude>52.37091000</ctml:latitude>
+    <ctml:longitude>23.37083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16122" kind="admin2">
+    <ctml:name>Zhabinka</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q520162</ctml:wikiDataId>
+    <ctml:latitude>52.19840000</ctml:latitude>
+    <ctml:longitude>24.01150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16123" kind="city">
+    <ctml:name>Zhabinkawski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q1630126</ctml:wikiDataId>
+    <ctml:latitude>52.16667000</ctml:latitude>
+    <ctml:longitude>24.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16130" kind="city">
+    <ctml:name>Znamenka</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Brest</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-BR</ctml:parentRef>
+    <ctml:wikiDataId>Q955564</ctml:wikiDataId>
+    <ctml:latitude>51.88168000</ctml:latitude>
+    <ctml:longitude>23.65545000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15804" kind="admin2">
+    <ctml:name>Aktsyabrski</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q2494383</ctml:wikiDataId>
+    <ctml:latitude>52.64400000</ctml:latitude>
+    <ctml:longitude>28.88010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15829" kind="admin2">
+    <ctml:name>Brahin</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q2470405</ctml:wikiDataId>
+    <ctml:latitude>51.78700000</ctml:latitude>
+    <ctml:longitude>30.26770000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15830" kind="city">
+    <ctml:name>Brahinski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q1808720</ctml:wikiDataId>
+    <ctml:latitude>51.66667000</ctml:latitude>
+    <ctml:longitude>30.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15835" kind="admin2">
+    <ctml:name>Buda-Kashalyova</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q955729</ctml:wikiDataId>
+    <ctml:latitude>52.71790000</ctml:latitude>
+    <ctml:longitude>30.57010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15848" kind="city">
+    <ctml:name>Chachersk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q867722</ctml:wikiDataId>
+    <ctml:latitude>52.91640000</ctml:latitude>
+    <ctml:longitude>30.91790000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15849" kind="city">
+    <ctml:name>Chacherski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q671126</ctml:wikiDataId>
+    <ctml:latitude>52.91667000</ctml:latitude>
+    <ctml:longitude>31.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15864" kind="admin2">
+    <ctml:name>Dobrush</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q955474</ctml:wikiDataId>
+    <ctml:latitude>52.40890000</ctml:latitude>
+    <ctml:longitude>31.32370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15867" kind="city">
+    <ctml:name>Dowsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q1523498</ctml:wikiDataId>
+    <ctml:latitude>53.15710000</ctml:latitude>
+    <ctml:longitude>30.46010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15896" kind="city">
+    <ctml:name>Homyel’ski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q966473</ctml:wikiDataId>
+    <ctml:latitude>52.33333000</ctml:latitude>
+    <ctml:longitude>31.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15915" kind="admin2">
+    <ctml:name>Kalinkavichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q937344</ctml:wikiDataId>
+    <ctml:latitude>52.13230000</ctml:latitude>
+    <ctml:longitude>29.32570000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15923" kind="city">
+    <ctml:name>Karanyowka</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q4232916</ctml:wikiDataId>
+    <ctml:latitude>52.35060000</ctml:latitude>
+    <ctml:longitude>31.11210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15926" kind="admin2">
+    <ctml:name>Karma</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q427584</ctml:wikiDataId>
+    <ctml:latitude>53.13010000</ctml:latitude>
+    <ctml:longitude>30.80160000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15929" kind="city">
+    <ctml:name>Kastsyukowka</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q2596958</ctml:wikiDataId>
+    <ctml:latitude>52.53870000</ctml:latitude>
+    <ctml:longitude>30.91730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15930" kind="city">
+    <ctml:name>Khal’ch</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q3917611</ctml:wikiDataId>
+    <ctml:latitude>52.56430000</ctml:latitude>
+    <ctml:longitude>31.13640000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15936" kind="city">
+    <ctml:name>Khoyniki</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q955588</ctml:wikiDataId>
+    <ctml:latitude>51.89110000</ctml:latitude>
+    <ctml:longitude>29.95520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15962" kind="city">
+    <ctml:name>Loyew</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q2494413</ctml:wikiDataId>
+    <ctml:latitude>51.94580000</ctml:latitude>
+    <ctml:longitude>30.79530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15967" kind="city">
+    <ctml:name>Lyel’chytski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q944464</ctml:wikiDataId>
+    <ctml:latitude>51.83333000</ctml:latitude>
+    <ctml:longitude>28.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15968" kind="admin2">
+    <ctml:name>Lyel’chytsy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q2607484</ctml:wikiDataId>
+    <ctml:latitude>51.78620000</ctml:latitude>
+    <ctml:longitude>28.32880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15985" kind="city">
+    <ctml:name>Mazyr</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q386487</ctml:wikiDataId>
+    <ctml:latitude>52.04950000</ctml:latitude>
+    <ctml:longitude>29.24560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15986" kind="city">
+    <ctml:name>Mazyrski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q1952838</ctml:wikiDataId>
+    <ctml:latitude>52.00000000</ctml:latitude>
+    <ctml:longitude>29.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16002" kind="city">
+    <ctml:name>Narowlya</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q955736</ctml:wikiDataId>
+    <ctml:latitude>51.79610000</ctml:latitude>
+    <ctml:longitude>29.50040000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16005" kind="city">
+    <ctml:name>Novaya Huta</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q4322020</ctml:wikiDataId>
+    <ctml:latitude>52.10320000</ctml:latitude>
+    <ctml:longitude>30.98370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16017" kind="city">
+    <ctml:name>Parychy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q2471796</ctml:wikiDataId>
+    <ctml:latitude>52.80420000</ctml:latitude>
+    <ctml:longitude>29.41760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16020" kind="city">
+    <ctml:name>Peramoga</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q2023948</ctml:wikiDataId>
+    <ctml:latitude>52.39730000</ctml:latitude>
+    <ctml:longitude>31.07100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16033" kind="city">
+    <ctml:name>Pyetrykaw</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q955717</ctml:wikiDataId>
+    <ctml:latitude>52.12890000</ctml:latitude>
+    <ctml:longitude>28.49210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16035" kind="admin2">
+    <ctml:name>Rahachow</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q955468</ctml:wikiDataId>
+    <ctml:latitude>53.09340000</ctml:latitude>
+    <ctml:longitude>30.04950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16036" kind="city">
+    <ctml:name>Rahachowski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q1953403</ctml:wikiDataId>
+    <ctml:latitude>53.16667000</ctml:latitude>
+    <ctml:longitude>30.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16041" kind="admin2">
+    <ctml:name>Rechytsa</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q909612</ctml:wikiDataId>
+    <ctml:latitude>52.36170000</ctml:latitude>
+    <ctml:longitude>30.39160000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16049" kind="city">
+    <ctml:name>Sasnovy Bor</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q2032715</ctml:wikiDataId>
+    <ctml:latitude>52.51940000</ctml:latitude>
+    <ctml:longitude>29.59880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16081" kind="admin2">
+    <ctml:name>Svyetlahorsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q955359</ctml:wikiDataId>
+    <ctml:latitude>52.63290000</ctml:latitude>
+    <ctml:longitude>29.73890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16090" kind="city">
+    <ctml:name>Turaw</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q265670</ctml:wikiDataId>
+    <ctml:latitude>52.06830000</ctml:latitude>
+    <ctml:longitude>27.73500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16098" kind="city">
+    <ctml:name>Vasilyevichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q955740</ctml:wikiDataId>
+    <ctml:latitude>52.25120000</ctml:latitude>
+    <ctml:longitude>29.82880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16112" kind="admin2">
+    <ctml:name>Vyetka</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q518559</ctml:wikiDataId>
+    <ctml:latitude>52.55910000</ctml:latitude>
+    <ctml:longitude>31.17940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16113" kind="city">
+    <ctml:name>Vyetkawski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q385458</ctml:wikiDataId>
+    <ctml:latitude>52.66667000</ctml:latitude>
+    <ctml:longitude>31.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16116" kind="admin2">
+    <ctml:name>Yel’sk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q955726</ctml:wikiDataId>
+    <ctml:latitude>51.81410000</ctml:latitude>
+    <ctml:longitude>29.15220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16127" kind="admin2">
+    <ctml:name>Zhlobin</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q837765</ctml:wikiDataId>
+    <ctml:latitude>52.89260000</ctml:latitude>
+    <ctml:longitude>30.02400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16128" kind="city">
+    <ctml:name>Zhlobinski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q1808712</ctml:wikiDataId>
+    <ctml:latitude>52.75000000</ctml:latitude>
+    <ctml:longitude>29.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16129" kind="admin2">
+    <ctml:name>Zhytkavichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Gomel</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HO</ctml:parentRef>
+    <ctml:wikiDataId>Q955564</ctml:wikiDataId>
+    <ctml:latitude>52.21680000</ctml:latitude>
+    <ctml:longitude>27.85610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15806" kind="city">
+    <ctml:name>Ashmyanski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q1817340</ctml:wikiDataId>
+    <ctml:latitude>54.41667000</ctml:latitude>
+    <ctml:longitude>25.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15807" kind="admin2">
+    <ctml:name>Ashmyany</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q722836</ctml:wikiDataId>
+    <ctml:latitude>54.42100000</ctml:latitude>
+    <ctml:longitude>25.93600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15812" kind="city">
+    <ctml:name>Astravyets</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q261024</ctml:wikiDataId>
+    <ctml:latitude>54.61378000</ctml:latitude>
+    <ctml:longitude>25.95537000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15813" kind="city">
+    <ctml:name>Astravyetski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q1953368</ctml:wikiDataId>
+    <ctml:latitude>54.66667000</ctml:latitude>
+    <ctml:longitude>26.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15823" kind="city">
+    <ctml:name>Baruny</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q3499049</ctml:wikiDataId>
+    <ctml:latitude>54.31710000</ctml:latitude>
+    <ctml:longitude>26.13760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15842" kind="city">
+    <ctml:name>Byarozawka</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q799939</ctml:wikiDataId>
+    <ctml:latitude>53.72406000</ctml:latitude>
+    <ctml:longitude>25.49709000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15876" kind="admin2">
+    <ctml:name>Dyatlovo</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q1025883</ctml:wikiDataId>
+    <ctml:latitude>53.46310000</ctml:latitude>
+    <ctml:longitude>25.40680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15882" kind="city">
+    <ctml:name>Grodnenskiy Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q1965697</ctml:wikiDataId>
+    <ctml:latitude>53.66667000</ctml:latitude>
+    <ctml:longitude>24.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15883" kind="city">
+    <ctml:name>Hal’shany</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q1572234</ctml:wikiDataId>
+    <ctml:latitude>54.25850000</ctml:latitude>
+    <ctml:longitude>26.01440000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15906" kind="city">
+    <ctml:name>Hyeranyony</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q181376</ctml:wikiDataId>
+    <ctml:latitude>54.11590000</ctml:latitude>
+    <ctml:longitude>25.57730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15908" kind="city">
+    <ctml:name>Indura</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q2920508</ctml:wikiDataId>
+    <ctml:latitude>53.46050000</ctml:latitude>
+    <ctml:longitude>23.88230000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15913" kind="admin2">
+    <ctml:name>Iwye</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q738777</ctml:wikiDataId>
+    <ctml:latitude>53.92990000</ctml:latitude>
+    <ctml:longitude>25.77270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15924" kind="admin2">
+    <ctml:name>Karelichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q1025869</ctml:wikiDataId>
+    <ctml:latitude>53.56480000</ctml:latitude>
+    <ctml:longitude>26.14060000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15925" kind="city">
+    <ctml:name>Karelitski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q1953342</ctml:wikiDataId>
+    <ctml:latitude>53.50000000</ctml:latitude>
+    <ctml:longitude>26.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15950" kind="city">
+    <ctml:name>Krasnosel’skiy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q2446345</ctml:wikiDataId>
+    <ctml:latitude>53.26450000</ctml:latitude>
+    <ctml:longitude>24.43010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15952" kind="city">
+    <ctml:name>Kreva</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q2621007</ctml:wikiDataId>
+    <ctml:latitude>54.31180000</ctml:latitude>
+    <ctml:longitude>26.29160000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15959" kind="admin2">
+    <ctml:name>Lida</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q241475</ctml:wikiDataId>
+    <ctml:latitude>53.88333000</ctml:latitude>
+    <ctml:longitude>25.29972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15960" kind="city">
+    <ctml:name>Lidski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q1953388</ctml:wikiDataId>
+    <ctml:latitude>53.66667000</ctml:latitude>
+    <ctml:longitude>25.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15977" kind="city">
+    <ctml:name>Lyubcha</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q2596991</ctml:wikiDataId>
+    <ctml:latitude>53.75220000</ctml:latitude>
+    <ctml:longitude>26.06030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15990" kind="city">
+    <ctml:name>Mir</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q922668</ctml:wikiDataId>
+    <ctml:latitude>53.45440000</ctml:latitude>
+    <ctml:longitude>26.46700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15992" kind="admin2">
+    <ctml:name>Mosty</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q958685</ctml:wikiDataId>
+    <ctml:latitude>53.41220000</ctml:latitude>
+    <ctml:longitude>24.53870000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16006" kind="admin2">
+    <ctml:name>Novogrudok</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q278743</ctml:wikiDataId>
+    <ctml:latitude>53.59420000</ctml:latitude>
+    <ctml:longitude>25.81910000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16042" kind="city">
+    <ctml:name>Ross’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q2477798</ctml:wikiDataId>
+    <ctml:latitude>53.28451000</ctml:latitude>
+    <ctml:longitude>24.40335000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16047" kind="city">
+    <ctml:name>Sapotskin</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q2596984</ctml:wikiDataId>
+    <ctml:latitude>53.83290000</ctml:latitude>
+    <ctml:longitude>23.65980000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16054" kind="admin2">
+    <ctml:name>Shchuchyn</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q431779</ctml:wikiDataId>
+    <ctml:latitude>53.60140000</ctml:latitude>
+    <ctml:longitude>24.74650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16055" kind="city">
+    <ctml:name>Shchuchynski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q1953351</ctml:wikiDataId>
+    <ctml:latitude>53.58333000</ctml:latitude>
+    <ctml:longitude>24.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16059" kind="city">
+    <ctml:name>Skidel’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q958847</ctml:wikiDataId>
+    <ctml:latitude>53.59040000</ctml:latitude>
+    <ctml:longitude>24.24780000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16062" kind="admin2">
+    <ctml:name>Slonim</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q863576</ctml:wikiDataId>
+    <ctml:latitude>53.08690000</ctml:latitude>
+    <ctml:longitude>25.31630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16066" kind="admin2">
+    <ctml:name>Smarhon’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q958617</ctml:wikiDataId>
+    <ctml:latitude>54.47980000</ctml:latitude>
+    <ctml:longitude>26.39570000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16069" kind="city">
+    <ctml:name>Soly</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q2366073</ctml:wikiDataId>
+    <ctml:latitude>54.51301000</ctml:latitude>
+    <ctml:longitude>26.19381000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16079" kind="admin2">
+    <ctml:name>Svislach</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q1076109</ctml:wikiDataId>
+    <ctml:latitude>53.03474000</ctml:latitude>
+    <ctml:longitude>24.09829000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16103" kind="city">
+    <ctml:name>Vishnyeva</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q2061377</ctml:wikiDataId>
+    <ctml:latitude>54.71020000</ctml:latitude>
+    <ctml:longitude>26.52280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16106" kind="admin2">
+    <ctml:name>Volkovysk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q739491</ctml:wikiDataId>
+    <ctml:latitude>53.15610000</ctml:latitude>
+    <ctml:longitude>24.45130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16107" kind="admin2">
+    <ctml:name>Voranava</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q2470394</ctml:wikiDataId>
+    <ctml:latitude>54.14920000</ctml:latitude>
+    <ctml:longitude>25.31120000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16108" kind="admin2">
+    <ctml:name>Vyalikaya Byerastavitsa</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q1460634</ctml:wikiDataId>
+    <ctml:latitude>53.19600000</ctml:latitude>
+    <ctml:longitude>24.01660000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16121" kind="admin2">
+    <ctml:name>Zel’va</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q2618952</ctml:wikiDataId>
+    <ctml:latitude>53.15040000</ctml:latitude>
+    <ctml:longitude>24.81530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16124" kind="city">
+    <ctml:name>Zhaludok</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q2656523</ctml:wikiDataId>
+    <ctml:latitude>53.59740000</ctml:latitude>
+    <ctml:longitude>24.98280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16126" kind="city">
+    <ctml:name>Zhirovichi</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Grodno</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HR</ctml:parentRef>
+    <ctml:wikiDataId>Q2079081</ctml:wikiDataId>
+    <ctml:latitude>53.01310000</ctml:latitude>
+    <ctml:longitude>25.34430000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15811" kind="city">
+    <ctml:name>Astrashytski Haradok</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q13028169</ctml:wikiDataId>
+    <ctml:latitude>54.06510000</ctml:latitude>
+    <ctml:longitude>27.69500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15814" kind="city">
+    <ctml:name>Atolina</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q21579168</ctml:wikiDataId>
+    <ctml:latitude>53.78170000</ctml:latitude>
+    <ctml:longitude>27.43460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15815" kind="city">
+    <ctml:name>Azyartso</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q4332155</ctml:wikiDataId>
+    <ctml:latitude>53.83970000</ctml:latitude>
+    <ctml:longitude>27.39170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15819" kind="city">
+    <ctml:name>Bal’shavik</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q6466856</ctml:wikiDataId>
+    <ctml:latitude>54.00360000</ctml:latitude>
+    <ctml:longitude>27.56690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15824" kind="admin2">
+    <ctml:name>Barysaw</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q19313</ctml:wikiDataId>
+    <ctml:latitude>54.22790000</ctml:latitude>
+    <ctml:longitude>28.50500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15825" kind="city">
+    <ctml:name>Barysawski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2092836</ctml:wikiDataId>
+    <ctml:latitude>54.33333000</ctml:latitude>
+    <ctml:longitude>28.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15826" kind="city">
+    <ctml:name>Blon’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q4088315</ctml:wikiDataId>
+    <ctml:latitude>53.52690000</ctml:latitude>
+    <ctml:longitude>28.17320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15827" kind="city">
+    <ctml:name>Bobr</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2659074</ctml:wikiDataId>
+    <ctml:latitude>54.34200000</ctml:latitude>
+    <ctml:longitude>29.27360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15828" kind="city">
+    <ctml:name>Borovlyany</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q3919943</ctml:wikiDataId>
+    <ctml:latitude>54.00220000</ctml:latitude>
+    <ctml:longitude>27.67540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15840" kind="city">
+    <ctml:name>Byarezinski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2091552</ctml:wikiDataId>
+    <ctml:latitude>53.83333000</ctml:latitude>
+    <ctml:longitude>29.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15845" kind="city">
+    <ctml:name>Byerazino</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q200833</ctml:wikiDataId>
+    <ctml:latitude>53.83910000</ctml:latitude>
+    <ctml:longitude>28.98790000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15855" kind="city">
+    <ctml:name>Chervyen’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q201458</ctml:wikiDataId>
+    <ctml:latitude>53.70590000</ctml:latitude>
+    <ctml:longitude>28.43130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15856" kind="city">
+    <ctml:name>Chervyen’ski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2091744</ctml:wikiDataId>
+    <ctml:latitude>53.75000000</ctml:latitude>
+    <ctml:longitude>28.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15859" kind="city">
+    <ctml:name>Chyrvonaya Slabada</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2617132</ctml:wikiDataId>
+    <ctml:latitude>52.85220000</ctml:latitude>
+    <ctml:longitude>27.16980000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15860" kind="city">
+    <ctml:name>Chyst’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q13134307</ctml:wikiDataId>
+    <ctml:latitude>54.26980000</ctml:latitude>
+    <ctml:longitude>27.10670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15871" kind="city">
+    <ctml:name>Druzhny</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q4168898</ctml:wikiDataId>
+    <ctml:latitude>53.62380000</ctml:latitude>
+    <ctml:longitude>27.89770000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15875" kind="city">
+    <ctml:name>Dukora</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q143040</ctml:wikiDataId>
+    <ctml:latitude>53.67860000</ctml:latitude>
+    <ctml:longitude>27.94000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15878" kind="admin2">
+    <ctml:name>Dzyarzhynsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q200891</ctml:wikiDataId>
+    <ctml:latitude>53.68320000</ctml:latitude>
+    <ctml:longitude>27.13800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15879" kind="city">
+    <ctml:name>Enyerhyetykaw</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q6549170</ctml:wikiDataId>
+    <ctml:latitude>53.58710000</ctml:latitude>
+    <ctml:longitude>27.05350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15880" kind="city">
+    <ctml:name>Fanipol</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q201439</ctml:wikiDataId>
+    <ctml:latitude>53.74998000</ctml:latitude>
+    <ctml:longitude>27.33338000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15889" kind="city">
+    <ctml:name>Haradzyeya</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2987244</ctml:wikiDataId>
+    <ctml:latitude>53.31210000</ctml:latitude>
+    <ctml:longitude>26.53800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15890" kind="city">
+    <ctml:name>Hatava</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q3917600</ctml:wikiDataId>
+    <ctml:latitude>53.78290000</ctml:latitude>
+    <ctml:longitude>27.64070000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15900" kind="admin2">
+    <ctml:name>Horad Smalyavichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q201265</ctml:wikiDataId>
+    <ctml:latitude>54.02490000</ctml:latitude>
+    <ctml:longitude>28.08940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15901" kind="admin2">
+    <ctml:name>Horad Zhodzina</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q200905</ctml:wikiDataId>
+    <ctml:latitude>54.09850000</ctml:latitude>
+    <ctml:longitude>28.33310000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15904" kind="city">
+    <ctml:name>Hotsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q18752080</ctml:wikiDataId>
+    <ctml:latitude>52.52150000</ctml:latitude>
+    <ctml:longitude>27.13850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15907" kind="city">
+    <ctml:name>Il’ya</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q5213666</ctml:wikiDataId>
+    <ctml:latitude>54.41670000</ctml:latitude>
+    <ctml:longitude>27.29580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15912" kind="city">
+    <ctml:name>Ivyanyets</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2995144</ctml:wikiDataId>
+    <ctml:latitude>53.88640000</ctml:latitude>
+    <ctml:longitude>26.74320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15916" kind="city">
+    <ctml:name>Kalodzishchy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q4228181</ctml:wikiDataId>
+    <ctml:latitude>53.94400000</ctml:latitude>
+    <ctml:longitude>27.78230000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15921" kind="admin2">
+    <ctml:name>Kapyl’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q200950</ctml:wikiDataId>
+    <ctml:latitude>53.15160000</ctml:latitude>
+    <ctml:longitude>27.09130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15922" kind="city">
+    <ctml:name>Kapyl’ski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q518815</ctml:wikiDataId>
+    <ctml:latitude>53.16667000</ctml:latitude>
+    <ctml:longitude>27.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15931" kind="city">
+    <ctml:name>Khatsyezhyna</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q21579587</ctml:wikiDataId>
+    <ctml:latitude>53.90940000</ctml:latitude>
+    <ctml:longitude>27.30690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15933" kind="city">
+    <ctml:name>Kholopenichi</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q636403</ctml:wikiDataId>
+    <ctml:latitude>54.51746000</ctml:latitude>
+    <ctml:longitude>28.95645000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15940" kind="admin2">
+    <ctml:name>Klyetsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q200937</ctml:wikiDataId>
+    <ctml:latitude>53.06350000</ctml:latitude>
+    <ctml:longitude>26.63210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15941" kind="admin2">
+    <ctml:name>Klyetski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2091557</ctml:wikiDataId>
+    <ctml:latitude>53.00000000</ctml:latitude>
+    <ctml:longitude>26.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15945" kind="city">
+    <ctml:name>Korolëv Stan</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q6498328</ctml:wikiDataId>
+    <ctml:latitude>53.98650000</ctml:latitude>
+    <ctml:longitude>27.79820000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15949" kind="city">
+    <ctml:name>Krasnaye</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q3917896</ctml:wikiDataId>
+    <ctml:latitude>54.24380000</ctml:latitude>
+    <ctml:longitude>27.07580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15954" kind="admin2">
+    <ctml:name>Krupki</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q200960</ctml:wikiDataId>
+    <ctml:latitude>54.31780000</ctml:latitude>
+    <ctml:longitude>29.13740000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15956" kind="city">
+    <ctml:name>Kryvichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2659553</ctml:wikiDataId>
+    <ctml:latitude>54.71320000</ctml:latitude>
+    <ctml:longitude>27.28860000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15958" kind="admin2">
+    <ctml:name>Lahoysk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q200968</ctml:wikiDataId>
+    <ctml:latitude>54.20640000</ctml:latitude>
+    <ctml:longitude>27.85120000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15961" kind="city">
+    <ctml:name>Loshnitsa</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q13029805</ctml:wikiDataId>
+    <ctml:latitude>54.27960000</ctml:latitude>
+    <ctml:longitude>28.76490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15963" kind="city">
+    <ctml:name>Luhavaya Slabada</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q6507101</ctml:wikiDataId>
+    <ctml:latitude>53.78230000</ctml:latitude>
+    <ctml:longitude>27.84340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15966" kind="city">
+    <ctml:name>Lyasny</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q3919901</ctml:wikiDataId>
+    <ctml:latitude>54.00720000</ctml:latitude>
+    <ctml:longitude>27.69630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15972" kind="city">
+    <ctml:name>Lyeskawka</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q4259426</ctml:wikiDataId>
+    <ctml:latitude>54.00240000</ctml:latitude>
+    <ctml:longitude>27.71080000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15976" kind="admin2">
+    <ctml:name>Lyuban’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q200991</ctml:wikiDataId>
+    <ctml:latitude>52.79850000</ctml:latitude>
+    <ctml:longitude>28.00480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15978" kind="city">
+    <ctml:name>Machulishchy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q599374</ctml:wikiDataId>
+    <ctml:latitude>53.77880000</ctml:latitude>
+    <ctml:longitude>27.59480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15981" kind="admin2">
+    <ctml:name>Maladzyechna</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q201203</ctml:wikiDataId>
+    <ctml:latitude>54.31670000</ctml:latitude>
+    <ctml:longitude>26.85400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15983" kind="admin2">
+    <ctml:name>Mar’’ina Horka</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q201173</ctml:wikiDataId>
+    <ctml:latitude>53.50900000</ctml:latitude>
+    <ctml:longitude>28.14700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15987" kind="city">
+    <ctml:name>Michanovichi</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q6518335</ctml:wikiDataId>
+    <ctml:latitude>53.73937000</ctml:latitude>
+    <ctml:longitude>27.69276000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15995" kind="admin2">
+    <ctml:name>Myadzyel</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q201218</ctml:wikiDataId>
+    <ctml:latitude>54.87890000</ctml:latitude>
+    <ctml:longitude>26.93710000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15996" kind="city">
+    <ctml:name>Myadzyel’ski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q1637855</ctml:wikiDataId>
+    <ctml:latitude>54.83333000</ctml:latitude>
+    <ctml:longitude>27.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16001" kind="city">
+    <ctml:name>Narach</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2471155</ctml:wikiDataId>
+    <ctml:latitude>54.91020000</ctml:latitude>
+    <ctml:longitude>26.70800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16003" kind="city">
+    <ctml:name>Nasilava</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q15634568</ctml:wikiDataId>
+    <ctml:latitude>54.30441000</ctml:latitude>
+    <ctml:longitude>26.78209000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16008" kind="city">
+    <ctml:name>Novosel’ye</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q13029879</ctml:wikiDataId>
+    <ctml:latitude>53.91620000</ctml:latitude>
+    <ctml:longitude>27.20090000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16009" kind="city">
+    <ctml:name>Novy Svyerzhan’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q3920126</ctml:wikiDataId>
+    <ctml:latitude>53.45420000</ctml:latitude>
+    <ctml:longitude>26.73010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16011" kind="admin2">
+    <ctml:name>Nyasvizh</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q201230</ctml:wikiDataId>
+    <ctml:latitude>53.21890000</ctml:latitude>
+    <ctml:longitude>26.67790000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16012" kind="city">
+    <ctml:name>Nyasvizhski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2091651</ctml:wikiDataId>
+    <ctml:latitude>53.25000000</ctml:latitude>
+    <ctml:longitude>26.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16022" kind="city">
+    <ctml:name>Plyeshchanitsy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2659496</ctml:wikiDataId>
+    <ctml:latitude>54.42350000</ctml:latitude>
+    <ctml:longitude>27.83010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16026" kind="city">
+    <ctml:name>Prawdzinski</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2478344</ctml:wikiDataId>
+    <ctml:latitude>53.52480000</ctml:latitude>
+    <ctml:longitude>27.83030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16029" kind="city">
+    <ctml:name>Pryvol’ny</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q4377991</ctml:wikiDataId>
+    <ctml:latitude>53.79690000</ctml:latitude>
+    <ctml:longitude>27.79670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16030" kind="city">
+    <ctml:name>Pukhavichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q3917194</ctml:wikiDataId>
+    <ctml:latitude>53.52970000</ctml:latitude>
+    <ctml:longitude>28.24670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16031" kind="city">
+    <ctml:name>Pukhavichy Raion</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2091726</ctml:wikiDataId>
+    <ctml:latitude>53.50000000</ctml:latitude>
+    <ctml:longitude>28.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16032" kind="city">
+    <ctml:name>Pyatryshki</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q13133943</ctml:wikiDataId>
+    <ctml:latitude>54.06860000</ctml:latitude>
+    <ctml:longitude>27.21790000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16034" kind="city">
+    <ctml:name>Radashkovichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2993986</ctml:wikiDataId>
+    <ctml:latitude>54.15540000</ctml:latitude>
+    <ctml:longitude>27.24120000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16037" kind="city">
+    <ctml:name>Rakaw</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2500789</ctml:wikiDataId>
+    <ctml:latitude>53.96740000</ctml:latitude>
+    <ctml:longitude>27.05620000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16043" kind="city">
+    <ctml:name>Rudzyensk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2659499</ctml:wikiDataId>
+    <ctml:latitude>53.59830000</ctml:latitude>
+    <ctml:longitude>27.86210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16045" kind="admin2">
+    <ctml:name>Salihorsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q201393</ctml:wikiDataId>
+    <ctml:latitude>52.78760000</ctml:latitude>
+    <ctml:longitude>27.54150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16046" kind="city">
+    <ctml:name>Samakhvalavichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q3917241</ctml:wikiDataId>
+    <ctml:latitude>53.73960000</ctml:latitude>
+    <ctml:longitude>27.50370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16048" kind="city">
+    <ctml:name>Sarachy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q21579797</ctml:wikiDataId>
+    <ctml:latitude>52.78670000</ctml:latitude>
+    <ctml:longitude>28.01860000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16051" kind="city">
+    <ctml:name>Schomyslitsa</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q6548589</ctml:wikiDataId>
+    <ctml:latitude>53.82110000</ctml:latitude>
+    <ctml:longitude>27.45220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16060" kind="city">
+    <ctml:name>Slabada</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q16716755</ctml:wikiDataId>
+    <ctml:latitude>54.00870000</ctml:latitude>
+    <ctml:longitude>27.88660000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16063" kind="city">
+    <ctml:name>Slutsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q201243</ctml:wikiDataId>
+    <ctml:latitude>53.02740000</ctml:latitude>
+    <ctml:longitude>27.55970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16064" kind="city">
+    <ctml:name>Slutski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2091666</ctml:wikiDataId>
+    <ctml:latitude>53.00000000</ctml:latitude>
+    <ctml:longitude>27.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16065" kind="city">
+    <ctml:name>Smalyavitski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q675294</ctml:wikiDataId>
+    <ctml:latitude>54.00000000</ctml:latitude>
+    <ctml:longitude>28.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16067" kind="city">
+    <ctml:name>Smilavichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q278100</ctml:wikiDataId>
+    <ctml:latitude>53.74960000</ctml:latitude>
+    <ctml:longitude>28.01150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16068" kind="city">
+    <ctml:name>Snow</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q3917192</ctml:wikiDataId>
+    <ctml:latitude>53.22010000</ctml:latitude>
+    <ctml:longitude>26.40100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16070" kind="city">
+    <ctml:name>Stan’kava</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q1011316</ctml:wikiDataId>
+    <ctml:latitude>53.62920000</ctml:latitude>
+    <ctml:longitude>27.22900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16071" kind="city">
+    <ctml:name>Staradarozhski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q977019</ctml:wikiDataId>
+    <ctml:latitude>53.00000000</ctml:latitude>
+    <ctml:longitude>28.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16072" kind="city">
+    <ctml:name>Starobin</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2471143</ctml:wikiDataId>
+    <ctml:latitude>52.72670000</ctml:latitude>
+    <ctml:longitude>27.46060000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16073" kind="admin2">
+    <ctml:name>Staryya Darohi</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q201403</ctml:wikiDataId>
+    <ctml:latitude>53.04020000</ctml:latitude>
+    <ctml:longitude>28.26700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16074" kind="city">
+    <ctml:name>Stawbtsowski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2061349</ctml:wikiDataId>
+    <ctml:latitude>53.58333000</ctml:latitude>
+    <ctml:longitude>26.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16077" kind="admin2">
+    <ctml:name>Stowbtsy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q201421</ctml:wikiDataId>
+    <ctml:latitude>53.47850000</ctml:latitude>
+    <ctml:longitude>26.74340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16078" kind="city">
+    <ctml:name>Svir</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2659511</ctml:wikiDataId>
+    <ctml:latitude>54.85170000</ctml:latitude>
+    <ctml:longitude>26.39500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16080" kind="city">
+    <ctml:name>Svislach</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q1410290</ctml:wikiDataId>
+    <ctml:latitude>53.64040000</ctml:latitude>
+    <ctml:longitude>27.91990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16083" kind="city">
+    <ctml:name>Syenitsa</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q3917859</ctml:wikiDataId>
+    <ctml:latitude>53.83130000</ctml:latitude>
+    <ctml:longitude>27.53430000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16085" kind="city">
+    <ctml:name>Syomkava</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q13028184</ctml:wikiDataId>
+    <ctml:latitude>54.01010000</ctml:latitude>
+    <ctml:longitude>27.44100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16088" kind="city">
+    <ctml:name>Tsimkavichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q1384308</ctml:wikiDataId>
+    <ctml:latitude>53.06720000</ctml:latitude>
+    <ctml:longitude>26.99020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16091" kind="city">
+    <ctml:name>Turets-Bayary</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q16720536</ctml:wikiDataId>
+    <ctml:latitude>54.37850000</ctml:latitude>
+    <ctml:longitude>26.65810000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16092" kind="city">
+    <ctml:name>Urechcha</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q1169315</ctml:wikiDataId>
+    <ctml:latitude>52.94790000</ctml:latitude>
+    <ctml:longitude>27.89300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16094" kind="city">
+    <ctml:name>Usiazh</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q16721198</ctml:wikiDataId>
+    <ctml:latitude>54.07598000</ctml:latitude>
+    <ctml:longitude>28.00698000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16095" kind="admin2">
+    <ctml:name>Uzda</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q201429</ctml:wikiDataId>
+    <ctml:latitude>53.46270000</ctml:latitude>
+    <ctml:longitude>27.21370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16096" kind="city">
+    <ctml:name>Uzdzyenski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2092398</ctml:wikiDataId>
+    <ctml:latitude>53.41667000</ctml:latitude>
+    <ctml:longitude>27.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16097" kind="admin2">
+    <ctml:name>Valozhyn</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q200876</ctml:wikiDataId>
+    <ctml:latitude>54.08920000</ctml:latitude>
+    <ctml:longitude>26.52660000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16101" kind="admin2">
+    <ctml:name>Vilyeyka</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q181632</ctml:wikiDataId>
+    <ctml:latitude>54.49140000</ctml:latitude>
+    <ctml:longitude>26.91110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16102" kind="city">
+    <ctml:name>Vilyeyski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2061377</ctml:wikiDataId>
+    <ctml:latitude>54.50000000</ctml:latitude>
+    <ctml:longitude>27.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16109" kind="city">
+    <ctml:name>Vyaliki Trastsyanets</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q21579836</ctml:wikiDataId>
+    <ctml:latitude>53.85100000</ctml:latitude>
+    <ctml:longitude>27.71390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16117" kind="city">
+    <ctml:name>Yubilyeyny</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q21579839</ctml:wikiDataId>
+    <ctml:latitude>53.81910000</ctml:latitude>
+    <ctml:longitude>27.52150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16118" kind="city">
+    <ctml:name>Zamostochye</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q6492521</ctml:wikiDataId>
+    <ctml:latitude>53.81980000</ctml:latitude>
+    <ctml:longitude>27.86850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16119" kind="city">
+    <ctml:name>Zaslawye</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q200917</ctml:wikiDataId>
+    <ctml:latitude>54.01140000</ctml:latitude>
+    <ctml:longitude>27.26950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16125" kind="city">
+    <ctml:name>Zhdanovichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2584556</ctml:wikiDataId>
+    <ctml:latitude>53.94320000</ctml:latitude>
+    <ctml:longitude>27.42500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16131" kind="city">
+    <ctml:name>Zyembin</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q2061031</ctml:wikiDataId>
+    <ctml:latitude>54.35790000</ctml:latitude>
+    <ctml:longitude>28.22070000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16132" kind="city">
+    <ctml:name>Октябрьский</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MI</ctml:parentRef>
+    <ctml:wikiDataId>Q16709879</ctml:wikiDataId>
+    <ctml:latitude>54.04059000</ctml:latitude>
+    <ctml:longitude>28.19813000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15881" kind="city">
+    <ctml:name>Frunzyenski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q2152309</ctml:wikiDataId>
+    <ctml:latitude>53.90056000</ctml:latitude>
+    <ctml:longitude>27.49500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15927" kind="city">
+    <ctml:name>Kastrychnitski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q2152317</ctml:wikiDataId>
+    <ctml:latitude>53.85667000</ctml:latitude>
+    <ctml:longitude>27.54139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15969" kind="city">
+    <ctml:name>Lyeninski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q2044762</ctml:wikiDataId>
+    <ctml:latitude>53.85944000</ctml:latitude>
+    <ctml:longitude>27.58778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15984" kind="city">
+    <ctml:name>Maskowski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q2152301</ctml:wikiDataId>
+    <ctml:latitude>53.87417000</ctml:latitude>
+    <ctml:longitude>27.50278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15989" kind="city">
+    <ctml:name>Minsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q21579751</ctml:wikiDataId>
+    <ctml:latitude>53.90000000</ctml:latitude>
+    <ctml:longitude>27.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16016" kind="city">
+    <ctml:name>Partyzanski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q2045200</ctml:wikiDataId>
+    <ctml:latitude>53.88028000</ctml:latitude>
+    <ctml:longitude>27.67000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16050" kind="city">
+    <ctml:name>Savyetski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q2045076</ctml:wikiDataId>
+    <ctml:latitude>53.91778000</ctml:latitude>
+    <ctml:longitude>27.59417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16087" kind="city">
+    <ctml:name>Tsentral’ny Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q2023936</ctml:wikiDataId>
+    <ctml:latitude>53.91778000</ctml:latitude>
+    <ctml:longitude>27.56333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16120" kind="city">
+    <ctml:name>Zavodski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Minsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q2043177</ctml:wikiDataId>
+    <ctml:latitude>53.86194000</ctml:latitude>
+    <ctml:longitude>27.66222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15808" kind="admin2">
+    <ctml:name>Asipovichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q742161</ctml:wikiDataId>
+    <ctml:latitude>53.30110000</ctml:latitude>
+    <ctml:longitude>28.63860000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15809" kind="city">
+    <ctml:name>Asipovitski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2025083</ctml:wikiDataId>
+    <ctml:latitude>53.33333000</ctml:latitude>
+    <ctml:longitude>28.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15816" kind="admin2">
+    <ctml:name>Babruysk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q207294</ctml:wikiDataId>
+    <ctml:latitude>53.13840000</ctml:latitude>
+    <ctml:longitude>29.22140000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15817" kind="city">
+    <ctml:name>Babruyski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2025091</ctml:wikiDataId>
+    <ctml:latitude>53.08333000</ctml:latitude>
+    <ctml:longitude>29.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15836" kind="city">
+    <ctml:name>Buynichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q4098476</ctml:wikiDataId>
+    <ctml:latitude>53.85360000</ctml:latitude>
+    <ctml:longitude>30.26710000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15838" kind="admin2">
+    <ctml:name>Byalynichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2630527</ctml:wikiDataId>
+    <ctml:latitude>53.99940000</ctml:latitude>
+    <ctml:longitude>29.71410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15839" kind="city">
+    <ctml:name>Byalynitski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q1997119</ctml:wikiDataId>
+    <ctml:latitude>54.00000000</ctml:latitude>
+    <ctml:longitude>29.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15847" kind="city">
+    <ctml:name>Bykhaw</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q954948</ctml:wikiDataId>
+    <ctml:latitude>53.52100000</ctml:latitude>
+    <ctml:longitude>30.24540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15853" kind="city">
+    <ctml:name>Chavuski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2024276</ctml:wikiDataId>
+    <ctml:latitude>53.83333000</ctml:latitude>
+    <ctml:longitude>30.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15854" kind="admin2">
+    <ctml:name>Chavusy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q955113</ctml:wikiDataId>
+    <ctml:latitude>53.80980000</ctml:latitude>
+    <ctml:longitude>30.97170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15857" kind="city">
+    <ctml:name>Cherykaw</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q955126</ctml:wikiDataId>
+    <ctml:latitude>53.56890000</ctml:latitude>
+    <ctml:longitude>31.38310000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15858" kind="city">
+    <ctml:name>Cherykawski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2024293</ctml:wikiDataId>
+    <ctml:latitude>53.66667000</ctml:latitude>
+    <ctml:longitude>31.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15862" kind="city">
+    <ctml:name>Dashkawka</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q4155518</ctml:wikiDataId>
+    <ctml:latitude>53.73520000</ctml:latitude>
+    <ctml:longitude>30.26250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15872" kind="admin2">
+    <ctml:name>Drybin</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2630539</ctml:wikiDataId>
+    <ctml:latitude>54.11920000</ctml:latitude>
+    <ctml:longitude>31.09390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15873" kind="city">
+    <ctml:name>Drybinski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q675279</ctml:wikiDataId>
+    <ctml:latitude>54.08333000</ctml:latitude>
+    <ctml:longitude>31.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15891" kind="city">
+    <ctml:name>Hlusha</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2477814</ctml:wikiDataId>
+    <ctml:latitude>53.08680000</ctml:latitude>
+    <ctml:longitude>28.85670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15892" kind="admin2">
+    <ctml:name>Hlusk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2995174</ctml:wikiDataId>
+    <ctml:latitude>52.90300000</ctml:latitude>
+    <ctml:longitude>28.68450000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15902" kind="city">
+    <ctml:name>Horatski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2024126</ctml:wikiDataId>
+    <ctml:latitude>54.33333000</ctml:latitude>
+    <ctml:longitude>31.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15903" kind="admin2">
+    <ctml:name>Horki</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q954812</ctml:wikiDataId>
+    <ctml:latitude>54.28620000</ctml:latitude>
+    <ctml:longitude>30.98630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15914" kind="city">
+    <ctml:name>Kadino</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q13029713</ctml:wikiDataId>
+    <ctml:latitude>53.88389000</ctml:latitude>
+    <ctml:longitude>30.52028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15920" kind="city">
+    <ctml:name>Kamyennyya Lavy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q20662431</ctml:wikiDataId>
+    <ctml:latitude>54.08980000</ctml:latitude>
+    <ctml:longitude>30.29620000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15928" kind="city">
+    <ctml:name>Kastsyukovichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q955013</ctml:wikiDataId>
+    <ctml:latitude>53.35250000</ctml:latitude>
+    <ctml:longitude>32.05140000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15932" kind="city">
+    <ctml:name>Khodasy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q17094832</ctml:wikiDataId>
+    <ctml:latitude>53.92660000</ctml:latitude>
+    <ctml:longitude>31.47790000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15934" kind="city">
+    <ctml:name>Khotsimsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2630628</ctml:wikiDataId>
+    <ctml:latitude>53.40860000</ctml:latitude>
+    <ctml:longitude>32.57800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15935" kind="city">
+    <ctml:name>Khotsimski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q1574966</ctml:wikiDataId>
+    <ctml:latitude>53.41667000</ctml:latitude>
+    <ctml:longitude>32.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15937" kind="city">
+    <ctml:name>Kirawsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q955588</ctml:wikiDataId>
+    <ctml:latitude>53.26930000</ctml:latitude>
+    <ctml:longitude>29.47520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15938" kind="city">
+    <ctml:name>Klichaw</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q955153</ctml:wikiDataId>
+    <ctml:latitude>53.49230000</ctml:latitude>
+    <ctml:longitude>29.33560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15939" kind="admin2">
+    <ctml:name>Klimavichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q603249</ctml:wikiDataId>
+    <ctml:latitude>53.60790000</ctml:latitude>
+    <ctml:longitude>31.95860000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15948" kind="city">
+    <ctml:name>Krasnapol’ski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q745264</ctml:wikiDataId>
+    <ctml:latitude>53.33333000</ctml:latitude>
+    <ctml:longitude>31.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15947" kind="admin2">
+    <ctml:name>Krasnapollye</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2630603</ctml:wikiDataId>
+    <ctml:latitude>53.33530000</ctml:latitude>
+    <ctml:longitude>31.39990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15951" kind="city">
+    <ctml:name>Krasnyy Bereg</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2446345</ctml:wikiDataId>
+    <ctml:latitude>53.32910000</ctml:latitude>
+    <ctml:longitude>30.19290000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15953" kind="admin2">
+    <ctml:name>Kruhlaye</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2630517</ctml:wikiDataId>
+    <ctml:latitude>54.24970000</ctml:latitude>
+    <ctml:longitude>29.79680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15955" kind="admin2">
+    <ctml:name>Krychaw</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q954914</ctml:wikiDataId>
+    <ctml:latitude>53.71250000</ctml:latitude>
+    <ctml:longitude>31.71700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15980" kind="city">
+    <ctml:name>Mahilyowski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2024261</ctml:wikiDataId>
+    <ctml:latitude>53.83333000</ctml:latitude>
+    <ctml:longitude>30.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15994" kind="city">
+    <ctml:name>Mstsislaw</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q744167</ctml:wikiDataId>
+    <ctml:latitude>54.01850000</ctml:latitude>
+    <ctml:longitude>31.72170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15997" kind="city">
+    <ctml:name>Myazhysyatki</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q4288784</ctml:wikiDataId>
+    <ctml:latitude>53.77760000</ctml:latitude>
+    <ctml:longitude>30.17650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16000" kind="city">
+    <ctml:name>Myshkavichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q20571871</ctml:wikiDataId>
+    <ctml:latitude>53.21720000</ctml:latitude>
+    <ctml:longitude>29.51200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16015" kind="city">
+    <ctml:name>Palykavichy Pyershyya</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q13652962</ctml:wikiDataId>
+    <ctml:latitude>53.98540000</ctml:latitude>
+    <ctml:longitude>30.36000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16025" kind="city">
+    <ctml:name>Posëlok Voskhod</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q4126702</ctml:wikiDataId>
+    <ctml:latitude>53.77660000</ctml:latitude>
+    <ctml:longitude>30.34970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16038" kind="city">
+    <ctml:name>Ramanavichy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q13651975</ctml:wikiDataId>
+    <ctml:latitude>53.86530000</ctml:latitude>
+    <ctml:longitude>30.55970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16056" kind="city">
+    <ctml:name>Shklow</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q730175</ctml:wikiDataId>
+    <ctml:latitude>54.21310000</ctml:latitude>
+    <ctml:longitude>30.28770000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16057" kind="city">
+    <ctml:name>Shklowski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q1253060</ctml:wikiDataId>
+    <ctml:latitude>54.16667000</ctml:latitude>
+    <ctml:longitude>30.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16061" kind="admin2">
+    <ctml:name>Slawharad</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q614294</ctml:wikiDataId>
+    <ctml:latitude>53.44290000</ctml:latitude>
+    <ctml:longitude>31.00140000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16099" kind="city">
+    <ctml:name>Veyno</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q4106012</ctml:wikiDataId>
+    <ctml:latitude>53.83333000</ctml:latitude>
+    <ctml:longitude>30.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16104" kind="city">
+    <ctml:name>Vishow</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q20464997</ctml:wikiDataId>
+    <ctml:latitude>53.98050000</ctml:latitude>
+    <ctml:longitude>29.99250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16115" kind="city">
+    <ctml:name>Yalizava</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Mogilev</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2657362</ctml:wikiDataId>
+    <ctml:latitude>53.39940000</ctml:latitude>
+    <ctml:longitude>29.00480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15818" kind="city">
+    <ctml:name>Balbasava</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q578807</ctml:wikiDataId>
+    <ctml:latitude>54.42070000</ctml:latitude>
+    <ctml:longitude>30.29090000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15822" kind="city">
+    <ctml:name>Baran’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q286964</ctml:wikiDataId>
+    <ctml:latitude>54.47840000</ctml:latitude>
+    <ctml:longitude>30.31590000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15831" kind="city">
+    <ctml:name>Braslaw</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q628623</ctml:wikiDataId>
+    <ctml:latitude>55.64130000</ctml:latitude>
+    <ctml:longitude>27.04180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15832" kind="city">
+    <ctml:name>Braslawski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q1517382</ctml:wikiDataId>
+    <ctml:latitude>55.55972000</ctml:latitude>
+    <ctml:longitude>27.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15837" kind="city">
+    <ctml:name>Byahoml’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2987876</ctml:wikiDataId>
+    <ctml:latitude>54.73160000</ctml:latitude>
+    <ctml:longitude>28.05770000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15846" kind="city">
+    <ctml:name>Byeshankovitski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q1378251</ctml:wikiDataId>
+    <ctml:latitude>55.00000000</ctml:latitude>
+    <ctml:longitude>29.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15851" kind="admin2">
+    <ctml:name>Chashniki</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q954421</ctml:wikiDataId>
+    <ctml:latitude>54.85840000</ctml:latitude>
+    <ctml:longitude>29.16080000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15852" kind="city">
+    <ctml:name>Chashnitski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2023954</ctml:wikiDataId>
+    <ctml:latitude>54.75000000</ctml:latitude>
+    <ctml:longitude>29.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15865" kind="city">
+    <ctml:name>Dokshytski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2023929</ctml:wikiDataId>
+    <ctml:latitude>54.83333000</ctml:latitude>
+    <ctml:longitude>27.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15866" kind="admin2">
+    <ctml:name>Dokshytsy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q954618</ctml:wikiDataId>
+    <ctml:latitude>54.89180000</ctml:latitude>
+    <ctml:longitude>27.76670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15870" kind="city">
+    <ctml:name>Druya</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2621918</ctml:wikiDataId>
+    <ctml:latitude>55.79060000</ctml:latitude>
+    <ctml:longitude>27.45050000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15874" kind="admin2">
+    <ctml:name>Dubrowna</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q954505</ctml:wikiDataId>
+    <ctml:latitude>54.57160000</ctml:latitude>
+    <ctml:longitude>30.69100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15877" kind="city">
+    <ctml:name>Dzisna</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q651555</ctml:wikiDataId>
+    <ctml:latitude>55.56760000</ctml:latitude>
+    <ctml:longitude>28.20760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15886" kind="admin2">
+    <ctml:name>Haradok</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q954265</ctml:wikiDataId>
+    <ctml:latitude>55.46240000</ctml:latitude>
+    <ctml:longitude>29.98450000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15887" kind="city">
+    <ctml:name>Haradotski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2005718</ctml:wikiDataId>
+    <ctml:latitude>55.66667000</ctml:latitude>
+    <ctml:longitude>30.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15893" kind="admin2">
+    <ctml:name>Hlybokaye</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q954114</ctml:wikiDataId>
+    <ctml:latitude>55.13840000</ctml:latitude>
+    <ctml:longitude>27.69050000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15894" kind="city">
+    <ctml:name>Hlybotski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2092119</ctml:wikiDataId>
+    <ctml:latitude>55.16667000</ctml:latitude>
+    <ctml:longitude>27.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15943" kind="city">
+    <ctml:name>Kokhanava</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2471192</ctml:wikiDataId>
+    <ctml:latitude>54.46110000</ctml:latitude>
+    <ctml:longitude>30.00180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15944" kind="city">
+    <ctml:name>Konstantinovo</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q20470350</ctml:wikiDataId>
+    <ctml:latitude>54.65930000</ctml:latitude>
+    <ctml:longitude>29.26840000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15970" kind="admin2">
+    <ctml:name>Lyepyel’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2044762</ctml:wikiDataId>
+    <ctml:latitude>54.88140000</ctml:latitude>
+    <ctml:longitude>28.69900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15971" kind="city">
+    <ctml:name>Lyepyel’ski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q268331</ctml:wikiDataId>
+    <ctml:latitude>54.83333000</ctml:latitude>
+    <ctml:longitude>28.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15973" kind="city">
+    <ctml:name>Lyntupy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2657182</ctml:wikiDataId>
+    <ctml:latitude>55.05160000</ctml:latitude>
+    <ctml:longitude>26.31030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15974" kind="admin2">
+    <ctml:name>Lyozna</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q1025872</ctml:wikiDataId>
+    <ctml:latitude>55.02470000</ctml:latitude>
+    <ctml:longitude>30.79700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15975" kind="city">
+    <ctml:name>Lyoznyenski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q1388657</ctml:wikiDataId>
+    <ctml:latitude>55.00000000</ctml:latitude>
+    <ctml:longitude>30.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15991" kind="city">
+    <ctml:name>Mosar</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2559780</ctml:wikiDataId>
+    <ctml:latitude>55.22320000</ctml:latitude>
+    <ctml:longitude>27.46090000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-15998" kind="city">
+    <ctml:name>Myorski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2024225</ctml:wikiDataId>
+    <ctml:latitude>55.58333000</ctml:latitude>
+    <ctml:longitude>27.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-15999" kind="admin2">
+    <ctml:name>Myory</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q266841</ctml:wikiDataId>
+    <ctml:latitude>55.62220000</ctml:latitude>
+    <ctml:longitude>27.62810000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16004" kind="admin2">
+    <ctml:name>Navapolatsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q750424</ctml:wikiDataId>
+    <ctml:latitude>55.53180000</ctml:latitude>
+    <ctml:longitude>28.59870000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16007" kind="city">
+    <ctml:name>Novolukoml’</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q954178</ctml:wikiDataId>
+    <ctml:latitude>54.66192000</ctml:latitude>
+    <ctml:longitude>29.15016000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16013" kind="admin2">
+    <ctml:name>Orsha</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2091651</ctml:wikiDataId>
+    <ctml:latitude>54.50810000</ctml:latitude>
+    <ctml:longitude>30.41720000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16014" kind="city">
+    <ctml:name>Osveya</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2596938</ctml:wikiDataId>
+    <ctml:latitude>56.01470000</ctml:latitude>
+    <ctml:longitude>28.11049000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16018" kind="city">
+    <ctml:name>Pastavy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q539012</ctml:wikiDataId>
+    <ctml:latitude>55.11676000</ctml:latitude>
+    <ctml:longitude>26.83263000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16019" kind="city">
+    <ctml:name>Pastawski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2023948</ctml:wikiDataId>
+    <ctml:latitude>55.08333000</ctml:latitude>
+    <ctml:longitude>26.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16023" kind="admin2">
+    <ctml:name>Polatsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q200797</ctml:wikiDataId>
+    <ctml:latitude>55.48790000</ctml:latitude>
+    <ctml:longitude>28.78560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16024" kind="city">
+    <ctml:name>Polatski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q1423032</ctml:wikiDataId>
+    <ctml:latitude>55.58333000</ctml:latitude>
+    <ctml:longitude>29.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16039" kind="city">
+    <ctml:name>Rasonski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2024283</ctml:wikiDataId>
+    <ctml:latitude>55.83333000</ctml:latitude>
+    <ctml:longitude>28.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16040" kind="city">
+    <ctml:name>Rasony</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2995168</ctml:wikiDataId>
+    <ctml:latitude>55.90580000</ctml:latitude>
+    <ctml:longitude>28.81350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16052" kind="city">
+    <ctml:name>Sharkawshchyna</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2659505</ctml:wikiDataId>
+    <ctml:latitude>55.36890000</ctml:latitude>
+    <ctml:longitude>27.46860000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16053" kind="city">
+    <ctml:name>Sharkawshchynski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q1997084</ctml:wikiDataId>
+    <ctml:latitude>55.41667000</ctml:latitude>
+    <ctml:longitude>27.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16058" kind="city">
+    <ctml:name>Shumilinski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2025054</ctml:wikiDataId>
+    <ctml:latitude>55.33333000</ctml:latitude>
+    <ctml:longitude>29.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16082" kind="admin2">
+    <ctml:name>Syanno</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q954519</ctml:wikiDataId>
+    <ctml:latitude>54.81080000</ctml:latitude>
+    <ctml:longitude>29.70860000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16084" kind="city">
+    <ctml:name>Syennyenski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q1353622</ctml:wikiDataId>
+    <ctml:latitude>54.83333000</ctml:latitude>
+    <ctml:longitude>29.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16086" kind="admin2">
+    <ctml:name>Talachyn</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q954343</ctml:wikiDataId>
+    <ctml:latitude>54.40870000</ctml:latitude>
+    <ctml:longitude>29.69550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16093" kind="admin2">
+    <ctml:name>Ushachy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2987234</ctml:wikiDataId>
+    <ctml:latitude>55.17900000</ctml:latitude>
+    <ctml:longitude>28.61580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16100" kind="city">
+    <ctml:name>Vidzy</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q934318</ctml:wikiDataId>
+    <ctml:latitude>55.39450000</ctml:latitude>
+    <ctml:longitude>26.63050000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BLR-16110" kind="admin2">
+    <ctml:name>Vyerkhnyadzvinsk</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q954610</ctml:wikiDataId>
+    <ctml:latitude>55.77770000</ctml:latitude>
+    <ctml:longitude>27.93890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLR-16111" kind="city">
+    <ctml:name>Vyerkhnyadzvinski Rayon</ctml:name>
+    <ctml:country>BLR</ctml:country>
+    <ctml:admin1>Vitebsk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BY-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q474626</ctml:wikiDataId>
+    <ctml:latitude>55.75000000</ctml:latitude>
+    <ctml:longitude>28.16667000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

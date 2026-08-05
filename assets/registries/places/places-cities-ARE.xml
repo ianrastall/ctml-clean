@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ARE-12" kind="city">
+    <ctml:name>Abu Dhabi</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Abu Dhabi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-AZ</ctml:parentRef>
+    <ctml:wikiDataId>Q1519</ctml:wikiDataId>
+    <ctml:latitude>24.41361000</ctml:latitude>
+    <ctml:longitude>54.43295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-16" kind="city">
+    <ctml:name>Al Ain City</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Abu Dhabi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-AZ</ctml:parentRef>
+    <ctml:wikiDataId>Q234600</ctml:wikiDataId>
+    <ctml:latitude>24.19167000</ctml:latitude>
+    <ctml:longitude>55.76056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-19" kind="city">
+    <ctml:name>Al Dhafra</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Abu Dhabi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-AZ</ctml:parentRef>
+    <ctml:wikiDataId>Q4703864</ctml:wikiDataId>
+    <ctml:latitude>23.65745000</ctml:latitude>
+    <ctml:longitude>53.72225000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-26" kind="city">
+    <ctml:name>Bani Yas City</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Abu Dhabi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-AZ</ctml:parentRef>
+    <ctml:wikiDataId>Q11960137</ctml:wikiDataId>
+    <ctml:latitude>24.30978000</ctml:latitude>
+    <ctml:longitude>54.62944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-11" kind="city">
+    <ctml:name>Ghayathi</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Abu Dhabi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-AZ</ctml:parentRef>
+    <ctml:wikiDataId>Q15221607</ctml:wikiDataId>
+    <ctml:latitude>23.90453420</ctml:latitude>
+    <ctml:longitude>52.58710260</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-34" kind="city">
+    <ctml:name>Khalifa City</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Abu Dhabi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-AZ</ctml:parentRef>
+    <ctml:wikiDataId>Q6399642</ctml:wikiDataId>
+    <ctml:latitude>24.42588000</ctml:latitude>
+    <ctml:longitude>54.60500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-17" kind="city">
+    <ctml:name>Liwa Oasis</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Abu Dhabi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-AZ</ctml:parentRef>
+    <ctml:wikiDataId>Q615949</ctml:wikiDataId>
+    <ctml:latitude>22.86972550</ctml:latitude>
+    <ctml:longitude>53.24086080</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-41" kind="city">
+    <ctml:name>Mussafah</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Abu Dhabi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-AZ</ctml:parentRef>
+    <ctml:wikiDataId>Q12243475</ctml:wikiDataId>
+    <ctml:latitude>24.35893000</ctml:latitude>
+    <ctml:longitude>54.48267000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-42" kind="city">
+    <ctml:name>Muzayri‘</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Abu Dhabi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-AZ</ctml:parentRef>
+    <ctml:wikiDataId>Q21735810</ctml:wikiDataId>
+    <ctml:latitude>23.14355000</ctml:latitude>
+    <ctml:longitude>53.78810000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-25" kind="city">
+    <ctml:name>Ruwais</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Abu Dhabi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-AZ</ctml:parentRef>
+    <ctml:wikiDataId>Q1023786</ctml:wikiDataId>
+    <ctml:latitude>24.11028000</ctml:latitude>
+    <ctml:longitude>52.73056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-49" kind="city">
+    <ctml:name>Zayed City</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Abu Dhabi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-AZ</ctml:parentRef>
+    <ctml:wikiDataId>Q62269911</ctml:wikiDataId>
+    <ctml:latitude>23.65416000</ctml:latitude>
+    <ctml:longitude>53.70522000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-14" kind="city">
+    <ctml:name>Ajman</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Ajman</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q530171</ctml:wikiDataId>
+    <ctml:latitude>25.40328000</ctml:latitude>
+    <ctml:longitude>55.52341000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-37" kind="city">
+    <ctml:name>Manama</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Ajman</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1888663</ctml:wikiDataId>
+    <ctml:latitude>25.32568000</ctml:latitude>
+    <ctml:longitude>56.00259000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-38" kind="city">
+    <ctml:name>Masfut</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Ajman</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3133042</ctml:wikiDataId>
+    <ctml:latitude>24.83982000</ctml:latitude>
+    <ctml:longitude>56.05158000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-32" kind="city">
+    <ctml:name>Dubai</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Dubai</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-DU</ctml:parentRef>
+    <ctml:wikiDataId>Q612</ctml:wikiDataId>
+    <ctml:latitude>25.06570000</ctml:latitude>
+    <ctml:longitude>55.17128000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-28" kind="city">
+    <ctml:name>Dibba Al Fujairah</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Fujairah</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-FU</ctml:parentRef>
+    <ctml:wikiDataId>Q3696182</ctml:wikiDataId>
+    <ctml:latitude>25.58580000</ctml:latitude>
+    <ctml:longitude>56.24792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-30" kind="city">
+    <ctml:name>Dibba Al-Fujairah</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Fujairah</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-FU</ctml:parentRef>
+    <ctml:wikiDataId>Q3696182</ctml:wikiDataId>
+    <ctml:latitude>25.59246000</ctml:latitude>
+    <ctml:longitude>56.26176000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-31" kind="city">
+    <ctml:name>Dibba Al-Hisn</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Fujairah</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-FU</ctml:parentRef>
+    <ctml:wikiDataId>Q6742405</ctml:wikiDataId>
+    <ctml:latitude>25.61955000</ctml:latitude>
+    <ctml:longitude>56.27291000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-43" kind="city">
+    <ctml:name>Ras Al Khaimah</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Ras Al Khaimah</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-RK</ctml:parentRef>
+    <ctml:wikiDataId>Q2126436</ctml:wikiDataId>
+    <ctml:latitude>25.46116000</ctml:latitude>
+    <ctml:longitude>56.04058000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-18" kind="city">
+    <ctml:name>Al Batayih</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Sharjah</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q85740409</ctml:wikiDataId>
+    <ctml:latitude>25.22317000</ctml:latitude>
+    <ctml:longitude>55.74272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-13" kind="city">
+    <ctml:name>Al Dhaid</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Sharjah</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q3492826</ctml:wikiDataId>
+    <ctml:latitude>25.28812000</ctml:latitude>
+    <ctml:longitude>55.88157000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-22" kind="city">
+    <ctml:name>Al Hamriyah</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Sharjah</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q4703978</ctml:wikiDataId>
+    <ctml:latitude>25.46121000</ctml:latitude>
+    <ctml:longitude>55.54813000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-23" kind="city">
+    <ctml:name>Al Madam</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Sharjah</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q55603483</ctml:wikiDataId>
+    <ctml:latitude>24.95536000</ctml:latitude>
+    <ctml:longitude>55.76820000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-33" kind="city">
+    <ctml:name>Kalba</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Sharjah</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2204078</ctml:wikiDataId>
+    <ctml:latitude>24.99816000</ctml:latitude>
+    <ctml:longitude>56.27207000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-36" kind="city">
+    <ctml:name>Khor Fakkan</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Sharjah</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q764279</ctml:wikiDataId>
+    <ctml:latitude>25.33966000</ctml:latitude>
+    <ctml:longitude>56.30280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-39" kind="city">
+    <ctml:name>Milehah</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Sharjah</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q1001413</ctml:wikiDataId>
+    <ctml:latitude>25.10097000</ctml:latitude>
+    <ctml:longitude>55.91282000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-40" kind="city">
+    <ctml:name>Murbaḩ</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Sharjah</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q6401643</ctml:wikiDataId>
+    <ctml:latitude>25.27623000</ctml:latitude>
+    <ctml:longitude>56.36256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARE-47" kind="city">
+    <ctml:name>Umm AL Quwain</ctml:name>
+    <ctml:country>ARE</ctml:country>
+    <ctml:admin1>Umm Al Quwain</ctml:admin1>
+    <ctml:parentRef>place:admin1:AE-UQ</ctml:parentRef>
+    <ctml:wikiDataId>Q2788830</ctml:wikiDataId>
+    <ctml:latitude>25.49326000</ctml:latitude>
+    <ctml:longitude>55.73520000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

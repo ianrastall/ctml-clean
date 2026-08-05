@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:GMB-52219" kind="city">
+    <ctml:name>Bakau</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Banjul</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-B</ctml:parentRef>
+    <ctml:wikiDataId>Q804275</ctml:wikiDataId>
+    <ctml:latitude>13.47806000</ctml:latitude>
+    <ctml:longitude>-16.68194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52221" kind="city">
+    <ctml:name>Banjul</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Banjul</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-B</ctml:parentRef>
+    <ctml:wikiDataId>Q3726</ctml:wikiDataId>
+    <ctml:latitude>13.45274000</ctml:latitude>
+    <ctml:longitude>-16.57803000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52277" kind="city">
+    <ctml:name>Kombo Saint Mary</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Banjul</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-B</ctml:parentRef>
+    <ctml:wikiDataId>Q1572418</ctml:wikiDataId>
+    <ctml:latitude>13.44389000</ctml:latitude>
+    <ctml:longitude>-16.64583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52304" kind="city">
+    <ctml:name>Serekunda</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Banjul</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-B</ctml:parentRef>
+    <ctml:wikiDataId>Q217568</ctml:wikiDataId>
+    <ctml:latitude>13.43833000</ctml:latitude>
+    <ctml:longitude>-16.67806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52222" kind="city">
+    <ctml:name>Bansang</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q806951</ctml:wikiDataId>
+    <ctml:latitude>13.43333000</ctml:latitude>
+    <ctml:longitude>-14.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52228" kind="city">
+    <ctml:name>Brikama Nding</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q916988</ctml:wikiDataId>
+    <ctml:latitude>13.53333000</ctml:latitude>
+    <ctml:longitude>-14.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52233" kind="city">
+    <ctml:name>Dankunku</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1164277</ctml:wikiDataId>
+    <ctml:latitude>13.56667000</ctml:latitude>
+    <ctml:longitude>-15.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52236" kind="city">
+    <ctml:name>Denton</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1185218</ctml:wikiDataId>
+    <ctml:latitude>13.50000000</ctml:latitude>
+    <ctml:longitude>-14.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52246" kind="city">
+    <ctml:name>Fulladu West</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1473729</ctml:wikiDataId>
+    <ctml:latitude>13.50000000</ctml:latitude>
+    <ctml:longitude>-14.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52247" kind="city">
+    <ctml:name>Galleh Manda</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1492266</ctml:wikiDataId>
+    <ctml:latitude>13.43333000</ctml:latitude>
+    <ctml:longitude>-14.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52248" kind="city">
+    <ctml:name>Georgetown</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1002786</ctml:wikiDataId>
+    <ctml:latitude>13.54039000</ctml:latitude>
+    <ctml:longitude>-14.76374000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52252" kind="city">
+    <ctml:name>Jakhaly</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1678844</ctml:wikiDataId>
+    <ctml:latitude>13.55000000</ctml:latitude>
+    <ctml:longitude>-14.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52258" kind="city">
+    <ctml:name>Jarreng</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1572209</ctml:wikiDataId>
+    <ctml:latitude>13.61667000</ctml:latitude>
+    <ctml:longitude>-15.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52265" kind="city">
+    <ctml:name>Karantaba</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1728955</ctml:wikiDataId>
+    <ctml:latitude>13.66667000</ctml:latitude>
+    <ctml:longitude>-15.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52266" kind="city">
+    <ctml:name>Kass Wollof</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1728955</ctml:wikiDataId>
+    <ctml:latitude>13.78333000</ctml:latitude>
+    <ctml:longitude>-14.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52280" kind="city">
+    <ctml:name>Kuntaur</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1188137</ctml:wikiDataId>
+    <ctml:latitude>13.67085000</ctml:latitude>
+    <ctml:longitude>-14.88977000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52281" kind="city">
+    <ctml:name>Kunting</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1319580</ctml:wikiDataId>
+    <ctml:latitude>13.53333000</ctml:latitude>
+    <ctml:longitude>-14.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52285" kind="city">
+    <ctml:name>Lower Saloum</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1572755</ctml:wikiDataId>
+    <ctml:latitude>13.71667000</ctml:latitude>
+    <ctml:longitude>-15.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52287" kind="city">
+    <ctml:name>Niamina East</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1626738</ctml:wikiDataId>
+    <ctml:latitude>13.63333000</ctml:latitude>
+    <ctml:longitude>-15.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52288" kind="city">
+    <ctml:name>Niamina West</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1572232</ctml:wikiDataId>
+    <ctml:latitude>13.58333000</ctml:latitude>
+    <ctml:longitude>-15.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52289" kind="city">
+    <ctml:name>Niani</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1572266</ctml:wikiDataId>
+    <ctml:latitude>13.66667000</ctml:latitude>
+    <ctml:longitude>-14.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52290" kind="city">
+    <ctml:name>Nianija</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1572202</ctml:wikiDataId>
+    <ctml:latitude>13.72900000</ctml:latitude>
+    <ctml:longitude>-15.09100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52294" kind="city">
+    <ctml:name>Pateh Sam</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2056669</ctml:wikiDataId>
+    <ctml:latitude>13.61667000</ctml:latitude>
+    <ctml:longitude>-15.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52298" kind="city">
+    <ctml:name>Sami</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1694805</ctml:wikiDataId>
+    <ctml:latitude>13.58333000</ctml:latitude>
+    <ctml:longitude>-15.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52299" kind="city">
+    <ctml:name>Sami District</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q728332</ctml:wikiDataId>
+    <ctml:latitude>13.58333000</ctml:latitude>
+    <ctml:longitude>-14.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52303" kind="city">
+    <ctml:name>Saruja</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1455939</ctml:wikiDataId>
+    <ctml:latitude>13.55000000</ctml:latitude>
+    <ctml:longitude>-14.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52309" kind="city">
+    <ctml:name>Sukuta</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2364187</ctml:wikiDataId>
+    <ctml:latitude>13.61667000</ctml:latitude>
+    <ctml:longitude>-14.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52317" kind="city">
+    <ctml:name>Upper Saloum</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q1554897</ctml:wikiDataId>
+    <ctml:latitude>13.75000000</ctml:latitude>
+    <ctml:longitude>-15.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52318" kind="city">
+    <ctml:name>Wassu</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Central River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2552196</ctml:wikiDataId>
+    <ctml:latitude>13.69094000</ctml:latitude>
+    <ctml:longitude>-14.87884000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52223" kind="city">
+    <ctml:name>Baro Kunda</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q808540</ctml:wikiDataId>
+    <ctml:latitude>13.48333000</ctml:latitude>
+    <ctml:longitude>-15.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52229" kind="city">
+    <ctml:name>Bureng</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q916988</ctml:wikiDataId>
+    <ctml:latitude>13.41667000</ctml:latitude>
+    <ctml:longitude>-15.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52253" kind="city">
+    <ctml:name>Jali</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1669376</ctml:wikiDataId>
+    <ctml:latitude>13.35000000</ctml:latitude>
+    <ctml:longitude>-15.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52255" kind="city">
+    <ctml:name>Jarra Central</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1572024</ctml:wikiDataId>
+    <ctml:latitude>13.41667000</ctml:latitude>
+    <ctml:longitude>-15.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52256" kind="city">
+    <ctml:name>Jarra East</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q617233</ctml:wikiDataId>
+    <ctml:latitude>13.41667000</ctml:latitude>
+    <ctml:longitude>-15.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52257" kind="city">
+    <ctml:name>Jarra West</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1572209</ctml:wikiDataId>
+    <ctml:latitude>13.41667000</ctml:latitude>
+    <ctml:longitude>-15.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52259" kind="city">
+    <ctml:name>Jenoi</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q110618</ctml:wikiDataId>
+    <ctml:latitude>13.48333000</ctml:latitude>
+    <ctml:longitude>-15.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52260" kind="city">
+    <ctml:name>Jifarong</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1688943</ctml:wikiDataId>
+    <ctml:latitude>13.30000000</ctml:latitude>
+    <ctml:longitude>-15.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52262" kind="city">
+    <ctml:name>Kaiaf</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1721371</ctml:wikiDataId>
+    <ctml:latitude>13.40000000</ctml:latitude>
+    <ctml:longitude>-15.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52264" kind="city">
+    <ctml:name>Karantaba</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1728955</ctml:wikiDataId>
+    <ctml:latitude>13.43333000</ctml:latitude>
+    <ctml:longitude>-15.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52268" kind="city">
+    <ctml:name>Keneba</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1738721</ctml:wikiDataId>
+    <ctml:latitude>13.32889000</ctml:latitude>
+    <ctml:longitude>-16.01500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52270" kind="city">
+    <ctml:name>Kiang Central</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1572242</ctml:wikiDataId>
+    <ctml:latitude>13.40000000</ctml:latitude>
+    <ctml:longitude>-15.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52271" kind="city">
+    <ctml:name>Kiang East</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1572748</ctml:wikiDataId>
+    <ctml:latitude>13.41667000</ctml:latitude>
+    <ctml:longitude>-15.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52272" kind="city">
+    <ctml:name>Kiang West</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1572726</ctml:wikiDataId>
+    <ctml:latitude>13.33333000</ctml:latitude>
+    <ctml:longitude>-16.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52291" kind="city">
+    <ctml:name>Nioro</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1572202</ctml:wikiDataId>
+    <ctml:latitude>13.35000000</ctml:latitude>
+    <ctml:longitude>-15.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52301" kind="city">
+    <ctml:name>Sankwia</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2222431</ctml:wikiDataId>
+    <ctml:latitude>13.46667000</ctml:latitude>
+    <ctml:longitude>-15.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52305" kind="city">
+    <ctml:name>Si Kunda</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2280637</ctml:wikiDataId>
+    <ctml:latitude>13.43333000</ctml:latitude>
+    <ctml:longitude>-15.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52306" kind="city">
+    <ctml:name>Soma</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1318028</ctml:wikiDataId>
+    <ctml:latitude>13.43333000</ctml:latitude>
+    <ctml:longitude>-15.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52313" kind="city">
+    <ctml:name>Sutukung</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2370015</ctml:wikiDataId>
+    <ctml:latitude>13.46667000</ctml:latitude>
+    <ctml:longitude>-15.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52314" kind="city">
+    <ctml:name>Toniataba</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1748500</ctml:wikiDataId>
+    <ctml:latitude>13.43333000</ctml:latitude>
+    <ctml:longitude>-15.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52319" kind="city">
+    <ctml:name>Wellingara Ba</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Lower River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2552196</ctml:wikiDataId>
+    <ctml:latitude>13.41667000</ctml:latitude>
+    <ctml:longitude>-15.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52220" kind="city">
+    <ctml:name>Bambali</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q805926</ctml:wikiDataId>
+    <ctml:latitude>13.48333000</ctml:latitude>
+    <ctml:longitude>-15.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52224" kind="city">
+    <ctml:name>Barra</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q450062</ctml:wikiDataId>
+    <ctml:latitude>13.48278000</ctml:latitude>
+    <ctml:longitude>-16.54556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52230" kind="city">
+    <ctml:name>Central Baddibu</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1053702</ctml:wikiDataId>
+    <ctml:latitude>13.53333000</ctml:latitude>
+    <ctml:longitude>-15.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52231" kind="city">
+    <ctml:name>Chilla</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1053702</ctml:wikiDataId>
+    <ctml:latitude>13.55000000</ctml:latitude>
+    <ctml:longitude>-16.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52234" kind="city">
+    <ctml:name>Daru Rilwan</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1164277</ctml:wikiDataId>
+    <ctml:latitude>13.55000000</ctml:latitude>
+    <ctml:longitude>-15.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52239" kind="city">
+    <ctml:name>Essau</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1368528</ctml:wikiDataId>
+    <ctml:latitude>13.48389000</ctml:latitude>
+    <ctml:longitude>-16.53472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52240" kind="city">
+    <ctml:name>Farafenni</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1200999</ctml:wikiDataId>
+    <ctml:latitude>13.56667000</ctml:latitude>
+    <ctml:longitude>-15.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52250" kind="city">
+    <ctml:name>Gunjur</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1554693</ctml:wikiDataId>
+    <ctml:latitude>13.52278000</ctml:latitude>
+    <ctml:longitude>-16.02778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52261" kind="city">
+    <ctml:name>Jokadu</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1572430</ctml:wikiDataId>
+    <ctml:latitude>13.53333000</ctml:latitude>
+    <ctml:longitude>-16.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52267" kind="city">
+    <ctml:name>Katchang</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1735666</ctml:wikiDataId>
+    <ctml:latitude>13.50000000</ctml:latitude>
+    <ctml:longitude>-15.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52282" kind="city">
+    <ctml:name>Lamin</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1319580</ctml:wikiDataId>
+    <ctml:latitude>13.35222000</ctml:latitude>
+    <ctml:longitude>-16.43389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52283" kind="city">
+    <ctml:name>Lower Baddibu</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1572733</ctml:wikiDataId>
+    <ctml:latitude>13.50000000</ctml:latitude>
+    <ctml:longitude>-16.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52284" kind="city">
+    <ctml:name>Lower Niumi</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q915733</ctml:wikiDataId>
+    <ctml:latitude>13.53333000</ctml:latitude>
+    <ctml:longitude>-16.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52292" kind="city">
+    <ctml:name>No Kunda</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1994522</ctml:wikiDataId>
+    <ctml:latitude>13.56667000</ctml:latitude>
+    <ctml:longitude>-15.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52296" kind="city">
+    <ctml:name>Saba</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q2209357</ctml:wikiDataId>
+    <ctml:latitude>13.51639000</ctml:latitude>
+    <ctml:longitude>-16.04917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52302" kind="city">
+    <ctml:name>Sara Kunda</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q2222431</ctml:wikiDataId>
+    <ctml:latitude>13.53333000</ctml:latitude>
+    <ctml:longitude>-15.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52315" kind="city">
+    <ctml:name>Upper Baddibu</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q657796</ctml:wikiDataId>
+    <ctml:latitude>13.55000000</ctml:latitude>
+    <ctml:longitude>-15.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52316" kind="city">
+    <ctml:name>Upper Niumi</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>North Bank</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1572223</ctml:wikiDataId>
+    <ctml:latitude>13.40000000</ctml:latitude>
+    <ctml:longitude>-16.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52218" kind="city">
+    <ctml:name>Bakadagy</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q804224</ctml:wikiDataId>
+    <ctml:latitude>13.30000000</ctml:latitude>
+    <ctml:longitude>-14.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52226" kind="city">
+    <ctml:name>Brifu</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q915266</ctml:wikiDataId>
+    <ctml:latitude>13.50000000</ctml:latitude>
+    <ctml:longitude>-13.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52232" kind="city">
+    <ctml:name>Daba Kunda</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1053702</ctml:wikiDataId>
+    <ctml:latitude>13.31667000</ctml:latitude>
+    <ctml:longitude>-14.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52235" kind="city">
+    <ctml:name>Demba Kunda</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1185218</ctml:wikiDataId>
+    <ctml:latitude>13.25000000</ctml:latitude>
+    <ctml:longitude>-14.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52237" kind="city">
+    <ctml:name>Diabugu</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q269070</ctml:wikiDataId>
+    <ctml:latitude>13.38333000</ctml:latitude>
+    <ctml:longitude>-14.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52238" kind="city">
+    <ctml:name>Diabugu Basilla</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q269070</ctml:wikiDataId>
+    <ctml:latitude>13.33333000</ctml:latitude>
+    <ctml:longitude>-13.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52245" kind="city">
+    <ctml:name>Fulladu East</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1473721</ctml:wikiDataId>
+    <ctml:latitude>13.33333000</ctml:latitude>
+    <ctml:longitude>-14.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52251" kind="city">
+    <ctml:name>Gunjur Kuta</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1554695</ctml:wikiDataId>
+    <ctml:latitude>13.53333000</ctml:latitude>
+    <ctml:longitude>-14.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52263" kind="city">
+    <ctml:name>Kantora</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q611397</ctml:wikiDataId>
+    <ctml:latitude>13.41667000</ctml:latitude>
+    <ctml:longitude>-13.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52273" kind="city">
+    <ctml:name>Koina</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1778826</ctml:wikiDataId>
+    <ctml:latitude>13.48333000</ctml:latitude>
+    <ctml:longitude>-13.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52279" kind="city">
+    <ctml:name>Kumbija</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1572017</ctml:wikiDataId>
+    <ctml:latitude>13.26667000</ctml:latitude>
+    <ctml:longitude>-14.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52293" kind="city">
+    <ctml:name>Nyamanari</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1994522</ctml:wikiDataId>
+    <ctml:latitude>13.33333000</ctml:latitude>
+    <ctml:longitude>-13.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52295" kind="city">
+    <ctml:name>Perai</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1475266</ctml:wikiDataId>
+    <ctml:latitude>13.38333000</ctml:latitude>
+    <ctml:longitude>-14.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52297" kind="city">
+    <ctml:name>Sabi</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1753996</ctml:wikiDataId>
+    <ctml:latitude>13.23333000</ctml:latitude>
+    <ctml:longitude>-14.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52300" kind="city">
+    <ctml:name>Sandu</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1136959</ctml:wikiDataId>
+    <ctml:latitude>13.41667000</ctml:latitude>
+    <ctml:longitude>-14.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52308" kind="city">
+    <ctml:name>Sudowol</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q2363327</ctml:wikiDataId>
+    <ctml:latitude>13.36667000</ctml:latitude>
+    <ctml:longitude>-13.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52311" kind="city">
+    <ctml:name>Sun Kunda</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q2301340</ctml:wikiDataId>
+    <ctml:latitude>13.38333000</ctml:latitude>
+    <ctml:longitude>-13.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52312" kind="city">
+    <ctml:name>Sutukoba</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q1149283</ctml:wikiDataId>
+    <ctml:latitude>13.50000000</ctml:latitude>
+    <ctml:longitude>-14.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52320" kind="city">
+    <ctml:name>Wuli</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>Upper River</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-U</ctml:parentRef>
+    <ctml:wikiDataId>Q600022</ctml:wikiDataId>
+    <ctml:latitude>13.50000000</ctml:latitude>
+    <ctml:longitude>-14.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52217" kind="city">
+    <ctml:name>Abuko</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>West Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-W</ctml:parentRef>
+    <ctml:wikiDataId>Q335811</ctml:wikiDataId>
+    <ctml:latitude>13.40417000</ctml:latitude>
+    <ctml:longitude>-16.65583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52241" kind="city">
+    <ctml:name>Foni Bondali</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>West Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1435751</ctml:wikiDataId>
+    <ctml:latitude>13.21667000</ctml:latitude>
+    <ctml:longitude>-15.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52242" kind="city">
+    <ctml:name>Foni Brefet</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>West Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1435749</ctml:wikiDataId>
+    <ctml:latitude>13.21667000</ctml:latitude>
+    <ctml:longitude>-16.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52243" kind="city">
+    <ctml:name>Foni Jarrol</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>West Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-W</ctml:parentRef>
+    <ctml:wikiDataId>Q124275</ctml:wikiDataId>
+    <ctml:latitude>13.23333000</ctml:latitude>
+    <ctml:longitude>-15.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52244" kind="city">
+    <ctml:name>Foni Kansala</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>West Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1435754</ctml:wikiDataId>
+    <ctml:latitude>13.21667000</ctml:latitude>
+    <ctml:longitude>-16.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52249" kind="city">
+    <ctml:name>Gunjur</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>West Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-W</ctml:parentRef>
+    <ctml:wikiDataId>Q687816</ctml:wikiDataId>
+    <ctml:latitude>13.20194000</ctml:latitude>
+    <ctml:longitude>-16.73389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52274" kind="city">
+    <ctml:name>Kombo Central</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>West Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1572741</ctml:wikiDataId>
+    <ctml:latitude>13.25000000</ctml:latitude>
+    <ctml:longitude>-16.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52275" kind="city">
+    <ctml:name>Kombo East</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>West Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1548433</ctml:wikiDataId>
+    <ctml:latitude>13.21667000</ctml:latitude>
+    <ctml:longitude>-16.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52276" kind="city">
+    <ctml:name>Kombo North</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>West Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1572418</ctml:wikiDataId>
+    <ctml:latitude>13.36667000</ctml:latitude>
+    <ctml:longitude>-16.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52278" kind="city">
+    <ctml:name>Kombo South</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>West Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1572017</ctml:wikiDataId>
+    <ctml:latitude>13.25000000</ctml:latitude>
+    <ctml:longitude>-16.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52307" kind="city">
+    <ctml:name>Somita</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>West Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-W</ctml:parentRef>
+    <ctml:wikiDataId>Q2299731</ctml:wikiDataId>
+    <ctml:latitude>13.20583000</ctml:latitude>
+    <ctml:longitude>-16.30556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GMB-52310" kind="city">
+    <ctml:name>Sukuta</ctml:name>
+    <ctml:country>GMB</ctml:country>
+    <ctml:admin1>West Coast</ctml:admin1>
+    <ctml:parentRef>place:admin1:GM-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1013940</ctml:wikiDataId>
+    <ctml:latitude>13.41033000</ctml:latitude>
+    <ctml:longitude>-16.70815000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BES-150058" kind="city">
+    <ctml:name>Boven Bolivia</ctml:name>
+    <ctml:country>BES</ctml:country>
+    <ctml:admin1>Bonaire</ctml:admin1>
+    <ctml:parentRef>place:admin1:BQ-BQ1</ctml:parentRef>
+    <ctml:wikiDataId>Q4950521</ctml:wikiDataId>
+    <ctml:latitude>12.18190000</ctml:latitude>
+    <ctml:longitude>-68.21810000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BES-150059" kind="city">
+    <ctml:name>Dorp Tera Kora</ctml:name>
+    <ctml:country>BES</ctml:country>
+    <ctml:admin1>Bonaire</ctml:admin1>
+    <ctml:parentRef>place:admin1:BQ-BQ1</ctml:parentRef>
+    <ctml:wikiDataId>Q9357153</ctml:wikiDataId>
+    <ctml:latitude>12.13333000</ctml:latitude>
+    <ctml:longitude>-68.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BES-150061" kind="city">
+    <ctml:name>Rincon</ctml:name>
+    <ctml:country>BES</ctml:country>
+    <ctml:admin1>Bonaire</ctml:admin1>
+    <ctml:parentRef>place:admin1:BQ-BQ1</ctml:parentRef>
+    <ctml:wikiDataId>Q2033101</ctml:wikiDataId>
+    <ctml:latitude>12.23833333</ctml:latitude>
+    <ctml:longitude>-68.33250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BES-150062" kind="city">
+    <ctml:name>St. Johns</ctml:name>
+    <ctml:country>BES</ctml:country>
+    <ctml:admin1>Bonaire</ctml:admin1>
+    <ctml:parentRef>place:admin1:BQ-BQ1</ctml:parentRef>
+    <ctml:wikiDataId>Q2699576</ctml:wikiDataId>
+    <ctml:latitude>17.62100750</ctml:latitude>
+    <ctml:longitude>-63.24316830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BES-150064" kind="city">
+    <ctml:name>Windwardside</ctml:name>
+    <ctml:country>BES</ctml:country>
+    <ctml:admin1>Bonaire</ctml:admin1>
+    <ctml:parentRef>place:admin1:BQ-BQ1</ctml:parentRef>
+    <ctml:wikiDataId>Q2983401</ctml:wikiDataId>
+    <ctml:latitude>17.62864000</ctml:latitude>
+    <ctml:longitude>-63.23136000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BES-150065" kind="city">
+    <ctml:name>Zion's Hill</ctml:name>
+    <ctml:country>BES</ctml:country>
+    <ctml:admin1>Bonaire</ctml:admin1>
+    <ctml:parentRef>place:admin1:BQ-BQ1</ctml:parentRef>
+    <ctml:wikiDataId>Q2511504</ctml:wikiDataId>
+    <ctml:latitude>17.64300000</ctml:latitude>
+    <ctml:longitude>-63.22649000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

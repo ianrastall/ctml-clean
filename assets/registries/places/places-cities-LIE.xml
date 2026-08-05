@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:LIE-66447" kind="city">
+    <ctml:name>Vaduz</ctml:name>
+    <ctml:country>LIE</ctml:country>
+    <ctml:admin1>Vaduz</ctml:admin1>
+    <ctml:parentRef>place:admin1:LI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1844</ctml:wikiDataId>
+    <ctml:latitude>47.14151000</ctml:latitude>
+    <ctml:longitude>9.52154000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

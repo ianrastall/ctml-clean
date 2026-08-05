@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:UGA-110880" kind="city">
+    <ctml:name>Bukomansimbi</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q4363229</ctml:wikiDataId>
+    <ctml:latitude>-0.12855000</ctml:latitude>
+    <ctml:longitude>31.62527000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110886" kind="city">
+    <ctml:name>Buvuma</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q3321608</ctml:wikiDataId>
+    <ctml:latitude>-0.36744000</ctml:latitude>
+    <ctml:longitude>33.20071000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110888" kind="city">
+    <ctml:name>Bweyogerere</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q5003681</ctml:wikiDataId>
+    <ctml:latitude>0.35773000</ctml:latitude>
+    <ctml:longitude>32.66332000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110890" kind="city">
+    <ctml:name>Byakabanda</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q5003690</ctml:wikiDataId>
+    <ctml:latitude>-0.74250000</ctml:latitude>
+    <ctml:longitude>31.40639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110891" kind="city">
+    <ctml:name>Entebbe</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q211970</ctml:wikiDataId>
+    <ctml:latitude>0.05621000</ctml:latitude>
+    <ctml:longitude>32.47949000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110893" kind="city">
+    <ctml:name>Gomba</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q3321637</ctml:wikiDataId>
+    <ctml:latitude>0.20017000</ctml:latitude>
+    <ctml:longitude>31.75023000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110902" kind="city">
+    <ctml:name>Kajansi</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q6346322</ctml:wikiDataId>
+    <ctml:latitude>0.21548000</ctml:latitude>
+    <ctml:longitude>32.53453000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110903" kind="city">
+    <ctml:name>Kampala</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q3894</ctml:wikiDataId>
+    <ctml:latitude>0.31628000</ctml:latitude>
+    <ctml:longitude>32.58219000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110904" kind="city">
+    <ctml:name>Kampala District</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q926417</ctml:wikiDataId>
+    <ctml:latitude>0.33508000</ctml:latitude>
+    <ctml:longitude>32.58313000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110907" kind="admin2">
+    <ctml:name>Kanoni</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q6685692</ctml:wikiDataId>
+    <ctml:latitude>0.17722000</ctml:latitude>
+    <ctml:longitude>31.88111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110911" kind="admin2">
+    <ctml:name>Kayunga</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q995221</ctml:wikiDataId>
+    <ctml:latitude>0.70250000</ctml:latitude>
+    <ctml:longitude>32.88861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110913" kind="admin2">
+    <ctml:name>Kiboga</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1810614</ctml:wikiDataId>
+    <ctml:latitude>0.91611000</ctml:latitude>
+    <ctml:longitude>31.77417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110917" kind="city">
+    <ctml:name>Kireka</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q6415051</ctml:wikiDataId>
+    <ctml:latitude>0.34750000</ctml:latitude>
+    <ctml:longitude>32.64917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110924" kind="city">
+    <ctml:name>Kyotera</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q5368395</ctml:wikiDataId>
+    <ctml:latitude>-0.61556000</ctml:latitude>
+    <ctml:longitude>31.51750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110926" kind="city">
+    <ctml:name>Lugazi</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q6699738</ctml:wikiDataId>
+    <ctml:latitude>0.36788000</ctml:latitude>
+    <ctml:longitude>32.93760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110927" kind="admin2">
+    <ctml:name>Luwero</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q6699738</ctml:wikiDataId>
+    <ctml:latitude>0.84917000</ctml:latitude>
+    <ctml:longitude>32.47306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110928" kind="admin2">
+    <ctml:name>Lyantonde</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q6699738</ctml:wikiDataId>
+    <ctml:latitude>-0.40306000</ctml:latitude>
+    <ctml:longitude>31.15722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110930" kind="admin2">
+    <ctml:name>Masaka</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q956659</ctml:wikiDataId>
+    <ctml:latitude>-0.33379000</ctml:latitude>
+    <ctml:longitude>31.73409000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110936" kind="admin2">
+    <ctml:name>Mityana</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2267729</ctml:wikiDataId>
+    <ctml:latitude>0.41750000</ctml:latitude>
+    <ctml:longitude>32.02278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110939" kind="admin2">
+    <ctml:name>Mpigi</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q933338</ctml:wikiDataId>
+    <ctml:latitude>0.22500000</ctml:latitude>
+    <ctml:longitude>32.31361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110940" kind="admin2">
+    <ctml:name>Mubende</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q3528929</ctml:wikiDataId>
+    <ctml:latitude>0.55849000</ctml:latitude>
+    <ctml:longitude>31.39489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110941" kind="city">
+    <ctml:name>Mubende District</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q891962</ctml:wikiDataId>
+    <ctml:latitude>0.50000000</ctml:latitude>
+    <ctml:longitude>31.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110943" kind="admin2">
+    <ctml:name>Mukono</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q179198</ctml:wikiDataId>
+    <ctml:latitude>0.35333000</ctml:latitude>
+    <ctml:longitude>32.75528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110944" kind="admin2">
+    <ctml:name>Nakasongola</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q3530559</ctml:wikiDataId>
+    <ctml:latitude>1.30889000</ctml:latitude>
+    <ctml:longitude>32.45639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110945" kind="city">
+    <ctml:name>Namasuba</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q3530559</ctml:wikiDataId>
+    <ctml:latitude>0.68944000</ctml:latitude>
+    <ctml:longitude>32.42139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110947" kind="city">
+    <ctml:name>Njeru</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1994275</ctml:wikiDataId>
+    <ctml:latitude>0.44166000</ctml:latitude>
+    <ctml:longitude>33.17917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110957" kind="admin2">
+    <ctml:name>Sembabule</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1820455</ctml:wikiDataId>
+    <ctml:latitude>-0.07722000</ctml:latitude>
+    <ctml:longitude>31.45667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110961" kind="admin2">
+    <ctml:name>Wakiso</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1649358</ctml:wikiDataId>
+    <ctml:latitude>0.40444000</ctml:latitude>
+    <ctml:longitude>32.45944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110962" kind="city">
+    <ctml:name>Wakiso District</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q976848</ctml:wikiDataId>
+    <ctml:latitude>0.23763000</ctml:latitude>
+    <ctml:longitude>32.47836000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110963" kind="city">
+    <ctml:name>Wobulenzi</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q15076215</ctml:wikiDataId>
+    <ctml:latitude>0.72833000</ctml:latitude>
+    <ctml:longitude>32.51222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110878" kind="city">
+    <ctml:name>Bugembe</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q4986157</ctml:wikiDataId>
+    <ctml:latitude>0.48213000</ctml:latitude>
+    <ctml:longitude>33.24065000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110879" kind="admin2">
+    <ctml:name>Bugiri</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q4363229</ctml:wikiDataId>
+    <ctml:latitude>0.57139000</ctml:latitude>
+    <ctml:longitude>33.74167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110881" kind="city">
+    <ctml:name>Bukwa</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1375868</ctml:wikiDataId>
+    <ctml:latitude>1.27115000</ctml:latitude>
+    <ctml:longitude>34.66778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110882" kind="city">
+    <ctml:name>Bulambuli</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1114868</ctml:wikiDataId>
+    <ctml:latitude>1.32055000</ctml:latitude>
+    <ctml:longitude>34.28062000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110884" kind="city">
+    <ctml:name>Busembatia</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q2597300</ctml:wikiDataId>
+    <ctml:latitude>0.77725000</ctml:latitude>
+    <ctml:longitude>33.62364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110885" kind="admin2">
+    <ctml:name>Busia</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1280038</ctml:wikiDataId>
+    <ctml:latitude>0.46588000</ctml:latitude>
+    <ctml:longitude>34.09221000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110887" kind="city">
+    <ctml:name>Buwenge</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q5003228</ctml:wikiDataId>
+    <ctml:latitude>0.64996000</ctml:latitude>
+    <ctml:longitude>33.17128000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110898" kind="admin2">
+    <ctml:name>Iganga</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1657091</ctml:wikiDataId>
+    <ctml:latitude>0.60917000</ctml:latitude>
+    <ctml:longitude>33.46861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110905" kind="admin2">
+    <ctml:name>Kamuli</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q3088116</ctml:wikiDataId>
+    <ctml:latitude>0.94722000</ctml:latitude>
+    <ctml:longitude>33.11972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110909" kind="admin2">
+    <ctml:name>Kapchorwa</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q2203142</ctml:wikiDataId>
+    <ctml:latitude>1.40096000</ctml:latitude>
+    <ctml:longitude>34.45038000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110914" kind="city">
+    <ctml:name>Kibuku</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1114885</ctml:wikiDataId>
+    <ctml:latitude>1.05000000</ctml:latitude>
+    <ctml:longitude>33.80879000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110922" kind="admin2">
+    <ctml:name>Kumi</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q2505963</ctml:wikiDataId>
+    <ctml:latitude>1.46083000</ctml:latitude>
+    <ctml:longitude>33.93611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110933" kind="admin2">
+    <ctml:name>Mayuge</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q6783287</ctml:wikiDataId>
+    <ctml:latitude>0.45972000</ctml:latitude>
+    <ctml:longitude>33.48028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110934" kind="admin2">
+    <ctml:name>Mbale</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1015727</ctml:wikiDataId>
+    <ctml:latitude>1.08209000</ctml:latitude>
+    <ctml:longitude>34.17503000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110955" kind="admin2">
+    <ctml:name>Pallisa</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q2297538</ctml:wikiDataId>
+    <ctml:latitude>1.14500000</ctml:latitude>
+    <ctml:longitude>33.70944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110958" kind="admin2">
+    <ctml:name>Sironko</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q2252605</ctml:wikiDataId>
+    <ctml:latitude>1.23132000</ctml:latitude>
+    <ctml:longitude>34.24773000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110959" kind="admin2">
+    <ctml:name>Soroti</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q2141024</ctml:wikiDataId>
+    <ctml:latitude>1.71464000</ctml:latitude>
+    <ctml:longitude>33.61113000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110960" kind="admin2">
+    <ctml:name>Tororo</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-E</ctml:parentRef>
+    <ctml:wikiDataId>Q1207825</ctml:wikiDataId>
+    <ctml:latitude>0.69299000</ctml:latitude>
+    <ctml:longitude>34.18085000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110874" kind="admin2">
+    <ctml:name>Adjumani</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q3499673</ctml:wikiDataId>
+    <ctml:latitude>3.37786000</ctml:latitude>
+    <ctml:longitude>31.79090000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110875" kind="admin2">
+    <ctml:name>Amudat</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q4748920</ctml:wikiDataId>
+    <ctml:latitude>1.95000000</ctml:latitude>
+    <ctml:longitude>34.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110876" kind="admin2">
+    <ctml:name>Apac</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q2041227</ctml:wikiDataId>
+    <ctml:latitude>1.97556000</ctml:latitude>
+    <ctml:longitude>32.53861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110877" kind="admin2">
+    <ctml:name>Arua</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q500111</ctml:wikiDataId>
+    <ctml:latitude>3.02013000</ctml:latitude>
+    <ctml:longitude>30.91105000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110920" kind="admin2">
+    <ctml:name>Kitgum</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q525954</ctml:wikiDataId>
+    <ctml:latitude>3.27833000</ctml:latitude>
+    <ctml:longitude>32.88667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110921" kind="admin2">
+    <ctml:name>Kotido</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q2505963</ctml:wikiDataId>
+    <ctml:latitude>2.98056000</ctml:latitude>
+    <ctml:longitude>34.13306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110925" kind="admin2">
+    <ctml:name>Lira</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q5368395</ctml:wikiDataId>
+    <ctml:latitude>2.24990000</ctml:latitude>
+    <ctml:longitude>32.89985000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110937" kind="admin2">
+    <ctml:name>Moroto</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q2193389</ctml:wikiDataId>
+    <ctml:latitude>2.53453000</ctml:latitude>
+    <ctml:longitude>34.66659000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110938" kind="admin2">
+    <ctml:name>Moyo</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q992016</ctml:wikiDataId>
+    <ctml:latitude>3.66088000</ctml:latitude>
+    <ctml:longitude>31.72474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110946" kind="admin2">
+    <ctml:name>Nebbi</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q2174978</ctml:wikiDataId>
+    <ctml:latitude>2.47826000</ctml:latitude>
+    <ctml:longitude>31.08893000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110950" kind="city">
+    <ctml:name>Otuke</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q3539602</ctml:wikiDataId>
+    <ctml:latitude>2.48372000</ctml:latitude>
+    <ctml:longitude>33.34201000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110951" kind="city">
+    <ctml:name>Oyam</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1318833</ctml:wikiDataId>
+    <ctml:latitude>2.38129000</ctml:latitude>
+    <ctml:longitude>32.50071000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110952" kind="admin2">
+    <ctml:name>Pader</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1318833</ctml:wikiDataId>
+    <ctml:latitude>3.05000000</ctml:latitude>
+    <ctml:longitude>33.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110953" kind="city">
+    <ctml:name>Pader Palwo</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1318833</ctml:wikiDataId>
+    <ctml:latitude>2.80056000</ctml:latitude>
+    <ctml:longitude>33.13500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110954" kind="city">
+    <ctml:name>Paidha</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q7124680</ctml:wikiDataId>
+    <ctml:latitude>2.41669000</ctml:latitude>
+    <ctml:longitude>30.98551000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110964" kind="admin2">
+    <ctml:name>Yumbe</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q2488907</ctml:wikiDataId>
+    <ctml:latitude>3.46506000</ctml:latitude>
+    <ctml:longitude>31.24689000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110883" kind="admin2">
+    <ctml:name>Bundibugyo</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q2597300</ctml:wikiDataId>
+    <ctml:latitude>0.71117000</ctml:latitude>
+    <ctml:longitude>30.06469000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110889" kind="city">
+    <ctml:name>Bwizibwera</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q5003690</ctml:wikiDataId>
+    <ctml:latitude>-0.59167000</ctml:latitude>
+    <ctml:longitude>30.62861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110892" kind="admin2">
+    <ctml:name>Fort Portal</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q500107</ctml:wikiDataId>
+    <ctml:latitude>0.66174000</ctml:latitude>
+    <ctml:longitude>30.27480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110895" kind="admin2">
+    <ctml:name>Hoima</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1624192</ctml:wikiDataId>
+    <ctml:latitude>1.43314000</ctml:latitude>
+    <ctml:longitude>31.35241000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110896" kind="admin2">
+    <ctml:name>Ibanda</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q3459039</ctml:wikiDataId>
+    <ctml:latitude>-0.13398000</ctml:latitude>
+    <ctml:longitude>30.49616000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110897" kind="city">
+    <ctml:name>Ibanda District</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1318877</ctml:wikiDataId>
+    <ctml:latitude>-0.08100000</ctml:latitude>
+    <ctml:longitude>30.55600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110900" kind="admin2">
+    <ctml:name>Kabale</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q588930</ctml:wikiDataId>
+    <ctml:latitude>-1.24857000</ctml:latitude>
+    <ctml:longitude>29.98993000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110901" kind="admin2">
+    <ctml:name>Kagadi</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q6346322</ctml:wikiDataId>
+    <ctml:latitude>0.93778000</ctml:latitude>
+    <ctml:longitude>30.80889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110906" kind="admin2">
+    <ctml:name>Kamwenge</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q2431771</ctml:wikiDataId>
+    <ctml:latitude>0.18660000</ctml:latitude>
+    <ctml:longitude>30.45393000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110908" kind="admin2">
+    <ctml:name>Kanungu</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q2470025</ctml:wikiDataId>
+    <ctml:latitude>-0.95750000</ctml:latitude>
+    <ctml:longitude>29.78972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110910" kind="admin2">
+    <ctml:name>Kasese</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1232016</ctml:wikiDataId>
+    <ctml:latitude>0.18333000</ctml:latitude>
+    <ctml:longitude>30.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110912" kind="admin2">
+    <ctml:name>Kibale</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q995221</ctml:wikiDataId>
+    <ctml:latitude>0.80000000</ctml:latitude>
+    <ctml:longitude>31.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110915" kind="city">
+    <ctml:name>Kigorobya</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1114885</ctml:wikiDataId>
+    <ctml:latitude>1.61620000</ctml:latitude>
+    <ctml:longitude>31.30890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110916" kind="city">
+    <ctml:name>Kilembe</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1114885</ctml:wikiDataId>
+    <ctml:latitude>0.19835000</ctml:latitude>
+    <ctml:longitude>30.01302000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110918" kind="admin2">
+    <ctml:name>Kiruhura</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q6415051</ctml:wikiDataId>
+    <ctml:latitude>-0.19664000</ctml:latitude>
+    <ctml:longitude>30.84446000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110919" kind="admin2">
+    <ctml:name>Kisoro</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q525954</ctml:wikiDataId>
+    <ctml:latitude>-1.28538000</ctml:latitude>
+    <ctml:longitude>29.68497000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110923" kind="admin2">
+    <ctml:name>Kyenjojo</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q5368395</ctml:wikiDataId>
+    <ctml:latitude>0.63278000</ctml:latitude>
+    <ctml:longitude>30.62139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110929" kind="city">
+    <ctml:name>Margherita</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q6699738</ctml:wikiDataId>
+    <ctml:latitude>0.41861000</ctml:latitude>
+    <ctml:longitude>29.89111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110931" kind="admin2">
+    <ctml:name>Masindi</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1907120</ctml:wikiDataId>
+    <ctml:latitude>1.67444000</ctml:latitude>
+    <ctml:longitude>31.71500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110932" kind="city">
+    <ctml:name>Masindi Port</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q6783287</ctml:wikiDataId>
+    <ctml:latitude>1.69606000</ctml:latitude>
+    <ctml:longitude>32.08608000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110942" kind="city">
+    <ctml:name>Muhororo</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q891962</ctml:wikiDataId>
+    <ctml:latitude>0.93806000</ctml:latitude>
+    <ctml:longitude>30.75944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110948" kind="admin2">
+    <ctml:name>Ntungamo</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q938145</ctml:wikiDataId>
+    <ctml:latitude>-0.87944000</ctml:latitude>
+    <ctml:longitude>30.26417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:UGA-110949" kind="city">
+    <ctml:name>Nyachera</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q938145</ctml:wikiDataId>
+    <ctml:latitude>-0.90000000</ctml:latitude>
+    <ctml:longitude>30.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:UGA-110956" kind="admin2">
+    <ctml:name>Rukungiri</ctml:name>
+    <ctml:country>UGA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:UG-W</ctml:parentRef>
+    <ctml:wikiDataId>Q6700211</ctml:wikiDataId>
+    <ctml:latitude>-0.84111000</ctml:latitude>
+    <ctml:longitude>29.94194000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

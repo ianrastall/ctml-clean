@@ -1,0 +1,3405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SRB-97160" kind="city">
+    <ctml:name>Barič</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q2884580</ctml:wikiDataId>
+    <ctml:latitude>44.65070000</ctml:latitude>
+    <ctml:longitude>20.25941000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97174" kind="city">
+    <ctml:name>Bečmen</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q2900589</ctml:wikiDataId>
+    <ctml:latitude>44.77983000</ctml:latitude>
+    <ctml:longitude>20.20577000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97193" kind="city">
+    <ctml:name>Dobanovci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q2037460</ctml:wikiDataId>
+    <ctml:latitude>44.82631000</ctml:latitude>
+    <ctml:longitude>20.22487000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97270" kind="city">
+    <ctml:name>Lazarevac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q1091353</ctml:wikiDataId>
+    <ctml:latitude>44.38534000</ctml:latitude>
+    <ctml:longitude>20.25570000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97286" kind="city">
+    <ctml:name>Mala Moštanica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q2375650</ctml:wikiDataId>
+    <ctml:latitude>44.63834000</ctml:latitude>
+    <ctml:longitude>20.30600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97319" kind="city">
+    <ctml:name>Obrenovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q793176</ctml:wikiDataId>
+    <ctml:latitude>44.65486000</ctml:latitude>
+    <ctml:longitude>20.20017000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97326" kind="city">
+    <ctml:name>Ostružnica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q599338</ctml:wikiDataId>
+    <ctml:latitude>44.72769000</ctml:latitude>
+    <ctml:longitude>20.31845000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97327" kind="city">
+    <ctml:name>Ovča</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q1008404</ctml:wikiDataId>
+    <ctml:latitude>44.88349000</ctml:latitude>
+    <ctml:longitude>20.53336000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97368" kind="city">
+    <ctml:name>Rušanj</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q3177250</ctml:wikiDataId>
+    <ctml:latitude>44.68477000</ctml:latitude>
+    <ctml:longitude>20.44993000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97390" kind="city">
+    <ctml:name>Sremčica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q1024086</ctml:wikiDataId>
+    <ctml:latitude>44.67653000</ctml:latitude>
+    <ctml:longitude>20.39232000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97399" kind="city">
+    <ctml:name>Stepojevac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q3103021</ctml:wikiDataId>
+    <ctml:latitude>44.51278000</ctml:latitude>
+    <ctml:longitude>20.29500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97400" kind="city">
+    <ctml:name>Stubline</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q947010</ctml:wikiDataId>
+    <ctml:latitude>44.57476000</ctml:latitude>
+    <ctml:longitude>20.13477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97404" kind="city">
+    <ctml:name>Surčin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q288536</ctml:wikiDataId>
+    <ctml:latitude>44.79306000</ctml:latitude>
+    <ctml:longitude>20.28028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97406" kind="city">
+    <ctml:name>Tabanović</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q2736282</ctml:wikiDataId>
+    <ctml:latitude>44.82018000</ctml:latitude>
+    <ctml:longitude>19.64128000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97419" kind="city">
+    <ctml:name>Ugrinovci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q1977243</ctml:wikiDataId>
+    <ctml:latitude>44.87635000</ctml:latitude>
+    <ctml:longitude>20.18763000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97421" kind="city">
+    <ctml:name>Umka</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q3050835</ctml:wikiDataId>
+    <ctml:latitude>44.67806000</ctml:latitude>
+    <ctml:longitude>20.30472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97428" kind="city">
+    <ctml:name>Velika Moštanica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q3177271</ctml:wikiDataId>
+    <ctml:latitude>44.66486000</ctml:latitude>
+    <ctml:longitude>20.35395000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97439" kind="city">
+    <ctml:name>Vranić</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q2453146</ctml:wikiDataId>
+    <ctml:latitude>44.60237000</ctml:latitude>
+    <ctml:longitude>20.32872000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97446" kind="city">
+    <ctml:name>Zemun</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q209329</ctml:wikiDataId>
+    <ctml:latitude>44.84580000</ctml:latitude>
+    <ctml:longitude>20.40116000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97451" kind="city">
+    <ctml:name>Zvečka</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Belgrade</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-00</ctml:parentRef>
+    <ctml:wikiDataId>Q3177361</ctml:wikiDataId>
+    <ctml:latitude>44.64025000</ctml:latitude>
+    <ctml:longitude>20.16432000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97182" kind="city">
+    <ctml:name>Bor</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Bor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-14</ctml:parentRef>
+    <ctml:wikiDataId>Q477586</ctml:wikiDataId>
+    <ctml:latitude>44.36667000</ctml:latitude>
+    <ctml:longitude>22.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97197" kind="city">
+    <ctml:name>Donji Milanovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Bor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1002286</ctml:wikiDataId>
+    <ctml:latitude>44.46593000</ctml:latitude>
+    <ctml:longitude>22.15170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155038" kind="city">
+    <ctml:name>Kladovo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Bor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1467253</ctml:wikiDataId>
+    <ctml:latitude>44.60439890</ctml:latitude>
+    <ctml:longitude>22.50819420</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97284" kind="city">
+    <ctml:name>Majdanpek</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Bor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1808548</ctml:wikiDataId>
+    <ctml:latitude>44.42525470</ctml:latitude>
+    <ctml:longitude>21.80927330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97301" kind="city">
+    <ctml:name>Negotin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Bor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1572127</ctml:wikiDataId>
+    <ctml:latitude>44.21816180</ctml:latitude>
+    <ctml:longitude>22.45162060</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97210" kind="city">
+    <ctml:name>Golubac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Braničevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2047467</ctml:wikiDataId>
+    <ctml:latitude>44.63552160</ctml:latitude>
+    <ctml:longitude>21.59525590</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97245" kind="city">
+    <ctml:name>Klenje</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Braničevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2722401</ctml:wikiDataId>
+    <ctml:latitude>44.80794000</ctml:latitude>
+    <ctml:longitude>19.43508000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155042" kind="city">
+    <ctml:name>Kučevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Braničevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1486117</ctml:wikiDataId>
+    <ctml:latitude>44.48938750</ctml:latitude>
+    <ctml:longitude>21.63499770</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-155043" kind="admin2">
+    <ctml:name>Malo Crniće</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Braničevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2047453</ctml:wikiDataId>
+    <ctml:latitude>44.54013980</ctml:latitude>
+    <ctml:longitude>21.19802620</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155044" kind="city">
+    <ctml:name>Petrovac na Mlavi</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Braničevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1544334</ctml:wikiDataId>
+    <ctml:latitude>44.35397370</ctml:latitude>
+    <ctml:longitude>21.28050670</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97343" kind="admin2">
+    <ctml:name>Požarevac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Braničevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-11</ctml:parentRef>
+    <ctml:wikiDataId>Q199942</ctml:wikiDataId>
+    <ctml:latitude>44.62133000</ctml:latitude>
+    <ctml:longitude>21.18782000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97352" kind="city">
+    <ctml:name>Radenka</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Braničevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-11</ctml:parentRef>
+    <ctml:wikiDataId>Q658485</ctml:wikiDataId>
+    <ctml:latitude>44.58345000</ctml:latitude>
+    <ctml:longitude>21.76469000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97469" kind="city">
+    <ctml:name>Ševica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Braničevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3102834</ctml:wikiDataId>
+    <ctml:latitude>44.50883000</ctml:latitude>
+    <ctml:longitude>21.72296000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155039" kind="city">
+    <ctml:name>Veliko Gradište</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Braničevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2041692</ctml:wikiDataId>
+    <ctml:latitude>44.75196410</ctml:latitude>
+    <ctml:longitude>21.46282130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155040" kind="city">
+    <ctml:name>Žabari</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Braničevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2019035</ctml:wikiDataId>
+    <ctml:latitude>44.38522130</ctml:latitude>
+    <ctml:longitude>21.04498720</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155041" kind="city">
+    <ctml:name>Žagubica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Braničevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-11</ctml:parentRef>
+    <ctml:wikiDataId>Q393335</ctml:wikiDataId>
+    <ctml:latitude>44.15544450</ctml:latitude>
+    <ctml:longitude>21.69317990</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97146" kind="city">
+    <ctml:name>Aradac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q624707</ctml:wikiDataId>
+    <ctml:latitude>45.38346000</ctml:latitude>
+    <ctml:longitude>20.30137000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97152" kind="city">
+    <ctml:name>Banatski Despotovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q806131</ctml:wikiDataId>
+    <ctml:latitude>45.36606000</ctml:latitude>
+    <ctml:longitude>20.66407000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97153" kind="city">
+    <ctml:name>Banatski Dvor</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q532897</ctml:wikiDataId>
+    <ctml:latitude>45.51866000</ctml:latitude>
+    <ctml:longitude>20.51146000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97155" kind="city">
+    <ctml:name>Banatsko Karađorđevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1089484</ctml:wikiDataId>
+    <ctml:latitude>45.58693000</ctml:latitude>
+    <ctml:longitude>20.56421000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97171" kind="city">
+    <ctml:name>Belo Blato</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q263805</ctml:wikiDataId>
+    <ctml:latitude>45.27278000</ctml:latitude>
+    <ctml:longitude>20.37500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97185" kind="city">
+    <ctml:name>Bočar</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q832848</ctml:wikiDataId>
+    <ctml:latitude>45.76994000</ctml:latitude>
+    <ctml:longitude>20.28390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97180" kind="city">
+    <ctml:name>Boka</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q569263</ctml:wikiDataId>
+    <ctml:latitude>45.35540000</ctml:latitude>
+    <ctml:longitude>20.82987000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97184" kind="city">
+    <ctml:name>Botoš</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q31925230</ctml:wikiDataId>
+    <ctml:latitude>45.30837000</ctml:latitude>
+    <ctml:longitude>20.63514000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97459" kind="city">
+    <ctml:name>Čenta</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q338654</ctml:wikiDataId>
+    <ctml:latitude>45.10814000</ctml:latitude>
+    <ctml:longitude>20.38947000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97460" kind="city">
+    <ctml:name>Čestereg</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q225860</ctml:wikiDataId>
+    <ctml:latitude>45.56361000</ctml:latitude>
+    <ctml:longitude>20.53194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97204" kind="city">
+    <ctml:name>Ečka</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q743707</ctml:wikiDataId>
+    <ctml:latitude>45.32328000</ctml:latitude>
+    <ctml:longitude>20.44294000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97203" kind="city">
+    <ctml:name>Elemir</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q988802</ctml:wikiDataId>
+    <ctml:latitude>45.44263000</ctml:latitude>
+    <ctml:longitude>20.30003000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97205" kind="city">
+    <ctml:name>Farkaždin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q996450</ctml:wikiDataId>
+    <ctml:latitude>45.19172000</ctml:latitude>
+    <ctml:longitude>20.47239000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97219" kind="city">
+    <ctml:name>Hetin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1190917</ctml:wikiDataId>
+    <ctml:latitude>45.66202000</ctml:latitude>
+    <ctml:longitude>20.79138000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97232" kind="city">
+    <ctml:name>Jarkovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1061105</ctml:wikiDataId>
+    <ctml:latitude>45.26985000</ctml:latitude>
+    <ctml:longitude>20.76078000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97234" kind="city">
+    <ctml:name>Jaša Tomić</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q785546</ctml:wikiDataId>
+    <ctml:latitude>45.44725000</ctml:latitude>
+    <ctml:longitude>20.85546000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97243" kind="city">
+    <ctml:name>Klek</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q853942</ctml:wikiDataId>
+    <ctml:latitude>45.42254000</ctml:latitude>
+    <ctml:longitude>20.48049000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97246" kind="city">
+    <ctml:name>Knićanin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q691863</ctml:wikiDataId>
+    <ctml:latitude>45.18675000</ctml:latitude>
+    <ctml:longitude>20.31900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97250" kind="city">
+    <ctml:name>Konak</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1083380</ctml:wikiDataId>
+    <ctml:latitude>45.31575000</ctml:latitude>
+    <ctml:longitude>20.91468000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97257" kind="city">
+    <ctml:name>Krajišnik</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q167394</ctml:wikiDataId>
+    <ctml:latitude>45.45283000</ctml:latitude>
+    <ctml:longitude>20.72976000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97264" kind="city">
+    <ctml:name>Kumane</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q943083</ctml:wikiDataId>
+    <ctml:latitude>45.53946000</ctml:latitude>
+    <ctml:longitude>20.22902000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97271" kind="city">
+    <ctml:name>Lazarevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q779376</ctml:wikiDataId>
+    <ctml:latitude>45.38893000</ctml:latitude>
+    <ctml:longitude>20.53999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97282" kind="city">
+    <ctml:name>Lukićevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1194843</ctml:wikiDataId>
+    <ctml:latitude>45.33815000</ctml:latitude>
+    <ctml:longitude>20.49895000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97293" kind="city">
+    <ctml:name>Međa</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1088758</ctml:wikiDataId>
+    <ctml:latitude>45.53815000</ctml:latitude>
+    <ctml:longitude>20.80677000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97291" kind="city">
+    <ctml:name>Melenci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1022734</ctml:wikiDataId>
+    <ctml:latitude>45.51680000</ctml:latitude>
+    <ctml:longitude>20.31961000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97294" kind="city">
+    <ctml:name>Mihajlovo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1163142</ctml:wikiDataId>
+    <ctml:latitude>45.47085000</ctml:latitude>
+    <ctml:longitude>20.41508000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97302" kind="city">
+    <ctml:name>Neuzina</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q751360</ctml:wikiDataId>
+    <ctml:latitude>45.34460000</ctml:latitude>
+    <ctml:longitude>20.71418000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97307" kind="city">
+    <ctml:name>Nova Crnja</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q914410</ctml:wikiDataId>
+    <ctml:latitude>45.68712540</ctml:latitude>
+    <ctml:longitude>20.51005280</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155045" kind="city">
+    <ctml:name>Novi Bečej</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q914463</ctml:wikiDataId>
+    <ctml:latitude>45.59435150</ctml:latitude>
+    <ctml:longitude>20.18852580</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97310" kind="city">
+    <ctml:name>Novi Itebej</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1048908</ctml:wikiDataId>
+    <ctml:latitude>45.55918000</ctml:latitude>
+    <ctml:longitude>20.70030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97317" kind="city">
+    <ctml:name>Novo Miloševo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q793176</ctml:wikiDataId>
+    <ctml:latitude>45.71916000</ctml:latitude>
+    <ctml:longitude>20.30364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97322" kind="city">
+    <ctml:name>Orlovat</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1193012</ctml:wikiDataId>
+    <ctml:latitude>45.24171000</ctml:latitude>
+    <ctml:longitude>20.58089000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97333" kind="city">
+    <ctml:name>Perlez</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1079713</ctml:wikiDataId>
+    <ctml:latitude>45.20813000</ctml:latitude>
+    <ctml:longitude>20.38197000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97354" kind="city">
+    <ctml:name>Radojevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1046240</ctml:wikiDataId>
+    <ctml:latitude>45.74617000</ctml:latitude>
+    <ctml:longitude>20.78917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97358" kind="city">
+    <ctml:name>Ravni Topolovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q278955</ctml:wikiDataId>
+    <ctml:latitude>45.46082000</ctml:latitude>
+    <ctml:longitude>20.56939000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97379" kind="city">
+    <ctml:name>Sečanj</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q915045</ctml:wikiDataId>
+    <ctml:latitude>45.32387000</ctml:latitude>
+    <ctml:longitude>20.67233210</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97391" kind="city">
+    <ctml:name>Srpska Crnja</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q545680</ctml:wikiDataId>
+    <ctml:latitude>45.72538000</ctml:latitude>
+    <ctml:longitude>20.69008000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97392" kind="city">
+    <ctml:name>Srpski Itebej</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q239976</ctml:wikiDataId>
+    <ctml:latitude>45.56715000</ctml:latitude>
+    <ctml:longitude>20.71350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97393" kind="city">
+    <ctml:name>Stajićevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1089370</ctml:wikiDataId>
+    <ctml:latitude>45.29489000</ctml:latitude>
+    <ctml:longitude>20.45845000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97405" kind="city">
+    <ctml:name>Sutjeska</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1061101</ctml:wikiDataId>
+    <ctml:latitude>45.38312000</ctml:latitude>
+    <ctml:longitude>20.69620000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97407" kind="city">
+    <ctml:name>Taraš</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1089356</ctml:wikiDataId>
+    <ctml:latitude>45.46737000</ctml:latitude>
+    <ctml:longitude>20.19867000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97410" kind="city">
+    <ctml:name>Toba</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q301070</ctml:wikiDataId>
+    <ctml:latitude>45.68943000</ctml:latitude>
+    <ctml:longitude>20.55714000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97411" kind="city">
+    <ctml:name>Tomaševac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1089344</ctml:wikiDataId>
+    <ctml:latitude>45.26855000</ctml:latitude>
+    <ctml:longitude>20.62272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97413" kind="city">
+    <ctml:name>Torak</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q610526</ctml:wikiDataId>
+    <ctml:latitude>45.50928000</ctml:latitude>
+    <ctml:longitude>20.60900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97414" kind="city">
+    <ctml:name>Torda</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1071894</ctml:wikiDataId>
+    <ctml:latitude>45.58423000</ctml:latitude>
+    <ctml:longitude>20.45900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97438" kind="city">
+    <ctml:name>Vojvoda Stepa</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q249493</ctml:wikiDataId>
+    <ctml:latitude>45.68537000</ctml:latitude>
+    <ctml:longitude>20.65536000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97474" kind="city">
+    <ctml:name>Žitište</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q250352</ctml:wikiDataId>
+    <ctml:latitude>45.54150190</ctml:latitude>
+    <ctml:longitude>20.29310490</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97450" kind="admin2">
+    <ctml:name>Zrenjanin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Central Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-02</ctml:parentRef>
+    <ctml:wikiDataId>Q201125</ctml:wikiDataId>
+    <ctml:latitude>45.38361000</ctml:latitude>
+    <ctml:longitude>20.38194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155046" kind="city">
+    <ctml:name>Bojnik</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Jablanica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2041762</ctml:wikiDataId>
+    <ctml:latitude>43.03962330</ctml:latitude>
+    <ctml:longitude>21.50229300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155050" kind="city">
+    <ctml:name>Crna Trava</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Jablanica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-23</ctml:parentRef>
+    <ctml:wikiDataId>Q573651</ctml:wikiDataId>
+    <ctml:latitude>42.81226490</ctml:latitude>
+    <ctml:longitude>22.26885720</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97239" kind="city">
+    <ctml:name>Kamenica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Jablanica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-23</ctml:parentRef>
+    <ctml:wikiDataId>Q948327</ctml:wikiDataId>
+    <ctml:latitude>44.34300000</ctml:latitude>
+    <ctml:longitude>19.72333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155048" kind="city">
+    <ctml:name>Lebane</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Jablanica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-23</ctml:parentRef>
+    <ctml:wikiDataId>Q3448747</ctml:wikiDataId>
+    <ctml:latitude>42.92312940</ctml:latitude>
+    <ctml:longitude>21.71589360</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97272" kind="admin2">
+    <ctml:name>Leskovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Jablanica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-23</ctml:parentRef>
+    <ctml:wikiDataId>Q192606</ctml:wikiDataId>
+    <ctml:latitude>42.99806000</ctml:latitude>
+    <ctml:longitude>21.94611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155049" kind="city">
+    <ctml:name>Medveđa</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Jablanica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-23</ctml:parentRef>
+    <ctml:wikiDataId>Q3448696</ctml:wikiDataId>
+    <ctml:latitude>42.83278560</ctml:latitude>
+    <ctml:longitude>21.53388900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155047" kind="city">
+    <ctml:name>Vlasotince</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Jablanica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-23</ctml:parentRef>
+    <ctml:wikiDataId>Q1649631</ctml:wikiDataId>
+    <ctml:latitude>42.96648980</ctml:latitude>
+    <ctml:longitude>22.09399660</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97212" kind="city">
+    <ctml:name>Gornja Bukovica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Kolubara</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1011675</ctml:wikiDataId>
+    <ctml:latitude>44.33987000</ctml:latitude>
+    <ctml:longitude>19.81368000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97238" kind="city">
+    <ctml:name>Joševa</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Kolubara</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-09</ctml:parentRef>
+    <ctml:wikiDataId>Q948327</ctml:wikiDataId>
+    <ctml:latitude>44.58772000</ctml:latitude>
+    <ctml:longitude>19.40967000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155051" kind="city">
+    <ctml:name>Lajkovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Kolubara</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2048243</ctml:wikiDataId>
+    <ctml:latitude>44.36809950</ctml:latitude>
+    <ctml:longitude>20.14110360</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97276" kind="city">
+    <ctml:name>Ljig</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Kolubara</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2360583</ctml:wikiDataId>
+    <ctml:latitude>44.22281040</ctml:latitude>
+    <ctml:longitude>20.21389960</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155052" kind="city">
+    <ctml:name>Mionica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Kolubara</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2047412</ctml:wikiDataId>
+    <ctml:latitude>44.25595280</ctml:latitude>
+    <ctml:longitude>20.05966170</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97323" kind="city">
+    <ctml:name>Osečina</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Kolubara</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-09</ctml:parentRef>
+    <ctml:wikiDataId>Q15629061</ctml:wikiDataId>
+    <ctml:latitude>44.37202670</ctml:latitude>
+    <ctml:longitude>19.57926740</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155053" kind="city">
+    <ctml:name>Ub</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Kolubara</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-09</ctml:parentRef>
+    <ctml:wikiDataId>Q12756688</ctml:wikiDataId>
+    <ctml:latitude>44.45594110</ctml:latitude>
+    <ctml:longitude>20.04489880</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97425" kind="admin2">
+    <ctml:name>Valjevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Kolubara</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-09</ctml:parentRef>
+    <ctml:wikiDataId>Q208015</ctml:wikiDataId>
+    <ctml:latitude>44.27513000</ctml:latitude>
+    <ctml:longitude>19.89821000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97149" kind="city">
+    <ctml:name>Badovinci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q799678</ctml:wikiDataId>
+    <ctml:latitude>44.78534000</ctml:latitude>
+    <ctml:longitude>19.37146000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97157" kind="city">
+    <ctml:name>Banovo Polje</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2722626</ctml:wikiDataId>
+    <ctml:latitude>44.91040000</ctml:latitude>
+    <ctml:longitude>19.44916000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97172" kind="city">
+    <ctml:name>Belotić</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q31913828</ctml:wikiDataId>
+    <ctml:latitude>44.81782000</ctml:latitude>
+    <ctml:longitude>19.54801000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97177" kind="city">
+    <ctml:name>Bogatić</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2501494</ctml:wikiDataId>
+    <ctml:latitude>44.84997410</ctml:latitude>
+    <ctml:longitude>19.40134990</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97179" kind="city">
+    <ctml:name>Bogosavac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2736639</ctml:wikiDataId>
+    <ctml:latitude>44.71799000</ctml:latitude>
+    <ctml:longitude>19.59533000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97186" kind="city">
+    <ctml:name>Brdarica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q726458</ctml:wikiDataId>
+    <ctml:latitude>44.55376000</ctml:latitude>
+    <ctml:longitude>19.77150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97187" kind="city">
+    <ctml:name>Bukor</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2927819</ctml:wikiDataId>
+    <ctml:latitude>44.49523000</ctml:latitude>
+    <ctml:longitude>19.57116000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97462" kind="city">
+    <ctml:name>Čokešina</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2473300</ctml:wikiDataId>
+    <ctml:latitude>44.65319000</ctml:latitude>
+    <ctml:longitude>19.39016000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97190" kind="city">
+    <ctml:name>Crna Bara</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2052491</ctml:wikiDataId>
+    <ctml:latitude>44.87374000</ctml:latitude>
+    <ctml:longitude>19.39480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97195" kind="city">
+    <ctml:name>Dobrić</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2771668</ctml:wikiDataId>
+    <ctml:latitude>44.70224000</ctml:latitude>
+    <ctml:longitude>19.57931000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97196" kind="city">
+    <ctml:name>Donji Dobrić</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2259839</ctml:wikiDataId>
+    <ctml:latitude>44.61183000</ctml:latitude>
+    <ctml:longitude>19.33109000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97199" kind="city">
+    <ctml:name>Draginje</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2740071</ctml:wikiDataId>
+    <ctml:latitude>44.53302000</ctml:latitude>
+    <ctml:longitude>19.76250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97209" kind="city">
+    <ctml:name>Glušci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2722754</ctml:wikiDataId>
+    <ctml:latitude>44.89021000</ctml:latitude>
+    <ctml:longitude>19.54913000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97227" kind="city">
+    <ctml:name>Jadranska Lešnica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2284860</ctml:wikiDataId>
+    <ctml:latitude>44.59730000</ctml:latitude>
+    <ctml:longitude>19.35209000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97235" kind="city">
+    <ctml:name>Jelenča</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2736599</ctml:wikiDataId>
+    <ctml:latitude>44.72700000</ctml:latitude>
+    <ctml:longitude>19.73500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97237" kind="city">
+    <ctml:name>Jevremovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q948327</ctml:wikiDataId>
+    <ctml:latitude>44.72172000</ctml:latitude>
+    <ctml:longitude>19.66364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155054" kind="city">
+    <ctml:name>Koceljeva</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2170006</ctml:wikiDataId>
+    <ctml:latitude>44.46299340</ctml:latitude>
+    <ctml:longitude>19.78680540</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97254" kind="city">
+    <ctml:name>Kozjak</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1000445</ctml:wikiDataId>
+    <ctml:latitude>45.18264000</ctml:latitude>
+    <ctml:longitude>20.86381000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97260" kind="city">
+    <ctml:name>Krupanj</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2041771</ctml:wikiDataId>
+    <ctml:latitude>44.36556000</ctml:latitude>
+    <ctml:longitude>19.36194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97273" kind="city">
+    <ctml:name>Lešnica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3101112</ctml:wikiDataId>
+    <ctml:latitude>44.65250000</ctml:latitude>
+    <ctml:longitude>19.31000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97274" kind="city">
+    <ctml:name>Lipnički Šor</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2142425</ctml:wikiDataId>
+    <ctml:latitude>44.58058000</ctml:latitude>
+    <ctml:longitude>19.26572000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97275" kind="city">
+    <ctml:name>Lipolist</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2736643</ctml:wikiDataId>
+    <ctml:latitude>44.69783000</ctml:latitude>
+    <ctml:longitude>19.50101000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97277" kind="city">
+    <ctml:name>Ljubovija</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q7232898</ctml:wikiDataId>
+    <ctml:latitude>44.18944000</ctml:latitude>
+    <ctml:longitude>19.37667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97289" kind="city">
+    <ctml:name>Mačva</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1062197</ctml:wikiDataId>
+    <ctml:latitude>44.61472000</ctml:latitude>
+    <ctml:longitude>19.47222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97285" kind="city">
+    <ctml:name>Majur</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q994331</ctml:wikiDataId>
+    <ctml:latitude>44.77105000</ctml:latitude>
+    <ctml:longitude>19.65512000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97287" kind="city">
+    <ctml:name>Mali Zvornik</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1282903</ctml:wikiDataId>
+    <ctml:latitude>44.37344000</ctml:latitude>
+    <ctml:longitude>19.10651000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97292" kind="city">
+    <ctml:name>Metković</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q3101914</ctml:wikiDataId>
+    <ctml:latitude>44.85617000</ctml:latitude>
+    <ctml:longitude>19.54654000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97318" kind="city">
+    <ctml:name>Novo Selo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q793176</ctml:wikiDataId>
+    <ctml:latitude>44.67041000</ctml:latitude>
+    <ctml:longitude>19.34495000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97334" kind="city">
+    <ctml:name>Petkovica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1079713</ctml:wikiDataId>
+    <ctml:latitude>44.66627000</ctml:latitude>
+    <ctml:longitude>19.43923000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97340" kind="city">
+    <ctml:name>Pocerski Pričinović</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2736461</ctml:wikiDataId>
+    <ctml:latitude>44.72222000</ctml:latitude>
+    <ctml:longitude>19.70722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97362" kind="city">
+    <ctml:name>Ribari</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2736484</ctml:wikiDataId>
+    <ctml:latitude>44.70961000</ctml:latitude>
+    <ctml:longitude>19.42472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97366" kind="city">
+    <ctml:name>Rumska</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1049911</ctml:wikiDataId>
+    <ctml:latitude>44.57261000</ctml:latitude>
+    <ctml:longitude>19.58988000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97465" kind="admin2">
+    <ctml:name>Šabac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q204472</ctml:wikiDataId>
+    <ctml:latitude>44.74667000</ctml:latitude>
+    <ctml:longitude>19.69000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97371" kind="city">
+    <ctml:name>Salaš Crnobarski</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2722600</ctml:wikiDataId>
+    <ctml:latitude>44.82843000</ctml:latitude>
+    <ctml:longitude>19.39437000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97468" kind="city">
+    <ctml:name>Ševarice</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2736678</ctml:wikiDataId>
+    <ctml:latitude>44.86704000</ctml:latitude>
+    <ctml:longitude>19.66006000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97380" kind="city">
+    <ctml:name>Sinošević</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2736590</ctml:wikiDataId>
+    <ctml:latitude>44.61503000</ctml:latitude>
+    <ctml:longitude>19.63601000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97471" kind="city">
+    <ctml:name>Štitar</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2567732</ctml:wikiDataId>
+    <ctml:latitude>44.79415000</ctml:latitude>
+    <ctml:longitude>19.59529000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97416" kind="city">
+    <ctml:name>Tršić</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q510451</ctml:wikiDataId>
+    <ctml:latitude>44.49502000</ctml:latitude>
+    <ctml:longitude>19.26490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97423" kind="city">
+    <ctml:name>Uzveće</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1091384</ctml:wikiDataId>
+    <ctml:latitude>44.87861000</ctml:latitude>
+    <ctml:longitude>19.60356000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97434" kind="city">
+    <ctml:name>Vladimirci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2047458</ctml:wikiDataId>
+    <ctml:latitude>44.61472000</ctml:latitude>
+    <ctml:longitude>19.78528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97449" kind="city">
+    <ctml:name>Zminjak</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Mačva</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2736242</ctml:wikiDataId>
+    <ctml:latitude>44.75711000</ctml:latitude>
+    <ctml:longitude>19.47070000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97457" kind="admin2">
+    <ctml:name>Čačak</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Moravica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-17</ctml:parentRef>
+    <ctml:wikiDataId>Q208038</ctml:wikiDataId>
+    <ctml:latitude>43.89139000</ctml:latitude>
+    <ctml:longitude>20.34972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97214" kind="city">
+    <ctml:name>Gornji Milanovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Moravica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-17</ctml:parentRef>
+    <ctml:wikiDataId>Q4856130</ctml:wikiDataId>
+    <ctml:latitude>44.02603000</ctml:latitude>
+    <ctml:longitude>20.46152000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155055" kind="city">
+    <ctml:name>Ivanjica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Moravica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-17</ctml:parentRef>
+    <ctml:wikiDataId>Q4195757</ctml:wikiDataId>
+    <ctml:latitude>43.58366500</ctml:latitude>
+    <ctml:longitude>20.21556940</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155056" kind="city">
+    <ctml:name>Lučani</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Moravica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1252566</ctml:wikiDataId>
+    <ctml:latitude>43.85854930</ctml:latitude>
+    <ctml:longitude>20.11661750</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97347" kind="city">
+    <ctml:name>Prislonica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Moravica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2723458</ctml:wikiDataId>
+    <ctml:latitude>43.95223000</ctml:latitude>
+    <ctml:longitude>20.43521000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97143" kind="city">
+    <ctml:name>Aleksandrovo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Nišava</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-20</ctml:parentRef>
+    <ctml:wikiDataId>Q848667</ctml:wikiDataId>
+    <ctml:latitude>45.63755000</ctml:latitude>
+    <ctml:longitude>20.59288000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155057" kind="city">
+    <ctml:name>Aleksinac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Nišava</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-20</ctml:parentRef>
+    <ctml:wikiDataId>Q1270290</ctml:wikiDataId>
+    <ctml:latitude>43.55255480</ctml:latitude>
+    <ctml:longitude>21.63113320</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155059" kind="city">
+    <ctml:name>Doljevac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Nišava</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-20</ctml:parentRef>
+    <ctml:wikiDataId>Q1235642</ctml:wikiDataId>
+    <ctml:latitude>43.22262650</ctml:latitude>
+    <ctml:longitude>21.76288330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155058" kind="city">
+    <ctml:name>Gadžin Han</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Nišava</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-20</ctml:parentRef>
+    <ctml:wikiDataId>Q2535004</ctml:wikiDataId>
+    <ctml:latitude>43.23053490</ctml:latitude>
+    <ctml:longitude>22.01312530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155060" kind="city">
+    <ctml:name>Merošina</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Nišava</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-20</ctml:parentRef>
+    <ctml:wikiDataId>Q2041788</ctml:wikiDataId>
+    <ctml:latitude>43.30158010</ctml:latitude>
+    <ctml:longitude>21.52993050</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97305" kind="admin2">
+    <ctml:name>Niš</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Nišava</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-20</ctml:parentRef>
+    <ctml:wikiDataId>Q129259</ctml:wikiDataId>
+    <ctml:latitude>43.32472000</ctml:latitude>
+    <ctml:longitude>21.90333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155061" kind="city">
+    <ctml:name>Ražanj</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Nišava</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-20</ctml:parentRef>
+    <ctml:wikiDataId>Q2041705</ctml:wikiDataId>
+    <ctml:latitude>43.70924730</ctml:latitude>
+    <ctml:longitude>21.41131260</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155062" kind="city">
+    <ctml:name>Svrljig</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Nišava</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-20</ctml:parentRef>
+    <ctml:wikiDataId>Q1250074</ctml:wikiDataId>
+    <ctml:latitude>43.46937580</ctml:latitude>
+    <ctml:longitude>21.80472770</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97162" kind="city">
+    <ctml:name>Bačka Topola</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2661603</ctml:wikiDataId>
+    <ctml:latitude>45.81516000</ctml:latitude>
+    <ctml:longitude>19.63180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97259" kind="city">
+    <ctml:name>Krivaja</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2736657</ctml:wikiDataId>
+    <ctml:latitude>44.55021000</ctml:latitude>
+    <ctml:longitude>19.59153000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155063" kind="city">
+    <ctml:name>Mali Iđoš</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1811772</ctml:wikiDataId>
+    <ctml:latitude>45.71406240</ctml:latitude>
+    <ctml:longitude>19.58678580</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97401" kind="admin2">
+    <ctml:name>Subotica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-01</ctml:parentRef>
+    <ctml:wikiDataId>Q170287</ctml:wikiDataId>
+    <ctml:latitude>46.10000000</ctml:latitude>
+    <ctml:longitude>19.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155064" kind="city">
+    <ctml:name>Ada</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q482146</ctml:wikiDataId>
+    <ctml:latitude>45.78604090</ctml:latitude>
+    <ctml:longitude>19.84788560</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97142" kind="city">
+    <ctml:name>Adorjan</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q505426</ctml:wikiDataId>
+    <ctml:latitude>46.00333000</ctml:latitude>
+    <ctml:longitude>20.04007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97151" kind="city">
+    <ctml:name>Banatska Topola</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1071667</ctml:wikiDataId>
+    <ctml:latitude>45.67248000</ctml:latitude>
+    <ctml:longitude>20.46530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97156" kind="city">
+    <ctml:name>Banatsko Veliko Selo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q853306</ctml:wikiDataId>
+    <ctml:latitude>45.81961000</ctml:latitude>
+    <ctml:longitude>20.60772000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97167" kind="city">
+    <ctml:name>Bašaid</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q302123</ctml:wikiDataId>
+    <ctml:latitude>45.64102000</ctml:latitude>
+    <ctml:longitude>20.41434000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97461" kind="city">
+    <ctml:name>Čoka</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q876197</ctml:wikiDataId>
+    <ctml:latitude>45.94250000</ctml:latitude>
+    <ctml:longitude>20.14333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97213" kind="city">
+    <ctml:name>Gornji Breg</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q999195</ctml:wikiDataId>
+    <ctml:latitude>45.91995000</ctml:latitude>
+    <ctml:longitude>20.01766000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97233" kind="city">
+    <ctml:name>Jazovo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q940255</ctml:wikiDataId>
+    <ctml:latitude>45.89876000</ctml:latitude>
+    <ctml:longitude>20.22130000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97240" kind="city">
+    <ctml:name>Kanjiža</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q614614</ctml:wikiDataId>
+    <ctml:latitude>46.06667000</ctml:latitude>
+    <ctml:longitude>20.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97241" kind="admin2">
+    <ctml:name>Kikinda</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q309355</ctml:wikiDataId>
+    <ctml:latitude>45.82972000</ctml:latitude>
+    <ctml:longitude>20.46528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97296" kind="city">
+    <ctml:name>Mokrin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q941155</ctml:wikiDataId>
+    <ctml:latitude>45.93362000</ctml:latitude>
+    <ctml:longitude>20.41215000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97297" kind="city">
+    <ctml:name>Mol</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q731701</ctml:wikiDataId>
+    <ctml:latitude>45.76457000</ctml:latitude>
+    <ctml:longitude>20.13286000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97300" kind="city">
+    <ctml:name>Nakovo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q116732</ctml:wikiDataId>
+    <ctml:latitude>45.87503000</ctml:latitude>
+    <ctml:longitude>20.56709000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97312" kind="city">
+    <ctml:name>Novi Kneževac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q914451</ctml:wikiDataId>
+    <ctml:latitude>46.05000000</ctml:latitude>
+    <ctml:longitude>20.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97313" kind="city">
+    <ctml:name>Novi Kozarci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1063486</ctml:wikiDataId>
+    <ctml:latitude>45.78241000</ctml:latitude>
+    <ctml:longitude>20.62289000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97325" kind="city">
+    <ctml:name>Ostojićevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q598500</ctml:wikiDataId>
+    <ctml:latitude>45.88863000</ctml:latitude>
+    <ctml:longitude>20.16642000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97328" kind="city">
+    <ctml:name>Padej</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q952009</ctml:wikiDataId>
+    <ctml:latitude>45.82756000</ctml:latitude>
+    <ctml:longitude>20.16279000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97367" kind="city">
+    <ctml:name>Rusko Selo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1042546</ctml:wikiDataId>
+    <ctml:latitude>45.76291000</ctml:latitude>
+    <ctml:longitude>20.57117000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97369" kind="city">
+    <ctml:name>Sajan</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q519373</ctml:wikiDataId>
+    <ctml:latitude>45.84227000</ctml:latitude>
+    <ctml:longitude>20.27815000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97375" kind="city">
+    <ctml:name>Sanad</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1183397</ctml:wikiDataId>
+    <ctml:latitude>45.97596000</ctml:latitude>
+    <ctml:longitude>20.10816000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97378" kind="city">
+    <ctml:name>Senta</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q917716</ctml:wikiDataId>
+    <ctml:latitude>45.92750000</ctml:latitude>
+    <ctml:longitude>20.07722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97408" kind="city">
+    <ctml:name>Tiszahegyes</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>North Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1091230</ctml:wikiDataId>
+    <ctml:latitude>45.82648000</ctml:latitude>
+    <ctml:longitude>20.31791000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97176" kind="city">
+    <ctml:name>Biljača</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pčinja</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-24</ctml:parentRef>
+    <ctml:wikiDataId>Q31916016</ctml:wikiDataId>
+    <ctml:latitude>42.35518000</ctml:latitude>
+    <ctml:longitude>21.74781000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155065" kind="city">
+    <ctml:name>Bosilegrad</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pčinja</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-24</ctml:parentRef>
+    <ctml:wikiDataId>Q2986161</ctml:wikiDataId>
+    <ctml:latitude>42.50233740</ctml:latitude>
+    <ctml:longitude>22.41940440</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155066" kind="city">
+    <ctml:name>Bujanovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pčinja</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-24</ctml:parentRef>
+    <ctml:wikiDataId>Q2500642</ctml:wikiDataId>
+    <ctml:latitude>42.45675480</ctml:latitude>
+    <ctml:longitude>21.74726470</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97295" kind="city">
+    <ctml:name>Miratovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pčinja</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-24</ctml:parentRef>
+    <ctml:wikiDataId>Q386397</ctml:wikiDataId>
+    <ctml:latitude>42.25846000</ctml:latitude>
+    <ctml:longitude>21.66456000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155068" kind="city">
+    <ctml:name>Preševo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pčinja</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-24</ctml:parentRef>
+    <ctml:wikiDataId>Q157363</ctml:wikiDataId>
+    <ctml:latitude>42.31581340</ctml:latitude>
+    <ctml:longitude>21.57144860</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97355" kind="city">
+    <ctml:name>Radovnica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pčinja</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-24</ctml:parentRef>
+    <ctml:wikiDataId>Q1046240</ctml:wikiDataId>
+    <ctml:latitude>42.43364000</ctml:latitude>
+    <ctml:longitude>22.22861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97356" kind="city">
+    <ctml:name>Rajince</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pčinja</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-24</ctml:parentRef>
+    <ctml:wikiDataId>Q3104619</ctml:wikiDataId>
+    <ctml:latitude>42.37870000</ctml:latitude>
+    <ctml:longitude>21.69591000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97373" kind="city">
+    <ctml:name>Samoljica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pčinja</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-24</ctml:parentRef>
+    <ctml:wikiDataId>Q3104463</ctml:wikiDataId>
+    <ctml:latitude>42.38445000</ctml:latitude>
+    <ctml:longitude>21.73708000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155069" kind="city">
+    <ctml:name>Surdulica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pčinja</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-24</ctml:parentRef>
+    <ctml:wikiDataId>Q1264710</ctml:wikiDataId>
+    <ctml:latitude>42.69008190</ctml:latitude>
+    <ctml:longitude>22.15599050</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155070" kind="city">
+    <ctml:name>Trgovište</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pčinja</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-24</ctml:parentRef>
+    <ctml:wikiDataId>Q1551657</ctml:wikiDataId>
+    <ctml:latitude>42.35659850</ctml:latitude>
+    <ctml:longitude>22.02351020</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155067" kind="city">
+    <ctml:name>Vladičin Han</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pčinja</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-24</ctml:parentRef>
+    <ctml:wikiDataId>Q2500669</ctml:wikiDataId>
+    <ctml:latitude>42.70738320</ctml:latitude>
+    <ctml:longitude>22.04413920</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97440" kind="admin2">
+    <ctml:name>Vranje</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pčinja</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-24</ctml:parentRef>
+    <ctml:wikiDataId>Q211645</ctml:wikiDataId>
+    <ctml:latitude>42.55139000</ctml:latitude>
+    <ctml:longitude>21.90028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97475" kind="city">
+    <ctml:name>Žujince</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pčinja</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-24</ctml:parentRef>
+    <ctml:wikiDataId>Q3104551</ctml:wikiDataId>
+    <ctml:latitude>42.31568000</ctml:latitude>
+    <ctml:longitude>21.70212000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155071" kind="city">
+    <ctml:name>Babušnica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pirot</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-22</ctml:parentRef>
+    <ctml:wikiDataId>Q15093698</ctml:wikiDataId>
+    <ctml:latitude>43.06573340</ctml:latitude>
+    <ctml:longitude>22.38719690</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155072" kind="city">
+    <ctml:name>Bela Palanka</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pirot</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1264591</ctml:wikiDataId>
+    <ctml:latitude>43.21421070</ctml:latitude>
+    <ctml:longitude>22.29898440</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155073" kind="city">
+    <ctml:name>Dimitrovgrad</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pirot</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-22</ctml:parentRef>
+    <ctml:wikiDataId>Q4161724</ctml:wikiDataId>
+    <ctml:latitude>43.02140830</ctml:latitude>
+    <ctml:longitude>22.73950980</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97337" kind="admin2">
+    <ctml:name>Pirot</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pirot</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-22</ctml:parentRef>
+    <ctml:wikiDataId>Q19429</ctml:wikiDataId>
+    <ctml:latitude>43.17528000</ctml:latitude>
+    <ctml:longitude>22.59278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97402" kind="city">
+    <ctml:name>Sumulicë</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pirot</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-22</ctml:parentRef>
+    <ctml:wikiDataId>Q170287</ctml:wikiDataId>
+    <ctml:latitude>42.38682000</ctml:latitude>
+    <ctml:longitude>21.73400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97281" kind="city">
+    <ctml:name>Lugavčina</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Podunavlje</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2736781</ctml:wikiDataId>
+    <ctml:latitude>44.52314000</ctml:latitude>
+    <ctml:longitude>21.07083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97382" kind="admin2">
+    <ctml:name>Smederevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Podunavlje</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-10</ctml:parentRef>
+    <ctml:wikiDataId>Q190774</ctml:wikiDataId>
+    <ctml:latitude>44.66436000</ctml:latitude>
+    <ctml:longitude>20.92763000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97383" kind="city">
+    <ctml:name>Smederevska Palanka</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Podunavlje</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2041674</ctml:wikiDataId>
+    <ctml:latitude>44.36548000</ctml:latitude>
+    <ctml:longitude>20.95885000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155074" kind="city">
+    <ctml:name>Velika Plana</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Podunavlje</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2047388</ctml:wikiDataId>
+    <ctml:latitude>44.32578760</ctml:latitude>
+    <ctml:longitude>20.97032280</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97455" kind="city">
+    <ctml:name>Ćuprija</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pomoravlje</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1475280</ctml:wikiDataId>
+    <ctml:latitude>43.92750000</ctml:latitude>
+    <ctml:longitude>21.37000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155075" kind="city">
+    <ctml:name>Despotovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pomoravlje</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1250081</ctml:wikiDataId>
+    <ctml:latitude>44.09472620</ctml:latitude>
+    <ctml:longitude>21.39913490</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97200" kind="city">
+    <ctml:name>Drenovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pomoravlje</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2736279</ctml:wikiDataId>
+    <ctml:latitude>44.86649000</ctml:latitude>
+    <ctml:longitude>19.70943000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97201" kind="city">
+    <ctml:name>Dublje</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pomoravlje</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-13</ctml:parentRef>
+    <ctml:wikiDataId>Q3040542</ctml:wikiDataId>
+    <ctml:latitude>44.80117000</ctml:latitude>
+    <ctml:longitude>19.50902000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97202" kind="city">
+    <ctml:name>Duboka</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pomoravlje</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-13</ctml:parentRef>
+    <ctml:wikiDataId>Q3040542</ctml:wikiDataId>
+    <ctml:latitude>44.52223000</ctml:latitude>
+    <ctml:longitude>21.76030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97215" kind="city">
+    <ctml:name>Grabovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pomoravlje</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-13</ctml:parentRef>
+    <ctml:wikiDataId>Q714668</ctml:wikiDataId>
+    <ctml:latitude>44.60049000</ctml:latitude>
+    <ctml:longitude>20.08539000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97228" kind="admin2">
+    <ctml:name>Jagodina</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pomoravlje</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-13</ctml:parentRef>
+    <ctml:wikiDataId>Q390358</ctml:wikiDataId>
+    <ctml:latitude>43.97713000</ctml:latitude>
+    <ctml:longitude>21.26121000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97331" kind="city">
+    <ctml:name>Paraćin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pomoravlje</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-13</ctml:parentRef>
+    <ctml:wikiDataId>Q3503630</ctml:wikiDataId>
+    <ctml:latitude>43.86083000</ctml:latitude>
+    <ctml:longitude>21.40778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155076" kind="city">
+    <ctml:name>Rekovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pomoravlje</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-13</ctml:parentRef>
+    <ctml:wikiDataId>Q441278</ctml:wikiDataId>
+    <ctml:latitude>43.86577250</ctml:latitude>
+    <ctml:longitude>21.02877540</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155077" kind="city">
+    <ctml:name>Svilajnac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Pomoravlje</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-13</ctml:parentRef>
+    <ctml:wikiDataId>Q737497</ctml:wikiDataId>
+    <ctml:latitude>44.24526320</ctml:latitude>
+    <ctml:longitude>21.15803640</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155078" kind="city">
+    <ctml:name>Aleksandrovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Rasina</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1579510</ctml:wikiDataId>
+    <ctml:latitude>43.45989420</ctml:latitude>
+    <ctml:longitude>21.03087890</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155079" kind="city">
+    <ctml:name>Brus</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Rasina</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1263153</ctml:wikiDataId>
+    <ctml:latitude>43.38376200</ctml:latitude>
+    <ctml:longitude>21.00656730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97454" kind="city">
+    <ctml:name>Ćićevac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Rasina</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-19</ctml:parentRef>
+    <ctml:wikiDataId>Q2041779</ctml:wikiDataId>
+    <ctml:latitude>43.71882000</ctml:latitude>
+    <ctml:longitude>21.44085000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97261" kind="admin2">
+    <ctml:name>Kruševac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Rasina</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-19</ctml:parentRef>
+    <ctml:wikiDataId>Q201442</ctml:wikiDataId>
+    <ctml:latitude>43.58000000</ctml:latitude>
+    <ctml:longitude>21.33389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97415" kind="city">
+    <ctml:name>Trstenik</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Rasina</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-19</ctml:parentRef>
+    <ctml:wikiDataId>Q4464110</ctml:wikiDataId>
+    <ctml:latitude>43.61694000</ctml:latitude>
+    <ctml:longitude>21.00250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155080" kind="city">
+    <ctml:name>Varvarin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Rasina</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-19</ctml:parentRef>
+    <ctml:wikiDataId>Q2041738</ctml:wikiDataId>
+    <ctml:latitude>43.72306940</ctml:latitude>
+    <ctml:longitude>21.34098520</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97231" kind="city">
+    <ctml:name>Jarebice</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Raška</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2435677</ctml:wikiDataId>
+    <ctml:latitude>44.53995000</ctml:latitude>
+    <ctml:longitude>19.42418000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97258" kind="admin2">
+    <ctml:name>Kraljevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Raška</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-18</ctml:parentRef>
+    <ctml:wikiDataId>Q206317</ctml:wikiDataId>
+    <ctml:latitude>43.72583000</ctml:latitude>
+    <ctml:longitude>20.68944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97314" kind="city">
+    <ctml:name>Novi Pazar</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Raška</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-18</ctml:parentRef>
+    <ctml:wikiDataId>Q202453</ctml:wikiDataId>
+    <ctml:latitude>43.13667000</ctml:latitude>
+    <ctml:longitude>20.51222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97361" kind="city">
+    <ctml:name>Raška</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Raška</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2500624</ctml:wikiDataId>
+    <ctml:latitude>43.26694000</ctml:latitude>
+    <ctml:longitude>20.65278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97418" kind="city">
+    <ctml:name>Tutin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Raška</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2043118</ctml:wikiDataId>
+    <ctml:latitude>42.99028000</ctml:latitude>
+    <ctml:longitude>20.33139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97443" kind="city">
+    <ctml:name>Vrnjačka Banja</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Raška</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2047443</ctml:wikiDataId>
+    <ctml:latitude>43.62725000</ctml:latitude>
+    <ctml:longitude>20.89634000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155081" kind="city">
+    <ctml:name>Bač</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q852570</ctml:wikiDataId>
+    <ctml:latitude>45.35619150</ctml:latitude>
+    <ctml:longitude>19.14208630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97161" kind="city">
+    <ctml:name>Bačka Palanka</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q855709</ctml:wikiDataId>
+    <ctml:latitude>45.24966000</ctml:latitude>
+    <ctml:longitude>19.39664000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97164" kind="city">
+    <ctml:name>Bački Petrovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q924735</ctml:wikiDataId>
+    <ctml:latitude>45.36056000</ctml:latitude>
+    <ctml:longitude>19.59167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97165" kind="city">
+    <ctml:name>Bačko Gradište</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q426116</ctml:wikiDataId>
+    <ctml:latitude>45.53271000</ctml:latitude>
+    <ctml:longitude>20.03082000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97166" kind="city">
+    <ctml:name>Bačko Petrovo Selo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q979403</ctml:wikiDataId>
+    <ctml:latitude>45.70681000</ctml:latitude>
+    <ctml:longitude>20.07928000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97173" kind="city">
+    <ctml:name>Bečej</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q855695</ctml:wikiDataId>
+    <ctml:latitude>45.61632000</ctml:latitude>
+    <ctml:longitude>20.03331000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155082" kind="city">
+    <ctml:name>Beočin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q792224</ctml:wikiDataId>
+    <ctml:latitude>45.19420630</ctml:latitude>
+    <ctml:longitude>19.68125510</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97458" kind="city">
+    <ctml:name>Čelarevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q773437</ctml:wikiDataId>
+    <ctml:latitude>45.26999000</ctml:latitude>
+    <ctml:longitude>19.52484000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97464" kind="city">
+    <ctml:name>Čurug</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q238981</ctml:wikiDataId>
+    <ctml:latitude>45.47221000</ctml:latitude>
+    <ctml:longitude>20.06861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97192" kind="city">
+    <ctml:name>Despotovo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q927925</ctml:wikiDataId>
+    <ctml:latitude>45.45983000</ctml:latitude>
+    <ctml:longitude>19.52653000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97453" kind="city">
+    <ctml:name>Ðurđevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3177361</ctml:wikiDataId>
+    <ctml:latitude>45.32591000</ctml:latitude>
+    <ctml:longitude>20.06532000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97207" kind="city">
+    <ctml:name>Gardinovci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1030942</ctml:wikiDataId>
+    <ctml:latitude>45.20359000</ctml:latitude>
+    <ctml:longitude>20.13558000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97208" kind="city">
+    <ctml:name>Gložan</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q911299</ctml:wikiDataId>
+    <ctml:latitude>45.27954000</ctml:latitude>
+    <ctml:longitude>19.56838000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97242" kind="city">
+    <ctml:name>Kisač</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q548423</ctml:wikiDataId>
+    <ctml:latitude>45.35421000</ctml:latitude>
+    <ctml:longitude>19.72975000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97252" kind="city">
+    <ctml:name>Kovilj</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q898942</ctml:wikiDataId>
+    <ctml:latitude>45.23422000</ctml:latitude>
+    <ctml:longitude>20.02327000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97263" kind="city">
+    <ctml:name>Kulpin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1075729</ctml:wikiDataId>
+    <ctml:latitude>45.40240000</ctml:latitude>
+    <ctml:longitude>19.58814000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97279" kind="city">
+    <ctml:name>Lok</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q927857</ctml:wikiDataId>
+    <ctml:latitude>45.21583000</ctml:latitude>
+    <ctml:longitude>20.21222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97283" kind="city">
+    <ctml:name>Maglić</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1194843</ctml:wikiDataId>
+    <ctml:latitude>45.36248000</ctml:latitude>
+    <ctml:longitude>19.53211000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97299" kind="city">
+    <ctml:name>Mošorin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q302541</ctml:wikiDataId>
+    <ctml:latitude>45.30196000</ctml:latitude>
+    <ctml:longitude>20.16919000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97320" kind="city">
+    <ctml:name>Obrovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q848181</ctml:wikiDataId>
+    <ctml:latitude>45.32106000</ctml:latitude>
+    <ctml:longitude>19.35048000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97335" kind="city">
+    <ctml:name>Petrovaradin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q19429</ctml:wikiDataId>
+    <ctml:latitude>45.24667000</ctml:latitude>
+    <ctml:longitude>19.87944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97360" kind="city">
+    <ctml:name>Ravno Selo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1048292</ctml:wikiDataId>
+    <ctml:latitude>45.44967000</ctml:latitude>
+    <ctml:longitude>19.62097000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97365" kind="city">
+    <ctml:name>Rumenka</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1049911</ctml:wikiDataId>
+    <ctml:latitude>45.29400000</ctml:latitude>
+    <ctml:longitude>19.74306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97466" kind="city">
+    <ctml:name>Šajkaš</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1075724</ctml:wikiDataId>
+    <ctml:latitude>45.27315000</ctml:latitude>
+    <ctml:longitude>20.09051000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155083" kind="city">
+    <ctml:name>Srbobran</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q432320</ctml:wikiDataId>
+    <ctml:latitude>45.59515130</ctml:latitude>
+    <ctml:longitude>19.71831060</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97389" kind="city">
+    <ctml:name>Sremski Karlovci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q828274</ctml:wikiDataId>
+    <ctml:latitude>45.20285000</ctml:latitude>
+    <ctml:longitude>19.93373000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97398" kind="city">
+    <ctml:name>Stepanovićevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q259266</ctml:wikiDataId>
+    <ctml:latitude>45.41369000</ctml:latitude>
+    <ctml:longitude>19.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155084" kind="city">
+    <ctml:name>Temerin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q855670</ctml:wikiDataId>
+    <ctml:latitude>45.42817430</ctml:latitude>
+    <ctml:longitude>19.81379480</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97409" kind="city">
+    <ctml:name>Titel</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q855640</ctml:wikiDataId>
+    <ctml:latitude>45.20611000</ctml:latitude>
+    <ctml:longitude>20.29444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97417" kind="city">
+    <ctml:name>Turija</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q3102490</ctml:wikiDataId>
+    <ctml:latitude>44.52273000</ctml:latitude>
+    <ctml:longitude>21.63945000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97431" kind="city">
+    <ctml:name>Veternik</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1192984</ctml:wikiDataId>
+    <ctml:latitude>45.25446000</ctml:latitude>
+    <ctml:longitude>19.75880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97432" kind="city">
+    <ctml:name>Vilovo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q927888</ctml:wikiDataId>
+    <ctml:latitude>45.24859000</ctml:latitude>
+    <ctml:longitude>20.15521000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97441" kind="city">
+    <ctml:name>Vrbas</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q855687</ctml:wikiDataId>
+    <ctml:latitude>45.57139000</ctml:latitude>
+    <ctml:longitude>19.64083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97473" kind="city">
+    <ctml:name>Žabalj</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q176217</ctml:wikiDataId>
+    <ctml:latitude>45.37222000</ctml:latitude>
+    <ctml:longitude>20.06389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97448" kind="city">
+    <ctml:name>Zmajevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-06</ctml:parentRef>
+    <ctml:wikiDataId>Q729369</ctml:wikiDataId>
+    <ctml:latitude>45.45408000</ctml:latitude>
+    <ctml:longitude>19.69050000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97144" kind="city">
+    <ctml:name>Alibunar</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q590106</ctml:wikiDataId>
+    <ctml:latitude>45.08083000</ctml:latitude>
+    <ctml:longitude>20.96583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97154" kind="city">
+    <ctml:name>Banatski Karlovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1042129</ctml:wikiDataId>
+    <ctml:latitude>45.04987000</ctml:latitude>
+    <ctml:longitude>21.01800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97158" kind="city">
+    <ctml:name>Baranda</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q790191</ctml:wikiDataId>
+    <ctml:latitude>45.08459000</ctml:latitude>
+    <ctml:longitude>20.44264000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97159" kind="city">
+    <ctml:name>Barice</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q761366</ctml:wikiDataId>
+    <ctml:latitude>45.18189000</ctml:latitude>
+    <ctml:longitude>21.08279000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97168" kind="city">
+    <ctml:name>Bela Crkva</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q914484</ctml:wikiDataId>
+    <ctml:latitude>44.89750000</ctml:latitude>
+    <ctml:longitude>21.41722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97189" kind="city">
+    <ctml:name>Crepaja</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q617510</ctml:wikiDataId>
+    <ctml:latitude>45.00984000</ctml:latitude>
+    <ctml:longitude>20.63702000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97191" kind="city">
+    <ctml:name>Debeljača</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q543032</ctml:wikiDataId>
+    <ctml:latitude>45.07070000</ctml:latitude>
+    <ctml:longitude>20.60153000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97194" kind="city">
+    <ctml:name>Dobrica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q767030</ctml:wikiDataId>
+    <ctml:latitude>45.21339000</ctml:latitude>
+    <ctml:longitude>20.84995000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97217" kind="city">
+    <ctml:name>Gudurica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q264698</ctml:wikiDataId>
+    <ctml:latitude>45.16816000</ctml:latitude>
+    <ctml:longitude>21.44264000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97218" kind="city">
+    <ctml:name>Hajdučica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q948339</ctml:wikiDataId>
+    <ctml:latitude>45.25010000</ctml:latitude>
+    <ctml:longitude>20.96016000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97221" kind="city">
+    <ctml:name>Idvor</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q280980</ctml:wikiDataId>
+    <ctml:latitude>45.18895000</ctml:latitude>
+    <ctml:longitude>20.51442000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97222" kind="city">
+    <ctml:name>Ilandža</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q962644</ctml:wikiDataId>
+    <ctml:latitude>45.16897000</ctml:latitude>
+    <ctml:longitude>20.92008000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97225" kind="city">
+    <ctml:name>Izbište</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q739564</ctml:wikiDataId>
+    <ctml:latitude>45.02253000</ctml:latitude>
+    <ctml:longitude>21.18388000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97229" kind="city">
+    <ctml:name>Janošik</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q948541</ctml:wikiDataId>
+    <ctml:latitude>45.17141000</ctml:latitude>
+    <ctml:longitude>21.00658000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97236" kind="city">
+    <ctml:name>Jermenovci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q948327</ctml:wikiDataId>
+    <ctml:latitude>45.18635000</ctml:latitude>
+    <ctml:longitude>21.04550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97251" kind="city">
+    <ctml:name>Kovačica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q613179</ctml:wikiDataId>
+    <ctml:latitude>45.11167000</ctml:latitude>
+    <ctml:longitude>20.62139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97253" kind="city">
+    <ctml:name>Kovin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1041926</ctml:wikiDataId>
+    <ctml:latitude>44.74750000</ctml:latitude>
+    <ctml:longitude>20.97611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97267" kind="city">
+    <ctml:name>Kuštilj</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1091353</ctml:wikiDataId>
+    <ctml:latitude>45.03487000</ctml:latitude>
+    <ctml:longitude>21.37989000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97280" kind="city">
+    <ctml:name>Lokve</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1080830</ctml:wikiDataId>
+    <ctml:latitude>45.15198000</ctml:latitude>
+    <ctml:longitude>21.03073000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97288" kind="city">
+    <ctml:name>Margita</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1062197</ctml:wikiDataId>
+    <ctml:latitude>45.21598000</ctml:latitude>
+    <ctml:longitude>21.17527000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97304" kind="city">
+    <ctml:name>Nikolinci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q278182</ctml:wikiDataId>
+    <ctml:latitude>45.05245000</ctml:latitude>
+    <ctml:longitude>21.06695000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97321" kind="city">
+    <ctml:name>Opovo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q543044</ctml:wikiDataId>
+    <ctml:latitude>45.05222000</ctml:latitude>
+    <ctml:longitude>20.43028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97329" kind="city">
+    <ctml:name>Padina</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1194851</ctml:wikiDataId>
+    <ctml:latitude>45.11988000</ctml:latitude>
+    <ctml:longitude>20.72860000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97330" kind="admin2">
+    <ctml:name>Pančevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q205432</ctml:wikiDataId>
+    <ctml:latitude>44.87177000</ctml:latitude>
+    <ctml:longitude>20.64167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97332" kind="city">
+    <ctml:name>Pavliš</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q634652</ctml:wikiDataId>
+    <ctml:latitude>45.10569000</ctml:latitude>
+    <ctml:longitude>21.23952000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97338" kind="city">
+    <ctml:name>Plandište</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q917286</ctml:wikiDataId>
+    <ctml:latitude>45.22722000</ctml:latitude>
+    <ctml:longitude>21.12167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97370" kind="city">
+    <ctml:name>Sakule</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1064938</ctml:wikiDataId>
+    <ctml:latitude>45.14667000</ctml:latitude>
+    <ctml:longitude>20.48619000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97374" kind="city">
+    <ctml:name>Samoš</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q729158</ctml:wikiDataId>
+    <ctml:latitude>45.20255000</ctml:latitude>
+    <ctml:longitude>20.77392000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97376" kind="city">
+    <ctml:name>Sefkerin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1040000</ctml:wikiDataId>
+    <ctml:latitude>45.00501000</ctml:latitude>
+    <ctml:longitude>20.48256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97377" kind="city">
+    <ctml:name>Seleuš</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q794097</ctml:wikiDataId>
+    <ctml:latitude>45.12770000</ctml:latitude>
+    <ctml:longitude>20.91461000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97397" kind="city">
+    <ctml:name>Stari Lec</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q947294</ctml:wikiDataId>
+    <ctml:latitude>45.28401000</ctml:latitude>
+    <ctml:longitude>20.96433000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97420" kind="city">
+    <ctml:name>Uljma</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1038306</ctml:wikiDataId>
+    <ctml:latitude>45.04213000</ctml:latitude>
+    <ctml:longitude>21.15393000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97422" kind="city">
+    <ctml:name>Uzdin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1091384</ctml:wikiDataId>
+    <ctml:latitude>45.20512000</ctml:latitude>
+    <ctml:longitude>20.62342000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97427" kind="city">
+    <ctml:name>Velika Greda</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1030489</ctml:wikiDataId>
+    <ctml:latitude>45.24376000</ctml:latitude>
+    <ctml:longitude>21.03498000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97429" kind="city">
+    <ctml:name>Veliki Gaj</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q921166</ctml:wikiDataId>
+    <ctml:latitude>45.28849000</ctml:latitude>
+    <ctml:longitude>21.17057000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97430" kind="city">
+    <ctml:name>Veliko Središte</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1091363</ctml:wikiDataId>
+    <ctml:latitude>45.17919000</ctml:latitude>
+    <ctml:longitude>21.40353000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97435" kind="city">
+    <ctml:name>Vladimirovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1079742</ctml:wikiDataId>
+    <ctml:latitude>45.03122000</ctml:latitude>
+    <ctml:longitude>20.86566000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97436" kind="city">
+    <ctml:name>Vlajkovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1091315</ctml:wikiDataId>
+    <ctml:latitude>45.07207000</ctml:latitude>
+    <ctml:longitude>21.19945000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97444" kind="city">
+    <ctml:name>Vršac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>South Banat</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-04</ctml:parentRef>
+    <ctml:wikiDataId>Q209329</ctml:wikiDataId>
+    <ctml:latitude>45.11667000</ctml:latitude>
+    <ctml:longitude>21.30361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97169" kind="city">
+    <ctml:name>Belegiš</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q792242</ctml:wikiDataId>
+    <ctml:latitude>45.01920000</ctml:latitude>
+    <ctml:longitude>20.33323000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97175" kind="city">
+    <ctml:name>Beška</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q585973</ctml:wikiDataId>
+    <ctml:latitude>45.13092000</ctml:latitude>
+    <ctml:longitude>20.06698000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97183" kind="city">
+    <ctml:name>Bosut</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q848404</ctml:wikiDataId>
+    <ctml:latitude>44.92977000</ctml:latitude>
+    <ctml:longitude>19.36086000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97188" kind="city">
+    <ctml:name>Buđanovci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q286769</ctml:wikiDataId>
+    <ctml:latitude>44.89388000</ctml:latitude>
+    <ctml:longitude>19.86344000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97463" kind="city">
+    <ctml:name>Čortanovci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q283433</ctml:wikiDataId>
+    <ctml:latitude>45.15460000</ctml:latitude>
+    <ctml:longitude>20.01851000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97211" kind="city">
+    <ctml:name>Golubinci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1011675</ctml:wikiDataId>
+    <ctml:latitude>44.98533000</ctml:latitude>
+    <ctml:longitude>20.06339000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97216" kind="city">
+    <ctml:name>Grabovci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1027799</ctml:wikiDataId>
+    <ctml:latitude>44.76496000</ctml:latitude>
+    <ctml:longitude>19.84489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97220" kind="city">
+    <ctml:name>Hrtkovci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1035548</ctml:wikiDataId>
+    <ctml:latitude>44.88155000</ctml:latitude>
+    <ctml:longitude>19.76374000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97223" kind="city">
+    <ctml:name>Inđija</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q740472</ctml:wikiDataId>
+    <ctml:latitude>45.04816000</ctml:latitude>
+    <ctml:longitude>20.08165000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97224" kind="city">
+    <ctml:name>Irig</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2041648</ctml:wikiDataId>
+    <ctml:latitude>45.05230000</ctml:latitude>
+    <ctml:longitude>19.84448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97230" kind="city">
+    <ctml:name>Jarak</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q921005</ctml:wikiDataId>
+    <ctml:latitude>44.91843000</ctml:latitude>
+    <ctml:longitude>19.75477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97244" kind="city">
+    <ctml:name>Klenak</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q921386</ctml:wikiDataId>
+    <ctml:latitude>44.78846000</ctml:latitude>
+    <ctml:longitude>19.71004000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97262" kind="city">
+    <ctml:name>Krčedin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1092418</ctml:wikiDataId>
+    <ctml:latitude>45.13871000</ctml:latitude>
+    <ctml:longitude>20.13308000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97278" kind="city">
+    <ctml:name>Ljukovo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q521694</ctml:wikiDataId>
+    <ctml:latitude>45.02604000</ctml:latitude>
+    <ctml:longitude>20.02737000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97290" kind="city">
+    <ctml:name>Mačvanska Mitrovica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1014882</ctml:wikiDataId>
+    <ctml:latitude>44.96739000</ctml:latitude>
+    <ctml:longitude>19.59314000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97303" kind="city">
+    <ctml:name>Nikinci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1077430</ctml:wikiDataId>
+    <ctml:latitude>44.85017000</ctml:latitude>
+    <ctml:longitude>19.82321000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97308" kind="city">
+    <ctml:name>Nova Pazova</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q917500</ctml:wikiDataId>
+    <ctml:latitude>44.94366000</ctml:latitude>
+    <ctml:longitude>20.21931000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97309" kind="city">
+    <ctml:name>Novi Banovci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q779333</ctml:wikiDataId>
+    <ctml:latitude>44.95691000</ctml:latitude>
+    <ctml:longitude>20.28076000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97311" kind="city">
+    <ctml:name>Novi Karlovci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q283644</ctml:wikiDataId>
+    <ctml:latitude>45.07636000</ctml:latitude>
+    <ctml:longitude>20.17948000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97316" kind="city">
+    <ctml:name>Novi Slankamen</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1041171</ctml:wikiDataId>
+    <ctml:latitude>45.12554000</ctml:latitude>
+    <ctml:longitude>20.23914000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97336" kind="city">
+    <ctml:name>Pećinci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q7217782</ctml:wikiDataId>
+    <ctml:latitude>44.90889000</ctml:latitude>
+    <ctml:longitude>19.96639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97339" kind="city">
+    <ctml:name>Platičevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1040507</ctml:wikiDataId>
+    <ctml:latitude>44.82213000</ctml:latitude>
+    <ctml:longitude>19.79487000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97350" kind="city">
+    <ctml:name>Putinci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1041129</ctml:wikiDataId>
+    <ctml:latitude>44.99259000</ctml:latitude>
+    <ctml:longitude>19.97102000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97353" kind="city">
+    <ctml:name>Radenković</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1040965</ctml:wikiDataId>
+    <ctml:latitude>44.92191000</ctml:latitude>
+    <ctml:longitude>19.49543000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97359" kind="city">
+    <ctml:name>Ravnje</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q960107</ctml:wikiDataId>
+    <ctml:latitude>44.94326000</ctml:latitude>
+    <ctml:longitude>19.42280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97364" kind="city">
+    <ctml:name>Ruma</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2041682</ctml:wikiDataId>
+    <ctml:latitude>45.00806000</ctml:latitude>
+    <ctml:longitude>19.82222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97372" kind="city">
+    <ctml:name>Salaš Noćajski</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1040487</ctml:wikiDataId>
+    <ctml:latitude>44.94722000</ctml:latitude>
+    <ctml:longitude>19.58611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97467" kind="city">
+    <ctml:name>Šašinci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1040653</ctml:wikiDataId>
+    <ctml:latitude>44.96514000</ctml:latitude>
+    <ctml:longitude>19.74151000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155085" kind="city">
+    <ctml:name>Šid</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q919619</ctml:wikiDataId>
+    <ctml:latitude>45.14969220</ctml:latitude>
+    <ctml:longitude>19.12844990</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97470" kind="city">
+    <ctml:name>Šimanovci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1065816</ctml:wikiDataId>
+    <ctml:latitude>44.87393000</ctml:latitude>
+    <ctml:longitude>20.09175000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97388" kind="admin2">
+    <ctml:name>Sremska Mitrovica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q784960</ctml:wikiDataId>
+    <ctml:latitude>44.97639000</ctml:latitude>
+    <ctml:longitude>19.61222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97395" kind="city">
+    <ctml:name>Stara Pazova</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1345447</ctml:wikiDataId>
+    <ctml:latitude>44.98500000</ctml:latitude>
+    <ctml:longitude>20.16083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97396" kind="city">
+    <ctml:name>Stari Banovci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1092456</ctml:wikiDataId>
+    <ctml:latitude>44.98420000</ctml:latitude>
+    <ctml:longitude>20.28382000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97403" kind="city">
+    <ctml:name>Surduk</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q288536</ctml:wikiDataId>
+    <ctml:latitude>45.07118000</ctml:latitude>
+    <ctml:longitude>20.32510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97433" kind="city">
+    <ctml:name>Višnjićevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q428636</ctml:wikiDataId>
+    <ctml:latitude>44.96731000</ctml:latitude>
+    <ctml:longitude>19.28993000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97437" kind="city">
+    <ctml:name>Vojka</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q382981</ctml:wikiDataId>
+    <ctml:latitude>44.93713000</ctml:latitude>
+    <ctml:longitude>20.15236000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97442" kind="city">
+    <ctml:name>Vrdnik</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Srem</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1071909</ctml:wikiDataId>
+    <ctml:latitude>45.12174000</ctml:latitude>
+    <ctml:longitude>19.79227000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97147" kind="city">
+    <ctml:name>Aranđelovac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Šumadija</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2041745</ctml:wikiDataId>
+    <ctml:latitude>44.30694000</ctml:latitude>
+    <ctml:longitude>20.56000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155086" kind="city">
+    <ctml:name>Batočina</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Šumadija</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-12</ctml:parentRef>
+    <ctml:wikiDataId>Q17613911</ctml:wikiDataId>
+    <ctml:latitude>44.15465720</ctml:latitude>
+    <ctml:longitude>21.02491300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-155087" kind="admin2">
+    <ctml:name>Knić</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Šumadija</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-12</ctml:parentRef>
+    <ctml:wikiDataId>Q18376128</ctml:wikiDataId>
+    <ctml:latitude>43.92755740</ctml:latitude>
+    <ctml:longitude>20.67905830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97256" kind="admin2">
+    <ctml:name>Kragujevac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Šumadija</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-12</ctml:parentRef>
+    <ctml:wikiDataId>Q167394</ctml:wikiDataId>
+    <ctml:latitude>44.01667000</ctml:latitude>
+    <ctml:longitude>20.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97269" kind="city">
+    <ctml:name>Lapovo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Šumadija</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2041698</ctml:wikiDataId>
+    <ctml:latitude>44.18424000</ctml:latitude>
+    <ctml:longitude>21.09727000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155088" kind="city">
+    <ctml:name>Rača</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Šumadija</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1288101</ctml:wikiDataId>
+    <ctml:latitude>44.23344940</ctml:latitude>
+    <ctml:longitude>20.96074500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97385" kind="city">
+    <ctml:name>Sokolovo Brdo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Šumadija</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-12</ctml:parentRef>
+    <ctml:wikiDataId>Q190774</ctml:wikiDataId>
+    <ctml:latitude>43.13694000</ctml:latitude>
+    <ctml:longitude>19.80556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155089" kind="city">
+    <ctml:name>Topola</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Šumadija</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2047435</ctml:wikiDataId>
+    <ctml:latitude>44.25204890</ctml:latitude>
+    <ctml:longitude>20.66863050</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155090" kind="city">
+    <ctml:name>Blace</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Toplica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2041665</ctml:wikiDataId>
+    <ctml:latitude>43.29874190</ctml:latitude>
+    <ctml:longitude>21.24844850</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97452" kind="city">
+    <ctml:name>Ðurići</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Toplica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3177361</ctml:wikiDataId>
+    <ctml:latitude>43.82533000</ctml:latitude>
+    <ctml:longitude>19.41233000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97265" kind="city">
+    <ctml:name>Kupinovo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Toplica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-21</ctml:parentRef>
+    <ctml:wikiDataId>Q921181</ctml:wikiDataId>
+    <ctml:latitude>44.70708000</ctml:latitude>
+    <ctml:longitude>20.04959000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155092" kind="city">
+    <ctml:name>Kuršumlija</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Toplica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2047381</ctml:wikiDataId>
+    <ctml:latitude>43.13784280</ctml:latitude>
+    <ctml:longitude>21.24309210</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97349" kind="admin2">
+    <ctml:name>Prokuplje</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Toplica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2723458</ctml:wikiDataId>
+    <ctml:latitude>43.23417000</ctml:latitude>
+    <ctml:longitude>21.58806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155091" kind="city">
+    <ctml:name>Žitorađa</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Toplica</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2047474</ctml:wikiDataId>
+    <ctml:latitude>43.18492750</ctml:latitude>
+    <ctml:longitude>21.61641320</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97145" kind="city">
+    <ctml:name>Apatin</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>West Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-05</ctml:parentRef>
+    <ctml:wikiDataId>Q773371</ctml:wikiDataId>
+    <ctml:latitude>45.67260000</ctml:latitude>
+    <ctml:longitude>18.97800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97163" kind="city">
+    <ctml:name>Bački Breg</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>West Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-05</ctml:parentRef>
+    <ctml:wikiDataId>Q779764</ctml:wikiDataId>
+    <ctml:latitude>45.92034000</ctml:latitude>
+    <ctml:longitude>18.92944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97178" kind="city">
+    <ctml:name>Bogojevo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>West Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1011756</ctml:wikiDataId>
+    <ctml:latitude>45.53015000</ctml:latitude>
+    <ctml:longitude>19.13022000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97198" kind="city">
+    <ctml:name>Doroslovo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>West Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-05</ctml:parentRef>
+    <ctml:wikiDataId>Q909208</ctml:wikiDataId>
+    <ctml:latitude>45.60699000</ctml:latitude>
+    <ctml:longitude>19.18868000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97206" kind="city">
+    <ctml:name>Gakovo</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>West Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1030942</ctml:wikiDataId>
+    <ctml:latitude>45.90078000</ctml:latitude>
+    <ctml:longitude>19.06138000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97249" kind="city">
+    <ctml:name>Kolut</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>West Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-05</ctml:parentRef>
+    <ctml:wikiDataId>Q927968</ctml:wikiDataId>
+    <ctml:latitude>45.89292000</ctml:latitude>
+    <ctml:longitude>18.92760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155093" kind="city">
+    <ctml:name>Kula</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>West Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2985970</ctml:wikiDataId>
+    <ctml:latitude>45.60706310</ctml:latitude>
+    <ctml:longitude>19.46056640</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97266" kind="city">
+    <ctml:name>Kupusina</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>West Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-05</ctml:parentRef>
+    <ctml:wikiDataId>Q852643</ctml:wikiDataId>
+    <ctml:latitude>45.73759000</ctml:latitude>
+    <ctml:longitude>19.01082000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155094" kind="city">
+    <ctml:name>Odžaci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>West Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-05</ctml:parentRef>
+    <ctml:wikiDataId>Q657427</ctml:wikiDataId>
+    <ctml:latitude>45.50206560</ctml:latitude>
+    <ctml:longitude>19.20487140</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97345" kind="city">
+    <ctml:name>Prigrevica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>West Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-05</ctml:parentRef>
+    <ctml:wikiDataId>Q852668</ctml:wikiDataId>
+    <ctml:latitude>45.67636000</ctml:latitude>
+    <ctml:longitude>19.08809000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97363" kind="city">
+    <ctml:name>Riđica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>West Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1048343</ctml:wikiDataId>
+    <ctml:latitude>45.99088000</ctml:latitude>
+    <ctml:longitude>19.10635000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97386" kind="admin2">
+    <ctml:name>Sombor</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>West Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-05</ctml:parentRef>
+    <ctml:wikiDataId>Q204475</ctml:wikiDataId>
+    <ctml:latitude>45.77417000</ctml:latitude>
+    <ctml:longitude>19.11222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97387" kind="city">
+    <ctml:name>Sonta</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>West Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-05</ctml:parentRef>
+    <ctml:wikiDataId>Q784960</ctml:wikiDataId>
+    <ctml:latitude>45.59427000</ctml:latitude>
+    <ctml:longitude>19.09719000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97394" kind="city">
+    <ctml:name>Stanišić</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>West Bačka</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1089370</ctml:wikiDataId>
+    <ctml:latitude>45.93895000</ctml:latitude>
+    <ctml:longitude>19.16709000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155095" kind="city">
+    <ctml:name>Boljevac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zaječar</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2047431</ctml:wikiDataId>
+    <ctml:latitude>43.83114320</ctml:latitude>
+    <ctml:longitude>21.92158620</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97181" kind="city">
+    <ctml:name>Boljevci</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zaječar</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2909457</ctml:wikiDataId>
+    <ctml:latitude>44.72355000</ctml:latitude>
+    <ctml:longitude>20.22348000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97247" kind="city">
+    <ctml:name>Knjazevac</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zaječar</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-15</ctml:parentRef>
+    <ctml:wikiDataId>Q1348256</ctml:wikiDataId>
+    <ctml:latitude>43.56634000</ctml:latitude>
+    <ctml:longitude>22.25701000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155096" kind="city">
+    <ctml:name>Sokobanja</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zaječar</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-15</ctml:parentRef>
+    <ctml:wikiDataId>Q838616</ctml:wikiDataId>
+    <ctml:latitude>43.63431460</ctml:latitude>
+    <ctml:longitude>21.82442590</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97445" kind="city">
+    <ctml:name>Zaječar</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zaječar</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-15</ctml:parentRef>
+    <ctml:wikiDataId>Q209329</ctml:wikiDataId>
+    <ctml:latitude>43.69917000</ctml:latitude>
+    <ctml:longitude>21.98778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97148" kind="city">
+    <ctml:name>Arilje</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zlatibor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2041757</ctml:wikiDataId>
+    <ctml:latitude>43.75306000</ctml:latitude>
+    <ctml:longitude>20.09556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97150" kind="city">
+    <ctml:name>Bajina Bašta</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zlatibor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1811753</ctml:wikiDataId>
+    <ctml:latitude>43.97083000</ctml:latitude>
+    <ctml:longitude>19.56750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97456" kind="city">
+    <ctml:name>Čajetina</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zlatibor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-16</ctml:parentRef>
+    <ctml:wikiDataId>Q3177361</ctml:wikiDataId>
+    <ctml:latitude>43.74977000</ctml:latitude>
+    <ctml:longitude>19.71273000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155097" kind="city">
+    <ctml:name>Kosjerić</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zlatibor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2500654</ctml:wikiDataId>
+    <ctml:latitude>43.99992150</ctml:latitude>
+    <ctml:longitude>19.89156760</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155098" kind="city">
+    <ctml:name>Nova Varoš</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zlatibor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2041713</ctml:wikiDataId>
+    <ctml:latitude>43.46568110</ctml:latitude>
+    <ctml:longitude>19.76736470</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97324" kind="city">
+    <ctml:name>Osječenik</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zlatibor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2590888</ctml:wikiDataId>
+    <ctml:latitude>43.14528000</ctml:latitude>
+    <ctml:longitude>19.85889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-155099" kind="city">
+    <ctml:name>Požega</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zlatibor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2500701</ctml:wikiDataId>
+    <ctml:latitude>43.84033580</ctml:latitude>
+    <ctml:longitude>19.99691900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97344" kind="city">
+    <ctml:name>Priboj</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zlatibor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-16</ctml:parentRef>
+    <ctml:wikiDataId>Q199942</ctml:wikiDataId>
+    <ctml:latitude>43.58306000</ctml:latitude>
+    <ctml:longitude>19.52519000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97346" kind="city">
+    <ctml:name>Prijepolje</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zlatibor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-16</ctml:parentRef>
+    <ctml:wikiDataId>Q852668</ctml:wikiDataId>
+    <ctml:latitude>43.38996000</ctml:latitude>
+    <ctml:longitude>19.64870000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SRB-97381" kind="city">
+    <ctml:name>Sjenica</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zlatibor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-16</ctml:parentRef>
+    <ctml:wikiDataId>Q994217</ctml:wikiDataId>
+    <ctml:latitude>43.27306000</ctml:latitude>
+    <ctml:longitude>19.99944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SRB-97424" kind="admin2">
+    <ctml:name>Užice</ctml:name>
+    <ctml:country>SRB</ctml:country>
+    <ctml:admin1>Zlatibor</ctml:admin1>
+    <ctml:parentRef>place:admin1:RS-16</ctml:parentRef>
+    <ctml:wikiDataId>Q59473</ctml:wikiDataId>
+    <ctml:latitude>43.85861000</ctml:latitude>
+    <ctml:longitude>19.84878000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

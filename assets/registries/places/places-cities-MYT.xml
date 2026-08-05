@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MYT-160324" kind="city">
+    <ctml:name>Mtsangadoua</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Acoua</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-14</ctml:parentRef>
+    <ctml:latitude>-12.71112000</ctml:latitude>
+    <ctml:longitude>45.05118000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160329" kind="city">
+    <ctml:name>Bouyouni</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Bandraboua</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-16</ctml:parentRef>
+    <ctml:latitude>-12.73462000</ctml:latitude>
+    <ctml:longitude>45.13914000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160333" kind="city">
+    <ctml:name>Dzumogne</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Bandraboua</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-16</ctml:parentRef>
+    <ctml:latitude>-12.71667000</ctml:latitude>
+    <ctml:longitude>45.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160332" kind="city">
+    <ctml:name>Handréma</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Bandraboua</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-16</ctml:parentRef>
+    <ctml:latitude>-12.68112000</ctml:latitude>
+    <ctml:longitude>45.09965000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160331" kind="city">
+    <ctml:name>Mtsangamboua</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Bandraboua</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-16</ctml:parentRef>
+    <ctml:latitude>-12.69033000</ctml:latitude>
+    <ctml:longitude>45.10926000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160303" kind="city">
+    <ctml:name>Hamouro</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Bandrélé</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-05</ctml:parentRef>
+    <ctml:latitude>-12.88130000</ctml:latitude>
+    <ctml:longitude>45.21494000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160300" kind="city">
+    <ctml:name>Mtsamoudou</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Bandrélé</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-05</ctml:parentRef>
+    <ctml:latitude>-12.96232000</ctml:latitude>
+    <ctml:longitude>45.17449000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160301" kind="city">
+    <ctml:name>Nyambadao</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Bandrélé</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-05</ctml:parentRef>
+    <ctml:latitude>-12.89346000</ctml:latitude>
+    <ctml:longitude>45.20214000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160306" kind="city">
+    <ctml:name>Mouanatrindri</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Boueni</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-07</ctml:parentRef>
+    <ctml:latitude>-12.89960000</ctml:latitude>
+    <ctml:longitude>45.09792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160307" kind="city">
+    <ctml:name>Mzouazia</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Boueni</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-07</ctml:parentRef>
+    <ctml:latitude>-12.92717000</ctml:latitude>
+    <ctml:longitude>45.10336000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160319" kind="city">
+    <ctml:name>Sohoa</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Chiconi</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-11</ctml:parentRef>
+    <ctml:latitude>-12.82233000</ctml:latitude>
+    <ctml:longitude>45.10552000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160311" kind="city">
+    <ctml:name>Miréréni</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Chirongui</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-08</ctml:parentRef>
+    <ctml:latitude>-12.90708000</ctml:latitude>
+    <ctml:longitude>45.15295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160310" kind="city">
+    <ctml:name>Mramadoudou</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Chirongui</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-08</ctml:parentRef>
+    <ctml:latitude>-12.92846000</ctml:latitude>
+    <ctml:longitude>45.15324000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160312" kind="city">
+    <ctml:name>Poroani</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Chirongui</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-08</ctml:parentRef>
+    <ctml:latitude>-12.89226000</ctml:latitude>
+    <ctml:longitude>45.14121000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160308" kind="city">
+    <ctml:name>Tsimkoura</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Chirongui</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-08</ctml:parentRef>
+    <ctml:latitude>-12.93934000</ctml:latitude>
+    <ctml:longitude>45.13739000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160295" kind="city">
+    <ctml:name>Hajangoua</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Dembeni</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-04</ctml:parentRef>
+    <ctml:latitude>-12.86607000</ctml:latitude>
+    <ctml:longitude>45.19857000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160296" kind="city">
+    <ctml:name>Iloni</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Dembeni</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-04</ctml:parentRef>
+    <ctml:latitude>-12.84553000</ctml:latitude>
+    <ctml:longitude>45.19037000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160297" kind="city">
+    <ctml:name>Ongojou</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Dembeni</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-04</ctml:parentRef>
+    <ctml:latitude>-12.83883000</ctml:latitude>
+    <ctml:longitude>45.16012000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160298" kind="city">
+    <ctml:name>Tsararano</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Dembeni</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-04</ctml:parentRef>
+    <ctml:latitude>-12.83528000</ctml:latitude>
+    <ctml:longitude>45.17355000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160282" kind="city">
+    <ctml:name>Labattoir</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Dzaoudzi</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-01</ctml:parentRef>
+    <ctml:latitude>-12.77698000</ctml:latitude>
+    <ctml:longitude>45.28234000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160337" kind="city">
+    <ctml:name>Kangani</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Koungou</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-17</ctml:parentRef>
+    <ctml:latitude>-12.73186000</ctml:latitude>
+    <ctml:longitude>45.18694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160338" kind="city">
+    <ctml:name>Longoni</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Koungou</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-17</ctml:parentRef>
+    <ctml:latitude>-12.73426000</ctml:latitude>
+    <ctml:longitude>45.16298000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160334" kind="city">
+    <ctml:name>Majikavo Koropa</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Koungou</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-17</ctml:parentRef>
+    <ctml:latitude>-12.74701000</ctml:latitude>
+    <ctml:longitude>45.22058000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160336" kind="city">
+    <ctml:name>Trévani</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Koungou</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-17</ctml:parentRef>
+    <ctml:latitude>-12.73437000</ctml:latitude>
+    <ctml:longitude>45.19861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160323" kind="city">
+    <ctml:name>Chembényoumba</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>M'Tsangamouji</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-13</ctml:parentRef>
+    <ctml:latitude>-12.76472000</ctml:latitude>
+    <ctml:longitude>45.07793000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160292" kind="city">
+    <ctml:name>Combani</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Mamoudzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-03</ctml:parentRef>
+    <ctml:latitude>-12.80000000</ctml:latitude>
+    <ctml:longitude>45.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160290" kind="city">
+    <ctml:name>Kaouéni</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Mamoudzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-03</ctml:parentRef>
+    <ctml:latitude>-12.77121000</ctml:latitude>
+    <ctml:longitude>45.22419000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160289" kind="city">
+    <ctml:name>Kavani</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Mamoudzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-03</ctml:parentRef>
+    <ctml:latitude>-12.78447000</ctml:latitude>
+    <ctml:longitude>45.22299000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160291" kind="city">
+    <ctml:name>Majikavo Lamir</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Mamoudzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-03</ctml:parentRef>
+    <ctml:latitude>-12.75572000</ctml:latitude>
+    <ctml:longitude>45.22968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160293" kind="city">
+    <ctml:name>Mamoudzou</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Mamoudzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-03</ctml:parentRef>
+    <ctml:latitude>-12.78234000</ctml:latitude>
+    <ctml:longitude>45.22878000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160288" kind="city">
+    <ctml:name>Mtsapéré</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Mamoudzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-03</ctml:parentRef>
+    <ctml:latitude>-12.78636000</ctml:latitude>
+    <ctml:longitude>45.21732000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160294" kind="city">
+    <ctml:name>Passamainty</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Mamoudzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-03</ctml:parentRef>
+    <ctml:latitude>-12.80201000</ctml:latitude>
+    <ctml:longitude>45.20818000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160287" kind="city">
+    <ctml:name>Tsoundzou 1</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Mamoudzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-03</ctml:parentRef>
+    <ctml:latitude>-12.80615000</ctml:latitude>
+    <ctml:longitude>45.20230000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160286" kind="city">
+    <ctml:name>Tsoundzou 2</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Mamoudzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-03</ctml:parentRef>
+    <ctml:latitude>-12.81845000</ctml:latitude>
+    <ctml:longitude>45.19720000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160285" kind="city">
+    <ctml:name>Vahibé</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Mamoudzou</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-03</ctml:parentRef>
+    <ctml:latitude>-12.79024000</ctml:latitude>
+    <ctml:longitude>45.17707000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160327" kind="city">
+    <ctml:name>Hamjago</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Mtsamboro</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-15</ctml:parentRef>
+    <ctml:latitude>-12.68832000</ctml:latitude>
+    <ctml:longitude>45.07450000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160328" kind="city">
+    <ctml:name>Mtsahara</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Mtsamboro</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-15</ctml:parentRef>
+    <ctml:latitude>-12.68137000</ctml:latitude>
+    <ctml:longitude>45.08274000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160317" kind="city">
+    <ctml:name>Barakani</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Ouangani</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-10</ctml:parentRef>
+    <ctml:latitude>-12.83799000</ctml:latitude>
+    <ctml:longitude>45.13120000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160315" kind="city">
+    <ctml:name>Kahani</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Ouangani</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-10</ctml:parentRef>
+    <ctml:latitude>-12.82385000</ctml:latitude>
+    <ctml:longitude>45.13141000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160314" kind="city">
+    <ctml:name>Mangajou</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Sada</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-09</ctml:parentRef>
+    <ctml:latitude>-12.84404000</ctml:latitude>
+    <ctml:longitude>45.11716000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYT-160320" kind="city">
+    <ctml:name>Miréréni</ctml:name>
+    <ctml:country>MYT</ctml:country>
+    <ctml:admin1>Tsingoni</ctml:admin1>
+    <ctml:parentRef>place:admin1:YT-12</ctml:parentRef>
+    <ctml:latitude>-12.78867000</ctml:latitude>
+    <ctml:longitude>45.14113000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

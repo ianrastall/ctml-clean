@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:RWA-102798" kind="city">
+    <ctml:name>Kibungo</ctml:name>
+    <ctml:country>RWA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:RW-02</ctml:parentRef>
+    <ctml:wikiDataId>Q992776</ctml:wikiDataId>
+    <ctml:latitude>-2.15970000</ctml:latitude>
+    <ctml:longitude>30.54270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:RWA-102800" kind="city">
+    <ctml:name>Kigali</ctml:name>
+    <ctml:country>RWA</ctml:country>
+    <ctml:admin1>Kigali</ctml:admin1>
+    <ctml:parentRef>place:admin1:RW-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3859</ctml:wikiDataId>
+    <ctml:latitude>-1.94995000</ctml:latitude>
+    <ctml:longitude>30.05885000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:RWA-102801" kind="city">
+    <ctml:name>Musanze</ctml:name>
+    <ctml:country>RWA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:RW-03</ctml:parentRef>
+    <ctml:wikiDataId>Q246145</ctml:wikiDataId>
+    <ctml:latitude>-1.49984000</ctml:latitude>
+    <ctml:longitude>29.63497000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:RWA-102792" kind="city">
+    <ctml:name>Butare</ctml:name>
+    <ctml:country>RWA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:RW-05</ctml:parentRef>
+    <ctml:wikiDataId>Q16654643</ctml:wikiDataId>
+    <ctml:latitude>-2.59667000</ctml:latitude>
+    <ctml:longitude>29.73944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:RWA-102795" kind="city">
+    <ctml:name>Eglise Catholique Centrale GIKO</ctml:name>
+    <ctml:country>RWA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:RW-05</ctml:parentRef>
+    <ctml:wikiDataId>Q782857</ctml:wikiDataId>
+    <ctml:latitude>-1.93653000</ctml:latitude>
+    <ctml:longitude>29.80610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:RWA-102797" kind="admin2">
+    <ctml:name>Gitarama</ctml:name>
+    <ctml:country>RWA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:RW-05</ctml:parentRef>
+    <ctml:wikiDataId>Q668180</ctml:wikiDataId>
+    <ctml:latitude>-2.07444000</ctml:latitude>
+    <ctml:longitude>29.75667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:RWA-102802" kind="city">
+    <ctml:name>Nzega</ctml:name>
+    <ctml:country>RWA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:RW-05</ctml:parentRef>
+    <ctml:wikiDataId>Q246145</ctml:wikiDataId>
+    <ctml:latitude>-2.47900000</ctml:latitude>
+    <ctml:longitude>29.55640000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:RWA-102794" kind="city">
+    <ctml:name>Cyangugu</ctml:name>
+    <ctml:country>RWA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:RW-04</ctml:parentRef>
+    <ctml:wikiDataId>Q782857</ctml:wikiDataId>
+    <ctml:latitude>-2.48460000</ctml:latitude>
+    <ctml:longitude>28.90750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:RWA-102796" kind="admin2">
+    <ctml:name>Gisenyi</ctml:name>
+    <ctml:country>RWA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:RW-04</ctml:parentRef>
+    <ctml:wikiDataId>Q830631</ctml:wikiDataId>
+    <ctml:latitude>-1.70278000</ctml:latitude>
+    <ctml:longitude>29.25639000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

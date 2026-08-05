@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:PYF-154867" kind="city">
+    <ctml:name>Raivavae</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Austral Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q339304</ctml:wikiDataId>
+    <ctml:latitude>-23.86946330</ctml:latitude>
+    <ctml:longitude>-147.73244720</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154868" kind="city">
+    <ctml:name>Rapa</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Austral Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1585976</ctml:wikiDataId>
+    <ctml:latitude>-27.60822390</ctml:latitude>
+    <ctml:longitude>-144.38427770</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154869" kind="city">
+    <ctml:name>Rimatara</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Austral Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1585987</ctml:wikiDataId>
+    <ctml:latitude>-22.64382540</ctml:latitude>
+    <ctml:longitude>-152.83120520</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154870" kind="city">
+    <ctml:name>Rurutu</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Austral Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1585966</ctml:wikiDataId>
+    <ctml:latitude>-22.46958690</ctml:latitude>
+    <ctml:longitude>-151.39113710</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154871" kind="city">
+    <ctml:name>Tubuai</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Austral Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-01</ctml:parentRef>
+    <ctml:wikiDataId>Q598544</ctml:wikiDataId>
+    <ctml:latitude>-23.36850430</ctml:latitude>
+    <ctml:longitude>-149.54496480</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154872" kind="city">
+    <ctml:name>Bora-Bora</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Leeward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-02</ctml:parentRef>
+    <ctml:wikiDataId>Q602937</ctml:wikiDataId>
+    <ctml:latitude>-16.39169250</ctml:latitude>
+    <ctml:longitude>-151.93003350</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154873" kind="city">
+    <ctml:name>Huahine</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Leeward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-02</ctml:parentRef>
+    <ctml:wikiDataId>Q968977</ctml:wikiDataId>
+    <ctml:latitude>-16.75212330</ctml:latitude>
+    <ctml:longitude>-151.07889500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154874" kind="city">
+    <ctml:name>Maupiti</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Leeward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1911201</ctml:wikiDataId>
+    <ctml:latitude>-16.31438490</ctml:latitude>
+    <ctml:longitude>-154.79908630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154875" kind="city">
+    <ctml:name>Tahaa</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Leeward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-02</ctml:parentRef>
+    <ctml:wikiDataId>Q926768</ctml:wikiDataId>
+    <ctml:latitude>-16.61957120</ctml:latitude>
+    <ctml:longitude>-151.57215390</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154876" kind="city">
+    <ctml:name>Taputapuatea</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Leeward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1649742</ctml:wikiDataId>
+    <ctml:latitude>-16.82062470</ctml:latitude>
+    <ctml:longitude>-151.47741330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154877" kind="city">
+    <ctml:name>Tumaraa</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Leeward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1543922</ctml:wikiDataId>
+    <ctml:latitude>-16.82985330</ctml:latitude>
+    <ctml:longitude>-151.53381840</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154879" kind="city">
+    <ctml:name>Fatu-Hiva</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Marquesas Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-03</ctml:parentRef>
+    <ctml:latitude>-10.48604740</ctml:latitude>
+    <ctml:longitude>-138.69188860</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154880" kind="city">
+    <ctml:name>Hiva-Oa</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Marquesas Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-03</ctml:parentRef>
+    <ctml:wikiDataId>Q745311</ctml:wikiDataId>
+    <ctml:latitude>-9.72631690</ctml:latitude>
+    <ctml:longitude>-139.30998880</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154881" kind="city">
+    <ctml:name>Nuku-Hiva</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Marquesas Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-03</ctml:parentRef>
+    <ctml:wikiDataId>Q932909</ctml:wikiDataId>
+    <ctml:latitude>-8.41030010</ctml:latitude>
+    <ctml:longitude>-141.02327110</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154882" kind="city">
+    <ctml:name>Tahuata</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Marquesas Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1307016</ctml:wikiDataId>
+    <ctml:latitude>-9.95732410</ctml:latitude>
+    <ctml:longitude>-139.16563470</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154883" kind="city">
+    <ctml:name>Ua-Huka</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Marquesas Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1575523</ctml:wikiDataId>
+    <ctml:latitude>-8.90967990</ctml:latitude>
+    <ctml:longitude>-139.63171970</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154884" kind="city">
+    <ctml:name>Ua-Pou</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Marquesas Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1575514</ctml:wikiDataId>
+    <ctml:latitude>-9.40892440</ctml:latitude>
+    <ctml:longitude>-140.15553770</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154885" kind="city">
+    <ctml:name>Anaa</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q483123</ctml:wikiDataId>
+    <ctml:latitude>-17.41194390</ctml:latitude>
+    <ctml:longitude>-145.66284990</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154886" kind="city">
+    <ctml:name>Arutua</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q182758</ctml:wikiDataId>
+    <ctml:latitude>-15.31203340</ctml:latitude>
+    <ctml:longitude>-146.91262850</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154887" kind="city">
+    <ctml:name>Fakarava</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1393658</ctml:wikiDataId>
+    <ctml:latitude>-16.29845160</ctml:latitude>
+    <ctml:longitude>-145.92218890</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154888" kind="city">
+    <ctml:name>Fangatau</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1395587</ctml:wikiDataId>
+    <ctml:latitude>-15.82097880</ctml:latitude>
+    <ctml:longitude>-140.90810600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154889" kind="city">
+    <ctml:name>Gambier</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q186430</ctml:wikiDataId>
+    <ctml:latitude>-23.10088440</ctml:latitude>
+    <ctml:longitude>-135.07922550</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154890" kind="city">
+    <ctml:name>Hao</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1584100</ctml:wikiDataId>
+    <ctml:latitude>-18.74532930</ctml:latitude>
+    <ctml:longitude>-145.33383850</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154891" kind="city">
+    <ctml:name>Hikueru</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1618079</ctml:wikiDataId>
+    <ctml:latitude>-17.58767480</ctml:latitude>
+    <ctml:longitude>-142.69120590</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154892" kind="city">
+    <ctml:name>Makemo</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q175479</ctml:wikiDataId>
+    <ctml:latitude>-16.59334420</ctml:latitude>
+    <ctml:longitude>-144.01756280</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154893" kind="city">
+    <ctml:name>Manihi</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1890417</ctml:wikiDataId>
+    <ctml:latitude>-14.39757810</ctml:latitude>
+    <ctml:longitude>-146.12217070</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154894" kind="city">
+    <ctml:name>Napuka</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1965092</ctml:wikiDataId>
+    <ctml:latitude>-14.17342310</ctml:latitude>
+    <ctml:longitude>-141.30676690</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154895" kind="city">
+    <ctml:name>Nukutavake</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q971726</ctml:wikiDataId>
+    <ctml:latitude>-18.97808660</ctml:latitude>
+    <ctml:longitude>-139.29284520</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154896" kind="city">
+    <ctml:name>Puka-Puka</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1575508</ctml:wikiDataId>
+    <ctml:latitude>-14.81902510</ctml:latitude>
+    <ctml:longitude>-138.86100870</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154897" kind="city">
+    <ctml:name>Rangiroa</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q654431</ctml:wikiDataId>
+    <ctml:latitude>-15.12282920</ctml:latitude>
+    <ctml:longitude>-147.91140150</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PYF-154898" kind="admin2">
+    <ctml:name>Reao</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2006896</ctml:wikiDataId>
+    <ctml:latitude>-18.51946500</ctml:latitude>
+    <ctml:longitude>-136.46088500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154899" kind="city">
+    <ctml:name>Takaroa</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1705290</ctml:wikiDataId>
+    <ctml:latitude>-14.67263940</ctml:latitude>
+    <ctml:longitude>-145.22680410</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154900" kind="city">
+    <ctml:name>Tatakoto</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1649851</ctml:wikiDataId>
+    <ctml:latitude>-17.34173160</ctml:latitude>
+    <ctml:longitude>-138.47584630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154901" kind="city">
+    <ctml:name>Tureia</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Tuamotu-Gambier</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1527645</ctml:wikiDataId>
+    <ctml:latitude>-20.82803180</ctml:latitude>
+    <ctml:longitude>-138.58163900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154902" kind="city">
+    <ctml:name>Arue</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Windward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q716412</ctml:wikiDataId>
+    <ctml:latitude>-17.27738940</ctml:latitude>
+    <ctml:longitude>-149.87199430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154903" kind="city">
+    <ctml:name>Faaa</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Windward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1022934</ctml:wikiDataId>
+    <ctml:latitude>-17.58391940</ctml:latitude>
+    <ctml:longitude>-149.64609260</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154904" kind="city">
+    <ctml:name>Hitiaa O Te Ra</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Windward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1621155</ctml:wikiDataId>
+    <ctml:latitude>-17.59142580</ctml:latitude>
+    <ctml:longitude>-149.47324810</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154905" kind="city">
+    <ctml:name>Mahina</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Windward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q530692</ctml:wikiDataId>
+    <ctml:latitude>-17.55747420</ctml:latitude>
+    <ctml:longitude>-149.51647820</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154906" kind="city">
+    <ctml:name>Moorea-Maiao</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Windward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q613162</ctml:wikiDataId>
+    <ctml:latitude>-17.57566530</ctml:latitude>
+    <ctml:longitude>-150.86188770</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154907" kind="city">
+    <ctml:name>Paea</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Windward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1788505</ctml:wikiDataId>
+    <ctml:latitude>-17.69616980</ctml:latitude>
+    <ctml:longitude>-149.58969660</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154908" kind="city">
+    <ctml:name>Papara</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Windward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1970268</ctml:wikiDataId>
+    <ctml:latitude>-17.71187630</ctml:latitude>
+    <ctml:longitude>-149.59042950</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154909" kind="city">
+    <ctml:name>Papeete</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Windward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q130800</ctml:wikiDataId>
+    <ctml:latitude>-17.55713870</ctml:latitude>
+    <ctml:longitude>-149.59660090</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154910" kind="city">
+    <ctml:name>Pirae</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Windward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1788497</ctml:wikiDataId>
+    <ctml:latitude>-17.56986380</ctml:latitude>
+    <ctml:longitude>-149.56352800</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154911" kind="city">
+    <ctml:name>Punaauia</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Windward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1969812</ctml:wikiDataId>
+    <ctml:latitude>-17.61796960</ctml:latitude>
+    <ctml:longitude>-149.63102240</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154912" kind="city">
+    <ctml:name>Taiarapu-Est</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Windward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2304334</ctml:wikiDataId>
+    <ctml:latitude>-17.75551280</ctml:latitude>
+    <ctml:longitude>-149.39533960</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154913" kind="city">
+    <ctml:name>Taiarapu-Ouest</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Windward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2304257</ctml:wikiDataId>
+    <ctml:latitude>-17.81004520</ctml:latitude>
+    <ctml:longitude>-149.32700520</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PYF-154914" kind="city">
+    <ctml:name>Teva I Uta</ctml:name>
+    <ctml:country>PYF</ctml:country>
+    <ctml:admin1>Windward Islands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PF-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2304273</ctml:wikiDataId>
+    <ctml:latitude>-17.72250080</ctml:latitude>
+    <ctml:longitude>-149.48196150</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

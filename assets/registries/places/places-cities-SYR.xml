@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SYR-104940" kind="city">
+    <ctml:name>Ad Darbāsīyah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Al-Hasakah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q4023866</ctml:wikiDataId>
+    <ctml:latitude>37.07279000</ctml:latitude>
+    <ctml:longitude>40.65199000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104950" kind="admin2">
+    <ctml:name>Al Mālikīyah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Al-Hasakah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q2603127</ctml:wikiDataId>
+    <ctml:latitude>37.17701000</ctml:latitude>
+    <ctml:longitude>42.14006000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104955" kind="admin2">
+    <ctml:name>Al Qāmishlī</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Al-Hasakah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q212757</ctml:wikiDataId>
+    <ctml:latitude>37.05215000</ctml:latitude>
+    <ctml:longitude>41.23142000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104960" kind="city">
+    <ctml:name>Al-Malikiyah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Al-Hasakah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q4702792</ctml:wikiDataId>
+    <ctml:latitude>36.94113000</ctml:latitude>
+    <ctml:longitude>41.90157000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104967" kind="city">
+    <ctml:name>Amude</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Al-Hasakah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HA</ctml:parentRef>
+    <ctml:wikiDataId>Q481427</ctml:wikiDataId>
+    <ctml:latitude>37.10417000</ctml:latitude>
+    <ctml:longitude>40.93000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104964" kind="city">
+    <ctml:name>Al-Thawrah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Al-Raqqah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q4703291</ctml:wikiDataId>
+    <ctml:latitude>35.79843000</ctml:latitude>
+    <ctml:longitude>38.34550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104971" kind="city">
+    <ctml:name>Ar-Raqqah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Al-Raqqah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q4703126</ctml:wikiDataId>
+    <ctml:latitude>35.87204000</ctml:latitude>
+    <ctml:longitude>39.04706000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104981" kind="admin2">
+    <ctml:name>Ath Thawrah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Al-Raqqah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q1822804</ctml:wikiDataId>
+    <ctml:latitude>35.83758000</ctml:latitude>
+    <ctml:longitude>38.54828000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105055" kind="admin2">
+    <ctml:name>Tall Abyaḑ</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Al-Raqqah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q1896205</ctml:wikiDataId>
+    <ctml:latitude>36.69648000</ctml:latitude>
+    <ctml:longitude>38.95382000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105062" kind="city">
+    <ctml:name>Tell Abyad</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Al-Raqqah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RA</ctml:parentRef>
+    <ctml:wikiDataId>Q7697373</ctml:wikiDataId>
+    <ctml:latitude>36.48280000</ctml:latitude>
+    <ctml:longitude>39.21360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105079" kind="admin2">
+    <ctml:name>‘Afrīn</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q302268</ctml:wikiDataId>
+    <ctml:latitude>36.51194000</ctml:latitude>
+    <ctml:longitude>36.86954000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105080" kind="admin2">
+    <ctml:name>‘Ayn al ‘Arab</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q126415</ctml:wikiDataId>
+    <ctml:latitude>36.89095000</ctml:latitude>
+    <ctml:longitude>38.35347000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104943" kind="city">
+    <ctml:name>Afrin</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q4120569</ctml:wikiDataId>
+    <ctml:latitude>36.54891000</ctml:latitude>
+    <ctml:longitude>36.79295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104944" kind="city">
+    <ctml:name>Al Atārib</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q4118953</ctml:wikiDataId>
+    <ctml:latitude>36.13907000</ctml:latitude>
+    <ctml:longitude>36.82504000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104945" kind="admin2">
+    <ctml:name>Al Bāb</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q310892</ctml:wikiDataId>
+    <ctml:latitude>36.37051000</ctml:latitude>
+    <ctml:longitude>37.51570000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104958" kind="city">
+    <ctml:name>Al-Bab</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q4118360</ctml:wikiDataId>
+    <ctml:latitude>36.30946000</ctml:latitude>
+    <ctml:longitude>37.53277000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104974" kind="admin2">
+    <ctml:name>As Safīrah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q575774</ctml:wikiDataId>
+    <ctml:latitude>36.07696000</ctml:latitude>
+    <ctml:longitude>37.37251000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104983" kind="city">
+    <ctml:name>Azaz</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q4118348</ctml:wikiDataId>
+    <ctml:latitude>36.49986000</ctml:latitude>
+    <ctml:longitude>37.18382000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104992" kind="city">
+    <ctml:name>Dayr Ḩāfir</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q5243296</ctml:wikiDataId>
+    <ctml:latitude>36.15694000</ctml:latitude>
+    <ctml:longitude>37.70778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105006" kind="admin2">
+    <ctml:name>I‘zāz</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q277674</ctml:wikiDataId>
+    <ctml:latitude>36.58662000</ctml:latitude>
+    <ctml:longitude>37.04628000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105010" kind="admin2">
+    <ctml:name>Jarābulus</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q1149502</ctml:wikiDataId>
+    <ctml:latitude>36.81750000</ctml:latitude>
+    <ctml:longitude>38.01111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105019" kind="city">
+    <ctml:name>Kafr Şaghīr</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q6346221</ctml:wikiDataId>
+    <ctml:latitude>36.29264000</ctml:latitude>
+    <ctml:longitude>37.25590000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105022" kind="city">
+    <ctml:name>Khanāşir</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q4751791</ctml:wikiDataId>
+    <ctml:latitude>35.78159000</ctml:latitude>
+    <ctml:longitude>37.49919000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105027" kind="admin2">
+    <ctml:name>Manbij</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q1146939</ctml:wikiDataId>
+    <ctml:latitude>36.52815000</ctml:latitude>
+    <ctml:longitude>37.95495000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105028" kind="city">
+    <ctml:name>Manbij District</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q4120577</ctml:wikiDataId>
+    <ctml:latitude>36.06687000</ctml:latitude>
+    <ctml:longitude>37.91735000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105034" kind="city">
+    <ctml:name>Mount Simeon</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q4120574</ctml:wikiDataId>
+    <ctml:latitude>35.99956000</ctml:latitude>
+    <ctml:longitude>37.08473000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105038" kind="city">
+    <ctml:name>Nubl</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q7067856</ctml:wikiDataId>
+    <ctml:latitude>36.37867000</ctml:latitude>
+    <ctml:longitude>36.99294000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105072" kind="city">
+    <ctml:name>Şūrān</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q7428679</ctml:wikiDataId>
+    <ctml:latitude>36.56579000</ctml:latitude>
+    <ctml:longitude>37.21270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105064" kind="city">
+    <ctml:name>Tādif</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q7697373</ctml:wikiDataId>
+    <ctml:latitude>36.34814000</ctml:latitude>
+    <ctml:longitude>37.53090000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105056" kind="city">
+    <ctml:name>Tall Rif‘at</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Aleppo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q1896205</ctml:wikiDataId>
+    <ctml:latitude>36.47229000</ctml:latitude>
+    <ctml:longitude>37.09471000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104978" kind="city">
+    <ctml:name>As-Suwayda District</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>As-Suwayda</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q3266216</ctml:wikiDataId>
+    <ctml:latitude>32.78127000</ctml:latitude>
+    <ctml:longitude>36.86502000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105069" kind="city">
+    <ctml:name>Şalākhid</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>As-Suwayda</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q24343</ctml:wikiDataId>
+    <ctml:latitude>32.87271000</ctml:latitude>
+    <ctml:longitude>36.57271000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105068" kind="admin2">
+    <ctml:name>Şalkhad</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>As-Suwayda</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q24343</ctml:wikiDataId>
+    <ctml:latitude>32.49200000</ctml:latitude>
+    <ctml:longitude>36.71114000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105043" kind="city">
+    <ctml:name>Salkhad District</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>As-Suwayda</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q3265272</ctml:wikiDataId>
+    <ctml:latitude>32.51779000</ctml:latitude>
+    <ctml:longitude>36.91954000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105049" kind="admin2">
+    <ctml:name>Shahbā</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>As-Suwayda</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q926336</ctml:wikiDataId>
+    <ctml:latitude>32.85514000</ctml:latitude>
+    <ctml:longitude>36.62896000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105048" kind="city">
+    <ctml:name>Shahba District</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>As-Suwayda</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q3265263</ctml:wikiDataId>
+    <ctml:latitude>33.04282000</ctml:latitude>
+    <ctml:longitude>36.72034000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104988" kind="city">
+    <ctml:name>Damascus</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Damascus</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q3766</ctml:wikiDataId>
+    <ctml:latitude>33.51020000</ctml:latitude>
+    <ctml:longitude>36.29128000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104956" kind="city">
+    <ctml:name>Al Ḩarāk</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Daraa</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q212757</ctml:wikiDataId>
+    <ctml:latitude>32.74932000</ctml:latitude>
+    <ctml:longitude>36.30994000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104949" kind="city">
+    <ctml:name>Al Muzayrīb</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Daraa</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q6944401</ctml:wikiDataId>
+    <ctml:latitude>32.71084000</ctml:latitude>
+    <ctml:longitude>36.02751000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104963" kind="city">
+    <ctml:name>Al-Sanamayn</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Daraa</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q4115585</ctml:wikiDataId>
+    <ctml:latitude>33.12559000</ctml:latitude>
+    <ctml:longitude>36.27540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104984" kind="admin2">
+    <ctml:name>Aş Şanamayn</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Daraa</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q2561767</ctml:wikiDataId>
+    <ctml:latitude>33.07186000</ctml:latitude>
+    <ctml:longitude>36.18316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104979" kind="city">
+    <ctml:name>Ash Shaykh Miskīn</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Daraa</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q3266216</ctml:wikiDataId>
+    <ctml:latitude>32.82944000</ctml:latitude>
+    <ctml:longitude>36.15933000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104986" kind="city">
+    <ctml:name>Buşrá ash Shām</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Daraa</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q272680</ctml:wikiDataId>
+    <ctml:latitude>32.52013000</ctml:latitude>
+    <ctml:longitude>36.48256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104996" kind="city">
+    <ctml:name>Ghabāghib</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Daraa</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q5555136</ctml:wikiDataId>
+    <ctml:latitude>33.18235000</ctml:latitude>
+    <ctml:longitude>36.22534000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105003" kind="city">
+    <ctml:name>Inkhil</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Daraa</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q4119742</ctml:wikiDataId>
+    <ctml:latitude>33.01809000</ctml:latitude>
+    <ctml:longitude>36.12828000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105004" kind="city">
+    <ctml:name>Izra</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Daraa</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q3235210</ctml:wikiDataId>
+    <ctml:latitude>32.90121000</ctml:latitude>
+    <ctml:longitude>36.16144000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105005" kind="admin2">
+    <ctml:name>Izra‘</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Daraa</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q3235210</ctml:wikiDataId>
+    <ctml:latitude>32.87060000</ctml:latitude>
+    <ctml:longitude>36.25453000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105014" kind="city">
+    <ctml:name>Jāsim</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Daraa</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q4116040</ctml:wikiDataId>
+    <ctml:latitude>32.99233000</ctml:latitude>
+    <ctml:longitude>36.06018000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105037" kind="city">
+    <ctml:name>Nawá</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Daraa</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q1758024</ctml:wikiDataId>
+    <ctml:latitude>32.89044000</ctml:latitude>
+    <ctml:longitude>36.03990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105073" kind="city">
+    <ctml:name>Ţafas</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Daraa</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q4120104</ctml:wikiDataId>
+    <ctml:latitude>32.73709000</ctml:latitude>
+    <ctml:longitude>36.06654000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105061" kind="city">
+    <ctml:name>Tasīl</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Daraa</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DR</ctml:parentRef>
+    <ctml:wikiDataId>Q7687248</ctml:wikiDataId>
+    <ctml:latitude>32.83395000</ctml:latitude>
+    <ctml:longitude>35.96973000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104948" kind="admin2">
+    <ctml:name>Al Mayādīn</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Deir ez-Zor</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DY</ctml:parentRef>
+    <ctml:wikiDataId>Q310895</ctml:wikiDataId>
+    <ctml:latitude>35.01982000</ctml:latitude>
+    <ctml:longitude>40.45154000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105066" kind="admin2">
+    <ctml:name>Ālbū Kamāl</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Deir ez-Zor</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DY</ctml:parentRef>
+    <ctml:wikiDataId>Q152828</ctml:wikiDataId>
+    <ctml:latitude>34.45226000</ctml:latitude>
+    <ctml:longitude>40.91854000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104997" kind="city">
+    <ctml:name>Hajīn</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Deir ez-Zor</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DY</ctml:parentRef>
+    <ctml:wikiDataId>Q5639989</ctml:wikiDataId>
+    <ctml:latitude>34.69508000</ctml:latitude>
+    <ctml:longitude>40.83138000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105051" kind="city">
+    <ctml:name>Subaykhān</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Deir ez-Zor</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-DY</ctml:parentRef>
+    <ctml:wikiDataId>Q7645373</ctml:wikiDataId>
+    <ctml:latitude>34.85305000</ctml:latitude>
+    <ctml:longitude>40.59987000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104962" kind="city">
+    <ctml:name>Al-Salamiyah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Hama</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q4118483</ctml:wikiDataId>
+    <ctml:latitude>35.14398000</ctml:latitude>
+    <ctml:longitude>37.59235000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104975" kind="admin2">
+    <ctml:name>As Salamīyah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Hama</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q75621</ctml:wikiDataId>
+    <ctml:latitude>35.01127000</ctml:latitude>
+    <ctml:longitude>37.05324000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104976" kind="admin2">
+    <ctml:name>As Suqaylibīyah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Hama</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q986763</ctml:wikiDataId>
+    <ctml:latitude>35.36674000</ctml:latitude>
+    <ctml:longitude>36.39359000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105075" kind="city">
+    <ctml:name>Ḩalfāyā</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Hama</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q1704164</ctml:wikiDataId>
+    <ctml:latitude>35.26014000</ctml:latitude>
+    <ctml:longitude>36.60581000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104998" kind="city">
+    <ctml:name>Hama</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Hama</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q2856152</ctml:wikiDataId>
+    <ctml:latitude>35.28577000</ctml:latitude>
+    <ctml:longitude>37.12626000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105018" kind="city">
+    <ctml:name>Kafr Zaytā</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Hama</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q6346221</ctml:wikiDataId>
+    <ctml:latitude>35.37425000</ctml:latitude>
+    <ctml:longitude>36.60330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105030" kind="admin2">
+    <ctml:name>Maşyāf</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Hama</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q825818</ctml:wikiDataId>
+    <ctml:latitude>35.06530000</ctml:latitude>
+    <ctml:longitude>36.34060000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105029" kind="city">
+    <ctml:name>Masyaf District</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Hama</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q2586299</ctml:wikiDataId>
+    <ctml:latitude>35.10335000</ctml:latitude>
+    <ctml:longitude>36.33920000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105036" kind="city">
+    <ctml:name>Mūrak</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Hama</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q4120574</ctml:wikiDataId>
+    <ctml:latitude>35.37615000</ctml:latitude>
+    <ctml:longitude>36.68970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105050" kind="city">
+    <ctml:name>Souran</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Hama</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q7645373</ctml:wikiDataId>
+    <ctml:latitude>35.29193000</ctml:latitude>
+    <ctml:longitude>36.74848000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105057" kind="city">
+    <ctml:name>Tall Salḩab</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Hama</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q3265279</ctml:wikiDataId>
+    <ctml:latitude>35.25884000</ctml:latitude>
+    <ctml:longitude>36.38461000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105074" kind="city">
+    <ctml:name>Ţayyibat al Imām</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Hama</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q4120104</ctml:wikiDataId>
+    <ctml:latitude>35.26592000</ctml:latitude>
+    <ctml:longitude>36.71219000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105063" kind="city">
+    <ctml:name>Tremseh</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Hama</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HM</ctml:parentRef>
+    <ctml:wikiDataId>Q7697373</ctml:wikiDataId>
+    <ctml:latitude>35.27181000</ctml:latitude>
+    <ctml:longitude>36.50395000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104946" kind="city">
+    <ctml:name>Al Ghanţū</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Homs</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q310892</ctml:wikiDataId>
+    <ctml:latitude>34.82202000</ctml:latitude>
+    <ctml:longitude>36.69613000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104951" kind="city">
+    <ctml:name>Al Qaryatayn</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Homs</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q2603127</ctml:wikiDataId>
+    <ctml:latitude>34.22956000</ctml:latitude>
+    <ctml:longitude>37.24066000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104953" kind="admin2">
+    <ctml:name>Al Quşayr</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Homs</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q576368</ctml:wikiDataId>
+    <ctml:latitude>34.50780000</ctml:latitude>
+    <ctml:longitude>36.58029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104961" kind="city">
+    <ctml:name>Al-Rastan</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Homs</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q4115828</ctml:wikiDataId>
+    <ctml:latitude>34.87100000</ctml:latitude>
+    <ctml:longitude>36.77245000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104970" kind="admin2">
+    <ctml:name>Ar Rastan</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Homs</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q1867822</ctml:wikiDataId>
+    <ctml:latitude>34.92667000</ctml:latitude>
+    <ctml:longitude>36.73241000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105000" kind="city">
+    <ctml:name>Hisya</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Homs</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q5871229</ctml:wikiDataId>
+    <ctml:latitude>34.41197000</ctml:latitude>
+    <ctml:longitude>36.75867000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105016" kind="city">
+    <ctml:name>Kafr Lāhā</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Homs</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q3079261</ctml:wikiDataId>
+    <ctml:latitude>34.89469000</ctml:latitude>
+    <ctml:longitude>36.49582000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105035" kind="admin2">
+    <ctml:name>Mukharram al Fawqānī</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Homs</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q4120574</ctml:wikiDataId>
+    <ctml:latitude>34.81521000</ctml:latitude>
+    <ctml:longitude>37.08677000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105067" kind="city">
+    <ctml:name>Şadad</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Homs</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q3461076</ctml:wikiDataId>
+    <ctml:latitude>34.31248000</ctml:latitude>
+    <ctml:longitude>36.92562000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105052" kind="admin2">
+    <ctml:name>Tadmur</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Homs</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q5747</ctml:wikiDataId>
+    <ctml:latitude>34.56240000</ctml:latitude>
+    <ctml:longitude>38.28402000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105053" kind="city">
+    <ctml:name>Tadmur District</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Homs</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q4120562</ctml:wikiDataId>
+    <ctml:latitude>34.42401000</ctml:latitude>
+    <ctml:longitude>38.64580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105058" kind="city">
+    <ctml:name>Tallbīsah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Homs</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q3458895</ctml:wikiDataId>
+    <ctml:latitude>34.84072000</ctml:latitude>
+    <ctml:longitude>36.73092000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105059" kind="admin2">
+    <ctml:name>Tallkalakh</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Homs</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-HI</ctml:parentRef>
+    <ctml:wikiDataId>Q24341</ctml:wikiDataId>
+    <ctml:latitude>34.66842000</ctml:latitude>
+    <ctml:longitude>36.25995000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104942" kind="city">
+    <ctml:name>Ad Dānā</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q4120566</ctml:wikiDataId>
+    <ctml:latitude>36.21254000</ctml:latitude>
+    <ctml:longitude>36.76998000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104973" kind="admin2">
+    <ctml:name>Arīḩā</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q2631639</ctml:wikiDataId>
+    <ctml:latitude>35.81374000</ctml:latitude>
+    <ctml:longitude>36.60964000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104972" kind="city">
+    <ctml:name>Armanāz</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q168807</ctml:wikiDataId>
+    <ctml:latitude>36.08363000</ctml:latitude>
+    <ctml:longitude>36.50310000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104985" kind="city">
+    <ctml:name>Binnish</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q3012768</ctml:wikiDataId>
+    <ctml:latitude>35.95664000</ctml:latitude>
+    <ctml:longitude>36.71380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104989" kind="city">
+    <ctml:name>Darkūsh</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q5223803</ctml:wikiDataId>
+    <ctml:latitude>35.99180000</ctml:latitude>
+    <ctml:longitude>36.39361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104999" kind="city">
+    <ctml:name>Harem</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q4118364</ctml:wikiDataId>
+    <ctml:latitude>36.14014000</ctml:latitude>
+    <ctml:longitude>36.56535000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105078" kind="admin2">
+    <ctml:name>Ḩārim</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q771907</ctml:wikiDataId>
+    <ctml:latitude>36.21176000</ctml:latitude>
+    <ctml:longitude>36.52078000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105012" kind="city">
+    <ctml:name>Jisr al-Shughur</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q2332351</ctml:wikiDataId>
+    <ctml:latitude>35.87756000</ctml:latitude>
+    <ctml:longitude>36.32901000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105013" kind="admin2">
+    <ctml:name>Jisr ash Shughūr</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q798765</ctml:wikiDataId>
+    <ctml:latitude>35.81418000</ctml:latitude>
+    <ctml:longitude>36.31983000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105017" kind="city">
+    <ctml:name>Kafr Takhārīm</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q4120373</ctml:wikiDataId>
+    <ctml:latitude>36.11680000</ctml:latitude>
+    <ctml:longitude>36.51522000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105020" kind="city">
+    <ctml:name>Kafranbel</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q6346193</ctml:wikiDataId>
+    <ctml:latitude>35.61376000</ctml:latitude>
+    <ctml:longitude>36.56449000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105023" kind="city">
+    <ctml:name>Khān Shaykhūn</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q603516</ctml:wikiDataId>
+    <ctml:latitude>35.44208000</ctml:latitude>
+    <ctml:longitude>36.65095000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105031" kind="city">
+    <ctml:name>Ma‘arratmişrīn</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q825818</ctml:wikiDataId>
+    <ctml:latitude>36.01152000</ctml:latitude>
+    <ctml:longitude>36.67183000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105026" kind="city">
+    <ctml:name>Maarrat al-Nu'man</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q4118375</ctml:wikiDataId>
+    <ctml:latitude>35.53858000</ctml:latitude>
+    <ctml:longitude>36.79193000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105044" kind="city">
+    <ctml:name>Salqīn</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q1498128</ctml:wikiDataId>
+    <ctml:latitude>36.13865000</ctml:latitude>
+    <ctml:longitude>36.45244000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105046" kind="city">
+    <ctml:name>Sarāqib</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q1895761</ctml:wikiDataId>
+    <ctml:latitude>35.86447000</ctml:latitude>
+    <ctml:longitude>36.80591000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105045" kind="city">
+    <ctml:name>Sarmīn</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q1645039</ctml:wikiDataId>
+    <ctml:latitude>35.90403000</ctml:latitude>
+    <ctml:longitude>36.72501000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105054" kind="city">
+    <ctml:name>Taftanāz</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Idlib</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-ID</ctml:parentRef>
+    <ctml:wikiDataId>Q844598</ctml:wikiDataId>
+    <ctml:latitude>35.99832000</ctml:latitude>
+    <ctml:longitude>36.78579000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104959" kind="city">
+    <ctml:name>Al-Haffah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Latakia</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q2278356</ctml:wikiDataId>
+    <ctml:latitude>35.59687000</ctml:latitude>
+    <ctml:longitude>36.11198000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105007" kind="admin2">
+    <ctml:name>Jablah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Latakia</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q175923</ctml:wikiDataId>
+    <ctml:latitude>35.36211000</ctml:latitude>
+    <ctml:longitude>35.92759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105008" kind="city">
+    <ctml:name>Jableh</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Latakia</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q4115831</ctml:wikiDataId>
+    <ctml:latitude>35.29048000</ctml:latitude>
+    <ctml:longitude>36.04490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105021" kind="city">
+    <ctml:name>Kassab</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Latakia</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q1026301</ctml:wikiDataId>
+    <ctml:latitude>35.92639000</ctml:latitude>
+    <ctml:longitude>35.98970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105025" kind="city">
+    <ctml:name>Latakia District</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Latakia</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q2229628</ctml:wikiDataId>
+    <ctml:latitude>35.72426000</ctml:latitude>
+    <ctml:longitude>35.94150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105039" kind="city">
+    <ctml:name>Qardaha</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Latakia</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q2611794</ctml:wikiDataId>
+    <ctml:latitude>35.39593000</ctml:latitude>
+    <ctml:longitude>36.08603000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105071" kind="city">
+    <ctml:name>Şlinfah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Latakia</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q986334</ctml:wikiDataId>
+    <ctml:latitude>35.59822000</ctml:latitude>
+    <ctml:longitude>36.18770000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105081" kind="city">
+    <ctml:name>‘Irbīn</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q250663</ctml:wikiDataId>
+    <ctml:latitude>33.53719000</ctml:latitude>
+    <ctml:longitude>36.36635000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104947" kind="city">
+    <ctml:name>Al Kiswah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q2915767</ctml:wikiDataId>
+    <ctml:latitude>33.35810000</ctml:latitude>
+    <ctml:longitude>36.24190000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104954" kind="admin2">
+    <ctml:name>Al Quţayfah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q576368</ctml:wikiDataId>
+    <ctml:latitude>33.73848000</ctml:latitude>
+    <ctml:longitude>36.60071000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104965" kind="city">
+    <ctml:name>Al-Zabadani</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q4120510</ctml:wikiDataId>
+    <ctml:latitude>33.70819000</ctml:latitude>
+    <ctml:longitude>36.11198000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104968" kind="admin2">
+    <ctml:name>An Nabk</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q2317068</ctml:wikiDataId>
+    <ctml:latitude>34.02403000</ctml:latitude>
+    <ctml:longitude>36.72848000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104980" kind="admin2">
+    <ctml:name>At Tall</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q3266216</ctml:wikiDataId>
+    <ctml:latitude>33.61033000</ctml:latitude>
+    <ctml:longitude>36.31070000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104982" kind="admin2">
+    <ctml:name>Az Zabadānī</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q374768</ctml:wikiDataId>
+    <ctml:latitude>33.72488000</ctml:latitude>
+    <ctml:longitude>36.10050000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104995" kind="admin2">
+    <ctml:name>Dārayyā</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q1033066</ctml:wikiDataId>
+    <ctml:latitude>33.45835000</ctml:latitude>
+    <ctml:longitude>36.23256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-104991" kind="city">
+    <ctml:name>Dayr al ‘Aşāfīr</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q238217</ctml:wikiDataId>
+    <ctml:latitude>33.46585000</ctml:latitude>
+    <ctml:longitude>36.42044000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104994" kind="admin2">
+    <ctml:name>Douma</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q403446</ctml:wikiDataId>
+    <ctml:latitude>33.57175000</ctml:latitude>
+    <ctml:longitude>36.40270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105077" kind="city">
+    <ctml:name>Ḩarastā</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q2013262</ctml:wikiDataId>
+    <ctml:latitude>33.55869000</ctml:latitude>
+    <ctml:longitude>36.36515000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105009" kind="city">
+    <ctml:name>Jaramānā</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q195531</ctml:wikiDataId>
+    <ctml:latitude>33.48620000</ctml:latitude>
+    <ctml:longitude>36.34614000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105011" kind="city">
+    <ctml:name>Jayrūd</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q6167965</ctml:wikiDataId>
+    <ctml:latitude>33.80709000</ctml:latitude>
+    <ctml:longitude>36.73861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105032" kind="city">
+    <ctml:name>Ma‘lūlā</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q740804</ctml:wikiDataId>
+    <ctml:latitude>33.84529000</ctml:latitude>
+    <ctml:longitude>36.54514000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105033" kind="city">
+    <ctml:name>Medaya</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q3333478</ctml:wikiDataId>
+    <ctml:latitude>33.69032000</ctml:latitude>
+    <ctml:longitude>36.10354000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105041" kind="city">
+    <ctml:name>Qārah</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q1280049</ctml:wikiDataId>
+    <ctml:latitude>34.15558000</ctml:latitude>
+    <ctml:longitude>36.74284000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105040" kind="admin2">
+    <ctml:name>Qaţanā</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q1280049</ctml:wikiDataId>
+    <ctml:latitude>33.43757000</ctml:latitude>
+    <ctml:longitude>36.07888000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105070" kind="city">
+    <ctml:name>Şaydnāyā</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q2031428</ctml:wikiDataId>
+    <ctml:latitude>33.69473000</ctml:latitude>
+    <ctml:longitude>36.37146000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105065" kind="admin2">
+    <ctml:name>Yabrūd</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Rif Dimashq</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q172251</ctml:wikiDataId>
+    <ctml:latitude>33.96921000</ctml:latitude>
+    <ctml:longitude>36.65729000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104941" kind="admin2">
+    <ctml:name>Ad Duraykīsh</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Tartus</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q4120566</ctml:wikiDataId>
+    <ctml:latitude>34.89514000</ctml:latitude>
+    <ctml:longitude>36.14303000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-104987" kind="admin2">
+    <ctml:name>Bāniyās</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Tartus</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q263922</ctml:wikiDataId>
+    <ctml:latitude>35.18188000</ctml:latitude>
+    <ctml:longitude>35.94871000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105015" kind="city">
+    <ctml:name>Kaff al-Jaa</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Tartus</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q1721023</ctml:wikiDataId>
+    <ctml:latitude>35.08638000</ctml:latitude>
+    <ctml:longitude>36.20605000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105042" kind="city">
+    <ctml:name>Safita</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Tartus</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q4120580</ctml:wikiDataId>
+    <ctml:latitude>34.80419000</ctml:latitude>
+    <ctml:longitude>36.12293000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:SYR-105047" kind="admin2">
+    <ctml:name>Satita</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Tartus</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q1002557</ctml:wikiDataId>
+    <ctml:latitude>34.82099000</ctml:latitude>
+    <ctml:longitude>36.11773000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYR-105060" kind="city">
+    <ctml:name>Tartouss</ctml:name>
+    <ctml:country>SYR</ctml:country>
+    <ctml:admin1>Tartus</ctml:admin1>
+    <ctml:parentRef>place:admin1:SY-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q174916</ctml:wikiDataId>
+    <ctml:latitude>34.88902000</ctml:latitude>
+    <ctml:longitude>35.88659000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

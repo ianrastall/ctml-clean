@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:COD-17225" kind="city">
+    <ctml:name>Aketi</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Bas-Uélé</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q417523</ctml:wikiDataId>
+    <ctml:latitude>2.73877000</ctml:latitude>
+    <ctml:longitude>23.78326000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17232" kind="city">
+    <ctml:name>Bondo</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Bas-Uélé</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-BU</ctml:parentRef>
+    <ctml:wikiDataId>Q2909998</ctml:wikiDataId>
+    <ctml:latitude>3.81461000</ctml:latitude>
+    <ctml:longitude>23.68665000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17269" kind="city">
+    <ctml:name>Lisala</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Équateur</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-EQ</ctml:parentRef>
+    <ctml:wikiDataId>Q371532</ctml:wikiDataId>
+    <ctml:latitude>2.15127000</ctml:latitude>
+    <ctml:longitude>21.51672000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17274" kind="city">
+    <ctml:name>Lukolela</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Équateur</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-EQ</ctml:parentRef>
+    <ctml:wikiDataId>Q3267167</ctml:wikiDataId>
+    <ctml:latitude>-1.06046000</ctml:latitude>
+    <ctml:longitude>17.18210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17268" kind="city">
+    <ctml:name>Likasi</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Haut-Katanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-HK</ctml:parentRef>
+    <ctml:wikiDataId>Q18780</ctml:wikiDataId>
+    <ctml:latitude>-10.98303000</ctml:latitude>
+    <ctml:longitude>26.73840000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17235" kind="city">
+    <ctml:name>Bukama</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Haut-Lomami</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-HL</ctml:parentRef>
+    <ctml:wikiDataId>Q2915071</ctml:wikiDataId>
+    <ctml:latitude>-9.20443000</ctml:latitude>
+    <ctml:longitude>25.85475000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17291" kind="city">
+    <ctml:name>Wamba</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Haut-Uélé</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-HU</ctml:parentRef>
+    <ctml:wikiDataId>Q277966</ctml:wikiDataId>
+    <ctml:latitude>2.14838000</ctml:latitude>
+    <ctml:longitude>27.99466000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17292" kind="city">
+    <ctml:name>Watsa</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Haut-Uélé</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-HU</ctml:parentRef>
+    <ctml:wikiDataId>Q3566727</ctml:wikiDataId>
+    <ctml:latitude>3.03716000</ctml:latitude>
+    <ctml:longitude>29.53551000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17248" kind="city">
+    <ctml:name>Ilebo</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kasaï</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-KS</ctml:parentRef>
+    <ctml:wikiDataId>Q848403</ctml:wikiDataId>
+    <ctml:latitude>-4.33111000</ctml:latitude>
+    <ctml:longitude>20.58638000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17273" kind="city">
+    <ctml:name>Luebo</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kasaï</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-KS</ctml:parentRef>
+    <ctml:wikiDataId>Q187593</ctml:wikiDataId>
+    <ctml:latitude>-5.35218000</ctml:latitude>
+    <ctml:longitude>21.42192000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17284" kind="city">
+    <ctml:name>Mweka</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kasaï</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-KS</ctml:parentRef>
+    <ctml:wikiDataId>Q1024669</ctml:wikiDataId>
+    <ctml:latitude>-4.85187000</ctml:latitude>
+    <ctml:longitude>21.55950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:COD-17289" kind="admin2">
+    <ctml:name>Tshikapa</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kasaï</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-KS</ctml:parentRef>
+    <ctml:wikiDataId>Q277966</ctml:wikiDataId>
+    <ctml:latitude>-6.41621000</ctml:latitude>
+    <ctml:longitude>20.79995000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17243" kind="city">
+    <ctml:name>Gandajika</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kasaï Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q693554</ctml:wikiDataId>
+    <ctml:latitude>-6.74504000</ctml:latitude>
+    <ctml:longitude>23.95328000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17253" kind="city">
+    <ctml:name>Kabinda</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kasaï Oriental</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-KE</ctml:parentRef>
+    <ctml:wikiDataId>Q899873</ctml:wikiDataId>
+    <ctml:latitude>-6.13791000</ctml:latitude>
+    <ctml:longitude>24.48179000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17263" kind="city">
+    <ctml:name>Kinshasa</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kinshasa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-KN</ctml:parentRef>
+    <ctml:wikiDataId>Q3838</ctml:wikiDataId>
+    <ctml:latitude>-4.32758000</ctml:latitude>
+    <ctml:longitude>15.31357000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17231" kind="city">
+    <ctml:name>Boma</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kongo Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q223917</ctml:wikiDataId>
+    <ctml:latitude>-5.85098000</ctml:latitude>
+    <ctml:longitude>13.05364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17258" kind="city">
+    <ctml:name>Kasangulu</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kongo Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q3193663</ctml:wikiDataId>
+    <ctml:latitude>-4.58330000</ctml:latitude>
+    <ctml:longitude>15.16554000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17280" kind="city">
+    <ctml:name>Mbanza-Ngungu</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kongo Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q857577</ctml:wikiDataId>
+    <ctml:latitude>-5.25837000</ctml:latitude>
+    <ctml:longitude>14.85838000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17282" kind="city">
+    <ctml:name>Moanda</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kongo Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q1024669</ctml:wikiDataId>
+    <ctml:latitude>-5.92753000</ctml:latitude>
+    <ctml:longitude>12.37148000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17288" kind="city">
+    <ctml:name>Tshela</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kongo Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-BC</ctml:parentRef>
+    <ctml:wikiDataId>Q3090648</ctml:wikiDataId>
+    <ctml:latitude>-4.99707000</ctml:latitude>
+    <ctml:longitude>12.94840000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17260" kind="city">
+    <ctml:name>Kasongo-Lunda</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kwango</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-KG</ctml:parentRef>
+    <ctml:wikiDataId>Q3193717</ctml:wikiDataId>
+    <ctml:latitude>-6.47833000</ctml:latitude>
+    <ctml:longitude>16.81735000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17237" kind="city">
+    <ctml:name>Bulungu</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kwilu</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-KL</ctml:parentRef>
+    <ctml:wikiDataId>Q383736</ctml:wikiDataId>
+    <ctml:latitude>-4.54437000</ctml:latitude>
+    <ctml:longitude>18.60364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17261" kind="city">
+    <ctml:name>Kikwit</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kwilu</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-KL</ctml:parentRef>
+    <ctml:wikiDataId>Q261887</ctml:wikiDataId>
+    <ctml:latitude>-5.04098000</ctml:latitude>
+    <ctml:longitude>18.81619000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17276" kind="city">
+    <ctml:name>Mangai</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Kwilu</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-KL</ctml:parentRef>
+    <ctml:wikiDataId>Q6748616</ctml:wikiDataId>
+    <ctml:latitude>-4.02328000</ctml:latitude>
+    <ctml:longitude>19.53385000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17271" kind="city">
+    <ctml:name>Lubao</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Lomami</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q1006137</ctml:wikiDataId>
+    <ctml:latitude>-5.38771000</ctml:latitude>
+    <ctml:longitude>25.74885000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17285" kind="city">
+    <ctml:name>Mwene-Ditu</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Lomami</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q969880</ctml:wikiDataId>
+    <ctml:latitude>-7.00906000</ctml:latitude>
+    <ctml:longitude>23.45278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-153949" kind="city">
+    <ctml:name>Kasaji</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Lualaba</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-LU</ctml:parentRef>
+    <ctml:wikiDataId>Q22536905</ctml:wikiDataId>
+    <ctml:latitude>-10.38342000</ctml:latitude>
+    <ctml:longitude>23.44987000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:COD-153948" kind="admin2">
+    <ctml:name>Kolwezi</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Lualaba</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-LU</ctml:parentRef>
+    <ctml:wikiDataId>Q271404</ctml:wikiDataId>
+    <ctml:latitude>-10.71666700</ctml:latitude>
+    <ctml:longitude>25.46666700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17230" kind="city">
+    <ctml:name>Bolobo</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Mai-Ndombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q2594437</ctml:wikiDataId>
+    <ctml:latitude>-2.15800000</ctml:latitude>
+    <ctml:longitude>16.23249000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17283" kind="city">
+    <ctml:name>Mushie</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Mai-Ndombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q1024669</ctml:wikiDataId>
+    <ctml:latitude>-3.01728000</ctml:latitude>
+    <ctml:longitude>16.92238000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17286" kind="city">
+    <ctml:name>Nioki</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Mai-Ndombe</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-MN</ctml:parentRef>
+    <ctml:wikiDataId>Q969880</ctml:wikiDataId>
+    <ctml:latitude>-2.72037000</ctml:latitude>
+    <ctml:longitude>17.69001000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17257" kind="city">
+    <ctml:name>Kampene</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Maniema</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q581179</ctml:wikiDataId>
+    <ctml:latitude>-3.59678000</ctml:latitude>
+    <ctml:longitude>26.66715000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17259" kind="city">
+    <ctml:name>Kasongo</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Maniema</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q587152</ctml:wikiDataId>
+    <ctml:latitude>-4.42741000</ctml:latitude>
+    <ctml:longitude>26.66656000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17238" kind="city">
+    <ctml:name>Bumba</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Mongala</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q1004822</ctml:wikiDataId>
+    <ctml:latitude>2.18771000</ctml:latitude>
+    <ctml:longitude>22.46827000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17228" kind="city">
+    <ctml:name>Beni</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Nord-Kivu</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-NK</ctml:parentRef>
+    <ctml:wikiDataId>Q1101913</ctml:wikiDataId>
+    <ctml:latitude>0.49113000</ctml:latitude>
+    <ctml:longitude>29.47306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17242" kind="city">
+    <ctml:name>Butembo</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Nord-Kivu</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-NK</ctml:parentRef>
+    <ctml:wikiDataId>Q518785</ctml:wikiDataId>
+    <ctml:latitude>0.14164000</ctml:latitude>
+    <ctml:longitude>29.29117000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17287" kind="city">
+    <ctml:name>Sake</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Nord-Kivu</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-NK</ctml:parentRef>
+    <ctml:wikiDataId>Q84082</ctml:wikiDataId>
+    <ctml:latitude>-1.57386000</ctml:latitude>
+    <ctml:longitude>29.04339000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17234" kind="city">
+    <ctml:name>Bosobolo</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Nord-Ubangi</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-NU</ctml:parentRef>
+    <ctml:wikiDataId>Q2911484</ctml:wikiDataId>
+    <ctml:latitude>4.18980000</ctml:latitude>
+    <ctml:longitude>19.88330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17240" kind="city">
+    <ctml:name>Businga</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Nord-Ubangi</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-NU</ctml:parentRef>
+    <ctml:wikiDataId>Q581003</ctml:wikiDataId>
+    <ctml:latitude>3.33863000</ctml:latitude>
+    <ctml:longitude>20.88577000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17270" kind="city">
+    <ctml:name>Lodja</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Sankuru</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q1006137</ctml:wikiDataId>
+    <ctml:latitude>-3.52105000</ctml:latitude>
+    <ctml:longitude>23.60050000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17252" kind="city">
+    <ctml:name>Kabare</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Sud-Kivu</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-SK</ctml:parentRef>
+    <ctml:wikiDataId>Q899873</ctml:wikiDataId>
+    <ctml:latitude>-2.49682000</ctml:latitude>
+    <ctml:longitude>28.79081000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17290" kind="city">
+    <ctml:name>Uvira</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Sud-Kivu</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-SK</ctml:parentRef>
+    <ctml:wikiDataId>Q277966</ctml:wikiDataId>
+    <ctml:latitude>-3.39534000</ctml:latitude>
+    <ctml:longitude>29.13779000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17233" kind="city">
+    <ctml:name>Bongandanga</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Sud-Ubangi</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2909998</ctml:wikiDataId>
+    <ctml:latitude>1.50695000</ctml:latitude>
+    <ctml:longitude>21.07260000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17267" kind="city">
+    <ctml:name>Libenge</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Sud-Ubangi</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q3088094</ctml:wikiDataId>
+    <ctml:latitude>3.65332000</ctml:latitude>
+    <ctml:longitude>18.63566000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17251" kind="city">
+    <ctml:name>Kabalo</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Tanganyika</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q899873</ctml:wikiDataId>
+    <ctml:latitude>-6.05255000</ctml:latitude>
+    <ctml:longitude>26.91430000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17254" kind="city">
+    <ctml:name>Kalemie</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Tanganyika</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q732801</ctml:wikiDataId>
+    <ctml:latitude>-5.94749000</ctml:latitude>
+    <ctml:longitude>29.19471000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17266" kind="city">
+    <ctml:name>Kongolo</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Tanganyika</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-TA</ctml:parentRef>
+    <ctml:wikiDataId>Q3088094</ctml:wikiDataId>
+    <ctml:latitude>-5.38532000</ctml:latitude>
+    <ctml:longitude>27.00029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17227" kind="city">
+    <ctml:name>Basoko</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Tshopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q1101913</ctml:wikiDataId>
+    <ctml:latitude>1.23909000</ctml:latitude>
+    <ctml:longitude>23.61598000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COD-17293" kind="city">
+    <ctml:name>Yangambi</ctml:name>
+    <ctml:country>COD</ctml:country>
+    <ctml:admin1>Tshopo</ctml:admin1>
+    <ctml:parentRef>place:admin1:CD-TO</ctml:parentRef>
+    <ctml:wikiDataId>Q1102132</ctml:wikiDataId>
+    <ctml:latitude>0.76755000</ctml:latitude>
+    <ctml:longitude>24.43973000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

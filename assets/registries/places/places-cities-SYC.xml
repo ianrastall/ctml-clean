@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SYC-160109" kind="city">
+    <ctml:name>Anse Etoile</ctml:name>
+    <ctml:country>SYC</ctml:country>
+    <ctml:admin1>Anse Etoile</ctml:admin1>
+    <ctml:parentRef>place:admin1:SC-03</ctml:parentRef>
+    <ctml:wikiDataId>Q387293</ctml:wikiDataId>
+    <ctml:latitude>-4.59166667</ctml:latitude>
+    <ctml:longitude>55.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SYC-102913" kind="city">
+    <ctml:name>Victoria</ctml:name>
+    <ctml:country>SYC</ctml:country>
+    <ctml:admin1>La Rivière Anglaise</ctml:admin1>
+    <ctml:parentRef>place:admin1:SC-16</ctml:parentRef>
+    <ctml:wikiDataId>Q3940</ctml:wikiDataId>
+    <ctml:latitude>-4.62001000</ctml:latitude>
+    <ctml:longitude>55.45501000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

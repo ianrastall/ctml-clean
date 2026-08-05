@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:VIR-149573" kind="city">
+    <ctml:name>Christiansted</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Croix</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-SC</ctml:parentRef>
+    <ctml:wikiDataId>Q994719</ctml:wikiDataId>
+    <ctml:latitude>17.74403640</ctml:latitude>
+    <ctml:longitude>-64.71060860</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149574" kind="city">
+    <ctml:name>East End</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Croix</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-SC</ctml:parentRef>
+    <ctml:wikiDataId>Q31912954</ctml:wikiDataId>
+    <ctml:latitude>17.75238820</ctml:latitude>
+    <ctml:longitude>-64.67030100</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149575" kind="city">
+    <ctml:name>Frederiksted</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Croix</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-SC</ctml:parentRef>
+    <ctml:wikiDataId>Q692376</ctml:wikiDataId>
+    <ctml:latitude>17.71246910</ctml:latitude>
+    <ctml:longitude>-64.88671920</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149572" kind="city">
+    <ctml:name>Good Hope</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Croix</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-SC</ctml:parentRef>
+    <ctml:wikiDataId>Q5582660</ctml:wikiDataId>
+    <ctml:latitude>17.72234420</ctml:latitude>
+    <ctml:longitude>-64.71724940</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149576" kind="city">
+    <ctml:name>Northcentral</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Croix</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-SC</ctml:parentRef>
+    <ctml:wikiDataId>Q31972154</ctml:wikiDataId>
+    <ctml:latitude>17.75011450</ctml:latitude>
+    <ctml:longitude>-64.82384910</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149577" kind="city">
+    <ctml:name>Northwest</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Croix</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-SC</ctml:parentRef>
+    <ctml:wikiDataId>Q11114344</ctml:wikiDataId>
+    <ctml:latitude>17.73827820</ctml:latitude>
+    <ctml:longitude>-64.89063470</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149579" kind="city">
+    <ctml:name>Southcentral</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Croix</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-SC</ctml:parentRef>
+    <ctml:wikiDataId>Q2304377</ctml:wikiDataId>
+    <ctml:latitude>17.70649170</ctml:latitude>
+    <ctml:longitude>-64.81448650</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149580" kind="city">
+    <ctml:name>Southwest</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Croix</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-SC</ctml:parentRef>
+    <ctml:wikiDataId>Q11114344</ctml:wikiDataId>
+    <ctml:latitude>17.69177870</ctml:latitude>
+    <ctml:longitude>-64.93559390</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149569" kind="city">
+    <ctml:name>Coral Bay</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint John</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q31908423</ctml:wikiDataId>
+    <ctml:latitude>18.34800890</ctml:latitude>
+    <ctml:longitude>-64.72196820</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149571" kind="city">
+    <ctml:name>East End</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint John</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q31912957</ctml:wikiDataId>
+    <ctml:latitude>18.34036470</ctml:latitude>
+    <ctml:longitude>-64.68062660</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149561" kind="city">
+    <ctml:name>Charlotte Amalie</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Thomas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-ST</ctml:parentRef>
+    <ctml:wikiDataId>Q51681</ctml:wikiDataId>
+    <ctml:latitude>18.34127610</ctml:latitude>
+    <ctml:longitude>-64.94838690</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149562" kind="city">
+    <ctml:name>East End</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Thomas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-ST</ctml:parentRef>
+    <ctml:wikiDataId>Q20828420</ctml:wikiDataId>
+    <ctml:latitude>18.32901620</ctml:latitude>
+    <ctml:longitude>-64.87047310</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149563" kind="city">
+    <ctml:name>Northside</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Thomas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-ST</ctml:parentRef>
+    <ctml:wikiDataId>Q20828411</ctml:wikiDataId>
+    <ctml:latitude>18.37380810</ctml:latitude>
+    <ctml:longitude>-64.95589090</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149564" kind="city">
+    <ctml:name>Southside</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Thomas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-ST</ctml:parentRef>
+    <ctml:wikiDataId>Q32023170</ctml:wikiDataId>
+    <ctml:latitude>18.30529120</ctml:latitude>
+    <ctml:longitude>-64.91724450</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149565" kind="city">
+    <ctml:name>Tutu</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Thomas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-ST</ctml:parentRef>
+    <ctml:wikiDataId>Q7857046</ctml:wikiDataId>
+    <ctml:latitude>18.33884270</ctml:latitude>
+    <ctml:longitude>-64.89530720</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149566" kind="city">
+    <ctml:name>Water Island</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Thomas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-ST</ctml:parentRef>
+    <ctml:wikiDataId>Q679803</ctml:wikiDataId>
+    <ctml:latitude>18.32086530</ctml:latitude>
+    <ctml:longitude>-64.96932630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VIR-149567" kind="city">
+    <ctml:name>West End</ctml:name>
+    <ctml:country>VIR</ctml:country>
+    <ctml:admin1>Saint Thomas</ctml:admin1>
+    <ctml:parentRef>place:admin1:VI-ST</ctml:parentRef>
+    <ctml:wikiDataId>Q20828416</ctml:wikiDataId>
+    <ctml:latitude>18.37243670</ctml:latitude>
+    <ctml:longitude>-65.06490130</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

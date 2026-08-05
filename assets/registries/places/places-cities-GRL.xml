@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:GRL-154930" kind="city">
+    <ctml:name>Ilulissat</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Avannaata</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q191047</ctml:wikiDataId>
+    <ctml:latitude>69.22794880</ctml:latitude>
+    <ctml:longitude>-51.12805390</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154931" kind="city">
+    <ctml:name>Qaanaaq</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Avannaata</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q223314</ctml:wikiDataId>
+    <ctml:latitude>77.46740090</ctml:latitude>
+    <ctml:longitude>-69.24837110</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154933" kind="city">
+    <ctml:name>Upernavik</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Avannaata</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q303160</ctml:wikiDataId>
+    <ctml:latitude>72.78686030</ctml:latitude>
+    <ctml:longitude>-56.16236710</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154932" kind="city">
+    <ctml:name>Uummannaq</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Avannaata</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q747898</ctml:wikiDataId>
+    <ctml:latitude>70.67868970</ctml:latitude>
+    <ctml:longitude>-52.14978240</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154934" kind="city">
+    <ctml:name>Nanortalik</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Kujalleq</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-KU</ctml:parentRef>
+    <ctml:wikiDataId>Q855324</ctml:wikiDataId>
+    <ctml:latitude>60.14308250</ctml:latitude>
+    <ctml:longitude>-45.25629050</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154935" kind="city">
+    <ctml:name>Narsaq</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Kujalleq</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-KU</ctml:parentRef>
+    <ctml:wikiDataId>Q432397</ctml:wikiDataId>
+    <ctml:latitude>60.91140780</ctml:latitude>
+    <ctml:longitude>-46.06857080</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154936" kind="city">
+    <ctml:name>Qaqortoq</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Kujalleq</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-KU</ctml:parentRef>
+    <ctml:wikiDataId>Q221203</ctml:wikiDataId>
+    <ctml:latitude>60.71959600</ctml:latitude>
+    <ctml:longitude>-46.05481630</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154937" kind="city">
+    <ctml:name>Aasiaat</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Qeqertalik</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-QT</ctml:parentRef>
+    <ctml:wikiDataId>Q211218</ctml:wikiDataId>
+    <ctml:latitude>68.70762800</ctml:latitude>
+    <ctml:longitude>-52.89951360</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154938" kind="city">
+    <ctml:name>Kangaatsiaq</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Qeqertalik</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-QT</ctml:parentRef>
+    <ctml:wikiDataId>Q612160</ctml:wikiDataId>
+    <ctml:latitude>68.30818450</ctml:latitude>
+    <ctml:longitude>-53.47685330</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154939" kind="city">
+    <ctml:name>Qasigiannguit</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Qeqertalik</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-QT</ctml:parentRef>
+    <ctml:wikiDataId>Q950991</ctml:wikiDataId>
+    <ctml:latitude>68.81986320</ctml:latitude>
+    <ctml:longitude>-51.20916370</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154940" kind="city">
+    <ctml:name>Qeqertarsuaq</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Qeqertalik</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-QT</ctml:parentRef>
+    <ctml:wikiDataId>Q847668</ctml:wikiDataId>
+    <ctml:latitude>69.24430370</ctml:latitude>
+    <ctml:longitude>-53.56440060</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154941" kind="city">
+    <ctml:name>Maniitsoq</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Qeqqata</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-QE</ctml:parentRef>
+    <ctml:wikiDataId>Q847691</ctml:wikiDataId>
+    <ctml:latitude>65.40657990</ctml:latitude>
+    <ctml:longitude>-52.94225730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154942" kind="city">
+    <ctml:name>Sisimiut</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Qeqqata</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-QE</ctml:parentRef>
+    <ctml:wikiDataId>Q208098</ctml:wikiDataId>
+    <ctml:latitude>66.93945740</ctml:latitude>
+    <ctml:longitude>-53.74567660</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154943" kind="city">
+    <ctml:name>Ammassalik</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Sermersooq</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q2139799</ctml:wikiDataId>
+    <ctml:latitude>65.61452670</ctml:latitude>
+    <ctml:longitude>-37.65014660</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154944" kind="city">
+    <ctml:name>Ittoqqortoormiit</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Sermersooq</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q321279</ctml:wikiDataId>
+    <ctml:latitude>70.48634210</ctml:latitude>
+    <ctml:longitude>-21.97986600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154945" kind="city">
+    <ctml:name>Ivittuut</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Sermersooq</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q950978</ctml:wikiDataId>
+    <ctml:latitude>61.20651840</ctml:latitude>
+    <ctml:longitude>-48.18198510</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154946" kind="city">
+    <ctml:name>Nuuk</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Sermersooq</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q226</ctml:wikiDataId>
+    <ctml:latitude>64.17910090</ctml:latitude>
+    <ctml:longitude>-51.74800910</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GRL-154947" kind="city">
+    <ctml:name>Paamiut</ctml:name>
+    <ctml:country>GRL</ctml:country>
+    <ctml:admin1>Sermersooq</ctml:admin1>
+    <ctml:parentRef>place:admin1:GL-SM</ctml:parentRef>
+    <ctml:wikiDataId>Q545767</ctml:wikiDataId>
+    <ctml:latitude>62.00259620</ctml:latitude>
+    <ctml:longitude>-49.70519590</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

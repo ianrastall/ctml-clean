@@ -1,0 +1,4053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:PAK-85368" kind="admin2">
+    <ctml:name>Bhimbar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Azad Kashmir</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-JK</ctml:parentRef>
+    <ctml:wikiDataId>Q3631249</ctml:wikiDataId>
+    <ctml:latitude>32.97465000</ctml:latitude>
+    <ctml:longitude>74.07846000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85562" kind="admin2">
+    <ctml:name>Kotli</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Azad Kashmir</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-JK</ctml:parentRef>
+    <ctml:wikiDataId>Q2586558</ctml:wikiDataId>
+    <ctml:latitude>33.51836000</ctml:latitude>
+    <ctml:longitude>73.90220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85563" kind="city">
+    <ctml:name>Kotli District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Azad Kashmir</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-JK</ctml:parentRef>
+    <ctml:wikiDataId>Q2571465</ctml:wikiDataId>
+    <ctml:latitude>33.44559000</ctml:latitude>
+    <ctml:longitude>73.91557000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85614" kind="city">
+    <ctml:name>Mirpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Azad Kashmir</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-JK</ctml:parentRef>
+    <ctml:wikiDataId>Q2571434</ctml:wikiDataId>
+    <ctml:latitude>33.21556000</ctml:latitude>
+    <ctml:longitude>73.75144000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85643" kind="admin2">
+    <ctml:name>New Mirpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Azad Kashmir</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-JK</ctml:parentRef>
+    <ctml:wikiDataId>Q2579925</ctml:wikiDataId>
+    <ctml:latitude>33.14782000</ctml:latitude>
+    <ctml:longitude>73.75187000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85682" kind="admin2">
+    <ctml:name>Rawala Kot</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Azad Kashmir</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-JK</ctml:parentRef>
+    <ctml:wikiDataId>Q3246396</ctml:wikiDataId>
+    <ctml:latitude>33.85782000</ctml:latitude>
+    <ctml:longitude>73.76043000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85334" kind="city">
+    <ctml:name>Alik Ghund</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2475251</ctml:wikiDataId>
+    <ctml:latitude>30.48976000</ctml:latitude>
+    <ctml:longitude>67.52177000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85342" kind="city">
+    <ctml:name>Awārān</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q250800</ctml:wikiDataId>
+    <ctml:latitude>26.21157000</ctml:latitude>
+    <ctml:longitude>65.42944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85353" kind="admin2">
+    <ctml:name>Barkhan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2640339</ctml:wikiDataId>
+    <ctml:latitude>29.89773000</ctml:latitude>
+    <ctml:longitude>69.52558000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85375" kind="city">
+    <ctml:name>Bārkhān District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q250810</ctml:wikiDataId>
+    <ctml:latitude>29.98482000</ctml:latitude>
+    <ctml:longitude>69.69944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85360" kind="city">
+    <ctml:name>Bela</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q815082</ctml:wikiDataId>
+    <ctml:latitude>26.22718000</ctml:latitude>
+    <ctml:longitude>66.31178000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85362" kind="city">
+    <ctml:name>Bhag</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q815082</ctml:wikiDataId>
+    <ctml:latitude>29.04174000</ctml:latitude>
+    <ctml:longitude>67.82394000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85401" kind="city">
+    <ctml:name>Chāgai</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q276717</ctml:wikiDataId>
+    <ctml:latitude>28.98765000</ctml:latitude>
+    <ctml:longitude>63.59087000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85385" kind="city">
+    <ctml:name>Chaman</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1017644</ctml:wikiDataId>
+    <ctml:latitude>30.91769000</ctml:latitude>
+    <ctml:longitude>66.45259000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85397" kind="city">
+    <ctml:name>Chowki Jamali</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q3311334</ctml:wikiDataId>
+    <ctml:latitude>28.01944000</ctml:latitude>
+    <ctml:longitude>67.92083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85402" kind="city">
+    <ctml:name>Dadhar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q254504</ctml:wikiDataId>
+    <ctml:latitude>29.47489000</ctml:latitude>
+    <ctml:longitude>67.65167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85406" kind="admin2">
+    <ctml:name>Dalbandin</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q3235682</ctml:wikiDataId>
+    <ctml:latitude>28.88846000</ctml:latitude>
+    <ctml:longitude>64.40616000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85416" kind="admin2">
+    <ctml:name>Dera Bugti</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2989478</ctml:wikiDataId>
+    <ctml:latitude>29.03619000</ctml:latitude>
+    <ctml:longitude>69.15849000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85417" kind="city">
+    <ctml:name>Dera Bugti District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2315565</ctml:wikiDataId>
+    <ctml:latitude>28.94250000</ctml:latitude>
+    <ctml:longitude>69.06883000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85432" kind="city">
+    <ctml:name>Duki</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q3249928</ctml:wikiDataId>
+    <ctml:latitude>30.15307000</ctml:latitude>
+    <ctml:longitude>68.57323000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85442" kind="city">
+    <ctml:name>Gadani</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q984103</ctml:wikiDataId>
+    <ctml:latitude>25.11879000</ctml:latitude>
+    <ctml:longitude>66.73219000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85445" kind="city">
+    <ctml:name>Garhi Khairo</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q984103</ctml:wikiDataId>
+    <ctml:latitude>28.06029000</ctml:latitude>
+    <ctml:longitude>67.98033000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85459" kind="admin2">
+    <ctml:name>Gwadar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q580533</ctml:wikiDataId>
+    <ctml:latitude>25.12163000</ctml:latitude>
+    <ctml:longitude>62.32541000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85465" kind="city">
+    <ctml:name>Harnai</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2995546</ctml:wikiDataId>
+    <ctml:latitude>30.10077000</ctml:latitude>
+    <ctml:longitude>67.93824000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85497" kind="city">
+    <ctml:name>Jāfarābād</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q595921</ctml:wikiDataId>
+    <ctml:latitude>28.30104000</ctml:latitude>
+    <ctml:longitude>68.19783000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85489" kind="city">
+    <ctml:name>Jhal Magsi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2633556</ctml:wikiDataId>
+    <ctml:latitude>28.36881000</ctml:latitude>
+    <ctml:longitude>67.54300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85495" kind="city">
+    <ctml:name>Jiwani</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2621751</ctml:wikiDataId>
+    <ctml:latitude>25.04852000</ctml:latitude>
+    <ctml:longitude>61.74573000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85507" kind="admin2">
+    <ctml:name>Kalat</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1542553</ctml:wikiDataId>
+    <ctml:latitude>29.02663000</ctml:latitude>
+    <ctml:longitude>66.59361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85511" kind="city">
+    <ctml:name>Kalāt District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q611142</ctml:wikiDataId>
+    <ctml:latitude>28.88242000</ctml:latitude>
+    <ctml:longitude>66.53165000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85530" kind="city">
+    <ctml:name>Khadan Khak</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2625917</ctml:wikiDataId>
+    <ctml:latitude>30.75236000</ctml:latitude>
+    <ctml:longitude>67.71133000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85543" kind="admin2">
+    <ctml:name>Kharan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1740586</ctml:wikiDataId>
+    <ctml:latitude>28.58459000</ctml:latitude>
+    <ctml:longitude>65.41501000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85550" kind="city">
+    <ctml:name>Khārān District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q537334</ctml:wikiDataId>
+    <ctml:latitude>27.96308000</ctml:latitude>
+    <ctml:longitude>64.57113000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85548" kind="city">
+    <ctml:name>Khuzdar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1249939</ctml:wikiDataId>
+    <ctml:latitude>27.81193000</ctml:latitude>
+    <ctml:longitude>66.61096000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85549" kind="city">
+    <ctml:name>Khuzdār District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2642523</ctml:wikiDataId>
+    <ctml:latitude>27.48680000</ctml:latitude>
+    <ctml:longitude>66.58703000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85552" kind="admin2">
+    <ctml:name>Kohlu</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2633568</ctml:wikiDataId>
+    <ctml:latitude>29.89651000</ctml:latitude>
+    <ctml:longitude>69.25324000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85556" kind="city">
+    <ctml:name>Kot Malik Barkhurdar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1017084</ctml:wikiDataId>
+    <ctml:latitude>30.20379000</ctml:latitude>
+    <ctml:longitude>66.98723000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85579" kind="city">
+    <ctml:name>Lasbela</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q44942</ctml:wikiDataId>
+    <ctml:latitude>25.78634000</ctml:latitude>
+    <ctml:longitude>66.60330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85584" kind="admin2">
+    <ctml:name>Loralai</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2663236</ctml:wikiDataId>
+    <ctml:latitude>30.37051000</ctml:latitude>
+    <ctml:longitude>68.59795000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85585" kind="city">
+    <ctml:name>Loralai District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2281268</ctml:wikiDataId>
+    <ctml:latitude>30.30253000</ctml:latitude>
+    <ctml:longitude>68.84636000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85586" kind="city">
+    <ctml:name>Mach</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q639806</ctml:wikiDataId>
+    <ctml:latitude>29.86371000</ctml:latitude>
+    <ctml:longitude>67.33018000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85599" kind="admin2">
+    <ctml:name>Mastung</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2592655</ctml:wikiDataId>
+    <ctml:latitude>29.79966000</ctml:latitude>
+    <ctml:longitude>66.84553000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85600" kind="city">
+    <ctml:name>Mastung District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1026625</ctml:wikiDataId>
+    <ctml:latitude>29.79455000</ctml:latitude>
+    <ctml:longitude>66.72068000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85605" kind="city">
+    <ctml:name>Mehrabpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q112453</ctml:wikiDataId>
+    <ctml:latitude>28.10773000</ctml:latitude>
+    <ctml:longitude>68.02554000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85629" kind="city">
+    <ctml:name>Mūsa Khel</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q461307</ctml:wikiDataId>
+    <ctml:latitude>30.84937000</ctml:latitude>
+    <ctml:longitude>69.90069000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85635" kind="city">
+    <ctml:name>Nasīrābād</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2315447</ctml:wikiDataId>
+    <ctml:latitude>28.62643000</ctml:latitude>
+    <ctml:longitude>68.12925000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85648" kind="city">
+    <ctml:name>Nushki</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q34759319</ctml:wikiDataId>
+    <ctml:latitude>29.55218000</ctml:latitude>
+    <ctml:longitude>66.02288000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85651" kind="city">
+    <ctml:name>Ormara</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1188222</ctml:wikiDataId>
+    <ctml:latitude>25.21018000</ctml:latitude>
+    <ctml:longitude>64.63626000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85656" kind="city">
+    <ctml:name>Panjgūr</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2428944</ctml:wikiDataId>
+    <ctml:latitude>26.73750000</ctml:latitude>
+    <ctml:longitude>64.20380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85658" kind="city">
+    <ctml:name>Pasni</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q715199</ctml:wikiDataId>
+    <ctml:latitude>25.26302000</ctml:latitude>
+    <ctml:longitude>63.46921000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85668" kind="admin2">
+    <ctml:name>Pishin</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2449537</ctml:wikiDataId>
+    <ctml:latitude>30.58176000</ctml:latitude>
+    <ctml:longitude>66.99406000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85671" kind="city">
+    <ctml:name>Qila Saifullāh</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q7265783</ctml:wikiDataId>
+    <ctml:latitude>30.95392000</ctml:latitude>
+    <ctml:longitude>68.33996000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85673" kind="city">
+    <ctml:name>Quetta District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2315549</ctml:wikiDataId>
+    <ctml:latitude>30.17458000</ctml:latitude>
+    <ctml:longitude>66.76203000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85721" kind="admin2">
+    <ctml:name>Sibi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2364754</ctml:wikiDataId>
+    <ctml:latitude>29.54299000</ctml:latitude>
+    <ctml:longitude>67.87726000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85727" kind="city">
+    <ctml:name>Sohbatpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q7635235</ctml:wikiDataId>
+    <ctml:latitude>28.52038000</ctml:latitude>
+    <ctml:longitude>68.54298000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85731" kind="city">
+    <ctml:name>Surab</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q868631</ctml:wikiDataId>
+    <ctml:latitude>28.49276000</ctml:latitude>
+    <ctml:longitude>66.25999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85755" kind="admin2">
+    <ctml:name>Turbat</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2977093</ctml:wikiDataId>
+    <ctml:latitude>26.00122000</ctml:latitude>
+    <ctml:longitude>63.04849000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85760" kind="city">
+    <ctml:name>Usta Muhammad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q10388486</ctml:wikiDataId>
+    <ctml:latitude>28.17723000</ctml:latitude>
+    <ctml:longitude>68.04367000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85761" kind="admin2">
+    <ctml:name>Uthal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2581505</ctml:wikiDataId>
+    <ctml:latitude>25.80722000</ctml:latitude>
+    <ctml:longitude>66.62194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85771" kind="admin2">
+    <ctml:name>Zhob</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2665223</ctml:wikiDataId>
+    <ctml:latitude>31.34082000</ctml:latitude>
+    <ctml:longitude>69.44930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85772" kind="city">
+    <ctml:name>Zhob District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2281313</ctml:wikiDataId>
+    <ctml:latitude>31.36444000</ctml:latitude>
+    <ctml:longitude>69.20749000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85773" kind="admin2">
+    <ctml:name>Ziarat</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1968523</ctml:wikiDataId>
+    <ctml:latitude>30.38244000</ctml:latitude>
+    <ctml:longitude>67.72562000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85774" kind="city">
+    <ctml:name>Ziārat District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Balochistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2315423</ctml:wikiDataId>
+    <ctml:latitude>30.43591000</ctml:latitude>
+    <ctml:longitude>67.50962000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85352" kind="city">
+    <ctml:name>Barishal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Gilgit-Baltistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-GB</ctml:parentRef>
+    <ctml:wikiDataId>Q806916</ctml:wikiDataId>
+    <ctml:latitude>36.32162000</ctml:latitude>
+    <ctml:longitude>74.69502000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85724" kind="admin2">
+    <ctml:name>Skardu</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Gilgit-Baltistan</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-GB</ctml:parentRef>
+    <ctml:wikiDataId>Q976955</ctml:wikiDataId>
+    <ctml:latitude>35.29787000</ctml:latitude>
+    <ctml:longitude>75.63372000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85475" kind="city">
+    <ctml:name>Islamabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Islamabad</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-IS</ctml:parentRef>
+    <ctml:wikiDataId>Q1362</ctml:wikiDataId>
+    <ctml:latitude>33.72148000</ctml:latitude>
+    <ctml:longitude>73.04329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85329" kind="admin2">
+    <ctml:name>Abbottabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q170315</ctml:wikiDataId>
+    <ctml:latitude>34.14630000</ctml:latitude>
+    <ctml:longitude>73.21168000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85333" kind="city">
+    <ctml:name>Akora</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2475251</ctml:wikiDataId>
+    <ctml:latitude>34.00337000</ctml:latitude>
+    <ctml:longitude>72.12561000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85336" kind="city">
+    <ctml:name>Alizai</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2475251</ctml:wikiDataId>
+    <ctml:latitude>33.53613000</ctml:latitude>
+    <ctml:longitude>70.34607000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85337" kind="city">
+    <ctml:name>Aman Garh</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2475251</ctml:wikiDataId>
+    <ctml:latitude>34.00584000</ctml:latitude>
+    <ctml:longitude>71.92971000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85338" kind="city">
+    <ctml:name>Amirabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2475251</ctml:wikiDataId>
+    <ctml:latitude>34.18729000</ctml:latitude>
+    <ctml:longitude>73.09078000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85340" kind="city">
+    <ctml:name>Ashanagro Koto</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2984767</ctml:wikiDataId>
+    <ctml:latitude>34.10773000</ctml:latitude>
+    <ctml:longitude>72.24517000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85345" kind="city">
+    <ctml:name>Baffa</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2625289</ctml:wikiDataId>
+    <ctml:latitude>34.43770000</ctml:latitude>
+    <ctml:longitude>73.22368000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85351" kind="admin2">
+    <ctml:name>Bannu</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q806916</ctml:wikiDataId>
+    <ctml:latitude>32.98527000</ctml:latitude>
+    <ctml:longitude>70.60403000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85356" kind="city">
+    <ctml:name>Bat Khela</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2582559</ctml:wikiDataId>
+    <ctml:latitude>34.61780000</ctml:latitude>
+    <ctml:longitude>71.97247000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85357" kind="admin2">
+    <ctml:name>Battagram</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2582559</ctml:wikiDataId>
+    <ctml:latitude>34.67719000</ctml:latitude>
+    <ctml:longitude>73.02329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85358" kind="city">
+    <ctml:name>Battagram District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q3240074</ctml:wikiDataId>
+    <ctml:latitude>34.68051000</ctml:latitude>
+    <ctml:longitude>73.00535000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85374" kind="city">
+    <ctml:name>Buner</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2039096</ctml:wikiDataId>
+    <ctml:latitude>34.44301000</ctml:latitude>
+    <ctml:longitude>72.49933000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85387" kind="admin2">
+    <ctml:name>Charsadda</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q1642808</ctml:wikiDataId>
+    <ctml:latitude>34.14822000</ctml:latitude>
+    <ctml:longitude>71.74060000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85390" kind="city">
+    <ctml:name>Cherat Cantonement</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q3695863</ctml:wikiDataId>
+    <ctml:latitude>33.82342000</ctml:latitude>
+    <ctml:longitude>71.89292000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85395" kind="admin2">
+    <ctml:name>Chitral</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q12126543</ctml:wikiDataId>
+    <ctml:latitude>35.85180000</ctml:latitude>
+    <ctml:longitude>71.78636000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85419" kind="admin2">
+    <ctml:name>Dera Ismail Khan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q1249888</ctml:wikiDataId>
+    <ctml:latitude>31.83129000</ctml:latitude>
+    <ctml:longitude>70.90170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85420" kind="city">
+    <ctml:name>Dera Ismāīl Khān District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q284210</ctml:wikiDataId>
+    <ctml:latitude>31.85963000</ctml:latitude>
+    <ctml:longitude>70.64879000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85430" kind="city">
+    <ctml:name>Doaba</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2985681</ctml:wikiDataId>
+    <ctml:latitude>33.42450000</ctml:latitude>
+    <ctml:longitude>70.73676000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85458" kind="city">
+    <ctml:name>Gulishah Kach</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q243322</ctml:wikiDataId>
+    <ctml:latitude>32.67087000</ctml:latitude>
+    <ctml:longitude>70.33917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85463" kind="admin2">
+    <ctml:name>Hangu</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q1575544</ctml:wikiDataId>
+    <ctml:latitude>33.53198000</ctml:latitude>
+    <ctml:longitude>71.05950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85464" kind="admin2">
+    <ctml:name>Haripur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q520821</ctml:wikiDataId>
+    <ctml:latitude>33.99783000</ctml:latitude>
+    <ctml:longitude>72.93493000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85470" kind="city">
+    <ctml:name>Havelian</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2659092</ctml:wikiDataId>
+    <ctml:latitude>34.05348000</ctml:latitude>
+    <ctml:longitude>73.15993000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85504" kind="city">
+    <ctml:name>Kakad Wari Dir Upper</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q988103</ctml:wikiDataId>
+    <ctml:latitude>34.99798000</ctml:latitude>
+    <ctml:longitude>72.07295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85522" kind="admin2">
+    <ctml:name>Karak</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2579936</ctml:wikiDataId>
+    <ctml:latitude>33.11633000</ctml:latitude>
+    <ctml:longitude>71.09354000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85536" kind="city">
+    <ctml:name>Khalabat</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q1179634</ctml:wikiDataId>
+    <ctml:latitude>34.05997000</ctml:latitude>
+    <ctml:longitude>72.88963000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85551" kind="admin2">
+    <ctml:name>Kohat</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q1195983</ctml:wikiDataId>
+    <ctml:latitude>33.58196000</ctml:latitude>
+    <ctml:longitude>71.44929000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85566" kind="city">
+    <ctml:name>Kulachi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2571465</ctml:wikiDataId>
+    <ctml:latitude>31.93058000</ctml:latitude>
+    <ctml:longitude>70.45959000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85570" kind="city">
+    <ctml:name>Lachi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q951628</ctml:wikiDataId>
+    <ctml:latitude>33.38291000</ctml:latitude>
+    <ctml:longitude>71.33733000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85574" kind="admin2">
+    <ctml:name>Lakki</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q11739</ctml:wikiDataId>
+    <ctml:latitude>32.60724000</ctml:latitude>
+    <ctml:longitude>70.91234000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85577" kind="city">
+    <ctml:name>Landi Kotal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q1803018</ctml:wikiDataId>
+    <ctml:latitude>34.09880000</ctml:latitude>
+    <ctml:longitude>71.14108000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85597" kind="admin2">
+    <ctml:name>Mansehra</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2662991</ctml:wikiDataId>
+    <ctml:latitude>34.33023000</ctml:latitude>
+    <ctml:longitude>73.19679000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85598" kind="admin2">
+    <ctml:name>Mardan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q993859</ctml:wikiDataId>
+    <ctml:latitude>34.19794000</ctml:latitude>
+    <ctml:longitude>72.04965000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85610" kind="city">
+    <ctml:name>Mingora</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q31356</ctml:wikiDataId>
+    <ctml:latitude>34.77950000</ctml:latitude>
+    <ctml:longitude>72.36265000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85611" kind="city">
+    <ctml:name>Miran Shah</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q124385</ctml:wikiDataId>
+    <ctml:latitude>33.00059000</ctml:latitude>
+    <ctml:longitude>70.07117000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85644" kind="city">
+    <ctml:name>Noorabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2579925</ctml:wikiDataId>
+    <ctml:latitude>34.25195000</ctml:latitude>
+    <ctml:longitude>71.96656000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85645" kind="city">
+    <ctml:name>North Wazīristān Agency</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2579925</ctml:wikiDataId>
+    <ctml:latitude>32.95087000</ctml:latitude>
+    <ctml:longitude>69.95764000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85646" kind="admin2">
+    <ctml:name>Nowshera</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2003745</ctml:wikiDataId>
+    <ctml:latitude>34.01583000</ctml:latitude>
+    <ctml:longitude>71.98123000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85647" kind="city">
+    <ctml:name>Nowshera Cantonment</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2003745</ctml:wikiDataId>
+    <ctml:latitude>33.99829000</ctml:latitude>
+    <ctml:longitude>71.99834000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85652" kind="city">
+    <ctml:name>Pabbi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q3045006</ctml:wikiDataId>
+    <ctml:latitude>34.00968000</ctml:latitude>
+    <ctml:longitude>71.79445000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85654" kind="city">
+    <ctml:name>Paharpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q3045006</ctml:wikiDataId>
+    <ctml:latitude>32.10502000</ctml:latitude>
+    <ctml:longitude>70.97055000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85686" kind="city">
+    <ctml:name>Risalpur Cantonment</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q1740709</ctml:wikiDataId>
+    <ctml:latitude>34.06048000</ctml:latitude>
+    <ctml:longitude>71.99276000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85700" kind="city">
+    <ctml:name>Sarai Naurang</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q3243456</ctml:wikiDataId>
+    <ctml:latitude>32.82581000</ctml:latitude>
+    <ctml:longitude>70.78107000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85705" kind="city">
+    <ctml:name>Shabqadar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q4519132</ctml:wikiDataId>
+    <ctml:latitude>34.21599000</ctml:latitude>
+    <ctml:longitude>71.55480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85716" kind="city">
+    <ctml:name>Shingli Bala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q1250069</ctml:wikiDataId>
+    <ctml:latitude>34.67872000</ctml:latitude>
+    <ctml:longitude>72.98491000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85717" kind="city">
+    <ctml:name>Shinpokh</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q1250069</ctml:wikiDataId>
+    <ctml:latitude>34.32959000</ctml:latitude>
+    <ctml:longitude>71.17852000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85708" kind="city">
+    <ctml:name>Shorkot</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q1250069</ctml:wikiDataId>
+    <ctml:latitude>31.91023000</ctml:latitude>
+    <ctml:longitude>70.87757000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85728" kind="city">
+    <ctml:name>South Wazīristān Agency</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q7635235</ctml:wikiDataId>
+    <ctml:latitude>32.30397000</ctml:latitude>
+    <ctml:longitude>69.68207000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85733" kind="admin2">
+    <ctml:name>Swabi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2665241</ctml:wikiDataId>
+    <ctml:latitude>34.12018000</ctml:latitude>
+    <ctml:longitude>72.46982000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85745" kind="city">
+    <ctml:name>Tangi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q3695618</ctml:wikiDataId>
+    <ctml:latitude>34.30090000</ctml:latitude>
+    <ctml:longitude>71.65238000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85747" kind="admin2">
+    <ctml:name>Tank</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q3695618</ctml:wikiDataId>
+    <ctml:latitude>32.21707000</ctml:latitude>
+    <ctml:longitude>70.38315000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85749" kind="city">
+    <ctml:name>Thal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q3243471</ctml:wikiDataId>
+    <ctml:latitude>35.47836000</ctml:latitude>
+    <ctml:longitude>72.24383000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85754" kind="city">
+    <ctml:name>Topi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q4460662</ctml:wikiDataId>
+    <ctml:latitude>34.07034000</ctml:latitude>
+    <ctml:longitude>72.62147000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85759" kind="admin2">
+    <ctml:name>Upper Dir</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q654483</ctml:wikiDataId>
+    <ctml:latitude>35.20740000</ctml:latitude>
+    <ctml:longitude>71.87680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85762" kind="city">
+    <ctml:name>Utmanzai</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q2581505</ctml:wikiDataId>
+    <ctml:latitude>34.18775000</ctml:latitude>
+    <ctml:longitude>71.76274000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85764" kind="city">
+    <ctml:name>Wana</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q1026635</ctml:wikiDataId>
+    <ctml:latitude>32.29889000</ctml:latitude>
+    <ctml:longitude>69.57250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85770" kind="city">
+    <ctml:name>Zaida</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Khyber Pakhtunkhwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-KP</ctml:parentRef>
+    <ctml:wikiDataId>Q4184172</ctml:wikiDataId>
+    <ctml:latitude>34.05950000</ctml:latitude>
+    <ctml:longitude>72.46690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85332" kind="city">
+    <ctml:name>Ahmadpur Sial</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1250201</ctml:wikiDataId>
+    <ctml:latitude>30.67791000</ctml:latitude>
+    <ctml:longitude>71.74344000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85331" kind="city">
+    <ctml:name>Ahmedpur East</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1250201</ctml:wikiDataId>
+    <ctml:latitude>29.14269000</ctml:latitude>
+    <ctml:longitude>71.25771000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85335" kind="city">
+    <ctml:name>Alipur Chatha</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2475251</ctml:wikiDataId>
+    <ctml:latitude>29.38242000</ctml:latitude>
+    <ctml:longitude>70.91106000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85339" kind="city">
+    <ctml:name>Arifwala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2984767</ctml:wikiDataId>
+    <ctml:latitude>30.29058000</ctml:latitude>
+    <ctml:longitude>73.06574000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85341" kind="city">
+    <ctml:name>Attock Tehsil</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2984767</ctml:wikiDataId>
+    <ctml:latitude>33.76671000</ctml:latitude>
+    <ctml:longitude>72.35977000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85343" kind="city">
+    <ctml:name>Baddomalhi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q4840703</ctml:wikiDataId>
+    <ctml:latitude>31.99042000</ctml:latitude>
+    <ctml:longitude>74.66410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85347" kind="admin2">
+    <ctml:name>Bahawalnagar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1249932</ctml:wikiDataId>
+    <ctml:latitude>29.99835000</ctml:latitude>
+    <ctml:longitude>73.25272000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85348" kind="admin2">
+    <ctml:name>Bahawalpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q318156</ctml:wikiDataId>
+    <ctml:latitude>29.39779000</ctml:latitude>
+    <ctml:longitude>71.67520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85349" kind="city">
+    <ctml:name>Bakhri Ahmad Khan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q318156</ctml:wikiDataId>
+    <ctml:latitude>30.73586000</ctml:latitude>
+    <ctml:longitude>70.83796000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85354" kind="city">
+    <ctml:name>Basirpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2640339</ctml:wikiDataId>
+    <ctml:latitude>30.57759000</ctml:latitude>
+    <ctml:longitude>73.83912000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85355" kind="city">
+    <ctml:name>Basti Dosa</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2640339</ctml:wikiDataId>
+    <ctml:latitude>30.78769000</ctml:latitude>
+    <ctml:longitude>70.86853000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85359" kind="city">
+    <ctml:name>Begowala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3240074</ctml:wikiDataId>
+    <ctml:latitude>32.43816000</ctml:latitude>
+    <ctml:longitude>74.26794000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85363" kind="admin2">
+    <ctml:name>Bhakkar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2428259</ctml:wikiDataId>
+    <ctml:latitude>31.62685000</ctml:latitude>
+    <ctml:longitude>71.06471000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85364" kind="city">
+    <ctml:name>Bhalwal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2791141</ctml:wikiDataId>
+    <ctml:latitude>32.26576000</ctml:latitude>
+    <ctml:longitude>72.89809000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85366" kind="city">
+    <ctml:name>Bhawana</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q854934</ctml:wikiDataId>
+    <ctml:latitude>31.56884000</ctml:latitude>
+    <ctml:longitude>72.64917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85367" kind="city">
+    <ctml:name>Bhera</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3777358</ctml:wikiDataId>
+    <ctml:latitude>32.48206000</ctml:latitude>
+    <ctml:longitude>72.90865000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85371" kind="city">
+    <ctml:name>Bhopalwala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3631249</ctml:wikiDataId>
+    <ctml:latitude>32.42968000</ctml:latitude>
+    <ctml:longitude>74.36350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85376" kind="city">
+    <ctml:name>Burewala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q250810</ctml:wikiDataId>
+    <ctml:latitude>30.16667000</ctml:latitude>
+    <ctml:longitude>72.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85378" kind="city">
+    <ctml:name>Chak Azam Saffo</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q250810</ctml:wikiDataId>
+    <ctml:latitude>30.75202000</ctml:latitude>
+    <ctml:longitude>73.02834000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85380" kind="city">
+    <ctml:name>Chak Jhumra</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q250810</ctml:wikiDataId>
+    <ctml:latitude>31.56808000</ctml:latitude>
+    <ctml:longitude>73.18317000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85381" kind="city">
+    <ctml:name>Chak One Hundred Twenty Nine Left</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q250810</ctml:wikiDataId>
+    <ctml:latitude>30.42919000</ctml:latitude>
+    <ctml:longitude>73.04522000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85382" kind="city">
+    <ctml:name>Chak Thirty-one -Eleven Left</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q250810</ctml:wikiDataId>
+    <ctml:latitude>30.42388000</ctml:latitude>
+    <ctml:longitude>72.69737000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85383" kind="city">
+    <ctml:name>Chak Two Hundred Forty-Nine TDA</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q250810</ctml:wikiDataId>
+    <ctml:latitude>31.17772000</ctml:latitude>
+    <ctml:longitude>71.20480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85384" kind="admin2">
+    <ctml:name>Chakwal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1251473</ctml:wikiDataId>
+    <ctml:latitude>32.93286000</ctml:latitude>
+    <ctml:longitude>72.85394000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85388" kind="city">
+    <ctml:name>Chawinda</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q5088564</ctml:wikiDataId>
+    <ctml:latitude>32.34434000</ctml:latitude>
+    <ctml:longitude>74.70507000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85392" kind="city">
+    <ctml:name>Chichawatni</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3321325</ctml:wikiDataId>
+    <ctml:latitude>30.53010000</ctml:latitude>
+    <ctml:longitude>72.69155000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85393" kind="admin2">
+    <ctml:name>Chiniot</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1017651</ctml:wikiDataId>
+    <ctml:latitude>31.72091000</ctml:latitude>
+    <ctml:longitude>72.97836000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85394" kind="city">
+    <ctml:name>Chishtian</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1250229</ctml:wikiDataId>
+    <ctml:latitude>29.79713000</ctml:latitude>
+    <ctml:longitude>72.85772000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85396" kind="city">
+    <ctml:name>Choa Saidanshah</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3311334</ctml:wikiDataId>
+    <ctml:latitude>32.71962000</ctml:latitude>
+    <ctml:longitude>72.98625000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143765" kind="city">
+    <ctml:name>Chuhar Kana</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q34794713</ctml:wikiDataId>
+    <ctml:latitude>31.75000000</ctml:latitude>
+    <ctml:longitude>73.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85400" kind="city">
+    <ctml:name>Chunian</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3695904</ctml:wikiDataId>
+    <ctml:latitude>30.96621000</ctml:latitude>
+    <ctml:longitude>73.97908000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85404" kind="city">
+    <ctml:name>Daira Din Panah</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1081635</ctml:wikiDataId>
+    <ctml:latitude>30.57053000</ctml:latitude>
+    <ctml:longitude>70.93722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85405" kind="city">
+    <ctml:name>Dajal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1081635</ctml:wikiDataId>
+    <ctml:latitude>29.55769000</ctml:latitude>
+    <ctml:longitude>70.37614000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85407" kind="city">
+    <ctml:name>Dandot RS</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3235682</ctml:wikiDataId>
+    <ctml:latitude>32.64167000</ctml:latitude>
+    <ctml:longitude>72.97500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85409" kind="city">
+    <ctml:name>Darya Khan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3321393</ctml:wikiDataId>
+    <ctml:latitude>31.78447000</ctml:latitude>
+    <ctml:longitude>71.10197000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85411" kind="city">
+    <ctml:name>Daska</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2374990</ctml:wikiDataId>
+    <ctml:latitude>32.32422000</ctml:latitude>
+    <ctml:longitude>74.35039000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143767" kind="city">
+    <ctml:name>Daud Khel</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q49349071</ctml:wikiDataId>
+    <ctml:latitude>32.87498000</ctml:latitude>
+    <ctml:longitude>71.57013000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85414" kind="city">
+    <ctml:name>Daultala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2374990</ctml:wikiDataId>
+    <ctml:latitude>33.19282000</ctml:latitude>
+    <ctml:longitude>73.14099000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85418" kind="admin2">
+    <ctml:name>Dera Ghazi Khan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q999076</ctml:wikiDataId>
+    <ctml:latitude>30.04587000</ctml:latitude>
+    <ctml:longitude>70.64029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85421" kind="city">
+    <ctml:name>Dhanot</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q284210</ctml:wikiDataId>
+    <ctml:latitude>29.57991000</ctml:latitude>
+    <ctml:longitude>71.75213000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85422" kind="city">
+    <ctml:name>Dhaunkal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q284210</ctml:wikiDataId>
+    <ctml:latitude>32.40613000</ctml:latitude>
+    <ctml:longitude>74.13706000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143766" kind="city">
+    <ctml:name>Dhok Awan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q34801696</ctml:wikiDataId>
+    <ctml:latitude>32.84452000</ctml:latitude>
+    <ctml:longitude>72.52357000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85425" kind="city">
+    <ctml:name>Dijkot</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q5276491</ctml:wikiDataId>
+    <ctml:latitude>31.21735000</ctml:latitude>
+    <ctml:longitude>72.99621000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85426" kind="city">
+    <ctml:name>Dinan Bashnoian Wala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q5276491</ctml:wikiDataId>
+    <ctml:latitude>29.76584000</ctml:latitude>
+    <ctml:longitude>73.26557000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85427" kind="city">
+    <ctml:name>Dinga</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q5278157</ctml:wikiDataId>
+    <ctml:latitude>32.64101000</ctml:latitude>
+    <ctml:longitude>73.72039000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85428" kind="city">
+    <ctml:name>Dipalpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2985681</ctml:wikiDataId>
+    <ctml:latitude>30.66984000</ctml:latitude>
+    <ctml:longitude>73.65306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85433" kind="city">
+    <ctml:name>Dullewala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3694406</ctml:wikiDataId>
+    <ctml:latitude>31.83439000</ctml:latitude>
+    <ctml:longitude>71.43639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85434" kind="city">
+    <ctml:name>Dunga Bunga</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1985683</ctml:wikiDataId>
+    <ctml:latitude>29.74975000</ctml:latitude>
+    <ctml:longitude>73.24294000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85435" kind="city">
+    <ctml:name>Dunyapur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1985683</ctml:wikiDataId>
+    <ctml:latitude>29.80275000</ctml:latitude>
+    <ctml:longitude>71.74344000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85436" kind="city">
+    <ctml:name>Eminabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q5372475</ctml:wikiDataId>
+    <ctml:latitude>32.04237000</ctml:latitude>
+    <ctml:longitude>74.25996000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85437" kind="admin2">
+    <ctml:name>Faisalabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q173985</ctml:wikiDataId>
+    <ctml:latitude>31.41554000</ctml:latitude>
+    <ctml:longitude>73.08969000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85438" kind="city">
+    <ctml:name>Faqirwali</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q5434470</ctml:wikiDataId>
+    <ctml:latitude>29.46799000</ctml:latitude>
+    <ctml:longitude>73.03489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85439" kind="city">
+    <ctml:name>Faruka</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q5434470</ctml:wikiDataId>
+    <ctml:latitude>31.88642000</ctml:latitude>
+    <ctml:longitude>72.41362000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85440" kind="city">
+    <ctml:name>Fazilpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q5434470</ctml:wikiDataId>
+    <ctml:latitude>32.17629000</ctml:latitude>
+    <ctml:longitude>75.06583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143768" kind="city">
+    <ctml:name>Ferozewala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q5445217</ctml:wikiDataId>
+    <ctml:latitude>29.30000000</ctml:latitude>
+    <ctml:longitude>70.43333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85441" kind="city">
+    <ctml:name>Fort Abbas</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3246255</ctml:wikiDataId>
+    <ctml:latitude>29.19344000</ctml:latitude>
+    <ctml:longitude>72.85525000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85444" kind="city">
+    <ctml:name>Garh Maharaja</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q984103</ctml:wikiDataId>
+    <ctml:latitude>30.83383000</ctml:latitude>
+    <ctml:longitude>71.90491000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85451" kind="city">
+    <ctml:name>Gojra</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q609024</ctml:wikiDataId>
+    <ctml:latitude>31.14926000</ctml:latitude>
+    <ctml:longitude>72.68323000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85455" kind="city">
+    <ctml:name>Gujar Khan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3049021</ctml:wikiDataId>
+    <ctml:latitude>33.25411000</ctml:latitude>
+    <ctml:longitude>73.30433000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85456" kind="admin2">
+    <ctml:name>Gujranwala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q243322</ctml:wikiDataId>
+    <ctml:latitude>32.15567000</ctml:latitude>
+    <ctml:longitude>74.18705000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143769" kind="city">
+    <ctml:name>Gujranwala Division</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q12858404</ctml:wikiDataId>
+    <ctml:latitude>32.45000000</ctml:latitude>
+    <ctml:longitude>74.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85457" kind="admin2">
+    <ctml:name>Gujrat</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q243322</ctml:wikiDataId>
+    <ctml:latitude>32.57420000</ctml:latitude>
+    <ctml:longitude>74.07542000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85460" kind="city">
+    <ctml:name>Hadali</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q580533</ctml:wikiDataId>
+    <ctml:latitude>32.64043000</ctml:latitude>
+    <ctml:longitude>74.56898000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85461" kind="admin2">
+    <ctml:name>Hafizabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1253663</ctml:wikiDataId>
+    <ctml:latitude>32.07095000</ctml:latitude>
+    <ctml:longitude>73.68802000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85466" kind="city">
+    <ctml:name>Harnoli</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2995546</ctml:wikiDataId>
+    <ctml:latitude>32.27871000</ctml:latitude>
+    <ctml:longitude>71.55429000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85467" kind="city">
+    <ctml:name>Harunabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2995546</ctml:wikiDataId>
+    <ctml:latitude>29.61206000</ctml:latitude>
+    <ctml:longitude>73.13802000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143770" kind="city">
+    <ctml:name>Hasan Abdal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q71037</ctml:wikiDataId>
+    <ctml:latitude>33.81948611</ctml:latitude>
+    <ctml:longitude>72.68902778</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85468" kind="city">
+    <ctml:name>Hasilpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2603403</ctml:wikiDataId>
+    <ctml:latitude>29.69221000</ctml:latitude>
+    <ctml:longitude>72.54566000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85469" kind="city">
+    <ctml:name>Haveli Lakha</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2603403</ctml:wikiDataId>
+    <ctml:latitude>30.45097000</ctml:latitude>
+    <ctml:longitude>73.69371000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85471" kind="city">
+    <ctml:name>Hazro</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3695085</ctml:wikiDataId>
+    <ctml:latitude>33.90990000</ctml:latitude>
+    <ctml:longitude>72.49179000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85473" kind="city">
+    <ctml:name>Hujra Shah Muqeem</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3776565</ctml:wikiDataId>
+    <ctml:latitude>30.74168000</ctml:latitude>
+    <ctml:longitude>73.82327000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85478" kind="city">
+    <ctml:name>Jahanian Shah</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1017696</ctml:wikiDataId>
+    <ctml:latitude>31.80541000</ctml:latitude>
+    <ctml:longitude>72.27740000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85479" kind="city">
+    <ctml:name>Jalalpur Jattan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q954036</ctml:wikiDataId>
+    <ctml:latitude>32.64118000</ctml:latitude>
+    <ctml:longitude>74.20561000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85480" kind="city">
+    <ctml:name>Jalalpur Pirwala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3695832</ctml:wikiDataId>
+    <ctml:latitude>29.50510000</ctml:latitude>
+    <ctml:longitude>71.22202000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85481" kind="city">
+    <ctml:name>Jampur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3695832</ctml:wikiDataId>
+    <ctml:latitude>29.64235000</ctml:latitude>
+    <ctml:longitude>70.59518000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85483" kind="city">
+    <ctml:name>Jand</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q112817</ctml:wikiDataId>
+    <ctml:latitude>33.43304000</ctml:latitude>
+    <ctml:longitude>72.01877000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85484" kind="city">
+    <ctml:name>Jandiala Sher Khan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q6150959</ctml:wikiDataId>
+    <ctml:latitude>31.82098000</ctml:latitude>
+    <ctml:longitude>73.91815000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85485" kind="city">
+    <ctml:name>Jaranwala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1251242</ctml:wikiDataId>
+    <ctml:latitude>31.33320000</ctml:latitude>
+    <ctml:longitude>73.41868000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85487" kind="city">
+    <ctml:name>Jatoi Shimali</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1251242</ctml:wikiDataId>
+    <ctml:latitude>29.51827000</ctml:latitude>
+    <ctml:longitude>70.84474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85488" kind="city">
+    <ctml:name>Jauharabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3075413</ctml:wikiDataId>
+    <ctml:latitude>32.29016000</ctml:latitude>
+    <ctml:longitude>72.28182000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85490" kind="admin2">
+    <ctml:name>Jhang</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1026616</ctml:wikiDataId>
+    <ctml:latitude>31.30568000</ctml:latitude>
+    <ctml:longitude>72.32594000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85491" kind="city">
+    <ctml:name>Jhang Sadar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q6190853</ctml:wikiDataId>
+    <ctml:latitude>31.26981000</ctml:latitude>
+    <ctml:longitude>72.31687000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85492" kind="city">
+    <ctml:name>Jhawarian</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q6190853</ctml:wikiDataId>
+    <ctml:latitude>32.36192000</ctml:latitude>
+    <ctml:longitude>72.62275000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85493" kind="admin2">
+    <ctml:name>Jhelum</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q121551</ctml:wikiDataId>
+    <ctml:latitude>32.93448000</ctml:latitude>
+    <ctml:longitude>73.73102000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85499" kind="city">
+    <ctml:name>Kabirwala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q595921</ctml:wikiDataId>
+    <ctml:latitude>30.40472000</ctml:latitude>
+    <ctml:longitude>71.86269000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85501" kind="city">
+    <ctml:name>Kahna Nau</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q10313603</ctml:wikiDataId>
+    <ctml:latitude>31.36709000</ctml:latitude>
+    <ctml:longitude>74.36899000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85503" kind="city">
+    <ctml:name>Kahuta</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q988103</ctml:wikiDataId>
+    <ctml:latitude>33.59183000</ctml:latitude>
+    <ctml:longitude>73.38736000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85505" kind="city">
+    <ctml:name>Kalabagh</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1542553</ctml:wikiDataId>
+    <ctml:latitude>32.96164000</ctml:latitude>
+    <ctml:longitude>71.54638000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85506" kind="city">
+    <ctml:name>Kalaswala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1542553</ctml:wikiDataId>
+    <ctml:latitude>32.20081000</ctml:latitude>
+    <ctml:longitude>74.64858000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85508" kind="city">
+    <ctml:name>Kaleke Mandi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1542553</ctml:wikiDataId>
+    <ctml:latitude>31.97597000</ctml:latitude>
+    <ctml:longitude>73.59999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85509" kind="city">
+    <ctml:name>Kallar Kahar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q797139</ctml:wikiDataId>
+    <ctml:latitude>32.77998000</ctml:latitude>
+    <ctml:longitude>72.69793000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85510" kind="city">
+    <ctml:name>Kalur Kot</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q797139</ctml:wikiDataId>
+    <ctml:latitude>32.15512000</ctml:latitude>
+    <ctml:longitude>71.26631000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85512" kind="city">
+    <ctml:name>Kamalia</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2573596</ctml:wikiDataId>
+    <ctml:latitude>30.72708000</ctml:latitude>
+    <ctml:longitude>72.64607000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85513" kind="city">
+    <ctml:name>Kamar Mushani</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q15233153</ctml:wikiDataId>
+    <ctml:latitude>32.84318000</ctml:latitude>
+    <ctml:longitude>71.36192000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85515" kind="city">
+    <ctml:name>Kamoke</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1260929</ctml:wikiDataId>
+    <ctml:latitude>31.97526000</ctml:latitude>
+    <ctml:longitude>74.22304000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85516" kind="city">
+    <ctml:name>Kamra</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1260929</ctml:wikiDataId>
+    <ctml:latitude>33.74698000</ctml:latitude>
+    <ctml:longitude>73.51229000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85520" kind="city">
+    <ctml:name>Kanganpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q6362466</ctml:wikiDataId>
+    <ctml:latitude>30.76468000</ctml:latitude>
+    <ctml:longitude>74.12286000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85525" kind="city">
+    <ctml:name>Karor</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2579936</ctml:wikiDataId>
+    <ctml:latitude>31.22460000</ctml:latitude>
+    <ctml:longitude>70.95153000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85527" kind="admin2">
+    <ctml:name>Kasur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2625917</ctml:wikiDataId>
+    <ctml:latitude>31.11866000</ctml:latitude>
+    <ctml:longitude>74.45025000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85528" kind="city">
+    <ctml:name>Keshupur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2625917</ctml:wikiDataId>
+    <ctml:latitude>32.26000000</ctml:latitude>
+    <ctml:longitude>72.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85535" kind="city">
+    <ctml:name>Khairpur Tamiwali</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1179634</ctml:wikiDataId>
+    <ctml:latitude>29.58139000</ctml:latitude>
+    <ctml:longitude>72.23804000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85537" kind="city">
+    <ctml:name>Khandowa</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1179634</ctml:wikiDataId>
+    <ctml:latitude>32.74255000</ctml:latitude>
+    <ctml:longitude>72.73478000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85538" kind="admin2">
+    <ctml:name>Khanewal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1253395</ctml:wikiDataId>
+    <ctml:latitude>30.30173000</ctml:latitude>
+    <ctml:longitude>71.93212000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85539" kind="city">
+    <ctml:name>Khanga Dogran</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1253395</ctml:wikiDataId>
+    <ctml:latitude>31.83294000</ctml:latitude>
+    <ctml:longitude>73.62213000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85540" kind="city">
+    <ctml:name>Khangarh</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1253395</ctml:wikiDataId>
+    <ctml:latitude>29.91446000</ctml:latitude>
+    <ctml:longitude>71.16067000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85541" kind="city">
+    <ctml:name>Khanpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1250097</ctml:wikiDataId>
+    <ctml:latitude>28.64739000</ctml:latitude>
+    <ctml:longitude>70.65694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85544" kind="city">
+    <ctml:name>Kharian</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3696367</ctml:wikiDataId>
+    <ctml:latitude>32.81612000</ctml:latitude>
+    <ctml:longitude>73.88697000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85545" kind="city">
+    <ctml:name>Khewra</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3696036</ctml:wikiDataId>
+    <ctml:latitude>32.64910000</ctml:latitude>
+    <ctml:longitude>73.01059000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85546" kind="city">
+    <ctml:name>Khurrianwala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q6403122</ctml:wikiDataId>
+    <ctml:latitude>31.49936000</ctml:latitude>
+    <ctml:longitude>73.26763000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85547" kind="city">
+    <ctml:name>Khushab</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1249939</ctml:wikiDataId>
+    <ctml:latitude>32.29667000</ctml:latitude>
+    <ctml:longitude>72.35250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143771" kind="city">
+    <ctml:name>Kohror Pakka</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q35698055</ctml:wikiDataId>
+    <ctml:latitude>29.62382000</ctml:latitude>
+    <ctml:longitude>71.91673000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85553" kind="city">
+    <ctml:name>Kot Addu Tehsil</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1260951</ctml:wikiDataId>
+    <ctml:latitude>30.46907000</ctml:latitude>
+    <ctml:longitude>70.96699000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85555" kind="city">
+    <ctml:name>Kot Ghulam Muhammad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1017084</ctml:wikiDataId>
+    <ctml:latitude>32.33311000</ctml:latitude>
+    <ctml:longitude>74.54694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85557" kind="city">
+    <ctml:name>Kot Mumin</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1017084</ctml:wikiDataId>
+    <ctml:latitude>32.18843000</ctml:latitude>
+    <ctml:longitude>73.02987000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85558" kind="city">
+    <ctml:name>Kot Radha Kishan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1017084</ctml:wikiDataId>
+    <ctml:latitude>31.17068000</ctml:latitude>
+    <ctml:longitude>74.10126000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85559" kind="city">
+    <ctml:name>Kot Rajkour</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1017084</ctml:wikiDataId>
+    <ctml:latitude>32.41208000</ctml:latitude>
+    <ctml:longitude>74.62855000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85560" kind="city">
+    <ctml:name>Kot Samaba</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1017084</ctml:wikiDataId>
+    <ctml:latitude>28.55207000</ctml:latitude>
+    <ctml:longitude>70.46837000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85561" kind="city">
+    <ctml:name>Kot Sultan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1017084</ctml:wikiDataId>
+    <ctml:latitude>30.77370000</ctml:latitude>
+    <ctml:longitude>70.93125000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85564" kind="city">
+    <ctml:name>Kotli Loharan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2571465</ctml:wikiDataId>
+    <ctml:latitude>32.58893000</ctml:latitude>
+    <ctml:longitude>74.49466000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85567" kind="city">
+    <ctml:name>Kundian</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q951628</ctml:wikiDataId>
+    <ctml:latitude>32.45775000</ctml:latitude>
+    <ctml:longitude>71.47892000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85568" kind="city">
+    <ctml:name>Kunjah</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q951628</ctml:wikiDataId>
+    <ctml:latitude>32.52982000</ctml:latitude>
+    <ctml:longitude>73.97486000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85571" kind="city">
+    <ctml:name>Ladhewala Waraich</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q951628</ctml:wikiDataId>
+    <ctml:latitude>32.15692000</ctml:latitude>
+    <ctml:longitude>74.11564000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85575" kind="city">
+    <ctml:name>Lala Musa</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3695697</ctml:wikiDataId>
+    <ctml:latitude>32.70138000</ctml:latitude>
+    <ctml:longitude>73.95746000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85576" kind="city">
+    <ctml:name>Lalian</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3298223</ctml:wikiDataId>
+    <ctml:latitude>31.82462000</ctml:latitude>
+    <ctml:longitude>72.80116000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85580" kind="admin2">
+    <ctml:name>Layyah</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q44942</ctml:wikiDataId>
+    <ctml:latitude>30.96128000</ctml:latitude>
+    <ctml:longitude>70.93904000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85581" kind="city">
+    <ctml:name>Layyah District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2418995</ctml:wikiDataId>
+    <ctml:latitude>30.96800000</ctml:latitude>
+    <ctml:longitude>70.94300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85582" kind="city">
+    <ctml:name>Liliani</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2418995</ctml:wikiDataId>
+    <ctml:latitude>32.20393000</ctml:latitude>
+    <ctml:longitude>72.95120000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85583" kind="admin2">
+    <ctml:name>Lodhran</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1249783</ctml:wikiDataId>
+    <ctml:latitude>29.53390000</ctml:latitude>
+    <ctml:longitude>71.63244000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85588" kind="city">
+    <ctml:name>Mailsi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3695872</ctml:wikiDataId>
+    <ctml:latitude>29.80123000</ctml:latitude>
+    <ctml:longitude>72.17398000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85589" kind="city">
+    <ctml:name>Malakwal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q446394</ctml:wikiDataId>
+    <ctml:latitude>32.55449000</ctml:latitude>
+    <ctml:longitude>73.21274000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85592" kind="city">
+    <ctml:name>Mamu Kanjan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q6745993</ctml:wikiDataId>
+    <ctml:latitude>30.83044000</ctml:latitude>
+    <ctml:longitude>72.79943000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85593" kind="city">
+    <ctml:name>Mananwala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q6745993</ctml:wikiDataId>
+    <ctml:latitude>31.58803000</ctml:latitude>
+    <ctml:longitude>73.68927000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85594" kind="admin2">
+    <ctml:name>Mandi Bahauddin</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q6745993</ctml:wikiDataId>
+    <ctml:latitude>32.58704000</ctml:latitude>
+    <ctml:longitude>73.49123000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143772" kind="city">
+    <ctml:name>Mandi Bahauddin District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2419031</ctml:wikiDataId>
+    <ctml:latitude>32.58333333</ctml:latitude>
+    <ctml:longitude>73.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85595" kind="city">
+    <ctml:name>Mangla</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q6745993</ctml:wikiDataId>
+    <ctml:latitude>31.89306000</ctml:latitude>
+    <ctml:longitude>72.38167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85596" kind="city">
+    <ctml:name>Mankera</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3695856</ctml:wikiDataId>
+    <ctml:latitude>31.38771000</ctml:latitude>
+    <ctml:longitude>71.44047000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85604" kind="city">
+    <ctml:name>Mehmand Chak</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q112453</ctml:wikiDataId>
+    <ctml:latitude>32.78518000</ctml:latitude>
+    <ctml:longitude>73.82306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85606" kind="city">
+    <ctml:name>Mian Channun</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q4311575</ctml:wikiDataId>
+    <ctml:latitude>30.44067000</ctml:latitude>
+    <ctml:longitude>72.35679000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85607" kind="city">
+    <ctml:name>Mianke Mor</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q4311575</ctml:wikiDataId>
+    <ctml:latitude>31.20240000</ctml:latitude>
+    <ctml:longitude>73.94857000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85608" kind="admin2">
+    <ctml:name>Mianwali</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3307925</ctml:wikiDataId>
+    <ctml:latitude>32.57756000</ctml:latitude>
+    <ctml:longitude>71.52847000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85609" kind="city">
+    <ctml:name>Minchinabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3695838</ctml:wikiDataId>
+    <ctml:latitude>30.16356000</ctml:latitude>
+    <ctml:longitude>73.56858000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85619" kind="city">
+    <ctml:name>Mitha Tiwana</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1020490</ctml:wikiDataId>
+    <ctml:latitude>32.24540000</ctml:latitude>
+    <ctml:longitude>72.10615000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85622" kind="city">
+    <ctml:name>Moza Shahwala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3246442</ctml:wikiDataId>
+    <ctml:latitude>30.80563000</ctml:latitude>
+    <ctml:longitude>70.84911000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85623" kind="admin2">
+    <ctml:name>Multan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q185453</ctml:wikiDataId>
+    <ctml:latitude>30.19679000</ctml:latitude>
+    <ctml:longitude>71.47824000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143773" kind="city">
+    <ctml:name>Multan District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2281168</ctml:wikiDataId>
+    <ctml:latitude>30.08333333</ctml:latitude>
+    <ctml:longitude>71.66666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85624" kind="city">
+    <ctml:name>Muridke</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2978509</ctml:wikiDataId>
+    <ctml:latitude>31.80258000</ctml:latitude>
+    <ctml:longitude>74.25772000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85625" kind="city">
+    <ctml:name>Murree</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1020224</ctml:wikiDataId>
+    <ctml:latitude>33.90836000</ctml:latitude>
+    <ctml:longitude>73.39030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85626" kind="city">
+    <ctml:name>Mustafabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1020224</ctml:wikiDataId>
+    <ctml:latitude>30.89222000</ctml:latitude>
+    <ctml:longitude>73.49889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85627" kind="admin2">
+    <ctml:name>Muzaffargarh</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q301627</ctml:wikiDataId>
+    <ctml:latitude>30.07258000</ctml:latitude>
+    <ctml:longitude>71.19379000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85631" kind="city">
+    <ctml:name>Nankana Sahib</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2353077</ctml:wikiDataId>
+    <ctml:latitude>31.45010000</ctml:latitude>
+    <ctml:longitude>73.70653000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85632" kind="city">
+    <ctml:name>Narang Mandi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q6965345</ctml:wikiDataId>
+    <ctml:latitude>31.90376000</ctml:latitude>
+    <ctml:longitude>74.51587000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85633" kind="admin2">
+    <ctml:name>Narowal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2977081</ctml:wikiDataId>
+    <ctml:latitude>32.10197000</ctml:latitude>
+    <ctml:longitude>74.87303000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85638" kind="city">
+    <ctml:name>Naushahra Virkan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3695612</ctml:wikiDataId>
+    <ctml:latitude>31.96258000</ctml:latitude>
+    <ctml:longitude>73.97117000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85641" kind="city">
+    <ctml:name>Nazir Town</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1017637</ctml:wikiDataId>
+    <ctml:latitude>33.30614000</ctml:latitude>
+    <ctml:longitude>73.48330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85650" kind="admin2">
+    <ctml:name>Okara</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q968211</ctml:wikiDataId>
+    <ctml:latitude>30.81029000</ctml:latitude>
+    <ctml:longitude>73.45155000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143774" kind="city">
+    <ctml:name>Pakki Shagwanwali</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q33471024</ctml:wikiDataId>
+    <ctml:latitude>30.79033000</ctml:latitude>
+    <ctml:longitude>70.87139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85655" kind="admin2">
+    <ctml:name>Pakpattan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1249801</ctml:wikiDataId>
+    <ctml:latitude>30.34314000</ctml:latitude>
+    <ctml:longitude>73.38944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85659" kind="city">
+    <ctml:name>Pasrur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3246361</ctml:wikiDataId>
+    <ctml:latitude>32.26286000</ctml:latitude>
+    <ctml:longitude>74.66327000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85660" kind="city">
+    <ctml:name>Pattoki</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2592708</ctml:wikiDataId>
+    <ctml:latitude>31.02021000</ctml:latitude>
+    <ctml:longitude>73.85333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85662" kind="city">
+    <ctml:name>Phalia</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3696336</ctml:wikiDataId>
+    <ctml:latitude>32.43104000</ctml:latitude>
+    <ctml:longitude>73.57900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85663" kind="city">
+    <ctml:name>Pind Dadan Khan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3696336</ctml:wikiDataId>
+    <ctml:latitude>32.58662000</ctml:latitude>
+    <ctml:longitude>73.04456000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85664" kind="city">
+    <ctml:name>Pindi Bhattian</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q7195018</ctml:wikiDataId>
+    <ctml:latitude>31.89844000</ctml:latitude>
+    <ctml:longitude>73.27339000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85665" kind="city">
+    <ctml:name>Pindi Gheb</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q7195018</ctml:wikiDataId>
+    <ctml:latitude>33.24095000</ctml:latitude>
+    <ctml:longitude>72.26480000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85667" kind="city">
+    <ctml:name>Pir Mahal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q7195018</ctml:wikiDataId>
+    <ctml:latitude>30.76663000</ctml:latitude>
+    <ctml:longitude>72.43455000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85670" kind="city">
+    <ctml:name>Qadirpur Ran</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q7265783</ctml:wikiDataId>
+    <ctml:latitude>30.29184000</ctml:latitude>
+    <ctml:longitude>71.67164000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143775" kind="city">
+    <ctml:name>Qila Didar Singh</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q7267726</ctml:wikiDataId>
+    <ctml:latitude>32.80000000</ctml:latitude>
+    <ctml:longitude>74.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85389" kind="city">
+    <ctml:name>Rabwah</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1069835</ctml:wikiDataId>
+    <ctml:latitude>31.75511000</ctml:latitude>
+    <ctml:longitude>72.91403000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85674" kind="admin2">
+    <ctml:name>Rahim Yar Khan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q989297</ctml:wikiDataId>
+    <ctml:latitude>28.41987000</ctml:latitude>
+    <ctml:longitude>70.30345000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143776" kind="city">
+    <ctml:name>Rahimyar Khan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2639823</ctml:wikiDataId>
+    <ctml:latitude>28.46020000</ctml:latitude>
+    <ctml:longitude>70.52837000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85675" kind="city">
+    <ctml:name>Raiwind</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q4688896</ctml:wikiDataId>
+    <ctml:latitude>31.24895000</ctml:latitude>
+    <ctml:longitude>74.21534000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85676" kind="city">
+    <ctml:name>Raja Jang</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q7285457</ctml:wikiDataId>
+    <ctml:latitude>31.22078000</ctml:latitude>
+    <ctml:longitude>74.25483000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85677" kind="admin2">
+    <ctml:name>Rajanpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2998238</ctml:wikiDataId>
+    <ctml:latitude>29.10408000</ctml:latitude>
+    <ctml:longitude>70.32969000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85680" kind="city">
+    <ctml:name>Rasulnagar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2998238</ctml:wikiDataId>
+    <ctml:latitude>32.32794000</ctml:latitude>
+    <ctml:longitude>73.78040000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85683" kind="admin2">
+    <ctml:name>Rawalpindi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q93230</ctml:wikiDataId>
+    <ctml:latitude>33.59733000</ctml:latitude>
+    <ctml:longitude>73.04790000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85684" kind="city">
+    <ctml:name>Rawalpindi District</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q24440</ctml:wikiDataId>
+    <ctml:latitude>33.42987000</ctml:latitude>
+    <ctml:longitude>73.23092000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85685" kind="city">
+    <ctml:name>Renala Khurd</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3321405</ctml:wikiDataId>
+    <ctml:latitude>30.87878000</ctml:latitude>
+    <ctml:longitude>73.59857000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85688" kind="city">
+    <ctml:name>Rojhan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q33687</ctml:wikiDataId>
+    <ctml:latitude>28.68735000</ctml:latitude>
+    <ctml:longitude>69.95350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85690" kind="city">
+    <ctml:name>Sadiqabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1251234</ctml:wikiDataId>
+    <ctml:latitude>28.30910000</ctml:latitude>
+    <ctml:longitude>70.12652000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85691" kind="admin2">
+    <ctml:name>Sahiwal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q523778</ctml:wikiDataId>
+    <ctml:latitude>30.66595000</ctml:latitude>
+    <ctml:longitude>73.10186000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85694" kind="city">
+    <ctml:name>Sambrial</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3246527</ctml:wikiDataId>
+    <ctml:latitude>32.47835000</ctml:latitude>
+    <ctml:longitude>74.35338000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85696" kind="city">
+    <ctml:name>Sangla Hill</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3248290</ctml:wikiDataId>
+    <ctml:latitude>31.71667000</ctml:latitude>
+    <ctml:longitude>73.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85697" kind="city">
+    <ctml:name>Sanjwal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q33480741</ctml:wikiDataId>
+    <ctml:latitude>33.76105000</ctml:latitude>
+    <ctml:longitude>72.43315000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85699" kind="city">
+    <ctml:name>Sarai Alamgir</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3243456</ctml:wikiDataId>
+    <ctml:latitude>32.90495000</ctml:latitude>
+    <ctml:longitude>73.75518000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85701" kind="city">
+    <ctml:name>Sarai Sidhu</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q33481932</ctml:wikiDataId>
+    <ctml:latitude>30.59476000</ctml:latitude>
+    <ctml:longitude>71.96990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85702" kind="admin2">
+    <ctml:name>Sargodha</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q855997</ctml:wikiDataId>
+    <ctml:latitude>32.08586000</ctml:latitude>
+    <ctml:longitude>72.67418000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143777" kind="city">
+    <ctml:name>Shahkot Tehsil</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3243491</ctml:wikiDataId>
+    <ctml:latitude>31.56166667</ctml:latitude>
+    <ctml:longitude>73.48750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85709" kind="city">
+    <ctml:name>Shahpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q33484369</ctml:wikiDataId>
+    <ctml:latitude>32.26820000</ctml:latitude>
+    <ctml:longitude>72.46884000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85711" kind="city">
+    <ctml:name>Shahr Sultan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q33483938</ctml:wikiDataId>
+    <ctml:latitude>29.57517000</ctml:latitude>
+    <ctml:longitude>71.02209000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85712" kind="city">
+    <ctml:name>Shakargarh</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q33483959</ctml:wikiDataId>
+    <ctml:latitude>32.26361000</ctml:latitude>
+    <ctml:longitude>75.16008000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85713" kind="city">
+    <ctml:name>Sharqpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q33484038</ctml:wikiDataId>
+    <ctml:latitude>31.46116000</ctml:latitude>
+    <ctml:longitude>74.10091000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85714" kind="admin2">
+    <ctml:name>Sheikhupura</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q972756</ctml:wikiDataId>
+    <ctml:latitude>31.71287000</ctml:latitude>
+    <ctml:longitude>73.98556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85719" kind="city">
+    <ctml:name>Shujaabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1250069</ctml:wikiDataId>
+    <ctml:latitude>29.88092000</ctml:latitude>
+    <ctml:longitude>71.29344000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85720" kind="admin2">
+    <ctml:name>Sialkot</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q643883</ctml:wikiDataId>
+    <ctml:latitude>32.49268000</ctml:latitude>
+    <ctml:longitude>74.53134000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85722" kind="city">
+    <ctml:name>Sillanwali</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3694879</ctml:wikiDataId>
+    <ctml:latitude>31.82539000</ctml:latitude>
+    <ctml:longitude>72.54064000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85726" kind="city">
+    <ctml:name>Sodhra</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q7553268</ctml:wikiDataId>
+    <ctml:latitude>32.46211000</ctml:latitude>
+    <ctml:longitude>74.18207000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85729" kind="city">
+    <ctml:name>Sukheke Mandi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q7635235</ctml:wikiDataId>
+    <ctml:latitude>31.86541000</ctml:latitude>
+    <ctml:longitude>73.50875000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85732" kind="city">
+    <ctml:name>Surkhpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q868631</ctml:wikiDataId>
+    <ctml:latitude>32.71816000</ctml:latitude>
+    <ctml:longitude>74.44773000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85735" kind="city">
+    <ctml:name>Talagang</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2665241</ctml:wikiDataId>
+    <ctml:latitude>32.92766000</ctml:latitude>
+    <ctml:longitude>72.41594000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85736" kind="city">
+    <ctml:name>Talamba</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2665241</ctml:wikiDataId>
+    <ctml:latitude>30.52693000</ctml:latitude>
+    <ctml:longitude>72.24079000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85738" kind="city">
+    <ctml:name>Tandlianwala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3695292</ctml:wikiDataId>
+    <ctml:latitude>31.03359000</ctml:latitude>
+    <ctml:longitude>73.13268000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85748" kind="city">
+    <ctml:name>Taunsa</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3243471</ctml:wikiDataId>
+    <ctml:latitude>30.70358000</ctml:latitude>
+    <ctml:longitude>70.65054000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85753" kind="admin2">
+    <ctml:name>Toba Tek Singh</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2659599</ctml:wikiDataId>
+    <ctml:latitude>30.97127000</ctml:latitude>
+    <ctml:longitude>72.48275000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-143778" kind="admin2">
+    <ctml:name>Umerkot</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2625910</ctml:wikiDataId>
+    <ctml:latitude>25.36138889</ctml:latitude>
+    <ctml:longitude>69.73611111</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85763" kind="admin2">
+    <ctml:name>Vihari</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2581505</ctml:wikiDataId>
+    <ctml:latitude>30.04450000</ctml:latitude>
+    <ctml:longitude>72.35560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143779" kind="city">
+    <ctml:name>Wah</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q2119444</ctml:wikiDataId>
+    <ctml:latitude>33.81000000</ctml:latitude>
+    <ctml:longitude>72.70972222</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143780" kind="city">
+    <ctml:name>Warburton</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q7968864</ctml:wikiDataId>
+    <ctml:latitude>31.55000000</ctml:latitude>
+    <ctml:longitude>73.83330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85766" kind="city">
+    <ctml:name>Wazirabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q1026613</ctml:wikiDataId>
+    <ctml:latitude>32.44324000</ctml:latitude>
+    <ctml:longitude>74.12000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-143781" kind="city">
+    <ctml:name>West Punjab</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q3246245</ctml:wikiDataId>
+    <ctml:latitude>31.00000000</ctml:latitude>
+    <ctml:longitude>72.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85767" kind="city">
+    <ctml:name>Yazman</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q8050625</ctml:wikiDataId>
+    <ctml:latitude>29.12122000</ctml:latitude>
+    <ctml:longitude>71.74459000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85768" kind="city">
+    <ctml:name>Zafarwal</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q8050625</ctml:wikiDataId>
+    <ctml:latitude>32.34464000</ctml:latitude>
+    <ctml:longitude>74.89990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85769" kind="city">
+    <ctml:name>Zahir Pir</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Punjab</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-PB</ctml:parentRef>
+    <ctml:wikiDataId>Q8076090</ctml:wikiDataId>
+    <ctml:latitude>28.81284000</ctml:latitude>
+    <ctml:longitude>70.52341000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85330" kind="city">
+    <ctml:name>Adilpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q170315</ctml:wikiDataId>
+    <ctml:latitude>27.93677000</ctml:latitude>
+    <ctml:longitude>69.31941000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85344" kind="admin2">
+    <ctml:name>Badin</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2625289</ctml:wikiDataId>
+    <ctml:latitude>24.65600000</ctml:latitude>
+    <ctml:longitude>68.83700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85346" kind="city">
+    <ctml:name>Bagarji</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2625289</ctml:wikiDataId>
+    <ctml:latitude>27.75431000</ctml:latitude>
+    <ctml:longitude>68.75866000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85350" kind="city">
+    <ctml:name>Bandhi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q4854564</ctml:wikiDataId>
+    <ctml:latitude>26.58761000</ctml:latitude>
+    <ctml:longitude>68.30215000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85361" kind="city">
+    <ctml:name>Berani</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q815082</ctml:wikiDataId>
+    <ctml:latitude>25.78497000</ctml:latitude>
+    <ctml:longitude>68.80754000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85365" kind="city">
+    <ctml:name>Bhan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2791141</ctml:wikiDataId>
+    <ctml:latitude>26.55831000</ctml:latitude>
+    <ctml:longitude>67.72139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85369" kind="city">
+    <ctml:name>Bhiria</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3631249</ctml:wikiDataId>
+    <ctml:latitude>26.91041000</ctml:latitude>
+    <ctml:longitude>68.19466000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85370" kind="city">
+    <ctml:name>Bhit Shah</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3631249</ctml:wikiDataId>
+    <ctml:latitude>25.80565000</ctml:latitude>
+    <ctml:longitude>68.49143000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85372" kind="city">
+    <ctml:name>Bozdar Wada</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3631249</ctml:wikiDataId>
+    <ctml:latitude>27.18300000</ctml:latitude>
+    <ctml:longitude>68.63580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85373" kind="city">
+    <ctml:name>Bulri</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q34784421</ctml:wikiDataId>
+    <ctml:latitude>24.86667000</ctml:latitude>
+    <ctml:longitude>68.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85377" kind="city">
+    <ctml:name>Chak</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q250810</ctml:wikiDataId>
+    <ctml:latitude>27.85838000</ctml:latitude>
+    <ctml:longitude>68.83378000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85386" kind="city">
+    <ctml:name>Chamber</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1017644</ctml:wikiDataId>
+    <ctml:latitude>25.29362000</ctml:latitude>
+    <ctml:longitude>68.81176000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85391" kind="city">
+    <ctml:name>Chhor</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q15209971</ctml:wikiDataId>
+    <ctml:latitude>25.51260000</ctml:latitude>
+    <ctml:longitude>69.78437000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85399" kind="city">
+    <ctml:name>Chuhar Jamali</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3311334</ctml:wikiDataId>
+    <ctml:latitude>24.39440000</ctml:latitude>
+    <ctml:longitude>67.99298000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85403" kind="admin2">
+    <ctml:name>Dadu</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1081635</ctml:wikiDataId>
+    <ctml:latitude>26.73033000</ctml:latitude>
+    <ctml:longitude>67.77690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85408" kind="city">
+    <ctml:name>Daromehar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3235682</ctml:wikiDataId>
+    <ctml:latitude>24.79382000</ctml:latitude>
+    <ctml:longitude>68.17978000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85410" kind="city">
+    <ctml:name>Darya Khan Marri</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3321393</ctml:wikiDataId>
+    <ctml:latitude>26.67765000</ctml:latitude>
+    <ctml:longitude>68.28666000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85413" kind="city">
+    <ctml:name>Daulatpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2374990</ctml:wikiDataId>
+    <ctml:latitude>26.50158000</ctml:latitude>
+    <ctml:longitude>67.97079000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85415" kind="city">
+    <ctml:name>Daur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2374990</ctml:wikiDataId>
+    <ctml:latitude>26.45528000</ctml:latitude>
+    <ctml:longitude>68.31835000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85423" kind="city">
+    <ctml:name>Dhoro Naro</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q284210</ctml:wikiDataId>
+    <ctml:latitude>25.50484000</ctml:latitude>
+    <ctml:longitude>69.57090000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85424" kind="city">
+    <ctml:name>Digri</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q284210</ctml:wikiDataId>
+    <ctml:latitude>25.15657000</ctml:latitude>
+    <ctml:longitude>69.11098000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85429" kind="city">
+    <ctml:name>Diplo</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2985681</ctml:wikiDataId>
+    <ctml:latitude>24.46688000</ctml:latitude>
+    <ctml:longitude>69.58114000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85431" kind="city">
+    <ctml:name>Dokri</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3249928</ctml:wikiDataId>
+    <ctml:latitude>27.37421000</ctml:latitude>
+    <ctml:longitude>68.09715000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85443" kind="city">
+    <ctml:name>Gambat</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q984103</ctml:wikiDataId>
+    <ctml:latitude>27.35170000</ctml:latitude>
+    <ctml:longitude>68.52150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85446" kind="city">
+    <ctml:name>Garhiyasin</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q984103</ctml:wikiDataId>
+    <ctml:latitude>27.90631000</ctml:latitude>
+    <ctml:longitude>68.51210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85447" kind="city">
+    <ctml:name>Gharo</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q984103</ctml:wikiDataId>
+    <ctml:latitude>24.74182000</ctml:latitude>
+    <ctml:longitude>67.58534000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85448" kind="city">
+    <ctml:name>Ghauspur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q984103</ctml:wikiDataId>
+    <ctml:latitude>28.13882000</ctml:latitude>
+    <ctml:longitude>69.08245000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85449" kind="admin2">
+    <ctml:name>Ghotki</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2592625</ctml:wikiDataId>
+    <ctml:latitude>28.00437000</ctml:latitude>
+    <ctml:longitude>69.31569000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85452" kind="city">
+    <ctml:name>Goth Garelo</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q609024</ctml:wikiDataId>
+    <ctml:latitude>27.43521000</ctml:latitude>
+    <ctml:longitude>68.07572000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85453" kind="city">
+    <ctml:name>Goth Phulji</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q609024</ctml:wikiDataId>
+    <ctml:latitude>26.88099000</ctml:latitude>
+    <ctml:longitude>67.68239000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85454" kind="city">
+    <ctml:name>Goth Radhan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q609024</ctml:wikiDataId>
+    <ctml:latitude>27.19846000</ctml:latitude>
+    <ctml:longitude>67.95348000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85462" kind="city">
+    <ctml:name>Hala</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3250492</ctml:wikiDataId>
+    <ctml:latitude>25.81459000</ctml:latitude>
+    <ctml:longitude>68.42198000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85472" kind="city">
+    <ctml:name>Hingorja</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3695085</ctml:wikiDataId>
+    <ctml:latitude>27.21088000</ctml:latitude>
+    <ctml:longitude>68.41598000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85474" kind="admin2">
+    <ctml:name>Hyderabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1640079</ctml:wikiDataId>
+    <ctml:latitude>25.39242000</ctml:latitude>
+    <ctml:longitude>68.37366000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85476" kind="city">
+    <ctml:name>Islamkot</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1362</ctml:wikiDataId>
+    <ctml:latitude>24.69904000</ctml:latitude>
+    <ctml:longitude>70.17982000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85477" kind="admin2">
+    <ctml:name>Jacobabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1017696</ctml:wikiDataId>
+    <ctml:latitude>28.28187000</ctml:latitude>
+    <ctml:longitude>68.43761000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85498" kind="city">
+    <ctml:name>Jām Sāhib</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q595921</ctml:wikiDataId>
+    <ctml:latitude>26.29583000</ctml:latitude>
+    <ctml:longitude>68.62917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85482" kind="admin2">
+    <ctml:name>Jamshoro</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q112817</ctml:wikiDataId>
+    <ctml:latitude>25.43608000</ctml:latitude>
+    <ctml:longitude>68.28017000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85486" kind="city">
+    <ctml:name>Jati</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1251242</ctml:wikiDataId>
+    <ctml:latitude>24.35492000</ctml:latitude>
+    <ctml:longitude>68.26732000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85494" kind="city">
+    <ctml:name>Jhol</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q121551</ctml:wikiDataId>
+    <ctml:latitude>25.95533000</ctml:latitude>
+    <ctml:longitude>68.88871000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85496" kind="city">
+    <ctml:name>Johi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2621751</ctml:wikiDataId>
+    <ctml:latitude>26.69225000</ctml:latitude>
+    <ctml:longitude>67.61431000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85500" kind="city">
+    <ctml:name>Kadhan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q595921</ctml:wikiDataId>
+    <ctml:latitude>24.48041000</ctml:latitude>
+    <ctml:longitude>68.98551000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85514" kind="city">
+    <ctml:name>Kambar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q15233153</ctml:wikiDataId>
+    <ctml:latitude>27.58753000</ctml:latitude>
+    <ctml:longitude>68.00066000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85517" kind="city">
+    <ctml:name>Kandhkot</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3695624</ctml:wikiDataId>
+    <ctml:latitude>28.24574000</ctml:latitude>
+    <ctml:longitude>69.17974000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85518" kind="city">
+    <ctml:name>Kandiari</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3695624</ctml:wikiDataId>
+    <ctml:latitude>26.91550000</ctml:latitude>
+    <ctml:longitude>68.52193000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85519" kind="city">
+    <ctml:name>Kandiaro</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3695624</ctml:wikiDataId>
+    <ctml:latitude>27.05918000</ctml:latitude>
+    <ctml:longitude>68.21022000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85523" kind="city">
+    <ctml:name>Karaundi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2579936</ctml:wikiDataId>
+    <ctml:latitude>26.89709000</ctml:latitude>
+    <ctml:longitude>68.40643000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85524" kind="city">
+    <ctml:name>Kario Ghanwar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2579936</ctml:wikiDataId>
+    <ctml:latitude>24.80817000</ctml:latitude>
+    <ctml:longitude>68.60483000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85526" kind="city">
+    <ctml:name>Kashmor</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2625917</ctml:wikiDataId>
+    <ctml:latitude>28.43260000</ctml:latitude>
+    <ctml:longitude>69.58364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85529" kind="city">
+    <ctml:name>Keti Bandar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2625917</ctml:wikiDataId>
+    <ctml:latitude>24.14422000</ctml:latitude>
+    <ctml:longitude>67.45094000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85531" kind="city">
+    <ctml:name>Khadro</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2625917</ctml:wikiDataId>
+    <ctml:latitude>26.14713000</ctml:latitude>
+    <ctml:longitude>68.71777000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85532" kind="city">
+    <ctml:name>Khairpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2625917</ctml:wikiDataId>
+    <ctml:latitude>28.06437000</ctml:latitude>
+    <ctml:longitude>69.70363000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85533" kind="admin2">
+    <ctml:name>Khairpur Mir’s</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1179634</ctml:wikiDataId>
+    <ctml:latitude>27.52948000</ctml:latitude>
+    <ctml:longitude>68.75915000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85534" kind="city">
+    <ctml:name>Khairpur Nathan Shah</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1179634</ctml:wikiDataId>
+    <ctml:latitude>27.09064000</ctml:latitude>
+    <ctml:longitude>67.73489000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85542" kind="city">
+    <ctml:name>Khanpur Mahar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1250097</ctml:wikiDataId>
+    <ctml:latitude>27.84088000</ctml:latitude>
+    <ctml:longitude>69.41302000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85554" kind="city">
+    <ctml:name>Kot Diji</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1017084</ctml:wikiDataId>
+    <ctml:latitude>27.34156000</ctml:latitude>
+    <ctml:longitude>68.70821000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85565" kind="city">
+    <ctml:name>Kotri</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2571465</ctml:wikiDataId>
+    <ctml:latitude>25.36566000</ctml:latitude>
+    <ctml:longitude>68.30831000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85569" kind="city">
+    <ctml:name>Kunri</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q951628</ctml:wikiDataId>
+    <ctml:latitude>25.17874000</ctml:latitude>
+    <ctml:longitude>69.56572000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85573" kind="city">
+    <ctml:name>Lakhi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q11739</ctml:wikiDataId>
+    <ctml:latitude>27.84884000</ctml:latitude>
+    <ctml:longitude>68.69972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85578" kind="admin2">
+    <ctml:name>Larkana</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q696605</ctml:wikiDataId>
+    <ctml:latitude>27.55898000</ctml:latitude>
+    <ctml:longitude>68.21204000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85587" kind="city">
+    <ctml:name>Madeji</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q639806</ctml:wikiDataId>
+    <ctml:latitude>27.75314000</ctml:latitude>
+    <ctml:longitude>68.45166000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85591" kind="city">
+    <ctml:name>Malir Cantonment</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q446394</ctml:wikiDataId>
+    <ctml:latitude>24.94343000</ctml:latitude>
+    <ctml:longitude>67.20591000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85601" kind="admin2">
+    <ctml:name>Matiari</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q112453</ctml:wikiDataId>
+    <ctml:latitude>25.59709000</ctml:latitude>
+    <ctml:longitude>68.44670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85602" kind="city">
+    <ctml:name>Matli</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q112453</ctml:wikiDataId>
+    <ctml:latitude>25.04290000</ctml:latitude>
+    <ctml:longitude>68.65591000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85603" kind="city">
+    <ctml:name>Mehar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q112453</ctml:wikiDataId>
+    <ctml:latitude>27.18027000</ctml:latitude>
+    <ctml:longitude>67.82051000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85612" kind="city">
+    <ctml:name>Miro Khan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q124385</ctml:wikiDataId>
+    <ctml:latitude>27.75985000</ctml:latitude>
+    <ctml:longitude>68.09195000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85613" kind="city">
+    <ctml:name>Mirpur Bhtoro</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q6874468</ctml:wikiDataId>
+    <ctml:latitude>24.72852000</ctml:latitude>
+    <ctml:longitude>68.26010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85615" kind="admin2">
+    <ctml:name>Mirpur Khas</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1020490</ctml:wikiDataId>
+    <ctml:latitude>25.52760000</ctml:latitude>
+    <ctml:longitude>69.01255000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85616" kind="city">
+    <ctml:name>Mirpur Mathelo</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1020490</ctml:wikiDataId>
+    <ctml:latitude>28.02136000</ctml:latitude>
+    <ctml:longitude>69.54914000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85617" kind="city">
+    <ctml:name>Mirpur Sakro</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1020490</ctml:wikiDataId>
+    <ctml:latitude>24.54692000</ctml:latitude>
+    <ctml:longitude>67.62797000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85618" kind="city">
+    <ctml:name>Mirwah Gorchani</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1020490</ctml:wikiDataId>
+    <ctml:latitude>25.30981000</ctml:latitude>
+    <ctml:longitude>69.05019000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85620" kind="city">
+    <ctml:name>Mithi</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3246442</ctml:wikiDataId>
+    <ctml:latitude>24.73701000</ctml:latitude>
+    <ctml:longitude>69.79707000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85621" kind="city">
+    <ctml:name>Moro</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3246442</ctml:wikiDataId>
+    <ctml:latitude>26.66317000</ctml:latitude>
+    <ctml:longitude>68.00016000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85630" kind="city">
+    <ctml:name>Nabisar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q461307</ctml:wikiDataId>
+    <ctml:latitude>25.06717000</ctml:latitude>
+    <ctml:longitude>69.64340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85634" kind="city">
+    <ctml:name>Nasirabad</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2977081</ctml:wikiDataId>
+    <ctml:latitude>27.38137000</ctml:latitude>
+    <ctml:longitude>67.91644000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85636" kind="city">
+    <ctml:name>Naudero</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3695612</ctml:wikiDataId>
+    <ctml:latitude>27.66684000</ctml:latitude>
+    <ctml:longitude>68.36090000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85637" kind="city">
+    <ctml:name>Naukot</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3695612</ctml:wikiDataId>
+    <ctml:latitude>24.85822000</ctml:latitude>
+    <ctml:longitude>69.40153000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85639" kind="admin2">
+    <ctml:name>Naushahro Firoz</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3695612</ctml:wikiDataId>
+    <ctml:latitude>26.84010000</ctml:latitude>
+    <ctml:longitude>68.12265000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85640" kind="admin2">
+    <ctml:name>Nawabshah</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1017637</ctml:wikiDataId>
+    <ctml:latitude>26.23939000</ctml:latitude>
+    <ctml:longitude>68.40369000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85642" kind="city">
+    <ctml:name>New Bādāh</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1017637</ctml:wikiDataId>
+    <ctml:latitude>27.34167000</ctml:latitude>
+    <ctml:longitude>68.03194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85653" kind="city">
+    <ctml:name>Pad Idan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3045006</ctml:wikiDataId>
+    <ctml:latitude>26.77455000</ctml:latitude>
+    <ctml:longitude>68.30094000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85657" kind="city">
+    <ctml:name>Pano Aqil</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q7131436</ctml:wikiDataId>
+    <ctml:latitude>27.85619000</ctml:latitude>
+    <ctml:longitude>69.11111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85666" kind="city">
+    <ctml:name>Pir Jo Goth</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q7195018</ctml:wikiDataId>
+    <ctml:latitude>27.59178000</ctml:latitude>
+    <ctml:longitude>68.61848000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85669" kind="city">
+    <ctml:name>Pithoro</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2449537</ctml:wikiDataId>
+    <ctml:latitude>25.51122000</ctml:latitude>
+    <ctml:longitude>69.37803000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85678" kind="city">
+    <ctml:name>Rajo Khanani</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2998238</ctml:wikiDataId>
+    <ctml:latitude>24.98391000</ctml:latitude>
+    <ctml:longitude>68.85370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85679" kind="city">
+    <ctml:name>Ranipur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2998238</ctml:wikiDataId>
+    <ctml:latitude>27.28720000</ctml:latitude>
+    <ctml:longitude>68.50623000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85681" kind="city">
+    <ctml:name>Ratodero</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3246396</ctml:wikiDataId>
+    <ctml:latitude>27.80227000</ctml:latitude>
+    <ctml:longitude>68.28902000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85687" kind="city">
+    <ctml:name>Rohri</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q33687</ctml:wikiDataId>
+    <ctml:latitude>27.69203000</ctml:latitude>
+    <ctml:longitude>68.89503000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85689" kind="city">
+    <ctml:name>Rustam</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q33687</ctml:wikiDataId>
+    <ctml:latitude>27.96705000</ctml:latitude>
+    <ctml:longitude>68.80386000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85692" kind="city">
+    <ctml:name>Sakrand</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3696284</ctml:wikiDataId>
+    <ctml:latitude>26.13845000</ctml:latitude>
+    <ctml:longitude>68.27444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85693" kind="city">
+    <ctml:name>Samaro</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q7408863</ctml:wikiDataId>
+    <ctml:latitude>25.28143000</ctml:latitude>
+    <ctml:longitude>69.39623000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85695" kind="admin2">
+    <ctml:name>Sanghar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3472203</ctml:wikiDataId>
+    <ctml:latitude>26.04694000</ctml:latitude>
+    <ctml:longitude>68.94917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85698" kind="city">
+    <ctml:name>Sann</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3248290</ctml:wikiDataId>
+    <ctml:latitude>26.04030000</ctml:latitude>
+    <ctml:longitude>68.13763000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85703" kind="city">
+    <ctml:name>Sehwan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3308397</ctml:wikiDataId>
+    <ctml:latitude>26.42495000</ctml:latitude>
+    <ctml:longitude>67.86126000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85704" kind="city">
+    <ctml:name>Setharja Old</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3308397</ctml:wikiDataId>
+    <ctml:latitude>27.21270000</ctml:latitude>
+    <ctml:longitude>68.46883000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85706" kind="admin2">
+    <ctml:name>Shahdad Kot</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q4519132</ctml:wikiDataId>
+    <ctml:latitude>27.84726000</ctml:latitude>
+    <ctml:longitude>67.90679000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85707" kind="city">
+    <ctml:name>Shahdadpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3248111</ctml:wikiDataId>
+    <ctml:latitude>25.92539000</ctml:latitude>
+    <ctml:longitude>68.62280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85710" kind="city">
+    <ctml:name>Shahpur Chakar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3243491</ctml:wikiDataId>
+    <ctml:latitude>26.15411000</ctml:latitude>
+    <ctml:longitude>68.65013000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85715" kind="admin2">
+    <ctml:name>Shikarpur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1250069</ctml:wikiDataId>
+    <ctml:latitude>27.95558000</ctml:latitude>
+    <ctml:longitude>68.63823000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85723" kind="city">
+    <ctml:name>Sinjhoro</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3694879</ctml:wikiDataId>
+    <ctml:latitude>26.03008000</ctml:latitude>
+    <ctml:longitude>68.80867000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85734" kind="city">
+    <ctml:name>Sīta Road</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2665241</ctml:wikiDataId>
+    <ctml:latitude>27.03333000</ctml:latitude>
+    <ctml:longitude>67.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85725" kind="city">
+    <ctml:name>Sobhodero</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q976955</ctml:wikiDataId>
+    <ctml:latitude>27.30475000</ctml:latitude>
+    <ctml:longitude>68.39715000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85730" kind="admin2">
+    <ctml:name>Sukkur</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q868631</ctml:wikiDataId>
+    <ctml:latitude>27.70323000</ctml:latitude>
+    <ctml:longitude>68.85889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85737" kind="city">
+    <ctml:name>Talhar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q7491871</ctml:wikiDataId>
+    <ctml:latitude>24.88454000</ctml:latitude>
+    <ctml:longitude>68.81437000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85739" kind="city">
+    <ctml:name>Tando Adam</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1249952</ctml:wikiDataId>
+    <ctml:latitude>25.76818000</ctml:latitude>
+    <ctml:longitude>68.66196000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85740" kind="admin2">
+    <ctml:name>Tando Allahyar</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1250417</ctml:wikiDataId>
+    <ctml:latitude>25.46050000</ctml:latitude>
+    <ctml:longitude>68.71745000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85741" kind="city">
+    <ctml:name>Tando Bago</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1250417</ctml:wikiDataId>
+    <ctml:latitude>24.78914000</ctml:latitude>
+    <ctml:longitude>68.96535000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85742" kind="city">
+    <ctml:name>Tando Jam</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q7682470</ctml:wikiDataId>
+    <ctml:latitude>25.42813000</ctml:latitude>
+    <ctml:longitude>68.52923000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85743" kind="city">
+    <ctml:name>Tando Mitha Khan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q7682470</ctml:wikiDataId>
+    <ctml:latitude>25.99625000</ctml:latitude>
+    <ctml:longitude>69.20251000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85744" kind="admin2">
+    <ctml:name>Tando Muhammad Khan</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3695618</ctml:wikiDataId>
+    <ctml:latitude>25.12384000</ctml:latitude>
+    <ctml:longitude>68.53677000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85746" kind="city">
+    <ctml:name>Tangwani</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3695618</ctml:wikiDataId>
+    <ctml:latitude>28.27886000</ctml:latitude>
+    <ctml:longitude>68.99760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85750" kind="city">
+    <ctml:name>Tharu Shah</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q3243471</ctml:wikiDataId>
+    <ctml:latitude>26.94230000</ctml:latitude>
+    <ctml:longitude>68.11759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85751" kind="admin2">
+    <ctml:name>Thatta</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q27212</ctml:wikiDataId>
+    <ctml:latitude>24.74745000</ctml:latitude>
+    <ctml:longitude>67.92353000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85752" kind="city">
+    <ctml:name>Thul</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q7798734</ctml:wikiDataId>
+    <ctml:latitude>28.24030000</ctml:latitude>
+    <ctml:longitude>68.77550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85756" kind="city">
+    <ctml:name>Ubauro</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q7876431</ctml:wikiDataId>
+    <ctml:latitude>28.16429000</ctml:latitude>
+    <ctml:longitude>69.73114000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PAK-85757" kind="admin2">
+    <ctml:name>Umarkot</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q7876431</ctml:wikiDataId>
+    <ctml:latitude>25.36329000</ctml:latitude>
+    <ctml:longitude>69.74184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85758" kind="city">
+    <ctml:name>Umerkot</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q2418946</ctml:wikiDataId>
+    <ctml:latitude>25.37000000</ctml:latitude>
+    <ctml:longitude>69.73000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PAK-85765" kind="city">
+    <ctml:name>Warah</ctml:name>
+    <ctml:country>PAK</ctml:country>
+    <ctml:admin1>Sindh</ctml:admin1>
+    <ctml:parentRef>place:admin1:PK-SD</ctml:parentRef>
+    <ctml:wikiDataId>Q1026635</ctml:wikiDataId>
+    <ctml:latitude>27.44805000</ctml:latitude>
+    <ctml:longitude>67.79654000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

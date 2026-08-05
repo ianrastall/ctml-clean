@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MHL-160072" kind="city">
+    <ctml:name>Arno</ctml:name>
+    <ctml:country>MHL</ctml:country>
+    <ctml:admin1>Arno</ctml:admin1>
+    <ctml:parentRef>place:admin1:MH-ARN</ctml:parentRef>
+    <ctml:wikiDataId>Q694057</ctml:wikiDataId>
+    <ctml:latitude>7.08333333</ctml:latitude>
+    <ctml:longitude>171.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MHL-160074" kind="city">
+    <ctml:name>Bikini</ctml:name>
+    <ctml:country>MHL</ctml:country>
+    <ctml:admin1>Bikini &amp; Kili</ctml:admin1>
+    <ctml:parentRef>place:admin1:MH-KIL</ctml:parentRef>
+    <ctml:wikiDataId>Q152225</ctml:wikiDataId>
+    <ctml:latitude>11.60000000</ctml:latitude>
+    <ctml:longitude>165.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MHL-160092" kind="city">
+    <ctml:name>Ujelang</ctml:name>
+    <ctml:country>MHL</ctml:country>
+    <ctml:admin1>Enewetak &amp; Ujelang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MH-ENI</ctml:parentRef>
+    <ctml:wikiDataId>Q703596</ctml:wikiDataId>
+    <ctml:latitude>9.82222222</ctml:latitude>
+    <ctml:longitude>160.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MHL-160076" kind="city">
+    <ctml:name>Ebeye</ctml:name>
+    <ctml:country>MHL</ctml:country>
+    <ctml:admin1>Kwajalein</ctml:admin1>
+    <ctml:parentRef>place:admin1:MH-KWA</ctml:parentRef>
+    <ctml:wikiDataId>Q1277921</ctml:wikiDataId>
+    <ctml:latitude>41.08110000</ctml:latitude>
+    <ctml:longitude>-111.92000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MHL-160084" kind="city">
+    <ctml:name>Likiep</ctml:name>
+    <ctml:country>MHL</ctml:country>
+    <ctml:admin1>Likiep</ctml:admin1>
+    <ctml:parentRef>place:admin1:MH-LIK</ctml:parentRef>
+    <ctml:wikiDataId>Q518353</ctml:wikiDataId>
+    <ctml:latitude>9.88498000</ctml:latitude>
+    <ctml:longitude>169.14345000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MHL-160075" kind="city">
+    <ctml:name>Delap-Uliga-Djarrit</ctml:name>
+    <ctml:country>MHL</ctml:country>
+    <ctml:admin1>Majuro</ctml:admin1>
+    <ctml:parentRef>place:admin1:MH-MAJ</ctml:parentRef>
+    <ctml:wikiDataId>Q12919</ctml:wikiDataId>
+    <ctml:latitude>7.08333333</ctml:latitude>
+    <ctml:longitude>171.38333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MHL-160090" kind="city">
+    <ctml:name>Taroa</ctml:name>
+    <ctml:country>MHL</ctml:country>
+    <ctml:admin1>Maloelap</ctml:admin1>
+    <ctml:parentRef>place:admin1:MH-MAL</ctml:parentRef>
+    <ctml:wikiDataId>Q2393032</ctml:wikiDataId>
+    <ctml:latitude>48.00000000</ctml:latitude>
+    <ctml:longitude>33.41666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MHL-160086" kind="city">
+    <ctml:name>Mili</ctml:name>
+    <ctml:country>MHL</ctml:country>
+    <ctml:admin1>Mili</ctml:admin1>
+    <ctml:parentRef>place:admin1:MH-MIL</ctml:parentRef>
+    <ctml:wikiDataId>Q700051</ctml:wikiDataId>
+    <ctml:latitude>6.12621667</ctml:latitude>
+    <ctml:longitude>171.97998056</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MHL-160089" kind="city">
+    <ctml:name>Rongelap</ctml:name>
+    <ctml:country>MHL</ctml:country>
+    <ctml:admin1>Rongelap</ctml:admin1>
+    <ctml:parentRef>place:admin1:MH-RON</ctml:parentRef>
+    <ctml:wikiDataId>Q542619</ctml:wikiDataId>
+    <ctml:latitude>11.31666667</ctml:latitude>
+    <ctml:longitude>166.78333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MHL-160091" kind="city">
+    <ctml:name>Ujae</ctml:name>
+    <ctml:country>MHL</ctml:country>
+    <ctml:admin1>Ujae</ctml:admin1>
+    <ctml:parentRef>place:admin1:MH-UJA</ctml:parentRef>
+    <ctml:wikiDataId>Q697802</ctml:wikiDataId>
+    <ctml:latitude>9.05000000</ctml:latitude>
+    <ctml:longitude>165.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MHL-160095" kind="city">
+    <ctml:name>Wotje</ctml:name>
+    <ctml:country>MHL</ctml:country>
+    <ctml:admin1>Wotje</ctml:admin1>
+    <ctml:parentRef>place:admin1:MH-WTJ</ctml:parentRef>
+    <ctml:wikiDataId>Q518210</ctml:wikiDataId>
+    <ctml:latitude>9.43333333</ctml:latitude>
+    <ctml:longitude>170.01666667</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

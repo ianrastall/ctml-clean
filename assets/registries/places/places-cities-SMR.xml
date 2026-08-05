@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SMR-104700" kind="city">
+    <ctml:name>San Marino</ctml:name>
+    <ctml:country>SMR</ctml:country>
+    <ctml:admin1>San Marino</ctml:admin1>
+    <ctml:parentRef>place:admin1:SM-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1848</ctml:wikiDataId>
+    <ctml:latitude>43.93667000</ctml:latitude>
+    <ctml:longitude>12.44639000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

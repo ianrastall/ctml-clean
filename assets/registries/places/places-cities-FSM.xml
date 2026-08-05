@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:FSM-39155" kind="city">
+    <ctml:name>Eot</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>7.38540000</ctml:latitude>
+    <ctml:longitude>151.73920000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39156" kind="city">
+    <ctml:name>Ettal</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>5.59200000</ctml:latitude>
+    <ctml:longitude>153.56000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39159" kind="city">
+    <ctml:name>Fananu</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>8.55811000</ctml:latitude>
+    <ctml:longitude>151.90822000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39160" kind="city">
+    <ctml:name>Fanapanges</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>7.35300000</ctml:latitude>
+    <ctml:longitude>151.66760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39163" kind="city">
+    <ctml:name>Fefen</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>7.35300000</ctml:latitude>
+    <ctml:longitude>151.83100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39164" kind="city">
+    <ctml:name>Fonoton</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>7.48600000</ctml:latitude>
+    <ctml:longitude>151.87940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39167" kind="city">
+    <ctml:name>Houk</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>6.68300000</ctml:latitude>
+    <ctml:longitude>149.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39173" kind="city">
+    <ctml:name>Kuttu</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>5.45300000</ctml:latitude>
+    <ctml:longitude>153.45600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39175" kind="city">
+    <ctml:name>Lekinioch</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>5.50700000</ctml:latitude>
+    <ctml:longitude>153.81900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39177" kind="city">
+    <ctml:name>Losap</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>6.89400000</ctml:latitude>
+    <ctml:longitude>152.73900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39180" kind="city">
+    <ctml:name>Makur</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>8.98500000</ctml:latitude>
+    <ctml:longitude>150.12600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39182" kind="city">
+    <ctml:name>Moch</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>5.49180000</ctml:latitude>
+    <ctml:longitude>153.53850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:FSM-39184" kind="admin2">
+    <ctml:name>Murilo</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>8.69242000</ctml:latitude>
+    <ctml:longitude>152.33934000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39185" kind="city">
+    <ctml:name>Murilo Municipality</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>8.69200000</ctml:latitude>
+    <ctml:longitude>152.34200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39186" kind="city">
+    <ctml:name>Namoluk</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>5.91500000</ctml:latitude>
+    <ctml:longitude>153.13600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:FSM-39187" kind="admin2">
+    <ctml:name>Nema</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>6.98922000</ctml:latitude>
+    <ctml:longitude>152.57377000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39188" kind="city">
+    <ctml:name>Nema Municipality</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>6.99300000</ctml:latitude>
+    <ctml:longitude>152.57400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39192" kind="city">
+    <ctml:name>Nomwin</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>8.43000000</ctml:latitude>
+    <ctml:longitude>151.74500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39194" kind="city">
+    <ctml:name>Oneop</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>5.50660000</ctml:latitude>
+    <ctml:longitude>153.70900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39195" kind="city">
+    <ctml:name>Onou</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>8.79900000</ctml:latitude>
+    <ctml:longitude>150.29000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39196" kind="city">
+    <ctml:name>Onoun</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>8.57500000</ctml:latitude>
+    <ctml:longitude>149.68550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39197" kind="city">
+    <ctml:name>Paata-Tupunion</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>7.37600000</ctml:latitude>
+    <ctml:longitude>151.58300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39199" kind="city">
+    <ctml:name>Parem</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>7.36200000</ctml:latitude>
+    <ctml:longitude>151.78900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39200" kind="city">
+    <ctml:name>Piherarh</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>8.56900000</ctml:latitude>
+    <ctml:longitude>150.41800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39201" kind="city">
+    <ctml:name>Piis-Emwar</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>6.83400000</ctml:latitude>
+    <ctml:longitude>152.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39202" kind="city">
+    <ctml:name>Piis-Panewu</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>7.67800000</ctml:latitude>
+    <ctml:longitude>151.76340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39204" kind="city">
+    <ctml:name>Pollap</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>7.63971000</ctml:latitude>
+    <ctml:longitude>149.43011000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39205" kind="city">
+    <ctml:name>Polowat</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>7.35500000</ctml:latitude>
+    <ctml:longitude>149.18200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39206" kind="city">
+    <ctml:name>Pwene</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>7.33700000</ctml:latitude>
+    <ctml:longitude>151.58400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39207" kind="city">
+    <ctml:name>Ramanum</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>7.41350000</ctml:latitude>
+    <ctml:longitude>151.66460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39210" kind="city">
+    <ctml:name>Ruo</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>8.60900000</ctml:latitude>
+    <ctml:longitude>152.24400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39213" kind="city">
+    <ctml:name>Satowan</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>5.33400000</ctml:latitude>
+    <ctml:longitude>153.73650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39214" kind="city">
+    <ctml:name>Siis</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>7.29500000</ctml:latitude>
+    <ctml:longitude>151.82460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39216" kind="city">
+    <ctml:name>Ta</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q2273718</ctml:wikiDataId>
+    <ctml:latitude>5.28420000</ctml:latitude>
+    <ctml:longitude>153.64650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39218" kind="city">
+    <ctml:name>Tamatam</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q2273718</ctml:wikiDataId>
+    <ctml:latitude>7.53898000</ctml:latitude>
+    <ctml:longitude>149.41175000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39220" kind="city">
+    <ctml:name>Tolensom</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q787588</ctml:wikiDataId>
+    <ctml:latitude>7.33300000</ctml:latitude>
+    <ctml:longitude>151.62300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39222" kind="city">
+    <ctml:name>Tonoas</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q2330097</ctml:wikiDataId>
+    <ctml:latitude>7.38100000</ctml:latitude>
+    <ctml:longitude>151.89000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39224" kind="city">
+    <ctml:name>Udot-Fonuweisom</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q2330097</ctml:wikiDataId>
+    <ctml:latitude>7.38900000</ctml:latitude>
+    <ctml:longitude>151.70800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39226" kind="city">
+    <ctml:name>Uman-Fonuweisom</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q2330097</ctml:wikiDataId>
+    <ctml:latitude>7.29900000</ctml:latitude>
+    <ctml:longitude>151.87700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39227" kind="city">
+    <ctml:name>Unanu</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q2330097</ctml:wikiDataId>
+    <ctml:latitude>8.75000000</ctml:latitude>
+    <ctml:longitude>150.33950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39231" kind="city">
+    <ctml:name>Weno Municipality</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q1009384</ctml:wikiDataId>
+    <ctml:latitude>7.44000000</ctml:latitude>
+    <ctml:longitude>151.88100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39233" kind="city">
+    <ctml:name>Wonei</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Chuuk</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-TRK</ctml:parentRef>
+    <ctml:wikiDataId>Q1009384</ctml:wikiDataId>
+    <ctml:latitude>7.38700000</ctml:latitude>
+    <ctml:longitude>151.60100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39176" kind="city">
+    <ctml:name>Lelu</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Kosrae</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-KSA</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>5.34865000</ctml:latitude>
+    <ctml:longitude>163.01917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39181" kind="city">
+    <ctml:name>Malem</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Kosrae</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-KSA</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>5.27507000</ctml:latitude>
+    <ctml:longitude>163.01685000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39217" kind="city">
+    <ctml:name>Tafunsak</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Kosrae</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-KSA</ctml:parentRef>
+    <ctml:wikiDataId>Q2273718</ctml:wikiDataId>
+    <ctml:latitude>5.34993000</ctml:latitude>
+    <ctml:longitude>162.96965000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39228" kind="city">
+    <ctml:name>Utwe</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Kosrae</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-KSA</ctml:parentRef>
+    <ctml:wikiDataId>Q2330097</ctml:wikiDataId>
+    <ctml:latitude>5.27511000</ctml:latitude>
+    <ctml:longitude>162.95617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39169" kind="city">
+    <ctml:name>Kitti</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Pohnpei</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-PNI</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>6.82490000</ctml:latitude>
+    <ctml:longitude>158.16081000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39171" kind="city">
+    <ctml:name>Kolonia Municipality</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Pohnpei</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-PNI</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>6.96400000</ctml:latitude>
+    <ctml:longitude>158.20580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39179" kind="city">
+    <ctml:name>Madolenihm</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Pohnpei</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-PNI</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>6.86759000</ctml:latitude>
+    <ctml:longitude>158.31277000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39183" kind="city">
+    <ctml:name>Mokil</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Pohnpei</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-PNI</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>6.68916000</ctml:latitude>
+    <ctml:longitude>159.76610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39189" kind="city">
+    <ctml:name>Nett</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Pohnpei</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-PNI</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>6.95152000</ctml:latitude>
+    <ctml:longitude>158.22437000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:FSM-39190" kind="admin2">
+    <ctml:name>Ngatik</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Pohnpei</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-PNI</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>5.78849000</ctml:latitude>
+    <ctml:longitude>157.15954000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39193" kind="city">
+    <ctml:name>Nukuoro</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Pohnpei</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-PNI</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>3.84100000</ctml:latitude>
+    <ctml:longitude>154.93000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39198" kind="city">
+    <ctml:name>Palikir - National Government Center</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Pohnpei</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-PNI</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>6.92477000</ctml:latitude>
+    <ctml:longitude>158.16109000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39203" kind="city">
+    <ctml:name>Pingelap</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Pohnpei</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-PNI</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>6.20908000</ctml:latitude>
+    <ctml:longitude>160.71033000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39211" kind="city">
+    <ctml:name>Sapwuahfik</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Pohnpei</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-PNI</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>5.81500000</ctml:latitude>
+    <ctml:longitude>157.28000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39215" kind="city">
+    <ctml:name>Sokehs</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Pohnpei</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-PNI</ctml:parentRef>
+    <ctml:wikiDataId>Q2273718</ctml:wikiDataId>
+    <ctml:latitude>6.93273000</ctml:latitude>
+    <ctml:longitude>158.14270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39223" kind="city">
+    <ctml:name>U</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Pohnpei</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-PNI</ctml:parentRef>
+    <ctml:wikiDataId>Q2330097</ctml:wikiDataId>
+    <ctml:latitude>6.94972000</ctml:latitude>
+    <ctml:longitude>158.27361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39154" kind="city">
+    <ctml:name>Dalipebinaw</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>9.52229000</ctml:latitude>
+    <ctml:longitude>138.08540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:FSM-39157" kind="admin2">
+    <ctml:name>Fais</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>9.76600000</ctml:latitude>
+    <ctml:longitude>140.52000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39158" kind="city">
+    <ctml:name>Fais Municipality</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>9.76600000</ctml:latitude>
+    <ctml:longitude>140.51900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39161" kind="city">
+    <ctml:name>Fanif</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>9.56056000</ctml:latitude>
+    <ctml:longitude>138.11333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39162" kind="city">
+    <ctml:name>Faraulep</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>8.58800000</ctml:latitude>
+    <ctml:longitude>144.50650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39165" kind="city">
+    <ctml:name>Gagil</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>9.54722000</ctml:latitude>
+    <ctml:longitude>138.19028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39166" kind="city">
+    <ctml:name>Gilman</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>9.44611000</ctml:latitude>
+    <ctml:longitude>138.06389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39168" kind="city">
+    <ctml:name>Kanifay</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q631152</ctml:wikiDataId>
+    <ctml:latitude>9.46735000</ctml:latitude>
+    <ctml:longitude>138.05935000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39174" kind="city">
+    <ctml:name>Lamotrek</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>7.49100000</ctml:latitude>
+    <ctml:longitude>146.30300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39178" kind="city">
+    <ctml:name>Maap</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>9.58975000</ctml:latitude>
+    <ctml:longitude>138.17119000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39191" kind="city">
+    <ctml:name>Ngulu</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q514165</ctml:wikiDataId>
+    <ctml:latitude>8.45000000</ctml:latitude>
+    <ctml:longitude>137.48100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39208" kind="city">
+    <ctml:name>Rull</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>9.50773000</ctml:latitude>
+    <ctml:longitude>138.11540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39209" kind="city">
+    <ctml:name>Rumung</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>9.62428000</ctml:latitude>
+    <ctml:longitude>138.15745000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39212" kind="city">
+    <ctml:name>Satawal</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q42751</ctml:wikiDataId>
+    <ctml:latitude>7.38200000</ctml:latitude>
+    <ctml:longitude>147.03180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39221" kind="city">
+    <ctml:name>Tomil</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q787588</ctml:wikiDataId>
+    <ctml:latitude>9.52517000</ctml:latitude>
+    <ctml:longitude>138.15488000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39225" kind="city">
+    <ctml:name>Ulithi</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q2330097</ctml:wikiDataId>
+    <ctml:latitude>9.90000000</ctml:latitude>
+    <ctml:longitude>139.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39229" kind="city">
+    <ctml:name>Weloy</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q4018907</ctml:wikiDataId>
+    <ctml:latitude>9.52712000</ctml:latitude>
+    <ctml:longitude>138.11909000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FSM-39232" kind="city">
+    <ctml:name>Woleai</ctml:name>
+    <ctml:country>FSM</ctml:country>
+    <ctml:admin1>Yap</ctml:admin1>
+    <ctml:parentRef>place:admin1:FM-YAP</ctml:parentRef>
+    <ctml:wikiDataId>Q1009384</ctml:wikiDataId>
+    <ctml:latitude>7.34500000</ctml:latitude>
+    <ctml:longitude>143.85700000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

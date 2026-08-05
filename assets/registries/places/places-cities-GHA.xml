@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:GHA-149070" kind="city">
+    <ctml:name>Asunafo North</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Ahafo</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AF</ctml:parentRef>
+    <ctml:wikiDataId>Q752417</ctml:wikiDataId>
+    <ctml:latitude>6.81968910</ctml:latitude>
+    <ctml:longitude>-2.80770500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149071" kind="city">
+    <ctml:name>Asunafo South</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Ahafo</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AF</ctml:parentRef>
+    <ctml:wikiDataId>Q752420</ctml:wikiDataId>
+    <ctml:latitude>6.68210000</ctml:latitude>
+    <ctml:longitude>-2.43997530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149072" kind="city">
+    <ctml:name>Asutifi North</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Ahafo</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AF</ctml:parentRef>
+    <ctml:wikiDataId>Q55555112</ctml:wikiDataId>
+    <ctml:latitude>6.94774860</ctml:latitude>
+    <ctml:longitude>-2.76757160</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149073" kind="city">
+    <ctml:name>Asutifi South</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Ahafo</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AF</ctml:parentRef>
+    <ctml:wikiDataId>Q55555134</ctml:wikiDataId>
+    <ctml:latitude>6.93215810</ctml:latitude>
+    <ctml:longitude>-2.35521890</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149069" kind="city">
+    <ctml:name>Tano North</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Ahafo</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AF</ctml:parentRef>
+    <ctml:wikiDataId>Q373327</ctml:wikiDataId>
+    <ctml:latitude>7.22603010</ctml:latitude>
+    <ctml:longitude>-2.30456560</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149068" kind="city">
+    <ctml:name>Tano South</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Ahafo</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AF</ctml:parentRef>
+    <ctml:wikiDataId>Q960302</ctml:wikiDataId>
+    <ctml:latitude>7.19537930</ctml:latitude>
+    <ctml:longitude>-2.12586610</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52151" kind="city">
+    <ctml:name>Agogo</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Ashanti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q395201</ctml:wikiDataId>
+    <ctml:latitude>6.80004000</ctml:latitude>
+    <ctml:longitude>-1.08193000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52164" kind="city">
+    <ctml:name>Bekwai</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Ashanti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q815055</ctml:wikiDataId>
+    <ctml:latitude>6.45195000</ctml:latitude>
+    <ctml:longitude>-1.57866000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52172" kind="city">
+    <ctml:name>Ejura</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Ashanti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q1322026</ctml:wikiDataId>
+    <ctml:latitude>7.38558000</ctml:latitude>
+    <ctml:longitude>-1.35617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52185" kind="city">
+    <ctml:name>Konongo</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Ashanti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q1016732</ctml:wikiDataId>
+    <ctml:latitude>6.61667000</ctml:latitude>
+    <ctml:longitude>-1.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52189" kind="city">
+    <ctml:name>Mampong</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Ashanti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q992747</ctml:wikiDataId>
+    <ctml:latitude>7.06273000</ctml:latitude>
+    <ctml:longitude>-1.40010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52196" kind="city">
+    <ctml:name>Obuase</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Ashanti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q1020901</ctml:wikiDataId>
+    <ctml:latitude>6.20228000</ctml:latitude>
+    <ctml:longitude>-1.66796000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52206" kind="city">
+    <ctml:name>Tafo</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Ashanti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AH</ctml:parentRef>
+    <ctml:wikiDataId>Q7674984</ctml:wikiDataId>
+    <ctml:latitude>6.73156000</ctml:latitude>
+    <ctml:longitude>-1.61370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149086" kind="city">
+    <ctml:name>Banda</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q20312309</ctml:wikiDataId>
+    <ctml:latitude>8.14956710</ctml:latitude>
+    <ctml:longitude>-2.36639500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149087" kind="city">
+    <ctml:name>Berekum East</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q55555195</ctml:wikiDataId>
+    <ctml:latitude>7.43846190</ctml:latitude>
+    <ctml:longitude>-2.60295780</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149088" kind="city">
+    <ctml:name>Berekum West</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q104822488</ctml:wikiDataId>
+    <ctml:latitude>7.43934160</ctml:latitude>
+    <ctml:longitude>-2.65497050</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149089" kind="city">
+    <ctml:name>Dormaa Central</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q692883</ctml:wikiDataId>
+    <ctml:latitude>7.27750000</ctml:latitude>
+    <ctml:longitude>-2.87833300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149090" kind="city">
+    <ctml:name>Dormaa East</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q5298060</ctml:wikiDataId>
+    <ctml:latitude>7.30000000</ctml:latitude>
+    <ctml:longitude>-2.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149091" kind="city">
+    <ctml:name>Dormaa West</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q55555259</ctml:wikiDataId>
+    <ctml:latitude>7.01666700</ctml:latitude>
+    <ctml:longitude>-3.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149092" kind="city">
+    <ctml:name>Jaman North</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q1504034</ctml:wikiDataId>
+    <ctml:latitude>7.98832340</ctml:latitude>
+    <ctml:longitude>-2.96858690</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149093" kind="city">
+    <ctml:name>Jaman South</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q1504079</ctml:wikiDataId>
+    <ctml:latitude>7.70843750</ctml:latitude>
+    <ctml:longitude>-3.07501700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149095" kind="city">
+    <ctml:name>Sunyani West</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q7641761</ctml:wikiDataId>
+    <ctml:latitude>7.35660520</ctml:latitude>
+    <ctml:longitude>-2.44618620</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149096" kind="city">
+    <ctml:name>Tain</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q695048</ctml:wikiDataId>
+    <ctml:latitude>8.18114110</ctml:latitude>
+    <ctml:longitude>-2.86487620</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149097" kind="city">
+    <ctml:name>Wenchi</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BO</ctml:parentRef>
+    <ctml:wikiDataId>Q1504094</ctml:wikiDataId>
+    <ctml:latitude>7.74059920</ctml:latitude>
+    <ctml:longitude>-2.12267880</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149076" kind="city">
+    <ctml:name>Atebubu-Amantin</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q117446</ctml:wikiDataId>
+    <ctml:latitude>7.70237000</ctml:latitude>
+    <ctml:longitude>-1.21979430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149077" kind="city">
+    <ctml:name>Kintampo North</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q1665763</ctml:wikiDataId>
+    <ctml:latitude>8.39635790</ctml:latitude>
+    <ctml:longitude>-1.82000070</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149078" kind="city">
+    <ctml:name>Kintampo South</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q1504020</ctml:wikiDataId>
+    <ctml:latitude>7.98971320</ctml:latitude>
+    <ctml:longitude>-2.00711150</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149079" kind="city">
+    <ctml:name>Nkoranza North</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q3342359</ctml:wikiDataId>
+    <ctml:latitude>7.56603310</ctml:latitude>
+    <ctml:longitude>-1.72365200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149080" kind="city">
+    <ctml:name>Nkoranza South</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q7042619</ctml:wikiDataId>
+    <ctml:latitude>7.62405120</ctml:latitude>
+    <ctml:longitude>-1.79974460</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149082" kind="city">
+    <ctml:name>Pru East</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q105081992</ctml:wikiDataId>
+    <ctml:latitude>8.22620000</ctml:latitude>
+    <ctml:longitude>-0.65360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149081" kind="city">
+    <ctml:name>Pru West</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q105063588</ctml:wikiDataId>
+    <ctml:latitude>8.07359930</ctml:latitude>
+    <ctml:longitude>-1.29055410</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149083" kind="city">
+    <ctml:name>Sene East</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q55555336</ctml:wikiDataId>
+    <ctml:latitude>7.78300000</ctml:latitude>
+    <ctml:longitude>-0.21700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149084" kind="city">
+    <ctml:name>Sene West</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q55555352</ctml:wikiDataId>
+    <ctml:latitude>7.73420000</ctml:latitude>
+    <ctml:longitude>-0.68180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149075" kind="city">
+    <ctml:name>Techiman North</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Bono East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-BE</ctml:parentRef>
+    <ctml:wikiDataId>Q20855212</ctml:wikiDataId>
+    <ctml:latitude>7.70428020</ctml:latitude>
+    <ctml:longitude>-2.08140570</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52157" kind="city">
+    <ctml:name>Apam</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-CP</ctml:parentRef>
+    <ctml:wikiDataId>Q617438</ctml:wikiDataId>
+    <ctml:latitude>5.28483000</ctml:latitude>
+    <ctml:longitude>-0.73711000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52171" kind="city">
+    <ctml:name>Dunkwa</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-CP</ctml:parentRef>
+    <ctml:wikiDataId>Q5315398</ctml:wikiDataId>
+    <ctml:latitude>5.95996000</ctml:latitude>
+    <ctml:longitude>-1.77792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52173" kind="city">
+    <ctml:name>Elmina</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-CP</ctml:parentRef>
+    <ctml:wikiDataId>Q968662</ctml:wikiDataId>
+    <ctml:latitude>5.08470000</ctml:latitude>
+    <ctml:longitude>-1.35093000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52174" kind="city">
+    <ctml:name>Foso</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-CP</ctml:parentRef>
+    <ctml:wikiDataId>Q4808889</ctml:wikiDataId>
+    <ctml:latitude>5.70119000</ctml:latitude>
+    <ctml:longitude>-1.28657000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52179" kind="city">
+    <ctml:name>Kasoa</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-CP</ctml:parentRef>
+    <ctml:wikiDataId>Q656652</ctml:wikiDataId>
+    <ctml:latitude>5.53449000</ctml:latitude>
+    <ctml:longitude>-0.41679000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52192" kind="city">
+    <ctml:name>Mumford</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-CP</ctml:parentRef>
+    <ctml:wikiDataId>Q1316141</ctml:wikiDataId>
+    <ctml:latitude>5.26176000</ctml:latitude>
+    <ctml:longitude>-0.75897000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52199" kind="city">
+    <ctml:name>Saltpond</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-CP</ctml:parentRef>
+    <ctml:wikiDataId>Q340149</ctml:wikiDataId>
+    <ctml:latitude>5.20913000</ctml:latitude>
+    <ctml:longitude>-1.06058000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52205" kind="city">
+    <ctml:name>Swedru</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-CP</ctml:parentRef>
+    <ctml:wikiDataId>Q395265</ctml:wikiDataId>
+    <ctml:latitude>5.53711000</ctml:latitude>
+    <ctml:longitude>-0.69984000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52215" kind="city">
+    <ctml:name>Winneba</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-CP</ctml:parentRef>
+    <ctml:wikiDataId>Q1188560</ctml:wikiDataId>
+    <ctml:latitude>5.35113000</ctml:latitude>
+    <ctml:longitude>-0.62313000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52148" kind="city">
+    <ctml:name>Aburi</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-EP</ctml:parentRef>
+    <ctml:wikiDataId>Q336029</ctml:wikiDataId>
+    <ctml:latitude>5.84802000</ctml:latitude>
+    <ctml:longitude>-0.17449000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52152" kind="city">
+    <ctml:name>Akim Oda</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-EP</ctml:parentRef>
+    <ctml:wikiDataId>Q418402</ctml:wikiDataId>
+    <ctml:latitude>5.92665000</ctml:latitude>
+    <ctml:longitude>-0.98577000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GHA-52153" kind="admin2">
+    <ctml:name>Akim Swedru</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-EP</ctml:parentRef>
+    <ctml:wikiDataId>Q4701024</ctml:wikiDataId>
+    <ctml:latitude>5.89380000</ctml:latitude>
+    <ctml:longitude>-1.01636000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GHA-52154" kind="admin2">
+    <ctml:name>Akropong</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-EP</ctml:parentRef>
+    <ctml:wikiDataId>Q4701024</ctml:wikiDataId>
+    <ctml:latitude>5.97462000</ctml:latitude>
+    <ctml:longitude>-0.08542000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52155" kind="city">
+    <ctml:name>Akwatia</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-EP</ctml:parentRef>
+    <ctml:wikiDataId>Q4702013</ctml:wikiDataId>
+    <ctml:latitude>6.04024000</ctml:latitude>
+    <ctml:longitude>-0.80876000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52158" kind="city">
+    <ctml:name>Asamankese</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-EP</ctml:parentRef>
+    <ctml:wikiDataId>Q720732</ctml:wikiDataId>
+    <ctml:latitude>5.86006000</ctml:latitude>
+    <ctml:longitude>-0.66350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52163" kind="city">
+    <ctml:name>Begoro</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-EP</ctml:parentRef>
+    <ctml:wikiDataId>Q813582</ctml:wikiDataId>
+    <ctml:latitude>6.38706000</ctml:latitude>
+    <ctml:longitude>-0.37738000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GHA-52182" kind="admin2">
+    <ctml:name>Kibi</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-EP</ctml:parentRef>
+    <ctml:wikiDataId>Q6404011</ctml:wikiDataId>
+    <ctml:latitude>6.16494000</ctml:latitude>
+    <ctml:longitude>-0.55376000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GHA-52191" kind="admin2">
+    <ctml:name>Mpraeso</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-EP</ctml:parentRef>
+    <ctml:wikiDataId>Q1316141</ctml:wikiDataId>
+    <ctml:latitude>6.59321000</ctml:latitude>
+    <ctml:longitude>-0.73462000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52194" kind="city">
+    <ctml:name>Nsawam</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-EP</ctml:parentRef>
+    <ctml:wikiDataId>Q2724141</ctml:wikiDataId>
+    <ctml:latitude>5.80893000</ctml:latitude>
+    <ctml:longitude>-0.35026000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52203" kind="city">
+    <ctml:name>Suhum</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-EP</ctml:parentRef>
+    <ctml:wikiDataId>Q1450481</ctml:wikiDataId>
+    <ctml:latitude>6.04089000</ctml:latitude>
+    <ctml:longitude>-0.45004000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52149" kind="city">
+    <ctml:name>Accra</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Greater Accra</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AA</ctml:parentRef>
+    <ctml:wikiDataId>Q3761</ctml:wikiDataId>
+    <ctml:latitude>5.55602000</ctml:latitude>
+    <ctml:longitude>-0.19690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52159" kind="city">
+    <ctml:name>Atsiaman</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Greater Accra</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AA</ctml:parentRef>
+    <ctml:wikiDataId>Q720732</ctml:wikiDataId>
+    <ctml:latitude>5.69775000</ctml:latitude>
+    <ctml:longitude>-0.32824000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52169" kind="city">
+    <ctml:name>Dome</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Greater Accra</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AA</ctml:parentRef>
+    <ctml:wikiDataId>Q1236987</ctml:wikiDataId>
+    <ctml:latitude>5.65003000</ctml:latitude>
+    <ctml:longitude>-0.23610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52175" kind="city">
+    <ctml:name>Gbawe</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Greater Accra</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AA</ctml:parentRef>
+    <ctml:wikiDataId>Q1496746</ctml:wikiDataId>
+    <ctml:latitude>5.57692000</ctml:latitude>
+    <ctml:longitude>-0.31038000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52190" kind="city">
+    <ctml:name>Medina Estates</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Greater Accra</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AA</ctml:parentRef>
+    <ctml:wikiDataId>Q1316141</ctml:wikiDataId>
+    <ctml:latitude>5.66580000</ctml:latitude>
+    <ctml:longitude>-0.16307000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52195" kind="city">
+    <ctml:name>Nungua</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Greater Accra</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AA</ctml:parentRef>
+    <ctml:wikiDataId>Q493990</ctml:wikiDataId>
+    <ctml:latitude>5.60105000</ctml:latitude>
+    <ctml:longitude>-0.07713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52211" kind="city">
+    <ctml:name>Tema</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Greater Accra</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AA</ctml:parentRef>
+    <ctml:wikiDataId>Q726143</ctml:wikiDataId>
+    <ctml:latitude>5.66980000</ctml:latitude>
+    <ctml:longitude>-0.01657000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52212" kind="city">
+    <ctml:name>Teshi Old Town</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Greater Accra</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-AA</ctml:parentRef>
+    <ctml:wikiDataId>Q1062602</ctml:wikiDataId>
+    <ctml:latitude>5.58365000</ctml:latitude>
+    <ctml:longitude>-0.10722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149098" kind="city">
+    <ctml:name>Bunkpurugu-Nyakpanduri</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>North East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q631255</ctml:wikiDataId>
+    <ctml:latitude>10.46609170</ctml:latitude>
+    <ctml:longitude>-0.22711950</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149099" kind="city">
+    <ctml:name>Chereponi</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>North East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q5091888</ctml:wikiDataId>
+    <ctml:latitude>10.13827720</ctml:latitude>
+    <ctml:longitude>0.28242580</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149100" kind="city">
+    <ctml:name>East Mamprusi</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>North East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q824725</ctml:wikiDataId>
+    <ctml:latitude>10.42931860</ctml:latitude>
+    <ctml:longitude>-0.53078850</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149101" kind="city">
+    <ctml:name>Mamprugu-Moagduri</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>North East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q24698175</ctml:wikiDataId>
+    <ctml:latitude>10.23290000</ctml:latitude>
+    <ctml:longitude>-1.28360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149102" kind="city">
+    <ctml:name>West Mamprusi</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>North East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q3285080</ctml:wikiDataId>
+    <ctml:latitude>10.29906060</ctml:latitude>
+    <ctml:longitude>-1.36750100</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149103" kind="city">
+    <ctml:name>Yunyoo-Nasuan</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>North East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-NE</ctml:parentRef>
+    <ctml:wikiDataId>Q107070876</ctml:wikiDataId>
+    <ctml:latitude>10.48400000</ctml:latitude>
+    <ctml:longitude>-0.00900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GHA-52186" kind="admin2">
+    <ctml:name>Kpandae</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-NP</ctml:parentRef>
+    <ctml:wikiDataId>Q1016732</ctml:wikiDataId>
+    <ctml:latitude>8.46885000</ctml:latitude>
+    <ctml:longitude>-0.01127000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52198" kind="city">
+    <ctml:name>Salaga</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-NP</ctml:parentRef>
+    <ctml:wikiDataId>Q995578</ctml:wikiDataId>
+    <ctml:latitude>8.55083000</ctml:latitude>
+    <ctml:longitude>-0.51875000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52200" kind="city">
+    <ctml:name>Savelugu</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-NP</ctml:parentRef>
+    <ctml:wikiDataId>Q2228059</ctml:wikiDataId>
+    <ctml:latitude>9.62441000</ctml:latitude>
+    <ctml:longitude>-0.82530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52216" kind="city">
+    <ctml:name>Yendi</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-NP</ctml:parentRef>
+    <ctml:wikiDataId>Q639066</ctml:wikiDataId>
+    <ctml:latitude>9.44272000</ctml:latitude>
+    <ctml:longitude>-0.00991000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149104" kind="city">
+    <ctml:name>Biakoye</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Oti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-OT</ctml:parentRef>
+    <ctml:wikiDataId>Q2900789</ctml:wikiDataId>
+    <ctml:latitude>7.11698690</ctml:latitude>
+    <ctml:longitude>0.32324300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149105" kind="city">
+    <ctml:name>Jasikan</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Oti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-OT</ctml:parentRef>
+    <ctml:wikiDataId>Q1432676</ctml:wikiDataId>
+    <ctml:latitude>7.40940880</ctml:latitude>
+    <ctml:longitude>0.44301500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GHA-149106" kind="admin2">
+    <ctml:name>Kadjebi</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Oti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-OT</ctml:parentRef>
+    <ctml:wikiDataId>Q3191794</ctml:wikiDataId>
+    <ctml:latitude>7.52631920</ctml:latitude>
+    <ctml:longitude>0.46704770</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149107" kind="city">
+    <ctml:name>Krachi East</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Oti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-OT</ctml:parentRef>
+    <ctml:wikiDataId>Q3199542</ctml:wikiDataId>
+    <ctml:latitude>7.77196980</ctml:latitude>
+    <ctml:longitude>-0.07763760</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149108" kind="city">
+    <ctml:name>Krachi Nchumuru</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Oti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-OT</ctml:parentRef>
+    <ctml:wikiDataId>Q55589875</ctml:wikiDataId>
+    <ctml:latitude>8.14849800</ctml:latitude>
+    <ctml:longitude>-0.16349880</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149109" kind="city">
+    <ctml:name>Krachi West</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Oti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-OT</ctml:parentRef>
+    <ctml:wikiDataId>Q3199541</ctml:wikiDataId>
+    <ctml:latitude>7.98282160</ctml:latitude>
+    <ctml:longitude>-0.34886270</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149110" kind="city">
+    <ctml:name>Nkwanta North</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Oti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-OT</ctml:parentRef>
+    <ctml:wikiDataId>Q3342368</ctml:wikiDataId>
+    <ctml:latitude>8.35180760</ctml:latitude>
+    <ctml:longitude>0.12217620</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149111" kind="city">
+    <ctml:name>Nkwanta South</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Oti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-OT</ctml:parentRef>
+    <ctml:wikiDataId>Q977886</ctml:wikiDataId>
+    <ctml:latitude>8.25931340</ctml:latitude>
+    <ctml:longitude>0.50185190</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149112" kind="city">
+    <ctml:name>Bole</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Savannah</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q820344</ctml:wikiDataId>
+    <ctml:latitude>9.02996640</ctml:latitude>
+    <ctml:longitude>-2.50694300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149113" kind="city">
+    <ctml:name>Central Gonja</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Savannah</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q225577</ctml:wikiDataId>
+    <ctml:latitude>8.92784320</ctml:latitude>
+    <ctml:longitude>-1.95369720</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149115" kind="city">
+    <ctml:name>East Gonja</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Savannah</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q825097</ctml:wikiDataId>
+    <ctml:latitude>8.72568400</ctml:latitude>
+    <ctml:longitude>-1.07135790</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149116" kind="city">
+    <ctml:name>North East Gonja</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Savannah</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q105555666</ctml:wikiDataId>
+    <ctml:latitude>9.11746690</ctml:latitude>
+    <ctml:longitude>-0.55579360</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149114" kind="city">
+    <ctml:name>North Gonja</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Savannah</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q55570015</ctml:wikiDataId>
+    <ctml:latitude>9.54130850</ctml:latitude>
+    <ctml:longitude>-1.39766920</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149117" kind="city">
+    <ctml:name>Sawla-Tuna-Kalba</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Savannah</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q3474659</ctml:wikiDataId>
+    <ctml:latitude>9.39114570</ctml:latitude>
+    <ctml:longitude>-2.70611660</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149118" kind="city">
+    <ctml:name>West Gonja</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Savannah</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-SV</ctml:parentRef>
+    <ctml:wikiDataId>Q3110546</ctml:wikiDataId>
+    <ctml:latitude>9.57513170</ctml:latitude>
+    <ctml:longitude>-2.26440410</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52161" kind="city">
+    <ctml:name>Bawku</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Upper East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-UE</ctml:parentRef>
+    <ctml:wikiDataId>Q812036</ctml:wikiDataId>
+    <ctml:latitude>11.06160000</ctml:latitude>
+    <ctml:longitude>-0.24169000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52193" kind="city">
+    <ctml:name>Navrongo</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Upper East</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-UE</ctml:parentRef>
+    <ctml:wikiDataId>Q995548</ctml:wikiDataId>
+    <ctml:latitude>10.89557000</ctml:latitude>
+    <ctml:longitude>-1.09210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52150" kind="city">
+    <ctml:name>Aflao</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Volta</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q383333</ctml:wikiDataId>
+    <ctml:latitude>6.11982000</ctml:latitude>
+    <ctml:longitude>1.19012000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52156" kind="city">
+    <ctml:name>Anloga</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Volta</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q557912</ctml:wikiDataId>
+    <ctml:latitude>5.79473000</ctml:latitude>
+    <ctml:longitude>0.89728000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GHA-52177" kind="admin2">
+    <ctml:name>Hohoe</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Volta</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q1017008</ctml:wikiDataId>
+    <ctml:latitude>7.15181000</ctml:latitude>
+    <ctml:longitude>0.47362000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52180" kind="city">
+    <ctml:name>Keta</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Volta</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q1471408</ctml:wikiDataId>
+    <ctml:latitude>5.91793000</ctml:latitude>
+    <ctml:longitude>0.98789000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GHA-52181" kind="admin2">
+    <ctml:name>Kete Krachi</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Volta</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q1739861</ctml:wikiDataId>
+    <ctml:latitude>7.79391000</ctml:latitude>
+    <ctml:longitude>-0.04980000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52187" kind="city">
+    <ctml:name>Kpandu</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Volta</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q1785891</ctml:wikiDataId>
+    <ctml:latitude>6.99536000</ctml:latitude>
+    <ctml:longitude>0.29306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52147" kind="city">
+    <ctml:name>Aboso</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WP</ctml:parentRef>
+    <ctml:wikiDataId>Q185336</ctml:wikiDataId>
+    <ctml:latitude>5.36073000</ctml:latitude>
+    <ctml:longitude>-1.94856000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52160" kind="city">
+    <ctml:name>Axim</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WP</ctml:parentRef>
+    <ctml:wikiDataId>Q792509</ctml:wikiDataId>
+    <ctml:latitude>4.86641000</ctml:latitude>
+    <ctml:longitude>-2.24181000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52166" kind="city">
+    <ctml:name>Bibiani</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WP</ctml:parentRef>
+    <ctml:wikiDataId>Q4903040</ctml:wikiDataId>
+    <ctml:latitude>6.46346000</ctml:latitude>
+    <ctml:longitude>-2.31938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52197" kind="city">
+    <ctml:name>Prestea</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WP</ctml:parentRef>
+    <ctml:wikiDataId>Q2109005</ctml:wikiDataId>
+    <ctml:latitude>5.43385000</ctml:latitude>
+    <ctml:longitude>-2.14295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52202" kind="city">
+    <ctml:name>Shama Junction</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WP</ctml:parentRef>
+    <ctml:wikiDataId>Q243293</ctml:wikiDataId>
+    <ctml:latitude>5.01806000</ctml:latitude>
+    <ctml:longitude>-1.66437000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52207" kind="city">
+    <ctml:name>Takoradi</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WP</ctml:parentRef>
+    <ctml:wikiDataId>Q7674984</ctml:wikiDataId>
+    <ctml:latitude>4.89816000</ctml:latitude>
+    <ctml:longitude>-1.76029000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-52209" kind="city">
+    <ctml:name>Tarkwa</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WP</ctml:parentRef>
+    <ctml:wikiDataId>Q995439</ctml:wikiDataId>
+    <ctml:latitude>5.30383000</ctml:latitude>
+    <ctml:longitude>-1.98956000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149119" kind="city">
+    <ctml:name>Aowin</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western North</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WN</ctml:parentRef>
+    <ctml:wikiDataId>Q105985843</ctml:wikiDataId>
+    <ctml:latitude>5.82143850</ctml:latitude>
+    <ctml:longitude>-2.82360430</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149120" kind="city">
+    <ctml:name>Bia East</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western North</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WN</ctml:parentRef>
+    <ctml:wikiDataId>Q16841443</ctml:wikiDataId>
+    <ctml:latitude>6.81614450</ctml:latitude>
+    <ctml:longitude>-3.00383950</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149121" kind="city">
+    <ctml:name>Bia West</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western North</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WN</ctml:parentRef>
+    <ctml:wikiDataId>Q17155822</ctml:wikiDataId>
+    <ctml:latitude>6.56894170</ctml:latitude>
+    <ctml:longitude>-3.06628880</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149122" kind="city">
+    <ctml:name>Bibiani-Anhwiaso-Bekwai</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western North</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WN</ctml:parentRef>
+    <ctml:wikiDataId>Q856281</ctml:wikiDataId>
+    <ctml:latitude>6.30210040</ctml:latitude>
+    <ctml:longitude>-2.35675070</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149123" kind="city">
+    <ctml:name>Bodi</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western North</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WN</ctml:parentRef>
+    <ctml:wikiDataId>Q55589892</ctml:wikiDataId>
+    <ctml:latitude>6.22240910</ctml:latitude>
+    <ctml:longitude>-2.76615150</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149124" kind="city">
+    <ctml:name>Juaboso</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western North</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WN</ctml:parentRef>
+    <ctml:wikiDataId>Q683109</ctml:wikiDataId>
+    <ctml:latitude>6.33331570</ctml:latitude>
+    <ctml:longitude>-2.84206140</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149125" kind="city">
+    <ctml:name>Sefwi-Akontombra</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western North</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WN</ctml:parentRef>
+    <ctml:wikiDataId>Q24698107</ctml:wikiDataId>
+    <ctml:latitude>6.04285480</ctml:latitude>
+    <ctml:longitude>-2.88133620</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GHA-149127" kind="city">
+    <ctml:name>Suaman</ctml:name>
+    <ctml:country>GHA</ctml:country>
+    <ctml:admin1>Western North</ctml:admin1>
+    <ctml:parentRef>place:admin1:GH-WN</ctml:parentRef>
+    <ctml:wikiDataId>Q55593456</ctml:wikiDataId>
+    <ctml:latitude>6.10824160</ctml:latitude>
+    <ctml:longitude>-3.00869710</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

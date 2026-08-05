@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:GEO-52054" kind="city">
+    <ctml:name>Bich’vinta</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Abkhazia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q211318</ctml:wikiDataId>
+    <ctml:latitude>43.16197000</ctml:latitude>
+    <ctml:longitude>40.34102000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52063" kind="city">
+    <ctml:name>Dranda</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Abkhazia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q3951176</ctml:wikiDataId>
+    <ctml:latitude>42.87167000</ctml:latitude>
+    <ctml:longitude>41.15333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52065" kind="admin2">
+    <ctml:name>Gagra</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Abkhazia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q44811</ctml:wikiDataId>
+    <ctml:latitude>43.27858000</ctml:latitude>
+    <ctml:longitude>40.27124000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52066" kind="admin2">
+    <ctml:name>Gali</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Abkhazia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q236673</ctml:wikiDataId>
+    <ctml:latitude>42.62655000</ctml:latitude>
+    <ctml:longitude>41.73808000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52067" kind="city">
+    <ctml:name>Gantiadi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Abkhazia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q2508003</ctml:wikiDataId>
+    <ctml:latitude>43.38111000</ctml:latitude>
+    <ctml:longitude>40.07944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52073" kind="admin2">
+    <ctml:name>Gudauta</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Abkhazia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q1553013</ctml:wikiDataId>
+    <ctml:latitude>43.10547000</ctml:latitude>
+    <ctml:longitude>40.62067000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52078" kind="city">
+    <ctml:name>Kelasuri</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Abkhazia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q956954</ctml:wikiDataId>
+    <ctml:latitude>42.97877000</ctml:latitude>
+    <ctml:longitude>41.07067000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52105" kind="admin2">
+    <ctml:name>Och’amch’ire</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Abkhazia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q211600</ctml:wikiDataId>
+    <ctml:latitude>42.71232000</ctml:latitude>
+    <ctml:longitude>41.46863000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52111" kind="city">
+    <ctml:name>P’rimorsk’oe</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Abkhazia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q185345</ctml:wikiDataId>
+    <ctml:latitude>43.09236000</ctml:latitude>
+    <ctml:longitude>40.69650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52123" kind="city">
+    <ctml:name>Stantsiya Novyy Afon</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Abkhazia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q42194</ctml:wikiDataId>
+    <ctml:latitude>43.08056000</ctml:latitude>
+    <ctml:longitude>40.83833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52130" kind="admin2">
+    <ctml:name>Tqvarch'eli</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Abkhazia</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AB</ctml:parentRef>
+    <ctml:wikiDataId>Q270535</ctml:wikiDataId>
+    <ctml:latitude>42.84035000</ctml:latitude>
+    <ctml:longitude>41.68007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52040" kind="city">
+    <ctml:name>Akhaldaba</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Adjara</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q31845177</ctml:wikiDataId>
+    <ctml:latitude>41.65395000</ctml:latitude>
+    <ctml:longitude>42.15163000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52058" kind="city">
+    <ctml:name>Chakvi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Adjara</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3646262</ctml:wikiDataId>
+    <ctml:latitude>41.72528000</ctml:latitude>
+    <ctml:longitude>41.73278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52061" kind="city">
+    <ctml:name>Dioknisi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Adjara</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q4161357</ctml:wikiDataId>
+    <ctml:latitude>41.62933000</ctml:latitude>
+    <ctml:longitude>42.39171000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52081" kind="admin2">
+    <ctml:name>Khelvachauri</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Adjara</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1025120</ctml:wikiDataId>
+    <ctml:latitude>41.58556000</ctml:latitude>
+    <ctml:longitude>41.66889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52084" kind="admin2">
+    <ctml:name>Khulo</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Adjara</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q1089456</ctml:wikiDataId>
+    <ctml:latitude>41.64353000</ctml:latitude>
+    <ctml:longitude>42.30397000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52085" kind="admin2">
+    <ctml:name>Kobuleti</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Adjara</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q328975</ctml:wikiDataId>
+    <ctml:latitude>41.82143000</ctml:latitude>
+    <ctml:longitude>41.77921000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52093" kind="city">
+    <ctml:name>Makhinjauri</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Adjara</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q3646259</ctml:wikiDataId>
+    <ctml:latitude>41.67385000</ctml:latitude>
+    <ctml:longitude>41.69401000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52104" kind="city">
+    <ctml:name>Ochkhamuri</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Adjara</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q10600995</ctml:wikiDataId>
+    <ctml:latitude>41.85975000</ctml:latitude>
+    <ctml:longitude>41.85309000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52119" kind="admin2">
+    <ctml:name>Shuakhevi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Adjara</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q161941</ctml:wikiDataId>
+    <ctml:latitude>41.63000000</ctml:latitude>
+    <ctml:longitude>42.19083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52134" kind="city">
+    <ctml:name>Tsikhisdziri</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Adjara</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-AJ</ctml:parentRef>
+    <ctml:wikiDataId>Q145127</ctml:wikiDataId>
+    <ctml:latitude>41.76659000</ctml:latitude>
+    <ctml:longitude>41.75517000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52091" kind="admin2">
+    <ctml:name>Lanchkhuti</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Guria</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-GU</ctml:parentRef>
+    <ctml:wikiDataId>Q956922</ctml:wikiDataId>
+    <ctml:latitude>42.09027000</ctml:latitude>
+    <ctml:longitude>42.03239000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52102" kind="city">
+    <ctml:name>Naruja</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Guria</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-GU</ctml:parentRef>
+    <ctml:wikiDataId>Q1898132</ctml:wikiDataId>
+    <ctml:latitude>41.90694000</ctml:latitude>
+    <ctml:longitude>41.95417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52141" kind="city">
+    <ctml:name>Urek’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Guria</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-GU</ctml:parentRef>
+    <ctml:wikiDataId>Q3651285</ctml:wikiDataId>
+    <ctml:latitude>41.99556000</ctml:latitude>
+    <ctml:longitude>41.77861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52051" kind="city">
+    <ctml:name>Baghdatis Munitsip’alit’et’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Imereti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q2018619</ctml:wikiDataId>
+    <ctml:latitude>42.00000000</ctml:latitude>
+    <ctml:longitude>42.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52059" kind="admin2">
+    <ctml:name>Chiat’ura</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Imereti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q217443</ctml:wikiDataId>
+    <ctml:latitude>42.29806000</ctml:latitude>
+    <ctml:longitude>43.29889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52088" kind="city">
+    <ctml:name>K’alak’i Chiat’ura</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Imereti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q269506</ctml:wikiDataId>
+    <ctml:latitude>42.28333000</ctml:latitude>
+    <ctml:longitude>43.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52089" kind="city">
+    <ctml:name>K’ulashi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Imereti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q2245433</ctml:wikiDataId>
+    <ctml:latitude>42.20405000</ctml:latitude>
+    <ctml:longitude>42.34289000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52079" kind="admin2">
+    <ctml:name>Kharagauli</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Imereti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q14645211</ctml:wikiDataId>
+    <ctml:latitude>42.02137000</ctml:latitude>
+    <ctml:longitude>43.19773000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52083" kind="admin2">
+    <ctml:name>Khoni</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Imereti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q1011011</ctml:wikiDataId>
+    <ctml:latitude>42.32260000</ctml:latitude>
+    <ctml:longitude>42.42061000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52114" kind="admin2">
+    <ctml:name>Sach’khere</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Imereti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q474669</ctml:wikiDataId>
+    <ctml:latitude>42.34528000</ctml:latitude>
+    <ctml:longitude>43.41944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52116" kind="admin2">
+    <ctml:name>Samtredia</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Imereti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q956932</ctml:wikiDataId>
+    <ctml:latitude>42.15370000</ctml:latitude>
+    <ctml:longitude>42.33517000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52118" kind="city">
+    <ctml:name>Shorapani</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Imereti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q1944249</ctml:wikiDataId>
+    <ctml:latitude>42.08980000</ctml:latitude>
+    <ctml:longitude>43.08662000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52129" kind="admin2">
+    <ctml:name>Tqibuli</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Imereti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q1954407</ctml:wikiDataId>
+    <ctml:latitude>42.35121000</ctml:latitude>
+    <ctml:longitude>42.99874000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52137" kind="admin2">
+    <ctml:name>Tsqaltubo</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Imereti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q217990</ctml:wikiDataId>
+    <ctml:latitude>42.34129000</ctml:latitude>
+    <ctml:longitude>42.59760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52143" kind="admin2">
+    <ctml:name>Vani</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Imereti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q1011003</ctml:wikiDataId>
+    <ctml:latitude>42.08320000</ctml:latitude>
+    <ctml:longitude>42.52163000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52144" kind="admin2">
+    <ctml:name>Zestap’oni</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Imereti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-IM</ctml:parentRef>
+    <ctml:wikiDataId>Q734315</ctml:wikiDataId>
+    <ctml:latitude>42.11000000</ctml:latitude>
+    <ctml:longitude>43.05250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52045" kind="admin2">
+    <ctml:name>Akhmeta</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q2513568</ctml:wikiDataId>
+    <ctml:latitude>42.03111000</ctml:latitude>
+    <ctml:longitude>45.20750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52074" kind="admin2">
+    <ctml:name>Gurjaani</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q1011047</ctml:wikiDataId>
+    <ctml:latitude>41.74292000</ctml:latitude>
+    <ctml:longitude>45.80111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52090" kind="admin2">
+    <ctml:name>Lagodekhi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q956966</ctml:wikiDataId>
+    <ctml:latitude>41.82681000</ctml:latitude>
+    <ctml:longitude>46.27667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52112" kind="admin2">
+    <ctml:name>Qvareli</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q1011016</ctml:wikiDataId>
+    <ctml:latitude>41.95493000</ctml:latitude>
+    <ctml:longitude>45.81716000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52115" kind="admin2">
+    <ctml:name>Sagarejo</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q956932</ctml:wikiDataId>
+    <ctml:latitude>41.73397000</ctml:latitude>
+    <ctml:longitude>45.33149000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52120" kind="admin2">
+    <ctml:name>Sighnaghi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q946143</ctml:wikiDataId>
+    <ctml:latitude>41.62046000</ctml:latitude>
+    <ctml:longitude>45.92198000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52135" kind="city">
+    <ctml:name>Tsinandali</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q118953</ctml:wikiDataId>
+    <ctml:latitude>41.89315000</ctml:latitude>
+    <ctml:longitude>45.57129000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52136" kind="city">
+    <ctml:name>Tsnori</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KA</ctml:parentRef>
+    <ctml:wikiDataId>Q217990</ctml:wikiDataId>
+    <ctml:latitude>41.62088000</ctml:latitude>
+    <ctml:longitude>45.96943000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52055" kind="admin2">
+    <ctml:name>Bolnisi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kvemo Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KK</ctml:parentRef>
+    <ctml:wikiDataId>Q653420</ctml:wikiDataId>
+    <ctml:latitude>41.44794000</ctml:latitude>
+    <ctml:longitude>44.53838000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52056" kind="city">
+    <ctml:name>Bolnisis Munitsip’alit’et’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kvemo Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KK</ctml:parentRef>
+    <ctml:wikiDataId>Q2513580</ctml:wikiDataId>
+    <ctml:latitude>41.36667000</ctml:latitude>
+    <ctml:longitude>44.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52060" kind="city">
+    <ctml:name>Didi Lilo</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kvemo Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KK</ctml:parentRef>
+    <ctml:wikiDataId>Q4161357</ctml:wikiDataId>
+    <ctml:latitude>41.73611000</ctml:latitude>
+    <ctml:longitude>44.96472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52062" kind="city">
+    <ctml:name>Dmanisis Munitsip’alit’et’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kvemo Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KK</ctml:parentRef>
+    <ctml:wikiDataId>Q681371</ctml:wikiDataId>
+    <ctml:latitude>41.35000000</ctml:latitude>
+    <ctml:longitude>44.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52068" kind="admin2">
+    <ctml:name>Gardabani</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kvemo Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KK</ctml:parentRef>
+    <ctml:wikiDataId>Q1010960</ctml:wikiDataId>
+    <ctml:latitude>41.46054000</ctml:latitude>
+    <ctml:longitude>45.09283000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52069" kind="city">
+    <ctml:name>Gardabnis Munitsip’alit’et’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kvemo Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KK</ctml:parentRef>
+    <ctml:wikiDataId>Q2512996</ctml:wikiDataId>
+    <ctml:latitude>41.61667000</ctml:latitude>
+    <ctml:longitude>45.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52094" kind="city">
+    <ctml:name>Manglisi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kvemo Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KK</ctml:parentRef>
+    <ctml:wikiDataId>Q2029774</ctml:wikiDataId>
+    <ctml:latitude>41.69698000</ctml:latitude>
+    <ctml:longitude>44.38448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52095" kind="admin2">
+    <ctml:name>Marneuli</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kvemo Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KK</ctml:parentRef>
+    <ctml:wikiDataId>Q2029774</ctml:wikiDataId>
+    <ctml:latitude>41.47588000</ctml:latitude>
+    <ctml:longitude>44.80895000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52096" kind="city">
+    <ctml:name>Marneulis Munitsip’alit’et’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kvemo Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KK</ctml:parentRef>
+    <ctml:wikiDataId>Q2410306</ctml:wikiDataId>
+    <ctml:latitude>41.38333000</ctml:latitude>
+    <ctml:longitude>44.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52101" kind="city">
+    <ctml:name>Naghvarevi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kvemo Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KK</ctml:parentRef>
+    <ctml:wikiDataId>Q3653114</ctml:wikiDataId>
+    <ctml:latitude>41.35272000</ctml:latitude>
+    <ctml:longitude>44.76178000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52140" kind="admin2">
+    <ctml:name>T’et’ri Tsqaro</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kvemo Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KK</ctml:parentRef>
+    <ctml:wikiDataId>Q1010985</ctml:wikiDataId>
+    <ctml:latitude>41.54448000</ctml:latitude>
+    <ctml:longitude>44.46153000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52128" kind="city">
+    <ctml:name>Tetrits’q’alos Munitsip’alit’et’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kvemo Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KK</ctml:parentRef>
+    <ctml:wikiDataId>Q1954407</ctml:wikiDataId>
+    <ctml:latitude>41.60000000</ctml:latitude>
+    <ctml:longitude>44.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52138" kind="city">
+    <ctml:name>Ts’alk’is Munitsip’alit’et’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kvemo Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KK</ctml:parentRef>
+    <ctml:wikiDataId>Q2238147</ctml:wikiDataId>
+    <ctml:latitude>41.63333000</ctml:latitude>
+    <ctml:longitude>43.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52133" kind="admin2">
+    <ctml:name>Tsalka</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Kvemo Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-KK</ctml:parentRef>
+    <ctml:wikiDataId>Q145127</ctml:wikiDataId>
+    <ctml:latitude>41.59460000</ctml:latitude>
+    <ctml:longitude>44.08909000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52041" kind="admin2">
+    <ctml:name>Akhalgori</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Mtskheta-Mtianeti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-MM</ctml:parentRef>
+    <ctml:wikiDataId>Q1010939</ctml:wikiDataId>
+    <ctml:latitude>42.12597000</ctml:latitude>
+    <ctml:longitude>44.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52064" kind="city">
+    <ctml:name>Dzegvi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Mtskheta-Mtianeti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-MM</ctml:parentRef>
+    <ctml:wikiDataId>Q3951176</ctml:wikiDataId>
+    <ctml:latitude>41.84569000</ctml:latitude>
+    <ctml:longitude>44.60097000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52072" kind="city">
+    <ctml:name>Gudauri</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Mtskheta-Mtianeti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-MM</ctml:parentRef>
+    <ctml:wikiDataId>Q1553013</ctml:wikiDataId>
+    <ctml:latitude>42.47797000</ctml:latitude>
+    <ctml:longitude>44.47616000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52075" kind="admin2">
+    <ctml:name>Java</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Mtskheta-Mtianeti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-MM</ctml:parentRef>
+    <ctml:wikiDataId>Q1025834</ctml:wikiDataId>
+    <ctml:latitude>42.39972000</ctml:latitude>
+    <ctml:longitude>43.93667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52109" kind="city">
+    <ctml:name>P’asanauri</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Mtskheta-Mtianeti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-MM</ctml:parentRef>
+    <ctml:wikiDataId>Q317145</ctml:wikiDataId>
+    <ctml:latitude>42.35060000</ctml:latitude>
+    <ctml:longitude>44.68912000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52124" kind="admin2">
+    <ctml:name>Step’antsminda</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Mtskheta-Mtianeti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-MM</ctml:parentRef>
+    <ctml:wikiDataId>Q1025823</ctml:wikiDataId>
+    <ctml:latitude>42.65667000</ctml:latitude>
+    <ctml:longitude>44.64333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52145" kind="city">
+    <ctml:name>Zhinvali</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Mtskheta-Mtianeti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-MM</ctml:parentRef>
+    <ctml:wikiDataId>Q2073374</ctml:wikiDataId>
+    <ctml:latitude>42.13181000</ctml:latitude>
+    <ctml:longitude>44.77264000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52048" kind="city">
+    <ctml:name>Ambrolauris Munitsip’alit’et’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Racha-Lechkhumi and Kvemo Svaneti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-RL</ctml:parentRef>
+    <ctml:wikiDataId>Q2464159</ctml:wikiDataId>
+    <ctml:latitude>42.56667000</ctml:latitude>
+    <ctml:longitude>43.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52092" kind="admin2">
+    <ctml:name>Lent’ekhi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Racha-Lechkhumi and Kvemo Svaneti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-RL</ctml:parentRef>
+    <ctml:wikiDataId>Q956922</ctml:wikiDataId>
+    <ctml:latitude>42.78893000</ctml:latitude>
+    <ctml:longitude>42.72226000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52106" kind="admin2">
+    <ctml:name>Oni</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Racha-Lechkhumi and Kvemo Svaneti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-RL</ctml:parentRef>
+    <ctml:wikiDataId>Q941948</ctml:wikiDataId>
+    <ctml:latitude>42.57944000</ctml:latitude>
+    <ctml:longitude>43.44250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52035" kind="admin2">
+    <ctml:name>Abasha</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samegrelo-Zemo Svaneti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2513666</ctml:wikiDataId>
+    <ctml:latitude>42.20492840</ctml:latitude>
+    <ctml:longitude>42.20333210</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52076" kind="city">
+    <ctml:name>Jvari</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samegrelo-Zemo Svaneti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SZ</ctml:parentRef>
+    <ctml:wikiDataId>Q853261</ctml:wikiDataId>
+    <ctml:latitude>42.71693000</ctml:latitude>
+    <ctml:longitude>42.05200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52082" kind="admin2">
+    <ctml:name>Khobi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samegrelo-Zemo Svaneti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SZ</ctml:parentRef>
+    <ctml:wikiDataId>Q1989822</ctml:wikiDataId>
+    <ctml:latitude>42.31558000</ctml:latitude>
+    <ctml:longitude>41.89871000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52087" kind="city">
+    <ctml:name>Kveda Chkhorots’q’u</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samegrelo-Zemo Svaneti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SZ</ctml:parentRef>
+    <ctml:wikiDataId>Q328975</ctml:wikiDataId>
+    <ctml:latitude>42.48103000</ctml:latitude>
+    <ctml:longitude>42.09661000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52097" kind="admin2">
+    <ctml:name>Mart’vili</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samegrelo-Zemo Svaneti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SZ</ctml:parentRef>
+    <ctml:wikiDataId>Q179290</ctml:wikiDataId>
+    <ctml:latitude>42.41436000</ctml:latitude>
+    <ctml:longitude>42.37924000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52098" kind="admin2">
+    <ctml:name>Mest’ia</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samegrelo-Zemo Svaneti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SZ</ctml:parentRef>
+    <ctml:wikiDataId>Q179290</ctml:wikiDataId>
+    <ctml:latitude>43.04581000</ctml:latitude>
+    <ctml:longitude>42.72780000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52099" kind="city">
+    <ctml:name>Mest’iis Munitsip’alit’et’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samegrelo-Zemo Svaneti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SZ</ctml:parentRef>
+    <ctml:wikiDataId>Q2490962</ctml:wikiDataId>
+    <ctml:latitude>43.05000000</ctml:latitude>
+    <ctml:longitude>42.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52107" kind="city">
+    <ctml:name>Orsant’ia</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samegrelo-Zemo Svaneti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SZ</ctml:parentRef>
+    <ctml:wikiDataId>Q941948</ctml:wikiDataId>
+    <ctml:latitude>42.46777000</ctml:latitude>
+    <ctml:longitude>41.67377000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52110" kind="admin2">
+    <ctml:name>P’ot’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samegrelo-Zemo Svaneti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SZ</ctml:parentRef>
+    <ctml:wikiDataId>Q185345</ctml:wikiDataId>
+    <ctml:latitude>42.14616000</ctml:latitude>
+    <ctml:longitude>41.67197000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52117" kind="admin2">
+    <ctml:name>Senak’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samegrelo-Zemo Svaneti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SZ</ctml:parentRef>
+    <ctml:wikiDataId>Q320519</ctml:wikiDataId>
+    <ctml:latitude>42.27042000</ctml:latitude>
+    <ctml:longitude>42.06750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52132" kind="admin2">
+    <ctml:name>Tsalenjikha</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samegrelo-Zemo Svaneti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SZ</ctml:parentRef>
+    <ctml:wikiDataId>Q1017210</ctml:wikiDataId>
+    <ctml:latitude>42.60444000</ctml:latitude>
+    <ctml:longitude>42.06825000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52036" kind="admin2">
+    <ctml:name>Adigeni</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samtskhe-Javakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2513666</ctml:wikiDataId>
+    <ctml:latitude>41.68191000</ctml:latitude>
+    <ctml:longitude>42.69867000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52037" kind="city">
+    <ctml:name>Adigeni Municipality</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samtskhe-Javakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2382197</ctml:wikiDataId>
+    <ctml:latitude>41.71667000</ctml:latitude>
+    <ctml:longitude>42.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52039" kind="city">
+    <ctml:name>Akhaldaba</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samtskhe-Javakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q31845177</ctml:wikiDataId>
+    <ctml:latitude>41.92945000</ctml:latitude>
+    <ctml:longitude>43.48762000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52042" kind="admin2">
+    <ctml:name>Akhalk’alak’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samtskhe-Javakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q500888</ctml:wikiDataId>
+    <ctml:latitude>41.40514000</ctml:latitude>
+    <ctml:longitude>43.48629000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52044" kind="city">
+    <ctml:name>Akhaltsikhis Munitsip’alit’et’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samtskhe-Javakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2513568</ctml:wikiDataId>
+    <ctml:latitude>41.63333000</ctml:latitude>
+    <ctml:longitude>43.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52050" kind="city">
+    <ctml:name>Asp’indzis Munitsip’alit’et’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samtskhe-Javakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2305733</ctml:wikiDataId>
+    <ctml:latitude>41.50000000</ctml:latitude>
+    <ctml:longitude>43.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52049" kind="admin2">
+    <ctml:name>Aspindza</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samtskhe-Javakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q2344454</ctml:wikiDataId>
+    <ctml:latitude>41.57389000</ctml:latitude>
+    <ctml:longitude>43.24826000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52052" kind="city">
+    <ctml:name>Bakuriani</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samtskhe-Javakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q789104</ctml:wikiDataId>
+    <ctml:latitude>41.74972000</ctml:latitude>
+    <ctml:longitude>43.53250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52057" kind="admin2">
+    <ctml:name>Borjomi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samtskhe-Javakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q208352</ctml:wikiDataId>
+    <ctml:latitude>41.85272000</ctml:latitude>
+    <ctml:longitude>43.41284000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52103" kind="admin2">
+    <ctml:name>Ninotsminda</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samtskhe-Javakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q10600995</ctml:wikiDataId>
+    <ctml:latitude>41.26458000</ctml:latitude>
+    <ctml:longitude>43.59161000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52131" kind="city">
+    <ctml:name>Tsaghveri</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samtskhe-Javakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q270535</ctml:wikiDataId>
+    <ctml:latitude>41.80365000</ctml:latitude>
+    <ctml:longitude>43.48194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52142" kind="city">
+    <ctml:name>Vale</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Samtskhe-Javakheti</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SJ</ctml:parentRef>
+    <ctml:wikiDataId>Q783749</ctml:wikiDataId>
+    <ctml:latitude>41.61558000</ctml:latitude>
+    <ctml:longitude>42.87224000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52038" kind="city">
+    <ctml:name>Agara</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Shida Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SK</ctml:parentRef>
+    <ctml:wikiDataId>Q2382197</ctml:wikiDataId>
+    <ctml:latitude>42.03761000</ctml:latitude>
+    <ctml:longitude>43.82382000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52071" kind="city">
+    <ctml:name>Goris Munitsip’alit’et’i</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Shida Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SK</ctml:parentRef>
+    <ctml:wikiDataId>Q1417170</ctml:wikiDataId>
+    <ctml:latitude>42.06667000</ctml:latitude>
+    <ctml:longitude>44.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52077" kind="admin2">
+    <ctml:name>Kaspi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Shida Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SK</ctml:parentRef>
+    <ctml:wikiDataId>Q956954</ctml:wikiDataId>
+    <ctml:latitude>41.92520000</ctml:latitude>
+    <ctml:longitude>44.42568000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:GEO-52080" kind="admin2">
+    <ctml:name>Khashuri</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Shida Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SK</ctml:parentRef>
+    <ctml:wikiDataId>Q932901</ctml:wikiDataId>
+    <ctml:latitude>41.99414000</ctml:latitude>
+    <ctml:longitude>43.59994000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52125" kind="city">
+    <ctml:name>Surami</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Shida Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SK</ctml:parentRef>
+    <ctml:wikiDataId>Q2474275</ctml:wikiDataId>
+    <ctml:latitude>42.02431000</ctml:latitude>
+    <ctml:longitude>43.55556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52139" kind="city">
+    <ctml:name>Ts’khinvali</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Shida Kartli</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-SK</ctml:parentRef>
+    <ctml:wikiDataId>Q79863</ctml:wikiDataId>
+    <ctml:latitude>42.22764000</ctml:latitude>
+    <ctml:longitude>43.96861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GEO-52126" kind="city">
+    <ctml:name>Tbilisi</ctml:name>
+    <ctml:country>GEO</ctml:country>
+    <ctml:admin1>Tbilisi</ctml:admin1>
+    <ctml:parentRef>place:admin1:GE-TB</ctml:parentRef>
+    <ctml:wikiDataId>Q2474275</ctml:wikiDataId>
+    <ctml:latitude>41.69411000</ctml:latitude>
+    <ctml:longitude>44.83368000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

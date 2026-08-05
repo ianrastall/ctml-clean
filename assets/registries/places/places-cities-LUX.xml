@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:LUX-66726" kind="city">
+    <ctml:name>Bascharage</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q947942</ctml:wikiDataId>
+    <ctml:latitude>49.56727000</ctml:latitude>
+    <ctml:longitude>5.90730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66745" kind="city">
+    <ctml:name>Bridel</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q2584585</ctml:wikiDataId>
+    <ctml:latitude>49.65579000</ctml:latitude>
+    <ctml:longitude>6.07999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LUX-66747" kind="admin2">
+    <ctml:name>Capellen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q1988543</ctml:wikiDataId>
+    <ctml:latitude>49.64500000</ctml:latitude>
+    <ctml:longitude>5.99083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66748" kind="city">
+    <ctml:name>Clemency</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q1369887</ctml:wikiDataId>
+    <ctml:latitude>49.59667000</ctml:latitude>
+    <ctml:longitude>5.87583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66759" kind="city">
+    <ctml:name>Dippach</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q13102344</ctml:wikiDataId>
+    <ctml:latitude>49.58701000</ctml:latitude>
+    <ctml:longitude>5.98330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66762" kind="city">
+    <ctml:name>Eischen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q1311018</ctml:wikiDataId>
+    <ctml:latitude>49.68556000</ctml:latitude>
+    <ctml:longitude>5.87861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66773" kind="city">
+    <ctml:name>Garnich</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q20969364</ctml:wikiDataId>
+    <ctml:latitude>49.61667000</ctml:latitude>
+    <ctml:longitude>5.95250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66778" kind="city">
+    <ctml:name>Hautcharage</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q2675610</ctml:wikiDataId>
+    <ctml:latitude>49.57499000</ctml:latitude>
+    <ctml:longitude>5.90970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66783" kind="city">
+    <ctml:name>Hobscheid</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q13102943</ctml:wikiDataId>
+    <ctml:latitude>49.68861000</ctml:latitude>
+    <ctml:longitude>5.91472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66793" kind="city">
+    <ctml:name>Käerjeng</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q776642</ctml:wikiDataId>
+    <ctml:latitude>49.58311000</ctml:latitude>
+    <ctml:longitude>5.89892000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66788" kind="city">
+    <ctml:name>Kehlen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q16763861</ctml:wikiDataId>
+    <ctml:latitude>49.66833000</ctml:latitude>
+    <ctml:longitude>6.03583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66791" kind="city">
+    <ctml:name>Koerich</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q20969433</ctml:wikiDataId>
+    <ctml:latitude>49.67000000</ctml:latitude>
+    <ctml:longitude>5.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66792" kind="city">
+    <ctml:name>Kopstal</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q20969435</ctml:wikiDataId>
+    <ctml:latitude>49.66444000</ctml:latitude>
+    <ctml:longitude>6.07306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66802" kind="city">
+    <ctml:name>Mamer</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q20969453</ctml:wikiDataId>
+    <ctml:latitude>49.62750000</ctml:latitude>
+    <ctml:longitude>6.02333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66839" kind="city">
+    <ctml:name>Schouweiler</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q2609947</ctml:wikiDataId>
+    <ctml:latitude>49.58250000</ctml:latitude>
+    <ctml:longitude>5.95639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66842" kind="city">
+    <ctml:name>Septfontaines</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q3917095</ctml:wikiDataId>
+    <ctml:latitude>49.70111000</ctml:latitude>
+    <ctml:longitude>5.96722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66845" kind="city">
+    <ctml:name>Steinfort</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Capellen</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CA</ctml:parentRef>
+    <ctml:wikiDataId>Q985478</ctml:wikiDataId>
+    <ctml:latitude>49.66139000</ctml:latitude>
+    <ctml:longitude>5.91917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LUX-66749" kind="admin2">
+    <ctml:name>Clervaux</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Clervaux</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CL</ctml:parentRef>
+    <ctml:wikiDataId>Q13103610</ctml:wikiDataId>
+    <ctml:latitude>50.05472000</ctml:latitude>
+    <ctml:longitude>6.03139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66784" kind="city">
+    <ctml:name>Hosingen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Clervaux</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CL</ctml:parentRef>
+    <ctml:wikiDataId>Q1333496</ctml:wikiDataId>
+    <ctml:latitude>50.01218000</ctml:latitude>
+    <ctml:longitude>6.09089000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66819" kind="city">
+    <ctml:name>Parc Hosingen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Clervaux</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CL</ctml:parentRef>
+    <ctml:wikiDataId>Q743393</ctml:wikiDataId>
+    <ctml:latitude>49.99744000</ctml:latitude>
+    <ctml:longitude>6.09067000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66849" kind="city">
+    <ctml:name>Troisvierges</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Clervaux</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CL</ctml:parentRef>
+    <ctml:wikiDataId>Q985478</ctml:wikiDataId>
+    <ctml:latitude>50.12111000</ctml:latitude>
+    <ctml:longitude>6.00028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66862" kind="city">
+    <ctml:name>Weiswampach</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Clervaux</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CL</ctml:parentRef>
+    <ctml:wikiDataId>Q3917108</ctml:wikiDataId>
+    <ctml:latitude>50.13722000</ctml:latitude>
+    <ctml:longitude>6.07500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66865" kind="city">
+    <ctml:name>Wincrange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Clervaux</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-CL</ctml:parentRef>
+    <ctml:wikiDataId>Q3917114</ctml:wikiDataId>
+    <ctml:latitude>50.05333000</ctml:latitude>
+    <ctml:longitude>5.91917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66737" kind="city">
+    <ctml:name>Bettendorf</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Diekirch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q22284</ctml:wikiDataId>
+    <ctml:latitude>49.87667000</ctml:latitude>
+    <ctml:longitude>6.21806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66743" kind="city">
+    <ctml:name>Bourscheid</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Diekirch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q20969287</ctml:wikiDataId>
+    <ctml:latitude>49.90862000</ctml:latitude>
+    <ctml:longitude>6.06750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66752" kind="city">
+    <ctml:name>Commune de la Vallée de l’Ernz</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Diekirch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q1313580</ctml:wikiDataId>
+    <ctml:latitude>49.82149000</ctml:latitude>
+    <ctml:longitude>6.21746000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66764" kind="city">
+    <ctml:name>Erpeldange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Diekirch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q1311018</ctml:wikiDataId>
+    <ctml:latitude>49.86472000</ctml:latitude>
+    <ctml:longitude>6.11472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66767" kind="city">
+    <ctml:name>Ettelbruck</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Diekirch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q20969348</ctml:wikiDataId>
+    <ctml:latitude>49.84750000</ctml:latitude>
+    <ctml:longitude>6.10417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66769" kind="city">
+    <ctml:name>Feulen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Diekirch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q1143707</ctml:wikiDataId>
+    <ctml:latitude>49.85000000</ctml:latitude>
+    <ctml:longitude>6.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66804" kind="city">
+    <ctml:name>Medernach</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Diekirch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q20969453</ctml:wikiDataId>
+    <ctml:latitude>49.80955000</ctml:latitude>
+    <ctml:longitude>6.21521000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66807" kind="city">
+    <ctml:name>Mertzig</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Diekirch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q3916990</ctml:wikiDataId>
+    <ctml:latitude>49.83389000</ctml:latitude>
+    <ctml:longitude>6.00750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66815" kind="city">
+    <ctml:name>Niederfeulen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Diekirch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q3112408</ctml:wikiDataId>
+    <ctml:latitude>49.85556000</ctml:latitude>
+    <ctml:longitude>6.04722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66826" kind="city">
+    <ctml:name>Reisdorf</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Diekirch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q16764501</ctml:wikiDataId>
+    <ctml:latitude>49.86861000</ctml:latitude>
+    <ctml:longitude>6.26778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66837" kind="city">
+    <ctml:name>Schieren</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Diekirch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q20969739</ctml:wikiDataId>
+    <ctml:latitude>49.83056000</ctml:latitude>
+    <ctml:longitude>6.09861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66859" kind="city">
+    <ctml:name>Warken</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Diekirch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q1828890</ctml:wikiDataId>
+    <ctml:latitude>49.85918000</ctml:latitude>
+    <ctml:longitude>6.08415000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66728" kind="city">
+    <ctml:name>Beaufort</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Echternach</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q20969250</ctml:wikiDataId>
+    <ctml:latitude>49.83583000</ctml:latitude>
+    <ctml:longitude>6.29167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66729" kind="city">
+    <ctml:name>Bech</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Echternach</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q20969250</ctml:wikiDataId>
+    <ctml:latitude>49.75260000</ctml:latitude>
+    <ctml:longitude>6.36379000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66732" kind="city">
+    <ctml:name>Berdorf</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Echternach</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q2895177</ctml:wikiDataId>
+    <ctml:latitude>49.82051000</ctml:latitude>
+    <ctml:longitude>6.34945000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66753" kind="city">
+    <ctml:name>Consdorf</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Echternach</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q1313580</ctml:wikiDataId>
+    <ctml:latitude>49.78018000</ctml:latitude>
+    <ctml:longitude>6.33950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LUX-66761" kind="admin2">
+    <ctml:name>Echternach</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Echternach</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q204317</ctml:wikiDataId>
+    <ctml:latitude>49.81212000</ctml:latitude>
+    <ctml:longitude>6.41846000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66808" kind="city">
+    <ctml:name>Mompach</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Echternach</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q3916990</ctml:wikiDataId>
+    <ctml:latitude>49.74611000</ctml:latitude>
+    <ctml:longitude>6.46500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66831" kind="city">
+    <ctml:name>Rosport</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Echternach</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q2640199</ctml:wikiDataId>
+    <ctml:latitude>49.80470000</ctml:latitude>
+    <ctml:longitude>6.50532000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66856" kind="city">
+    <ctml:name>Waldbillig</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Echternach</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-EC</ctml:parentRef>
+    <ctml:wikiDataId>Q20969783</ctml:wikiDataId>
+    <ctml:latitude>49.79636000</ctml:latitude>
+    <ctml:longitude>6.28431000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66725" kind="city">
+    <ctml:name>Aspelt</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q642351</ctml:wikiDataId>
+    <ctml:latitude>49.52278000</ctml:latitude>
+    <ctml:longitude>6.22472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66731" kind="city">
+    <ctml:name>Belvaux</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q2895177</ctml:wikiDataId>
+    <ctml:latitude>49.51014000</ctml:latitude>
+    <ctml:longitude>5.92414000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66733" kind="city">
+    <ctml:name>Bergem</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q819508</ctml:wikiDataId>
+    <ctml:latitude>49.52500000</ctml:latitude>
+    <ctml:longitude>6.04222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66736" kind="city">
+    <ctml:name>Bettembourg</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q22284</ctml:wikiDataId>
+    <ctml:latitude>49.51861000</ctml:latitude>
+    <ctml:longitude>6.10278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66755" kind="city">
+    <ctml:name>Crauthem</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q2702474</ctml:wikiDataId>
+    <ctml:latitude>49.53556000</ctml:latitude>
+    <ctml:longitude>6.14694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66758" kind="city">
+    <ctml:name>Differdange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q4844168</ctml:wikiDataId>
+    <ctml:latitude>49.52417000</ctml:latitude>
+    <ctml:longitude>5.89139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66760" kind="city">
+    <ctml:name>Dudelange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q20969331</ctml:wikiDataId>
+    <ctml:latitude>49.48056000</ctml:latitude>
+    <ctml:longitude>6.08750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LUX-66765" kind="admin2">
+    <ctml:name>Esch-sur-Alzette</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q16010</ctml:wikiDataId>
+    <ctml:latitude>49.49583000</ctml:latitude>
+    <ctml:longitude>5.98056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66772" kind="city">
+    <ctml:name>Frisange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q1017402</ctml:wikiDataId>
+    <ctml:latitude>49.51616000</ctml:latitude>
+    <ctml:longitude>6.18858000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66787" kind="city">
+    <ctml:name>Kayl</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q1017404</ctml:wikiDataId>
+    <ctml:latitude>49.48917000</ctml:latitude>
+    <ctml:longitude>6.03972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66795" kind="city">
+    <ctml:name>Lamadelaine</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q2217356</ctml:wikiDataId>
+    <ctml:latitude>49.54639000</ctml:latitude>
+    <ctml:longitude>5.85639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66798" kind="city">
+    <ctml:name>Leudelange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q3917072</ctml:wikiDataId>
+    <ctml:latitude>49.56833000</ctml:latitude>
+    <ctml:longitude>6.06528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66809" kind="city">
+    <ctml:name>Mondercange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q39057559</ctml:wikiDataId>
+    <ctml:latitude>49.53306000</ctml:latitude>
+    <ctml:longitude>5.98833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66814" kind="city">
+    <ctml:name>Niedercorn</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q751569</ctml:wikiDataId>
+    <ctml:latitude>49.53611000</ctml:latitude>
+    <ctml:longitude>5.89306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66817" kind="city">
+    <ctml:name>Obercorn</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q2010019</ctml:wikiDataId>
+    <ctml:latitude>49.51361000</ctml:latitude>
+    <ctml:longitude>5.89611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66822" kind="city">
+    <ctml:name>Pétange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q602441</ctml:wikiDataId>
+    <ctml:latitude>49.55833000</ctml:latitude>
+    <ctml:longitude>5.88056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66820" kind="city">
+    <ctml:name>Pontpierre</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q1016106</ctml:wikiDataId>
+    <ctml:latitude>49.53639000</ctml:latitude>
+    <ctml:longitude>6.02944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66824" kind="city">
+    <ctml:name>Reckange-sur-Mess</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q3917049</ctml:wikiDataId>
+    <ctml:latitude>49.56250000</ctml:latitude>
+    <ctml:longitude>6.00889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66828" kind="city">
+    <ctml:name>Rodange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q1444135</ctml:wikiDataId>
+    <ctml:latitude>49.54639000</ctml:latitude>
+    <ctml:longitude>5.84083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66829" kind="city">
+    <ctml:name>Roeser</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q1444135</ctml:wikiDataId>
+    <ctml:latitude>49.53721000</ctml:latitude>
+    <ctml:longitude>6.14629000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66832" kind="city">
+    <ctml:name>Rumelange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q914847</ctml:wikiDataId>
+    <ctml:latitude>49.45964000</ctml:latitude>
+    <ctml:longitude>6.03089000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66835" kind="city">
+    <ctml:name>Sanem</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q3917065</ctml:wikiDataId>
+    <ctml:latitude>49.54806000</ctml:latitude>
+    <ctml:longitude>5.92889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66838" kind="city">
+    <ctml:name>Schifflange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q20969739</ctml:wikiDataId>
+    <ctml:latitude>49.50639000</ctml:latitude>
+    <ctml:longitude>6.01278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66843" kind="city">
+    <ctml:name>Soleuvre</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q219089</ctml:wikiDataId>
+    <ctml:latitude>49.52148000</ctml:latitude>
+    <ctml:longitude>5.93781000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66851" kind="city">
+    <ctml:name>Tétange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Esch-sur-Alzette</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q1903325</ctml:wikiDataId>
+    <ctml:latitude>49.47583000</ctml:latitude>
+    <ctml:longitude>6.04222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66738" kind="city">
+    <ctml:name>Betzdorf</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Grevenmacher</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-G</ctml:parentRef>
+    <ctml:wikiDataId>Q22284</ctml:wikiDataId>
+    <ctml:latitude>49.68333000</ctml:latitude>
+    <ctml:longitude>6.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66740" kind="city">
+    <ctml:name>Biwer</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Grevenmacher</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-G</ctml:parentRef>
+    <ctml:wikiDataId>Q22284</ctml:wikiDataId>
+    <ctml:latitude>49.70605000</ctml:latitude>
+    <ctml:longitude>6.37201000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66771" kind="city">
+    <ctml:name>Flaxweiler</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Grevenmacher</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-G</ctml:parentRef>
+    <ctml:wikiDataId>Q20966342</ctml:wikiDataId>
+    <ctml:latitude>49.66602000</ctml:latitude>
+    <ctml:longitude>6.34321000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66775" kind="city">
+    <ctml:name>Gonderange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Grevenmacher</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-G</ctml:parentRef>
+    <ctml:wikiDataId>Q2574685</ctml:wikiDataId>
+    <ctml:latitude>49.69537000</ctml:latitude>
+    <ctml:longitude>6.24577000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66786" kind="city">
+    <ctml:name>Junglinster</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Grevenmacher</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-G</ctml:parentRef>
+    <ctml:wikiDataId>Q1017404</ctml:wikiDataId>
+    <ctml:latitude>49.70722000</ctml:latitude>
+    <ctml:longitude>6.25306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66803" kind="city">
+    <ctml:name>Manternach</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Grevenmacher</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-G</ctml:parentRef>
+    <ctml:wikiDataId>Q20969453</ctml:wikiDataId>
+    <ctml:latitude>49.70278000</ctml:latitude>
+    <ctml:longitude>6.42639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66806" kind="city">
+    <ctml:name>Mertert</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Grevenmacher</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-G</ctml:parentRef>
+    <ctml:wikiDataId>Q3916990</ctml:wikiDataId>
+    <ctml:latitude>49.70261000</ctml:latitude>
+    <ctml:longitude>6.47966000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66860" kind="city">
+    <ctml:name>Wasserbillig</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Grevenmacher</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-G</ctml:parentRef>
+    <ctml:wikiDataId>Q1026497</ctml:wikiDataId>
+    <ctml:latitude>49.71534000</ctml:latitude>
+    <ctml:longitude>6.49861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66867" kind="city">
+    <ctml:name>Wormeldange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Grevenmacher</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-G</ctml:parentRef>
+    <ctml:wikiDataId>Q3917114</ctml:wikiDataId>
+    <ctml:latitude>49.61114000</ctml:latitude>
+    <ctml:longitude>6.40546000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66724" kind="city">
+    <ctml:name>Alzingen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q144260</ctml:wikiDataId>
+    <ctml:latitude>49.56500000</ctml:latitude>
+    <ctml:longitude>6.16361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66746" kind="city">
+    <ctml:name>Béreldange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q818991</ctml:wikiDataId>
+    <ctml:latitude>49.65507000</ctml:latitude>
+    <ctml:longitude>6.11874000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66734" kind="city">
+    <ctml:name>Bertrange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q809603</ctml:wikiDataId>
+    <ctml:latitude>49.61111000</ctml:latitude>
+    <ctml:longitude>6.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66754" kind="city">
+    <ctml:name>Contern</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1313580</ctml:wikiDataId>
+    <ctml:latitude>49.58194000</ctml:latitude>
+    <ctml:longitude>6.22667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66768" kind="city">
+    <ctml:name>Fentange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2056162</ctml:wikiDataId>
+    <ctml:latitude>49.56278000</ctml:latitude>
+    <ctml:longitude>6.15389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66780" kind="city">
+    <ctml:name>Heisdorf</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1601313</ctml:wikiDataId>
+    <ctml:latitude>49.67207000</ctml:latitude>
+    <ctml:longitude>6.14202000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66781" kind="city">
+    <ctml:name>Helmsange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2572503</ctml:wikiDataId>
+    <ctml:latitude>49.65278000</ctml:latitude>
+    <ctml:longitude>6.14139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66782" kind="city">
+    <ctml:name>Hesperange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2572503</ctml:wikiDataId>
+    <ctml:latitude>49.56806000</ctml:latitude>
+    <ctml:longitude>6.15139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66785" kind="city">
+    <ctml:name>Itzig</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3058880</ctml:wikiDataId>
+    <ctml:latitude>49.58769000</ctml:latitude>
+    <ctml:longitude>6.17065000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66790" kind="city">
+    <ctml:name>Kirchberg</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q583718</ctml:wikiDataId>
+    <ctml:latitude>49.62389000</ctml:latitude>
+    <ctml:longitude>6.14944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66801" kind="city">
+    <ctml:name>Luxembourg</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1842</ctml:wikiDataId>
+    <ctml:latitude>49.61167000</ctml:latitude>
+    <ctml:longitude>6.13000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66811" kind="city">
+    <ctml:name>Moutfort</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2104959</ctml:wikiDataId>
+    <ctml:latitude>49.58528000</ctml:latitude>
+    <ctml:longitude>6.25556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66812" kind="city">
+    <ctml:name>Müllendorf</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2180001</ctml:wikiDataId>
+    <ctml:latitude>49.68028000</ctml:latitude>
+    <ctml:longitude>6.13000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66813" kind="city">
+    <ctml:name>Niederanven</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3917188</ctml:wikiDataId>
+    <ctml:latitude>49.65196000</ctml:latitude>
+    <ctml:longitude>6.26199000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66818" kind="city">
+    <ctml:name>Olm</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2674976</ctml:wikiDataId>
+    <ctml:latitude>49.65722000</ctml:latitude>
+    <ctml:longitude>6.00028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66834" kind="city">
+    <ctml:name>Sandweiler</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3917065</ctml:wikiDataId>
+    <ctml:latitude>49.61471000</ctml:latitude>
+    <ctml:longitude>6.22221000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66840" kind="city">
+    <ctml:name>Schrassig</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1026554</ctml:wikiDataId>
+    <ctml:latitude>49.61014000</ctml:latitude>
+    <ctml:longitude>6.25903000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66841" kind="city">
+    <ctml:name>Schuttrange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3917120</ctml:wikiDataId>
+    <ctml:latitude>49.62056000</ctml:latitude>
+    <ctml:longitude>6.26861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66846" kind="city">
+    <ctml:name>Steinsel</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q985478</ctml:wikiDataId>
+    <ctml:latitude>49.67694000</ctml:latitude>
+    <ctml:longitude>6.12389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66847" kind="city">
+    <ctml:name>Strassen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q985478</ctml:wikiDataId>
+    <ctml:latitude>49.62056000</ctml:latitude>
+    <ctml:longitude>6.07333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66858" kind="city">
+    <ctml:name>Walferdange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q3917667</ctml:wikiDataId>
+    <ctml:latitude>49.66321000</ctml:latitude>
+    <ctml:longitude>6.13224000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66861" kind="city">
+    <ctml:name>Weiler-la-Tour</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Luxembourg </ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1026497</ctml:wikiDataId>
+    <ctml:latitude>49.54083000</ctml:latitude>
+    <ctml:longitude>6.20083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66739" kind="city">
+    <ctml:name>Bissen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Mersch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q22284</ctml:wikiDataId>
+    <ctml:latitude>49.78733000</ctml:latitude>
+    <ctml:longitude>6.06540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66741" kind="city">
+    <ctml:name>Boevange-sur-Attert</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Mersch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q22284</ctml:wikiDataId>
+    <ctml:latitude>49.77256000</ctml:latitude>
+    <ctml:longitude>6.01532000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66750" kind="city">
+    <ctml:name>Colmar</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Mersch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q20969306</ctml:wikiDataId>
+    <ctml:latitude>49.81028000</ctml:latitude>
+    <ctml:longitude>6.09722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66770" kind="city">
+    <ctml:name>Fischbach</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Mersch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q20966342</ctml:wikiDataId>
+    <ctml:latitude>49.74600000</ctml:latitude>
+    <ctml:longitude>6.18702000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66779" kind="city">
+    <ctml:name>Heffingen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Mersch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q2675610</ctml:wikiDataId>
+    <ctml:latitude>49.76907000</ctml:latitude>
+    <ctml:longitude>6.24049000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66796" kind="city">
+    <ctml:name>Larochette</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Mersch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q20969440</ctml:wikiDataId>
+    <ctml:latitude>49.78362000</ctml:latitude>
+    <ctml:longitude>6.21891000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66799" kind="city">
+    <ctml:name>Lintgen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Mersch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q20969448</ctml:wikiDataId>
+    <ctml:latitude>49.72243000</ctml:latitude>
+    <ctml:longitude>6.13016000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66800" kind="city">
+    <ctml:name>Lorentzweiler</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Mersch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q3917028</ctml:wikiDataId>
+    <ctml:latitude>49.70131000</ctml:latitude>
+    <ctml:longitude>6.14234000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66816" kind="city">
+    <ctml:name>Nommern</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Mersch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q3112408</ctml:wikiDataId>
+    <ctml:latitude>49.78694000</ctml:latitude>
+    <ctml:longitude>6.17472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66830" kind="city">
+    <ctml:name>Rollingen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Mersch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q2640199</ctml:wikiDataId>
+    <ctml:latitude>49.74167000</ctml:latitude>
+    <ctml:longitude>6.11444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66850" kind="city">
+    <ctml:name>Tuntange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Mersch</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-ME</ctml:parentRef>
+    <ctml:wikiDataId>Q3917054</ctml:wikiDataId>
+    <ctml:latitude>49.71778000</ctml:latitude>
+    <ctml:longitude>6.01028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66730" kind="city">
+    <ctml:name>Beckerich</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Redange</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q813727</ctml:wikiDataId>
+    <ctml:latitude>49.73056000</ctml:latitude>
+    <ctml:longitude>5.88722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66735" kind="city">
+    <ctml:name>Bettborn</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Redange</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q22284</ctml:wikiDataId>
+    <ctml:latitude>49.79528000</ctml:latitude>
+    <ctml:longitude>5.94111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66751" kind="city">
+    <ctml:name>Commune de Préizerdaul</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Redange</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q1134542</ctml:wikiDataId>
+    <ctml:latitude>49.80114000</ctml:latitude>
+    <ctml:longitude>5.93299000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66763" kind="city">
+    <ctml:name>Ell</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Redange</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q1311018</ctml:wikiDataId>
+    <ctml:latitude>49.76389000</ctml:latitude>
+    <ctml:longitude>5.85722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66777" kind="city">
+    <ctml:name>Grosbous</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Redange</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q13102873</ctml:wikiDataId>
+    <ctml:latitude>49.82778000</ctml:latitude>
+    <ctml:longitude>5.96722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66823" kind="city">
+    <ctml:name>Rambrouch</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Redange</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q13104719</ctml:wikiDataId>
+    <ctml:latitude>49.83083000</ctml:latitude>
+    <ctml:longitude>5.84500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66833" kind="city">
+    <ctml:name>Saeul</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Redange</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q20969731</ctml:wikiDataId>
+    <ctml:latitude>49.72722000</ctml:latitude>
+    <ctml:longitude>5.98639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66852" kind="city">
+    <ctml:name>Useldange</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Redange</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q3917067</ctml:wikiDataId>
+    <ctml:latitude>49.76972000</ctml:latitude>
+    <ctml:longitude>5.98222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66854" kind="city">
+    <ctml:name>Vichten</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Redange</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q836082</ctml:wikiDataId>
+    <ctml:latitude>49.80306000</ctml:latitude>
+    <ctml:longitude>6.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66855" kind="city">
+    <ctml:name>Wahl</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Redange</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RD</ctml:parentRef>
+    <ctml:wikiDataId>Q836082</ctml:wikiDataId>
+    <ctml:latitude>49.83667000</ctml:latitude>
+    <ctml:longitude>5.90639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66744" kind="city">
+    <ctml:name>Bous</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Remich</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RM</ctml:parentRef>
+    <ctml:wikiDataId>Q20969287</ctml:wikiDataId>
+    <ctml:latitude>49.55389000</ctml:latitude>
+    <ctml:longitude>6.32917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66756" kind="city">
+    <ctml:name>Dalheim</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Remich</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RM</ctml:parentRef>
+    <ctml:wikiDataId>Q20969315</ctml:wikiDataId>
+    <ctml:latitude>49.54083000</ctml:latitude>
+    <ctml:longitude>6.25972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66797" kind="city">
+    <ctml:name>Lenningen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Remich</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RM</ctml:parentRef>
+    <ctml:wikiDataId>Q1017410</ctml:wikiDataId>
+    <ctml:latitude>49.59861000</ctml:latitude>
+    <ctml:longitude>6.36806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66810" kind="city">
+    <ctml:name>Mondorf-les-Bains</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Remich</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RM</ctml:parentRef>
+    <ctml:wikiDataId>Q3917128</ctml:wikiDataId>
+    <ctml:latitude>49.50500000</ctml:latitude>
+    <ctml:longitude>6.28111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LUX-66827" kind="admin2">
+    <ctml:name>Remich</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Remich</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RM</ctml:parentRef>
+    <ctml:wikiDataId>Q734284</ctml:wikiDataId>
+    <ctml:latitude>49.54500000</ctml:latitude>
+    <ctml:longitude>6.36694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66836" kind="city">
+    <ctml:name>Schengen</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Remich</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RM</ctml:parentRef>
+    <ctml:wikiDataId>Q3916795</ctml:wikiDataId>
+    <ctml:latitude>49.47000000</ctml:latitude>
+    <ctml:longitude>6.36200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66844" kind="city">
+    <ctml:name>Stadtbredimus</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Remich</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RM</ctml:parentRef>
+    <ctml:wikiDataId>Q219089</ctml:wikiDataId>
+    <ctml:latitude>49.56278000</ctml:latitude>
+    <ctml:longitude>6.36444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66857" kind="city">
+    <ctml:name>Waldbredimus</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Remich</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-RM</ctml:parentRef>
+    <ctml:wikiDataId>Q3917667</ctml:wikiDataId>
+    <ctml:latitude>49.55676000</ctml:latitude>
+    <ctml:longitude>6.28789000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66821" kind="city">
+    <ctml:name>Putscheid</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Vianden</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q1016106</ctml:wikiDataId>
+    <ctml:latitude>49.96083000</ctml:latitude>
+    <ctml:longitude>6.14306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66848" kind="city">
+    <ctml:name>Tandel</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Vianden</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q985478</ctml:wikiDataId>
+    <ctml:latitude>49.89750000</ctml:latitude>
+    <ctml:longitude>6.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:LUX-66853" kind="admin2">
+    <ctml:name>Vianden</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Vianden</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q836082</ctml:wikiDataId>
+    <ctml:latitude>49.93500000</ctml:latitude>
+    <ctml:longitude>6.20889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66727" kind="city">
+    <ctml:name>Bavigne</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Wiltz</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-WI</ctml:parentRef>
+    <ctml:wikiDataId>Q972183</ctml:wikiDataId>
+    <ctml:latitude>49.92194000</ctml:latitude>
+    <ctml:longitude>5.84944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66742" kind="city">
+    <ctml:name>Boulaide</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Wiltz</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-WI</ctml:parentRef>
+    <ctml:wikiDataId>Q22284</ctml:wikiDataId>
+    <ctml:latitude>49.88778000</ctml:latitude>
+    <ctml:longitude>5.81639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66766" kind="city">
+    <ctml:name>Esch-sur-Sûre</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Wiltz</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-WI</ctml:parentRef>
+    <ctml:wikiDataId>Q20969348</ctml:wikiDataId>
+    <ctml:latitude>49.91139000</ctml:latitude>
+    <ctml:longitude>5.93639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66774" kind="city">
+    <ctml:name>Goesdorf</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Wiltz</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-WI</ctml:parentRef>
+    <ctml:wikiDataId>Q20969364</ctml:wikiDataId>
+    <ctml:latitude>49.92131000</ctml:latitude>
+    <ctml:longitude>5.96601000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66789" kind="city">
+    <ctml:name>Kiischpelt</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Wiltz</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-WI</ctml:parentRef>
+    <ctml:wikiDataId>Q1143742</ctml:wikiDataId>
+    <ctml:latitude>49.97835000</ctml:latitude>
+    <ctml:longitude>6.00760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66794" kind="city">
+    <ctml:name>Lac de la Haute-Sûre</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Wiltz</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-WI</ctml:parentRef>
+    <ctml:wikiDataId>Q1133688</ctml:wikiDataId>
+    <ctml:latitude>49.91667000</ctml:latitude>
+    <ctml:longitude>5.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66864" kind="city">
+    <ctml:name>Wilwerwiltz</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Wiltz</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-WI</ctml:parentRef>
+    <ctml:wikiDataId>Q278454</ctml:wikiDataId>
+    <ctml:latitude>49.98889000</ctml:latitude>
+    <ctml:longitude>5.99917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LUX-66866" kind="city">
+    <ctml:name>Winseler</ctml:name>
+    <ctml:country>LUX</ctml:country>
+    <ctml:admin1>Wiltz</ctml:admin1>
+    <ctml:parentRef>place:admin1:LU-WI</ctml:parentRef>
+    <ctml:wikiDataId>Q3917114</ctml:wikiDataId>
+    <ctml:latitude>49.96778000</ctml:latitude>
+    <ctml:longitude>5.89028000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BGD-153876" kind="city">
+    <ctml:name>Bagerhat</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Bagerhat</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2344861</ctml:wikiDataId>
+    <ctml:latitude>22.34880590</ctml:latitude>
+    <ctml:longitude>89.07470250</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-8457" kind="city">
+    <ctml:name>Bandarban</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Bandarban</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-01</ctml:parentRef>
+    <ctml:wikiDataId>Q806273</ctml:wikiDataId>
+    <ctml:latitude>22.00000000</ctml:latitude>
+    <ctml:longitude>92.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153858" kind="city">
+    <ctml:name>Barguna</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Barguna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-02</ctml:parentRef>
+    <ctml:wikiDataId>Q808172</ctml:wikiDataId>
+    <ctml:latitude>22.17167870</ctml:latitude>
+    <ctml:longitude>89.79740240</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153857" kind="city">
+    <ctml:name>Barisal</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Barishal</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-06</ctml:parentRef>
+    <ctml:wikiDataId>Q459723</ctml:wikiDataId>
+    <ctml:latitude>22.42035790</ctml:latitude>
+    <ctml:longitude>89.78250340</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153859" kind="city">
+    <ctml:name>Bhola</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Bhola</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-07</ctml:parentRef>
+    <ctml:wikiDataId>Q855042</ctml:wikiDataId>
+    <ctml:latitude>22.32452480</ctml:latitude>
+    <ctml:longitude>90.10568470</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153894" kind="city">
+    <ctml:name>Bogra</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Bogura</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2039066</ctml:wikiDataId>
+    <ctml:latitude>24.82966450</ctml:latitude>
+    <ctml:longitude>89.02598570</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-8470" kind="city">
+    <ctml:name>Brahmanbaria</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Brahmanbaria</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2039066</ctml:wikiDataId>
+    <ctml:latitude>23.98333000</ctml:latitude>
+    <ctml:longitude>91.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-8474" kind="city">
+    <ctml:name>Chandpur</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Chandpur</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1429697</ctml:wikiDataId>
+    <ctml:latitude>23.25000000</ctml:latitude>
+    <ctml:longitude>90.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153895" kind="city">
+    <ctml:name>Chapai Nawabganj</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Chapai Nawabganj</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-45</ctml:parentRef>
+    <ctml:wikiDataId>Q46043</ctml:wikiDataId>
+    <ctml:latitude>24.59988690</ctml:latitude>
+    <ctml:longitude>88.28504660</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-8481" kind="city">
+    <ctml:name>Chittagong</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Chattogram</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1074991</ctml:wikiDataId>
+    <ctml:latitude>22.48750000</ctml:latitude>
+    <ctml:longitude>91.96333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153877" kind="city">
+    <ctml:name>Chuadanga</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Chuadanga</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2094570</ctml:wikiDataId>
+    <ctml:latitude>23.60352730</ctml:latitude>
+    <ctml:longitude>88.48732400</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-8484" kind="city">
+    <ctml:name>Cox's Bazar</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Cox's Bazar</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1122278</ctml:wikiDataId>
+    <ctml:latitude>21.58389000</ctml:latitude>
+    <ctml:longitude>92.01528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-8483" kind="city">
+    <ctml:name>Comilla</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Cumilla</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1480778</ctml:wikiDataId>
+    <ctml:latitude>23.44170000</ctml:latitude>
+    <ctml:longitude>91.00987000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153863" kind="city">
+    <ctml:name>Dhaka</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Dhaka</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1850485</ctml:wikiDataId>
+    <ctml:latitude>23.78417980</ctml:latitude>
+    <ctml:longitude>89.92859830</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153898" kind="city">
+    <ctml:name>Dinajpur</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Dinajpur</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1985120</ctml:wikiDataId>
+    <ctml:latitude>25.64261030</ctml:latitude>
+    <ctml:longitude>88.18344620</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153871" kind="city">
+    <ctml:name>Faridpur</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Faridpur</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2093552</ctml:wikiDataId>
+    <ctml:latitude>23.45115240</ctml:latitude>
+    <ctml:longitude>89.52820380</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-8492" kind="city">
+    <ctml:name>Feni</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Feni</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1404741</ctml:wikiDataId>
+    <ctml:latitude>22.96667000</ctml:latitude>
+    <ctml:longitude>91.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153900" kind="city">
+    <ctml:name>Gaibandha</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Gaibandha</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-19</ctml:parentRef>
+    <ctml:wikiDataId>Q2344595</ctml:wikiDataId>
+    <ctml:latitude>25.34315570</ctml:latitude>
+    <ctml:longitude>89.13978570</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153864" kind="city">
+    <ctml:name>Gazipur</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Gazipur</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2094101</ctml:wikiDataId>
+    <ctml:latitude>24.10914520</ctml:latitude>
+    <ctml:longitude>90.09596140</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153906" kind="city">
+    <ctml:name>Habiganj</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Habiganj</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-20</ctml:parentRef>
+    <ctml:wikiDataId>Q1438974</ctml:wikiDataId>
+    <ctml:latitude>24.33481970</ctml:latitude>
+    <ctml:longitude>90.74899010</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153887" kind="city">
+    <ctml:name>Jamalpur</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Jamalpur</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2039306</ctml:wikiDataId>
+    <ctml:latitude>25.00108250</ctml:latitude>
+    <ctml:longitude>89.26050130</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153878" kind="city">
+    <ctml:name>Jessore</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Jashore</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-22</ctml:parentRef>
+    <ctml:wikiDataId>Q1862981</ctml:wikiDataId>
+    <ctml:latitude>23.08473560</ctml:latitude>
+    <ctml:longitude>88.87480080</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153860" kind="city">
+    <ctml:name>Jhalokati</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Jhalakathi</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-25</ctml:parentRef>
+    <ctml:wikiDataId>Q2093327</ctml:wikiDataId>
+    <ctml:latitude>22.56303520</ctml:latitude>
+    <ctml:longitude>89.87191590</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153879" kind="city">
+    <ctml:name>Jhenaidah</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Jhenaidah</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2188750</ctml:wikiDataId>
+    <ctml:latitude>23.49521270</ctml:latitude>
+    <ctml:longitude>88.70694930</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153897" kind="city">
+    <ctml:name>Joypurhat</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Joypurhat</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-24</ctml:parentRef>
+    <ctml:wikiDataId>Q2348146</ctml:wikiDataId>
+    <ctml:latitude>25.06567070</ctml:latitude>
+    <ctml:longitude>88.76832650</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-8512" kind="city">
+    <ctml:name>Khagrachhari</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Khagrachhari</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-29</ctml:parentRef>
+    <ctml:wikiDataId>Q1429685</ctml:wikiDataId>
+    <ctml:latitude>23.16667000</ctml:latitude>
+    <ctml:longitude>91.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153880" kind="city">
+    <ctml:name>Khulna</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Khulna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-27</ctml:parentRef>
+    <ctml:wikiDataId>Q2093344</ctml:wikiDataId>
+    <ctml:latitude>22.35351390</ctml:latitude>
+    <ctml:longitude>88.83407090</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153865" kind="city">
+    <ctml:name>Kishoreganj</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Kishoreganj</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-26</ctml:parentRef>
+    <ctml:wikiDataId>Q2344833</ctml:wikiDataId>
+    <ctml:latitude>24.33888030</ctml:latitude>
+    <ctml:longitude>90.58499800</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153899" kind="city">
+    <ctml:name>Kurigram</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Kurigram</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-28</ctml:parentRef>
+    <ctml:wikiDataId>Q2348751</ctml:wikiDataId>
+    <ctml:latitude>25.80827220</ctml:latitude>
+    <ctml:longitude>89.00915030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153881" kind="city">
+    <ctml:name>Kushtia</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Kushtia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-30</ctml:parentRef>
+    <ctml:wikiDataId>Q956895</ctml:wikiDataId>
+    <ctml:latitude>23.94595240</ctml:latitude>
+    <ctml:longitude>88.70179290</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-8521" kind="city">
+    <ctml:name>Lakshmipur</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Lakshmipur</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-31</ctml:parentRef>
+    <ctml:wikiDataId>Q1550252</ctml:wikiDataId>
+    <ctml:latitude>22.91667000</ctml:latitude>
+    <ctml:longitude>90.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153901" kind="city">
+    <ctml:name>Lalmonirhat</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Lalmonirhat</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-32</ctml:parentRef>
+    <ctml:wikiDataId>Q2373734</ctml:wikiDataId>
+    <ctml:latitude>26.12442390</ctml:latitude>
+    <ctml:longitude>88.91060900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153873" kind="city">
+    <ctml:name>Madaripur</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Madaripur</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-36</ctml:parentRef>
+    <ctml:wikiDataId>Q928836</ctml:wikiDataId>
+    <ctml:latitude>23.23455490</ctml:latitude>
+    <ctml:longitude>89.81089030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153882" kind="city">
+    <ctml:name>Magura</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Magura</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-37</ctml:parentRef>
+    <ctml:wikiDataId>Q2039085</ctml:wikiDataId>
+    <ctml:latitude>23.46557740</ctml:latitude>
+    <ctml:longitude>89.11547300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153866" kind="city">
+    <ctml:name>Manikganj</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Manikganj</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-33</ctml:parentRef>
+    <ctml:wikiDataId>Q2024719</ctml:wikiDataId>
+    <ctml:latitude>23.83174080</ctml:latitude>
+    <ctml:longitude>89.64097890</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153883" kind="city">
+    <ctml:name>Meherpur</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Meherpur</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-39</ctml:parentRef>
+    <ctml:wikiDataId>Q1474206</ctml:wikiDataId>
+    <ctml:latitude>23.78972180</ctml:latitude>
+    <ctml:longitude>88.39319490</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153907" kind="city">
+    <ctml:name>Moulvibazar</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Moulvibazar</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-38</ctml:parentRef>
+    <ctml:wikiDataId>Q281435</ctml:wikiDataId>
+    <ctml:latitude>24.48617710</ctml:latitude>
+    <ctml:longitude>91.28742410</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153867" kind="city">
+    <ctml:name>Munshiganj</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Munshiganj</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-35</ctml:parentRef>
+    <ctml:wikiDataId>Q1990519</ctml:wikiDataId>
+    <ctml:latitude>23.52615230</ctml:latitude>
+    <ctml:longitude>90.11590910</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153886" kind="city">
+    <ctml:name>Mymensingh</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Mymensingh</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-34</ctml:parentRef>
+    <ctml:wikiDataId>Q1429976</ctml:wikiDataId>
+    <ctml:latitude>24.72309850</ctml:latitude>
+    <ctml:longitude>89.78411730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153896" kind="city">
+    <ctml:name>Naogaon</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Naogaon</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-48</ctml:parentRef>
+    <ctml:wikiDataId>Q2094277</ctml:wikiDataId>
+    <ctml:latitude>24.87425080</ctml:latitude>
+    <ctml:longitude>88.43751910</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153884" kind="city">
+    <ctml:name>Narail</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Narail</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-43</ctml:parentRef>
+    <ctml:wikiDataId>Q1550260</ctml:wikiDataId>
+    <ctml:latitude>23.13175700</ctml:latitude>
+    <ctml:longitude>89.26258440</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153868" kind="city">
+    <ctml:name>Narayanganj</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Narayanganj</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-40</ctml:parentRef>
+    <ctml:wikiDataId>Q2208354</ctml:wikiDataId>
+    <ctml:latitude>23.74880130</ctml:latitude>
+    <ctml:longitude>90.25638500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153869" kind="city">
+    <ctml:name>Narsingdi</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Narsingdi</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-42</ctml:parentRef>
+    <ctml:wikiDataId>Q2042638</ctml:wikiDataId>
+    <ctml:latitude>24.00966000</ctml:latitude>
+    <ctml:longitude>90.44480420</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153890" kind="city">
+    <ctml:name>Natore</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Natore</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-44</ctml:parentRef>
+    <ctml:wikiDataId>Q2093361</ctml:wikiDataId>
+    <ctml:latitude>24.38021070</ctml:latitude>
+    <ctml:longitude>88.76302520</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153888" kind="city">
+    <ctml:name>Netrokona</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Netrakona</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-41</ctml:parentRef>
+    <ctml:wikiDataId>Q2344966</ctml:wikiDataId>
+    <ctml:latitude>24.87204810</ctml:latitude>
+    <ctml:longitude>90.52293810</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153902" kind="city">
+    <ctml:name>Nilphamari</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Nilphamari</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-46</ctml:parentRef>
+    <ctml:wikiDataId>Q2188627</ctml:wikiDataId>
+    <ctml:latitude>26.02264250</ctml:latitude>
+    <ctml:longitude>88.63412710</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-8553" kind="city">
+    <ctml:name>Noakhali</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Noakhali</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-47</ctml:parentRef>
+    <ctml:wikiDataId>Q2188627</ctml:wikiDataId>
+    <ctml:latitude>22.75000000</ctml:latitude>
+    <ctml:longitude>91.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153893" kind="city">
+    <ctml:name>Pabna</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Pabna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-49</ctml:parentRef>
+    <ctml:wikiDataId>Q1083505</ctml:wikiDataId>
+    <ctml:latitude>24.08126720</ctml:latitude>
+    <ctml:longitude>89.03724420</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153903" kind="city">
+    <ctml:name>Panchagarh</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Panchagarh</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-52</ctml:parentRef>
+    <ctml:wikiDataId>Q2367822</ctml:wikiDataId>
+    <ctml:latitude>26.32094460</ctml:latitude>
+    <ctml:longitude>88.54711390</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153861" kind="city">
+    <ctml:name>Patuakhali</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Patuakhali</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-51</ctml:parentRef>
+    <ctml:wikiDataId>Q1429761</ctml:wikiDataId>
+    <ctml:latitude>22.18709170</ctml:latitude>
+    <ctml:longitude>89.71647060</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153862" kind="city">
+    <ctml:name>Pirojpur</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Pirojpur</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-50</ctml:parentRef>
+    <ctml:wikiDataId>Q609190</ctml:wikiDataId>
+    <ctml:latitude>22.50937910</ctml:latitude>
+    <ctml:longitude>89.36434220</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153874" kind="city">
+    <ctml:name>Rajbari</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Rajbari</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-53</ctml:parentRef>
+    <ctml:wikiDataId>Q2348762</ctml:wikiDataId>
+    <ctml:latitude>23.73843000</ctml:latitude>
+    <ctml:longitude>89.25547000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153891" kind="city">
+    <ctml:name>Rajshahi</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Rajshahi</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-54</ctml:parentRef>
+    <ctml:wikiDataId>Q2344697</ctml:wikiDataId>
+    <ctml:latitude>24.42073360</ctml:latitude>
+    <ctml:longitude>88.29602140</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-8576" kind="city">
+    <ctml:name>Rangamati</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Rangamati</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-56</ctml:parentRef>
+    <ctml:wikiDataId>Q2121686</ctml:wikiDataId>
+    <ctml:latitude>22.63333000</ctml:latitude>
+    <ctml:longitude>92.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153904" kind="city">
+    <ctml:name>Rangpur</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Rangpur</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-55</ctml:parentRef>
+    <ctml:wikiDataId>Q2344570</ctml:wikiDataId>
+    <ctml:latitude>25.62390240</ctml:latitude>
+    <ctml:longitude>88.90094980</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153885" kind="city">
+    <ctml:name>Satkhira</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Satkhira</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-58</ctml:parentRef>
+    <ctml:wikiDataId>Q1233680</ctml:wikiDataId>
+    <ctml:latitude>22.29898590</ctml:latitude>
+    <ctml:longitude>88.47540870</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153875" kind="city">
+    <ctml:name>Shariatpur</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Shariatpur</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-62</ctml:parentRef>
+    <ctml:wikiDataId>Q253007</ctml:wikiDataId>
+    <ctml:latitude>23.23124340</ctml:latitude>
+    <ctml:longitude>90.08293470</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153889" kind="city">
+    <ctml:name>Sherpur</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Sherpur</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-57</ctml:parentRef>
+    <ctml:wikiDataId>Q2039314</ctml:wikiDataId>
+    <ctml:latitude>25.09260380</ctml:latitude>
+    <ctml:longitude>89.76352070</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153892" kind="city">
+    <ctml:name>Sirajganj</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Sirajganj</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-59</ctml:parentRef>
+    <ctml:wikiDataId>Q2429432</ctml:wikiDataId>
+    <ctml:latitude>24.39876240</ctml:latitude>
+    <ctml:longitude>88.87641810</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153908" kind="city">
+    <ctml:name>Sunamganj</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Sunamganj</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-61</ctml:parentRef>
+    <ctml:wikiDataId>Q2093388</ctml:wikiDataId>
+    <ctml:latitude>24.88905540</ctml:latitude>
+    <ctml:longitude>91.00248270</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153909" kind="city">
+    <ctml:name>Sylhet</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Sylhet</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-60</ctml:parentRef>
+    <ctml:wikiDataId>Q2093352</ctml:wikiDataId>
+    <ctml:latitude>24.89189110</ctml:latitude>
+    <ctml:longitude>91.73554950</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153870" kind="city">
+    <ctml:name>Tangail</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Tangail</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-63</ctml:parentRef>
+    <ctml:wikiDataId>Q952184</ctml:wikiDataId>
+    <ctml:latitude>24.37630700</ctml:latitude>
+    <ctml:longitude>89.35804610</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGD-153905" kind="city">
+    <ctml:name>Thakurgaon</ctml:name>
+    <ctml:country>BGD</ctml:country>
+    <ctml:admin1>Thakurgaon</ctml:admin1>
+    <ctml:parentRef>place:admin1:BD-64</ctml:parentRef>
+    <ctml:wikiDataId>Q2367825</ctml:wikiDataId>
+    <ctml:latitude>25.93648420</ctml:latitude>
+    <ctml:longitude>88.03366640</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

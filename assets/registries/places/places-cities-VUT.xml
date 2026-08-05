@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:VUT-130639" kind="city">
+    <ctml:name>Norsup</ctml:name>
+    <ctml:country>VUT</ctml:country>
+    <ctml:admin1>Malampa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VU-MAP</ctml:parentRef>
+    <ctml:wikiDataId>Q876557</ctml:wikiDataId>
+    <ctml:latitude>-16.06536000</ctml:latitude>
+    <ctml:longitude>167.39714000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VUT-130640" kind="city">
+    <ctml:name>Port-Olry</ctml:name>
+    <ctml:country>VUT</ctml:country>
+    <ctml:admin1>Sanma</ctml:admin1>
+    <ctml:parentRef>place:admin1:VU-SAM</ctml:parentRef>
+    <ctml:wikiDataId>Q1050300</ctml:wikiDataId>
+    <ctml:latitude>-15.04175000</ctml:latitude>
+    <ctml:longitude>167.07265000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:VUT-130641" kind="city">
+    <ctml:name>Port-Vila</ctml:name>
+    <ctml:country>VUT</ctml:country>
+    <ctml:admin1>Shefa</ctml:admin1>
+    <ctml:parentRef>place:admin1:VU-SEE</ctml:parentRef>
+    <ctml:wikiDataId>Q37806</ctml:wikiDataId>
+    <ctml:latitude>-17.73648000</ctml:latitude>
+    <ctml:longitude>168.31366000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

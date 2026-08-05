@@ -1,0 +1,3819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:FIN-39132" kind="city">
+    <ctml:name>Äänekoski</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q258447</ctml:wikiDataId>
+    <ctml:latitude>62.60000000</ctml:latitude>
+    <ctml:longitude>25.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38760" kind="city">
+    <ctml:name>Hankasalmi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q367780</ctml:wikiDataId>
+    <ctml:latitude>62.38333000</ctml:latitude>
+    <ctml:longitude>26.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38809" kind="city">
+    <ctml:name>Jämsä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q642696</ctml:wikiDataId>
+    <ctml:latitude>61.86420000</ctml:latitude>
+    <ctml:longitude>25.19002000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38810" kind="city">
+    <ctml:name>Jämsänkoski</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q992990</ctml:wikiDataId>
+    <ctml:latitude>61.91900000</ctml:latitude>
+    <ctml:longitude>25.17011000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38801" kind="city">
+    <ctml:name>Joutsa</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q993058</ctml:wikiDataId>
+    <ctml:latitude>61.73333000</ctml:latitude>
+    <ctml:longitude>26.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38823" kind="city">
+    <ctml:name>Kannonkoski</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q990569</ctml:wikiDataId>
+    <ctml:latitude>62.96667000</ctml:latitude>
+    <ctml:longitude>25.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38831" kind="city">
+    <ctml:name>Karstula</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q288192</ctml:wikiDataId>
+    <ctml:latitude>62.86667000</ctml:latitude>
+    <ctml:longitude>24.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38849" kind="city">
+    <ctml:name>Keuruu</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1002499</ctml:wikiDataId>
+    <ctml:latitude>62.26667000</ctml:latitude>
+    <ctml:longitude>24.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38855" kind="city">
+    <ctml:name>Kinnula</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q999255</ctml:wikiDataId>
+    <ctml:latitude>63.38333000</ctml:latitude>
+    <ctml:longitude>24.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38862" kind="city">
+    <ctml:name>Kivijärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q594558</ctml:wikiDataId>
+    <ctml:latitude>63.11984000</ctml:latitude>
+    <ctml:longitude>25.07835000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38866" kind="city">
+    <ctml:name>Konnevesi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q543882</ctml:wikiDataId>
+    <ctml:latitude>62.61667000</ctml:latitude>
+    <ctml:longitude>26.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38868" kind="city">
+    <ctml:name>Korpilahti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q999821</ctml:wikiDataId>
+    <ctml:latitude>62.01667000</ctml:latitude>
+    <ctml:longitude>25.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38878" kind="city">
+    <ctml:name>Kuhmoinen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q585888</ctml:wikiDataId>
+    <ctml:latitude>61.56667000</ctml:latitude>
+    <ctml:longitude>25.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38887" kind="city">
+    <ctml:name>Kyyjärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1000109</ctml:wikiDataId>
+    <ctml:latitude>63.03333000</ctml:latitude>
+    <ctml:longitude>24.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38903" kind="city">
+    <ctml:name>Laukaa</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q990553</ctml:wikiDataId>
+    <ctml:latitude>62.41407000</ctml:latitude>
+    <ctml:longitude>25.95194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38907" kind="city">
+    <ctml:name>Leivonmäki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1025712</ctml:wikiDataId>
+    <ctml:latitude>61.91198000</ctml:latitude>
+    <ctml:longitude>26.12796000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38921" kind="city">
+    <ctml:name>Luhanka</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q748513</ctml:wikiDataId>
+    <ctml:latitude>61.79682000</ctml:latitude>
+    <ctml:longitude>25.70457000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38939" kind="city">
+    <ctml:name>Multia</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q999230</ctml:wikiDataId>
+    <ctml:latitude>62.41667000</ctml:latitude>
+    <ctml:longitude>24.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38942" kind="city">
+    <ctml:name>Muurame</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q613434</ctml:wikiDataId>
+    <ctml:latitude>62.13333000</ctml:latitude>
+    <ctml:longitude>25.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38982" kind="city">
+    <ctml:name>Petäjävesi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q121715</ctml:wikiDataId>
+    <ctml:latitude>62.25000000</ctml:latitude>
+    <ctml:longitude>25.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38985" kind="city">
+    <ctml:name>Pihtipudas</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q979846</ctml:wikiDataId>
+    <ctml:latitude>63.38333000</ctml:latitude>
+    <ctml:longitude>25.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39008" kind="city">
+    <ctml:name>Pylkönmäki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q200443</ctml:wikiDataId>
+    <ctml:latitude>62.66667000</ctml:latitude>
+    <ctml:longitude>24.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39035" kind="city">
+    <ctml:name>Saarijärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q984858</ctml:wikiDataId>
+    <ctml:latitude>62.70486000</ctml:latitude>
+    <ctml:longitude>25.25396000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39066" kind="city">
+    <ctml:name>Säynätsalo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1852674</ctml:wikiDataId>
+    <ctml:latitude>62.14025000</ctml:latitude>
+    <ctml:longitude>25.76948000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39058" kind="city">
+    <ctml:name>Sumiainen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q246563</ctml:wikiDataId>
+    <ctml:latitude>62.65736000</ctml:latitude>
+    <ctml:longitude>26.04642000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39059" kind="city">
+    <ctml:name>Suolahti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1641603</ctml:wikiDataId>
+    <ctml:latitude>62.56421000</ctml:latitude>
+    <ctml:longitude>25.85363000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39079" kind="city">
+    <ctml:name>Toivakka</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q993003</ctml:wikiDataId>
+    <ctml:latitude>62.10000000</ctml:latitude>
+    <ctml:longitude>26.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39092" kind="city">
+    <ctml:name>Uurainen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q639867</ctml:wikiDataId>
+    <ctml:latitude>62.50000000</ctml:latitude>
+    <ctml:longitude>25.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39110" kind="city">
+    <ctml:name>Viitasaari</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Finland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-08</ctml:parentRef>
+    <ctml:wikiDataId>Q992240</ctml:wikiDataId>
+    <ctml:latitude>63.06667000</ctml:latitude>
+    <ctml:longitude>25.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38758" kind="city">
+    <ctml:name>Halsua</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1571103</ctml:wikiDataId>
+    <ctml:latitude>63.46667000</ctml:latitude>
+    <ctml:longitude>24.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38888" kind="city">
+    <ctml:name>Kälviä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-07</ctml:parentRef>
+    <ctml:wikiDataId>Q646502</ctml:wikiDataId>
+    <ctml:latitude>63.86067000</ctml:latitude>
+    <ctml:longitude>23.45289000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38824" kind="city">
+    <ctml:name>Kannus</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-07</ctml:parentRef>
+    <ctml:wikiDataId>Q990569</ctml:wikiDataId>
+    <ctml:latitude>63.90000000</ctml:latitude>
+    <ctml:longitude>23.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38838" kind="city">
+    <ctml:name>Kaustinen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-07</ctml:parentRef>
+    <ctml:wikiDataId>Q208287</ctml:wikiDataId>
+    <ctml:latitude>63.54878000</ctml:latitude>
+    <ctml:longitude>23.68845000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38864" kind="city">
+    <ctml:name>Kokkola</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-07</ctml:parentRef>
+    <ctml:wikiDataId>Q207891</ctml:wikiDataId>
+    <ctml:latitude>63.85414000</ctml:latitude>
+    <ctml:longitude>23.58562000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38911" kind="city">
+    <ctml:name>Lestijärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1009103</ctml:wikiDataId>
+    <ctml:latitude>63.53333000</ctml:latitude>
+    <ctml:longitude>24.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38918" kind="city">
+    <ctml:name>Lohtaja</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1641609</ctml:wikiDataId>
+    <ctml:latitude>64.02472000</ctml:latitude>
+    <ctml:longitude>23.50482000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38977" kind="city">
+    <ctml:name>Perho</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-07</ctml:parentRef>
+    <ctml:wikiDataId>Q31331</ctml:wikiDataId>
+    <ctml:latitude>63.21667000</ctml:latitude>
+    <ctml:longitude>24.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39078" kind="city">
+    <ctml:name>Toholampi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-07</ctml:parentRef>
+    <ctml:wikiDataId>Q993003</ctml:wikiDataId>
+    <ctml:latitude>63.76667000</ctml:latitude>
+    <ctml:longitude>24.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39088" kind="city">
+    <ctml:name>Ullava</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-07</ctml:parentRef>
+    <ctml:wikiDataId>Q6168</ctml:wikiDataId>
+    <ctml:latitude>63.60000000</ctml:latitude>
+    <ctml:longitude>24.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39106" kind="city">
+    <ctml:name>Veteli</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Central Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1025744</ctml:wikiDataId>
+    <ctml:latitude>63.47839000</ctml:latitude>
+    <ctml:longitude>23.78285000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38732" kind="city">
+    <ctml:name>Alastaro</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q206601</ctml:wikiDataId>
+    <ctml:latitude>60.95000000</ctml:latitude>
+    <ctml:longitude>22.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38738" kind="city">
+    <ctml:name>Askainen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q730954</ctml:wikiDataId>
+    <ctml:latitude>60.56667000</ctml:latitude>
+    <ctml:longitude>21.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38740" kind="city">
+    <ctml:name>Aura</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q730954</ctml:wikiDataId>
+    <ctml:latitude>60.64710000</ctml:latitude>
+    <ctml:longitude>22.58755000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38742" kind="city">
+    <ctml:name>Dragsfjärd</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1009619</ctml:wikiDataId>
+    <ctml:latitude>60.06667000</ctml:latitude>
+    <ctml:longitude>22.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38757" kind="city">
+    <ctml:name>Halikko</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1571103</ctml:wikiDataId>
+    <ctml:latitude>60.40000000</ctml:latitude>
+    <ctml:longitude>23.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38775" kind="city">
+    <ctml:name>Houtskär</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1025722</ctml:wikiDataId>
+    <ctml:latitude>60.22284000</ctml:latitude>
+    <ctml:longitude>21.37218000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38790" kind="city">
+    <ctml:name>Iniö</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1025692</ctml:wikiDataId>
+    <ctml:latitude>60.40000000</ctml:latitude>
+    <ctml:longitude>21.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38814" kind="city">
+    <ctml:name>Kaarina</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q3068775</ctml:wikiDataId>
+    <ctml:latitude>60.40724000</ctml:latitude>
+    <ctml:longitude>22.36904000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38827" kind="city">
+    <ctml:name>Karinainen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q910021</ctml:wikiDataId>
+    <ctml:latitude>60.66667000</ctml:latitude>
+    <ctml:longitude>22.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38851" kind="city">
+    <ctml:name>Kiikala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1641643</ctml:wikiDataId>
+    <ctml:latitude>60.46667000</ctml:latitude>
+    <ctml:longitude>23.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38854" kind="city">
+    <ctml:name>Kimito</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q425790</ctml:wikiDataId>
+    <ctml:latitude>60.16047000</ctml:latitude>
+    <ctml:longitude>22.72900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38857" kind="city">
+    <ctml:name>Kisko</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q668748</ctml:wikiDataId>
+    <ctml:latitude>60.23333000</ctml:latitude>
+    <ctml:longitude>23.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38884" kind="city">
+    <ctml:name>Kustavi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q6012</ctml:wikiDataId>
+    <ctml:latitude>60.54529000</ctml:latitude>
+    <ctml:longitude>21.35880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38886" kind="city">
+    <ctml:name>Kuusjoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q531620</ctml:wikiDataId>
+    <ctml:latitude>60.51667000</ctml:latitude>
+    <ctml:longitude>23.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38894" kind="city">
+    <ctml:name>Laitila</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1580271</ctml:wikiDataId>
+    <ctml:latitude>60.87575000</ctml:latitude>
+    <ctml:longitude>21.69765000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38909" kind="city">
+    <ctml:name>Lemu</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1641588</ctml:wikiDataId>
+    <ctml:latitude>60.56667000</ctml:latitude>
+    <ctml:longitude>21.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38913" kind="city">
+    <ctml:name>Lieto</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q608752</ctml:wikiDataId>
+    <ctml:latitude>60.51032000</ctml:latitude>
+    <ctml:longitude>22.46176000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38928" kind="city">
+    <ctml:name>Marttila</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q748064</ctml:wikiDataId>
+    <ctml:latitude>60.58333000</ctml:latitude>
+    <ctml:longitude>22.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38929" kind="city">
+    <ctml:name>Masku</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1017127</ctml:wikiDataId>
+    <ctml:latitude>60.57082000</ctml:latitude>
+    <ctml:longitude>22.09883000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38930" kind="city">
+    <ctml:name>Mellilä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1641630</ctml:wikiDataId>
+    <ctml:latitude>60.76667000</ctml:latitude>
+    <ctml:longitude>22.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38934" kind="city">
+    <ctml:name>Merimasku</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1025703</ctml:wikiDataId>
+    <ctml:latitude>60.48333000</ctml:latitude>
+    <ctml:longitude>21.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38936" kind="city">
+    <ctml:name>Mietoinen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1852283</ctml:wikiDataId>
+    <ctml:latitude>60.63333000</ctml:latitude>
+    <ctml:longitude>21.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38943" kind="city">
+    <ctml:name>Muurla</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1641664</ctml:wikiDataId>
+    <ctml:latitude>60.35000000</ctml:latitude>
+    <ctml:longitude>23.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38944" kind="city">
+    <ctml:name>Mynämäki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1641664</ctml:wikiDataId>
+    <ctml:latitude>60.67915000</ctml:latitude>
+    <ctml:longitude>21.99274000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38948" kind="city">
+    <ctml:name>Naantali</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1641649</ctml:wikiDataId>
+    <ctml:latitude>60.46744000</ctml:latitude>
+    <ctml:longitude>22.02428000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38949" kind="city">
+    <ctml:name>Nagu</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q203512</ctml:wikiDataId>
+    <ctml:latitude>60.19375000</ctml:latitude>
+    <ctml:longitude>21.90972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38955" kind="city">
+    <ctml:name>Nousiainen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1641623</ctml:wikiDataId>
+    <ctml:latitude>60.60416000</ctml:latitude>
+    <ctml:longitude>22.07926000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38963" kind="city">
+    <ctml:name>Oripää</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q2028417</ctml:wikiDataId>
+    <ctml:latitude>60.85000000</ctml:latitude>
+    <ctml:longitude>22.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38970" kind="city">
+    <ctml:name>Paimio</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q992356</ctml:wikiDataId>
+    <ctml:latitude>60.45671000</ctml:latitude>
+    <ctml:longitude>22.68694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38972" kind="city">
+    <ctml:name>Pargas</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q13405837</ctml:wikiDataId>
+    <ctml:latitude>60.30672000</ctml:latitude>
+    <ctml:longitude>22.30097000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38978" kind="city">
+    <ctml:name>Perniö</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1641596</ctml:wikiDataId>
+    <ctml:latitude>60.20000000</ctml:latitude>
+    <ctml:longitude>23.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38980" kind="city">
+    <ctml:name>Pertteli</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q121715</ctml:wikiDataId>
+    <ctml:latitude>60.43333000</ctml:latitude>
+    <ctml:longitude>23.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38986" kind="city">
+    <ctml:name>Piikkiö</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q783205</ctml:wikiDataId>
+    <ctml:latitude>60.42481000</ctml:latitude>
+    <ctml:longitude>22.51601000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39009" kind="city">
+    <ctml:name>Pöytyä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q200443</ctml:wikiDataId>
+    <ctml:latitude>60.76667000</ctml:latitude>
+    <ctml:longitude>22.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39006" kind="city">
+    <ctml:name>Pyhäranta</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q807902</ctml:wikiDataId>
+    <ctml:latitude>60.95000000</ctml:latitude>
+    <ctml:longitude>21.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39012" kind="city">
+    <ctml:name>Raisio</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1191746</ctml:wikiDataId>
+    <ctml:latitude>60.48592000</ctml:latitude>
+    <ctml:longitude>22.16895000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39030" kind="city">
+    <ctml:name>Rusko</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q999193</ctml:wikiDataId>
+    <ctml:latitude>60.53333000</ctml:latitude>
+    <ctml:longitude>22.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39032" kind="city">
+    <ctml:name>Rymättylä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1641571</ctml:wikiDataId>
+    <ctml:latitude>60.37658000</ctml:latitude>
+    <ctml:longitude>21.94184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39037" kind="city">
+    <ctml:name>Salo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q210987</ctml:wikiDataId>
+    <ctml:latitude>60.38333000</ctml:latitude>
+    <ctml:longitude>23.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39065" kind="city">
+    <ctml:name>Särkisalo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1852674</ctml:wikiDataId>
+    <ctml:latitude>60.11389000</ctml:latitude>
+    <ctml:longitude>22.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39039" kind="city">
+    <ctml:name>Sauvo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1017136</ctml:wikiDataId>
+    <ctml:latitude>60.34306000</ctml:latitude>
+    <ctml:longitude>22.69642000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39054" kind="city">
+    <ctml:name>Somero</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q939727</ctml:wikiDataId>
+    <ctml:latitude>60.61667000</ctml:latitude>
+    <ctml:longitude>23.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39060" kind="city">
+    <ctml:name>Suomusjärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1641656</ctml:wikiDataId>
+    <ctml:latitude>60.35000000</ctml:latitude>
+    <ctml:longitude>23.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39069" kind="city">
+    <ctml:name>Taivassalo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1025700</ctml:wikiDataId>
+    <ctml:latitude>60.56085000</ctml:latitude>
+    <ctml:longitude>21.61639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39071" kind="city">
+    <ctml:name>Tarvasjoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1025700</ctml:wikiDataId>
+    <ctml:latitude>60.58333000</ctml:latitude>
+    <ctml:longitude>22.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39093" kind="city">
+    <ctml:name>Uusikaupunki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q207295</ctml:wikiDataId>
+    <ctml:latitude>60.80043000</ctml:latitude>
+    <ctml:longitude>21.40841000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39096" kind="city">
+    <ctml:name>Vahto</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q386061</ctml:wikiDataId>
+    <ctml:latitude>60.60000000</ctml:latitude>
+    <ctml:longitude>22.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39119" kind="city">
+    <ctml:name>Väståboland</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1010550</ctml:wikiDataId>
+    <ctml:latitude>60.29972000</ctml:latitude>
+    <ctml:longitude>22.30040000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39118" kind="city">
+    <ctml:name>Västanfjärd</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1641638</ctml:wikiDataId>
+    <ctml:latitude>60.05000000</ctml:latitude>
+    <ctml:longitude>22.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39102" kind="city">
+    <ctml:name>Vehmaa</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1641558</ctml:wikiDataId>
+    <ctml:latitude>60.68333000</ctml:latitude>
+    <ctml:longitude>21.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39104" kind="city">
+    <ctml:name>Velkua</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q939276</ctml:wikiDataId>
+    <ctml:latitude>60.46667000</ctml:latitude>
+    <ctml:longitude>21.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39128" kind="city">
+    <ctml:name>Yläne</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Finland Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1407166</ctml:wikiDataId>
+    <ctml:latitude>60.88333000</ctml:latitude>
+    <ctml:longitude>22.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38778" kind="city">
+    <ctml:name>Hyrynsalmi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kainuu</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-05</ctml:parentRef>
+    <ctml:wikiDataId>Q984934</ctml:wikiDataId>
+    <ctml:latitude>64.66667000</ctml:latitude>
+    <ctml:longitude>28.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38877" kind="city">
+    <ctml:name>Kuhmo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kainuu</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-05</ctml:parentRef>
+    <ctml:wikiDataId>Q939771</ctml:wikiDataId>
+    <ctml:latitude>64.13333000</ctml:latitude>
+    <ctml:longitude>29.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38971" kind="city">
+    <ctml:name>Paltamo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kainuu</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-05</ctml:parentRef>
+    <ctml:wikiDataId>Q985337</ctml:wikiDataId>
+    <ctml:latitude>64.41667000</ctml:latitude>
+    <ctml:longitude>27.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38999" kind="city">
+    <ctml:name>Puolanka</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kainuu</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-05</ctml:parentRef>
+    <ctml:wikiDataId>Q428113</ctml:wikiDataId>
+    <ctml:latitude>64.86667000</ctml:latitude>
+    <ctml:longitude>27.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39025" kind="city">
+    <ctml:name>Ristijärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kainuu</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1641615</ctml:wikiDataId>
+    <ctml:latitude>64.50000000</ctml:latitude>
+    <ctml:longitude>28.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39056" kind="city">
+    <ctml:name>Sotkamo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kainuu</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-05</ctml:parentRef>
+    <ctml:wikiDataId>Q738472</ctml:wikiDataId>
+    <ctml:latitude>64.13333000</ctml:latitude>
+    <ctml:longitude>28.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39061" kind="city">
+    <ctml:name>Suomussalmi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kainuu</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-05</ctml:parentRef>
+    <ctml:wikiDataId>Q214054</ctml:wikiDataId>
+    <ctml:latitude>64.88685000</ctml:latitude>
+    <ctml:longitude>28.90778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39094" kind="city">
+    <ctml:name>Vaala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kainuu</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-05</ctml:parentRef>
+    <ctml:wikiDataId>Q984936</ctml:wikiDataId>
+    <ctml:latitude>64.56667000</ctml:latitude>
+    <ctml:longitude>26.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39114" kind="city">
+    <ctml:name>Vuokatti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kainuu</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2779906</ctml:wikiDataId>
+    <ctml:latitude>64.14466000</ctml:latitude>
+    <ctml:longitude>28.28196000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39115" kind="city">
+    <ctml:name>Vuolijoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kainuu</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-05</ctml:parentRef>
+    <ctml:wikiDataId>Q610490</ctml:wikiDataId>
+    <ctml:latitude>64.18538000</ctml:latitude>
+    <ctml:longitude>26.99547000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38735" kind="city">
+    <ctml:name>Anjala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kymenlaakso</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-09</ctml:parentRef>
+    <ctml:wikiDataId>Q4765722</ctml:wikiDataId>
+    <ctml:latitude>60.68333000</ctml:latitude>
+    <ctml:longitude>26.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38744" kind="city">
+    <ctml:name>Elimäki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kymenlaakso</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1000113</ctml:wikiDataId>
+    <ctml:latitude>60.71667000</ctml:latitude>
+    <ctml:longitude>26.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38759" kind="city">
+    <ctml:name>Hamina</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kymenlaakso</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-09</ctml:parentRef>
+    <ctml:wikiDataId>Q367780</ctml:wikiDataId>
+    <ctml:latitude>60.56974000</ctml:latitude>
+    <ctml:longitude>27.19794000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38784" kind="city">
+    <ctml:name>Iitti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kymenlaakso</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-09</ctml:parentRef>
+    <ctml:wikiDataId>Q748533</ctml:wikiDataId>
+    <ctml:latitude>60.89488000</ctml:latitude>
+    <ctml:longitude>26.33869000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38794" kind="city">
+    <ctml:name>Jaala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kymenlaakso</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1011082</ctml:wikiDataId>
+    <ctml:latitude>61.05251000</ctml:latitude>
+    <ctml:longitude>26.48117000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38825" kind="city">
+    <ctml:name>Karhula</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kymenlaakso</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2392663</ctml:wikiDataId>
+    <ctml:latitude>60.52156000</ctml:latitude>
+    <ctml:longitude>26.93125000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38872" kind="city">
+    <ctml:name>Kotka</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kymenlaakso</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-09</ctml:parentRef>
+    <ctml:wikiDataId>Q192155</ctml:wikiDataId>
+    <ctml:latitude>60.46640000</ctml:latitude>
+    <ctml:longitude>26.94582000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38935" kind="city">
+    <ctml:name>Miehikkälä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kymenlaakso</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-09</ctml:parentRef>
+    <ctml:wikiDataId>Q999203</ctml:wikiDataId>
+    <ctml:latitude>60.66667000</ctml:latitude>
+    <ctml:longitude>27.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39001" kind="city">
+    <ctml:name>Pyhtää</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kymenlaakso</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-09</ctml:parentRef>
+    <ctml:wikiDataId>Q990557</ctml:wikiDataId>
+    <ctml:latitude>60.49349000</ctml:latitude>
+    <ctml:longitude>26.54346000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39112" kind="city">
+    <ctml:name>Virojoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Kymenlaakso</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-09</ctml:parentRef>
+    <ctml:wikiDataId>Q992240</ctml:wikiDataId>
+    <ctml:latitude>60.57940000</ctml:latitude>
+    <ctml:longitude>27.70354000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38747" kind="city">
+    <ctml:name>Enontekiö</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q984861</ctml:wikiDataId>
+    <ctml:latitude>68.38573000</ctml:latitude>
+    <ctml:longitude>23.63215000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38788" kind="city">
+    <ctml:name>Inari</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1025014</ctml:wikiDataId>
+    <ctml:latitude>68.90596000</ctml:latitude>
+    <ctml:longitude>27.02881000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38793" kind="city">
+    <ctml:name>Ivalo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q539767</ctml:wikiDataId>
+    <ctml:latitude>68.65986000</ctml:latitude>
+    <ctml:longitude>27.53891000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38841" kind="city">
+    <ctml:name>Kemi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q826263</ctml:wikiDataId>
+    <ctml:latitude>65.73641000</ctml:latitude>
+    <ctml:longitude>24.56371000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38842" kind="city">
+    <ctml:name>Kemijärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q826263</ctml:wikiDataId>
+    <ctml:latitude>66.71309000</ctml:latitude>
+    <ctml:longitude>27.43056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38843" kind="city">
+    <ctml:name>Keminmaa</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q826263</ctml:wikiDataId>
+    <ctml:latitude>65.80158000</ctml:latitude>
+    <ctml:longitude>24.54483000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38859" kind="city">
+    <ctml:name>Kittilä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q593942</ctml:wikiDataId>
+    <ctml:latitude>67.66474000</ctml:latitude>
+    <ctml:longitude>24.89356000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38865" kind="city">
+    <ctml:name>Kolari</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q543882</ctml:wikiDataId>
+    <ctml:latitude>67.33047000</ctml:latitude>
+    <ctml:longitude>23.77785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38941" kind="city">
+    <ctml:name>Muonio</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q302717</ctml:wikiDataId>
+    <ctml:latitude>67.95000000</ctml:latitude>
+    <ctml:longitude>23.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38975" kind="city">
+    <ctml:name>Pelkosenniemi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q385194</ctml:wikiDataId>
+    <ctml:latitude>67.11083000</ctml:latitude>
+    <ctml:longitude>27.51056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38976" kind="city">
+    <ctml:name>Pello</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q31331</ctml:wikiDataId>
+    <ctml:latitude>66.77364000</ctml:latitude>
+    <ctml:longitude>23.96255000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38994" kind="city">
+    <ctml:name>Posio</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q193367</ctml:wikiDataId>
+    <ctml:latitude>66.10856000</ctml:latitude>
+    <ctml:longitude>28.17186000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39004" kind="city">
+    <ctml:name>Pyhäjärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q990557</ctml:wikiDataId>
+    <ctml:latitude>67.07010000</ctml:latitude>
+    <ctml:longitude>27.21763000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39015" kind="city">
+    <ctml:name>Ranua</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q485776</ctml:wikiDataId>
+    <ctml:latitude>65.91667000</ctml:latitude>
+    <ctml:longitude>26.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39027" kind="city">
+    <ctml:name>Rovaniemi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q103717</ctml:wikiDataId>
+    <ctml:latitude>66.50000000</ctml:latitude>
+    <ctml:longitude>25.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39036" kind="city">
+    <ctml:name>Salla</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q936067</ctml:wikiDataId>
+    <ctml:latitude>66.83333000</ctml:latitude>
+    <ctml:longitude>28.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39043" kind="city">
+    <ctml:name>Savukoski</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q984938</ctml:wikiDataId>
+    <ctml:latitude>67.29250000</ctml:latitude>
+    <ctml:longitude>28.15806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39050" kind="city">
+    <ctml:name>Simo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q999210</ctml:wikiDataId>
+    <ctml:latitude>65.66667000</ctml:latitude>
+    <ctml:longitude>25.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39052" kind="city">
+    <ctml:name>Sodankylä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q502175</ctml:wikiDataId>
+    <ctml:latitude>67.41667000</ctml:latitude>
+    <ctml:longitude>26.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39075" kind="city">
+    <ctml:name>Tervola</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q990585</ctml:wikiDataId>
+    <ctml:latitude>66.08333000</ctml:latitude>
+    <ctml:longitude>24.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39080" kind="city">
+    <ctml:name>Tornio</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q214021</ctml:wikiDataId>
+    <ctml:latitude>65.84811000</ctml:latitude>
+    <ctml:longitude>24.14662000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39091" kind="city">
+    <ctml:name>Utsjoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q247128</ctml:wikiDataId>
+    <ctml:latitude>69.90864000</ctml:latitude>
+    <ctml:longitude>27.02843000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39125" kind="city">
+    <ctml:name>Ylitornio</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Lapland</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-10</ctml:parentRef>
+    <ctml:wikiDataId>Q653167</ctml:wikiDataId>
+    <ctml:latitude>66.30893000</ctml:latitude>
+    <ctml:longitude>23.67734000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38745" kind="city">
+    <ctml:name>Eno</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1010490</ctml:wikiDataId>
+    <ctml:latitude>62.80511000</ctml:latitude>
+    <ctml:longitude>30.15422000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38786" kind="city">
+    <ctml:name>Ilomantsi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q283599</ctml:wikiDataId>
+    <ctml:latitude>62.67162000</ctml:latitude>
+    <ctml:longitude>30.93276000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38805" kind="city">
+    <ctml:name>Juuka</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1369780</ctml:wikiDataId>
+    <ctml:latitude>63.23333000</ctml:latitude>
+    <ctml:longitude>29.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38848" kind="city">
+    <ctml:name>Kesälahti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1002499</ctml:wikiDataId>
+    <ctml:latitude>61.89752000</ctml:latitude>
+    <ctml:longitude>29.83494000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38850" kind="city">
+    <ctml:name>Kiihtelysvaara</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1724211</ctml:wikiDataId>
+    <ctml:latitude>62.49525000</ctml:latitude>
+    <ctml:longitude>30.25081000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38858" kind="city">
+    <ctml:name>Kitee</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q491603</ctml:wikiDataId>
+    <ctml:latitude>62.10000000</ctml:latitude>
+    <ctml:longitude>30.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38867" kind="city">
+    <ctml:name>Kontiolahti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q737534</ctml:wikiDataId>
+    <ctml:latitude>62.76023000</ctml:latitude>
+    <ctml:longitude>29.84711000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38912" kind="city">
+    <ctml:name>Lieksa</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q608752</ctml:wikiDataId>
+    <ctml:latitude>63.31667000</ctml:latitude>
+    <ctml:longitude>30.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38916" kind="city">
+    <ctml:name>Liperi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q608803</ctml:wikiDataId>
+    <ctml:latitude>62.53333000</ctml:latitude>
+    <ctml:longitude>29.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38957" kind="city">
+    <ctml:name>Nurmes</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1641623</ctml:wikiDataId>
+    <ctml:latitude>63.54205000</ctml:latitude>
+    <ctml:longitude>29.13965000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38968" kind="city">
+    <ctml:name>Outokumpu</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q992356</ctml:wikiDataId>
+    <ctml:latitude>62.72685000</ctml:latitude>
+    <ctml:longitude>29.01592000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38989" kind="city">
+    <ctml:name>Polvijärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1010030</ctml:wikiDataId>
+    <ctml:latitude>62.85000000</ctml:latitude>
+    <ctml:longitude>29.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39007" kind="city">
+    <ctml:name>Pyhäselkä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1025725</ctml:wikiDataId>
+    <ctml:latitude>62.43333000</ctml:latitude>
+    <ctml:longitude>29.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39033" kind="city">
+    <ctml:name>Rääkkylä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1641571</ctml:wikiDataId>
+    <ctml:latitude>62.31667000</ctml:latitude>
+    <ctml:longitude>29.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39077" kind="city">
+    <ctml:name>Tohmajärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q993003</ctml:wikiDataId>
+    <ctml:latitude>62.18333000</ctml:latitude>
+    <ctml:longitude>30.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39083" kind="city">
+    <ctml:name>Tuupovaara</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q255065</ctml:wikiDataId>
+    <ctml:latitude>62.48372000</ctml:latitude>
+    <ctml:longitude>30.62731000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39097" kind="city">
+    <ctml:name>Valtimo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>North Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-13</ctml:parentRef>
+    <ctml:wikiDataId>Q386061</ctml:wikiDataId>
+    <ctml:latitude>63.66667000</ctml:latitude>
+    <ctml:longitude>28.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38733" kind="city">
+    <ctml:name>Alavieska</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q996252</ctml:wikiDataId>
+    <ctml:latitude>64.16667000</ctml:latitude>
+    <ctml:longitude>24.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38754" kind="city">
+    <ctml:name>Haapajärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q829842</ctml:wikiDataId>
+    <ctml:latitude>63.75000000</ctml:latitude>
+    <ctml:longitude>25.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38755" kind="city">
+    <ctml:name>Haapavesi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q819387</ctml:wikiDataId>
+    <ctml:latitude>64.13333000</ctml:latitude>
+    <ctml:longitude>25.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38756" kind="city">
+    <ctml:name>Hailuoto</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q819387</ctml:wikiDataId>
+    <ctml:latitude>65.00900000</ctml:latitude>
+    <ctml:longitude>24.71385000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38765" kind="city">
+    <ctml:name>Haukipudas</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q985443</ctml:wikiDataId>
+    <ctml:latitude>65.17654000</ctml:latitude>
+    <ctml:longitude>25.35233000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38772" kind="city">
+    <ctml:name>Himanka</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1025731</ctml:wikiDataId>
+    <ctml:latitude>64.06218000</ctml:latitude>
+    <ctml:longitude>23.65447000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38782" kind="city">
+    <ctml:name>Ii</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q202158</ctml:wikiDataId>
+    <ctml:latitude>65.31735000</ctml:latitude>
+    <ctml:longitude>25.37310000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38817" kind="city">
+    <ctml:name>Kalajoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q939758</ctml:wikiDataId>
+    <ctml:latitude>64.25000000</ctml:latitude>
+    <ctml:longitude>23.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38890" kind="city">
+    <ctml:name>Kärsämäki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q992393</ctml:wikiDataId>
+    <ctml:latitude>63.96667000</ctml:latitude>
+    <ctml:longitude>25.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38844" kind="city">
+    <ctml:name>Kempele</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q985451</ctml:wikiDataId>
+    <ctml:latitude>64.91314000</ctml:latitude>
+    <ctml:longitude>25.50339000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38847" kind="city">
+    <ctml:name>Kestilä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q992303</ctml:wikiDataId>
+    <ctml:latitude>64.35002000</ctml:latitude>
+    <ctml:longitude>26.27921000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38852" kind="city">
+    <ctml:name>Kiiminki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q992275</ctml:wikiDataId>
+    <ctml:latitude>65.13139000</ctml:latitude>
+    <ctml:longitude>25.79744000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38879" kind="city">
+    <ctml:name>Kuivaniemi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q201835</ctml:wikiDataId>
+    <ctml:latitude>65.57847000</ctml:latitude>
+    <ctml:longitude>25.18814000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38885" kind="city">
+    <ctml:name>Kuusamo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q207999</ctml:wikiDataId>
+    <ctml:latitude>65.96667000</ctml:latitude>
+    <ctml:longitude>29.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38915" kind="city">
+    <ctml:name>Liminka</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1005071</ctml:wikiDataId>
+    <ctml:latitude>64.80985000</ctml:latitude>
+    <ctml:longitude>25.41545000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38922" kind="city">
+    <ctml:name>Lumijoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q748513</ctml:wikiDataId>
+    <ctml:latitude>64.83744000</ctml:latitude>
+    <ctml:longitude>25.18607000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38932" kind="city">
+    <ctml:name>Merijärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q3133428</ctml:wikiDataId>
+    <ctml:latitude>64.30000000</ctml:latitude>
+    <ctml:longitude>24.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38938" kind="city">
+    <ctml:name>Muhos</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q190583</ctml:wikiDataId>
+    <ctml:latitude>64.80798000</ctml:latitude>
+    <ctml:longitude>25.99314000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38953" kind="city">
+    <ctml:name>Nivala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q985458</ctml:wikiDataId>
+    <ctml:latitude>63.91667000</ctml:latitude>
+    <ctml:longitude>24.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38965" kind="city">
+    <ctml:name>Oulainen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q985459</ctml:wikiDataId>
+    <ctml:latitude>64.26667000</ctml:latitude>
+    <ctml:longitude>24.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38967" kind="city">
+    <ctml:name>Oulunsalo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q992356</ctml:wikiDataId>
+    <ctml:latitude>64.93456000</ctml:latitude>
+    <ctml:longitude>25.41121000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38987" kind="city">
+    <ctml:name>Piippola</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1014303</ctml:wikiDataId>
+    <ctml:latitude>64.16667000</ctml:latitude>
+    <ctml:longitude>25.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38995" kind="city">
+    <ctml:name>Pudasjärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q912952</ctml:wikiDataId>
+    <ctml:latitude>65.38333000</ctml:latitude>
+    <ctml:longitude>26.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38997" kind="city">
+    <ctml:name>Pulkkila</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q541236</ctml:wikiDataId>
+    <ctml:latitude>64.26667000</ctml:latitude>
+    <ctml:longitude>25.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39003" kind="city">
+    <ctml:name>Pyhäjärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q990557</ctml:wikiDataId>
+    <ctml:latitude>63.66667000</ctml:latitude>
+    <ctml:longitude>25.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39002" kind="city">
+    <ctml:name>Pyhäjoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q990557</ctml:wikiDataId>
+    <ctml:latitude>64.46667000</ctml:latitude>
+    <ctml:longitude>24.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39005" kind="city">
+    <ctml:name>Pyhäntä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q368448</ctml:wikiDataId>
+    <ctml:latitude>64.10000000</ctml:latitude>
+    <ctml:longitude>26.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39010" kind="city">
+    <ctml:name>Raahe</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q622592</ctml:wikiDataId>
+    <ctml:latitude>64.68333000</ctml:latitude>
+    <ctml:longitude>24.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39014" kind="city">
+    <ctml:name>Rantsila</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1014239</ctml:wikiDataId>
+    <ctml:latitude>64.50613000</ctml:latitude>
+    <ctml:longitude>25.66449000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39020" kind="city">
+    <ctml:name>Reisjärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q377049</ctml:wikiDataId>
+    <ctml:latitude>63.61667000</ctml:latitude>
+    <ctml:longitude>24.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39031" kind="city">
+    <ctml:name>Ruukki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2177972</ctml:wikiDataId>
+    <ctml:latitude>64.66667000</ctml:latitude>
+    <ctml:longitude>25.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39046" kind="city">
+    <ctml:name>Sievi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1001761</ctml:wikiDataId>
+    <ctml:latitude>63.90000000</ctml:latitude>
+    <ctml:longitude>24.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39048" kind="city">
+    <ctml:name>Siikajoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1001761</ctml:wikiDataId>
+    <ctml:latitude>64.81455000</ctml:latitude>
+    <ctml:longitude>24.75924000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39068" kind="city">
+    <ctml:name>Taivalkoski</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1025700</ctml:wikiDataId>
+    <ctml:latitude>65.56667000</ctml:latitude>
+    <ctml:longitude>28.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39086" kind="city">
+    <ctml:name>Tyrnävä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q214773</ctml:wikiDataId>
+    <ctml:latitude>64.76469000</ctml:latitude>
+    <ctml:longitude>25.65230000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39090" kind="city">
+    <ctml:name>Utajärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q247128</ctml:wikiDataId>
+    <ctml:latitude>64.75000000</ctml:latitude>
+    <ctml:longitude>26.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39108" kind="city">
+    <ctml:name>Vihanti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q992240</ctml:wikiDataId>
+    <ctml:latitude>64.48472000</ctml:latitude>
+    <ctml:longitude>24.99157000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39121" kind="city">
+    <ctml:name>Yli-Ii</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q119845</ctml:wikiDataId>
+    <ctml:latitude>65.37181000</ctml:latitude>
+    <ctml:longitude>25.84580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39123" kind="city">
+    <ctml:name>Ylikiiminki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q119845</ctml:wikiDataId>
+    <ctml:latitude>65.08333000</ctml:latitude>
+    <ctml:longitude>26.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39126" kind="city">
+    <ctml:name>Ylivieska</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Northern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-14</ctml:parentRef>
+    <ctml:wikiDataId>Q653167</ctml:wikiDataId>
+    <ctml:latitude>64.08333000</ctml:latitude>
+    <ctml:longitude>24.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38771" kind="city">
+    <ctml:name>Hietalahti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1757</ctml:wikiDataId>
+    <ctml:latitude>63.08480000</ctml:latitude>
+    <ctml:longitude>21.61716000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38792" kind="city">
+    <ctml:name>Isokyrö</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1025692</ctml:wikiDataId>
+    <ctml:latitude>63.01172000</ctml:latitude>
+    <ctml:longitude>22.33332000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38795" kind="city">
+    <ctml:name>Jakobstad</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1679567</ctml:wikiDataId>
+    <ctml:latitude>63.67486000</ctml:latitude>
+    <ctml:longitude>22.70256000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38834" kind="city">
+    <ctml:name>Kaskinen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1735037</ctml:wikiDataId>
+    <ctml:latitude>62.38444000</ctml:latitude>
+    <ctml:longitude>21.22331000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38869" kind="city">
+    <ctml:name>Korsholm</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1784789</ctml:wikiDataId>
+    <ctml:latitude>63.11418000</ctml:latitude>
+    <ctml:longitude>21.68216000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38870" kind="city">
+    <ctml:name>Korsnäs</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1498986</ctml:wikiDataId>
+    <ctml:latitude>62.78333000</ctml:latitude>
+    <ctml:longitude>21.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38875" kind="city">
+    <ctml:name>Kristinestad</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q659642</ctml:wikiDataId>
+    <ctml:latitude>62.27429000</ctml:latitude>
+    <ctml:longitude>21.37596000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38876" kind="city">
+    <ctml:name>Kronoby</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q659642</ctml:wikiDataId>
+    <ctml:latitude>63.72859000</ctml:latitude>
+    <ctml:longitude>23.03387000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38893" kind="city">
+    <ctml:name>Laihia</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1580271</ctml:wikiDataId>
+    <ctml:latitude>62.97609000</ctml:latitude>
+    <ctml:longitude>22.01143000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38902" kind="city">
+    <ctml:name>Larsmo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q259863</ctml:wikiDataId>
+    <ctml:latitude>63.75388000</ctml:latitude>
+    <ctml:longitude>22.74728000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38927" kind="city">
+    <ctml:name>Malax</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q748064</ctml:wikiDataId>
+    <ctml:latitude>62.94225000</ctml:latitude>
+    <ctml:longitude>21.57311000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38960" kind="city">
+    <ctml:name>Nykarleby</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q664599</ctml:wikiDataId>
+    <ctml:latitude>63.52277000</ctml:latitude>
+    <ctml:longitude>22.53073000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38961" kind="city">
+    <ctml:name>Oravais</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2028417</ctml:wikiDataId>
+    <ctml:latitude>63.30135000</ctml:latitude>
+    <ctml:longitude>22.37821000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38974" kind="city">
+    <ctml:name>Pedersöre</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q385194</ctml:wikiDataId>
+    <ctml:latitude>63.65000000</ctml:latitude>
+    <ctml:longitude>22.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39022" kind="city">
+    <ctml:name>Replot</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1791957</ctml:wikiDataId>
+    <ctml:latitude>63.22882000</ctml:latitude>
+    <ctml:longitude>21.41691000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39026" kind="city">
+    <ctml:name>Ristinummi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q24368330</ctml:wikiDataId>
+    <ctml:latitude>63.09192000</ctml:latitude>
+    <ctml:longitude>21.72297000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39072" kind="city">
+    <ctml:name>Teeriniemi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1025700</ctml:wikiDataId>
+    <ctml:latitude>63.09705000</ctml:latitude>
+    <ctml:longitude>21.69590000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39117" kind="city">
+    <ctml:name>Vähäkyrö</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1542740</ctml:wikiDataId>
+    <ctml:latitude>63.05635000</ctml:latitude>
+    <ctml:longitude>22.10584000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39120" kind="city">
+    <ctml:name>Vörå</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2156306</ctml:wikiDataId>
+    <ctml:latitude>63.13607000</ctml:latitude>
+    <ctml:longitude>22.25223000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38736" kind="city">
+    <ctml:name>Artjärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Päijänne Tavastia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-16</ctml:parentRef>
+    <ctml:wikiDataId>Q713559</ctml:wikiDataId>
+    <ctml:latitude>60.74544000</ctml:latitude>
+    <ctml:longitude>26.07084000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38737" kind="city">
+    <ctml:name>Asikkala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Päijänne Tavastia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-16</ctml:parentRef>
+    <ctml:wikiDataId>Q713559</ctml:wikiDataId>
+    <ctml:latitude>61.21667000</ctml:latitude>
+    <ctml:longitude>25.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38741" kind="city">
+    <ctml:name>Auttoinen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Päijänne Tavastia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-16</ctml:parentRef>
+    <ctml:wikiDataId>Q730954</ctml:wikiDataId>
+    <ctml:latitude>61.29901000</ctml:latitude>
+    <ctml:longitude>25.08887000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38780" kind="city">
+    <ctml:name>Hämeenkoski</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Päijänne Tavastia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1025738</ctml:wikiDataId>
+    <ctml:latitude>61.02222000</ctml:latitude>
+    <ctml:longitude>25.15417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38763" kind="city">
+    <ctml:name>Hartola</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Päijänne Tavastia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1010494</ctml:wikiDataId>
+    <ctml:latitude>61.58333000</ctml:latitude>
+    <ctml:longitude>26.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38768" kind="city">
+    <ctml:name>Heinola</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Päijänne Tavastia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-16</ctml:parentRef>
+    <ctml:wikiDataId>Q369720</ctml:wikiDataId>
+    <ctml:latitude>61.20564000</ctml:latitude>
+    <ctml:longitude>26.03811000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38774" kind="city">
+    <ctml:name>Hollola</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Päijänne Tavastia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-16</ctml:parentRef>
+    <ctml:wikiDataId>Q990578</ctml:wikiDataId>
+    <ctml:latitude>61.05000000</ctml:latitude>
+    <ctml:longitude>25.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38951" kind="city">
+    <ctml:name>Nastola</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Päijänne Tavastia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-16</ctml:parentRef>
+    <ctml:wikiDataId>Q369576</ctml:wikiDataId>
+    <ctml:latitude>60.95000000</ctml:latitude>
+    <ctml:longitude>25.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38962" kind="city">
+    <ctml:name>Orimattila</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Päijänne Tavastia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2028417</ctml:wikiDataId>
+    <ctml:latitude>60.80487000</ctml:latitude>
+    <ctml:longitude>25.72964000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38969" kind="city">
+    <ctml:name>Padasjoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Päijänne Tavastia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-16</ctml:parentRef>
+    <ctml:wikiDataId>Q992356</ctml:wikiDataId>
+    <ctml:latitude>61.35000000</ctml:latitude>
+    <ctml:longitude>25.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39063" kind="city">
+    <ctml:name>Sysmä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Päijänne Tavastia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-16</ctml:parentRef>
+    <ctml:wikiDataId>Q259636</ctml:wikiDataId>
+    <ctml:latitude>61.50000000</ctml:latitude>
+    <ctml:longitude>25.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153349" kind="city">
+    <ctml:name>Äetsä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q252873</ctml:wikiDataId>
+    <ctml:latitude>61.28333000</ctml:latitude>
+    <ctml:longitude>22.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153290" kind="city">
+    <ctml:name>Aimala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q15178579</ctml:wikiDataId>
+    <ctml:latitude>61.33000000</ctml:latitude>
+    <ctml:longitude>23.69000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153291" kind="city">
+    <ctml:name>Aitoo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q11850238</ctml:wikiDataId>
+    <ctml:latitude>61.33897400</ctml:latitude>
+    <ctml:longitude>24.49431900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153292" kind="city">
+    <ctml:name>Akaa</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q413747</ctml:wikiDataId>
+    <ctml:latitude>61.16666667</ctml:latitude>
+    <ctml:longitude>23.86805556</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153293" kind="city">
+    <ctml:name>Amuri</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q4749000</ctml:wikiDataId>
+    <ctml:latitude>61.50000000</ctml:latitude>
+    <ctml:longitude>23.74500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153294" kind="city">
+    <ctml:name>Haihara</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q26845411</ctml:wikiDataId>
+    <ctml:latitude>61.47630000</ctml:latitude>
+    <ctml:longitude>23.87711000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153295" kind="city">
+    <ctml:name>Hallila</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q5642997</ctml:wikiDataId>
+    <ctml:latitude>61.46250000</ctml:latitude>
+    <ctml:longitude>23.82916667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153297" kind="city">
+    <ctml:name>Hämeenkyrö</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q996656</ctml:wikiDataId>
+    <ctml:latitude>61.63333333</ctml:latitude>
+    <ctml:longitude>23.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153296" kind="city">
+    <ctml:name>Hervanta</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q385316</ctml:wikiDataId>
+    <ctml:latitude>61.44810000</ctml:latitude>
+    <ctml:longitude>23.85210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153298" kind="city">
+    <ctml:name>Ikaalinen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q735133</ctml:wikiDataId>
+    <ctml:latitude>61.76944444</ctml:latitude>
+    <ctml:longitude>23.06805556</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153299" kind="city">
+    <ctml:name>Juupajoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1009127</ctml:wikiDataId>
+    <ctml:latitude>61.79666667</ctml:latitude>
+    <ctml:longitude>24.37000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153300" kind="city">
+    <ctml:name>Kangasala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q986322</ctml:wikiDataId>
+    <ctml:latitude>61.46388900</ctml:latitude>
+    <ctml:longitude>24.06500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153301" kind="city">
+    <ctml:name>Kihniö</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q990563</ctml:wikiDataId>
+    <ctml:latitude>62.20833333</ctml:latitude>
+    <ctml:longitude>23.17916667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153302" kind="city">
+    <ctml:name>Kiikka</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3432678</ctml:wikiDataId>
+    <ctml:latitude>61.32077778</ctml:latitude>
+    <ctml:longitude>22.77538889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153303" kind="city">
+    <ctml:name>Kiikoinen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q999298</ctml:wikiDataId>
+    <ctml:latitude>61.45000000</ctml:latitude>
+    <ctml:longitude>22.57500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153304" kind="city">
+    <ctml:name>Kolho</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q11872198</ctml:wikiDataId>
+    <ctml:latitude>62.13333333</ctml:latitude>
+    <ctml:longitude>24.51666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153305" kind="city">
+    <ctml:name>Kuhmalahti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1025697</ctml:wikiDataId>
+    <ctml:latitude>61.50500000</ctml:latitude>
+    <ctml:longitude>24.56666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153306" kind="city">
+    <ctml:name>Kuru</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1025732</ctml:wikiDataId>
+    <ctml:latitude>61.87558000</ctml:latitude>
+    <ctml:longitude>23.71948000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153307" kind="city">
+    <ctml:name>Kylmäkoski</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1641581</ctml:wikiDataId>
+    <ctml:latitude>61.15000000</ctml:latitude>
+    <ctml:longitude>23.69166667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153312" kind="city">
+    <ctml:name>Längelmäki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1807534</ctml:wikiDataId>
+    <ctml:latitude>61.68890000</ctml:latitude>
+    <ctml:longitude>24.69194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153308" kind="city">
+    <ctml:name>Lempäälä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q838821</ctml:wikiDataId>
+    <ctml:latitude>61.31388889</ctml:latitude>
+    <ctml:longitude>23.75277778</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153309" kind="city">
+    <ctml:name>Lentävänniemi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q11875545</ctml:wikiDataId>
+    <ctml:latitude>61.52801000</ctml:latitude>
+    <ctml:longitude>23.70575000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153310" kind="city">
+    <ctml:name>Lielahti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q6544133</ctml:wikiDataId>
+    <ctml:latitude>61.51666667</ctml:latitude>
+    <ctml:longitude>23.66666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153311" kind="city">
+    <ctml:name>Luopioinen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2428286</ctml:wikiDataId>
+    <ctml:latitude>61.36293000</ctml:latitude>
+    <ctml:longitude>24.66781000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153315" kind="city">
+    <ctml:name>Mänttä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1001762</ctml:wikiDataId>
+    <ctml:latitude>62.03014000</ctml:latitude>
+    <ctml:longitude>24.62791000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153313" kind="city">
+    <ctml:name>Messukylä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1020004</ctml:wikiDataId>
+    <ctml:latitude>61.48527778</ctml:latitude>
+    <ctml:longitude>23.84472222</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153314" kind="city">
+    <ctml:name>Mouhijärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q661269</ctml:wikiDataId>
+    <ctml:latitude>61.50000000</ctml:latitude>
+    <ctml:longitude>23.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153316" kind="city">
+    <ctml:name>Naistenmatka</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q18682312</ctml:wikiDataId>
+    <ctml:latitude>61.46518000</ctml:latitude>
+    <ctml:longitude>23.65253000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153317" kind="city">
+    <ctml:name>Nekala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q6989789</ctml:wikiDataId>
+    <ctml:latitude>61.48333333</ctml:latitude>
+    <ctml:longitude>23.79055556</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153318" kind="city">
+    <ctml:name>Nokia</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q192870</ctml:wikiDataId>
+    <ctml:latitude>61.47666667</ctml:latitude>
+    <ctml:longitude>23.50527778</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153319" kind="city">
+    <ctml:name>Nurmi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q26845699</ctml:wikiDataId>
+    <ctml:latitude>61.53779000</ctml:latitude>
+    <ctml:longitude>23.94178000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153320" kind="city">
+    <ctml:name>Nuutajärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q18682350</ctml:wikiDataId>
+    <ctml:latitude>61.04000000</ctml:latitude>
+    <ctml:longitude>23.43000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153321" kind="city">
+    <ctml:name>Orivesi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q953081</ctml:wikiDataId>
+    <ctml:latitude>61.67777778</ctml:latitude>
+    <ctml:longitude>24.35694444</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153322" kind="city">
+    <ctml:name>Osara</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q31087965</ctml:wikiDataId>
+    <ctml:latitude>61.70866000</ctml:latitude>
+    <ctml:longitude>23.15871000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153328" kind="city">
+    <ctml:name>Pälkäne</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q374619</ctml:wikiDataId>
+    <ctml:latitude>61.35403000</ctml:latitude>
+    <ctml:longitude>24.51912000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153323" kind="city">
+    <ctml:name>Parkano</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q953070</ctml:wikiDataId>
+    <ctml:latitude>62.00972222</ctml:latitude>
+    <ctml:longitude>23.02500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153324" kind="city">
+    <ctml:name>Pirkkala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q853628</ctml:wikiDataId>
+    <ctml:latitude>61.46666667</ctml:latitude>
+    <ctml:longitude>23.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153325" kind="city">
+    <ctml:name>Pispala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3116516</ctml:wikiDataId>
+    <ctml:latitude>61.50611111</ctml:latitude>
+    <ctml:longitude>23.70250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153326" kind="city">
+    <ctml:name>Pohjaslahti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q11888451</ctml:wikiDataId>
+    <ctml:latitude>62.15631000</ctml:latitude>
+    <ctml:longitude>24.13190000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153327" kind="city">
+    <ctml:name>Punkalaidun</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1001932</ctml:wikiDataId>
+    <ctml:latitude>61.11166667</ctml:latitude>
+    <ctml:longitude>23.10500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153329" kind="city">
+    <ctml:name>Ruovesi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q510636</ctml:wikiDataId>
+    <ctml:latitude>61.98333300</ctml:latitude>
+    <ctml:longitude>24.08333300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153334" kind="city">
+    <ctml:name>Sääksmäki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q606021</ctml:wikiDataId>
+    <ctml:latitude>61.20000000</ctml:latitude>
+    <ctml:longitude>24.06666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153330" kind="city">
+    <ctml:name>Sahalahti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q280118</ctml:wikiDataId>
+    <ctml:latitude>61.46666667</ctml:latitude>
+    <ctml:longitude>24.31666667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153331" kind="city">
+    <ctml:name>Sastamala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1001927</ctml:wikiDataId>
+    <ctml:latitude>61.34166667</ctml:latitude>
+    <ctml:longitude>22.90833333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153332" kind="city">
+    <ctml:name>Suodenniemi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q937668</ctml:wikiDataId>
+    <ctml:latitude>61.55810000</ctml:latitude>
+    <ctml:longitude>22.78526000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153333" kind="city">
+    <ctml:name>Suoniemi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3432479</ctml:wikiDataId>
+    <ctml:latitude>61.44111111</ctml:latitude>
+    <ctml:longitude>23.21500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153335" kind="city">
+    <ctml:name>Tampere</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q40840</ctml:wikiDataId>
+    <ctml:latitude>61.49805556</ctml:latitude>
+    <ctml:longitude>23.76000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153336" kind="city">
+    <ctml:name>Teisko</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q11896798</ctml:wikiDataId>
+    <ctml:latitude>61.67336111</ctml:latitude>
+    <ctml:longitude>23.84766944</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153337" kind="city">
+    <ctml:name>Toijala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1850632</ctml:wikiDataId>
+    <ctml:latitude>61.16780000</ctml:latitude>
+    <ctml:longitude>23.83819000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153338" kind="city">
+    <ctml:name>Tottijärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q3432686</ctml:wikiDataId>
+    <ctml:latitude>61.39777778</ctml:latitude>
+    <ctml:longitude>23.34277778</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153339" kind="city">
+    <ctml:name>Urjala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q636459</ctml:wikiDataId>
+    <ctml:latitude>61.08333333</ctml:latitude>
+    <ctml:longitude>23.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153340" kind="city">
+    <ctml:name>Valkeakoski</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q322126</ctml:wikiDataId>
+    <ctml:latitude>61.26666667</ctml:latitude>
+    <ctml:longitude>24.03055556</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153341" kind="city">
+    <ctml:name>Vammala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q996067</ctml:wikiDataId>
+    <ctml:latitude>61.34027778</ctml:latitude>
+    <ctml:longitude>22.90972222</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153342" kind="city">
+    <ctml:name>Vesilahti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1009136</ctml:wikiDataId>
+    <ctml:latitude>61.31666700</ctml:latitude>
+    <ctml:longitude>23.61666700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153343" kind="city">
+    <ctml:name>Viiala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q654667</ctml:wikiDataId>
+    <ctml:latitude>61.21023000</ctml:latitude>
+    <ctml:longitude>23.76738000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153344" kind="city">
+    <ctml:name>Viljakkala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2307308</ctml:wikiDataId>
+    <ctml:latitude>61.70601000</ctml:latitude>
+    <ctml:longitude>23.26688000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153345" kind="city">
+    <ctml:name>Vilppula</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1264422</ctml:wikiDataId>
+    <ctml:latitude>62.02121000</ctml:latitude>
+    <ctml:longitude>24.50483000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153346" kind="city">
+    <ctml:name>Virrat</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q938820</ctml:wikiDataId>
+    <ctml:latitude>62.24027778</ctml:latitude>
+    <ctml:longitude>23.77083333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153347" kind="city">
+    <ctml:name>Vuores</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q11901997</ctml:wikiDataId>
+    <ctml:latitude>61.43100000</ctml:latitude>
+    <ctml:longitude>23.81184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-153348" kind="city">
+    <ctml:name>Ylöjärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Pirkanmaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-11</ctml:parentRef>
+    <ctml:wikiDataId>Q543800</ctml:wikiDataId>
+    <ctml:latitude>61.55000000</ctml:latitude>
+    <ctml:longitude>23.58333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38749" kind="city">
+    <ctml:name>Eura</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q984861</ctml:wikiDataId>
+    <ctml:latitude>61.13333000</ctml:latitude>
+    <ctml:longitude>22.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38750" kind="city">
+    <ctml:name>Eurajoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1001783</ctml:wikiDataId>
+    <ctml:latitude>61.20000000</ctml:latitude>
+    <ctml:longitude>21.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38762" kind="city">
+    <ctml:name>Harjavalta</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q216790</ctml:wikiDataId>
+    <ctml:latitude>61.31667000</ctml:latitude>
+    <ctml:longitude>22.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38776" kind="city">
+    <ctml:name>Huittinen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1025722</ctml:wikiDataId>
+    <ctml:latitude>61.18333000</ctml:latitude>
+    <ctml:longitude>22.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38808" kind="city">
+    <ctml:name>Jämijärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q134620</ctml:wikiDataId>
+    <ctml:latitude>61.81667000</ctml:latitude>
+    <ctml:longitude>22.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38822" kind="city">
+    <ctml:name>Kankaanpää</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q990569</ctml:wikiDataId>
+    <ctml:latitude>61.80000000</ctml:latitude>
+    <ctml:longitude>22.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38833" kind="city">
+    <ctml:name>Karvia</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1010034</ctml:wikiDataId>
+    <ctml:latitude>62.13333000</ctml:latitude>
+    <ctml:longitude>22.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38860" kind="city">
+    <ctml:name>Kiukainen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1743976</ctml:wikiDataId>
+    <ctml:latitude>61.21667000</ctml:latitude>
+    <ctml:longitude>22.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38863" kind="city">
+    <ctml:name>Kokemäki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q594558</ctml:wikiDataId>
+    <ctml:latitude>61.25647000</ctml:latitude>
+    <ctml:longitude>22.35643000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38891" kind="city">
+    <ctml:name>Köyliö</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q992393</ctml:wikiDataId>
+    <ctml:latitude>61.11910000</ctml:latitude>
+    <ctml:longitude>22.30976000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38880" kind="city">
+    <ctml:name>Kullaa</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q4131730</ctml:wikiDataId>
+    <ctml:latitude>61.46998000</ctml:latitude>
+    <ctml:longitude>22.16145000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38925" kind="city">
+    <ctml:name>Längelmäki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q959006</ctml:wikiDataId>
+    <ctml:latitude>61.65000000</ctml:latitude>
+    <ctml:longitude>22.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38900" kind="city">
+    <ctml:name>Lappi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1544769</ctml:wikiDataId>
+    <ctml:latitude>61.10000000</ctml:latitude>
+    <ctml:longitude>21.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38905" kind="city">
+    <ctml:name>Lavia</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q990553</ctml:wikiDataId>
+    <ctml:latitude>61.60000000</ctml:latitude>
+    <ctml:longitude>22.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38924" kind="city">
+    <ctml:name>Luvia</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q959006</ctml:wikiDataId>
+    <ctml:latitude>61.36375000</ctml:latitude>
+    <ctml:longitude>21.62556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38933" kind="city">
+    <ctml:name>Merikarvia</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1009215</ctml:wikiDataId>
+    <ctml:latitude>61.85839000</ctml:latitude>
+    <ctml:longitude>21.50035000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38950" kind="city">
+    <ctml:name>Nakkila</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1009109</ctml:wikiDataId>
+    <ctml:latitude>61.36667000</ctml:latitude>
+    <ctml:longitude>22.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38954" kind="city">
+    <ctml:name>Noormarkku</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1641623</ctml:wikiDataId>
+    <ctml:latitude>61.59274000</ctml:latitude>
+    <ctml:longitude>21.86846000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38990" kind="city">
+    <ctml:name>Pomarkku</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1010030</ctml:wikiDataId>
+    <ctml:latitude>61.69348000</ctml:latitude>
+    <ctml:longitude>22.00862000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39016" kind="city">
+    <ctml:name>Rauma</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q37013</ctml:wikiDataId>
+    <ctml:latitude>61.12724000</ctml:latitude>
+    <ctml:longitude>21.51127000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39064" kind="city">
+    <ctml:name>Säkylä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q780914</ctml:wikiDataId>
+    <ctml:latitude>61.03333000</ctml:latitude>
+    <ctml:longitude>22.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39047" kind="city">
+    <ctml:name>Siikainen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1001761</ctml:wikiDataId>
+    <ctml:latitude>61.87703000</ctml:latitude>
+    <ctml:longitude>21.81945000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39089" kind="city">
+    <ctml:name>Ulvila</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q247128</ctml:wikiDataId>
+    <ctml:latitude>61.42844000</ctml:latitude>
+    <ctml:longitude>21.87103000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39098" kind="city">
+    <ctml:name>Vampula</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Satakunta</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-17</ctml:parentRef>
+    <ctml:wikiDataId>Q1234987</ctml:wikiDataId>
+    <ctml:latitude>61.01667000</ctml:latitude>
+    <ctml:longitude>22.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38787" kind="city">
+    <ctml:name>Imatra</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>South Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-02</ctml:parentRef>
+    <ctml:wikiDataId>Q283599</ctml:wikiDataId>
+    <ctml:latitude>61.17185000</ctml:latitude>
+    <ctml:longitude>28.75242000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38802" kind="city">
+    <ctml:name>Joutseno</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>South Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-02</ctml:parentRef>
+    <ctml:wikiDataId>Q829851</ctml:wikiDataId>
+    <ctml:latitude>61.11796000</ctml:latitude>
+    <ctml:longitude>28.50763000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38908" kind="city">
+    <ctml:name>Lemi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>South Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-02</ctml:parentRef>
+    <ctml:wikiDataId>Q180327</ctml:wikiDataId>
+    <ctml:latitude>61.06244000</ctml:latitude>
+    <ctml:longitude>27.80571000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38923" kind="city">
+    <ctml:name>Luumäki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>South Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-02</ctml:parentRef>
+    <ctml:wikiDataId>Q748513</ctml:wikiDataId>
+    <ctml:latitude>60.92618000</ctml:latitude>
+    <ctml:longitude>27.58135000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38956" kind="city">
+    <ctml:name>Nuijamaa</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>South Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1641623</ctml:wikiDataId>
+    <ctml:latitude>60.96011000</ctml:latitude>
+    <ctml:longitude>28.55104000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38973" kind="city">
+    <ctml:name>Parikkala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>South Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-02</ctml:parentRef>
+    <ctml:wikiDataId>Q240086</ctml:wikiDataId>
+    <ctml:latitude>61.55000000</ctml:latitude>
+    <ctml:longitude>29.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39019" kind="city">
+    <ctml:name>Rautjärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>South Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1009607</ctml:wikiDataId>
+    <ctml:latitude>61.43333000</ctml:latitude>
+    <ctml:longitude>29.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39028" kind="city">
+    <ctml:name>Ruokolahti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>South Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-02</ctml:parentRef>
+    <ctml:wikiDataId>Q103717</ctml:wikiDataId>
+    <ctml:latitude>61.28333000</ctml:latitude>
+    <ctml:longitude>28.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39034" kind="city">
+    <ctml:name>Saari</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>South Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-02</ctml:parentRef>
+    <ctml:wikiDataId>Q4129009</ctml:wikiDataId>
+    <ctml:latitude>61.65000000</ctml:latitude>
+    <ctml:longitude>29.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39040" kind="city">
+    <ctml:name>Savitaipale</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>South Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1025694</ctml:wikiDataId>
+    <ctml:latitude>61.20000000</ctml:latitude>
+    <ctml:longitude>27.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39067" kind="city">
+    <ctml:name>Taipalsaari</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>South Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1025700</ctml:wikiDataId>
+    <ctml:latitude>61.15000000</ctml:latitude>
+    <ctml:longitude>28.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39127" kind="city">
+    <ctml:name>Ylämaa</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>South Karelia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1025734</ctml:wikiDataId>
+    <ctml:latitude>60.80000000</ctml:latitude>
+    <ctml:longitude>28.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39130" kind="city">
+    <ctml:name>Ähtäri</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1407166</ctml:wikiDataId>
+    <ctml:latitude>62.55403000</ctml:latitude>
+    <ctml:longitude>24.06186000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38730" kind="city">
+    <ctml:name>Alahärmä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q575090</ctml:wikiDataId>
+    <ctml:latitude>63.23333000</ctml:latitude>
+    <ctml:longitude>22.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38731" kind="city">
+    <ctml:name>Alajärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q5980</ctml:wikiDataId>
+    <ctml:latitude>63.00000000</ctml:latitude>
+    <ctml:longitude>23.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38734" kind="city">
+    <ctml:name>Alavus</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q5981</ctml:wikiDataId>
+    <ctml:latitude>62.58333000</ctml:latitude>
+    <ctml:longitude>23.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38751" kind="city">
+    <ctml:name>Evijärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1001783</ctml:wikiDataId>
+    <ctml:latitude>63.36667000</ctml:latitude>
+    <ctml:longitude>23.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38785" kind="city">
+    <ctml:name>Ilmajoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q748533</ctml:wikiDataId>
+    <ctml:latitude>62.73333000</ctml:latitude>
+    <ctml:longitude>22.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38791" kind="city">
+    <ctml:name>Isojoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1025692</ctml:wikiDataId>
+    <ctml:latitude>62.11319000</ctml:latitude>
+    <ctml:longitude>21.95884000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38796" kind="city">
+    <ctml:name>Jalasjärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1679567</ctml:wikiDataId>
+    <ctml:latitude>62.50000000</ctml:latitude>
+    <ctml:longitude>22.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38804" kind="city">
+    <ctml:name>Jurva</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1369780</ctml:wikiDataId>
+    <ctml:latitude>62.68333000</ctml:latitude>
+    <ctml:longitude>21.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38826" kind="city">
+    <ctml:name>Karijoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2392663</ctml:wikiDataId>
+    <ctml:latitude>62.30851000</ctml:latitude>
+    <ctml:longitude>21.70856000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38835" kind="city">
+    <ctml:name>Kauhajoki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q5992</ctml:wikiDataId>
+    <ctml:latitude>62.43333000</ctml:latitude>
+    <ctml:longitude>22.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38836" kind="city">
+    <ctml:name>Kauhava</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q6009</ctml:wikiDataId>
+    <ctml:latitude>63.10299000</ctml:latitude>
+    <ctml:longitude>23.07129000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38871" kind="city">
+    <ctml:name>Kortesjärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1025741</ctml:wikiDataId>
+    <ctml:latitude>63.30000000</ctml:latitude>
+    <ctml:longitude>23.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38882" kind="city">
+    <ctml:name>Kuortane</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q6012</ctml:wikiDataId>
+    <ctml:latitude>62.80000000</ctml:latitude>
+    <ctml:longitude>23.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38883" kind="city">
+    <ctml:name>Kurikka</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q6012</ctml:wikiDataId>
+    <ctml:latitude>62.61667000</ctml:latitude>
+    <ctml:longitude>22.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38898" kind="city">
+    <ctml:name>Lappajärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q519763</ctml:wikiDataId>
+    <ctml:latitude>63.20000000</ctml:latitude>
+    <ctml:longitude>23.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38901" kind="city">
+    <ctml:name>Lapua</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q6023</ctml:wikiDataId>
+    <ctml:latitude>62.96927000</ctml:latitude>
+    <ctml:longitude>23.00880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38906" kind="city">
+    <ctml:name>Lehtimäki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1641563</ctml:wikiDataId>
+    <ctml:latitude>62.78333000</ctml:latitude>
+    <ctml:longitude>23.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38959" kind="city">
+    <ctml:name>Nurmo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q205804</ctml:wikiDataId>
+    <ctml:latitude>62.82870000</ctml:latitude>
+    <ctml:longitude>22.90990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39053" kind="city">
+    <ctml:name>Soini</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q502175</ctml:wikiDataId>
+    <ctml:latitude>62.86667000</ctml:latitude>
+    <ctml:longitude>24.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39076" kind="city">
+    <ctml:name>Teuva</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q990585</ctml:wikiDataId>
+    <ctml:latitude>62.48190000</ctml:latitude>
+    <ctml:longitude>21.74156000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39087" kind="city">
+    <ctml:name>Töysä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q6168</ctml:wikiDataId>
+    <ctml:latitude>62.62803000</ctml:latitude>
+    <ctml:longitude>23.81828000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39111" kind="city">
+    <ctml:name>Vimpeli</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q992240</ctml:wikiDataId>
+    <ctml:latitude>63.16187000</ctml:latitude>
+    <ctml:longitude>23.81922000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39122" kind="city">
+    <ctml:name>Ylihärmä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q119845</ctml:wikiDataId>
+    <ctml:latitude>63.15000000</ctml:latitude>
+    <ctml:longitude>22.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39124" kind="city">
+    <ctml:name>Ylistaro</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Ostrobothnia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-03</ctml:parentRef>
+    <ctml:wikiDataId>Q653167</ctml:wikiDataId>
+    <ctml:latitude>62.93958000</ctml:latitude>
+    <ctml:longitude>22.51306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38746" kind="city">
+    <ctml:name>Enonkoski</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1010490</ctml:wikiDataId>
+    <ctml:latitude>62.08333000</ctml:latitude>
+    <ctml:longitude>28.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38766" kind="city">
+    <ctml:name>Haukivuori</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1589322</ctml:wikiDataId>
+    <ctml:latitude>62.01753000</ctml:latitude>
+    <ctml:longitude>27.21906000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38769" kind="city">
+    <ctml:name>Heinävesi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1009124</ctml:wikiDataId>
+    <ctml:latitude>62.43333000</ctml:latitude>
+    <ctml:longitude>28.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38773" kind="city">
+    <ctml:name>Hirvensalmi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1025731</ctml:wikiDataId>
+    <ctml:latitude>61.63333000</ctml:latitude>
+    <ctml:longitude>26.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38811" kind="city">
+    <ctml:name>Jäppilä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2925272</ctml:wikiDataId>
+    <ctml:latitude>62.37899000</ctml:latitude>
+    <ctml:longitude>27.43372000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38800" kind="city">
+    <ctml:name>Joroinen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q997600</ctml:wikiDataId>
+    <ctml:latitude>62.17823000</ctml:latitude>
+    <ctml:longitude>27.83165000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38806" kind="city">
+    <ctml:name>Juva</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1369780</ctml:wikiDataId>
+    <ctml:latitude>61.90000000</ctml:latitude>
+    <ctml:longitude>27.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38821" kind="city">
+    <ctml:name>Kangasniemi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1580024</ctml:wikiDataId>
+    <ctml:latitude>61.99357000</ctml:latitude>
+    <ctml:longitude>26.64785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38846" kind="city">
+    <ctml:name>Kerimäki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1025740</ctml:wikiDataId>
+    <ctml:latitude>61.91069000</ctml:latitude>
+    <ctml:longitude>29.28228000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38947" kind="city">
+    <ctml:name>Mäntyharju</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1641649</ctml:wikiDataId>
+    <ctml:latitude>61.41667000</ctml:latitude>
+    <ctml:longitude>26.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38981" kind="city">
+    <ctml:name>Pertunmaa</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q121715</ctml:wikiDataId>
+    <ctml:latitude>61.50000000</ctml:latitude>
+    <ctml:longitude>26.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38983" kind="city">
+    <ctml:name>Pieksämäki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q121715</ctml:wikiDataId>
+    <ctml:latitude>62.30000000</ctml:latitude>
+    <ctml:longitude>27.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38998" kind="city">
+    <ctml:name>Punkaharju</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q428113</ctml:wikiDataId>
+    <ctml:latitude>61.75883000</ctml:latitude>
+    <ctml:longitude>29.38843000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39000" kind="city">
+    <ctml:name>Puumala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1009610</ctml:wikiDataId>
+    <ctml:latitude>61.52728000</ctml:latitude>
+    <ctml:longitude>28.17495000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39013" kind="city">
+    <ctml:name>Rantasalmi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1025745</ctml:wikiDataId>
+    <ctml:latitude>62.06667000</ctml:latitude>
+    <ctml:longitude>28.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39024" kind="city">
+    <ctml:name>Ristiina</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1641615</ctml:wikiDataId>
+    <ctml:latitude>61.50579000</ctml:latitude>
+    <ctml:longitude>27.24643000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39041" kind="city">
+    <ctml:name>Savonlinna</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q683512</ctml:wikiDataId>
+    <ctml:latitude>61.86990000</ctml:latitude>
+    <ctml:longitude>28.87999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39042" kind="city">
+    <ctml:name>Savonranta</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q568109</ctml:wikiDataId>
+    <ctml:latitude>62.18333000</ctml:latitude>
+    <ctml:longitude>29.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39057" kind="city">
+    <ctml:name>Sulkava</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q738472</ctml:wikiDataId>
+    <ctml:latitude>61.78691000</ctml:latitude>
+    <ctml:longitude>28.37299000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39113" kind="city">
+    <ctml:name>Virtasalmi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Southern Savonia</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2779906</ctml:wikiDataId>
+    <ctml:latitude>62.12695000</ctml:latitude>
+    <ctml:longitude>27.46276000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38752" kind="city">
+    <ctml:name>Forssa</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q829842</ctml:wikiDataId>
+    <ctml:latitude>60.81462000</ctml:latitude>
+    <ctml:longitude>23.62146000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38764" kind="city">
+    <ctml:name>Hauho</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1013639</ctml:wikiDataId>
+    <ctml:latitude>61.17255000</ctml:latitude>
+    <ctml:longitude>24.56303000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38767" kind="city">
+    <ctml:name>Hausjärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q369720</ctml:wikiDataId>
+    <ctml:latitude>60.78333000</ctml:latitude>
+    <ctml:longitude>24.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38777" kind="city">
+    <ctml:name>Humppila</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1025722</ctml:wikiDataId>
+    <ctml:latitude>60.93333000</ctml:latitude>
+    <ctml:longitude>23.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38797" kind="city">
+    <ctml:name>Janakkala</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1679567</ctml:wikiDataId>
+    <ctml:latitude>60.90000000</ctml:latitude>
+    <ctml:longitude>24.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38799" kind="city">
+    <ctml:name>Jokioinen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q997600</ctml:wikiDataId>
+    <ctml:latitude>60.80162000</ctml:latitude>
+    <ctml:longitude>23.48004000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38819" kind="city">
+    <ctml:name>Kalvola</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q930181</ctml:wikiDataId>
+    <ctml:latitude>61.10081000</ctml:latitude>
+    <ctml:longitude>24.12177000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38895" kind="city">
+    <ctml:name>Lammi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1025715</ctml:wikiDataId>
+    <ctml:latitude>61.08333000</ctml:latitude>
+    <ctml:longitude>25.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38919" kind="city">
+    <ctml:name>Loppi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q636607</ctml:wikiDataId>
+    <ctml:latitude>60.71667000</ctml:latitude>
+    <ctml:longitude>24.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39021" kind="city">
+    <ctml:name>Renko</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1791957</ctml:wikiDataId>
+    <ctml:latitude>60.89563000</ctml:latitude>
+    <ctml:longitude>24.28785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39023" kind="city">
+    <ctml:name>Riihimäki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q429864</ctml:wikiDataId>
+    <ctml:latitude>60.73769000</ctml:latitude>
+    <ctml:longitude>24.77726000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39070" kind="city">
+    <ctml:name>Tammela</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1025700</ctml:wikiDataId>
+    <ctml:latitude>60.81035000</ctml:latitude>
+    <ctml:longitude>23.76823000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39073" kind="city">
+    <ctml:name>Tervakoski</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1025700</ctml:wikiDataId>
+    <ctml:latitude>60.81412000</ctml:latitude>
+    <ctml:longitude>24.62594000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39082" kind="city">
+    <ctml:name>Tuulos</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1013612</ctml:wikiDataId>
+    <ctml:latitude>61.15000000</ctml:latitude>
+    <ctml:longitude>24.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39129" kind="city">
+    <ctml:name>Ypäjä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Tavastia Proper</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1407166</ctml:wikiDataId>
+    <ctml:latitude>60.80000000</ctml:latitude>
+    <ctml:longitude>23.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38739" kind="city">
+    <ctml:name>Askola</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q730954</ctml:wikiDataId>
+    <ctml:latitude>60.53333000</ctml:latitude>
+    <ctml:longitude>25.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38743" kind="city">
+    <ctml:name>Ekenäs</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1004838</ctml:wikiDataId>
+    <ctml:latitude>59.97359000</ctml:latitude>
+    <ctml:longitude>23.43389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38748" kind="city">
+    <ctml:name>Espoo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q984861</ctml:wikiDataId>
+    <ctml:latitude>60.20520000</ctml:latitude>
+    <ctml:longitude>24.65220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38753" kind="city">
+    <ctml:name>Gumböle</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q829842</ctml:wikiDataId>
+    <ctml:latitude>60.21948000</ctml:latitude>
+    <ctml:longitude>24.61684000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38761" kind="city">
+    <ctml:name>Hanko</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q216790</ctml:wikiDataId>
+    <ctml:latitude>59.83333000</ctml:latitude>
+    <ctml:longitude>22.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38770" kind="city">
+    <ctml:name>Helsinki</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1757</ctml:wikiDataId>
+    <ctml:latitude>60.16952000</ctml:latitude>
+    <ctml:longitude>24.93545000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38779" kind="city">
+    <ctml:name>Hyvinge</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q984934</ctml:wikiDataId>
+    <ctml:latitude>60.63333000</ctml:latitude>
+    <ctml:longitude>24.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38789" kind="city">
+    <ctml:name>Ingå</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q986331</ctml:wikiDataId>
+    <ctml:latitude>60.04587000</ctml:latitude>
+    <ctml:longitude>24.00459000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38812" kind="city">
+    <ctml:name>Järvenpää</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q208293</ctml:wikiDataId>
+    <ctml:latitude>60.47369000</ctml:latitude>
+    <ctml:longitude>25.08992000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38813" kind="city">
+    <ctml:name>Kaarela</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q3068775</ctml:wikiDataId>
+    <ctml:latitude>60.25174000</ctml:latitude>
+    <ctml:longitude>24.88111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38818" kind="city">
+    <ctml:name>Kallio</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1011613</ctml:wikiDataId>
+    <ctml:latitude>60.18427000</ctml:latitude>
+    <ctml:longitude>24.95034000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38828" kind="city">
+    <ctml:name>Karis</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q990581</ctml:wikiDataId>
+    <ctml:latitude>60.07178000</ctml:latitude>
+    <ctml:longitude>23.66163000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38829" kind="city">
+    <ctml:name>Karjalohja</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q990572</ctml:wikiDataId>
+    <ctml:latitude>60.24015000</ctml:latitude>
+    <ctml:longitude>23.71789000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38830" kind="city">
+    <ctml:name>Karkkila</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q990572</ctml:wikiDataId>
+    <ctml:latitude>60.53418000</ctml:latitude>
+    <ctml:longitude>24.20977000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38889" kind="city">
+    <ctml:name>Kärkölä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q646502</ctml:wikiDataId>
+    <ctml:latitude>60.61292000</ctml:latitude>
+    <ctml:longitude>23.94196000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38837" kind="city">
+    <ctml:name>Kauniainen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q208287</ctml:wikiDataId>
+    <ctml:latitude>60.21209000</ctml:latitude>
+    <ctml:longitude>24.72756000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38840" kind="city">
+    <ctml:name>Kellokoski</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q826263</ctml:wikiDataId>
+    <ctml:latitude>60.53271000</ctml:latitude>
+    <ctml:longitude>25.10917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38845" kind="city">
+    <ctml:name>Kerava</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q216900</ctml:wikiDataId>
+    <ctml:latitude>60.40338000</ctml:latitude>
+    <ctml:longitude>25.10500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38853" kind="city">
+    <ctml:name>Kilo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q653536</ctml:wikiDataId>
+    <ctml:latitude>60.21746000</ctml:latitude>
+    <ctml:longitude>24.78151000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38856" kind="city">
+    <ctml:name>Kirkkonummi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q999255</ctml:wikiDataId>
+    <ctml:latitude>60.12381000</ctml:latitude>
+    <ctml:longitude>24.43853000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38873" kind="city">
+    <ctml:name>Koukkuniemi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q192155</ctml:wikiDataId>
+    <ctml:latitude>60.15261000</ctml:latitude>
+    <ctml:longitude>24.76467000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38896" kind="city">
+    <ctml:name>Lapinjärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1025715</ctml:wikiDataId>
+    <ctml:latitude>60.62443000</ctml:latitude>
+    <ctml:longitude>26.19720000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38904" kind="city">
+    <ctml:name>Lauttasaari</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q990553</ctml:wikiDataId>
+    <ctml:latitude>60.15896000</ctml:latitude>
+    <ctml:longitude>24.86797000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38914" kind="city">
+    <ctml:name>Liljendal</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1005071</ctml:wikiDataId>
+    <ctml:latitude>60.57346000</ctml:latitude>
+    <ctml:longitude>26.05257000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38917" kind="city">
+    <ctml:name>Lohja</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q608803</ctml:wikiDataId>
+    <ctml:latitude>60.24859000</ctml:latitude>
+    <ctml:longitude>24.06534000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38920" kind="city">
+    <ctml:name>Lovisa</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q748513</ctml:wikiDataId>
+    <ctml:latitude>60.45659000</ctml:latitude>
+    <ctml:longitude>26.22505000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38946" kind="city">
+    <ctml:name>Mäntsälä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q986318</ctml:wikiDataId>
+    <ctml:latitude>60.63333000</ctml:latitude>
+    <ctml:longitude>25.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38931" kind="city">
+    <ctml:name>Mellunkylä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q3133428</ctml:wikiDataId>
+    <ctml:latitude>60.23355000</ctml:latitude>
+    <ctml:longitude>25.09947000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38940" kind="city">
+    <ctml:name>Munkkiniemi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q3177384</ctml:wikiDataId>
+    <ctml:latitude>60.19861000</ctml:latitude>
+    <ctml:longitude>24.87772000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38945" kind="city">
+    <ctml:name>Myrskylä</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1641664</ctml:wikiDataId>
+    <ctml:latitude>60.66965000</ctml:latitude>
+    <ctml:longitude>25.84750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38958" kind="city">
+    <ctml:name>Nurmijärvi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1641623</ctml:wikiDataId>
+    <ctml:latitude>60.46407000</ctml:latitude>
+    <ctml:longitude>24.80730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38964" kind="city">
+    <ctml:name>Otaniemi</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2743766</ctml:wikiDataId>
+    <ctml:latitude>60.18395000</ctml:latitude>
+    <ctml:longitude>24.82786000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38979" kind="city">
+    <ctml:name>Pernå</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1005082</ctml:wikiDataId>
+    <ctml:latitude>60.44869000</ctml:latitude>
+    <ctml:longitude>26.03187000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38988" kind="city">
+    <ctml:name>Pohja</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1010030</ctml:wikiDataId>
+    <ctml:latitude>60.09626000</ctml:latitude>
+    <ctml:longitude>23.52757000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38992" kind="city">
+    <ctml:name>Pornainen</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q180233</ctml:wikiDataId>
+    <ctml:latitude>60.47581000</ctml:latitude>
+    <ctml:longitude>25.37490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38993" kind="city">
+    <ctml:name>Porvoo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q193367</ctml:wikiDataId>
+    <ctml:latitude>60.39233000</ctml:latitude>
+    <ctml:longitude>25.66507000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-38996" kind="city">
+    <ctml:name>Pukkila</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q599159</ctml:wikiDataId>
+    <ctml:latitude>60.65000000</ctml:latitude>
+    <ctml:longitude>25.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39011" kind="city">
+    <ctml:name>Raaseporin</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1191746</ctml:wikiDataId>
+    <ctml:latitude>60.00273000</ctml:latitude>
+    <ctml:longitude>23.55499000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39029" kind="city">
+    <ctml:name>Ruotsinpyhtää</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q999193</ctml:wikiDataId>
+    <ctml:latitude>60.52680000</ctml:latitude>
+    <ctml:longitude>26.46203000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39038" kind="city">
+    <ctml:name>Sammatti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q1003678</ctml:wikiDataId>
+    <ctml:latitude>60.31991000</ctml:latitude>
+    <ctml:longitude>23.82085000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39045" kind="city">
+    <ctml:name>Sibbo</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q984938</ctml:wikiDataId>
+    <ctml:latitude>60.37752000</ctml:latitude>
+    <ctml:longitude>25.26906000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39051" kind="city">
+    <ctml:name>Siuntio</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q999210</ctml:wikiDataId>
+    <ctml:latitude>60.13862000</ctml:latitude>
+    <ctml:longitude>24.22715000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39085" kind="city">
+    <ctml:name>Tuusula</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q214773</ctml:wikiDataId>
+    <ctml:latitude>60.40368000</ctml:latitude>
+    <ctml:longitude>25.02638000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39099" kind="city">
+    <ctml:name>Vantaa</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q127623</ctml:wikiDataId>
+    <ctml:latitude>60.29414000</ctml:latitude>
+    <ctml:longitude>25.04099000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39109" kind="city">
+    <ctml:name>Vihti</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q992240</ctml:wikiDataId>
+    <ctml:latitude>60.41699000</ctml:latitude>
+    <ctml:longitude>24.31965000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FIN-39116" kind="city">
+    <ctml:name>Vuosaari</ctml:name>
+    <ctml:country>FIN</ctml:country>
+    <ctml:admin1>Uusimaa</ctml:admin1>
+    <ctml:parentRef>place:admin1:FI-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2116584</ctml:wikiDataId>
+    <ctml:latitude>60.20963000</ctml:latitude>
+    <ctml:longitude>25.14195000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

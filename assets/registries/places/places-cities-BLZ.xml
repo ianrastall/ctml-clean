@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BLZ-16143" kind="city">
+    <ctml:name>San Pedro</ctml:name>
+    <ctml:country>BLZ</ctml:country>
+    <ctml:admin1>Belize</ctml:admin1>
+    <ctml:parentRef>place:admin1:BZ-BZ</ctml:parentRef>
+    <ctml:wikiDataId>Q677300</ctml:wikiDataId>
+    <ctml:latitude>17.91598000</ctml:latitude>
+    <ctml:longitude>-87.96590000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLZ-16134" kind="city">
+    <ctml:name>Belmopan</ctml:name>
+    <ctml:country>BLZ</ctml:country>
+    <ctml:admin1>Cayo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BZ-CY</ctml:parentRef>
+    <ctml:wikiDataId>Q3043</ctml:wikiDataId>
+    <ctml:latitude>17.25000000</ctml:latitude>
+    <ctml:longitude>-88.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLZ-16135" kind="city">
+    <ctml:name>Benque Viejo el Carmen</ctml:name>
+    <ctml:country>BLZ</ctml:country>
+    <ctml:admin1>Cayo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BZ-CY</ctml:parentRef>
+    <ctml:wikiDataId>Q524851</ctml:wikiDataId>
+    <ctml:latitude>17.07500000</ctml:latitude>
+    <ctml:longitude>-89.13917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLZ-16142" kind="city">
+    <ctml:name>San Ignacio</ctml:name>
+    <ctml:country>BLZ</ctml:country>
+    <ctml:admin1>Cayo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BZ-CY</ctml:parentRef>
+    <ctml:wikiDataId>Q724815</ctml:wikiDataId>
+    <ctml:latitude>17.15880000</ctml:latitude>
+    <ctml:longitude>-89.06960000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLZ-16145" kind="city">
+    <ctml:name>Valley of Peace</ctml:name>
+    <ctml:country>BLZ</ctml:country>
+    <ctml:admin1>Cayo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BZ-CY</ctml:parentRef>
+    <ctml:wikiDataId>Q7912335</ctml:wikiDataId>
+    <ctml:latitude>17.33472000</ctml:latitude>
+    <ctml:longitude>-88.83472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLZ-16138" kind="city">
+    <ctml:name>Hopelchén</ctml:name>
+    <ctml:country>BLZ</ctml:country>
+    <ctml:admin1>Orange Walk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BZ-OW</ctml:parentRef>
+    <ctml:wikiDataId>Q888300</ctml:wikiDataId>
+    <ctml:latitude>17.80000000</ctml:latitude>
+    <ctml:longitude>-89.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLZ-16144" kind="city">
+    <ctml:name>Shipyard</ctml:name>
+    <ctml:country>BLZ</ctml:country>
+    <ctml:admin1>Orange Walk</ctml:admin1>
+    <ctml:parentRef>place:admin1:BZ-OW</ctml:parentRef>
+    <ctml:wikiDataId>Q737412</ctml:wikiDataId>
+    <ctml:latitude>17.89382000</ctml:latitude>
+    <ctml:longitude>-88.65452000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BLZ-16140" kind="city">
+    <ctml:name>Placencia</ctml:name>
+    <ctml:country>BLZ</ctml:country>
+    <ctml:admin1>Stann Creek</ctml:admin1>
+    <ctml:parentRef>place:admin1:BZ-SC</ctml:parentRef>
+    <ctml:wikiDataId>Q2097877</ctml:wikiDataId>
+    <ctml:latitude>16.51419000</ctml:latitude>
+    <ctml:longitude>-88.36647000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

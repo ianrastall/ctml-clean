@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:admin2:PNG-81029" kind="admin2">
+    <ctml:name>Arawa</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Bougainville</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-NSB</ctml:parentRef>
+    <ctml:wikiDataId>Q626729</ctml:wikiDataId>
+    <ctml:latitude>-6.22977000</ctml:latitude>
+    <ctml:longitude>155.56598000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81033" kind="city">
+    <ctml:name>Central Bougainville</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Bougainville</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-NSB</ctml:parentRef>
+    <ctml:wikiDataId>Q251975</ctml:wikiDataId>
+    <ctml:latitude>-6.22806000</ctml:latitude>
+    <ctml:longitude>155.56583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81063" kind="city">
+    <ctml:name>Kieta</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Bougainville</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-NSB</ctml:parentRef>
+    <ctml:wikiDataId>Q1187240</ctml:wikiDataId>
+    <ctml:latitude>-6.21462000</ctml:latitude>
+    <ctml:longitude>155.63251000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81097" kind="city">
+    <ctml:name>Panguna</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Bougainville</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-NSB</ctml:parentRef>
+    <ctml:wikiDataId>Q1771693</ctml:wikiDataId>
+    <ctml:latitude>-6.31639000</ctml:latitude>
+    <ctml:longitude>155.48483000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81109" kind="city">
+    <ctml:name>South Bougainville</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Bougainville</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-NSB</ctml:parentRef>
+    <ctml:wikiDataId>Q938379</ctml:wikiDataId>
+    <ctml:latitude>-6.74593000</ctml:latitude>
+    <ctml:longitude>155.69640000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81024" kind="city">
+    <ctml:name>Abau</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-CPM</ctml:parentRef>
+    <ctml:wikiDataId>Q3373972</ctml:wikiDataId>
+    <ctml:latitude>-10.08333000</ctml:latitude>
+    <ctml:longitude>148.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81041" kind="city">
+    <ctml:name>Goilala</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-CPM</ctml:parentRef>
+    <ctml:wikiDataId>Q515947</ctml:wikiDataId>
+    <ctml:latitude>-8.33333000</ctml:latitude>
+    <ctml:longitude>147.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81055" kind="city">
+    <ctml:name>Kairuku-Hiri</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-CPM</ctml:parentRef>
+    <ctml:wikiDataId>Q3711023</ctml:wikiDataId>
+    <ctml:latitude>-9.13648000</ctml:latitude>
+    <ctml:longitude>147.27905000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81104" kind="city">
+    <ctml:name>Rigo</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-CPM</ctml:parentRef>
+    <ctml:wikiDataId>Q7333840</ctml:wikiDataId>
+    <ctml:latitude>-9.75000000</ctml:latitude>
+    <ctml:longitude>147.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81034" kind="city">
+    <ctml:name>Chuave</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Chimbu</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-CPK</ctml:parentRef>
+    <ctml:wikiDataId>Q3710825</ctml:wikiDataId>
+    <ctml:latitude>-6.16667000</ctml:latitude>
+    <ctml:longitude>145.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81043" kind="city">
+    <ctml:name>Gumine</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Chimbu</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-CPK</ctml:parentRef>
+    <ctml:wikiDataId>Q3710948</ctml:wikiDataId>
+    <ctml:latitude>-6.25000000</ctml:latitude>
+    <ctml:longitude>144.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81059" kind="city">
+    <ctml:name>Karimui Nomane</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Chimbu</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-CPK</ctml:parentRef>
+    <ctml:wikiDataId>Q4352079</ctml:wikiDataId>
+    <ctml:latitude>-6.58333000</ctml:latitude>
+    <ctml:longitude>144.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81107" kind="city">
+    <ctml:name>Sinasina Yonggamugl</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Chimbu</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-CPK</ctml:parentRef>
+    <ctml:wikiDataId>Q938379</ctml:wikiDataId>
+    <ctml:latitude>-6.08333000</ctml:latitude>
+    <ctml:longitude>145.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81040" kind="city">
+    <ctml:name>Gazelle</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>East New Britain</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-EBR</ctml:parentRef>
+    <ctml:wikiDataId>Q515947</ctml:wikiDataId>
+    <ctml:latitude>-4.48333000</ctml:latitude>
+    <ctml:longitude>151.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81098" kind="city">
+    <ctml:name>Pomio</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>East New Britain</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-EBR</ctml:parentRef>
+    <ctml:wikiDataId>Q1771693</ctml:wikiDataId>
+    <ctml:latitude>-5.50000000</ctml:latitude>
+    <ctml:longitude>151.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81102" kind="city">
+    <ctml:name>Rabaul</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>East New Britain</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-EBR</ctml:parentRef>
+    <ctml:wikiDataId>Q7278508</ctml:wikiDataId>
+    <ctml:latitude>-4.18333000</ctml:latitude>
+    <ctml:longitude>152.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81036" kind="city">
+    <ctml:name>Daulo</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Eastern Highlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-EHG</ctml:parentRef>
+    <ctml:wikiDataId>Q1776162</ctml:wikiDataId>
+    <ctml:latitude>-5.98333000</ctml:latitude>
+    <ctml:longitude>145.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81045" kind="city">
+    <ctml:name>Henganofi</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Eastern Highlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-EHG</ctml:parentRef>
+    <ctml:wikiDataId>Q3710965</ctml:wikiDataId>
+    <ctml:latitude>-6.21667000</ctml:latitude>
+    <ctml:longitude>145.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81054" kind="city">
+    <ctml:name>Kainantu</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Eastern Highlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-EHG</ctml:parentRef>
+    <ctml:wikiDataId>Q3711023</ctml:wikiDataId>
+    <ctml:latitude>-6.41667000</ctml:latitude>
+    <ctml:longitude>145.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81095" kind="city">
+    <ctml:name>Obura Wonenara</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Eastern Highlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-EHG</ctml:parentRef>
+    <ctml:wikiDataId>Q3711268</ctml:wikiDataId>
+    <ctml:latitude>-6.55434000</ctml:latitude>
+    <ctml:longitude>145.97328000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81096" kind="city">
+    <ctml:name>Okapa</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Eastern Highlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-EHG</ctml:parentRef>
+    <ctml:wikiDataId>Q3711283</ctml:wikiDataId>
+    <ctml:latitude>-6.63333000</ctml:latitude>
+    <ctml:longitude>145.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81071" kind="city">
+    <ctml:name>Kompiam Ambum</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Enga</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-EPW</ctml:parentRef>
+    <ctml:wikiDataId>Q1776207</ctml:wikiDataId>
+    <ctml:latitude>-5.25000000</ctml:latitude>
+    <ctml:longitude>144.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81075" kind="city">
+    <ctml:name>Lagaip Porgera</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Enga</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-EPW</ctml:parentRef>
+    <ctml:wikiDataId>Q945880</ctml:wikiDataId>
+    <ctml:latitude>-5.38333000</ctml:latitude>
+    <ctml:longitude>143.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81100" kind="city">
+    <ctml:name>Porgera</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Enga</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-EPW</ctml:parentRef>
+    <ctml:wikiDataId>Q1017376</ctml:wikiDataId>
+    <ctml:latitude>-5.46300000</ctml:latitude>
+    <ctml:longitude>143.14800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81123" kind="city">
+    <ctml:name>Wapenamanda</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Enga</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-EPW</ctml:parentRef>
+    <ctml:wikiDataId>Q1776192</ctml:wikiDataId>
+    <ctml:latitude>-5.66667000</ctml:latitude>
+    <ctml:longitude>143.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81061" kind="city">
+    <ctml:name>Kerema</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Gulf</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-GPK</ctml:parentRef>
+    <ctml:wikiDataId>Q1776146</ctml:wikiDataId>
+    <ctml:latitude>-7.79600000</ctml:latitude>
+    <ctml:longitude>146.09300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81064" kind="city">
+    <ctml:name>Kikori</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Gulf</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-GPK</ctml:parentRef>
+    <ctml:wikiDataId>Q3711066</ctml:wikiDataId>
+    <ctml:latitude>-7.25000000</ctml:latitude>
+    <ctml:longitude>144.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81072" kind="city">
+    <ctml:name>Koroba-Lake Kopiago</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Hela</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-HLA</ctml:parentRef>
+    <ctml:wikiDataId>Q3711085</ctml:wikiDataId>
+    <ctml:latitude>-5.41667000</ctml:latitude>
+    <ctml:longitude>142.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81115" kind="city">
+    <ctml:name>Tari Pori</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Hela</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-HLA</ctml:parentRef>
+    <ctml:wikiDataId>Q3711509</ctml:wikiDataId>
+    <ctml:latitude>-6.28333000</ctml:latitude>
+    <ctml:longitude>142.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81028" kind="city">
+    <ctml:name>Angalimp South Wahgi</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Jiwaka</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-JWK</ctml:parentRef>
+    <ctml:wikiDataId>Q3710607</ctml:wikiDataId>
+    <ctml:latitude>-6.05000000</ctml:latitude>
+    <ctml:longitude>144.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81093" kind="city">
+    <ctml:name>North Wahgi</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Jiwaka</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-JWK</ctml:parentRef>
+    <ctml:wikiDataId>Q3711261</ctml:wikiDataId>
+    <ctml:latitude>-5.80000000</ctml:latitude>
+    <ctml:longitude>144.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81031" kind="city">
+    <ctml:name>Bogia</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Madang</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPM</ctml:parentRef>
+    <ctml:wikiDataId>Q3710743</ctml:wikiDataId>
+    <ctml:latitude>-4.50000000</ctml:latitude>
+    <ctml:longitude>145.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81084" kind="city">
+    <ctml:name>Middle Ramu</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Madang</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPM</ctml:parentRef>
+    <ctml:wikiDataId>Q3711164</ctml:wikiDataId>
+    <ctml:latitude>-4.91667000</ctml:latitude>
+    <ctml:longitude>144.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81103" kind="city">
+    <ctml:name>Rai Coast</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Madang</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPM</ctml:parentRef>
+    <ctml:wikiDataId>Q7278508</ctml:wikiDataId>
+    <ctml:latitude>-5.72303000</ctml:latitude>
+    <ctml:longitude>146.46149000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81111" kind="city">
+    <ctml:name>Sumkar</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Madang</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPM</ctml:parentRef>
+    <ctml:wikiDataId>Q3711497</ctml:wikiDataId>
+    <ctml:latitude>-4.80000000</ctml:latitude>
+    <ctml:longitude>145.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81119" kind="city">
+    <ctml:name>Usino Bundi</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Madang</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPM</ctml:parentRef>
+    <ctml:wikiDataId>Q3711569</ctml:wikiDataId>
+    <ctml:latitude>-5.53333000</ctml:latitude>
+    <ctml:longitude>145.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81079" kind="city">
+    <ctml:name>Manus</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Manus</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MRL</ctml:parentRef>
+    <ctml:wikiDataId>Q586673</ctml:wikiDataId>
+    <ctml:latitude>-2.09626000</ctml:latitude>
+    <ctml:longitude>146.96612000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81027" kind="city">
+    <ctml:name>Alotau</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Milne Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MBA</ctml:parentRef>
+    <ctml:wikiDataId>Q3710607</ctml:wikiDataId>
+    <ctml:latitude>-10.25000000</ctml:latitude>
+    <ctml:longitude>150.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81038" kind="city">
+    <ctml:name>Esa’ala</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Milne Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MBA</ctml:parentRef>
+    <ctml:wikiDataId>Q1775669</ctml:wikiDataId>
+    <ctml:latitude>-9.58333000</ctml:latitude>
+    <ctml:longitude>150.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81066" kind="city">
+    <ctml:name>Kiriwina Goodenough</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Milne Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MBA</ctml:parentRef>
+    <ctml:wikiDataId>Q3711069</ctml:wikiDataId>
+    <ctml:latitude>-8.48333000</ctml:latitude>
+    <ctml:longitude>151.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81105" kind="city">
+    <ctml:name>Samarai</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Milne Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MBA</ctml:parentRef>
+    <ctml:wikiDataId>Q938379</ctml:wikiDataId>
+    <ctml:latitude>-10.61038000</ctml:latitude>
+    <ctml:longitude>150.66207000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81106" kind="city">
+    <ctml:name>Samarai Murua</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Milne Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MBA</ctml:parentRef>
+    <ctml:wikiDataId>Q938379</ctml:wikiDataId>
+    <ctml:latitude>-10.49636000</ctml:latitude>
+    <ctml:longitude>150.54703000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81032" kind="city">
+    <ctml:name>Bulolo</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Morobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPL</ctml:parentRef>
+    <ctml:wikiDataId>Q251975</ctml:wikiDataId>
+    <ctml:latitude>-7.41667000</ctml:latitude>
+    <ctml:longitude>146.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81039" kind="city">
+    <ctml:name>Finschhafen</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Morobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPL</ctml:parentRef>
+    <ctml:wikiDataId>Q515947</ctml:wikiDataId>
+    <ctml:latitude>-6.41667000</ctml:latitude>
+    <ctml:longitude>147.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81046" kind="city">
+    <ctml:name>Huon Gulf</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Morobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPL</ctml:parentRef>
+    <ctml:wikiDataId>Q3710980</ctml:wikiDataId>
+    <ctml:latitude>-7.18333000</ctml:latitude>
+    <ctml:longitude>146.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81052" kind="city">
+    <ctml:name>Kabwum</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Morobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPL</ctml:parentRef>
+    <ctml:wikiDataId>Q3711017</ctml:wikiDataId>
+    <ctml:latitude>-6.08333000</ctml:latitude>
+    <ctml:longitude>147.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81074" kind="city">
+    <ctml:name>Lae</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Morobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPL</ctml:parentRef>
+    <ctml:wikiDataId>Q3711095</ctml:wikiDataId>
+    <ctml:latitude>-6.50000000</ctml:latitude>
+    <ctml:longitude>146.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81080" kind="city">
+    <ctml:name>Markham</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Morobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPL</ctml:parentRef>
+    <ctml:wikiDataId>Q586673</ctml:wikiDataId>
+    <ctml:latitude>-6.64153000</ctml:latitude>
+    <ctml:longitude>146.86043000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81082" kind="city">
+    <ctml:name>Menyamya</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Morobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPL</ctml:parentRef>
+    <ctml:wikiDataId>Q3711159</ctml:wikiDataId>
+    <ctml:latitude>-7.25000000</ctml:latitude>
+    <ctml:longitude>146.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81089" kind="city">
+    <ctml:name>Nawae</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Morobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPL</ctml:parentRef>
+    <ctml:wikiDataId>Q3711238</ctml:wikiDataId>
+    <ctml:latitude>-6.46667000</ctml:latitude>
+    <ctml:longitude>146.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81117" kind="city">
+    <ctml:name>Tewai Siassi</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Morobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPL</ctml:parentRef>
+    <ctml:wikiDataId>Q584900</ctml:wikiDataId>
+    <ctml:latitude>-6.15000000</ctml:latitude>
+    <ctml:longitude>147.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81124" kind="city">
+    <ctml:name>Wau</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Morobe</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-MPL</ctml:parentRef>
+    <ctml:wikiDataId>Q954956</ctml:wikiDataId>
+    <ctml:latitude>-7.33778000</ctml:latitude>
+    <ctml:longitude>146.71649000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81060" kind="city">
+    <ctml:name>Kavieng</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>New Ireland</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-NIK</ctml:parentRef>
+    <ctml:wikiDataId>Q3711047</ctml:wikiDataId>
+    <ctml:latitude>-3.00000000</ctml:latitude>
+    <ctml:longitude>151.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81087" kind="city">
+    <ctml:name>Namatanai</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>New Ireland</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-NIK</ctml:parentRef>
+    <ctml:wikiDataId>Q3711228</ctml:wikiDataId>
+    <ctml:latitude>-4.33333000</ctml:latitude>
+    <ctml:longitude>152.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81049" kind="city">
+    <ctml:name>Ijivitari</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Oro</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-NPP</ctml:parentRef>
+    <ctml:wikiDataId>Q3710984</ctml:wikiDataId>
+    <ctml:latitude>-9.33333000</ctml:latitude>
+    <ctml:longitude>148.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:PNG-81068" kind="admin2">
+    <ctml:name>Kokoda</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Oro</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-NPP</ctml:parentRef>
+    <ctml:wikiDataId>Q1771884</ctml:wikiDataId>
+    <ctml:latitude>-8.87778000</ctml:latitude>
+    <ctml:longitude>147.73642000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81108" kind="city">
+    <ctml:name>Sohe</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Oro</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-NPP</ctml:parentRef>
+    <ctml:wikiDataId>Q938379</ctml:wikiDataId>
+    <ctml:latitude>-9.00000000</ctml:latitude>
+    <ctml:longitude>147.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81088" kind="city">
+    <ctml:name>National Capital</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Port Moresby</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-NCD</ctml:parentRef>
+    <ctml:wikiDataId>Q3711228</ctml:wikiDataId>
+    <ctml:latitude>-9.42257000</ctml:latitude>
+    <ctml:longitude>147.16641000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81101" kind="city">
+    <ctml:name>Port Moresby</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Port Moresby</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-NCD</ctml:parentRef>
+    <ctml:wikiDataId>Q36526</ctml:wikiDataId>
+    <ctml:latitude>-9.47723000</ctml:latitude>
+    <ctml:longitude>147.15089000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81025" kind="city">
+    <ctml:name>Aitape</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Sandaun</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-SAN</ctml:parentRef>
+    <ctml:wikiDataId>Q1771821</ctml:wikiDataId>
+    <ctml:latitude>-3.13697000</ctml:latitude>
+    <ctml:longitude>142.34913000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81026" kind="city">
+    <ctml:name>Aitape Lumi</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Sandaun</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-SAN</ctml:parentRef>
+    <ctml:wikiDataId>Q3710592</ctml:wikiDataId>
+    <ctml:latitude>-3.25000000</ctml:latitude>
+    <ctml:longitude>142.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81094" kind="city">
+    <ctml:name>Nuku</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Sandaun</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-SAN</ctml:parentRef>
+    <ctml:wikiDataId>Q3711268</ctml:wikiDataId>
+    <ctml:latitude>-3.66667000</ctml:latitude>
+    <ctml:longitude>142.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81116" kind="city">
+    <ctml:name>Telefomin</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Sandaun</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-SAN</ctml:parentRef>
+    <ctml:wikiDataId>Q3711525</ctml:wikiDataId>
+    <ctml:latitude>-4.91667000</ctml:latitude>
+    <ctml:longitude>141.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81121" kind="city">
+    <ctml:name>Vanimo Green</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Sandaun</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-SAN</ctml:parentRef>
+    <ctml:wikiDataId>Q3711580</ctml:wikiDataId>
+    <ctml:latitude>-3.36667000</ctml:latitude>
+    <ctml:longitude>141.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81047" kind="city">
+    <ctml:name>Ialibu</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Southern Highlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-SHM</ctml:parentRef>
+    <ctml:wikiDataId>Q3710980</ctml:wikiDataId>
+    <ctml:latitude>-6.28208000</ctml:latitude>
+    <ctml:longitude>143.99354000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81048" kind="city">
+    <ctml:name>Ialibu Pangia</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Southern Highlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-SHM</ctml:parentRef>
+    <ctml:wikiDataId>Q3710980</ctml:wikiDataId>
+    <ctml:latitude>-6.38401880</ctml:latitude>
+    <ctml:longitude>144.08381900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81053" kind="city">
+    <ctml:name>Kagua Erave</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Southern Highlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-SHM</ctml:parentRef>
+    <ctml:wikiDataId>Q3711020</ctml:wikiDataId>
+    <ctml:latitude>-6.66667000</ctml:latitude>
+    <ctml:longitude>144.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81090" kind="city">
+    <ctml:name>Nipa Kutubu</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Southern Highlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-SHM</ctml:parentRef>
+    <ctml:wikiDataId>Q3711238</ctml:wikiDataId>
+    <ctml:latitude>-6.33333000</ctml:latitude>
+    <ctml:longitude>143.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81057" kind="city">
+    <ctml:name>Kandrian</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>West New Britain</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-WBK</ctml:parentRef>
+    <ctml:wikiDataId>Q4352079</ctml:wikiDataId>
+    <ctml:latitude>-6.20655000</ctml:latitude>
+    <ctml:longitude>149.54744000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81058" kind="city">
+    <ctml:name>Kandrian Gloucester</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>West New Britain</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-WBK</ctml:parentRef>
+    <ctml:wikiDataId>Q4352079</ctml:wikiDataId>
+    <ctml:latitude>-6.08333000</ctml:latitude>
+    <ctml:longitude>149.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81112" kind="city">
+    <ctml:name>Talasea</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>West New Britain</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-WBK</ctml:parentRef>
+    <ctml:wikiDataId>Q3711507</ctml:wikiDataId>
+    <ctml:latitude>-5.66667000</ctml:latitude>
+    <ctml:longitude>149.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81067" kind="city">
+    <ctml:name>Kiunga</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-WPD</ctml:parentRef>
+    <ctml:wikiDataId>Q985928</ctml:wikiDataId>
+    <ctml:latitude>-6.12193000</ctml:latitude>
+    <ctml:longitude>141.29061000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81083" kind="city">
+    <ctml:name>Middle Fly</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-WPD</ctml:parentRef>
+    <ctml:wikiDataId>Q3711163</ctml:wikiDataId>
+    <ctml:latitude>-7.16667000</ctml:latitude>
+    <ctml:longitude>142.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81085" kind="city">
+    <ctml:name>Morehead</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-WPD</ctml:parentRef>
+    <ctml:wikiDataId>Q3711164</ctml:wikiDataId>
+    <ctml:latitude>-8.71065000</ctml:latitude>
+    <ctml:longitude>141.63668000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81092" kind="city">
+    <ctml:name>North Fly</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-WPD</ctml:parentRef>
+    <ctml:wikiDataId>Q3711238</ctml:wikiDataId>
+    <ctml:latitude>-5.72896000</ctml:latitude>
+    <ctml:longitude>141.37482000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81110" kind="city">
+    <ctml:name>South Fly</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-WPD</ctml:parentRef>
+    <ctml:wikiDataId>Q3711489</ctml:wikiDataId>
+    <ctml:latitude>-8.61667000</ctml:latitude>
+    <ctml:longitude>142.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81030" kind="city">
+    <ctml:name>Baiyer Mul</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Western Highlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-WHM</ctml:parentRef>
+    <ctml:wikiDataId>Q3710686</ctml:wikiDataId>
+    <ctml:latitude>-5.53333000</ctml:latitude>
+    <ctml:longitude>144.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:PNG-81037" kind="city">
+    <ctml:name>Dei</ctml:name>
+    <ctml:country>PNG</ctml:country>
+    <ctml:admin1>Western Highlands</ctml:admin1>
+    <ctml:parentRef>place:admin1:PG-WHM</ctml:parentRef>
+    <ctml:wikiDataId>Q3710856</ctml:wikiDataId>
+    <ctml:latitude>-5.68333000</ctml:latitude>
+    <ctml:longitude>144.36667000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MUS-67826" kind="city">
+    <ctml:name>Albion</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Black River</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q27764445</ctml:wikiDataId>
+    <ctml:latitude>-20.20814000</ctml:latitude>
+    <ctml:longitude>57.40766000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67830" kind="city">
+    <ctml:name>Bambous</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Black River</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q431990</ctml:wikiDataId>
+    <ctml:latitude>-20.25667000</ctml:latitude>
+    <ctml:longitude>57.40611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67845" kind="city">
+    <ctml:name>Cascavelle</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Black River</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q27763604</ctml:wikiDataId>
+    <ctml:latitude>-20.28694000</ctml:latitude>
+    <ctml:longitude>57.40722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153383" kind="city">
+    <ctml:name>Case Noyale</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Black River</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q27763605</ctml:wikiDataId>
+    <ctml:latitude>-20.41370400</ctml:latitude>
+    <ctml:longitude>57.36906500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153384" kind="city">
+    <ctml:name>Chamarel</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Black River</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q1060502</ctml:wikiDataId>
+    <ctml:latitude>-20.42523600</ctml:latitude>
+    <ctml:longitude>57.39116500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67860" kind="city">
+    <ctml:name>Flic en Flac</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Black River</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q3073702</ctml:wikiDataId>
+    <ctml:latitude>-20.27417000</ctml:latitude>
+    <ctml:longitude>57.36306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67867" kind="city">
+    <ctml:name>Grande Rivière Noire</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Black River</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q27763686</ctml:wikiDataId>
+    <ctml:latitude>-20.36028000</ctml:latitude>
+    <ctml:longitude>57.36611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67869" kind="city">
+    <ctml:name>Gros Cailloux</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Black River</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q27764367</ctml:wikiDataId>
+    <ctml:latitude>-20.20722000</ctml:latitude>
+    <ctml:longitude>57.43000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153387" kind="city">
+    <ctml:name>La Gaulette</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Black River</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q111148338</ctml:wikiDataId>
+    <ctml:latitude>-20.42938800</ctml:latitude>
+    <ctml:longitude>57.35884100</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153388" kind="city">
+    <ctml:name>Le Morne</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Black River</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q1129992</ctml:wikiDataId>
+    <ctml:latitude>-20.44417400</ctml:latitude>
+    <ctml:longitude>57.33031500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67888" kind="city">
+    <ctml:name>Petite Case Noyale</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Black River</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q24045809</ctml:wikiDataId>
+    <ctml:latitude>-20.39306000</ctml:latitude>
+    <ctml:longitude>57.36500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67889" kind="city">
+    <ctml:name>Petite Rivière</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Black River</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q24045809</ctml:wikiDataId>
+    <ctml:latitude>-20.19551000</ctml:latitude>
+    <ctml:longitude>57.44592000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153389" kind="city">
+    <ctml:name>Richelieu</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Black River</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-BL</ctml:parentRef>
+    <ctml:wikiDataId>Q225309</ctml:wikiDataId>
+    <ctml:latitude>-20.19084900</ctml:latitude>
+    <ctml:longitude>57.46129900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153436" kind="city">
+    <ctml:name>Bel Air</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q402486</ctml:wikiDataId>
+    <ctml:latitude>-20.25849300</ctml:latitude>
+    <ctml:longitude>57.75498700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67834" kind="city">
+    <ctml:name>Bel Air Rivière Sèche</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q4881723</ctml:wikiDataId>
+    <ctml:latitude>-20.25777000</ctml:latitude>
+    <ctml:longitude>57.74976000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67836" kind="city">
+    <ctml:name>Bon Accueil</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q27763580</ctml:wikiDataId>
+    <ctml:latitude>-20.17083000</ctml:latitude>
+    <ctml:longitude>57.65639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153443" kind="city">
+    <ctml:name>Bramsthan</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:latitude>-20.21297900</ctml:latitude>
+    <ctml:longitude>57.73768000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67837" kind="city">
+    <ctml:name>Brisée Verdière</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q25406451</ctml:wikiDataId>
+    <ctml:latitude>-20.16389000</ctml:latitude>
+    <ctml:longitude>57.64667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67842" kind="city">
+    <ctml:name>Camp de Masque</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q27763594</ctml:wikiDataId>
+    <ctml:latitude>-20.23694000</ctml:latitude>
+    <ctml:longitude>57.66333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153437" kind="city">
+    <ctml:name>Camp De Masque Pave</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:latitude>-20.25006300</ctml:latitude>
+    <ctml:longitude>57.67997000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67840" kind="city">
+    <ctml:name>Camp Ithier</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q27764406</ctml:wikiDataId>
+    <ctml:latitude>-20.21583000</ctml:latitude>
+    <ctml:longitude>57.74556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67850" kind="city">
+    <ctml:name>Clémencia</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q27763620</ctml:wikiDataId>
+    <ctml:latitude>-20.26389000</ctml:latitude>
+    <ctml:longitude>57.70611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67858" kind="city">
+    <ctml:name>Ecroignard</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q27764391</ctml:wikiDataId>
+    <ctml:latitude>-20.22611000</ctml:latitude>
+    <ctml:longitude>57.73611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153444" kind="city">
+    <ctml:name>Grande Retraite</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:latitude>-20.16507700</ctml:latitude>
+    <ctml:longitude>57.69461600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67868" kind="city">
+    <ctml:name>Grande Rivière Sud Est</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q27763680</ctml:wikiDataId>
+    <ctml:latitude>-20.28611000</ctml:latitude>
+    <ctml:longitude>57.77583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67870" kind="city">
+    <ctml:name>Lalmatie</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q27763713</ctml:wikiDataId>
+    <ctml:latitude>-20.18972000</ctml:latitude>
+    <ctml:longitude>57.66111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67871" kind="city">
+    <ctml:name>Laventure</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q27763713</ctml:wikiDataId>
+    <ctml:latitude>-20.14583000</ctml:latitude>
+    <ctml:longitude>57.67667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67876" kind="city">
+    <ctml:name>Mare La Chaux</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q1105427</ctml:wikiDataId>
+    <ctml:latitude>-20.19806000</ctml:latitude>
+    <ctml:longitude>57.74944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153441" kind="city">
+    <ctml:name>Medine Camp De Masque</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:latitude>-20.24395800</ctml:latitude>
+    <ctml:longitude>57.64703500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67884" kind="city">
+    <ctml:name>Olivia</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q282908</ctml:wikiDataId>
+    <ctml:latitude>-20.28778000</ctml:latitude>
+    <ctml:longitude>57.73097000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67897" kind="city">
+    <ctml:name>Poste de Flacq</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q1021638</ctml:wikiDataId>
+    <ctml:latitude>-20.16306000</ctml:latitude>
+    <ctml:longitude>57.73056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67901" kind="city">
+    <ctml:name>Quatre Cocos</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q1341194</ctml:wikiDataId>
+    <ctml:latitude>-20.20151000</ctml:latitude>
+    <ctml:longitude>57.77448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67902" kind="city">
+    <ctml:name>Quatre Soeurs</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q1341194</ctml:wikiDataId>
+    <ctml:latitude>-20.29917000</ctml:latitude>
+    <ctml:longitude>57.77056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67903" kind="city">
+    <ctml:name>Queen Victoria</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q1341194</ctml:wikiDataId>
+    <ctml:latitude>-20.22000000</ctml:latitude>
+    <ctml:longitude>57.70750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67911" kind="city">
+    <ctml:name>Saint Julien</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q1341194</ctml:wikiDataId>
+    <ctml:latitude>-20.22639000</ctml:latitude>
+    <ctml:longitude>57.63639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67913" kind="city">
+    <ctml:name>Sebastopol</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:wikiDataId>Q1154985</ctml:wikiDataId>
+    <ctml:latitude>-20.29070000</ctml:latitude>
+    <ctml:longitude>57.68779000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153442" kind="city">
+    <ctml:name>Trou D'Eau Douce</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Flacq</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-FL</ctml:parentRef>
+    <ctml:latitude>-20.23458600</ctml:latitude>
+    <ctml:longitude>57.79486100</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67831" kind="city">
+    <ctml:name>Bambous Virieux</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q27764389</ctml:wikiDataId>
+    <ctml:latitude>-20.34278000</ctml:latitude>
+    <ctml:longitude>57.75750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67833" kind="city">
+    <ctml:name>Beau Vallon</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q813347</ctml:wikiDataId>
+    <ctml:latitude>-20.41889000</ctml:latitude>
+    <ctml:longitude>57.69528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67835" kind="city">
+    <ctml:name>Bois des Amourettes</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q27763578</ctml:wikiDataId>
+    <ctml:latitude>-20.36306000</ctml:latitude>
+    <ctml:longitude>57.73111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153399" kind="city">
+    <ctml:name>Camp Carol</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:latitude>-20.46178500</ctml:latitude>
+    <ctml:longitude>57.67845600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67849" kind="city">
+    <ctml:name>Cluny</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q27764431</ctml:wikiDataId>
+    <ctml:latitude>-20.36694000</ctml:latitude>
+    <ctml:longitude>57.60389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153400" kind="city">
+    <ctml:name>Grand Bel Air</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:latitude>-20.40912400</ctml:latitude>
+    <ctml:longitude>57.68174200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67866" kind="city">
+    <ctml:name>Grand Sable</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q27763686</ctml:wikiDataId>
+    <ctml:latitude>-20.31417000</ctml:latitude>
+    <ctml:longitude>57.76444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67874" kind="city">
+    <ctml:name>Mahébourg</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q1291379</ctml:wikiDataId>
+    <ctml:latitude>-20.40806000</ctml:latitude>
+    <ctml:longitude>57.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153391" kind="city">
+    <ctml:name>Mare D'Albert</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:latitude>-20.42019500</ctml:latitude>
+    <ctml:longitude>57.62728800</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153392" kind="city">
+    <ctml:name>Mare Tabac</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:latitude>-20.44035800</ctml:latitude>
+    <ctml:longitude>57.59421500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67881" kind="city">
+    <ctml:name>New Grove</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q282908</ctml:wikiDataId>
+    <ctml:latitude>-20.40861000</ctml:latitude>
+    <ctml:longitude>57.61361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67883" kind="city">
+    <ctml:name>Nouvelle France</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q282908</ctml:wikiDataId>
+    <ctml:latitude>-20.37056000</ctml:latitude>
+    <ctml:longitude>57.56111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153398" kind="city">
+    <ctml:name>Petit Bel Air</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q25047809</ctml:wikiDataId>
+    <ctml:latitude>-20.39941200</ctml:latitude>
+    <ctml:longitude>57.69295900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67891" kind="city">
+    <ctml:name>Plaine Magnien</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q3390948</ctml:wikiDataId>
+    <ctml:latitude>-20.42967000</ctml:latitude>
+    <ctml:longitude>57.66968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153394" kind="city">
+    <ctml:name>Riviere Des Creoles</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:latitude>-20.39084000</ctml:latitude>
+    <ctml:longitude>57.69696000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67910" kind="city">
+    <ctml:name>Saint Hubert</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q1341194</ctml:wikiDataId>
+    <ctml:latitude>-20.36417000</ctml:latitude>
+    <ctml:longitude>57.63833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153401" kind="city">
+    <ctml:name>Seizieme Mille</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:latitude>-20.34211100</ctml:latitude>
+    <ctml:longitude>57.54924400</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153396" kind="city">
+    <ctml:name>Trois Boutiques</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:latitude>-20.45046100</ctml:latitude>
+    <ctml:longitude>57.64682900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153397" kind="city">
+    <ctml:name>Union Park</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q7885936</ctml:wikiDataId>
+    <ctml:latitude>-20.38629400</ctml:latitude>
+    <ctml:longitude>57.58068000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153393" kind="city">
+    <ctml:name>Vieux Grand Port</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Grand Port</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-GP</ctml:parentRef>
+    <ctml:wikiDataId>Q111912393</ctml:wikiDataId>
+    <ctml:latitude>-20.37406600</ctml:latitude>
+    <ctml:longitude>57.71607700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67841" kind="city">
+    <ctml:name>Camp Thorel</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q27763596</ctml:wikiDataId>
+    <ctml:latitude>-20.21472000</ctml:latitude>
+    <ctml:longitude>57.61611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67855" kind="city">
+    <ctml:name>Dagotière</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q27763707</ctml:wikiDataId>
+    <ctml:latitude>-20.24476000</ctml:latitude>
+    <ctml:longitude>57.56188000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67856" kind="city">
+    <ctml:name>Dubreuil</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q27764363</ctml:wikiDataId>
+    <ctml:latitude>-20.30132000</ctml:latitude>
+    <ctml:longitude>57.59861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153448" kind="city">
+    <ctml:name>L'Avenir</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q6455635</ctml:wikiDataId>
+    <ctml:latitude>-20.21714200</ctml:latitude>
+    <ctml:longitude>57.55048200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153447" kind="city">
+    <ctml:name>L'Esperance</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q3203304</ctml:wikiDataId>
+    <ctml:latitude>-20.23041300</ctml:latitude>
+    <ctml:longitude>57.59526800</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153449" kind="city">
+    <ctml:name>La Laura-Malenga</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q6463351</ctml:wikiDataId>
+    <ctml:latitude>-20.20386100</ctml:latitude>
+    <ctml:longitude>57.54991500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67877" kind="city">
+    <ctml:name>Melrose</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q1105427</ctml:wikiDataId>
+    <ctml:latitude>-20.26972000</ctml:latitude>
+    <ctml:longitude>57.63194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67879" kind="city">
+    <ctml:name>Moka</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q282908</ctml:wikiDataId>
+    <ctml:latitude>-20.21889000</ctml:latitude>
+    <ctml:longitude>57.49583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153450" kind="city">
+    <ctml:name>Montagne Blanche</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:latitude>-20.28592000</ctml:latitude>
+    <ctml:longitude>57.65774600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153451" kind="city">
+    <ctml:name>Nouvelle Découverte</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:latitude>-20.18600000</ctml:latitude>
+    <ctml:longitude>57.59079700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67885" kind="city">
+    <ctml:name>Pailles</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q282908</ctml:wikiDataId>
+    <ctml:latitude>-20.19271000</ctml:latitude>
+    <ctml:longitude>57.48826000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67898" kind="city">
+    <ctml:name>Providence</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q27762667</ctml:wikiDataId>
+    <ctml:latitude>-20.24472000</ctml:latitude>
+    <ctml:longitude>57.61222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153452" kind="city">
+    <ctml:name>Ripailles</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:latitude>-20.19472500</ctml:latitude>
+    <ctml:longitude>57.58059600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153445" kind="city">
+    <ctml:name>Saint Julien D'Hotman</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:latitude>-20.23067000</ctml:latitude>
+    <ctml:longitude>57.64037800</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67912" kind="city">
+    <ctml:name>Saint Pierre</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q1154985</ctml:wikiDataId>
+    <ctml:latitude>-20.21750000</ctml:latitude>
+    <ctml:longitude>57.52083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67921" kind="city">
+    <ctml:name>Verdun</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Moka</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q641130</ctml:wikiDataId>
+    <ctml:latitude>-20.23417000</ctml:latitude>
+    <ctml:longitude>57.55476000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67828" kind="city">
+    <ctml:name>Arsenal</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q24044132</ctml:wikiDataId>
+    <ctml:latitude>-20.10556000</ctml:latitude>
+    <ctml:longitude>57.53528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67838" kind="city">
+    <ctml:name>Calebasses</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q27764358</ctml:wikiDataId>
+    <ctml:latitude>-20.11167000</ctml:latitude>
+    <ctml:longitude>57.55389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67851" kind="city">
+    <ctml:name>Congomah</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q27764417</ctml:wikiDataId>
+    <ctml:latitude>-20.14889000</ctml:latitude>
+    <ctml:longitude>57.59083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67853" kind="city">
+    <ctml:name>Crève Coeur</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q27763632</ctml:wikiDataId>
+    <ctml:latitude>-20.19111000</ctml:latitude>
+    <ctml:longitude>57.55722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153413" kind="city">
+    <ctml:name>D'Epinay</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:latitude>-20.13021100</ctml:latitude>
+    <ctml:longitude>57.59583800</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67861" kind="city">
+    <ctml:name>Fond du Sac</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q3075334</ctml:wikiDataId>
+    <ctml:latitude>-20.04732000</ctml:latitude>
+    <ctml:longitude>57.58400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67872" kind="city">
+    <ctml:name>Le Hochet</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q11753375</ctml:wikiDataId>
+    <ctml:latitude>-20.13500000</ctml:latitude>
+    <ctml:longitude>57.52111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67873" kind="city">
+    <ctml:name>Long Mountain</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q11753375</ctml:wikiDataId>
+    <ctml:latitude>-20.14306000</ctml:latitude>
+    <ctml:longitude>57.56222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67880" kind="city">
+    <ctml:name>Morcellement Saint André</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q282908</ctml:wikiDataId>
+    <ctml:latitude>-20.07199000</ctml:latitude>
+    <ctml:longitude>57.56833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67882" kind="city">
+    <ctml:name>Notre Dame</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q282908</ctml:wikiDataId>
+    <ctml:latitude>-20.14056000</ctml:latitude>
+    <ctml:longitude>57.55306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67892" kind="city">
+    <ctml:name>Plaine des Papayes</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q24041555</ctml:wikiDataId>
+    <ctml:latitude>-20.06500000</ctml:latitude>
+    <ctml:longitude>57.57250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67894" kind="city">
+    <ctml:name>Pointe aux Piments</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q24041555</ctml:wikiDataId>
+    <ctml:latitude>-20.06494000</ctml:latitude>
+    <ctml:longitude>57.52347000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67917" kind="city">
+    <ctml:name>Terre Rouge</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q2322083</ctml:wikiDataId>
+    <ctml:latitude>-20.12611000</ctml:latitude>
+    <ctml:longitude>57.52444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153416" kind="city">
+    <ctml:name>Tombeau Bay</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q2745517</ctml:wikiDataId>
+    <ctml:latitude>-20.12345100</ctml:latitude>
+    <ctml:longitude>57.50218400</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67919" kind="city">
+    <ctml:name>Triolet</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q641130</ctml:wikiDataId>
+    <ctml:latitude>-20.05760000</ctml:latitude>
+    <ctml:longitude>57.55025000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153417" kind="city">
+    <ctml:name>Trou Aux Biches</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:wikiDataId>Q7846369</ctml:wikiDataId>
+    <ctml:latitude>-20.03123500</ctml:latitude>
+    <ctml:longitude>57.55189700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153415" kind="city">
+    <ctml:name>Ville Bague</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Pamplemousses</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PA</ctml:parentRef>
+    <ctml:latitude>-20.14604500</ctml:latitude>
+    <ctml:longitude>57.62414900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153454" kind="city">
+    <ctml:name>Beau Bassin</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q813337</ctml:wikiDataId>
+    <ctml:latitude>-20.22538700</ctml:latitude>
+    <ctml:longitude>57.47145500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153916" kind="city">
+    <ctml:name>Belle Terre</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q3452543</ctml:wikiDataId>
+    <ctml:latitude>-20.26948370</ctml:latitude>
+    <ctml:longitude>57.51655530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153911" kind="city">
+    <ctml:name>Camp Fouqueraux</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:latitude>-20.28568630</ctml:latitude>
+    <ctml:longitude>57.51718270</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153914" kind="city">
+    <ctml:name>Chebel</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q56537982</ctml:wikiDataId>
+    <ctml:latitude>-20.21373190</ctml:latitude>
+    <ctml:longitude>57.46075450</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153913" kind="city">
+    <ctml:name>Coromandel</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q407155</ctml:wikiDataId>
+    <ctml:latitude>-20.19522920</ctml:latitude>
+    <ctml:longitude>57.44565340</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67854" kind="city">
+    <ctml:name>Curepipe</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q1002525</ctml:wikiDataId>
+    <ctml:latitude>-20.31628000</ctml:latitude>
+    <ctml:longitude>57.52594000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153456" kind="city">
+    <ctml:name>Eau Coulee</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:latitude>-20.30336600</ctml:latitude>
+    <ctml:longitude>57.52778800</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67857" kind="city">
+    <ctml:name>Ebene</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q213275</ctml:wikiDataId>
+    <ctml:latitude>-20.24494000</ctml:latitude>
+    <ctml:longitude>57.49163000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153455" kind="city">
+    <ctml:name>Floreal</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q1760305</ctml:wikiDataId>
+    <ctml:latitude>-20.31121400</ctml:latitude>
+    <ctml:longitude>57.50726300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153457" kind="city">
+    <ctml:name>Forest Side</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q5469112</ctml:wikiDataId>
+    <ctml:latitude>-20.32952100</ctml:latitude>
+    <ctml:longitude>57.53898100</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153912" kind="city">
+    <ctml:name>Glen Park</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q5567941</ctml:wikiDataId>
+    <ctml:latitude>-20.32440680</ctml:latitude>
+    <ctml:longitude>57.47531880</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153915" kind="city">
+    <ctml:name>Henrietta</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q8250694</ctml:wikiDataId>
+    <ctml:latitude>-20.27200480</ctml:latitude>
+    <ctml:longitude>57.52898870</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153918" kind="city">
+    <ctml:name>Hermitage</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q246286</ctml:wikiDataId>
+    <ctml:latitude>-20.27685080</ctml:latitude>
+    <ctml:longitude>57.53471370</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153917" kind="city">
+    <ctml:name>Highlands</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q235956</ctml:wikiDataId>
+    <ctml:latitude>-20.27827480</ctml:latitude>
+    <ctml:longitude>57.51350410</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67878" kind="city">
+    <ctml:name>Midlands</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q1105427</ctml:wikiDataId>
+    <ctml:latitude>-20.31907000</ctml:latitude>
+    <ctml:longitude>57.57016000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153910" kind="city">
+    <ctml:name>Phoenix</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q105751</ctml:wikiDataId>
+    <ctml:latitude>-20.28584460</ctml:latitude>
+    <ctml:longitude>57.50291860</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67900" kind="city">
+    <ctml:name>Quatre Bornes</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q1341194</ctml:wikiDataId>
+    <ctml:latitude>-20.26381000</ctml:latitude>
+    <ctml:longitude>57.47910000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153453" kind="city">
+    <ctml:name>Rose Hill</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q413231</ctml:wikiDataId>
+    <ctml:latitude>-20.24347800</ctml:latitude>
+    <ctml:longitude>57.46985500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67920" kind="city">
+    <ctml:name>Vacoas</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Plaines Wilhems</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PW</ctml:parentRef>
+    <ctml:wikiDataId>Q641130</ctml:wikiDataId>
+    <ctml:latitude>-20.29806000</ctml:latitude>
+    <ctml:longitude>57.47833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153419" kind="city">
+    <ctml:name>Bell Village</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Port Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PL</ctml:parentRef>
+    <ctml:latitude>-20.17049700</ctml:latitude>
+    <ctml:longitude>57.48618400</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153423" kind="city">
+    <ctml:name>Caudan Waterfront</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Port Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q2943077</ctml:wikiDataId>
+    <ctml:latitude>-20.16089880</ctml:latitude>
+    <ctml:longitude>57.49772560</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153428" kind="city">
+    <ctml:name>China Town</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Port Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q202509</ctml:wikiDataId>
+    <ctml:latitude>-20.15879700</ctml:latitude>
+    <ctml:longitude>57.50678900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153420" kind="city">
+    <ctml:name>Les Pailles</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Port Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PL</ctml:parentRef>
+    <ctml:latitude>-20.19352700</ctml:latitude>
+    <ctml:longitude>57.48962900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153426" kind="city">
+    <ctml:name>Plaine Verte</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Port Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PL</ctml:parentRef>
+    <ctml:latitude>-20.15841000</ctml:latitude>
+    <ctml:longitude>57.51421500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153418" kind="city">
+    <ctml:name>Pointe aux Sables</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Port Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PL</ctml:parentRef>
+    <ctml:latitude>-20.17168700</ctml:latitude>
+    <ctml:longitude>57.45389300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67895" kind="city">
+    <ctml:name>Port Louis</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Port Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q3929</ctml:wikiDataId>
+    <ctml:latitude>-20.16194000</ctml:latitude>
+    <ctml:longitude>57.49889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153422" kind="city">
+    <ctml:name>Soreze</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Port Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q588787</ctml:wikiDataId>
+    <ctml:latitude>-20.20856100</ctml:latitude>
+    <ctml:longitude>57.48638200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153421" kind="city">
+    <ctml:name>Tour Koenig</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Port Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PL</ctml:parentRef>
+    <ctml:latitude>-20.17864600</ctml:latitude>
+    <ctml:longitude>57.46872100</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153425" kind="city">
+    <ctml:name>Tranquebar</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Port Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PL</ctml:parentRef>
+    <ctml:wikiDataId>Q732594</ctml:wikiDataId>
+    <ctml:latitude>-20.17681600</ctml:latitude>
+    <ctml:longitude>57.51132900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153429" kind="city">
+    <ctml:name>Vallée des Prêtres</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Port Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PL</ctml:parentRef>
+    <ctml:latitude>-20.16514700</ctml:latitude>
+    <ctml:longitude>57.53403900</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153427" kind="city">
+    <ctml:name>Vallee Pitot</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Port Louis</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-PL</ctml:parentRef>
+    <ctml:latitude>-20.16920000</ctml:latitude>
+    <ctml:longitude>57.51997000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67827" kind="city">
+    <ctml:name>Amaury</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:wikiDataId>Q27764414</ctml:wikiDataId>
+    <ctml:latitude>-20.13083000</ctml:latitude>
+    <ctml:longitude>57.65917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153434" kind="city">
+    <ctml:name>Amitié Gokoola</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:latitude>-20.10688300</ctml:latitude>
+    <ctml:longitude>57.65472800</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67843" kind="city">
+    <ctml:name>Cap Malheureux</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:wikiDataId>Q130238</ctml:wikiDataId>
+    <ctml:latitude>-19.98417000</ctml:latitude>
+    <ctml:longitude>57.61417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67852" kind="city">
+    <ctml:name>Cottage</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:wikiDataId>Q27764429</ctml:wikiDataId>
+    <ctml:latitude>-20.05972000</ctml:latitude>
+    <ctml:longitude>57.62917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67859" kind="city">
+    <ctml:name>Espérance Trébuchet</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:wikiDataId>Q27763650</ctml:wikiDataId>
+    <ctml:latitude>-20.06972000</ctml:latitude>
+    <ctml:longitude>57.64194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67862" kind="city">
+    <ctml:name>Goodlands</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:wikiDataId>Q3110720</ctml:wikiDataId>
+    <ctml:latitude>-20.03841000</ctml:latitude>
+    <ctml:longitude>57.65055000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67863" kind="city">
+    <ctml:name>Grand Baie</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:wikiDataId>Q992154</ctml:wikiDataId>
+    <ctml:latitude>-20.01816000</ctml:latitude>
+    <ctml:longitude>57.58015000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67865" kind="city">
+    <ctml:name>Grand Gaube</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:wikiDataId>Q3113606</ctml:wikiDataId>
+    <ctml:latitude>-20.00639000</ctml:latitude>
+    <ctml:longitude>57.66083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67875" kind="city">
+    <ctml:name>Mapou</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:wikiDataId>Q1105427</ctml:wikiDataId>
+    <ctml:latitude>-20.07583000</ctml:latitude>
+    <ctml:longitude>57.60139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67887" kind="city">
+    <ctml:name>Petit Raffray</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:wikiDataId>Q24045809</ctml:wikiDataId>
+    <ctml:latitude>-20.02022000</ctml:latitude>
+    <ctml:longitude>57.62296000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67890" kind="city">
+    <ctml:name>Piton</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:wikiDataId>Q21402299</ctml:wikiDataId>
+    <ctml:latitude>-20.09028000</ctml:latitude>
+    <ctml:longitude>57.63028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67893" kind="city">
+    <ctml:name>Plaines des Roches</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:wikiDataId>Q24041555</ctml:wikiDataId>
+    <ctml:latitude>-20.11167000</ctml:latitude>
+    <ctml:longitude>57.69083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153432" kind="city">
+    <ctml:name>Poudre D'Or Hamlet</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:latitude>-20.08102400</ctml:latitude>
+    <ctml:longitude>57.65272600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67906" kind="city">
+    <ctml:name>Roche Terre</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:wikiDataId>Q1341194</ctml:wikiDataId>
+    <ctml:latitude>-20.01861000</ctml:latitude>
+    <ctml:longitude>57.64472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67907" kind="city">
+    <ctml:name>Roches Noire</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:wikiDataId>Q1341194</ctml:wikiDataId>
+    <ctml:latitude>-20.11111000</ctml:latitude>
+    <ctml:longitude>57.71222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67918" kind="city">
+    <ctml:name>The Vale</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rivière du Rempart</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RR</ctml:parentRef>
+    <ctml:wikiDataId>Q2322083</ctml:wikiDataId>
+    <ctml:latitude>-20.03018000</ctml:latitude>
+    <ctml:longitude>57.60219000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67829" kind="city">
+    <ctml:name>Baie aux Huîtres</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Rodrigues Island</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-RO</ctml:parentRef>
+    <ctml:wikiDataId>Q2879542</ctml:wikiDataId>
+    <ctml:latitude>-19.69444000</ctml:latitude>
+    <ctml:longitude>63.40833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153402" kind="city">
+    <ctml:name>Baie Du Cap</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:latitude>-20.48664400</ctml:latitude>
+    <ctml:longitude>57.37881500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153406" kind="city">
+    <ctml:name>Bel Ombre</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q2894139</ctml:wikiDataId>
+    <ctml:latitude>-20.50191900</ctml:latitude>
+    <ctml:longitude>57.42550700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153407" kind="city">
+    <ctml:name>Benares</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q79980</ctml:wikiDataId>
+    <ctml:latitude>-20.48440700</ctml:latitude>
+    <ctml:longitude>57.58871700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153403" kind="city">
+    <ctml:name>Bois Cheri</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:latitude>-20.42667100</ctml:latitude>
+    <ctml:longitude>57.53425200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153408" kind="city">
+    <ctml:name>Britannia</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q138396</ctml:wikiDataId>
+    <ctml:latitude>-20.44865500</ctml:latitude>
+    <ctml:longitude>57.56340700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67839" kind="city">
+    <ctml:name>Camp Diable</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q27763595</ctml:wikiDataId>
+    <ctml:latitude>-20.46278000</ctml:latitude>
+    <ctml:longitude>57.57889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67847" kind="city">
+    <ctml:name>Chamouny</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q27763611</ctml:wikiDataId>
+    <ctml:latitude>-20.48222000</ctml:latitude>
+    <ctml:longitude>57.46611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67848" kind="city">
+    <ctml:name>Chemin Grenier</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q2962294</ctml:wikiDataId>
+    <ctml:latitude>-20.48722000</ctml:latitude>
+    <ctml:longitude>57.46556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67864" kind="city">
+    <ctml:name>Grand Bois</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q27763677</ctml:wikiDataId>
+    <ctml:latitude>-20.41889000</ctml:latitude>
+    <ctml:longitude>57.54417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153409" kind="city">
+    <ctml:name>L'Escalier</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:latitude>-20.47333500</ctml:latitude>
+    <ctml:longitude>57.61867600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153411" kind="city">
+    <ctml:name>La Flora</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q6462547</ctml:wikiDataId>
+    <ctml:latitude>-20.41000500</ctml:latitude>
+    <ctml:longitude>57.56048700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67904" kind="city">
+    <ctml:name>Rivière des Anguilles</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q1341194</ctml:wikiDataId>
+    <ctml:latitude>-20.48528000</ctml:latitude>
+    <ctml:longitude>57.55083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153405" kind="city">
+    <ctml:name>Rivière Du Poste</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q18390584</ctml:wikiDataId>
+    <ctml:latitude>-20.42866200</ctml:latitude>
+    <ctml:longitude>57.57368100</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67909" kind="city">
+    <ctml:name>Saint Aubin</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q1341194</ctml:wikiDataId>
+    <ctml:latitude>-20.49600000</ctml:latitude>
+    <ctml:longitude>57.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-153410" kind="city">
+    <ctml:name>St Aubin</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q226647</ctml:wikiDataId>
+    <ctml:latitude>-20.49444600</ctml:latitude>
+    <ctml:longitude>57.55033500</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MUS-67915" kind="city">
+    <ctml:name>Surinam</ctml:name>
+    <ctml:country>MUS</ctml:country>
+    <ctml:admin1>Savanne</ctml:admin1>
+    <ctml:parentRef>place:admin1:MU-SA</ctml:parentRef>
+    <ctml:wikiDataId>Q9348370</ctml:wikiDataId>
+    <ctml:latitude>-20.50972000</ctml:latitude>
+    <ctml:longitude>57.50528000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

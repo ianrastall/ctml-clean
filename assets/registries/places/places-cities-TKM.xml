@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:TKM-106880" kind="city">
+    <ctml:name>Abadan</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Ahal</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-A</ctml:parentRef>
+    <ctml:wikiDataId>Q304522</ctml:wikiDataId>
+    <ctml:latitude>38.05415000</ctml:latitude>
+    <ctml:longitude>58.19721000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106882" kind="city">
+    <ctml:name>Annau</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Ahal</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-A</ctml:parentRef>
+    <ctml:wikiDataId>Q844968</ctml:wikiDataId>
+    <ctml:latitude>37.88754000</ctml:latitude>
+    <ctml:longitude>58.51596000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106883" kind="city">
+    <ctml:name>Arçabil</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Ahal</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-A</ctml:parentRef>
+    <ctml:wikiDataId>Q49344649</ctml:wikiDataId>
+    <ctml:latitude>37.91500000</ctml:latitude>
+    <ctml:longitude>58.08987000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106886" kind="city">
+    <ctml:name>Baharly</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Ahal</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-A</ctml:parentRef>
+    <ctml:wikiDataId>Q2980062</ctml:wikiDataId>
+    <ctml:latitude>38.43624000</ctml:latitude>
+    <ctml:longitude>57.43158000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106896" kind="city">
+    <ctml:name>Kaka</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Ahal</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-A</ctml:parentRef>
+    <ctml:wikiDataId>Q782190</ctml:wikiDataId>
+    <ctml:latitude>37.34821000</ctml:latitude>
+    <ctml:longitude>59.61431000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106905" kind="city">
+    <ctml:name>Tejen</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Ahal</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-A</ctml:parentRef>
+    <ctml:wikiDataId>Q1983850</ctml:wikiDataId>
+    <ctml:latitude>37.38338000</ctml:latitude>
+    <ctml:longitude>60.50545000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106884" kind="city">
+    <ctml:name>Ashgabat</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Ashgabat</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-S</ctml:parentRef>
+    <ctml:wikiDataId>Q23438</ctml:wikiDataId>
+    <ctml:latitude>37.95000000</ctml:latitude>
+    <ctml:longitude>58.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106889" kind="city">
+    <ctml:name>Bereket</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Balkan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-B</ctml:parentRef>
+    <ctml:wikiDataId>Q2578541</ctml:wikiDataId>
+    <ctml:latitude>39.24463000</ctml:latitude>
+    <ctml:longitude>55.51536000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106895" kind="city">
+    <ctml:name>Gumdag</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Balkan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-B</ctml:parentRef>
+    <ctml:wikiDataId>Q2661229</ctml:wikiDataId>
+    <ctml:latitude>39.20611000</ctml:latitude>
+    <ctml:longitude>54.59056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TKM-106898" kind="admin2">
+    <ctml:name>Magtymguly</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Balkan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-B</ctml:parentRef>
+    <ctml:wikiDataId>Q4139824</ctml:wikiDataId>
+    <ctml:latitude>38.43749000</ctml:latitude>
+    <ctml:longitude>56.28081000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106901" kind="city">
+    <ctml:name>Serdar</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Balkan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-B</ctml:parentRef>
+    <ctml:wikiDataId>Q1015618</ctml:wikiDataId>
+    <ctml:latitude>38.97644000</ctml:latitude>
+    <ctml:longitude>56.27575000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106907" kind="city">
+    <ctml:name>Türkmenbaşy</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Balkan</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-B</ctml:parentRef>
+    <ctml:wikiDataId>Q488987</ctml:wikiDataId>
+    <ctml:latitude>40.02216000</ctml:latitude>
+    <ctml:longitude>52.95517000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:TKM-106881" kind="admin2">
+    <ctml:name>Akdepe</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Daşoguz</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-D</ctml:parentRef>
+    <ctml:wikiDataId>Q2450285</ctml:wikiDataId>
+    <ctml:latitude>42.05513000</ctml:latitude>
+    <ctml:longitude>59.37877000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106890" kind="city">
+    <ctml:name>Boldumsaz</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Daşoguz</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-D</ctml:parentRef>
+    <ctml:wikiDataId>Q938252</ctml:wikiDataId>
+    <ctml:latitude>42.12824000</ctml:latitude>
+    <ctml:longitude>59.67101000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106897" kind="city">
+    <ctml:name>Köneürgench</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Daşoguz</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-D</ctml:parentRef>
+    <ctml:wikiDataId>Q48472</ctml:wikiDataId>
+    <ctml:latitude>42.32773000</ctml:latitude>
+    <ctml:longitude>59.15442000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106904" kind="city">
+    <ctml:name>Tagta</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Daşoguz</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-D</ctml:parentRef>
+    <ctml:wikiDataId>Q2977840</ctml:wikiDataId>
+    <ctml:latitude>41.65041000</ctml:latitude>
+    <ctml:longitude>59.91640000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106909" kind="city">
+    <ctml:name>Yylanly</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Daşoguz</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-D</ctml:parentRef>
+    <ctml:wikiDataId>Q4152258</ctml:wikiDataId>
+    <ctml:latitude>41.83333000</ctml:latitude>
+    <ctml:longitude>59.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106885" kind="city">
+    <ctml:name>Atamyrat</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Lebap</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2357934</ctml:wikiDataId>
+    <ctml:latitude>37.83573000</ctml:latitude>
+    <ctml:longitude>65.21058000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106892" kind="city">
+    <ctml:name>Farap</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Lebap</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q2587941</ctml:wikiDataId>
+    <ctml:latitude>39.17037000</ctml:latitude>
+    <ctml:longitude>63.61165000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106893" kind="city">
+    <ctml:name>Gazojak</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Lebap</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q4131635</ctml:wikiDataId>
+    <ctml:latitude>41.18746000</ctml:latitude>
+    <ctml:longitude>61.40360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106894" kind="city">
+    <ctml:name>Gowurdak</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Lebap</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q1023619</ctml:wikiDataId>
+    <ctml:latitude>37.81244000</ctml:latitude>
+    <ctml:longitude>66.04656000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106900" kind="city">
+    <ctml:name>Saýat</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Lebap</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-L</ctml:parentRef>
+    <ctml:wikiDataId>Q4409652</ctml:wikiDataId>
+    <ctml:latitude>38.78393000</ctml:latitude>
+    <ctml:longitude>63.88035000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106888" kind="city">
+    <ctml:name>Bayramaly</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Mary</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q812715</ctml:wikiDataId>
+    <ctml:latitude>37.61852000</ctml:latitude>
+    <ctml:longitude>62.16715000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106902" kind="city">
+    <ctml:name>Serhetabat</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Mary</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q864655</ctml:wikiDataId>
+    <ctml:latitude>35.27992000</ctml:latitude>
+    <ctml:longitude>62.34383000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106903" kind="city">
+    <ctml:name>Seydi</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Mary</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2660326</ctml:wikiDataId>
+    <ctml:latitude>39.48160000</ctml:latitude>
+    <ctml:longitude>62.91374000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TKM-106908" kind="city">
+    <ctml:name>Yolöten</ctml:name>
+    <ctml:country>TKM</ctml:country>
+    <ctml:admin1>Mary</ctml:admin1>
+    <ctml:parentRef>place:admin1:TM-M</ctml:parentRef>
+    <ctml:wikiDataId>Q2985985</ctml:wikiDataId>
+    <ctml:latitude>37.29886000</ctml:latitude>
+    <ctml:longitude>62.35975000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:ctml="urn:ctml:2.0"
+  targetNamespace="urn:ctml:2.0"
+  elementFormDefault="qualified"
+  attributeFormDefault="unqualified">
+
+  <xs:annotation>
+    <xs:documentation>
+      CTML 2.0 - Game payload model (structured move list, result, ECO,
+      start position, fingerprints). Expects players to be referenced via
+      participant IDs defined in the enclosing tournament file.
+
+      Structural change from reference/v1-xsd/ctml-game.xsd (1.2): moves are
+      now structured per-move elements (MoveType/MovesType) rather than a
+      mixed-content flat string. Reasoning: the Python import pipeline
+      already walks each game move-by-move internally (building a
+      chess.Board, applying moves one at a time to get positions for Zobrist
+      hashing), so structured per-move CTML storage mirrors that walk instead
+      of adding a second one. This also gives each move a natural place to
+      hang an eval (see ctml-analysis.xsd), and a natural per-game place to
+      hang fingerprints. Known cost: structured per-move XML is meaningfully
+      larger on disk than the flat move string it replaces; mitigated by
+      gzip (the structure is highly repetitive) and not scale-breaking since
+      files aren't held fully in memory at once.
+
+      Also carries the v1.2 change: game/@round is RoundType (permissive
+      string), not xs:positiveInteger -- real PGN rounds include "4.1", "-",
+      and "?".
+    </xs:documentation>
+  </xs:annotation>
+
+  <!-- MoveType/GameType need FingerprintType/EvalType from ctml-analysis.xsd. -->
+  <xs:include schemaLocation="ctml-analysis.xsd"/>
+
+  <xs:element name="game" type="ctml:GameType"/>
+
+  <xs:element name="moves" type="ctml:MovesType">
+    <!-- XSD 1.0 replacement for what an XSD 1.1 assert would enforce: no
+         two moves in the same list share a ply number. Gaps and
+         out-of-order plies are NOT caught here, that stays
+         application-level, consistent with the rest of the 1.0/app-code
+         split used throughout this schema set. -->
+    <xs:unique name="UniquePlyPerGame">
+      <xs:selector xpath="ctml:move"/>
+      <xs:field xpath="@ply"/>
+    </xs:unique>
+  </xs:element>
+
+  <xs:complexType name="GameType">
+    <xs:sequence>
+      <xs:element name="eco" type="ctml:EcoCodeType" minOccurs="0"/>
+      <xs:element name="start" type="ctml:StartPositionType" minOccurs="0"/>
+      <xs:element name="timeControl" type="ctml:TimeControlType" minOccurs="0"/>
+      <xs:element ref="ctml:moves" minOccurs="0"/>
+      <xs:element name="termination" type="ctml:TerminationType" minOccurs="0"/>
+      <xs:element name="tags" type="ctml:TagSetType" minOccurs="0"/>
+      <xs:element name="fingerprints" type="ctml:FingerprintSetType" minOccurs="0"/>
+      <xs:element name="source" type="ctml:SourceType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+
+    <!-- Local identifiers inside a tournament file -->
+    <xs:attribute name="id" type="xs:ID" use="optional"/>
+
+    <!-- Tournament context -->
+    <xs:attribute name="round" type="ctml:RoundType" use="optional"/>
+    <xs:attribute name="board" type="xs:positiveInteger" use="optional"/>
+
+    <!-- References to participant @id values -->
+    <xs:attribute name="white" type="xs:IDREF" use="required"/>
+    <xs:attribute name="black" type="xs:IDREF" use="required"/>
+
+    <xs:attribute name="result" type="ctml:GameResultType" use="required"/>
+  </xs:complexType>
+
+  <xs:complexType name="MoveType">
+    <xs:sequence>
+      <!-- Repeatable: a later re-analysis adds another eval entry instead of
+           overwriting history, mirroring how ratingHistory treats rating
+           snapshots as additive elsewhere in this schema. -->
+      <xs:element name="eval" type="ctml:EvalType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <!-- Single sequential ply counter, not move-number-plus-side: side is
+         derivable from parity (odd = White), and storing it separately
+         would just be a field that can drift out of sync. -->
+    <xs:attribute name="ply" type="xs:positiveInteger" use="required"/>
+    <!-- Holds the move in whatever notation moves/@notation declares
+         (SAN/UCI/LAN/PGN). -->
+    <xs:attribute name="value" type="xs:token" use="required"/>
+    <xs:attribute name="clockSeconds" type="xs:nonNegativeInteger" use="optional"/>
+  </xs:complexType>
+
+  <xs:complexType name="MovesType">
+    <xs:sequence>
+      <xs:element name="move" type="ctml:MoveType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="notation" type="ctml:MoveNotationType" use="required"/>
+    <xs:attribute name="plyCount" type="xs:nonNegativeInteger" use="optional"/>
+    <xs:attribute name="clockInfo" type="xs:boolean" use="optional"/>
+  </xs:complexType>
+
+  <xs:complexType name="StartPositionType">
+    <xs:sequence>
+      <xs:element name="fen" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute name="standard" type="xs:boolean" use="optional"/>
+  </xs:complexType>
+
+  <xs:complexType name="TimeControlType">
+    <xs:sequence>
+      <!-- Keep permissive for now; can be tightened later (initial+increment, PGN TimeControl, etc.) -->
+      <xs:element name="raw" type="xs:string" minOccurs="0"/>
+      <xs:element name="initialSeconds" type="xs:nonNegativeInteger" minOccurs="0"/>
+      <xs:element name="incrementSeconds" type="xs:nonNegativeInteger" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute name="cadence" type="ctml:EventCadenceType" use="optional"/>
+  </xs:complexType>
+
+  <xs:complexType name="TagSetType">
+    <xs:sequence>
+      <xs:element name="tag" type="xs:token" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="SourceType">
+    <xs:sequence>
+      <xs:element name="uri" type="xs:anyURI" minOccurs="0"/>
+      <xs:element name="note" type="xs:string" minOccurs="0"/>
+      <xs:element name="retrieved" type="xs:date" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute name="kind" type="xs:token" use="optional"/>
+  </xs:complexType>
+
+</xs:schema>

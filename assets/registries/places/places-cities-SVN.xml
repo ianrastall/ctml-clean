@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SVN-104174" kind="city">
+    <ctml:name>Lokavec</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Ajdovščina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-001</ctml:parentRef>
+    <ctml:wikiDataId>Q2736866</ctml:wikiDataId>
+    <ctml:latitude>45.90167000</ctml:latitude>
+    <ctml:longitude>13.87972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104104" kind="city">
+    <ctml:name>Gančani</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Beltinci</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-002</ctml:parentRef>
+    <ctml:wikiDataId>Q519824</ctml:wikiDataId>
+    <ctml:latitude>46.63250000</ctml:latitude>
+    <ctml:longitude>16.25111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104166" kind="city">
+    <ctml:name>Lipovci</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Beltinci</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-002</ctml:parentRef>
+    <ctml:wikiDataId>Q907800</ctml:wikiDataId>
+    <ctml:latitude>46.62833000</ctml:latitude>
+    <ctml:longitude>16.22806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104326" kind="city">
+    <ctml:name>Zasip</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Bled</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-003</ctml:parentRef>
+    <ctml:wikiDataId>Q3439195</ctml:wikiDataId>
+    <ctml:latitude>46.39284000</ctml:latitude>
+    <ctml:longitude>14.10869000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104172" kind="city">
+    <ctml:name>Log pri Brezovici</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Bohinj</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-004</ctml:parentRef>
+    <ctml:wikiDataId>Q4863532</ctml:wikiDataId>
+    <ctml:latitude>46.01667000</ctml:latitude>
+    <ctml:longitude>14.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104075" kind="city">
+    <ctml:name>Brezovica pri Ljubljani</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Brezovica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-008</ctml:parentRef>
+    <ctml:wikiDataId>Q2127005</ctml:wikiDataId>
+    <ctml:latitude>46.03333000</ctml:latitude>
+    <ctml:longitude>14.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104205" kind="city">
+    <ctml:name>Notranje Gorice</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Brezovica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-008</ctml:parentRef>
+    <ctml:wikiDataId>Q2316241</ctml:wikiDataId>
+    <ctml:latitude>45.98750000</ctml:latitude>
+    <ctml:longitude>14.39889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104214" kind="city">
+    <ctml:name>Opština Ljubljana-Vič-Rudnik</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Brezovica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-008</ctml:parentRef>
+    <ctml:wikiDataId>Q2000244</ctml:wikiDataId>
+    <ctml:latitude>46.03333000</ctml:latitude>
+    <ctml:longitude>14.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104316" kind="city">
+    <ctml:name>Vnanje Gorice</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Brezovica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-008</ctml:parentRef>
+    <ctml:wikiDataId>Q1860460</ctml:wikiDataId>
+    <ctml:latitude>46.00722000</ctml:latitude>
+    <ctml:longitude>14.42194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104168" kind="city">
+    <ctml:name>Ljubečna</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Celje</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-011</ctml:parentRef>
+    <ctml:wikiDataId>Q3438923</ctml:wikiDataId>
+    <ctml:latitude>46.25567000</ctml:latitude>
+    <ctml:longitude>15.32430000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104299" kind="city">
+    <ctml:name>Trnovlje pri Celju</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Celje</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-011</ctml:parentRef>
+    <ctml:wikiDataId>Q2019579</ctml:wikiDataId>
+    <ctml:latitude>46.25667000</ctml:latitude>
+    <ctml:longitude>15.29528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104246" kind="city">
+    <ctml:name>Rakek</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Cerknica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-013</ctml:parentRef>
+    <ctml:wikiDataId>Q3437803</ctml:wikiDataId>
+    <ctml:latitude>45.81333000</ctml:latitude>
+    <ctml:longitude>14.31111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104089" kind="city">
+    <ctml:name>Dob</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Domžale</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-023</ctml:parentRef>
+    <ctml:wikiDataId>Q2169191</ctml:wikiDataId>
+    <ctml:latitude>46.15194000</ctml:latitude>
+    <ctml:longitude>14.62861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104244" kind="city">
+    <ctml:name>Radomlje</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Domžale</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-023</ctml:parentRef>
+    <ctml:wikiDataId>Q2181301</ctml:wikiDataId>
+    <ctml:latitude>46.17361000</ctml:latitude>
+    <ctml:longitude>14.61222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104312" kind="city">
+    <ctml:name>Vir</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Domžale</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-023</ctml:parentRef>
+    <ctml:wikiDataId>Q2582859</ctml:wikiDataId>
+    <ctml:latitude>46.15325000</ctml:latitude>
+    <ctml:longitude>14.60741000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104334" kind="city">
+    <ctml:name>Zgornji Duplek</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Duplek</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-026</ctml:parentRef>
+    <ctml:wikiDataId>Q2806140</ctml:wikiDataId>
+    <ctml:latitude>46.51361000</ctml:latitude>
+    <ctml:longitude>15.72083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104357" kind="city">
+    <ctml:name>Šmarje-Sap</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Grosuplje</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-032</ctml:parentRef>
+    <ctml:wikiDataId>Q8082833</ctml:wikiDataId>
+    <ctml:latitude>45.97618000</ctml:latitude>
+    <ctml:longitude>14.61177000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104279" kind="city">
+    <ctml:name>Spodnja Hajdina</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Hajdina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-159</ctml:parentRef>
+    <ctml:wikiDataId>Q2529766</ctml:wikiDataId>
+    <ctml:latitude>46.40889000</ctml:latitude>
+    <ctml:longitude>15.84694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104116" kind="city">
+    <ctml:name>Hotinja Vas</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Hoče–Slivnica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-160</ctml:parentRef>
+    <ctml:wikiDataId>Q1809468</ctml:wikiDataId>
+    <ctml:latitude>46.46667000</ctml:latitude>
+    <ctml:longitude>15.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104242" kind="city">
+    <ctml:name>Radizel</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Hoče–Slivnica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-160</ctml:parentRef>
+    <ctml:wikiDataId>Q2671246</ctml:wikiDataId>
+    <ctml:latitude>46.47444000</ctml:latitude>
+    <ctml:longitude>15.65583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104260" kind="city">
+    <ctml:name>Rogoza</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Hoče–Slivnica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-160</ctml:parentRef>
+    <ctml:wikiDataId>Q2136425</ctml:wikiDataId>
+    <ctml:latitude>46.50000000</ctml:latitude>
+    <ctml:longitude>15.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104095" kind="city">
+    <ctml:name>Dol pri Hrastniku</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Hrastnik</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-034</ctml:parentRef>
+    <ctml:wikiDataId>Q4806360</ctml:wikiDataId>
+    <ctml:latitude>46.14194000</ctml:latitude>
+    <ctml:longitude>15.11278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104147" kind="city">
+    <ctml:name>Kozina</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Hrpelje–Kozina</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-035</ctml:parentRef>
+    <ctml:wikiDataId>Q556151</ctml:wikiDataId>
+    <ctml:latitude>45.61000000</ctml:latitude>
+    <ctml:longitude>13.93556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104280" kind="city">
+    <ctml:name>Spodnja Idrija</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Idrija</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-036</ctml:parentRef>
+    <ctml:wikiDataId>Q3023218</ctml:wikiDataId>
+    <ctml:latitude>46.03194000</ctml:latitude>
+    <ctml:longitude>14.02722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104350" kind="city">
+    <ctml:name>Šentvid pri Stični</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Ivančna Gorica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-039</ctml:parentRef>
+    <ctml:wikiDataId>Q2613333</ctml:wikiDataId>
+    <ctml:latitude>45.95004000</ctml:latitude>
+    <ctml:longitude>14.84344000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104128" kind="city">
+    <ctml:name>Jagodje</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Izola</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-040</ctml:parentRef>
+    <ctml:wikiDataId>Q6122752</ctml:wikiDataId>
+    <ctml:latitude>45.52845000</ctml:latitude>
+    <ctml:longitude>13.64721000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104120" kind="city">
+    <ctml:name>Hrušica</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Jesenice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-041</ctml:parentRef>
+    <ctml:wikiDataId>Q2438219</ctml:wikiDataId>
+    <ctml:latitude>46.44500000</ctml:latitude>
+    <ctml:longitude>14.01778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104143" kind="city">
+    <ctml:name>Koroška Bela</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Jesenice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-041</ctml:parentRef>
+    <ctml:wikiDataId>Q2142859</ctml:wikiDataId>
+    <ctml:latitude>46.44913000</ctml:latitude>
+    <ctml:longitude>14.11135000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104274" kind="city">
+    <ctml:name>Slovenski Javornik</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Jesenice</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-041</ctml:parentRef>
+    <ctml:wikiDataId>Q771710</ctml:wikiDataId>
+    <ctml:latitude>46.42611000</ctml:latitude>
+    <ctml:longitude>14.08722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104184" kind="city">
+    <ctml:name>Mekinje</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Kamnik</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-043</ctml:parentRef>
+    <ctml:wikiDataId>Q6810577</ctml:wikiDataId>
+    <ctml:latitude>46.23333000</ctml:latitude>
+    <ctml:longitude>14.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104355" kind="city">
+    <ctml:name>Šmarca</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Kamnik</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-043</ctml:parentRef>
+    <ctml:wikiDataId>Q5101569</ctml:wikiDataId>
+    <ctml:latitude>46.19333000</ctml:latitude>
+    <ctml:longitude>14.59667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104086" kind="city">
+    <ctml:name>Deskle</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Kanal ob Soči</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-044</ctml:parentRef>
+    <ctml:wikiDataId>Q2928996</ctml:wikiDataId>
+    <ctml:latitude>46.05307000</ctml:latitude>
+    <ctml:longitude>13.61382000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104135" kind="city">
+    <ctml:name>Kidričevo</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Kidričevo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-045</ctml:parentRef>
+    <ctml:wikiDataId>Q1823066</ctml:wikiDataId>
+    <ctml:latitude>46.40361000</ctml:latitude>
+    <ctml:longitude>15.79111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104199" kind="city">
+    <ctml:name>Moste</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Komenda</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-164</ctml:parentRef>
+    <ctml:wikiDataId>Q6916913</ctml:wikiDataId>
+    <ctml:latitude>46.19500000</ctml:latitude>
+    <ctml:longitude>14.55139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104085" kind="city">
+    <ctml:name>Dekani</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Koper</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-050</ctml:parentRef>
+    <ctml:wikiDataId>Q2362916</ctml:wikiDataId>
+    <ctml:latitude>45.54972000</ctml:latitude>
+    <ctml:longitude>13.81361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104121" kind="city">
+    <ctml:name>Hrvatini</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Koper</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-050</ctml:parentRef>
+    <ctml:wikiDataId>Q2296057</ctml:wikiDataId>
+    <ctml:latitude>45.58278000</ctml:latitude>
+    <ctml:longitude>13.75667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104223" kind="city">
+    <ctml:name>Pobegi</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Koper</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-050</ctml:parentRef>
+    <ctml:wikiDataId>Q1618489</ctml:wikiDataId>
+    <ctml:latitude>45.53944000</ctml:latitude>
+    <ctml:longitude>13.79611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104231" kind="city">
+    <ctml:name>Prade</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Koper</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-050</ctml:parentRef>
+    <ctml:wikiDataId>Q2018453</ctml:wikiDataId>
+    <ctml:latitude>45.54003000</ctml:latitude>
+    <ctml:longitude>13.77607000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104282" kind="city">
+    <ctml:name>Spodnje Škofije</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Koper</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-050</ctml:parentRef>
+    <ctml:wikiDataId>Q2227842</ctml:wikiDataId>
+    <ctml:latitude>45.57167000</ctml:latitude>
+    <ctml:longitude>13.79250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104288" kind="city">
+    <ctml:name>Sv. Anton</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Koper</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-050</ctml:parentRef>
+    <ctml:wikiDataId>Q1618559</ctml:wikiDataId>
+    <ctml:latitude>45.52583000</ctml:latitude>
+    <ctml:longitude>13.83194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104077" kind="city">
+    <ctml:name>Britof</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Kranj</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-052</ctml:parentRef>
+    <ctml:wikiDataId>Q2484071</ctml:wikiDataId>
+    <ctml:latitude>46.26024000</ctml:latitude>
+    <ctml:longitude>14.39037000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104105" kind="city">
+    <ctml:name>Golnik</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Kranj</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-052</ctml:parentRef>
+    <ctml:wikiDataId>Q1895190</ctml:wikiDataId>
+    <ctml:latitude>46.33333000</ctml:latitude>
+    <ctml:longitude>14.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104139" kind="city">
+    <ctml:name>Kokrica</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Kranj</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-052</ctml:parentRef>
+    <ctml:wikiDataId>Q2409882</ctml:wikiDataId>
+    <ctml:latitude>46.27028000</ctml:latitude>
+    <ctml:longitude>14.36111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104193" kind="city">
+    <ctml:name>Mlaka pri Kranju</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Kranj</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-052</ctml:parentRef>
+    <ctml:wikiDataId>Q2176450</ctml:wikiDataId>
+    <ctml:latitude>46.28333000</ctml:latitude>
+    <ctml:longitude>14.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104330" kind="city">
+    <ctml:name>Zgornje Bitnje</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Kranj</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-052</ctml:parentRef>
+    <ctml:wikiDataId>Q2321016</ctml:wikiDataId>
+    <ctml:latitude>46.22000000</ctml:latitude>
+    <ctml:longitude>14.33667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104194" kind="city">
+    <ctml:name>Mojstrana</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Kranjska Gora</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-053</ctml:parentRef>
+    <ctml:wikiDataId>Q2201568</ctml:wikiDataId>
+    <ctml:latitude>46.42383000</ctml:latitude>
+    <ctml:longitude>13.87520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104164" kind="city">
+    <ctml:name>Leskovec pri Krškem</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Krško</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-054</ctml:parentRef>
+    <ctml:wikiDataId>Q2125054</ctml:wikiDataId>
+    <ctml:latitude>45.93566000</ctml:latitude>
+    <ctml:longitude>15.47184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104267" kind="city">
+    <ctml:name>Senovo</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Krško</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-054</ctml:parentRef>
+    <ctml:wikiDataId>Q2327320</ctml:wikiDataId>
+    <ctml:latitude>46.02361000</ctml:latitude>
+    <ctml:longitude>15.47694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104101" kind="city">
+    <ctml:name>Dravlje</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Ljubljana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-061</ctml:parentRef>
+    <ctml:wikiDataId>Q630081</ctml:wikiDataId>
+    <ctml:latitude>46.07290000</ctml:latitude>
+    <ctml:longitude>14.44741000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104129" kind="city">
+    <ctml:name>Jarše</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Ljubljana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-061</ctml:parentRef>
+    <ctml:wikiDataId>Q6961712</ctml:wikiDataId>
+    <ctml:latitude>46.07345000</ctml:latitude>
+    <ctml:longitude>14.55431000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104169" kind="city">
+    <ctml:name>Ljubljana</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Ljubljana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-061</ctml:parentRef>
+    <ctml:wikiDataId>Q437</ctml:wikiDataId>
+    <ctml:latitude>46.05108000</ctml:latitude>
+    <ctml:longitude>14.50513000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104212" kind="city">
+    <ctml:name>Opština Ljubljana-Center</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Ljubljana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-061</ctml:parentRef>
+    <ctml:wikiDataId>Q2000244</ctml:wikiDataId>
+    <ctml:latitude>46.05000000</ctml:latitude>
+    <ctml:longitude>14.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104213" kind="city">
+    <ctml:name>Opština Ljubljana-Moste-Polje</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Ljubljana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-061</ctml:parentRef>
+    <ctml:wikiDataId>Q2000244</ctml:wikiDataId>
+    <ctml:latitude>46.06667000</ctml:latitude>
+    <ctml:longitude>14.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104262" kind="city">
+    <ctml:name>Rožnik</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Ljubljana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-061</ctml:parentRef>
+    <ctml:wikiDataId>Q6961265</ctml:wikiDataId>
+    <ctml:latitude>46.05999000</ctml:latitude>
+    <ctml:longitude>14.46779000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104349" kind="city">
+    <ctml:name>Šentvid</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Ljubljana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-061</ctml:parentRef>
+    <ctml:wikiDataId>Q12068719</ctml:wikiDataId>
+    <ctml:latitude>46.10559000</ctml:latitude>
+    <ctml:longitude>14.43329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104278" kind="city">
+    <ctml:name>Sostro</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Ljubljana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-061</ctml:parentRef>
+    <ctml:wikiDataId>Q12806958</ctml:wikiDataId>
+    <ctml:latitude>46.04341000</ctml:latitude>
+    <ctml:longitude>14.67293000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104300" kind="city">
+    <ctml:name>Trnovo</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Ljubljana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-061</ctml:parentRef>
+    <ctml:wikiDataId>Q4863552</ctml:wikiDataId>
+    <ctml:latitude>46.02412000</ctml:latitude>
+    <ctml:longitude>14.48891000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104315" kind="city">
+    <ctml:name>Vič</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Ljubljana</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-061</ctml:parentRef>
+    <ctml:wikiDataId>Q7938065</ctml:wikiDataId>
+    <ctml:latitude>46.00779000</ctml:latitude>
+    <ctml:longitude>14.46968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104074" kind="city">
+    <ctml:name>Bresternica</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Maribor</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-070</ctml:parentRef>
+    <ctml:wikiDataId>Q2091787</ctml:wikiDataId>
+    <ctml:latitude>46.56972000</ctml:latitude>
+    <ctml:longitude>15.57500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104132" kind="city">
+    <ctml:name>Kamnica</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Maribor</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-070</ctml:parentRef>
+    <ctml:wikiDataId>Q2239459</ctml:wikiDataId>
+    <ctml:latitude>46.57444000</ctml:latitude>
+    <ctml:longitude>15.61417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104165" kind="city">
+    <ctml:name>Limbuš</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Maribor</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-070</ctml:parentRef>
+    <ctml:wikiDataId>Q2459309</ctml:wikiDataId>
+    <ctml:latitude>46.55361000</ctml:latitude>
+    <ctml:longitude>15.58361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104219" kind="city">
+    <ctml:name>Pekre</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Maribor</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-070</ctml:parentRef>
+    <ctml:wikiDataId>Q2775780</ctml:wikiDataId>
+    <ctml:latitude>46.54722000</ctml:latitude>
+    <ctml:longitude>15.59556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104251" kind="city">
+    <ctml:name>Razvanje</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Maribor</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-070</ctml:parentRef>
+    <ctml:wikiDataId>Q2195203</ctml:wikiDataId>
+    <ctml:latitude>46.51444000</ctml:latitude>
+    <ctml:longitude>15.63611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104215" kind="city">
+    <ctml:name>Opština [historical] Ljubljana-Šiška</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Medvode</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-071</ctml:parentRef>
+    <ctml:wikiDataId>Q2354591</ctml:wikiDataId>
+    <ctml:latitude>46.16667000</ctml:latitude>
+    <ctml:longitude>14.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104333" kind="city">
+    <ctml:name>Zgornje Pirniče</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Medvode</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-071</ctml:parentRef>
+    <ctml:wikiDataId>Q2331195</ctml:wikiDataId>
+    <ctml:latitude>46.14251000</ctml:latitude>
+    <ctml:longitude>14.43158000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104235" kind="city">
+    <ctml:name>Preserje pri Radomljah</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Mengeš</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-072</ctml:parentRef>
+    <ctml:wikiDataId>Q2359769</ctml:wikiDataId>
+    <ctml:latitude>46.16911000</ctml:latitude>
+    <ctml:longitude>14.59698000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104065" kind="city">
+    <ctml:name>Bilje</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Miren–Kostanjevica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-075</ctml:parentRef>
+    <ctml:wikiDataId>Q2085029</ctml:wikiDataId>
+    <ctml:latitude>45.89444000</ctml:latitude>
+    <ctml:longitude>13.63222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104062" kind="city">
+    <ctml:name>Bakovci</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Murska Sobota</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-080</ctml:parentRef>
+    <ctml:wikiDataId>Q790494</ctml:wikiDataId>
+    <ctml:latitude>46.61889000</ctml:latitude>
+    <ctml:longitude>16.15028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104336" kind="city">
+    <ctml:name>Černelavci</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Murska Sobota</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-080</ctml:parentRef>
+    <ctml:wikiDataId>Q902737</ctml:wikiDataId>
+    <ctml:latitude>46.66667000</ctml:latitude>
+    <ctml:longitude>16.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104153" kind="city">
+    <ctml:name>Krog</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Murska Sobota</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-080</ctml:parentRef>
+    <ctml:wikiDataId>Q898476</ctml:wikiDataId>
+    <ctml:latitude>46.63806000</ctml:latitude>
+    <ctml:longitude>16.14139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104247" kind="city">
+    <ctml:name>Rakičan</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Murska Sobota</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-080</ctml:parentRef>
+    <ctml:wikiDataId>Q769661</ctml:wikiDataId>
+    <ctml:latitude>46.65167000</ctml:latitude>
+    <ctml:longitude>16.20417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104154" kind="city">
+    <ctml:name>Kromberk</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Nova Gorica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-084</ctml:parentRef>
+    <ctml:wikiDataId>Q2478784</ctml:wikiDataId>
+    <ctml:latitude>45.96083000</ctml:latitude>
+    <ctml:longitude>13.66556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104237" kind="city">
+    <ctml:name>Prvačina</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Nova Gorica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-084</ctml:parentRef>
+    <ctml:wikiDataId>Q600666</ctml:wikiDataId>
+    <ctml:latitude>45.89000000</ctml:latitude>
+    <ctml:longitude>13.71806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104342" kind="city">
+    <ctml:name>Šempas</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Nova Gorica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-084</ctml:parentRef>
+    <ctml:wikiDataId>Q2418986</ctml:wikiDataId>
+    <ctml:latitude>45.93028000</ctml:latitude>
+    <ctml:longitude>13.74361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104276" kind="city">
+    <ctml:name>Solkan</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Nova Gorica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-084</ctml:parentRef>
+    <ctml:wikiDataId>Q543631</ctml:wikiDataId>
+    <ctml:latitude>45.97139000</ctml:latitude>
+    <ctml:longitude>13.64944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104176" kind="city">
+    <ctml:name>Lucija</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Piran</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-090</ctml:parentRef>
+    <ctml:wikiDataId>Q565175</ctml:wikiDataId>
+    <ctml:latitude>45.50526000</ctml:latitude>
+    <ctml:longitude>13.60240000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104229" kind="city">
+    <ctml:name>Portorož</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Piran</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-090</ctml:parentRef>
+    <ctml:wikiDataId>Q564988</ctml:wikiDataId>
+    <ctml:latitude>45.51429000</ctml:latitude>
+    <ctml:longitude>13.59206000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104269" kind="city">
+    <ctml:name>Seča</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Piran</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-090</ctml:parentRef>
+    <ctml:wikiDataId>Q565204</ctml:wikiDataId>
+    <ctml:latitude>45.49584000</ctml:latitude>
+    <ctml:longitude>13.61466000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104103" kind="city">
+    <ctml:name>Fram</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Rače–Fram</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-098</ctml:parentRef>
+    <ctml:wikiDataId>Q3459381</ctml:wikiDataId>
+    <ctml:latitude>46.45600000</ctml:latitude>
+    <ctml:longitude>15.63007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104198" kind="city">
+    <ctml:name>Morje</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Rače–Fram</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-098</ctml:parentRef>
+    <ctml:wikiDataId>Q654941</ctml:wikiDataId>
+    <ctml:latitude>46.44444000</ctml:latitude>
+    <ctml:longitude>15.62139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104162" kind="city">
+    <ctml:name>Lesce</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Radovljica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-102</ctml:parentRef>
+    <ctml:wikiDataId>Q923869</ctml:wikiDataId>
+    <ctml:latitude>46.36111000</ctml:latitude>
+    <ctml:longitude>14.15778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104146" kind="city">
+    <ctml:name>Kotlje</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Ravne na Koroškem</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-103</ctml:parentRef>
+    <ctml:wikiDataId>Q2306502</ctml:wikiDataId>
+    <ctml:latitude>46.52139000</ctml:latitude>
+    <ctml:longitude>14.98694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104253" kind="city">
+    <ctml:name>Renče</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Renče–Vogrsko</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-201</ctml:parentRef>
+    <ctml:wikiDataId>Q2362950</ctml:wikiDataId>
+    <ctml:latitude>45.89000000</ctml:latitude>
+    <ctml:longitude>13.66861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104319" kind="city">
+    <ctml:name>Volčja Draga</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Renče–Vogrsko</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-201</ctml:parentRef>
+    <ctml:wikiDataId>Q2713033</ctml:wikiDataId>
+    <ctml:latitude>45.90694000</ctml:latitude>
+    <ctml:longitude>13.67750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104066" kind="city">
+    <ctml:name>Bistrica ob Dravi</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Ruše</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-108</ctml:parentRef>
+    <ctml:wikiDataId>Q2480068</ctml:wikiDataId>
+    <ctml:latitude>46.55419000</ctml:latitude>
+    <ctml:longitude>15.54855000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104261" kind="city">
+    <ctml:name>Rožna Dolina</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Šempeter–Vrtojba</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-183</ctml:parentRef>
+    <ctml:wikiDataId>Q2143232</ctml:wikiDataId>
+    <ctml:latitude>45.94194000</ctml:latitude>
+    <ctml:longitude>13.66779000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104322" kind="city">
+    <ctml:name>Vrtojba</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Šempeter–Vrtojba</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-183</ctml:parentRef>
+    <ctml:wikiDataId>Q2233861</ctml:wikiDataId>
+    <ctml:latitude>45.91250000</ctml:latitude>
+    <ctml:longitude>13.63417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104117" kind="city">
+    <ctml:name>Hrastje</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Šenčur</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-117</ctml:parentRef>
+    <ctml:wikiDataId>Q2348978</ctml:wikiDataId>
+    <ctml:latitude>46.21667000</ctml:latitude>
+    <ctml:longitude>14.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104265" kind="city">
+    <ctml:name>Selnica ob Muri</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Šentilj</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-118</ctml:parentRef>
+    <ctml:wikiDataId>Q4355982</ctml:wikiDataId>
+    <ctml:latitude>46.68333000</ctml:latitude>
+    <ctml:longitude>15.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104348" kind="city">
+    <ctml:name>Šentrupert</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Šentrupert</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-211</ctml:parentRef>
+    <ctml:wikiDataId>Q2097770</ctml:wikiDataId>
+    <ctml:latitude>45.97778000</ctml:latitude>
+    <ctml:longitude>15.09556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104289" kind="city">
+    <ctml:name>Sv. Duh</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Škofja Loka</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-122</ctml:parentRef>
+    <ctml:wikiDataId>Q2682358</ctml:wikiDataId>
+    <ctml:latitude>46.18333000</ctml:latitude>
+    <ctml:longitude>14.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104157" kind="city">
+    <ctml:name>Lavrica</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Škofljica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-123</ctml:parentRef>
+    <ctml:wikiDataId>Q2640043</ctml:wikiDataId>
+    <ctml:latitude>46.00002000</ctml:latitude>
+    <ctml:longitude>14.55730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104159" kind="city">
+    <ctml:name>Legen</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Slovenj Gradec</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-112</ctml:parentRef>
+    <ctml:wikiDataId>Q635831</ctml:wikiDataId>
+    <ctml:latitude>46.50651000</ctml:latitude>
+    <ctml:longitude>15.14424000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104218" kind="city">
+    <ctml:name>Pameče</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Slovenj Gradec</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-112</ctml:parentRef>
+    <ctml:wikiDataId>Q2627587</ctml:wikiDataId>
+    <ctml:latitude>46.53417000</ctml:latitude>
+    <ctml:longitude>15.07917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104361" kind="city">
+    <ctml:name>Šmartno pri Slovenj Gradcu</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Slovenj Gradec</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-112</ctml:parentRef>
+    <ctml:wikiDataId>Q2188264</ctml:wikiDataId>
+    <ctml:latitude>46.48944000</ctml:latitude>
+    <ctml:longitude>15.10667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104232" kind="city">
+    <ctml:name>Pragersko</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Slovenska Bistrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-113</ctml:parentRef>
+    <ctml:wikiDataId>Q752081</ctml:wikiDataId>
+    <ctml:latitude>46.39667000</ctml:latitude>
+    <ctml:longitude>15.66000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104329" kind="city">
+    <ctml:name>Zgornja Polskava</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Slovenska Bistrica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-113</ctml:parentRef>
+    <ctml:wikiDataId>Q3470888</ctml:wikiDataId>
+    <ctml:latitude>46.42556000</ctml:latitude>
+    <ctml:longitude>15.61222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104248" kind="city">
+    <ctml:name>Ravne</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Šoštanj</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-126</ctml:parentRef>
+    <ctml:wikiDataId>Q2528962</ctml:wikiDataId>
+    <ctml:latitude>46.41413000</ctml:latitude>
+    <ctml:longitude>15.06087000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104296" kind="city">
+    <ctml:name>Topolšica</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Šoštanj</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-126</ctml:parentRef>
+    <ctml:wikiDataId>Q2078772</ctml:wikiDataId>
+    <ctml:latitude>46.40028000</ctml:latitude>
+    <ctml:longitude>15.02157000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104291" kind="city">
+    <ctml:name>Sveti Jurij ob Ščavnici</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Sveti Jurij v Slovenskih Goricah</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-210</ctml:parentRef>
+    <ctml:wikiDataId>Q3443710</ctml:wikiDataId>
+    <ctml:latitude>46.56950000</ctml:latitude>
+    <ctml:longitude>16.02347000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104068" kind="city">
+    <ctml:name>Bistrica pri Tržiču</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Tržič</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-131</ctml:parentRef>
+    <ctml:wikiDataId>Q2095150</ctml:wikiDataId>
+    <ctml:latitude>46.35472000</ctml:latitude>
+    <ctml:longitude>14.29167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104340" kind="city">
+    <ctml:name>Črnuče</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Trzin</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-186</ctml:parentRef>
+    <ctml:wikiDataId>Q9009660</ctml:wikiDataId>
+    <ctml:latitude>46.11506000</ctml:latitude>
+    <ctml:longitude>14.55371000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104307" kind="city">
+    <ctml:name>Verd</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Vrhnika</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-140</ctml:parentRef>
+    <ctml:wikiDataId>Q1883359</ctml:wikiDataId>
+    <ctml:latitude>45.95667000</ctml:latitude>
+    <ctml:longitude>14.30583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104126" kind="city">
+    <ctml:name>Izlake</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Zagorje ob Savi</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-142</ctml:parentRef>
+    <ctml:wikiDataId>Q1753813</ctml:wikiDataId>
+    <ctml:latitude>46.15000000</ctml:latitude>
+    <ctml:longitude>14.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104136" kind="city">
+    <ctml:name>Kisovec</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Zagorje ob Savi</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-142</ctml:parentRef>
+    <ctml:wikiDataId>Q2059110</ctml:wikiDataId>
+    <ctml:latitude>46.13911000</ctml:latitude>
+    <ctml:longitude>14.96295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104111" kind="city">
+    <ctml:name>Gotovlje</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Žalec</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-190</ctml:parentRef>
+    <ctml:wikiDataId>Q3499613</ctml:wikiDataId>
+    <ctml:latitude>46.27418000</ctml:latitude>
+    <ctml:longitude>15.15186000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104344" kind="city">
+    <ctml:name>Šempeter v Savinj. Dolini</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Žalec</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-190</ctml:parentRef>
+    <ctml:wikiDataId>Q1858063</ctml:wikiDataId>
+    <ctml:latitude>46.25639000</ctml:latitude>
+    <ctml:longitude>15.12194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104324" kind="city">
+    <ctml:name>Zabukovica</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Žalec</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-190</ctml:parentRef>
+    <ctml:wikiDataId>Q3438143</ctml:wikiDataId>
+    <ctml:latitude>46.21408000</ctml:latitude>
+    <ctml:longitude>15.15954000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SVN-104368" kind="city">
+    <ctml:name>Žirovnica</ctml:name>
+    <ctml:country>SVN</ctml:country>
+    <ctml:admin1>Žirovnica</ctml:admin1>
+    <ctml:parentRef>place:admin1:SI-192</ctml:parentRef>
+    <ctml:wikiDataId>Q3437411</ctml:wikiDataId>
+    <ctml:latitude>46.40472000</ctml:latitude>
+    <ctml:longitude>14.14000000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

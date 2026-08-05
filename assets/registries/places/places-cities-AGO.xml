@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:AGO-153645" kind="city">
+    <ctml:name>Ambriz</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Bengo</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BGO</ctml:parentRef>
+    <ctml:wikiDataId>Q3833</ctml:wikiDataId>
+    <ctml:latitude>-7.85740000</ctml:latitude>
+    <ctml:longitude>13.12510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-153646" kind="city">
+    <ctml:name>Bula Atumba</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Bengo</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BGO</ctml:parentRef>
+    <ctml:wikiDataId>Q3834</ctml:wikiDataId>
+    <ctml:latitude>-7.31170000</ctml:latitude>
+    <ctml:longitude>14.31470000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-153647" kind="city">
+    <ctml:name>Dande</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Bengo</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BGO</ctml:parentRef>
+    <ctml:wikiDataId>Q3835</ctml:wikiDataId>
+    <ctml:latitude>-8.11330000</ctml:latitude>
+    <ctml:longitude>13.76520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-153648" kind="city">
+    <ctml:name>Muxima</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Bengo</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BGO</ctml:parentRef>
+    <ctml:wikiDataId>Q3836</ctml:wikiDataId>
+    <ctml:latitude>-9.58790000</ctml:latitude>
+    <ctml:longitude>13.52510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-153653" kind="city">
+    <ctml:name>Baía Farta</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Benguela</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BGU</ctml:parentRef>
+    <ctml:wikiDataId>Q3831</ctml:wikiDataId>
+    <ctml:latitude>-12.57660000</ctml:latitude>
+    <ctml:longitude>13.47760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-153654" kind="city">
+    <ctml:name>Balombo</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Benguela</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BGU</ctml:parentRef>
+    <ctml:wikiDataId>Q3833</ctml:wikiDataId>
+    <ctml:latitude>-12.90460000</ctml:latitude>
+    <ctml:longitude>13.59590000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-153656" kind="city">
+    <ctml:name>Bocoio</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Benguela</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BGU</ctml:parentRef>
+    <ctml:wikiDataId>Q3835</ctml:wikiDataId>
+    <ctml:latitude>-12.53030000</ctml:latitude>
+    <ctml:longitude>13.40420000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-153659" kind="city">
+    <ctml:name>Caimbambo</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Benguela</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BGU</ctml:parentRef>
+    <ctml:wikiDataId>Q3839</ctml:wikiDataId>
+    <ctml:latitude>-12.61330000</ctml:latitude>
+    <ctml:longitude>14.41940000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-597" kind="city">
+    <ctml:name>Catumbela</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Benguela</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BGU</ctml:parentRef>
+    <ctml:wikiDataId>Q1051360</ctml:wikiDataId>
+    <ctml:latitude>-12.43002000</ctml:latitude>
+    <ctml:longitude>13.54677000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-153655" kind="city">
+    <ctml:name>Chongoroi</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Benguela</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BGU</ctml:parentRef>
+    <ctml:wikiDataId>Q3834</ctml:wikiDataId>
+    <ctml:latitude>-12.78880000</ctml:latitude>
+    <ctml:longitude>13.79750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-153658" kind="city">
+    <ctml:name>Cubal</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Benguela</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BGU</ctml:parentRef>
+    <ctml:wikiDataId>Q3838</ctml:wikiDataId>
+    <ctml:latitude>-12.58850000</ctml:latitude>
+    <ctml:longitude>14.42670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-153657" kind="city">
+    <ctml:name>Ganda</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Benguela</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BGU</ctml:parentRef>
+    <ctml:wikiDataId>Q3836</ctml:wikiDataId>
+    <ctml:latitude>-12.68250000</ctml:latitude>
+    <ctml:longitude>14.42330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-613" kind="city">
+    <ctml:name>Lobito</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Benguela</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BGU</ctml:parentRef>
+    <ctml:wikiDataId>Q223914</ctml:wikiDataId>
+    <ctml:latitude>-12.36440000</ctml:latitude>
+    <ctml:longitude>13.53601000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-595" kind="city">
+    <ctml:name>Camacupa</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Bié</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BIE</ctml:parentRef>
+    <ctml:wikiDataId>Q1027956</ctml:wikiDataId>
+    <ctml:latitude>-12.01667000</ctml:latitude>
+    <ctml:longitude>17.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-596" kind="city">
+    <ctml:name>Catabola</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Bié</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BIE</ctml:parentRef>
+    <ctml:wikiDataId>Q2341822</ctml:wikiDataId>
+    <ctml:latitude>-12.15000000</ctml:latitude>
+    <ctml:longitude>17.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-605" kind="city">
+    <ctml:name>Chissamba</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Bié</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-BIE</ctml:parentRef>
+    <ctml:wikiDataId>Q2944808</ctml:wikiDataId>
+    <ctml:latitude>-12.16667000</ctml:latitude>
+    <ctml:longitude>17.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-629" kind="city">
+    <ctml:name>Quibala</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Cuanza</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q602772</ctml:wikiDataId>
+    <ctml:latitude>-10.73366000</ctml:latitude>
+    <ctml:longitude>14.97995000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-635" kind="city">
+    <ctml:name>Uacu Cungo</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Cuanza</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-CUS</ctml:parentRef>
+    <ctml:wikiDataId>Q2944819</ctml:wikiDataId>
+    <ctml:latitude>-11.35669000</ctml:latitude>
+    <ctml:longitude>15.11719000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-594" kind="city">
+    <ctml:name>Camabatela</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Cuanza Norte</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-CNO</ctml:parentRef>
+    <ctml:wikiDataId>Q1619833</ctml:wikiDataId>
+    <ctml:latitude>-8.18812000</ctml:latitude>
+    <ctml:longitude>15.37495000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-600" kind="city">
+    <ctml:name>Caála</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huambo</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUA</ctml:parentRef>
+    <ctml:wikiDataId>Q1052090</ctml:wikiDataId>
+    <ctml:latitude>-12.85250000</ctml:latitude>
+    <ctml:longitude>15.56056000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-601" kind="city">
+    <ctml:name>Chela</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huambo</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUA</ctml:parentRef>
+    <ctml:wikiDataId>Q1052090</ctml:wikiDataId>
+    <ctml:latitude>-12.30261000</ctml:latitude>
+    <ctml:longitude>15.43358000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-614" kind="city">
+    <ctml:name>Longonjo</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huambo</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUA</ctml:parentRef>
+    <ctml:wikiDataId>Q2342492</ctml:wikiDataId>
+    <ctml:latitude>-12.90667000</ctml:latitude>
+    <ctml:longitude>15.25333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-592" kind="city">
+    <ctml:name>Caconda</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huíla</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUI</ctml:parentRef>
+    <ctml:wikiDataId>Q459360</ctml:wikiDataId>
+    <ctml:latitude>-13.73333000</ctml:latitude>
+    <ctml:longitude>15.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-593" kind="city">
+    <ctml:name>Caluquembe</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huíla</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUI</ctml:parentRef>
+    <ctml:wikiDataId>Q459360</ctml:wikiDataId>
+    <ctml:latitude>-13.92093000</ctml:latitude>
+    <ctml:longitude>14.53476000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-602" kind="city">
+    <ctml:name>Chibia</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huíla</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUI</ctml:parentRef>
+    <ctml:wikiDataId>Q1052090</ctml:wikiDataId>
+    <ctml:latitude>-15.23657000</ctml:latitude>
+    <ctml:longitude>13.88468000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-603" kind="city">
+    <ctml:name>Chicomba</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huíla</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUI</ctml:parentRef>
+    <ctml:wikiDataId>Q1052090</ctml:wikiDataId>
+    <ctml:latitude>-14.30788000</ctml:latitude>
+    <ctml:longitude>14.98672000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-604" kind="city">
+    <ctml:name>Chipindo</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huíla</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUI</ctml:parentRef>
+    <ctml:wikiDataId>Q1052090</ctml:wikiDataId>
+    <ctml:latitude>-13.86830000</ctml:latitude>
+    <ctml:longitude>15.73277000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-607" kind="city">
+    <ctml:name>Cuvango</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huíla</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUI</ctml:parentRef>
+    <ctml:wikiDataId>Q843980</ctml:wikiDataId>
+    <ctml:latitude>-14.27693000</ctml:latitude>
+    <ctml:longitude>16.31475000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-608" kind="city">
+    <ctml:name>Gambos</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huíla</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUI</ctml:parentRef>
+    <ctml:wikiDataId>Q843980</ctml:wikiDataId>
+    <ctml:latitude>-15.80926000</ctml:latitude>
+    <ctml:longitude>14.07661000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-610" kind="city">
+    <ctml:name>Humpata</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huíla</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUI</ctml:parentRef>
+    <ctml:wikiDataId>Q207322</ctml:wikiDataId>
+    <ctml:latitude>-15.07250000</ctml:latitude>
+    <ctml:longitude>13.36771000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-612" kind="city">
+    <ctml:name>Jamba</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huíla</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUI</ctml:parentRef>
+    <ctml:wikiDataId>Q291729</ctml:wikiDataId>
+    <ctml:latitude>-14.76294000</ctml:latitude>
+    <ctml:longitude>15.83493000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-623" kind="city">
+    <ctml:name>Matala</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huíla</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUI</ctml:parentRef>
+    <ctml:wikiDataId>Q621001</ctml:wikiDataId>
+    <ctml:latitude>-15.23967000</ctml:latitude>
+    <ctml:longitude>15.17246000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-630" kind="city">
+    <ctml:name>Quilengues</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huíla</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUI</ctml:parentRef>
+    <ctml:wikiDataId>Q602772</ctml:wikiDataId>
+    <ctml:latitude>-13.99213000</ctml:latitude>
+    <ctml:longitude>13.76705000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-631" kind="city">
+    <ctml:name>Quipungo</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Huíla</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-HUI</ctml:parentRef>
+    <ctml:wikiDataId>Q602772</ctml:wikiDataId>
+    <ctml:latitude>-15.12203000</ctml:latitude>
+    <ctml:longitude>14.55953000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-589" kind="city">
+    <ctml:name>Belas</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Luanda</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-LUA</ctml:parentRef>
+    <ctml:wikiDataId>Q727233</ctml:wikiDataId>
+    <ctml:latitude>-9.06875000</ctml:latitude>
+    <ctml:longitude>13.16072000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-153641" kind="city">
+    <ctml:name>Cacuaco</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Luanda</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-LUA</ctml:parentRef>
+    <ctml:wikiDataId>Q3829</ctml:wikiDataId>
+    <ctml:latitude>-8.82960000</ctml:latitude>
+    <ctml:longitude>13.29730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-153642" kind="city">
+    <ctml:name>Cazenga</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Luanda</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-LUA</ctml:parentRef>
+    <ctml:wikiDataId>Q3830</ctml:wikiDataId>
+    <ctml:latitude>-8.82860000</ctml:latitude>
+    <ctml:longitude>13.26650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-611" kind="city">
+    <ctml:name>Icolo e Bengo</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Luanda</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-LUA</ctml:parentRef>
+    <ctml:wikiDataId>Q291729</ctml:wikiDataId>
+    <ctml:latitude>-9.24191000</ctml:latitude>
+    <ctml:longitude>13.73549000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-615" kind="city">
+    <ctml:name>Luanda</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Luanda</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-LUA</ctml:parentRef>
+    <ctml:wikiDataId>Q3897</ctml:wikiDataId>
+    <ctml:latitude>-8.83682000</ctml:latitude>
+    <ctml:longitude>13.23432000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-153643" kind="city">
+    <ctml:name>Talatona</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Luanda</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-LUA</ctml:parentRef>
+    <ctml:wikiDataId>Q3831</ctml:wikiDataId>
+    <ctml:latitude>-8.89570000</ctml:latitude>
+    <ctml:longitude>13.19430000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-153644" kind="city">
+    <ctml:name>Viana</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Luanda</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-LUA</ctml:parentRef>
+    <ctml:wikiDataId>Q3832</ctml:wikiDataId>
+    <ctml:latitude>-8.90210000</ctml:latitude>
+    <ctml:longitude>13.28610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-618" kind="city">
+    <ctml:name>Lucapa</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Lunda Norte</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-LNO</ctml:parentRef>
+    <ctml:wikiDataId>Q620866</ctml:wikiDataId>
+    <ctml:latitude>-8.68337000</ctml:latitude>
+    <ctml:longitude>20.27045000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-599" kind="city">
+    <ctml:name>Cazaji</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Lunda Sul</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-LSU</ctml:parentRef>
+    <ctml:wikiDataId>Q956745</ctml:wikiDataId>
+    <ctml:latitude>-11.06715000</ctml:latitude>
+    <ctml:longitude>20.70148000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-621" kind="city">
+    <ctml:name>Léua</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Moxico</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-MOX</ctml:parentRef>
+    <ctml:wikiDataId>Q618643</ctml:wikiDataId>
+    <ctml:latitude>-11.65000000</ctml:latitude>
+    <ctml:longitude>20.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-616" kind="city">
+    <ctml:name>Luau</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Moxico</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-MOX</ctml:parentRef>
+    <ctml:wikiDataId>Q1872804</ctml:wikiDataId>
+    <ctml:latitude>-10.70727000</ctml:latitude>
+    <ctml:longitude>22.22466000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-620" kind="city">
+    <ctml:name>Lumeje</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Moxico</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-MOX</ctml:parentRef>
+    <ctml:wikiDataId>Q618643</ctml:wikiDataId>
+    <ctml:latitude>-11.55000000</ctml:latitude>
+    <ctml:longitude>20.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-157070" kind="city">
+    <ctml:name>Bibala</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Namibe</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-NAM</ctml:parentRef>
+    <ctml:wikiDataId>Q2010894</ctml:wikiDataId>
+    <ctml:latitude>-14.93330000</ctml:latitude>
+    <ctml:longitude>13.68330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-157072" kind="city">
+    <ctml:name>Camucuio</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Namibe</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-NAM</ctml:parentRef>
+    <ctml:wikiDataId>Q2010896</ctml:wikiDataId>
+    <ctml:latitude>-15.45000000</ctml:latitude>
+    <ctml:longitude>12.88330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-157068" kind="city">
+    <ctml:name>Namibe</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Namibe</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-NAM</ctml:parentRef>
+    <ctml:wikiDataId>Q208045</ctml:wikiDataId>
+    <ctml:latitude>-15.19670000</ctml:latitude>
+    <ctml:longitude>12.15220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-157069" kind="city">
+    <ctml:name>Tombua</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Namibe</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-NAM</ctml:parentRef>
+    <ctml:wikiDataId>Q2010906</ctml:wikiDataId>
+    <ctml:latitude>-15.78330000</ctml:latitude>
+    <ctml:longitude>11.86670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-157071" kind="city">
+    <ctml:name>Virei</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Namibe</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-NAM</ctml:parentRef>
+    <ctml:wikiDataId>Q2465824</ctml:wikiDataId>
+    <ctml:latitude>-14.46670000</ctml:latitude>
+    <ctml:longitude>13.26670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-626" kind="city">
+    <ctml:name>N'zeto</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Zaire</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-ZAI</ctml:parentRef>
+    <ctml:wikiDataId>Q2351452</ctml:wikiDataId>
+    <ctml:latitude>-7.23116000</ctml:latitude>
+    <ctml:longitude>12.86660000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AGO-633" kind="city">
+    <ctml:name>Soio</ctml:name>
+    <ctml:country>AGO</ctml:country>
+    <ctml:admin1>Zaire</ctml:admin1>
+    <ctml:parentRef>place:admin1:AO-ZAI</ctml:parentRef>
+    <ctml:wikiDataId>Q1015108</ctml:wikiDataId>
+    <ctml:latitude>-6.13490000</ctml:latitude>
+    <ctml:longitude>12.36894000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

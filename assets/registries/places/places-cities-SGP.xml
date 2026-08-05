@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SGP-153462" kind="city">
+    <ctml:name>Bukit Timah</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>Central Singapore</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q161409</ctml:wikiDataId>
+    <ctml:latitude>1.32940000</ctml:latitude>
+    <ctml:longitude>103.80210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153466" kind="city">
+    <ctml:name>Downtown Core</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>Central Singapore</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q149267</ctml:wikiDataId>
+    <ctml:latitude>1.27800000</ctml:latitude>
+    <ctml:longitude>103.85200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153463" kind="city">
+    <ctml:name>Geylang</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>Central Singapore</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q160823</ctml:wikiDataId>
+    <ctml:latitude>1.31820000</ctml:latitude>
+    <ctml:longitude>103.88710000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153467" kind="city">
+    <ctml:name>Kallang</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>Central Singapore</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q149258</ctml:wikiDataId>
+    <ctml:latitude>1.31060000</ctml:latitude>
+    <ctml:longitude>103.86600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153459" kind="city">
+    <ctml:name>Marine Parade</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>Central Singapore</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q185477</ctml:wikiDataId>
+    <ctml:latitude>1.30300000</ctml:latitude>
+    <ctml:longitude>103.90720000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153461" kind="city">
+    <ctml:name>Novena</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>Central Singapore</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q165441</ctml:wikiDataId>
+    <ctml:latitude>1.32010000</ctml:latitude>
+    <ctml:longitude>103.84390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153464" kind="city">
+    <ctml:name>Orchard Road</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>Central Singapore</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q153218</ctml:wikiDataId>
+    <ctml:latitude>1.30360000</ctml:latitude>
+    <ctml:longitude>103.83180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153468" kind="city">
+    <ctml:name>Outram</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>Central Singapore</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q149257</ctml:wikiDataId>
+    <ctml:latitude>1.28190000</ctml:latitude>
+    <ctml:longitude>103.83900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153465" kind="city">
+    <ctml:name>Rochor</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>Central Singapore</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q153208</ctml:wikiDataId>
+    <ctml:latitude>1.30490000</ctml:latitude>
+    <ctml:longitude>103.85200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-104057" kind="city">
+    <ctml:name>Singapore</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>Central Singapore</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q191698</ctml:wikiDataId>
+    <ctml:latitude>1.28967000</ctml:latitude>
+    <ctml:longitude>103.85007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153460" kind="city">
+    <ctml:name>Tanjong Pagar</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>Central Singapore</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q171064</ctml:wikiDataId>
+    <ctml:latitude>1.27640000</ctml:latitude>
+    <ctml:longitude>103.84340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153469" kind="city">
+    <ctml:name>Toa Payoh</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>Central Singapore</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q149252</ctml:wikiDataId>
+    <ctml:latitude>1.33540000</ctml:latitude>
+    <ctml:longitude>103.84970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153475" kind="city">
+    <ctml:name>Ang Mo Kio</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>North East</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q213899</ctml:wikiDataId>
+    <ctml:latitude>1.36980000</ctml:latitude>
+    <ctml:longitude>103.84610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153472" kind="city">
+    <ctml:name>Hougang</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>North East</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q215976</ctml:wikiDataId>
+    <ctml:latitude>1.37360000</ctml:latitude>
+    <ctml:longitude>103.88670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153474" kind="city">
+    <ctml:name>Punggol</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>North East</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q217117</ctml:wikiDataId>
+    <ctml:latitude>1.40510000</ctml:latitude>
+    <ctml:longitude>103.90230000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153471" kind="city">
+    <ctml:name>Sengkang</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>North East</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q259678</ctml:wikiDataId>
+    <ctml:latitude>1.39010000</ctml:latitude>
+    <ctml:longitude>103.89520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153473" kind="city">
+    <ctml:name>Serangoon</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>North East</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q222710</ctml:wikiDataId>
+    <ctml:latitude>1.34960000</ctml:latitude>
+    <ctml:longitude>103.87370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153476" kind="city">
+    <ctml:name>Sembawang</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1531283</ctml:wikiDataId>
+    <ctml:latitude>1.44910000</ctml:latitude>
+    <ctml:longitude>103.82010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-104058" kind="city">
+    <ctml:name>Woodlands</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q334</ctml:wikiDataId>
+    <ctml:latitude>1.43801000</ctml:latitude>
+    <ctml:longitude>103.78877000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153470" kind="city">
+    <ctml:name>Yishun</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>North West</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q199051</ctml:wikiDataId>
+    <ctml:latitude>1.42930000</ctml:latitude>
+    <ctml:longitude>103.83550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153478" kind="city">
+    <ctml:name>Bedok</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>South East</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q239092</ctml:wikiDataId>
+    <ctml:latitude>1.32360000</ctml:latitude>
+    <ctml:longitude>103.92730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153479" kind="city">
+    <ctml:name>Pasir Ris</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>South East</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q230274</ctml:wikiDataId>
+    <ctml:latitude>1.37390000</ctml:latitude>
+    <ctml:longitude>103.94930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153477" kind="city">
+    <ctml:name>Tampines</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>South East</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q191699</ctml:wikiDataId>
+    <ctml:latitude>1.35470000</ctml:latitude>
+    <ctml:longitude>103.94370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153481" kind="city">
+    <ctml:name>Bukit Batok</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>South West</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q225021</ctml:wikiDataId>
+    <ctml:latitude>1.34960000</ctml:latitude>
+    <ctml:longitude>103.75280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153482" kind="city">
+    <ctml:name>Bukit Panjang</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>South West</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q199242</ctml:wikiDataId>
+    <ctml:latitude>1.37860000</ctml:latitude>
+    <ctml:longitude>103.76260000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SGP-153480" kind="city">
+    <ctml:name>Jurong West</ctml:name>
+    <ctml:country>SGP</ctml:country>
+    <ctml:admin1>South West</ctml:admin1>
+    <ctml:parentRef>place:admin1:SG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q190717</ctml:wikiDataId>
+    <ctml:latitude>1.33960000</ctml:latitude>
+    <ctml:longitude>103.70730000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

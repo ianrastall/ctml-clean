@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:CMR-19148" kind="city">
+    <ctml:name>Bankim</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q2629132</ctml:wikiDataId>
+    <ctml:latitude>6.08303000</ctml:latitude>
+    <ctml:longitude>11.49050000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19150" kind="city">
+    <ctml:name>Banyo</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q520600</ctml:wikiDataId>
+    <ctml:latitude>6.75000000</ctml:latitude>
+    <ctml:longitude>11.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19162" kind="city">
+    <ctml:name>Bélel</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q2929807</ctml:wikiDataId>
+    <ctml:latitude>7.05000000</ctml:latitude>
+    <ctml:longitude>14.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19168" kind="city">
+    <ctml:name>Djohong</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q1100817</ctml:wikiDataId>
+    <ctml:latitude>6.83333000</ctml:latitude>
+    <ctml:longitude>14.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19187" kind="city">
+    <ctml:name>Kontcha</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q2443778</ctml:wikiDataId>
+    <ctml:latitude>7.96667000</ctml:latitude>
+    <ctml:longitude>12.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19203" kind="city">
+    <ctml:name>Mayo-Banyo</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q2443291</ctml:wikiDataId>
+    <ctml:latitude>6.58138000</ctml:latitude>
+    <ctml:longitude>11.73522000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19218" kind="city">
+    <ctml:name>Meïganga</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q2629052</ctml:wikiDataId>
+    <ctml:latitude>6.51667000</ctml:latitude>
+    <ctml:longitude>14.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19256" kind="city">
+    <ctml:name>Somié</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q2708780</ctml:wikiDataId>
+    <ctml:latitude>6.45843000</ctml:latitude>
+    <ctml:longitude>11.43299000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19258" kind="city">
+    <ctml:name>Tibati</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q2005262</ctml:wikiDataId>
+    <ctml:latitude>6.46504000</ctml:latitude>
+    <ctml:longitude>12.62843000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19259" kind="city">
+    <ctml:name>Tignère</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q2005262</ctml:wikiDataId>
+    <ctml:latitude>7.36667000</ctml:latitude>
+    <ctml:longitude>12.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19262" kind="city">
+    <ctml:name>Vina</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Adamawa</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-AD</ctml:parentRef>
+    <ctml:wikiDataId>Q667019</ctml:wikiDataId>
+    <ctml:latitude>7.16365000</ctml:latitude>
+    <ctml:longitude>13.72711000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19134" kind="city">
+    <ctml:name>Akono</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q322917</ctml:wikiDataId>
+    <ctml:latitude>3.50000000</ctml:latitude>
+    <ctml:longitude>11.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19135" kind="city">
+    <ctml:name>Akonolinga</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q2829121</ctml:wikiDataId>
+    <ctml:latitude>3.76667000</ctml:latitude>
+    <ctml:longitude>12.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19139" kind="city">
+    <ctml:name>Bafia</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q799790</ctml:wikiDataId>
+    <ctml:latitude>4.75000000</ctml:latitude>
+    <ctml:longitude>11.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19174" kind="city">
+    <ctml:name>Eséka</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q3591508</ctml:wikiDataId>
+    <ctml:latitude>3.65000000</ctml:latitude>
+    <ctml:longitude>10.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19173" kind="city">
+    <ctml:name>Essé</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q23675648</ctml:wikiDataId>
+    <ctml:latitude>4.10000000</ctml:latitude>
+    <ctml:longitude>11.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19270" kind="city">
+    <ctml:name>Évodoula</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q910616</ctml:wikiDataId>
+    <ctml:latitude>4.08333000</ctml:latitude>
+    <ctml:longitude>11.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19208" kind="city">
+    <ctml:name>Mbalmayo</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q2702755</ctml:wikiDataId>
+    <ctml:latitude>3.51667000</ctml:latitude>
+    <ctml:longitude>11.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19209" kind="city">
+    <ctml:name>Mbam-Et-Inoubou</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q2702755</ctml:wikiDataId>
+    <ctml:latitude>4.73754000</ctml:latitude>
+    <ctml:longitude>10.96972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19210" kind="city">
+    <ctml:name>Mbandjok</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q2702755</ctml:wikiDataId>
+    <ctml:latitude>4.45000000</ctml:latitude>
+    <ctml:longitude>11.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19213" kind="city">
+    <ctml:name>Mbankomo</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q23671107</ctml:wikiDataId>
+    <ctml:latitude>3.78333000</ctml:latitude>
+    <ctml:longitude>11.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19216" kind="city">
+    <ctml:name>Mefou-et-Akono</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q2444484</ctml:wikiDataId>
+    <ctml:latitude>3.58706000</ctml:latitude>
+    <ctml:longitude>11.36089000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19219" kind="city">
+    <ctml:name>Mfoundi</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q2445046</ctml:wikiDataId>
+    <ctml:latitude>3.86670000</ctml:latitude>
+    <ctml:longitude>11.51670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19221" kind="city">
+    <ctml:name>Minta</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q2445046</ctml:wikiDataId>
+    <ctml:latitude>4.58333000</ctml:latitude>
+    <ctml:longitude>12.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19231" kind="city">
+    <ctml:name>Nanga Eboko</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q23667291</ctml:wikiDataId>
+    <ctml:latitude>4.68333000</ctml:latitude>
+    <ctml:longitude>12.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19233" kind="city">
+    <ctml:name>Ndikiniméki</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q23667291</ctml:wikiDataId>
+    <ctml:latitude>4.76667000</ctml:latitude>
+    <ctml:longitude>10.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19237" kind="city">
+    <ctml:name>Ngomedzap</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q745906</ctml:wikiDataId>
+    <ctml:latitude>3.25000000</ctml:latitude>
+    <ctml:longitude>11.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19238" kind="city">
+    <ctml:name>Ngoro</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q23665962</ctml:wikiDataId>
+    <ctml:latitude>4.95000000</ctml:latitude>
+    <ctml:longitude>11.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19243" kind="city">
+    <ctml:name>Nkoteng</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q999070</ctml:wikiDataId>
+    <ctml:latitude>4.51667000</ctml:latitude>
+    <ctml:longitude>12.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19245" kind="city">
+    <ctml:name>Ntui</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q999070</ctml:wikiDataId>
+    <ctml:latitude>4.45000000</ctml:latitude>
+    <ctml:longitude>11.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19246" kind="city">
+    <ctml:name>Obala</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q2604706</ctml:wikiDataId>
+    <ctml:latitude>4.16667000</ctml:latitude>
+    <ctml:longitude>11.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19247" kind="city">
+    <ctml:name>Okoa</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q2604706</ctml:wikiDataId>
+    <ctml:latitude>3.98333000</ctml:latitude>
+    <ctml:longitude>11.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19248" kind="city">
+    <ctml:name>Okola</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q2604706</ctml:wikiDataId>
+    <ctml:latitude>4.01667000</ctml:latitude>
+    <ctml:longitude>11.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19249" kind="city">
+    <ctml:name>Ombésa</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q2604706</ctml:wikiDataId>
+    <ctml:latitude>4.60000000</ctml:latitude>
+    <ctml:longitude>11.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19254" kind="city">
+    <ctml:name>Saa</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q23665342</ctml:wikiDataId>
+    <ctml:latitude>4.36667000</ctml:latitude>
+    <ctml:longitude>11.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19266" kind="city">
+    <ctml:name>Yaoundé</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q3808</ctml:wikiDataId>
+    <ctml:latitude>3.86667000</ctml:latitude>
+    <ctml:longitude>11.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19268" kind="city">
+    <ctml:name>Yoko</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Centre</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-CE</ctml:parentRef>
+    <ctml:wikiDataId>Q23663220</ctml:wikiDataId>
+    <ctml:latitude>5.53333000</ctml:latitude>
+    <ctml:longitude>12.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19132" kind="city">
+    <ctml:name>Abong Mbang</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>East</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q322917</ctml:wikiDataId>
+    <ctml:latitude>3.98333000</ctml:latitude>
+    <ctml:longitude>13.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19152" kind="city">
+    <ctml:name>Batouri</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>East</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q673185</ctml:wikiDataId>
+    <ctml:latitude>4.43333000</ctml:latitude>
+    <ctml:longitude>14.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19161" kind="city">
+    <ctml:name>Bélabo</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>East</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q2929807</ctml:wikiDataId>
+    <ctml:latitude>4.93333000</ctml:latitude>
+    <ctml:longitude>13.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19163" kind="city">
+    <ctml:name>Bétaré Oya</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>East</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q23676678</ctml:wikiDataId>
+    <ctml:latitude>5.60000000</ctml:latitude>
+    <ctml:longitude>14.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19166" kind="city">
+    <ctml:name>Dimako</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>East</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q1100817</ctml:wikiDataId>
+    <ctml:latitude>4.38333000</ctml:latitude>
+    <ctml:longitude>13.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19170" kind="city">
+    <ctml:name>Doumé</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>East</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q132830</ctml:wikiDataId>
+    <ctml:latitude>4.23333000</ctml:latitude>
+    <ctml:longitude>13.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19182" kind="city">
+    <ctml:name>Garoua Boulaï</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>East</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q5523752</ctml:wikiDataId>
+    <ctml:latitude>5.88333000</ctml:latitude>
+    <ctml:longitude>14.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19211" kind="city">
+    <ctml:name>Mbang</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>East</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q23671107</ctml:wikiDataId>
+    <ctml:latitude>4.58333000</ctml:latitude>
+    <ctml:longitude>13.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19232" kind="city">
+    <ctml:name>Ndelele</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>East</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q23667291</ctml:wikiDataId>
+    <ctml:latitude>4.04065000</ctml:latitude>
+    <ctml:longitude>14.92501000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19267" kind="city">
+    <ctml:name>Yokadouma</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>East</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-ES</ctml:parentRef>
+    <ctml:wikiDataId>Q2708630</ctml:wikiDataId>
+    <ctml:latitude>3.51667000</ctml:latitude>
+    <ctml:longitude>15.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19157" kind="city">
+    <ctml:name>Bogo</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Far North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q23676899</ctml:wikiDataId>
+    <ctml:latitude>10.73360000</ctml:latitude>
+    <ctml:longitude>14.60928000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19186" kind="city">
+    <ctml:name>Kaélé</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Far North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q2443778</ctml:wikiDataId>
+    <ctml:latitude>10.10917000</ctml:latitude>
+    <ctml:longitude>14.45083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19189" kind="city">
+    <ctml:name>Kousséri</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Far North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q697662</ctml:wikiDataId>
+    <ctml:latitude>12.07689000</ctml:latitude>
+    <ctml:longitude>15.03063000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19190" kind="city">
+    <ctml:name>Koza</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Far North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q23672974</ctml:wikiDataId>
+    <ctml:latitude>10.86846000</ctml:latitude>
+    <ctml:longitude>13.88205000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19199" kind="city">
+    <ctml:name>Makary</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Far North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q6738809</ctml:wikiDataId>
+    <ctml:latitude>12.57535000</ctml:latitude>
+    <ctml:longitude>14.45483000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19206" kind="city">
+    <ctml:name>Mayo-Sava</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Far North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q613340</ctml:wikiDataId>
+    <ctml:latitude>11.10682000</ctml:latitude>
+    <ctml:longitude>14.20560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19207" kind="city">
+    <ctml:name>Mayo-Tsanaga</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Far North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q613340</ctml:wikiDataId>
+    <ctml:latitude>10.58221000</ctml:latitude>
+    <ctml:longitude>13.79351000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19220" kind="city">
+    <ctml:name>Mindif</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Far North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q2445046</ctml:wikiDataId>
+    <ctml:latitude>10.39757000</ctml:latitude>
+    <ctml:longitude>14.43626000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19223" kind="city">
+    <ctml:name>Mokolo</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Far North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q2708658</ctml:wikiDataId>
+    <ctml:latitude>10.74244000</ctml:latitude>
+    <ctml:longitude>13.80227000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19224" kind="city">
+    <ctml:name>Mora</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Far North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q2708675</ctml:wikiDataId>
+    <ctml:latitude>11.04611000</ctml:latitude>
+    <ctml:longitude>14.14011000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19265" kind="city">
+    <ctml:name>Yagoua</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Far North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-EN</ctml:parentRef>
+    <ctml:wikiDataId>Q523657</ctml:wikiDataId>
+    <ctml:latitude>10.34107000</ctml:latitude>
+    <ctml:longitude>15.23288000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19158" kind="city">
+    <ctml:name>Bonabéri</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q4941069</ctml:wikiDataId>
+    <ctml:latitude>4.07142000</ctml:latitude>
+    <ctml:longitude>9.68177000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19164" kind="city">
+    <ctml:name>Diang</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q23676202</ctml:wikiDataId>
+    <ctml:latitude>4.25000000</ctml:latitude>
+    <ctml:longitude>10.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19165" kind="city">
+    <ctml:name>Dibombari</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q23676202</ctml:wikiDataId>
+    <ctml:latitude>4.17870000</ctml:latitude>
+    <ctml:longitude>9.65610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19167" kind="city">
+    <ctml:name>Dizangué</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q1100817</ctml:wikiDataId>
+    <ctml:latitude>3.76667000</ctml:latitude>
+    <ctml:longitude>9.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19172" kind="city">
+    <ctml:name>Edéa</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q1002900</ctml:wikiDataId>
+    <ctml:latitude>3.80000000</ctml:latitude>
+    <ctml:longitude>10.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19198" kind="city">
+    <ctml:name>Loum</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q1828275</ctml:wikiDataId>
+    <ctml:latitude>4.71820000</ctml:latitude>
+    <ctml:longitude>9.73510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19201" kind="city">
+    <ctml:name>Manjo</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q1888230</ctml:wikiDataId>
+    <ctml:latitude>4.84280000</ctml:latitude>
+    <ctml:longitude>9.82170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19212" kind="city">
+    <ctml:name>Mbanga</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q23671107</ctml:wikiDataId>
+    <ctml:latitude>4.50160000</ctml:latitude>
+    <ctml:longitude>9.56710000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19217" kind="city">
+    <ctml:name>Melong</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q2444484</ctml:wikiDataId>
+    <ctml:latitude>5.12181000</ctml:latitude>
+    <ctml:longitude>9.96143000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19225" kind="city">
+    <ctml:name>Mouanko</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q2708675</ctml:wikiDataId>
+    <ctml:latitude>3.63972000</ctml:latitude>
+    <ctml:longitude>9.77694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19234" kind="city">
+    <ctml:name>Ndom</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q12698776</ctml:wikiDataId>
+    <ctml:latitude>4.49780000</ctml:latitude>
+    <ctml:longitude>9.56280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19235" kind="city">
+    <ctml:name>Ngambé</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q12698776</ctml:wikiDataId>
+    <ctml:latitude>4.23343000</ctml:latitude>
+    <ctml:longitude>10.61532000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19242" kind="city">
+    <ctml:name>Nkongsamba</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q999070</ctml:wikiDataId>
+    <ctml:latitude>4.95470000</ctml:latitude>
+    <ctml:longitude>9.94040000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19250" kind="city">
+    <ctml:name>Penja</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q2604706</ctml:wikiDataId>
+    <ctml:latitude>4.63911000</ctml:latitude>
+    <ctml:longitude>9.67987000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19264" kind="city">
+    <ctml:name>Yabassi</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Littoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-LT</ctml:parentRef>
+    <ctml:wikiDataId>Q2465841</ctml:wikiDataId>
+    <ctml:latitude>4.45697000</ctml:latitude>
+    <ctml:longitude>9.96822000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19176" kind="city">
+    <ctml:name>Faro Department</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q955885</ctml:wikiDataId>
+    <ctml:latitude>8.25014000</ctml:latitude>
+    <ctml:longitude>12.87829000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19183" kind="city">
+    <ctml:name>Guider</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2708439</ctml:wikiDataId>
+    <ctml:latitude>9.93330000</ctml:latitude>
+    <ctml:longitude>13.94671000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19194" kind="city">
+    <ctml:name>Lagdo</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2533580</ctml:wikiDataId>
+    <ctml:latitude>9.05828000</ctml:latitude>
+    <ctml:longitude>13.66605000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19204" kind="city">
+    <ctml:name>Mayo-Louti</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2443752</ctml:wikiDataId>
+    <ctml:latitude>9.96577000</ctml:latitude>
+    <ctml:longitude>13.72738000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19205" kind="city">
+    <ctml:name>Mayo-Rey</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2443767</ctml:wikiDataId>
+    <ctml:latitude>8.12630000</ctml:latitude>
+    <ctml:longitude>14.61456000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19251" kind="city">
+    <ctml:name>Pitoa</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2604706</ctml:wikiDataId>
+    <ctml:latitude>9.38390000</ctml:latitude>
+    <ctml:longitude>13.50231000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19252" kind="city">
+    <ctml:name>Poli</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q23665280</ctml:wikiDataId>
+    <ctml:latitude>8.47560000</ctml:latitude>
+    <ctml:longitude>13.24097000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19253" kind="city">
+    <ctml:name>Rey Bouba</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q23665342</ctml:wikiDataId>
+    <ctml:latitude>8.67240000</ctml:latitude>
+    <ctml:longitude>14.17860000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19257" kind="city">
+    <ctml:name>Tcholliré</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>North</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NO</ctml:parentRef>
+    <ctml:wikiDataId>Q2708780</ctml:wikiDataId>
+    <ctml:latitude>8.40220000</ctml:latitude>
+    <ctml:longitude>14.16980000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19137" kind="city">
+    <ctml:name>Babanki</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Northwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q2841553</ctml:wikiDataId>
+    <ctml:latitude>6.11667000</ctml:latitude>
+    <ctml:longitude>10.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19141" kind="city">
+    <ctml:name>Bali</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Northwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q799808</ctml:wikiDataId>
+    <ctml:latitude>5.88737000</ctml:latitude>
+    <ctml:longitude>10.01176000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19151" kind="city">
+    <ctml:name>Batibo</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Northwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q520600</ctml:wikiDataId>
+    <ctml:latitude>5.83580000</ctml:latitude>
+    <ctml:longitude>9.85530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19155" kind="city">
+    <ctml:name>Belo</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Northwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q25337079</ctml:wikiDataId>
+    <ctml:latitude>6.13333000</ctml:latitude>
+    <ctml:longitude>10.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19159" kind="city">
+    <ctml:name>Boyo</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Northwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q4941069</ctml:wikiDataId>
+    <ctml:latitude>6.36365000</ctml:latitude>
+    <ctml:longitude>10.35540000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19180" kind="city">
+    <ctml:name>Fundong</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Northwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q1439847</ctml:wikiDataId>
+    <ctml:latitude>6.25000000</ctml:latitude>
+    <ctml:longitude>10.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19185" kind="city">
+    <ctml:name>Jakiri</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Northwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q2443778</ctml:wikiDataId>
+    <ctml:latitude>6.10000000</ctml:latitude>
+    <ctml:longitude>10.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19193" kind="city">
+    <ctml:name>Kumbo</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Northwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q2533580</ctml:wikiDataId>
+    <ctml:latitude>6.20000000</ctml:latitude>
+    <ctml:longitude>10.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19214" kind="city">
+    <ctml:name>Mbengwi</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Northwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q23671107</ctml:wikiDataId>
+    <ctml:latitude>6.01667000</ctml:latitude>
+    <ctml:longitude>10.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19222" kind="city">
+    <ctml:name>Mme-Bafumen</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Northwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q23669912</ctml:wikiDataId>
+    <ctml:latitude>6.33333000</ctml:latitude>
+    <ctml:longitude>10.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19241" kind="city">
+    <ctml:name>Njinikom</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Northwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q10600392</ctml:wikiDataId>
+    <ctml:latitude>6.23333000</ctml:latitude>
+    <ctml:longitude>10.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19263" kind="city">
+    <ctml:name>Wum</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Northwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-NW</ctml:parentRef>
+    <ctml:wikiDataId>Q2034978</ctml:wikiDataId>
+    <ctml:latitude>6.38333000</ctml:latitude>
+    <ctml:longitude>10.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19133" kind="city">
+    <ctml:name>Akom II</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>South</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q322917</ctml:wikiDataId>
+    <ctml:latitude>2.78333000</ctml:latitude>
+    <ctml:longitude>10.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19136" kind="city">
+    <ctml:name>Ambam</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>South</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2841553</ctml:wikiDataId>
+    <ctml:latitude>2.38333000</ctml:latitude>
+    <ctml:longitude>11.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:CMR-19191" kind="admin2">
+    <ctml:name>Kribi</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>South</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q997121</ctml:wikiDataId>
+    <ctml:latitude>2.93725000</ctml:latitude>
+    <ctml:longitude>9.90765000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19197" kind="city">
+    <ctml:name>Lolodorf</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>South</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q819314</ctml:wikiDataId>
+    <ctml:latitude>3.23333000</ctml:latitude>
+    <ctml:longitude>10.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19229" kind="city">
+    <ctml:name>Mvangué</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>South</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q23667291</ctml:wikiDataId>
+    <ctml:latitude>2.96667000</ctml:latitude>
+    <ctml:longitude>11.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19230" kind="city">
+    <ctml:name>Mvila</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>South</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q23667291</ctml:wikiDataId>
+    <ctml:latitude>2.79796000</ctml:latitude>
+    <ctml:longitude>11.39434000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19255" kind="city">
+    <ctml:name>Sangmélima</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>South</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2708780</ctml:wikiDataId>
+    <ctml:latitude>2.93333000</ctml:latitude>
+    <ctml:longitude>11.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19144" kind="city">
+    <ctml:name>Bamusso</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Southwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q528432</ctml:wikiDataId>
+    <ctml:latitude>4.45910000</ctml:latitude>
+    <ctml:longitude>8.90270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19154" kind="city">
+    <ctml:name>Bekondo</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Southwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q25337079</ctml:wikiDataId>
+    <ctml:latitude>4.68190000</ctml:latitude>
+    <ctml:longitude>9.32140000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19175" kind="city">
+    <ctml:name>Fako Division</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Southwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q955885</ctml:wikiDataId>
+    <ctml:latitude>4.16667000</ctml:latitude>
+    <ctml:longitude>9.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19177" kind="city">
+    <ctml:name>Fontem</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Southwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q9261275</ctml:wikiDataId>
+    <ctml:latitude>5.46850000</ctml:latitude>
+    <ctml:longitude>9.88180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19192" kind="city">
+    <ctml:name>Kumba</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Southwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q997047</ctml:wikiDataId>
+    <ctml:latitude>4.63630000</ctml:latitude>
+    <ctml:longitude>9.44690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19195" kind="city">
+    <ctml:name>Lebialem</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Southwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q2443757</ctml:wikiDataId>
+    <ctml:latitude>5.56043000</ctml:latitude>
+    <ctml:longitude>9.92316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19196" kind="city">
+    <ctml:name>Limbe</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Southwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q819314</ctml:wikiDataId>
+    <ctml:latitude>4.02356000</ctml:latitude>
+    <ctml:longitude>9.20607000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19200" kind="city">
+    <ctml:name>Mamfe</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Southwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q1888230</ctml:wikiDataId>
+    <ctml:latitude>5.75132000</ctml:latitude>
+    <ctml:longitude>9.31370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19226" kind="city">
+    <ctml:name>Mundemba</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Southwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q2708675</ctml:wikiDataId>
+    <ctml:latitude>4.94790000</ctml:latitude>
+    <ctml:longitude>8.87240000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19227" kind="city">
+    <ctml:name>Mutengene</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Southwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q10334043</ctml:wikiDataId>
+    <ctml:latitude>4.09130000</ctml:latitude>
+    <ctml:longitude>9.31440000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19228" kind="city">
+    <ctml:name>Muyuka</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Southwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q23667291</ctml:wikiDataId>
+    <ctml:latitude>4.28980000</ctml:latitude>
+    <ctml:longitude>9.41030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19240" kind="city">
+    <ctml:name>Nguti</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Southwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q10600392</ctml:wikiDataId>
+    <ctml:latitude>5.32990000</ctml:latitude>
+    <ctml:longitude>9.41850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19260" kind="city">
+    <ctml:name>Tiko</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>Southwest</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-SW</ctml:parentRef>
+    <ctml:wikiDataId>Q2228759</ctml:wikiDataId>
+    <ctml:latitude>4.07500000</ctml:latitude>
+    <ctml:longitude>9.36005000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19138" kind="city">
+    <ctml:name>Bafang</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q667828</ctml:wikiDataId>
+    <ctml:latitude>5.15705000</ctml:latitude>
+    <ctml:longitude>10.17710000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19143" kind="city">
+    <ctml:name>Bamendjou</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q528432</ctml:wikiDataId>
+    <ctml:latitude>5.38988000</ctml:latitude>
+    <ctml:longitude>10.33014000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19145" kind="city">
+    <ctml:name>Bana</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q528432</ctml:wikiDataId>
+    <ctml:latitude>5.14655000</ctml:latitude>
+    <ctml:longitude>10.27545000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19146" kind="city">
+    <ctml:name>Bandjoun</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2629132</ctml:wikiDataId>
+    <ctml:latitude>5.37568000</ctml:latitude>
+    <ctml:longitude>10.41326000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19147" kind="city">
+    <ctml:name>Bangangté</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2629132</ctml:wikiDataId>
+    <ctml:latitude>5.14079000</ctml:latitude>
+    <ctml:longitude>10.52535000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19149" kind="city">
+    <ctml:name>Bansoa</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q23676440</ctml:wikiDataId>
+    <ctml:latitude>5.44836000</ctml:latitude>
+    <ctml:longitude>10.31355000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19153" kind="city">
+    <ctml:name>Bazou</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q673185</ctml:wikiDataId>
+    <ctml:latitude>5.06001000</ctml:latitude>
+    <ctml:longitude>10.46751000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19171" kind="city">
+    <ctml:name>Dschang</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q289267</ctml:wikiDataId>
+    <ctml:latitude>5.44397000</ctml:latitude>
+    <ctml:longitude>10.05332000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19178" kind="city">
+    <ctml:name>Foumban</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q1439847</ctml:wikiDataId>
+    <ctml:latitude>5.72662000</ctml:latitude>
+    <ctml:longitude>10.89865000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19179" kind="city">
+    <ctml:name>Foumbot</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q1439847</ctml:wikiDataId>
+    <ctml:latitude>5.50803000</ctml:latitude>
+    <ctml:longitude>10.63250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19184" kind="city">
+    <ctml:name>Hauts-Plateaux</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2443778</ctml:wikiDataId>
+    <ctml:latitude>5.29632000</ctml:latitude>
+    <ctml:longitude>10.34314000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19188" kind="city">
+    <ctml:name>Koung-Khi</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2443749</ctml:wikiDataId>
+    <ctml:latitude>5.33848000</ctml:latitude>
+    <ctml:longitude>10.47453000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19215" kind="city">
+    <ctml:name>Mbouda</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q2709339</ctml:wikiDataId>
+    <ctml:latitude>5.62611000</ctml:latitude>
+    <ctml:longitude>10.25421000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19239" kind="city">
+    <ctml:name>Ngou</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q23677480</ctml:wikiDataId>
+    <ctml:latitude>5.19685000</ctml:latitude>
+    <ctml:longitude>10.38595000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19244" kind="city">
+    <ctml:name>Noun</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q999070</ctml:wikiDataId>
+    <ctml:latitude>5.64123000</ctml:latitude>
+    <ctml:longitude>10.91840000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CMR-19261" kind="city">
+    <ctml:name>Tonga</ctml:name>
+    <ctml:country>CMR</ctml:country>
+    <ctml:admin1>West</ctml:admin1>
+    <ctml:parentRef>place:admin1:CM-OU</ctml:parentRef>
+    <ctml:wikiDataId>Q23663889</ctml:wikiDataId>
+    <ctml:latitude>4.96667000</ctml:latitude>
+    <ctml:longitude>10.70000000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

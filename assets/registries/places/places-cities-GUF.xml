@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:GUF-162109" kind="city">
+    <ctml:name>Apatou</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q618086</ctml:wikiDataId>
+    <ctml:latitude>5.15666667</ctml:latitude>
+    <ctml:longitude>-54.34305556</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162110" kind="city">
+    <ctml:name>Awala-Yalimapo</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q791602</ctml:wikiDataId>
+    <ctml:latitude>5.73611111</ctml:latitude>
+    <ctml:longitude>-53.90805556</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162111" kind="city">
+    <ctml:name>Camopi</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q996153</ctml:wikiDataId>
+    <ctml:latitude>3.16694444</ctml:latitude>
+    <ctml:longitude>-52.33111111</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162112" kind="city">
+    <ctml:name>Cayenne</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q44401</ctml:wikiDataId>
+    <ctml:latitude>4.93861111</ctml:latitude>
+    <ctml:longitude>-52.33500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162113" kind="city">
+    <ctml:name>Grand-Santi</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q948369</ctml:wikiDataId>
+    <ctml:latitude>4.27333333</ctml:latitude>
+    <ctml:longitude>-54.38166667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162114" kind="city">
+    <ctml:name>Iracoubo</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q432072</ctml:wikiDataId>
+    <ctml:latitude>5.48000000</ctml:latitude>
+    <ctml:longitude>-53.20555556</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162115" kind="city">
+    <ctml:name>Kourou</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q273312</ctml:wikiDataId>
+    <ctml:latitude>5.15833333</ctml:latitude>
+    <ctml:longitude>-52.64277778</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162116" kind="city">
+    <ctml:name>Macouria</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q938040</ctml:wikiDataId>
+    <ctml:latitude>5.01361111</ctml:latitude>
+    <ctml:longitude>-52.47388889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162117" kind="city">
+    <ctml:name>Mana</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q202393</ctml:wikiDataId>
+    <ctml:latitude>5.66722222</ctml:latitude>
+    <ctml:longitude>-53.77694444</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162118" kind="city">
+    <ctml:name>Maripasoula</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q846239</ctml:wikiDataId>
+    <ctml:latitude>3.64111111</ctml:latitude>
+    <ctml:longitude>-54.02777778</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162119" kind="city">
+    <ctml:name>Matoury</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q816739</ctml:wikiDataId>
+    <ctml:latitude>4.85055556</ctml:latitude>
+    <ctml:longitude>-52.33111111</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162120" kind="city">
+    <ctml:name>Montsinéry-Tonnegrande</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q668084</ctml:wikiDataId>
+    <ctml:latitude>4.89277778</ctml:latitude>
+    <ctml:longitude>-52.49277778</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162121" kind="city">
+    <ctml:name>Ouanary</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q996267</ctml:wikiDataId>
+    <ctml:latitude>4.20916667</ctml:latitude>
+    <ctml:longitude>-51.67166667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162122" kind="city">
+    <ctml:name>Papaichton</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q744546</ctml:wikiDataId>
+    <ctml:latitude>3.80972222</ctml:latitude>
+    <ctml:longitude>-54.14888889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162123" kind="city">
+    <ctml:name>Régina</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q996195</ctml:wikiDataId>
+    <ctml:latitude>4.31361111</ctml:latitude>
+    <ctml:longitude>-52.12916667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162124" kind="city">
+    <ctml:name>Remire-Montjoly</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q996222</ctml:wikiDataId>
+    <ctml:latitude>4.90500000</ctml:latitude>
+    <ctml:longitude>-52.27638889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162125" kind="city">
+    <ctml:name>Roura</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q996422</ctml:wikiDataId>
+    <ctml:latitude>4.72833333</ctml:latitude>
+    <ctml:longitude>-52.32416667</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162126" kind="city">
+    <ctml:name>Saint-Élie</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q371808</ctml:wikiDataId>
+    <ctml:latitude>4.82555556</ctml:latitude>
+    <ctml:longitude>-53.28805556</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162127" kind="city">
+    <ctml:name>Saint-Georges</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q731606</ctml:wikiDataId>
+    <ctml:latitude>3.88944444</ctml:latitude>
+    <ctml:longitude>-51.80111111</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162128" kind="city">
+    <ctml:name>Saint-Laurent-du-Maroni</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q319959</ctml:wikiDataId>
+    <ctml:latitude>5.50388889</ctml:latitude>
+    <ctml:longitude>-54.02888889</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162129" kind="city">
+    <ctml:name>Saül</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q910382</ctml:wikiDataId>
+    <ctml:latitude>3.62277778</ctml:latitude>
+    <ctml:longitude>-53.20833333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUF-162130" kind="city">
+    <ctml:name>Sinnamary</ctml:name>
+    <ctml:country>GUF</ctml:country>
+    <ctml:admin1>Guyane</ctml:admin1>
+    <ctml:parentRef>place:admin1:FR-973</ctml:parentRef>
+    <ctml:wikiDataId>Q948333</ctml:wikiDataId>
+    <ctml:latitude>5.37750000</ctml:latitude>
+    <ctml:longitude>-52.95861111</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ABW-160400" kind="city">
+    <ctml:name>Alto Vista</ctml:name>
+    <ctml:country>ABW</ctml:country>
+    <ctml:admin1>Oranjestad</ctml:admin1>
+    <ctml:parentRef>place:admin1:AW-09</ctml:parentRef>
+    <ctml:latitude>12.57050000</ctml:latitude>
+    <ctml:longitude>-70.01912000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ABW-160398" kind="city">
+    <ctml:name>Moco</ctml:name>
+    <ctml:country>ABW</ctml:country>
+    <ctml:admin1>Oranjestad</ctml:admin1>
+    <ctml:parentRef>place:admin1:AW-09</ctml:parentRef>
+    <ctml:latitude>12.55134000</ctml:latitude>
+    <ctml:longitude>-70.00843000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ABW-160395" kind="city">
+    <ctml:name>Noord</ctml:name>
+    <ctml:country>ABW</ctml:country>
+    <ctml:admin1>Oranjestad</ctml:admin1>
+    <ctml:parentRef>place:admin1:AW-09</ctml:parentRef>
+    <ctml:latitude>12.56596000</ctml:latitude>
+    <ctml:longitude>-70.03198000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ABW-160396" kind="city">
+    <ctml:name>Oranjestad</ctml:name>
+    <ctml:country>ABW</ctml:country>
+    <ctml:admin1>Oranjestad</ctml:admin1>
+    <ctml:parentRef>place:admin1:AW-09</ctml:parentRef>
+    <ctml:latitude>12.52398000</ctml:latitude>
+    <ctml:longitude>-70.02703000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ABW-160399" kind="city">
+    <ctml:name>Palm Beach</ctml:name>
+    <ctml:country>ABW</ctml:country>
+    <ctml:admin1>Oranjestad</ctml:admin1>
+    <ctml:parentRef>place:admin1:AW-09</ctml:parentRef>
+    <ctml:latitude>12.56847000</ctml:latitude>
+    <ctml:longitude>-70.03887000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ABW-160397" kind="city">
+    <ctml:name>Paradera</ctml:name>
+    <ctml:country>ABW</ctml:country>
+    <ctml:admin1>Oranjestad</ctml:admin1>
+    <ctml:parentRef>place:admin1:AW-09</ctml:parentRef>
+    <ctml:latitude>12.53510000</ctml:latitude>
+    <ctml:longitude>-70.00688000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ABW-160394" kind="city">
+    <ctml:name>Pos Chiquito</ctml:name>
+    <ctml:country>ABW</ctml:country>
+    <ctml:admin1>Oranjestad</ctml:admin1>
+    <ctml:parentRef>place:admin1:AW-09</ctml:parentRef>
+    <ctml:latitude>12.46497000</ctml:latitude>
+    <ctml:longitude>-69.96233000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ABW-160401" kind="city">
+    <ctml:name>San Nicolas</ctml:name>
+    <ctml:country>ABW</ctml:country>
+    <ctml:admin1>Oranjestad</ctml:admin1>
+    <ctml:parentRef>place:admin1:AW-09</ctml:parentRef>
+    <ctml:latitude>12.43624000</ctml:latitude>
+    <ctml:longitude>-69.90713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ABW-160404" kind="city">
+    <ctml:name>Santa Cruz</ctml:name>
+    <ctml:country>ABW</ctml:country>
+    <ctml:admin1>Oranjestad</ctml:admin1>
+    <ctml:parentRef>place:admin1:AW-09</ctml:parentRef>
+    <ctml:latitude>12.50953000</ctml:latitude>
+    <ctml:longitude>-69.98094000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ABW-160405" kind="city">
+    <ctml:name>Savaneta</ctml:name>
+    <ctml:country>ABW</ctml:country>
+    <ctml:admin1>Oranjestad</ctml:admin1>
+    <ctml:parentRef>place:admin1:AW-09</ctml:parentRef>
+    <ctml:latitude>12.45026000</ctml:latitude>
+    <ctml:longitude>-69.93811000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ABW-160402" kind="city">
+    <ctml:name>Tanki Leendert</ctml:name>
+    <ctml:country>ABW</ctml:country>
+    <ctml:admin1>Oranjestad</ctml:admin1>
+    <ctml:parentRef>place:admin1:AW-09</ctml:parentRef>
+    <ctml:latitude>12.53914000</ctml:latitude>
+    <ctml:longitude>-70.02004000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ABW-160403" kind="city">
+    <ctml:name>Washington</ctml:name>
+    <ctml:country>ABW</ctml:country>
+    <ctml:admin1>Oranjestad</ctml:admin1>
+    <ctml:parentRef>place:admin1:AW-09</ctml:parentRef>
+    <ctml:latitude>12.55837000</ctml:latitude>
+    <ctml:longitude>-70.03816000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

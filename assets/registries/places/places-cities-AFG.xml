@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:AFG-52" kind="city">
+    <ctml:name>Ashkāsham</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Badakhshan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BDS</ctml:parentRef>
+    <ctml:wikiDataId>Q4805192</ctml:wikiDataId>
+    <ctml:latitude>36.68333000</ctml:latitude>
+    <ctml:longitude>71.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-78" kind="admin2">
+    <ctml:name>Jurm</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Badakhshan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BDS</ctml:parentRef>
+    <ctml:wikiDataId>Q10308323</ctml:wikiDataId>
+    <ctml:latitude>36.86477000</ctml:latitude>
+    <ctml:longitude>70.83421000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-84" kind="admin2">
+    <ctml:name>Khandūd</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Badakhshan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BDS</ctml:parentRef>
+    <ctml:wikiDataId>Q3290334</ctml:wikiDataId>
+    <ctml:latitude>36.95127000</ctml:latitude>
+    <ctml:longitude>72.31800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-115" kind="city">
+    <ctml:name>Rāghistān</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Badakhshan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BDS</ctml:parentRef>
+    <ctml:wikiDataId>Q2670909</ctml:wikiDataId>
+    <ctml:latitude>37.66079000</ctml:latitude>
+    <ctml:longitude>70.67346000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-131" kind="city">
+    <ctml:name>Wākhān</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Badakhshan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BDS</ctml:parentRef>
+    <ctml:wikiDataId>Q2509959</ctml:wikiDataId>
+    <ctml:latitude>37.05710000</ctml:latitude>
+    <ctml:longitude>73.34928000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-72" kind="admin2">
+    <ctml:name>Ghormach</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Badghis</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BDG</ctml:parentRef>
+    <ctml:wikiDataId>Q5556982</ctml:wikiDataId>
+    <ctml:latitude>35.73062000</ctml:latitude>
+    <ctml:longitude>63.78264000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-54" kind="admin2">
+    <ctml:name>Baghlān</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Baghlan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BGL</ctml:parentRef>
+    <ctml:wikiDataId>Q732879</ctml:wikiDataId>
+    <ctml:latitude>36.13068000</ctml:latitude>
+    <ctml:longitude>68.70829000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-140" kind="admin2">
+    <ctml:name>Ḩukūmatī Dahanah-ye Ghōrī</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Baghlan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BGL</ctml:parentRef>
+    <ctml:wikiDataId>Q5194960</ctml:wikiDataId>
+    <ctml:latitude>35.90617000</ctml:latitude>
+    <ctml:longitude>68.48869000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-101" kind="admin2">
+    <ctml:name>Nahrīn</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Baghlan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BGL</ctml:parentRef>
+    <ctml:wikiDataId>Q6959392</ctml:wikiDataId>
+    <ctml:latitude>36.06490000</ctml:latitude>
+    <ctml:longitude>69.13343000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-55" kind="admin2">
+    <ctml:name>Balkh</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Balkh</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BAL</ctml:parentRef>
+    <ctml:wikiDataId>Q182159</ctml:wikiDataId>
+    <ctml:latitude>36.75635000</ctml:latitude>
+    <ctml:longitude>66.89720000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-65" kind="admin2">
+    <ctml:name>Dowlatābād</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Balkh</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BAL</ctml:parentRef>
+    <ctml:wikiDataId>Q2163607</ctml:wikiDataId>
+    <ctml:latitude>36.98821000</ctml:latitude>
+    <ctml:longitude>66.82069000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-85" kind="admin2">
+    <ctml:name>Khulm</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Balkh</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BAL</ctml:parentRef>
+    <ctml:wikiDataId>Q1014375</ctml:wikiDataId>
+    <ctml:latitude>36.69736000</ctml:latitude>
+    <ctml:longitude>67.69826000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-91" kind="city">
+    <ctml:name>Lab-Sar</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Balkh</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BAL</ctml:parentRef>
+    <ctml:wikiDataId>Q21813067</ctml:wikiDataId>
+    <ctml:latitude>36.02634000</ctml:latitude>
+    <ctml:longitude>66.83799000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-112" kind="city">
+    <ctml:name>Qarchī Gak</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Balkh</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BAL</ctml:parentRef>
+    <ctml:wikiDataId>Q3290339</ctml:wikiDataId>
+    <ctml:latitude>37.03999000</ctml:latitude>
+    <ctml:longitude>66.78891000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-104" kind="admin2">
+    <ctml:name>Panjāb</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Bamyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-BAM</ctml:parentRef>
+    <ctml:wikiDataId>Q7131225</ctml:wikiDataId>
+    <ctml:latitude>34.38795000</ctml:latitude>
+    <ctml:longitude>67.02327000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-102" kind="city">
+    <ctml:name>Nīlī</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Daykundi</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-DAY</ctml:parentRef>
+    <ctml:wikiDataId>Q3218967</ctml:wikiDataId>
+    <ctml:latitude>33.76329000</ctml:latitude>
+    <ctml:longitude>66.07617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-50" kind="admin2">
+    <ctml:name>Andkhoy</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Faryab</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-FYB</ctml:parentRef>
+    <ctml:wikiDataId>Q1054127</ctml:wikiDataId>
+    <ctml:latitude>36.95293000</ctml:latitude>
+    <ctml:longitude>65.12376000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-121" kind="admin2">
+    <ctml:name>Shahrak</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Ghōr</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-GHO</ctml:parentRef>
+    <ctml:wikiDataId>Q7461922</ctml:wikiDataId>
+    <ctml:latitude>34.10737000</ctml:latitude>
+    <ctml:longitude>64.30520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-141" kind="admin2">
+    <ctml:name>‘Alāqahdārī Dīshū</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Helmand</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-HEL</ctml:parentRef>
+    <ctml:wikiDataId>Q5194960</ctml:wikiDataId>
+    <ctml:latitude>30.43206000</ctml:latitude>
+    <ctml:longitude>63.29802000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-70" kind="admin2">
+    <ctml:name>Gereshk</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Helmand</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-HEL</ctml:parentRef>
+    <ctml:wikiDataId>Q3735459</ctml:wikiDataId>
+    <ctml:latitude>31.82089000</ctml:latitude>
+    <ctml:longitude>64.57005000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-95" kind="city">
+    <ctml:name>Markaz-e Ḩukūmat-e Darwēshān</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Helmand</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-HEL</ctml:parentRef>
+    <ctml:wikiDataId>Q21758384</ctml:wikiDataId>
+    <ctml:latitude>31.13231000</ctml:latitude>
+    <ctml:longitude>64.19340000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-118" kind="admin2">
+    <ctml:name>Sangīn</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Helmand</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-HEL</ctml:parentRef>
+    <ctml:wikiDataId>Q2457742</ctml:wikiDataId>
+    <ctml:latitude>32.07275000</ctml:latitude>
+    <ctml:longitude>64.83590000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-60" kind="city">
+    <ctml:name>Chahār Burj</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Herat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-HER</ctml:parentRef>
+    <ctml:wikiDataId>Q21763949</ctml:wikiDataId>
+    <ctml:latitude>34.24475000</ctml:latitude>
+    <ctml:longitude>62.19165000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-73" kind="admin2">
+    <ctml:name>Ghōriyān</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Herat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-HER</ctml:parentRef>
+    <ctml:wikiDataId>Q2634612</ctml:wikiDataId>
+    <ctml:latitude>34.34480000</ctml:latitude>
+    <ctml:longitude>61.49321000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-80" kind="city">
+    <ctml:name>Kafir Qala</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Herat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-HER</ctml:parentRef>
+    <ctml:wikiDataId>Q4115284</ctml:wikiDataId>
+    <ctml:latitude>34.66667000</ctml:latitude>
+    <ctml:longitude>61.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-82" kind="admin2">
+    <ctml:name>Karukh</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Herat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-HER</ctml:parentRef>
+    <ctml:wikiDataId>Q6373621</ctml:wikiDataId>
+    <ctml:latitude>34.48108000</ctml:latitude>
+    <ctml:longitude>62.58630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-88" kind="admin2">
+    <ctml:name>Kuhsān</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Herat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-HER</ctml:parentRef>
+    <ctml:wikiDataId>Q6426147</ctml:wikiDataId>
+    <ctml:latitude>34.65389000</ctml:latitude>
+    <ctml:longitude>61.19778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-90" kind="city">
+    <ctml:name>Kushk</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Herat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-HER</ctml:parentRef>
+    <ctml:wikiDataId>Q21751918</ctml:wikiDataId>
+    <ctml:latitude>33.29565000</ctml:latitude>
+    <ctml:longitude>61.95221000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-111" kind="admin2">
+    <ctml:name>Qarah Bāgh</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Herat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-HER</ctml:parentRef>
+    <ctml:wikiDataId>Q3918423</ctml:wikiDataId>
+    <ctml:latitude>34.94023000</ctml:latitude>
+    <ctml:longitude>61.77589000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-123" kind="admin2">
+    <ctml:name>Shīnḏanḏ</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Herat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-HER</ctml:parentRef>
+    <ctml:wikiDataId>Q3944388</ctml:wikiDataId>
+    <ctml:latitude>33.30294000</ctml:latitude>
+    <ctml:longitude>62.14740000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-129" kind="city">
+    <ctml:name>Tīr Pul</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Herat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-HER</ctml:parentRef>
+    <ctml:wikiDataId>Q21740029</ctml:wikiDataId>
+    <ctml:latitude>34.59431000</ctml:latitude>
+    <ctml:longitude>61.26895000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-135" kind="admin2">
+    <ctml:name>Zindah Jān</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Herat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-HER</ctml:parentRef>
+    <ctml:wikiDataId>Q5918492</ctml:wikiDataId>
+    <ctml:latitude>34.34264000</ctml:latitude>
+    <ctml:longitude>61.74675000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-136" kind="admin2">
+    <ctml:name>Āqchah</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Jowzjan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-JOW</ctml:parentRef>
+    <ctml:wikiDataId>Q2246526</ctml:wikiDataId>
+    <ctml:latitude>36.90500000</ctml:latitude>
+    <ctml:longitude>66.18341000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-63" kind="admin2">
+    <ctml:name>Darzāb</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Jowzjan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-JOW</ctml:parentRef>
+    <ctml:wikiDataId>Q5196429</ctml:wikiDataId>
+    <ctml:latitude>35.97744000</ctml:latitude>
+    <ctml:longitude>65.37828000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-113" kind="admin2">
+    <ctml:name>Qarqīn</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Jowzjan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-JOW</ctml:parentRef>
+    <ctml:wikiDataId>Q5199398</ctml:wikiDataId>
+    <ctml:latitude>37.41853000</ctml:latitude>
+    <ctml:longitude>66.04358000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-79" kind="city">
+    <ctml:name>Kabul</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Kabul</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-KAB</ctml:parentRef>
+    <ctml:wikiDataId>Q5838</ctml:wikiDataId>
+    <ctml:latitude>34.52813000</ctml:latitude>
+    <ctml:longitude>69.17233000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-99" kind="admin2">
+    <ctml:name>Mīr Bachah Kōṯ</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Kabul</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-KAB</ctml:parentRef>
+    <ctml:wikiDataId>Q6872026</ctml:wikiDataId>
+    <ctml:latitude>34.74999000</ctml:latitude>
+    <ctml:longitude>69.11899000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-103" kind="city">
+    <ctml:name>Paghmān</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Kabul</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-KAB</ctml:parentRef>
+    <ctml:wikiDataId>Q2502256</ctml:wikiDataId>
+    <ctml:latitude>34.58787000</ctml:latitude>
+    <ctml:longitude>68.95091000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-138" kind="admin2">
+    <ctml:name>Āsmār</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Kunar</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-KNR</ctml:parentRef>
+    <ctml:wikiDataId>Q21765090</ctml:wikiDataId>
+    <ctml:latitude>35.03333000</ctml:latitude>
+    <ctml:longitude>71.35809000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-64" kind="city">
+    <ctml:name>Dasht-e Archī</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Kunduz Province</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-KDZ</ctml:parentRef>
+    <ctml:wikiDataId>Q21758408</ctml:wikiDataId>
+    <ctml:latitude>37.13333000</ctml:latitude>
+    <ctml:longitude>69.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-75" kind="admin2">
+    <ctml:name>Imām Şāḩib</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Kunduz Province</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-KDZ</ctml:parentRef>
+    <ctml:wikiDataId>Q670101</ctml:wikiDataId>
+    <ctml:latitude>37.18897000</ctml:latitude>
+    <ctml:longitude>68.93644000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-83" kind="admin2">
+    <ctml:name>Khanabad</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Kunduz Province</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-KDZ</ctml:parentRef>
+    <ctml:wikiDataId>Q1247205</ctml:wikiDataId>
+    <ctml:latitude>36.68250000</ctml:latitude>
+    <ctml:longitude>69.11556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-114" kind="city">
+    <ctml:name>Qarāwul</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Kunduz Province</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-KDZ</ctml:parentRef>
+    <ctml:wikiDataId>Q21748632</ctml:wikiDataId>
+    <ctml:latitude>37.21959000</ctml:latitude>
+    <ctml:longitude>68.78020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-56" kind="admin2">
+    <ctml:name>Baraki Barak</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Logar</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-LOG</ctml:parentRef>
+    <ctml:wikiDataId>Q807234</ctml:wikiDataId>
+    <ctml:latitude>33.96744000</ctml:latitude>
+    <ctml:longitude>68.94920000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-139" kind="admin2">
+    <ctml:name>Ḩukūmatī Azrah</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Logar</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-LOG</ctml:parentRef>
+    <ctml:wikiDataId>Q21765090</ctml:wikiDataId>
+    <ctml:latitude>34.17355000</ctml:latitude>
+    <ctml:longitude>69.64573000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-58" kind="city">
+    <ctml:name>Bāsawul</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Nangarhar</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-NAN</ctml:parentRef>
+    <ctml:wikiDataId>Q21763679</ctml:wikiDataId>
+    <ctml:latitude>34.24749000</ctml:latitude>
+    <ctml:longitude>70.87218000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-86" kind="city">
+    <ctml:name>Khāsh</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Nimruz</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-NIM</ctml:parentRef>
+    <ctml:wikiDataId>Q21752345</ctml:wikiDataId>
+    <ctml:latitude>31.52919000</ctml:latitude>
+    <ctml:longitude>62.79055000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-100" kind="city">
+    <ctml:name>Mīrābād</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Nimruz</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-NIM</ctml:parentRef>
+    <ctml:wikiDataId>Q21751462</ctml:wikiDataId>
+    <ctml:latitude>30.43624000</ctml:latitude>
+    <ctml:longitude>61.83830000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-116" kind="city">
+    <ctml:name>Rūdbār</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Nimruz</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-NIM</ctml:parentRef>
+    <ctml:wikiDataId>Q21748160</ctml:wikiDataId>
+    <ctml:latitude>30.15000000</ctml:latitude>
+    <ctml:longitude>62.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-120" kind="city">
+    <ctml:name>Saṟōbī</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Paktika</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-PKA</ctml:parentRef>
+    <ctml:wikiDataId>Q6596821</ctml:wikiDataId>
+    <ctml:latitude>32.75221000</ctml:latitude>
+    <ctml:longitude>69.04587000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-134" kind="city">
+    <ctml:name>Zaṟah Sharan</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Paktika</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-PKA</ctml:parentRef>
+    <ctml:wikiDataId>Q2615863</ctml:wikiDataId>
+    <ctml:latitude>33.14641000</ctml:latitude>
+    <ctml:longitude>68.79213000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-133" kind="city">
+    <ctml:name>Zarghūn Shahr</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Paktika</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-PKA</ctml:parentRef>
+    <ctml:wikiDataId>Q21737614</ctml:wikiDataId>
+    <ctml:latitude>32.84734000</ctml:latitude>
+    <ctml:longitude>68.44573000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-76" kind="admin2">
+    <ctml:name>Jabal os Saraj</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Parwan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-PAR</ctml:parentRef>
+    <ctml:wikiDataId>Q21754950</ctml:wikiDataId>
+    <ctml:latitude>35.11833000</ctml:latitude>
+    <ctml:longitude>69.23778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-62" kind="city">
+    <ctml:name>Chīras</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Sar-e Pol</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-SAR</ctml:parentRef>
+    <ctml:wikiDataId>Q21760615</ctml:wikiDataId>
+    <ctml:latitude>35.41674000</ctml:latitude>
+    <ctml:longitude>65.98234000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-92" kind="city">
+    <ctml:name>Larkird</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Sar-e Pol</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-SAR</ctml:parentRef>
+    <ctml:wikiDataId>Q21752020</ctml:wikiDataId>
+    <ctml:latitude>35.48936000</ctml:latitude>
+    <ctml:longitude>66.66409000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-110" kind="city">
+    <ctml:name>Qal‘ah-ye Shahr</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Sar-e Pol</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-SAR</ctml:parentRef>
+    <ctml:wikiDataId>Q21750144</ctml:wikiDataId>
+    <ctml:latitude>35.54729000</ctml:latitude>
+    <ctml:longitude>65.56760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-117" kind="city">
+    <ctml:name>Sang-e Chārak</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Sar-e Pol</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-SAR</ctml:parentRef>
+    <ctml:wikiDataId>Q3695802</ctml:wikiDataId>
+    <ctml:latitude>35.84972000</ctml:latitude>
+    <ctml:longitude>66.43694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-125" kind="city">
+    <ctml:name>Tagāw-Bāy</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Sar-e Pol</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-SAR</ctml:parentRef>
+    <ctml:wikiDataId>Q21742929</ctml:wikiDataId>
+    <ctml:latitude>35.69941000</ctml:latitude>
+    <ctml:longitude>66.06164000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:AFG-128" kind="admin2">
+    <ctml:name>Tukzār</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Sar-e Pol</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-SAR</ctml:parentRef>
+    <ctml:wikiDataId>Q7851883</ctml:wikiDataId>
+    <ctml:latitude>35.94831000</ctml:latitude>
+    <ctml:longitude>66.42132000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-137" kind="city">
+    <ctml:name>Ārt Khwājah</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Takhar</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-TAK</ctml:parentRef>
+    <ctml:wikiDataId>Q21765117</ctml:wikiDataId>
+    <ctml:latitude>37.08571000</ctml:latitude>
+    <ctml:longitude>69.47958000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-130" kind="city">
+    <ctml:name>Uruzgān</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Urozgan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-URU</ctml:parentRef>
+    <ctml:wikiDataId>Q21750884</ctml:wikiDataId>
+    <ctml:latitude>32.92775000</ctml:latitude>
+    <ctml:longitude>66.63253000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-157060" kind="city">
+    <ctml:name>Chaki Wardak</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Wardak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-WAR</ctml:parentRef>
+    <ctml:wikiDataId>Q5067706</ctml:wikiDataId>
+    <ctml:latitude>34.29000000</ctml:latitude>
+    <ctml:longitude>68.58000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-157064" kind="city">
+    <ctml:name>Day Mirdad</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Wardak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-WAR</ctml:parentRef>
+    <ctml:wikiDataId>Q5242583</ctml:wikiDataId>
+    <ctml:latitude>34.50000000</ctml:latitude>
+    <ctml:longitude>69.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-157065" kind="city">
+    <ctml:name>Hisa-i-Awali Bihsud</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Wardak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-WAR</ctml:parentRef>
+    <ctml:wikiDataId>Q5770082</ctml:wikiDataId>
+    <ctml:latitude>34.65000000</ctml:latitude>
+    <ctml:longitude>68.18000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-157067" kind="city">
+    <ctml:name>Jaghatu</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Wardak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-WAR</ctml:parentRef>
+    <ctml:wikiDataId>Q5920788</ctml:wikiDataId>
+    <ctml:latitude>34.08000000</ctml:latitude>
+    <ctml:longitude>68.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-157061" kind="city">
+    <ctml:name>Jalrez</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Wardak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-WAR</ctml:parentRef>
+    <ctml:wikiDataId>Q6126984</ctml:wikiDataId>
+    <ctml:latitude>34.52000000</ctml:latitude>
+    <ctml:longitude>68.78000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-157059" kind="city">
+    <ctml:name>Maidan Shahr</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Wardak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-WAR</ctml:parentRef>
+    <ctml:wikiDataId>Q962619</ctml:wikiDataId>
+    <ctml:latitude>34.38000000</ctml:latitude>
+    <ctml:longitude>68.54000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-157066" kind="city">
+    <ctml:name>Markaz-i-Bihsud</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Wardak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-WAR</ctml:parentRef>
+    <ctml:wikiDataId>Q6763663</ctml:wikiDataId>
+    <ctml:latitude>34.55000000</ctml:latitude>
+    <ctml:longitude>67.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-157062" kind="city">
+    <ctml:name>Nerkh</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Wardak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-WAR</ctml:parentRef>
+    <ctml:wikiDataId>Q6996115</ctml:wikiDataId>
+    <ctml:latitude>34.49000000</ctml:latitude>
+    <ctml:longitude>68.51000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:AFG-157063" kind="city">
+    <ctml:name>Sayed Abad</ctml:name>
+    <ctml:country>AFG</ctml:country>
+    <ctml:admin1>Wardak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AF-WAR</ctml:parentRef>
+    <ctml:wikiDataId>Q7429446</ctml:wikiDataId>
+    <ctml:latitude>34.00000000</ctml:latitude>
+    <ctml:longitude>68.63000000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

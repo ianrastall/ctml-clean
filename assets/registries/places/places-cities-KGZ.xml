@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:KGZ-64886" kind="city">
+    <ctml:name>Aydarken</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Batken</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-B</ctml:parentRef>
+    <ctml:wikiDataId>Q2045904</ctml:wikiDataId>
+    <ctml:latitude>39.94319000</ctml:latitude>
+    <ctml:longitude>71.34184000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64896" kind="city">
+    <ctml:name>Iradan</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Batken</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-B</ctml:parentRef>
+    <ctml:wikiDataId>Q15228786</ctml:wikiDataId>
+    <ctml:latitude>40.26667000</ctml:latitude>
+    <ctml:longitude>72.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64897" kind="city">
+    <ctml:name>Isfana</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Batken</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-B</ctml:parentRef>
+    <ctml:wikiDataId>Q1647776</ctml:wikiDataId>
+    <ctml:latitude>39.83895000</ctml:latitude>
+    <ctml:longitude>69.52760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64909" kind="city">
+    <ctml:name>Karavan</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Batken</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-B</ctml:parentRef>
+    <ctml:wikiDataId>Q27205347</ctml:wikiDataId>
+    <ctml:latitude>40.29513000</ctml:latitude>
+    <ctml:longitude>72.18627000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64915" kind="city">
+    <ctml:name>Kyzyl-Kyya</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Batken</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-B</ctml:parentRef>
+    <ctml:wikiDataId>Q2347569</ctml:wikiDataId>
+    <ctml:latitude>40.25684000</ctml:latitude>
+    <ctml:longitude>72.12793000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64923" kind="city">
+    <ctml:name>Suluktu</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Batken</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-B</ctml:parentRef>
+    <ctml:wikiDataId>Q2357921</ctml:wikiDataId>
+    <ctml:latitude>39.93652000</ctml:latitude>
+    <ctml:longitude>69.56779000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64891" kind="city">
+    <ctml:name>Bishkek</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Bishkek</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-GB</ctml:parentRef>
+    <ctml:wikiDataId>Q816163</ctml:wikiDataId>
+    <ctml:latitude>42.87000000</ctml:latitude>
+    <ctml:longitude>74.59000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64884" kind="city">
+    <ctml:name>Alamudunskiy Rayon</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Chuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q670790</ctml:wikiDataId>
+    <ctml:latitude>42.81985000</ctml:latitude>
+    <ctml:longitude>74.59398000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64890" kind="admin2">
+    <ctml:name>Belovodskoye</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Chuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q816163</ctml:wikiDataId>
+    <ctml:latitude>42.82944000</ctml:latitude>
+    <ctml:longitude>74.10830000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64894" kind="city">
+    <ctml:name>Chuyskiy Rayon</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Chuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q879101</ctml:wikiDataId>
+    <ctml:latitude>42.66667000</ctml:latitude>
+    <ctml:longitude>75.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64898" kind="admin2">
+    <ctml:name>Ivanovka</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Chuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1676038</ctml:wikiDataId>
+    <ctml:latitude>42.88778000</ctml:latitude>
+    <ctml:longitude>75.08500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64902" kind="admin2">
+    <ctml:name>Kaindy</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Chuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q959866</ctml:wikiDataId>
+    <ctml:latitude>42.82469000</ctml:latitude>
+    <ctml:longitude>73.67585000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64903" kind="admin2">
+    <ctml:name>Kant</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Chuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1026291</ctml:wikiDataId>
+    <ctml:latitude>42.89106000</ctml:latitude>
+    <ctml:longitude>74.85077000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64906" kind="admin2">
+    <ctml:name>Kara-Balta</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Chuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q2015760</ctml:wikiDataId>
+    <ctml:latitude>42.81423000</ctml:latitude>
+    <ctml:longitude>73.84813000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64911" kind="admin2">
+    <ctml:name>Kemin</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Chuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q737375</ctml:wikiDataId>
+    <ctml:latitude>42.78611000</ctml:latitude>
+    <ctml:longitude>75.69167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64917" kind="admin2">
+    <ctml:name>Lebedinovka</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Chuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q82354</ctml:wikiDataId>
+    <ctml:latitude>42.88454000</ctml:latitude>
+    <ctml:longitude>74.67819000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64921" kind="city">
+    <ctml:name>Sokulukskiy Rayon</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Chuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q878851</ctml:wikiDataId>
+    <ctml:latitude>42.83333000</ctml:latitude>
+    <ctml:longitude>74.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64922" kind="city">
+    <ctml:name>Sosnovka</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Chuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q878851</ctml:wikiDataId>
+    <ctml:latitude>42.63707000</ctml:latitude>
+    <ctml:longitude>73.89608000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64928" kind="admin2">
+    <ctml:name>Tokmok</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Chuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q854333</ctml:wikiDataId>
+    <ctml:latitude>42.84194000</ctml:latitude>
+    <ctml:longitude>75.30149000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64934" kind="city">
+    <ctml:name>Ysyk-Ata</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Chuy</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-C</ctml:parentRef>
+    <ctml:wikiDataId>Q878625</ctml:wikiDataId>
+    <ctml:latitude>42.72665000</ctml:latitude>
+    <ctml:longitude>75.07444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64882" kind="admin2">
+    <ctml:name>Ak-Suu</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Issyk-Kul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-Y</ctml:parentRef>
+    <ctml:wikiDataId>Q7701363</ctml:wikiDataId>
+    <ctml:latitude>42.49948000</ctml:latitude>
+    <ctml:longitude>78.52702000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64887" kind="city">
+    <ctml:name>Balykchy</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Issyk-Kul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-Y</ctml:parentRef>
+    <ctml:wikiDataId>Q805876</ctml:wikiDataId>
+    <ctml:latitude>42.46017000</ctml:latitude>
+    <ctml:longitude>76.18709000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64892" kind="admin2">
+    <ctml:name>Cholpon-Ata</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Issyk-Kul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-Y</ctml:parentRef>
+    <ctml:wikiDataId>Q1017314</ctml:wikiDataId>
+    <ctml:latitude>42.64944000</ctml:latitude>
+    <ctml:longitude>77.08225000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64901" kind="city">
+    <ctml:name>Kadzhi-Say</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Issyk-Kul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-Y</ctml:parentRef>
+    <ctml:wikiDataId>Q4207247</ctml:wikiDataId>
+    <ctml:latitude>42.14107000</ctml:latitude>
+    <ctml:longitude>77.17848000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64916" kind="admin2">
+    <ctml:name>Kyzyl-Suu</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Issyk-Kul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-Y</ctml:parentRef>
+    <ctml:wikiDataId>Q2354883</ctml:wikiDataId>
+    <ctml:latitude>42.34211000</ctml:latitude>
+    <ctml:longitude>78.00644000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64931" kind="admin2">
+    <ctml:name>Tyup</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Issyk-Kul</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-Y</ctml:parentRef>
+    <ctml:wikiDataId>Q2360023</ctml:wikiDataId>
+    <ctml:latitude>42.72760000</ctml:latitude>
+    <ctml:longitude>78.36476000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64883" kind="city">
+    <ctml:name>Ala-Buka</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Jalal-Abad</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-J</ctml:parentRef>
+    <ctml:wikiDataId>Q401959</ctml:wikiDataId>
+    <ctml:latitude>41.40806000</ctml:latitude>
+    <ctml:longitude>71.46306000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64889" kind="admin2">
+    <ctml:name>Bazar-Korgon</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Jalal-Abad</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-J</ctml:parentRef>
+    <ctml:wikiDataId>Q1703230</ctml:wikiDataId>
+    <ctml:latitude>41.03760000</ctml:latitude>
+    <ctml:longitude>72.74586000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64910" kind="admin2">
+    <ctml:name>Kazarman</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Jalal-Abad</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-J</ctml:parentRef>
+    <ctml:wikiDataId>Q754798</ctml:wikiDataId>
+    <ctml:latitude>41.40500000</ctml:latitude>
+    <ctml:longitude>74.03700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64912" kind="admin2">
+    <ctml:name>Kerben</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Jalal-Abad</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-J</ctml:parentRef>
+    <ctml:wikiDataId>Q2355674</ctml:wikiDataId>
+    <ctml:latitude>41.49399000</ctml:latitude>
+    <ctml:longitude>71.75826000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64913" kind="city">
+    <ctml:name>Kochkor-Ata</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Jalal-Abad</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-J</ctml:parentRef>
+    <ctml:wikiDataId>Q2224040</ctml:wikiDataId>
+    <ctml:latitude>41.03709000</ctml:latitude>
+    <ctml:longitude>72.48320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64924" kind="admin2">
+    <ctml:name>Suzak</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Jalal-Abad</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-J</ctml:parentRef>
+    <ctml:wikiDataId>Q4445602</ctml:wikiDataId>
+    <ctml:latitude>40.89820000</ctml:latitude>
+    <ctml:longitude>72.90481000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64927" kind="city">
+    <ctml:name>Tash-Kumyr</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Jalal-Abad</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-J</ctml:parentRef>
+    <ctml:wikiDataId>Q2283488</ctml:wikiDataId>
+    <ctml:latitude>41.34612000</ctml:latitude>
+    <ctml:longitude>72.21707000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64929" kind="admin2">
+    <ctml:name>Toktogul</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Jalal-Abad</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-J</ctml:parentRef>
+    <ctml:wikiDataId>Q1647779</ctml:wikiDataId>
+    <ctml:latitude>41.87442000</ctml:latitude>
+    <ctml:longitude>72.94192000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64930" kind="city">
+    <ctml:name>Toktogul District</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Jalal-Abad</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-J</ctml:parentRef>
+    <ctml:wikiDataId>Q754609</ctml:wikiDataId>
+    <ctml:latitude>41.75000000</ctml:latitude>
+    <ctml:longitude>73.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64885" kind="admin2">
+    <ctml:name>At-Bashi</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Naryn</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q2349598</ctml:wikiDataId>
+    <ctml:latitude>41.16951000</ctml:latitude>
+    <ctml:longitude>75.80099000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64900" kind="city">
+    <ctml:name>Jumgal</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Naryn</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-N</ctml:parentRef>
+    <ctml:wikiDataId>Q879090</ctml:wikiDataId>
+    <ctml:latitude>41.94924000</ctml:latitude>
+    <ctml:longitude>74.40566000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64893" kind="city">
+    <ctml:name>Chong-Alay</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Osh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-O</ctml:parentRef>
+    <ctml:wikiDataId>Q1017314</ctml:wikiDataId>
+    <ctml:latitude>39.47614000</ctml:latitude>
+    <ctml:longitude>72.33017000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64895" kind="admin2">
+    <ctml:name>Daroot-Korgon</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Osh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-O</ctml:parentRef>
+    <ctml:wikiDataId>Q1633504</ctml:wikiDataId>
+    <ctml:latitude>39.55274000</ctml:latitude>
+    <ctml:longitude>72.20518000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64904" kind="city">
+    <ctml:name>Kara Kulja</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Osh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-O</ctml:parentRef>
+    <ctml:wikiDataId>Q117224</ctml:wikiDataId>
+    <ctml:latitude>40.64095000</ctml:latitude>
+    <ctml:longitude>73.49411000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64905" kind="admin2">
+    <ctml:name>Kara Suu</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Osh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-O</ctml:parentRef>
+    <ctml:wikiDataId>Q1023290</ctml:wikiDataId>
+    <ctml:latitude>40.70460000</ctml:latitude>
+    <ctml:longitude>72.86666000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64914" kind="city">
+    <ctml:name>Kyzyl-Eshme</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Osh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-O</ctml:parentRef>
+    <ctml:wikiDataId>Q6452943</ctml:wikiDataId>
+    <ctml:latitude>39.56559000</ctml:latitude>
+    <ctml:longitude>72.27153000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:KGZ-64919" kind="admin2">
+    <ctml:name>Nookat</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Osh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-O</ctml:parentRef>
+    <ctml:wikiDataId>Q311946</ctml:wikiDataId>
+    <ctml:latitude>40.26597000</ctml:latitude>
+    <ctml:longitude>72.61834000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64932" kind="city">
+    <ctml:name>Uzgen</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Osh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-O</ctml:parentRef>
+    <ctml:wikiDataId>Q765887</ctml:wikiDataId>
+    <ctml:latitude>40.76994000</ctml:latitude>
+    <ctml:longitude>73.30068000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64933" kind="city">
+    <ctml:name>Uzgen District</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Osh</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-O</ctml:parentRef>
+    <ctml:wikiDataId>Q2556736</ctml:wikiDataId>
+    <ctml:latitude>40.55000000</ctml:latitude>
+    <ctml:longitude>73.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64907" kind="city">
+    <ctml:name>Kara-Buurinskiy Rayon</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Talas</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-T</ctml:parentRef>
+    <ctml:wikiDataId>Q793916</ctml:wikiDataId>
+    <ctml:latitude>42.50000000</ctml:latitude>
+    <ctml:longitude>71.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:KGZ-64926" kind="city">
+    <ctml:name>Talasskiy Rayon</ctml:name>
+    <ctml:country>KGZ</ctml:country>
+    <ctml:admin1>Talas</ctml:admin1>
+    <ctml:parentRef>place:admin1:KG-T</ctml:parentRef>
+    <ctml:wikiDataId>Q793902</ctml:wikiDataId>
+    <ctml:latitude>42.18647000</ctml:latitude>
+    <ctml:longitude>72.69408000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

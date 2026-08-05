@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:LKA-66463" kind="city">
+    <ctml:name>Dambulla</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-2</ctml:parentRef>
+    <ctml:wikiDataId>Q377343</ctml:wikiDataId>
+    <ctml:latitude>7.86000000</ctml:latitude>
+    <ctml:longitude>80.65167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66476" kind="city">
+    <ctml:name>Hatton</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-2</ctml:parentRef>
+    <ctml:wikiDataId>Q390564</ctml:wikiDataId>
+    <ctml:latitude>6.89160000</ctml:latitude>
+    <ctml:longitude>80.59550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66490" kind="city">
+    <ctml:name>Kandy District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-2</ctml:parentRef>
+    <ctml:wikiDataId>Q723002</ctml:wikiDataId>
+    <ctml:latitude>7.30440000</ctml:latitude>
+    <ctml:longitude>80.70730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66505" kind="city">
+    <ctml:name>Matale</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-2</ctml:parentRef>
+    <ctml:wikiDataId>Q1540498</ctml:wikiDataId>
+    <ctml:latitude>7.46980000</ctml:latitude>
+    <ctml:longitude>80.62170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66506" kind="city">
+    <ctml:name>Matale District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-2</ctml:parentRef>
+    <ctml:wikiDataId>Q787421</ctml:wikiDataId>
+    <ctml:latitude>7.65980000</ctml:latitude>
+    <ctml:longitude>80.70730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66517" kind="city">
+    <ctml:name>Nuwara Eliya</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-2</ctml:parentRef>
+    <ctml:wikiDataId>Q1340579</ctml:wikiDataId>
+    <ctml:latitude>6.97078000</ctml:latitude>
+    <ctml:longitude>80.78286000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66518" kind="city">
+    <ctml:name>Nuwara Eliya District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-2</ctml:parentRef>
+    <ctml:wikiDataId>Q1583950</ctml:wikiDataId>
+    <ctml:latitude>6.97850000</ctml:latitude>
+    <ctml:longitude>80.71330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66529" kind="city">
+    <ctml:name>Sigiriya</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-2</ctml:parentRef>
+    <ctml:wikiDataId>Q272153</ctml:wikiDataId>
+    <ctml:latitude>7.94946000</ctml:latitude>
+    <ctml:longitude>80.75037000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66531" kind="city">
+    <ctml:name>Talawakele</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-2</ctml:parentRef>
+    <ctml:wikiDataId>Q7678986</ctml:wikiDataId>
+    <ctml:latitude>6.93710000</ctml:latitude>
+    <ctml:longitude>80.65810000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66464" kind="city">
+    <ctml:name>Dehiwala-Mount Lavinia</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Colombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-11</ctml:parentRef>
+    <ctml:wikiDataId>Q24462</ctml:wikiDataId>
+    <ctml:latitude>6.84019000</ctml:latitude>
+    <ctml:longitude>79.87116000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66479" kind="city">
+    <ctml:name>Homagama</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Colombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-11</ctml:parentRef>
+    <ctml:wikiDataId>Q5887377</ctml:wikiDataId>
+    <ctml:latitude>6.84879896</ctml:latitude>
+    <ctml:longitude>80.00467300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146181" kind="city">
+    <ctml:name>Kaduwela</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Colombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-11</ctml:parentRef>
+    <ctml:wikiDataId>Q6345805</ctml:wikiDataId>
+    <ctml:latitude>6.93106260</ctml:latitude>
+    <ctml:longitude>79.97944220</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146180" kind="city">
+    <ctml:name>Kesbewa</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Colombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-11</ctml:parentRef>
+    <ctml:wikiDataId>Q6394911</ctml:wikiDataId>
+    <ctml:latitude>6.78425894</ctml:latitude>
+    <ctml:longitude>79.94665276</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66499" kind="city">
+    <ctml:name>Kolonnawa</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Colombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-11</ctml:parentRef>
+    <ctml:wikiDataId>Q6427785</ctml:wikiDataId>
+    <ctml:latitude>6.92893463</ctml:latitude>
+    <ctml:longitude>79.89495168</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146176" kind="city">
+    <ctml:name>Kotte</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Colombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-11</ctml:parentRef>
+    <ctml:wikiDataId>Q6434328</ctml:wikiDataId>
+    <ctml:latitude>6.88932048</ctml:latitude>
+    <ctml:longitude>79.90359501</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66504" kind="city">
+    <ctml:name>Maharagama</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Colombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-11</ctml:parentRef>
+    <ctml:wikiDataId>Q6733192</ctml:wikiDataId>
+    <ctml:latitude>6.84954886</ctml:latitude>
+    <ctml:longitude>79.92507313</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66514" kind="city">
+    <ctml:name>Moratuwa</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Colombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-11</ctml:parentRef>
+    <ctml:wikiDataId>Q6909302</ctml:wikiDataId>
+    <ctml:latitude>6.78149272</ctml:latitude>
+    <ctml:longitude>79.88347117</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146179" kind="city">
+    <ctml:name>Padukka</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Colombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-11</ctml:parentRef>
+    <ctml:wikiDataId>Q7124001</ctml:wikiDataId>
+    <ctml:latitude>6.84794680</ctml:latitude>
+    <ctml:longitude>80.10153292</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146178" kind="city">
+    <ctml:name>Ratmalana</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Colombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-11</ctml:parentRef>
+    <ctml:wikiDataId>Q7295826</ctml:wikiDataId>
+    <ctml:latitude>6.82105987</ctml:latitude>
+    <ctml:longitude>79.88023083</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146177" kind="city">
+    <ctml:name>Seethawaka</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Colombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-11</ctml:parentRef>
+    <ctml:wikiDataId>Q7445984</ctml:wikiDataId>
+    <ctml:latitude>6.92959912</ctml:latitude>
+    <ctml:longitude>80.14979867</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146175" kind="city">
+    <ctml:name>Thimbirigasyaya</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Colombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-11</ctml:parentRef>
+    <ctml:wikiDataId>Q7784197</ctml:wikiDataId>
+    <ctml:latitude>6.90214217</ctml:latitude>
+    <ctml:longitude>79.86957578</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66449" kind="city">
+    <ctml:name>Ampara</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-5</ctml:parentRef>
+    <ctml:wikiDataId>Q696444</ctml:wikiDataId>
+    <ctml:latitude>7.29754000</ctml:latitude>
+    <ctml:longitude>81.68202000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66450" kind="city">
+    <ctml:name>Ampara District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-5</ctml:parentRef>
+    <ctml:wikiDataId>Q474395</ctml:wikiDataId>
+    <ctml:latitude>7.08330000</ctml:latitude>
+    <ctml:longitude>81.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66456" kind="city">
+    <ctml:name>Batticaloa</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-5</ctml:parentRef>
+    <ctml:wikiDataId>Q810963</ctml:wikiDataId>
+    <ctml:latitude>7.71020000</ctml:latitude>
+    <ctml:longitude>81.69240000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66457" kind="city">
+    <ctml:name>Batticaloa District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-5</ctml:parentRef>
+    <ctml:wikiDataId>Q810960</ctml:wikiDataId>
+    <ctml:latitude>7.75000000</ctml:latitude>
+    <ctml:longitude>81.49970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66467" kind="city">
+    <ctml:name>Eravur Town</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-5</ctml:parentRef>
+    <ctml:wikiDataId>Q24462</ctml:wikiDataId>
+    <ctml:latitude>7.77820000</ctml:latitude>
+    <ctml:longitude>81.60380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66486" kind="city">
+    <ctml:name>Kalmunai</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-5</ctml:parentRef>
+    <ctml:wikiDataId>Q1101382</ctml:wikiDataId>
+    <ctml:latitude>7.40902000</ctml:latitude>
+    <ctml:longitude>81.83472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66535" kind="city">
+    <ctml:name>Trincomalee District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-5</ctml:parentRef>
+    <ctml:wikiDataId>Q1493318</ctml:wikiDataId>
+    <ctml:latitude>8.58333000</ctml:latitude>
+    <ctml:longitude>81.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66537" kind="city">
+    <ctml:name>Vakarai</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-5</ctml:parentRef>
+    <ctml:wikiDataId>Q7908969</ctml:wikiDataId>
+    <ctml:latitude>8.13333000</ctml:latitude>
+    <ctml:longitude>81.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146150" kind="city">
+    <ctml:name>Alawatugoda</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q4708898</ctml:wikiDataId>
+    <ctml:latitude>7.41048962</ctml:latitude>
+    <ctml:longitude>80.60918933</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146148" kind="city">
+    <ctml:name>Daskara</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q16954544</ctml:wikiDataId>
+    <ctml:latitude>7.20902217</ctml:latitude>
+    <ctml:longitude>80.57764643</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146147" kind="city">
+    <ctml:name>Daulagala</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q5227987</ctml:wikiDataId>
+    <ctml:latitude>7.22882494</ctml:latitude>
+    <ctml:longitude>80.57756073</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146172" kind="city">
+    <ctml:name>Doluwa</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q5289696</ctml:wikiDataId>
+    <ctml:latitude>7.18518536</ctml:latitude>
+    <ctml:longitude>80.60573450</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146145" kind="city">
+    <ctml:name>Galhinna</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q5518540</ctml:wikiDataId>
+    <ctml:latitude>7.41614200</ctml:latitude>
+    <ctml:longitude>80.56884200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66472" kind="city">
+    <ctml:name>Gampola</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q8264065</ctml:wikiDataId>
+    <ctml:latitude>7.16430000</ctml:latitude>
+    <ctml:longitude>80.56960000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146171" kind="city">
+    <ctml:name>Ganga Ihala Korale</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q5520982</ctml:wikiDataId>
+    <ctml:latitude>7.11455516</ctml:latitude>
+    <ctml:longitude>80.51448810</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146144" kind="city">
+    <ctml:name>Hanguranketa</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q5648094</ctml:wikiDataId>
+    <ctml:latitude>7.16666700</ctml:latitude>
+    <ctml:longitude>80.78333300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146143" kind="city">
+    <ctml:name>Hapugastalawa</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q16252009</ctml:wikiDataId>
+    <ctml:latitude>7.05872498</ctml:latitude>
+    <ctml:longitude>80.57137014</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146170" kind="city">
+    <ctml:name>Harispattuwa</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q5657965</ctml:wikiDataId>
+    <ctml:latitude>7.33016007</ctml:latitude>
+    <ctml:longitude>80.58765149</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66485" kind="city">
+    <ctml:name>Kadugannawa</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q6345741</ctml:wikiDataId>
+    <ctml:latitude>7.25470000</ctml:latitude>
+    <ctml:longitude>80.52420000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146168" kind="city">
+    <ctml:name>Kandy Four Gravets</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q723002</ctml:wikiDataId>
+    <ctml:latitude>7.28318748</ctml:latitude>
+    <ctml:longitude>80.63527585</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146153" kind="city">
+    <ctml:name>Katugastota</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q42272</ctml:wikiDataId>
+    <ctml:latitude>7.33333300</ctml:latitude>
+    <ctml:longitude>80.61666700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146167" kind="city">
+    <ctml:name>Kundasale</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q12980327</ctml:wikiDataId>
+    <ctml:latitude>7.30391594</ctml:latitude>
+    <ctml:longitude>80.71230408</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146142" kind="city">
+    <ctml:name>Madawala</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q6726546</ctml:wikiDataId>
+    <ctml:latitude>7.32833100</ctml:latitude>
+    <ctml:longitude>80.67355200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146166" kind="city">
+    <ctml:name>Medadumbara</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q6804979</ctml:wikiDataId>
+    <ctml:latitude>7.30425996</ctml:latitude>
+    <ctml:longitude>80.77519844</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146141" kind="city">
+    <ctml:name>Menikdiwela</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q6817056</ctml:wikiDataId>
+    <ctml:latitude>7.08333300</ctml:latitude>
+    <ctml:longitude>80.73333300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146165" kind="city">
+    <ctml:name>Minipe</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q6865676</ctml:wikiDataId>
+    <ctml:latitude>7.22638754</ctml:latitude>
+    <ctml:longitude>81.00116732</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146151" kind="city">
+    <ctml:name>Nawalapitiya</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3536138</ctml:wikiDataId>
+    <ctml:latitude>7.03696481</ctml:latitude>
+    <ctml:longitude>80.51626688</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146164" kind="city">
+    <ctml:name>Panvila</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7131982</ctml:wikiDataId>
+    <ctml:latitude>7.40929750</ctml:latitude>
+    <ctml:longitude>80.73966228</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146163" kind="city">
+    <ctml:name>Pasbage Korale</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7141629</ctml:wikiDataId>
+    <ctml:latitude>7.01510450</ctml:latitude>
+    <ctml:longitude>80.54078073</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146161" kind="city">
+    <ctml:name>Pathahewaheta</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7144676</ctml:wikiDataId>
+    <ctml:latitude>7.23139207</ctml:latitude>
+    <ctml:longitude>80.70848937</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146140" kind="city">
+    <ctml:name>Pilimathalawa</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7194023</ctml:wikiDataId>
+    <ctml:latitude>7.27000000</ctml:latitude>
+    <ctml:longitude>80.57000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146160" kind="city">
+    <ctml:name>Poojapitiya</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7228532</ctml:wikiDataId>
+    <ctml:latitude>7.38093796</ctml:latitude>
+    <ctml:longitude>80.58913708</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146139" kind="city">
+    <ctml:name>Pussellawa</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7261927</ctml:wikiDataId>
+    <ctml:latitude>7.10533300</ctml:latitude>
+    <ctml:longitude>80.63666700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146137" kind="city">
+    <ctml:name>Teldeniya</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7695692</ctml:wikiDataId>
+    <ctml:latitude>7.30000000</ctml:latitude>
+    <ctml:longitude>80.76666700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146133" kind="city">
+    <ctml:name>Udadumbara</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q28448705</ctml:wikiDataId>
+    <ctml:latitude>7.35000000</ctml:latitude>
+    <ctml:longitude>80.83333300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146158" kind="city">
+    <ctml:name>Udapalatha</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7876920</ctml:wikiDataId>
+    <ctml:latitude>7.11515526</ctml:latitude>
+    <ctml:longitude>80.60248340</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146157" kind="city">
+    <ctml:name>Ududumbara</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7876855</ctml:wikiDataId>
+    <ctml:latitude>7.31434839</ctml:latitude>
+    <ctml:longitude>80.87707756</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146156" kind="city">
+    <ctml:name>Udunuwara</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7877347</ctml:wikiDataId>
+    <ctml:latitude>7.22777866</ctml:latitude>
+    <ctml:longitude>80.55894578</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146136" kind="city">
+    <ctml:name>Ulapane</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q16902267</ctml:wikiDataId>
+    <ctml:latitude>7.10277800</ctml:latitude>
+    <ctml:longitude>80.56111100</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146135" kind="city">
+    <ctml:name>Watadeniya</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7972972</ctml:wikiDataId>
+    <ctml:latitude>7.19501100</ctml:latitude>
+    <ctml:longitude>80.55249400</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66542" kind="city">
+    <ctml:name>Wattegama</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7974935</ctml:wikiDataId>
+    <ctml:latitude>7.35027800</ctml:latitude>
+    <ctml:longitude>80.68250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146134" kind="city">
+    <ctml:name>Welamboda</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7980493</ctml:wikiDataId>
+    <ctml:latitude>7.20000000</ctml:latitude>
+    <ctml:longitude>80.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-146155" kind="city">
+    <ctml:name>Yatinuwara</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Kandy</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-21</ctml:parentRef>
+    <ctml:wikiDataId>Q8050245</ctml:wikiDataId>
+    <ctml:latitude>7.28584509</ctml:latitude>
+    <ctml:longitude>80.53516168</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66452" kind="city">
+    <ctml:name>Anuradhapura District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>North Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-7</ctml:parentRef>
+    <ctml:wikiDataId>Q612614</ctml:wikiDataId>
+    <ctml:latitude>8.33333000</ctml:latitude>
+    <ctml:longitude>80.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66509" kind="city">
+    <ctml:name>Mihintale</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>North Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-7</ctml:parentRef>
+    <ctml:wikiDataId>Q1281285</ctml:wikiDataId>
+    <ctml:latitude>8.35930000</ctml:latitude>
+    <ctml:longitude>80.51030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66523" kind="city">
+    <ctml:name>Polonnaruwa</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>North Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-7</ctml:parentRef>
+    <ctml:wikiDataId>Q394443</ctml:wikiDataId>
+    <ctml:latitude>7.93965000</ctml:latitude>
+    <ctml:longitude>81.00274000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66524" kind="city">
+    <ctml:name>Polonnaruwa District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>North Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-7</ctml:parentRef>
+    <ctml:wikiDataId>Q931057</ctml:wikiDataId>
+    <ctml:latitude>8.00000000</ctml:latitude>
+    <ctml:longitude>81.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66460" kind="city">
+    <ctml:name>Chilaw</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>North Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-6</ctml:parentRef>
+    <ctml:wikiDataId>Q2495639</ctml:wikiDataId>
+    <ctml:latitude>7.57583000</ctml:latitude>
+    <ctml:longitude>79.79528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66501" kind="city">
+    <ctml:name>Kuliyapitiya</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>North Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-6</ctml:parentRef>
+    <ctml:wikiDataId>Q1153291</ctml:wikiDataId>
+    <ctml:latitude>7.46880000</ctml:latitude>
+    <ctml:longitude>80.04010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66503" kind="city">
+    <ctml:name>Kurunegala District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>North Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-6</ctml:parentRef>
+    <ctml:wikiDataId>Q745073</ctml:wikiDataId>
+    <ctml:latitude>7.75000000</ctml:latitude>
+    <ctml:longitude>80.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66525" kind="city">
+    <ctml:name>Puttalam</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>North Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-6</ctml:parentRef>
+    <ctml:wikiDataId>Q3088741</ctml:wikiDataId>
+    <ctml:latitude>8.03620000</ctml:latitude>
+    <ctml:longitude>79.82830000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66526" kind="city">
+    <ctml:name>Puttalam District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>North Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-6</ctml:parentRef>
+    <ctml:wikiDataId>Q1665318</ctml:wikiDataId>
+    <ctml:latitude>8.04540000</ctml:latitude>
+    <ctml:longitude>79.93190000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66484" kind="city">
+    <ctml:name>Jaffna District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-4</ctml:parentRef>
+    <ctml:wikiDataId>Q1520182</ctml:wikiDataId>
+    <ctml:latitude>9.75000000</ctml:latitude>
+    <ctml:longitude>80.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66496" kind="city">
+    <ctml:name>Kilinochchi</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-4</ctml:parentRef>
+    <ctml:wikiDataId>Q303317</ctml:wikiDataId>
+    <ctml:latitude>9.39610000</ctml:latitude>
+    <ctml:longitude>80.39820000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66497" kind="city">
+    <ctml:name>Kilinochchi District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-4</ctml:parentRef>
+    <ctml:wikiDataId>Q1584007</ctml:wikiDataId>
+    <ctml:latitude>9.39487000</ctml:latitude>
+    <ctml:longitude>80.40894000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66522" kind="city">
+    <ctml:name>Point Pedro</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-4</ctml:parentRef>
+    <ctml:wikiDataId>Q2307889</ctml:wikiDataId>
+    <ctml:latitude>9.81667000</ctml:latitude>
+    <ctml:longitude>80.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66538" kind="city">
+    <ctml:name>Valvedditturai</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-4</ctml:parentRef>
+    <ctml:wikiDataId>Q2688290</ctml:wikiDataId>
+    <ctml:latitude>9.81667000</ctml:latitude>
+    <ctml:longitude>80.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66539" kind="city">
+    <ctml:name>Vavuniya</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-4</ctml:parentRef>
+    <ctml:wikiDataId>Q1191330</ctml:wikiDataId>
+    <ctml:latitude>8.75140000</ctml:latitude>
+    <ctml:longitude>80.49710000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66540" kind="city">
+    <ctml:name>Vavuniya District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-4</ctml:parentRef>
+    <ctml:wikiDataId>Q527980</ctml:wikiDataId>
+    <ctml:latitude>8.86134000</ctml:latitude>
+    <ctml:longitude>80.47576000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66493" kind="city">
+    <ctml:name>Kegalle</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Sabaragamuwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-9</ctml:parentRef>
+    <ctml:wikiDataId>Q1968268</ctml:wikiDataId>
+    <ctml:latitude>7.25230000</ctml:latitude>
+    <ctml:longitude>80.34360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66494" kind="city">
+    <ctml:name>Kegalle District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Sabaragamuwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-9</ctml:parentRef>
+    <ctml:wikiDataId>Q1737803</ctml:wikiDataId>
+    <ctml:latitude>7.11670000</ctml:latitude>
+    <ctml:longitude>80.33330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66528" kind="city">
+    <ctml:name>Ratnapura District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Sabaragamuwa</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-9</ctml:parentRef>
+    <ctml:wikiDataId>Q1587175</ctml:wikiDataId>
+    <ctml:latitude>6.58310000</ctml:latitude>
+    <ctml:longitude>80.58330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66448" kind="city">
+    <ctml:name>Ambalangoda</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-3</ctml:parentRef>
+    <ctml:wikiDataId>Q4740977</ctml:wikiDataId>
+    <ctml:latitude>6.23550000</ctml:latitude>
+    <ctml:longitude>80.05380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66458" kind="city">
+    <ctml:name>Bentota</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-3</ctml:parentRef>
+    <ctml:wikiDataId>Q4890663</ctml:wikiDataId>
+    <ctml:latitude>6.42598000</ctml:latitude>
+    <ctml:longitude>79.99575000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66465" kind="city">
+    <ctml:name>Devinuwara</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-3</ctml:parentRef>
+    <ctml:wikiDataId>Q24462</ctml:wikiDataId>
+    <ctml:latitude>5.92825000</ctml:latitude>
+    <ctml:longitude>80.58880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66469" kind="city">
+    <ctml:name>Galle District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-3</ctml:parentRef>
+    <ctml:wikiDataId>Q647649</ctml:wikiDataId>
+    <ctml:latitude>6.25000000</ctml:latitude>
+    <ctml:longitude>80.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66473" kind="city">
+    <ctml:name>Hambantota</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-3</ctml:parentRef>
+    <ctml:wikiDataId>Q723006</ctml:wikiDataId>
+    <ctml:latitude>6.25440000</ctml:latitude>
+    <ctml:longitude>81.11110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66478" kind="city">
+    <ctml:name>Hikkaduwa</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-3</ctml:parentRef>
+    <ctml:wikiDataId>Q1618065</ctml:wikiDataId>
+    <ctml:latitude>6.14070000</ctml:latitude>
+    <ctml:longitude>80.10120000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66498" kind="city">
+    <ctml:name>Koggala</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-3</ctml:parentRef>
+    <ctml:wikiDataId>Q1584007</ctml:wikiDataId>
+    <ctml:latitude>5.98860000</ctml:latitude>
+    <ctml:longitude>80.32860000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66507" kind="city">
+    <ctml:name>Matara</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-3</ctml:parentRef>
+    <ctml:wikiDataId>Q13360574</ctml:wikiDataId>
+    <ctml:latitude>5.94851000</ctml:latitude>
+    <ctml:longitude>80.53528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66508" kind="city">
+    <ctml:name>Matara District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-3</ctml:parentRef>
+    <ctml:wikiDataId>Q1281285</ctml:wikiDataId>
+    <ctml:latitude>6.13290000</ctml:latitude>
+    <ctml:longitude>80.52800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66511" kind="city">
+    <ctml:name>Mirissa city</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-3</ctml:parentRef>
+    <ctml:wikiDataId>Q1281285</ctml:wikiDataId>
+    <ctml:latitude>5.94655000</ctml:latitude>
+    <ctml:longitude>80.45831000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66532" kind="city">
+    <ctml:name>Talpe</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-3</ctml:parentRef>
+    <ctml:wikiDataId>Q7678986</ctml:wikiDataId>
+    <ctml:latitude>5.99990000</ctml:latitude>
+    <ctml:longitude>80.27870000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66533" kind="city">
+    <ctml:name>Tangalle</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-3</ctml:parentRef>
+    <ctml:wikiDataId>Q598658</ctml:wikiDataId>
+    <ctml:latitude>6.02338000</ctml:latitude>
+    <ctml:longitude>80.79738000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66536" kind="city">
+    <ctml:name>Unawatuna</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-3</ctml:parentRef>
+    <ctml:wikiDataId>Q651301</ctml:wikiDataId>
+    <ctml:latitude>6.02120000</ctml:latitude>
+    <ctml:longitude>80.25030000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66543" kind="city">
+    <ctml:name>Weligama</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Southern</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-3</ctml:parentRef>
+    <ctml:wikiDataId>Q3534843</ctml:wikiDataId>
+    <ctml:latitude>5.97501000</ctml:latitude>
+    <ctml:longitude>80.42968000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66454" kind="city">
+    <ctml:name>Badulla District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Uva</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-8</ctml:parentRef>
+    <ctml:wikiDataId>Q799713</ctml:wikiDataId>
+    <ctml:latitude>6.98472000</ctml:latitude>
+    <ctml:longitude>81.05639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66466" kind="city">
+    <ctml:name>Ella Town</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Uva</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-8</ctml:parentRef>
+    <ctml:wikiDataId>Q24462</ctml:wikiDataId>
+    <ctml:latitude>6.87560000</ctml:latitude>
+    <ctml:longitude>81.04630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66475" kind="city">
+    <ctml:name>Haputale</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Uva</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-8</ctml:parentRef>
+    <ctml:wikiDataId>Q723006</ctml:wikiDataId>
+    <ctml:latitude>6.76566000</ctml:latitude>
+    <ctml:longitude>80.95104000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66491" kind="city">
+    <ctml:name>Kataragama</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Uva</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-8</ctml:parentRef>
+    <ctml:wikiDataId>Q302558</ctml:wikiDataId>
+    <ctml:latitude>6.41340000</ctml:latitude>
+    <ctml:longitude>81.33460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66512" kind="city">
+    <ctml:name>Monaragala</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Uva</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-8</ctml:parentRef>
+    <ctml:wikiDataId>Q1281285</ctml:wikiDataId>
+    <ctml:latitude>6.87140000</ctml:latitude>
+    <ctml:longitude>81.34870000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66513" kind="city">
+    <ctml:name>Moneragala</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Uva</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-8</ctml:parentRef>
+    <ctml:wikiDataId>Q923420</ctml:wikiDataId>
+    <ctml:latitude>6.66667000</ctml:latitude>
+    <ctml:longitude>81.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66545" kind="city">
+    <ctml:name>Wellawaya</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Uva</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-8</ctml:parentRef>
+    <ctml:wikiDataId>Q3534843</ctml:wikiDataId>
+    <ctml:latitude>6.73694000</ctml:latitude>
+    <ctml:longitude>81.10279000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66455" kind="city">
+    <ctml:name>Battaramulla South</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q4869689</ctml:wikiDataId>
+    <ctml:latitude>6.89640000</ctml:latitude>
+    <ctml:longitude>79.91810000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66459" kind="city">
+    <ctml:name>Beruwala</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q829211</ctml:wikiDataId>
+    <ctml:latitude>6.47880000</ctml:latitude>
+    <ctml:longitude>79.98280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66461" kind="city">
+    <ctml:name>Colombo</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q35381</ctml:wikiDataId>
+    <ctml:latitude>6.93548000</ctml:latitude>
+    <ctml:longitude>79.84868000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66462" kind="city">
+    <ctml:name>Colombo District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q606287</ctml:wikiDataId>
+    <ctml:latitude>6.86640000</ctml:latitude>
+    <ctml:longitude>80.01660000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66470" kind="city">
+    <ctml:name>Gampaha</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q2616818</ctml:wikiDataId>
+    <ctml:latitude>7.08970000</ctml:latitude>
+    <ctml:longitude>79.99250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66471" kind="city">
+    <ctml:name>Gampaha District</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q206344</ctml:wikiDataId>
+    <ctml:latitude>7.13330000</ctml:latitude>
+    <ctml:longitude>80.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66474" kind="city">
+    <ctml:name>Hanwella Ihala</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q723006</ctml:wikiDataId>
+    <ctml:latitude>6.90120000</ctml:latitude>
+    <ctml:longitude>80.08520000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66477" kind="city">
+    <ctml:name>Hendala</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q390564</ctml:wikiDataId>
+    <ctml:latitude>6.99090000</ctml:latitude>
+    <ctml:longitude>79.88300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66480" kind="city">
+    <ctml:name>Horana South</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q1618065</ctml:wikiDataId>
+    <ctml:latitude>6.71590000</ctml:latitude>
+    <ctml:longitude>80.06260000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66481" kind="city">
+    <ctml:name>Horawala Junction</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q1618065</ctml:wikiDataId>
+    <ctml:latitude>6.48088000</ctml:latitude>
+    <ctml:longitude>80.12708000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66482" kind="city">
+    <ctml:name>Ja Ela</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q1618065</ctml:wikiDataId>
+    <ctml:latitude>7.07440000</ctml:latitude>
+    <ctml:longitude>79.89190000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66487" kind="city">
+    <ctml:name>Kalutara</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q1295530</ctml:wikiDataId>
+    <ctml:latitude>6.58310000</ctml:latitude>
+    <ctml:longitude>79.95930000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66488" kind="city">
+    <ctml:name>Kandana</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q6361287</ctml:wikiDataId>
+    <ctml:latitude>7.04800000</ctml:latitude>
+    <ctml:longitude>79.89370000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66492" kind="city">
+    <ctml:name>Katunayaka</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q2887547</ctml:wikiDataId>
+    <ctml:latitude>7.16992000</ctml:latitude>
+    <ctml:longitude>79.88837000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66495" kind="city">
+    <ctml:name>Kelaniya</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q3522428</ctml:wikiDataId>
+    <ctml:latitude>6.95530000</ctml:latitude>
+    <ctml:longitude>79.92200000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66500" kind="city">
+    <ctml:name>Kotikawatta</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q1153291</ctml:wikiDataId>
+    <ctml:latitude>6.92690000</ctml:latitude>
+    <ctml:longitude>79.90950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66510" kind="city">
+    <ctml:name>Minuwangoda</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q1281285</ctml:wikiDataId>
+    <ctml:latitude>7.16630000</ctml:latitude>
+    <ctml:longitude>79.95330000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66515" kind="city">
+    <ctml:name>Mulleriyawa</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q867213</ctml:wikiDataId>
+    <ctml:latitude>6.93300000</ctml:latitude>
+    <ctml:longitude>79.92970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66516" kind="city">
+    <ctml:name>Negombo</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q668616</ctml:wikiDataId>
+    <ctml:latitude>7.20830000</ctml:latitude>
+    <ctml:longitude>79.83580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66519" kind="city">
+    <ctml:name>Panadura</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q7129771</ctml:wikiDataId>
+    <ctml:latitude>6.71320000</ctml:latitude>
+    <ctml:longitude>79.90260000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66520" kind="city">
+    <ctml:name>Peliyagoda</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q7129771</ctml:wikiDataId>
+    <ctml:latitude>6.96850000</ctml:latitude>
+    <ctml:longitude>79.88360000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66521" kind="city">
+    <ctml:name>Pita Kotte</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q7129771</ctml:wikiDataId>
+    <ctml:latitude>6.89050000</ctml:latitude>
+    <ctml:longitude>79.90150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66530" kind="city">
+    <ctml:name>Sri Jayewardenepura Kotte</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q41963</ctml:wikiDataId>
+    <ctml:latitude>6.88297000</ctml:latitude>
+    <ctml:longitude>79.90708000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66541" kind="city">
+    <ctml:name>Wattala</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q7974929</ctml:wikiDataId>
+    <ctml:latitude>6.98918000</ctml:latitude>
+    <ctml:longitude>79.89167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LKA-66544" kind="city">
+    <ctml:name>Welisara</ctml:name>
+    <ctml:country>LKA</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:LK-1</ctml:parentRef>
+    <ctml:wikiDataId>Q3534843</ctml:wikiDataId>
+    <ctml:latitude>7.02810000</ctml:latitude>
+    <ctml:longitude>79.90140000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:GUM-160269" kind="city">
+    <ctml:name>Hagåtña</ctml:name>
+    <ctml:country>GUM</ctml:country>
+    <ctml:admin1>Hagåtña</ctml:admin1>
+    <ctml:parentRef>place:admin1:GU-12</ctml:parentRef>
+    <ctml:latitude>13.47567000</ctml:latitude>
+    <ctml:longitude>144.74886000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUM-160268" kind="city">
+    <ctml:name>Hagåtña Village</ctml:name>
+    <ctml:country>GUM</ctml:country>
+    <ctml:admin1>Hagåtña</ctml:admin1>
+    <ctml:parentRef>place:admin1:GU-12</ctml:parentRef>
+    <ctml:latitude>13.47279000</ctml:latitude>
+    <ctml:longitude>144.75802000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUM-160265" kind="city">
+    <ctml:name>Adacao</ctml:name>
+    <ctml:country>GUM</ctml:country>
+    <ctml:admin1>Mangilao</ctml:admin1>
+    <ctml:parentRef>place:admin1:GU-10</ctml:parentRef>
+    <ctml:latitude>13.49242000</ctml:latitude>
+    <ctml:longitude>144.84470000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUM-160271" kind="city">
+    <ctml:name>Apra Harbor</ctml:name>
+    <ctml:country>GUM</ctml:country>
+    <ctml:admin1>Santa Rita (Sånta Rita-Sumai)</ctml:admin1>
+    <ctml:parentRef>place:admin1:GU-14</ctml:parentRef>
+    <ctml:latitude>13.42827000</ctml:latitude>
+    <ctml:longitude>144.65252000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUM-160276" kind="city">
+    <ctml:name>Apotgan</ctml:name>
+    <ctml:country>GUM</ctml:country>
+    <ctml:admin1>Tamuning</ctml:admin1>
+    <ctml:parentRef>place:admin1:GU-17</ctml:parentRef>
+    <ctml:latitude>13.48817000</ctml:latitude>
+    <ctml:longitude>144.77644000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUM-160275" kind="city">
+    <ctml:name>Tamuning</ctml:name>
+    <ctml:country>GUM</ctml:country>
+    <ctml:admin1>Tamuning</ctml:admin1>
+    <ctml:parentRef>place:admin1:GU-17</ctml:parentRef>
+    <ctml:latitude>13.48754000</ctml:latitude>
+    <ctml:longitude>144.78143000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUM-160279" kind="city">
+    <ctml:name>Anao</ctml:name>
+    <ctml:country>GUM</ctml:country>
+    <ctml:admin1>Yigo</ctml:admin1>
+    <ctml:parentRef>place:admin1:GU-18</ctml:parentRef>
+    <ctml:latitude>13.52890000</ctml:latitude>
+    <ctml:longitude>144.91820000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GUM-160278" kind="city">
+    <ctml:name>Chaguian</ctml:name>
+    <ctml:country>GUM</ctml:country>
+    <ctml:admin1>Yigo</ctml:admin1>
+    <ctml:parentRef>place:admin1:GU-18</ctml:parentRef>
+    <ctml:latitude>13.57175000</ctml:latitude>
+    <ctml:longitude>144.88058000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

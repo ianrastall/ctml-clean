@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:COG-17345" kind="city">
+    <ctml:name>Kayes</ctml:name>
+    <ctml:country>COG</ctml:country>
+    <ctml:admin1>Bouenza</ctml:admin1>
+    <ctml:parentRef>place:admin1:CG-11</ctml:parentRef>
+    <ctml:wikiDataId>Q6271177</ctml:wikiDataId>
+    <ctml:latitude>-4.20493000</ctml:latitude>
+    <ctml:longitude>13.28608000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COG-17339" kind="city">
+    <ctml:name>Brazzaville</ctml:name>
+    <ctml:country>COG</ctml:country>
+    <ctml:admin1>Brazzaville</ctml:admin1>
+    <ctml:parentRef>place:admin1:CG-BZV</ctml:parentRef>
+    <ctml:wikiDataId>Q3844</ctml:wikiDataId>
+    <ctml:latitude>-4.26613000</ctml:latitude>
+    <ctml:longitude>15.28318000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COG-17349" kind="city">
+    <ctml:name>Makoua</ctml:name>
+    <ctml:country>COG</ctml:country>
+    <ctml:admin1>Cuvette</ctml:admin1>
+    <ctml:parentRef>place:admin1:CG-8</ctml:parentRef>
+    <ctml:wikiDataId>Q1667693</ctml:wikiDataId>
+    <ctml:latitude>0.00694000</ctml:latitude>
+    <ctml:longitude>15.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COG-17350" kind="city">
+    <ctml:name>Mossendjo</ctml:name>
+    <ctml:country>COG</ctml:country>
+    <ctml:admin1>Niari</ctml:admin1>
+    <ctml:parentRef>place:admin1:CG-9</ctml:parentRef>
+    <ctml:wikiDataId>Q3307130</ctml:wikiDataId>
+    <ctml:latitude>-2.94968000</ctml:latitude>
+    <ctml:longitude>12.70423000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COG-17343" kind="city">
+    <ctml:name>Gamboma</ctml:name>
+    <ctml:country>COG</ctml:country>
+    <ctml:admin1>Plateaux</ctml:admin1>
+    <ctml:parentRef>place:admin1:CG-14</ctml:parentRef>
+    <ctml:wikiDataId>Q22624469</ctml:wikiDataId>
+    <ctml:latitude>-1.87639000</ctml:latitude>
+    <ctml:longitude>15.86444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COG-17347" kind="city">
+    <ctml:name>Loandjili</ctml:name>
+    <ctml:country>COG</ctml:country>
+    <ctml:admin1>Pointe-Noire</ctml:admin1>
+    <ctml:parentRef>place:admin1:CG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q22643954</ctml:wikiDataId>
+    <ctml:latitude>-4.75611000</ctml:latitude>
+    <ctml:longitude>11.85778000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:COG-17355" kind="city">
+    <ctml:name>Sémbé</ctml:name>
+    <ctml:country>COG</ctml:country>
+    <ctml:admin1>Sangha</ctml:admin1>
+    <ctml:parentRef>place:admin1:CG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q223920</ctml:wikiDataId>
+    <ctml:latitude>1.64806000</ctml:latitude>
+    <ctml:longitude>14.58056000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

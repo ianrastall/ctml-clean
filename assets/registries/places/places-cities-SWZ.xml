@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:SWZ-105084" kind="city">
+    <ctml:name>Bulembu</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Hhohho</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-HH</ctml:parentRef>
+    <ctml:wikiDataId>Q3643239</ctml:wikiDataId>
+    <ctml:latitude>-25.96667000</ctml:latitude>
+    <ctml:longitude>31.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105087" kind="city">
+    <ctml:name>Hhukwini</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Hhohho</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-HH</ctml:parentRef>
+    <ctml:wikiDataId>Q3798819</ctml:wikiDataId>
+    <ctml:latitude>-26.31972000</ctml:latitude>
+    <ctml:longitude>31.22222000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105093" kind="city">
+    <ctml:name>Lobamba</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Hhohho</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-HH</ctml:parentRef>
+    <ctml:wikiDataId>Q101418</ctml:wikiDataId>
+    <ctml:latitude>-26.46667000</ctml:latitude>
+    <ctml:longitude>31.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105099" kind="city">
+    <ctml:name>Mbabane</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Hhohho</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-HH</ctml:parentRef>
+    <ctml:wikiDataId>Q3904</ctml:wikiDataId>
+    <ctml:latitude>-26.31667000</ctml:latitude>
+    <ctml:longitude>31.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105105" kind="city">
+    <ctml:name>Nkhaba</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Hhohho</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-HH</ctml:parentRef>
+    <ctml:wikiDataId>Q3798853</ctml:wikiDataId>
+    <ctml:latitude>-26.15728000</ctml:latitude>
+    <ctml:longitude>31.16391000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105083" kind="city">
+    <ctml:name>Big Bend</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Lubombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-LU</ctml:parentRef>
+    <ctml:wikiDataId>Q858539</ctml:wikiDataId>
+    <ctml:latitude>-26.81667000</ctml:latitude>
+    <ctml:longitude>31.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105085" kind="city">
+    <ctml:name>Dvokodvweni Inkhundla</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Lubombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-LU</ctml:parentRef>
+    <ctml:wikiDataId>Q3643239</ctml:wikiDataId>
+    <ctml:latitude>-26.45398000</ctml:latitude>
+    <ctml:longitude>31.76456000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105094" kind="city">
+    <ctml:name>Lomashasha</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Lubombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-LU</ctml:parentRef>
+    <ctml:wikiDataId>Q576512</ctml:wikiDataId>
+    <ctml:latitude>-26.06644000</ctml:latitude>
+    <ctml:longitude>32.00768000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105101" kind="city">
+    <ctml:name>Mhlume</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Lubombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-LU</ctml:parentRef>
+    <ctml:wikiDataId>Q2560293</ctml:wikiDataId>
+    <ctml:latitude>-26.03333000</ctml:latitude>
+    <ctml:longitude>31.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105107" kind="city">
+    <ctml:name>Nsoko</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Lubombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-LU</ctml:parentRef>
+    <ctml:wikiDataId>Q7067578</ctml:wikiDataId>
+    <ctml:latitude>-27.03333000</ctml:latitude>
+    <ctml:longitude>31.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105113" kind="city">
+    <ctml:name>Tshaneni</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Lubombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-LU</ctml:parentRef>
+    <ctml:wikiDataId>Q2300140</ctml:wikiDataId>
+    <ctml:latitude>-25.98333000</ctml:latitude>
+    <ctml:longitude>31.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105114" kind="city">
+    <ctml:name>Vuvulane</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Lubombo</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-LU</ctml:parentRef>
+    <ctml:wikiDataId>Q2300140</ctml:wikiDataId>
+    <ctml:latitude>-26.07427000</ctml:latitude>
+    <ctml:longitude>31.87672000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105082" kind="city">
+    <ctml:name>Bhunya</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Manzini</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q31915328</ctml:wikiDataId>
+    <ctml:latitude>-26.55000000</ctml:latitude>
+    <ctml:longitude>31.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105086" kind="city">
+    <ctml:name>Ekukhanyeni</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Manzini</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2003359</ctml:wikiDataId>
+    <ctml:latitude>-26.38750000</ctml:latitude>
+    <ctml:longitude>31.52806000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105091" kind="city">
+    <ctml:name>Kwaluseni</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Manzini</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q3798822</ctml:wikiDataId>
+    <ctml:latitude>-26.48333000</ctml:latitude>
+    <ctml:longitude>31.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105095" kind="city">
+    <ctml:name>Malkerns</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Manzini</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q3699336</ctml:wikiDataId>
+    <ctml:latitude>-26.56667000</ctml:latitude>
+    <ctml:longitude>31.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105097" kind="city">
+    <ctml:name>Manzini South</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Manzini</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q3798867</ctml:wikiDataId>
+    <ctml:latitude>-26.48333000</ctml:latitude>
+    <ctml:longitude>31.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105100" kind="city">
+    <ctml:name>Mhlambanyatsi</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Manzini</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q3643138</ctml:wikiDataId>
+    <ctml:latitude>-26.45000000</ctml:latitude>
+    <ctml:longitude>31.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105103" kind="city">
+    <ctml:name>Ngwempisi</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Manzini</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q2560293</ctml:wikiDataId>
+    <ctml:latitude>-26.69990000</ctml:latitude>
+    <ctml:longitude>31.28876000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105108" kind="city">
+    <ctml:name>Ntondozi</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Manzini</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q7067578</ctml:wikiDataId>
+    <ctml:latitude>-26.63500000</ctml:latitude>
+    <ctml:longitude>31.22556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105110" kind="city">
+    <ctml:name>Sidvokodvo</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Manzini</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-MA</ctml:parentRef>
+    <ctml:wikiDataId>Q7509511</ctml:wikiDataId>
+    <ctml:latitude>-26.62820000</ctml:latitude>
+    <ctml:longitude>31.42021000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105088" kind="city">
+    <ctml:name>Hlatikulu</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Shiselweni</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q3235603</ctml:wikiDataId>
+    <ctml:latitude>-26.97917000</ctml:latitude>
+    <ctml:longitude>31.32444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105089" kind="city">
+    <ctml:name>Hluti</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Shiselweni</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q3235603</ctml:wikiDataId>
+    <ctml:latitude>-27.21667000</ctml:latitude>
+    <ctml:longitude>31.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105090" kind="city">
+    <ctml:name>Kubuta</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Shiselweni</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q3432356</ctml:wikiDataId>
+    <ctml:latitude>-26.88333000</ctml:latitude>
+    <ctml:longitude>31.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105092" kind="city">
+    <ctml:name>Lavumisa</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Shiselweni</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q3312840</ctml:wikiDataId>
+    <ctml:latitude>-27.31005000</ctml:latitude>
+    <ctml:longitude>31.89198000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105098" kind="city">
+    <ctml:name>Matsanjeni</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Shiselweni</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q3798867</ctml:wikiDataId>
+    <ctml:latitude>-27.21585000</ctml:latitude>
+    <ctml:longitude>31.72309000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105102" kind="city">
+    <ctml:name>Ngudzeni</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Shiselweni</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2560293</ctml:wikiDataId>
+    <ctml:latitude>-27.03583000</ctml:latitude>
+    <ctml:longitude>31.55111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105106" kind="city">
+    <ctml:name>Nkwene</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Shiselweni</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q3432321</ctml:wikiDataId>
+    <ctml:latitude>-26.89778000</ctml:latitude>
+    <ctml:longitude>31.24972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105111" kind="city">
+    <ctml:name>Sigwe Inkhundla</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Shiselweni</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q7509511</ctml:wikiDataId>
+    <ctml:latitude>-27.05821000</ctml:latitude>
+    <ctml:longitude>31.64543000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:SWZ-105115" kind="city">
+    <ctml:name>Zombodze Ikhundla</ctml:name>
+    <ctml:country>SWZ</ctml:country>
+    <ctml:admin1>Shiselweni</ctml:admin1>
+    <ctml:parentRef>place:admin1:SZ-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2300140</ctml:wikiDataId>
+    <ctml:latitude>-27.22746000</ctml:latitude>
+    <ctml:longitude>31.33799000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

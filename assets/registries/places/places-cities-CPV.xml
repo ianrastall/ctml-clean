@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:CPV-21992" kind="city">
+    <ctml:name>Igreja</ctml:name>
+    <ctml:country>CPV</ctml:country>
+    <ctml:admin1>Mosteiros</ctml:admin1>
+    <ctml:parentRef>place:admin1:CV-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q498968</ctml:wikiDataId>
+    <ctml:latitude>15.03389000</ctml:latitude>
+    <ctml:longitude>-24.32500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CPV-22000" kind="city">
+    <ctml:name>Praia</ctml:name>
+    <ctml:country>CPV</ctml:country>
+    <ctml:admin1>Praia</ctml:admin1>
+    <ctml:parentRef>place:admin1:CV-PR</ctml:parentRef>
+    <ctml:wikiDataId>Q3751</ctml:wikiDataId>
+    <ctml:latitude>14.93152000</ctml:latitude>
+    <ctml:longitude>-23.51254000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CPV-21998" kind="city">
+    <ctml:name>Ponta do Sol</ctml:name>
+    <ctml:country>CPV</ctml:country>
+    <ctml:admin1>Ribeira Grande</ctml:admin1>
+    <ctml:parentRef>place:admin1:CV-RG</ctml:parentRef>
+    <ctml:wikiDataId>Q768314</ctml:wikiDataId>
+    <ctml:latitude>17.20171000</ctml:latitude>
+    <ctml:longitude>-25.09217000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CPV-22002" kind="city">
+    <ctml:name>Ribeira Grande</ctml:name>
+    <ctml:country>CPV</ctml:country>
+    <ctml:admin1>Ribeira Grande</ctml:admin1>
+    <ctml:parentRef>place:admin1:CV-RG</ctml:parentRef>
+    <ctml:wikiDataId>Q3122689</ctml:wikiDataId>
+    <ctml:latitude>17.18250000</ctml:latitude>
+    <ctml:longitude>-25.06500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CPV-22005" kind="city">
+    <ctml:name>Santa Maria</ctml:name>
+    <ctml:country>CPV</ctml:country>
+    <ctml:admin1>Sal</ctml:admin1>
+    <ctml:parentRef>place:admin1:CV-SL</ctml:parentRef>
+    <ctml:wikiDataId>Q497445</ctml:wikiDataId>
+    <ctml:latitude>16.59796000</ctml:latitude>
+    <ctml:longitude>-22.90509000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:CPV-22004" kind="city">
+    <ctml:name>Santa Cruz</ctml:name>
+    <ctml:country>CPV</ctml:country>
+    <ctml:admin1>Santa Cruz</ctml:admin1>
+    <ctml:parentRef>place:admin1:CV-CR</ctml:parentRef>
+    <ctml:wikiDataId>Q501656</ctml:wikiDataId>
+    <ctml:latitude>15.13333000</ctml:latitude>
+    <ctml:longitude>-23.56667000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:STP-104838" kind="city">
+    <ctml:name>São Tomé</ctml:name>
+    <ctml:country>STP</ctml:country>
+    <ctml:admin1>Água Grande</ctml:admin1>
+    <ctml:parentRef>place:admin1:ST-01</ctml:parentRef>
+    <ctml:wikiDataId>Q3932</ctml:wikiDataId>
+    <ctml:latitude>0.33654000</ctml:latitude>
+    <ctml:longitude>6.72732000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:STP-160117" kind="city">
+    <ctml:name>Santana</ctml:name>
+    <ctml:country>STP</ctml:country>
+    <ctml:admin1>Cantagalo</ctml:admin1>
+    <ctml:parentRef>place:admin1:ST-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2704421</ctml:wikiDataId>
+    <ctml:latitude>0.25389000</ctml:latitude>
+    <ctml:longitude>6.73444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:STP-160118" kind="admin2">
+    <ctml:name>São João dos Angolares</ctml:name>
+    <ctml:country>STP</ctml:country>
+    <ctml:admin1>Caué</ctml:admin1>
+    <ctml:parentRef>place:admin1:ST-03</ctml:parentRef>
+    <ctml:wikiDataId>Q984427</ctml:wikiDataId>
+    <ctml:latitude>0.13720000</ctml:latitude>
+    <ctml:longitude>6.64972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:STP-160119" kind="city">
+    <ctml:name>Neves</ctml:name>
+    <ctml:country>STP</ctml:country>
+    <ctml:admin1>Lemba</ctml:admin1>
+    <ctml:parentRef>place:admin1:ST-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2704454</ctml:wikiDataId>
+    <ctml:latitude>0.36667000</ctml:latitude>
+    <ctml:longitude>6.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:STP-160120" kind="admin2">
+    <ctml:name>Guadalupe</ctml:name>
+    <ctml:country>STP</ctml:country>
+    <ctml:admin1>Lobata</ctml:admin1>
+    <ctml:parentRef>place:admin1:ST-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2704428</ctml:wikiDataId>
+    <ctml:latitude>0.38333000</ctml:latitude>
+    <ctml:longitude>6.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:STP-160136" kind="admin2">
+    <ctml:name>Trindade</ctml:name>
+    <ctml:country>STP</ctml:country>
+    <ctml:admin1>Mé-Zóchi</ctml:admin1>
+    <ctml:parentRef>place:admin1:ST-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1635802</ctml:wikiDataId>
+    <ctml:latitude>0.29667000</ctml:latitude>
+    <ctml:longitude>6.68139000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

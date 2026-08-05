@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:REU-155014" kind="city">
+    <ctml:name>Bras-Panon</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Benoît</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1568055</ctml:wikiDataId>
+    <ctml:latitude>-21.03158160</ctml:latitude>
+    <ctml:longitude>55.54416340</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155015" kind="city">
+    <ctml:name>La Plaine-des-Palmistes</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Benoît</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-01</ctml:parentRef>
+    <ctml:wikiDataId>Q579430</ctml:wikiDataId>
+    <ctml:latitude>-21.15295070</ctml:latitude>
+    <ctml:longitude>55.56180140</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155016" kind="city">
+    <ctml:name>Saint-André</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Benoît</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1649370</ctml:wikiDataId>
+    <ctml:latitude>-20.95677270</ctml:latitude>
+    <ctml:longitude>55.55486740</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155017" kind="city">
+    <ctml:name>Saint-Benoît</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Benoît</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-01</ctml:parentRef>
+    <ctml:wikiDataId>Q478215</ctml:wikiDataId>
+    <ctml:latitude>-21.08859460</ctml:latitude>
+    <ctml:longitude>55.46640760</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155018" kind="city">
+    <ctml:name>Sainte-Rose</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Benoît</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1014731</ctml:wikiDataId>
+    <ctml:latitude>-21.17782890</ctml:latitude>
+    <ctml:longitude>55.65939810</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155019" kind="city">
+    <ctml:name>Salazie</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Benoît</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1014778</ctml:wikiDataId>
+    <ctml:latitude>-21.05240970</ctml:latitude>
+    <ctml:longitude>55.43213370</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155020" kind="city">
+    <ctml:name>Saint-Denis</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Denis</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-02</ctml:parentRef>
+    <ctml:wikiDataId>Q47045</ctml:wikiDataId>
+    <ctml:latitude>-20.96456720</ctml:latitude>
+    <ctml:longitude>55.41835300</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155021" kind="city">
+    <ctml:name>Sainte-Marie</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Denis</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-02</ctml:parentRef>
+    <ctml:wikiDataId>Q662942</ctml:wikiDataId>
+    <ctml:latitude>-20.94628420</ctml:latitude>
+    <ctml:longitude>55.44095870</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155022" kind="city">
+    <ctml:name>Sainte-Suzanne</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Denis</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1757048</ctml:wikiDataId>
+    <ctml:latitude>-20.95063790</ctml:latitude>
+    <ctml:longitude>55.51114750</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155024" kind="city">
+    <ctml:name>La Possession</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Paul</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-03</ctml:parentRef>
+    <ctml:wikiDataId>Q429770</ctml:wikiDataId>
+    <ctml:latitude>-20.99667150</ctml:latitude>
+    <ctml:longitude>55.30941960</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155023" kind="city">
+    <ctml:name>Le Port</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Paul</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-03</ctml:parentRef>
+    <ctml:wikiDataId>Q956943</ctml:wikiDataId>
+    <ctml:latitude>-20.94599810</ctml:latitude>
+    <ctml:longitude>55.26258390</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155027" kind="city">
+    <ctml:name>Les Trois-Bassins</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Paul</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1014763</ctml:wikiDataId>
+    <ctml:latitude>-21.11380650</ctml:latitude>
+    <ctml:longitude>55.25534670</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155025" kind="city">
+    <ctml:name>Saint-Leu</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Paul</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1649363</ctml:wikiDataId>
+    <ctml:latitude>-21.18153740</ctml:latitude>
+    <ctml:longitude>55.26075530</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155026" kind="city">
+    <ctml:name>Saint-Paul</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Paul</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-03</ctml:parentRef>
+    <ctml:wikiDataId>Q316887</ctml:wikiDataId>
+    <ctml:latitude>-21.03656340</ctml:latitude>
+    <ctml:longitude>55.17542230</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155029" kind="city">
+    <ctml:name>Cilaos</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1014746</ctml:wikiDataId>
+    <ctml:latitude>-21.14026750</ctml:latitude>
+    <ctml:longitude>55.37314150</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155030" kind="city">
+    <ctml:name>Entre-Deux</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1014800</ctml:wikiDataId>
+    <ctml:latitude>-21.21073870</ctml:latitude>
+    <ctml:longitude>55.41125940</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155031" kind="city">
+    <ctml:name>L'Étang-Salé</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1014771</ctml:wikiDataId>
+    <ctml:latitude>-21.23474080</ctml:latitude>
+    <ctml:longitude>55.31636860</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155037" kind="city">
+    <ctml:name>Le Tampon</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q13648</ctml:wikiDataId>
+    <ctml:latitude>-21.22500920</ctml:latitude>
+    <ctml:longitude>55.48765410</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155028" kind="city">
+    <ctml:name>Les Avirons</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1014814</ctml:wikiDataId>
+    <ctml:latitude>-21.20186830</ctml:latitude>
+    <ctml:longitude>55.32166090</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155032" kind="city">
+    <ctml:name>Petite-Île</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1326390</ctml:wikiDataId>
+    <ctml:latitude>-21.33296780</ctml:latitude>
+    <ctml:longitude>55.52942050</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155033" kind="city">
+    <ctml:name>Saint-Joseph</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q305275</ctml:wikiDataId>
+    <ctml:latitude>-21.29211860</ctml:latitude>
+    <ctml:longitude>55.56161730</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155034" kind="city">
+    <ctml:name>Saint-Louis</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q1617681</ctml:wikiDataId>
+    <ctml:latitude>-21.22548290</ctml:latitude>
+    <ctml:longitude>55.34004400</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155035" kind="city">
+    <ctml:name>Saint-Philippe</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q652100</ctml:wikiDataId>
+    <ctml:latitude>-21.30837500</ctml:latitude>
+    <ctml:longitude>55.66118340</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:REU-155036" kind="city">
+    <ctml:name>Saint-Pierre</ctml:name>
+    <ctml:country>REU</ctml:country>
+    <ctml:admin1>Saint-Pierre</ctml:admin1>
+    <ctml:parentRef>place:admin1:RE-04</ctml:parentRef>
+    <ctml:wikiDataId>Q249884</ctml:wikiDataId>
+    <ctml:latitude>-21.30893030</ctml:latitude>
+    <ctml:longitude>55.33953130</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

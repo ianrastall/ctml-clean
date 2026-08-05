@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:LBR-66557" kind="city">
+    <ctml:name>Monrovia</ctml:name>
+    <ctml:country>LBR</ctml:country>
+    <ctml:admin1>Montserrado</ctml:admin1>
+    <ctml:parentRef>place:admin1:LR-MO</ctml:parentRef>
+    <ctml:wikiDataId>Q3748</ctml:wikiDataId>
+    <ctml:latitude>6.30054000</ctml:latitude>
+    <ctml:longitude>-10.79690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBR-66552" kind="city">
+    <ctml:name>Ganta</ctml:name>
+    <ctml:country>LBR</ctml:country>
+    <ctml:admin1>Nimba</ctml:admin1>
+    <ctml:parentRef>place:admin1:LR-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q598740</ctml:wikiDataId>
+    <ctml:latitude>7.30222000</ctml:latitude>
+    <ctml:longitude>-8.53083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:LBR-66558" kind="city">
+    <ctml:name>New Yekepa</ctml:name>
+    <ctml:country>LBR</ctml:country>
+    <ctml:admin1>Nimba</ctml:admin1>
+    <ctml:parentRef>place:admin1:LR-NI</ctml:parentRef>
+    <ctml:wikiDataId>Q3179587</ctml:wikiDataId>
+    <ctml:latitude>7.57944000</ctml:latitude>
+    <ctml:longitude>-8.53778000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

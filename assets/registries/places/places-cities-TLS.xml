@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:TLS-106868" kind="city">
+    <ctml:name>Remexio</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Aileu</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-AL</ctml:parentRef>
+    <ctml:wikiDataId>Q488823</ctml:wikiDataId>
+    <ctml:latitude>-8.61667000</ctml:latitude>
+    <ctml:longitude>125.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106834" kind="city">
+    <ctml:name>Baguia</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Baucau</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1026949</ctml:wikiDataId>
+    <ctml:latitude>-8.62787000</ctml:latitude>
+    <ctml:longitude>126.65743000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106852" kind="city">
+    <ctml:name>Laga</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Baucau</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q1248198</ctml:wikiDataId>
+    <ctml:latitude>-8.47411000</ctml:latitude>
+    <ctml:longitude>126.59228000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106877" kind="city">
+    <ctml:name>Vemasse</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Baucau</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2472571</ctml:wikiDataId>
+    <ctml:latitude>-8.51036000</ctml:latitude>
+    <ctml:longitude>126.20823000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106878" kind="city">
+    <ctml:name>Venilale</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Baucau</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-BA</ctml:parentRef>
+    <ctml:wikiDataId>Q2472571</ctml:wikiDataId>
+    <ctml:latitude>-8.64306000</ctml:latitude>
+    <ctml:longitude>126.37833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106843" kind="city">
+    <ctml:name>Fatumean</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Cova Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q1295231</ctml:wikiDataId>
+    <ctml:latitude>-9.22917000</ctml:latitude>
+    <ctml:longitude>125.03583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106844" kind="city">
+    <ctml:name>Fohorem</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Cova Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q1435182</ctml:wikiDataId>
+    <ctml:latitude>-9.28361000</ctml:latitude>
+    <ctml:longitude>125.08944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106872" kind="city">
+    <ctml:name>Tilomar</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Cova Lima</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-CO</ctml:parentRef>
+    <ctml:wikiDataId>Q18653443</ctml:wikiDataId>
+    <ctml:latitude>-9.34182000</ctml:latitude>
+    <ctml:longitude>125.10887000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106833" kind="city">
+    <ctml:name>Atauro Island</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Dili</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q1026949</ctml:wikiDataId>
+    <ctml:latitude>-8.26785000</ctml:latitude>
+    <ctml:longitude>125.59699000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106839" kind="city">
+    <ctml:name>Cristo Rei</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Dili</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q1140438</ctml:wikiDataId>
+    <ctml:latitude>-8.52047000</ctml:latitude>
+    <ctml:longitude>125.60837000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106840" kind="city">
+    <ctml:name>Dili</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Dili</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q9310</ctml:wikiDataId>
+    <ctml:latitude>-8.55861000</ctml:latitude>
+    <ctml:longitude>125.57361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106864" kind="city">
+    <ctml:name>Metinaro</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Dili</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-DI</ctml:parentRef>
+    <ctml:wikiDataId>Q18201468</ctml:wikiDataId>
+    <ctml:latitude>-8.53007000</ctml:latitude>
+    <ctml:longitude>125.74163000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106841" kind="city">
+    <ctml:name>Ermera Villa</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Ermera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q9310</ctml:wikiDataId>
+    <ctml:latitude>-8.75222000</ctml:latitude>
+    <ctml:longitude>125.39694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106845" kind="city">
+    <ctml:name>Gleno</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Ermera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q1018872</ctml:wikiDataId>
+    <ctml:latitude>-8.72389000</ctml:latitude>
+    <ctml:longitude>125.43611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106855" kind="city">
+    <ctml:name>Letefoho</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Ermera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q18079947</ctml:wikiDataId>
+    <ctml:latitude>-8.83444000</ctml:latitude>
+    <ctml:longitude>125.42639000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106867" kind="city">
+    <ctml:name>Railaco</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Ermera</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q1768027</ctml:wikiDataId>
+    <ctml:latitude>-8.67237000</ctml:latitude>
+    <ctml:longitude>125.42546000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106848" kind="city">
+    <ctml:name>Iliomar</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Lautém</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q1248198</ctml:wikiDataId>
+    <ctml:latitude>-8.70917000</ctml:latitude>
+    <ctml:longitude>126.82833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106853" kind="city">
+    <ctml:name>Lautem</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Lautém</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q1248198</ctml:wikiDataId>
+    <ctml:latitude>-8.36514000</ctml:latitude>
+    <ctml:longitude>126.90389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106858" kind="city">
+    <ctml:name>Luro</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Lautém</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q1017098</ctml:wikiDataId>
+    <ctml:latitude>-8.54359000</ctml:latitude>
+    <ctml:longitude>126.83003000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106874" kind="city">
+    <ctml:name>Tutuala</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Lautém</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-LA</ctml:parentRef>
+    <ctml:wikiDataId>Q18653443</ctml:wikiDataId>
+    <ctml:latitude>-8.39597000</ctml:latitude>
+    <ctml:longitude>127.25923000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106838" kind="city">
+    <ctml:name>Bazartete</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Liquiçá</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q812658</ctml:wikiDataId>
+    <ctml:latitude>-8.62464000</ctml:latitude>
+    <ctml:longitude>125.38168000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106862" kind="city">
+    <ctml:name>Maubara</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Liquiçá</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q1011873</ctml:wikiDataId>
+    <ctml:latitude>-8.61194000</ctml:latitude>
+    <ctml:longitude>125.20611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106835" kind="city">
+    <ctml:name>Barique</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Manatuto</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q18887906</ctml:wikiDataId>
+    <ctml:latitude>-8.85472000</ctml:latitude>
+    <ctml:longitude>126.06556000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106870" kind="city">
+    <ctml:name>Soibada</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Manatuto</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-MT</ctml:parentRef>
+    <ctml:wikiDataId>Q488823</ctml:wikiDataId>
+    <ctml:latitude>-8.86000000</ctml:latitude>
+    <ctml:longitude>125.94000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106832" kind="city">
+    <ctml:name>Alas</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Manufahi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-MF</ctml:parentRef>
+    <ctml:wikiDataId>Q1026949</ctml:wikiDataId>
+    <ctml:latitude>-9.02730000</ctml:latitude>
+    <ctml:longitude>125.78680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106842" kind="city">
+    <ctml:name>Fatuberliu</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Manufahi</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-MF</ctml:parentRef>
+    <ctml:wikiDataId>Q9310</ctml:wikiDataId>
+    <ctml:latitude>-8.94790000</ctml:latitude>
+    <ctml:longitude>125.86633000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-160123" kind="city">
+    <ctml:name>Citrana</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Oecusse</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-OE</ctml:parentRef>
+    <ctml:wikiDataId>Q1093462</ctml:wikiDataId>
+    <ctml:latitude>-9.33333333</ctml:latitude>
+    <ctml:longitude>124.08333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-160124" kind="city">
+    <ctml:name>Nitibe</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Oecusse</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-OE</ctml:parentRef>
+    <ctml:wikiDataId>Q1993915</ctml:wikiDataId>
+    <ctml:latitude>-9.35000000</ctml:latitude>
+    <ctml:longitude>124.23333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-160126" kind="city">
+    <ctml:name>Oe Silo</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Oecusse</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-OE</ctml:parentRef>
+    <ctml:latitude>-9.30000000</ctml:latitude>
+    <ctml:longitude>124.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-160122" kind="city">
+    <ctml:name>Pante Macassar</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Oecusse</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-OE</ctml:parentRef>
+    <ctml:wikiDataId>Q263005</ctml:wikiDataId>
+    <ctml:latitude>-9.20000000</ctml:latitude>
+    <ctml:longitude>124.38333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-160125" kind="city">
+    <ctml:name>Passabe</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Oecusse</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-OE</ctml:parentRef>
+    <ctml:wikiDataId>Q2055747</ctml:wikiDataId>
+    <ctml:latitude>-9.36416667</ctml:latitude>
+    <ctml:longitude>124.34333333</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106851" kind="city">
+    <ctml:name>Lacluta</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Viqueque</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q1248198</ctml:wikiDataId>
+    <ctml:latitude>-8.80000000</ctml:latitude>
+    <ctml:longitude>126.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106865" kind="city">
+    <ctml:name>Ossu</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Viqueque</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q18201468</ctml:wikiDataId>
+    <ctml:latitude>-8.73477000</ctml:latitude>
+    <ctml:longitude>126.38324000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106875" kind="city">
+    <ctml:name>Uatocarabau</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Viqueque</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2472571</ctml:wikiDataId>
+    <ctml:latitude>-8.75658000</ctml:latitude>
+    <ctml:longitude>126.68060000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:TLS-106876" kind="city">
+    <ctml:name>Uatolari</ctml:name>
+    <ctml:country>TLS</ctml:country>
+    <ctml:admin1>Viqueque</ctml:admin1>
+    <ctml:parentRef>place:admin1:TL-VI</ctml:parentRef>
+    <ctml:wikiDataId>Q2472571</ctml:wikiDataId>
+    <ctml:latitude>-8.76277000</ctml:latitude>
+    <ctml:longitude>126.57353000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

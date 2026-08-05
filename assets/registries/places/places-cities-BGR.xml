@@ -1,0 +1,4296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:BGR-9265" kind="city">
+    <ctml:name>Bansko</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q391159</ctml:wikiDataId>
+    <ctml:latitude>41.83830000</ctml:latitude>
+    <ctml:longitude>23.48851000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9270" kind="city">
+    <ctml:name>Belitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q406631</ctml:wikiDataId>
+    <ctml:latitude>41.95694000</ctml:latitude>
+    <ctml:longitude>23.57250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9329" kind="city">
+    <ctml:name>Garmen</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2332319</ctml:wikiDataId>
+    <ctml:latitude>41.60000000</ctml:latitude>
+    <ctml:longitude>23.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9335" kind="city">
+    <ctml:name>Gotse Delchev</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q457141</ctml:wikiDataId>
+    <ctml:latitude>41.56667000</ctml:latitude>
+    <ctml:longitude>23.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9341" kind="city">
+    <ctml:name>Hadzhidimovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q406426</ctml:wikiDataId>
+    <ctml:latitude>41.52222000</ctml:latitude>
+    <ctml:longitude>23.86861000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9368" kind="city">
+    <ctml:name>Kolarovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q407307</ctml:wikiDataId>
+    <ctml:latitude>41.36385000</ctml:latitude>
+    <ctml:longitude>23.10669000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9374" kind="city">
+    <ctml:name>Kresna</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q406476</ctml:wikiDataId>
+    <ctml:latitude>41.73333000</ctml:latitude>
+    <ctml:longitude>23.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9422" kind="city">
+    <ctml:name>Obshtina Bansko</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2085163</ctml:wikiDataId>
+    <ctml:latitude>41.80000000</ctml:latitude>
+    <ctml:longitude>23.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9425" kind="city">
+    <ctml:name>Obshtina Belitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2281436</ctml:wikiDataId>
+    <ctml:latitude>42.01667000</ctml:latitude>
+    <ctml:longitude>23.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9429" kind="city">
+    <ctml:name>Obshtina Blagoevgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q628050</ctml:wikiDataId>
+    <ctml:latitude>42.01667000</ctml:latitude>
+    <ctml:longitude>23.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9476" kind="city">
+    <ctml:name>Obshtina Garmen</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2452337</ctml:wikiDataId>
+    <ctml:latitude>41.70000000</ctml:latitude>
+    <ctml:longitude>23.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9482" kind="city">
+    <ctml:name>Obshtina Gotse Delchev</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2557228</ctml:wikiDataId>
+    <ctml:latitude>41.63333000</ctml:latitude>
+    <ctml:longitude>23.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9511" kind="city">
+    <ctml:name>Obshtina Kresna</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2662531</ctml:wikiDataId>
+    <ctml:latitude>41.76667000</ctml:latitude>
+    <ctml:longitude>23.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9555" kind="city">
+    <ctml:name>Obshtina Petrich</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2653369</ctml:wikiDataId>
+    <ctml:latitude>41.45000000</ctml:latitude>
+    <ctml:longitude>23.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9571" kind="city">
+    <ctml:name>Obshtina Razlog</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1570650</ctml:wikiDataId>
+    <ctml:latitude>41.95000000</ctml:latitude>
+    <ctml:longitude>23.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9582" kind="city">
+    <ctml:name>Obshtina Sandanski</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2653376</ctml:wikiDataId>
+    <ctml:latitude>41.56667000</ctml:latitude>
+    <ctml:longitude>23.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9584" kind="admin2">
+    <ctml:name>Obshtina Satovcha</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2997839</ctml:wikiDataId>
+    <ctml:latitude>41.59848000</ctml:latitude>
+    <ctml:longitude>24.00781000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9589" kind="city">
+    <ctml:name>Obshtina Simitli</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2722835</ctml:wikiDataId>
+    <ctml:latitude>41.88333000</ctml:latitude>
+    <ctml:longitude>23.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9603" kind="city">
+    <ctml:name>Obshtina Strumyani</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2722846</ctml:wikiDataId>
+    <ctml:latitude>41.63333000</ctml:latitude>
+    <ctml:longitude>23.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9633" kind="city">
+    <ctml:name>Obshtina Yakoruda</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q775710</ctml:wikiDataId>
+    <ctml:latitude>42.08333000</ctml:latitude>
+    <ctml:longitude>23.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9653" kind="city">
+    <ctml:name>Petrich</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q191099</ctml:wikiDataId>
+    <ctml:latitude>41.39846000</ctml:latitude>
+    <ctml:longitude>23.20702000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9670" kind="city">
+    <ctml:name>Razlog</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q929605</ctml:wikiDataId>
+    <ctml:latitude>41.88630000</ctml:latitude>
+    <ctml:longitude>23.46714000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9681" kind="city">
+    <ctml:name>Sandanski</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q331566</ctml:wikiDataId>
+    <ctml:latitude>41.56667000</ctml:latitude>
+    <ctml:longitude>23.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9686" kind="city">
+    <ctml:name>Satovcha</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2043469</ctml:wikiDataId>
+    <ctml:latitude>41.61667000</ctml:latitude>
+    <ctml:longitude>23.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9694" kind="city">
+    <ctml:name>Simitli</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1897942</ctml:wikiDataId>
+    <ctml:latitude>41.88333000</ctml:latitude>
+    <ctml:longitude>23.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9705" kind="city">
+    <ctml:name>Stara Kresna</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2598096</ctml:wikiDataId>
+    <ctml:latitude>41.80000000</ctml:latitude>
+    <ctml:longitude>23.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9711" kind="city">
+    <ctml:name>Strumyani</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2046578</ctml:wikiDataId>
+    <ctml:latitude>41.63846590</ctml:latitude>
+    <ctml:longitude>23.20219140</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9745" kind="city">
+    <ctml:name>Yakoruda</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Blagoevgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-01</ctml:parentRef>
+    <ctml:wikiDataId>Q406493</ctml:wikiDataId>
+    <ctml:latitude>42.02528000</ctml:latitude>
+    <ctml:longitude>23.68417000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9250" kind="city">
+    <ctml:name>Aheloy</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2597663</ctml:wikiDataId>
+    <ctml:latitude>42.64987000</ctml:latitude>
+    <ctml:longitude>27.64838000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9251" kind="city">
+    <ctml:name>Ahtopol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q341027</ctml:wikiDataId>
+    <ctml:latitude>42.09768000</ctml:latitude>
+    <ctml:longitude>27.93961000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9261" kind="city">
+    <ctml:name>Aytos</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q275178</ctml:wikiDataId>
+    <ctml:latitude>42.70188650</ctml:latitude>
+    <ctml:longitude>27.25203860</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9266" kind="city">
+    <ctml:name>Bata</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q391159</ctml:wikiDataId>
+    <ctml:latitude>42.73802000</ctml:latitude>
+    <ctml:longitude>27.49643000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9299" kind="city">
+    <ctml:name>Chernomorets</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1022281</ctml:wikiDataId>
+    <ctml:latitude>42.44408000</ctml:latitude>
+    <ctml:longitude>27.63902000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9353" kind="city">
+    <ctml:name>Kameno</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q405191</ctml:wikiDataId>
+    <ctml:latitude>42.57084000</ctml:latitude>
+    <ctml:longitude>27.29875000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9356" kind="city">
+    <ctml:name>Karnobat</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q406227</ctml:wikiDataId>
+    <ctml:latitude>42.64985540</ctml:latitude>
+    <ctml:longitude>26.98231250</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9363" kind="city">
+    <ctml:name>Kiten</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1993655</ctml:wikiDataId>
+    <ctml:latitude>42.23424000</ctml:latitude>
+    <ctml:longitude>27.77490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9397" kind="city">
+    <ctml:name>Malko Tarnovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q406488</ctml:wikiDataId>
+    <ctml:latitude>41.97958000</ctml:latitude>
+    <ctml:longitude>27.52477000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9406" kind="city">
+    <ctml:name>Nesebar</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q193241</ctml:wikiDataId>
+    <ctml:latitude>42.65921000</ctml:latitude>
+    <ctml:longitude>27.73602000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9419" kind="city">
+    <ctml:name>Obshtina Aytos</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2001782</ctml:wikiDataId>
+    <ctml:latitude>42.70000000</ctml:latitude>
+    <ctml:longitude>27.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9442" kind="city">
+    <ctml:name>Obshtina Burgas</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q167807</ctml:wikiDataId>
+    <ctml:latitude>42.50000000</ctml:latitude>
+    <ctml:longitude>27.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9495" kind="city">
+    <ctml:name>Obshtina Kameno</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2476879</ctml:wikiDataId>
+    <ctml:latitude>42.51667000</ctml:latitude>
+    <ctml:longitude>27.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9498" kind="city">
+    <ctml:name>Obshtina Karnobat</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2476853</ctml:wikiDataId>
+    <ctml:latitude>42.65000000</ctml:latitude>
+    <ctml:longitude>26.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9529" kind="city">
+    <ctml:name>Obshtina Malko Tarnovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2606955</ctml:wikiDataId>
+    <ctml:latitude>42.08333000</ctml:latitude>
+    <ctml:longitude>27.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9538" kind="city">
+    <ctml:name>Obshtina Nesebar</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q177345</ctml:wikiDataId>
+    <ctml:latitude>42.78333000</ctml:latitude>
+    <ctml:longitude>27.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9560" kind="city">
+    <ctml:name>Obshtina Pomorie</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2447996</ctml:wikiDataId>
+    <ctml:latitude>42.73333000</ctml:latitude>
+    <ctml:longitude>27.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9564" kind="city">
+    <ctml:name>Obshtina Primorsko</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2607288</ctml:wikiDataId>
+    <ctml:latitude>42.25000000</ctml:latitude>
+    <ctml:longitude>27.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9596" kind="city">
+    <ctml:name>Obshtina Sozopol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2039413</ctml:wikiDataId>
+    <ctml:latitude>42.31123000</ctml:latitude>
+    <ctml:longitude>27.51733000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9605" kind="city">
+    <ctml:name>Obshtina Sungurlare</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2398979</ctml:wikiDataId>
+    <ctml:latitude>42.83333000</ctml:latitude>
+    <ctml:longitude>26.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9640" kind="city">
+    <ctml:name>Obzor</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q406649</ctml:wikiDataId>
+    <ctml:latitude>42.81998000</ctml:latitude>
+    <ctml:longitude>27.88007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9658" kind="admin2">
+    <ctml:name>Pomorie</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q407372</ctml:wikiDataId>
+    <ctml:latitude>42.56326000</ctml:latitude>
+    <ctml:longitude>27.62986000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9662" kind="admin2">
+    <ctml:name>Primorsko</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q405153</ctml:wikiDataId>
+    <ctml:latitude>42.26791000</ctml:latitude>
+    <ctml:longitude>27.75611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9668" kind="city">
+    <ctml:name>Ravda</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q167953</ctml:wikiDataId>
+    <ctml:latitude>42.64185000</ctml:latitude>
+    <ctml:longitude>27.67713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9674" kind="city">
+    <ctml:name>Ruen</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q935493</ctml:wikiDataId>
+    <ctml:latitude>42.80000000</ctml:latitude>
+    <ctml:longitude>27.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9683" kind="city">
+    <ctml:name>Sarafovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2224290</ctml:wikiDataId>
+    <ctml:latitude>42.56079000</ctml:latitude>
+    <ctml:longitude>27.52195000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9702" kind="admin2">
+    <ctml:name>Sozopol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q271925</ctml:wikiDataId>
+    <ctml:latitude>42.41801000</ctml:latitude>
+    <ctml:longitude>27.69560000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9703" kind="city">
+    <ctml:name>Sredets</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q405646</ctml:wikiDataId>
+    <ctml:latitude>42.34747000</ctml:latitude>
+    <ctml:longitude>27.17898000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9713" kind="city">
+    <ctml:name>Sungurlare</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q990310</ctml:wikiDataId>
+    <ctml:latitude>42.76667000</ctml:latitude>
+    <ctml:longitude>26.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9715" kind="city">
+    <ctml:name>Sveti Vlas</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q406657</ctml:wikiDataId>
+    <ctml:latitude>42.71360000</ctml:latitude>
+    <ctml:longitude>27.75867000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9728" kind="city">
+    <ctml:name>Tsarevo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Burgas</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-02</ctml:parentRef>
+    <ctml:wikiDataId>Q147938</ctml:wikiDataId>
+    <ctml:latitude>42.16955000</ctml:latitude>
+    <ctml:longitude>27.84541000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9262" kind="admin2">
+    <ctml:name>Balchik</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Dobrich</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-08</ctml:parentRef>
+    <ctml:wikiDataId>Q329437</ctml:wikiDataId>
+    <ctml:latitude>43.42166000</ctml:latitude>
+    <ctml:longitude>28.15848000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9330" kind="admin2">
+    <ctml:name>General Toshevo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Dobrich</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-08</ctml:parentRef>
+    <ctml:wikiDataId>Q405390</ctml:wikiDataId>
+    <ctml:latitude>43.70123000</ctml:latitude>
+    <ctml:longitude>28.03787000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9357" kind="admin2">
+    <ctml:name>Kavarna</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Dobrich</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-08</ctml:parentRef>
+    <ctml:wikiDataId>Q406227</ctml:wikiDataId>
+    <ctml:latitude>43.43601000</ctml:latitude>
+    <ctml:longitude>28.33953000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9378" kind="admin2">
+    <ctml:name>Krushari</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Dobrich</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2990389</ctml:wikiDataId>
+    <ctml:latitude>43.81675000</ctml:latitude>
+    <ctml:longitude>27.75552000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9420" kind="city">
+    <ctml:name>Obshtina Balchik</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Dobrich</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2663152</ctml:wikiDataId>
+    <ctml:latitude>43.50000000</ctml:latitude>
+    <ctml:longitude>28.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9457" kind="city">
+    <ctml:name>Obshtina Dobrich</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Dobrich</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2220850</ctml:wikiDataId>
+    <ctml:latitude>43.57763000</ctml:latitude>
+    <ctml:longitude>27.80628000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9458" kind="city">
+    <ctml:name>Obshtina Dobrich-Selska</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Dobrich</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2561279</ctml:wikiDataId>
+    <ctml:latitude>43.63333000</ctml:latitude>
+    <ctml:longitude>27.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9477" kind="city">
+    <ctml:name>Obshtina General Toshevo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Dobrich</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-08</ctml:parentRef>
+    <ctml:wikiDataId>Q614612</ctml:wikiDataId>
+    <ctml:latitude>43.73333000</ctml:latitude>
+    <ctml:longitude>28.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9499" kind="city">
+    <ctml:name>Obshtina Kavarna</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Dobrich</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-08</ctml:parentRef>
+    <ctml:wikiDataId>Q965588</ctml:wikiDataId>
+    <ctml:latitude>43.50000000</ctml:latitude>
+    <ctml:longitude>28.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9514" kind="city">
+    <ctml:name>Obshtina Krushari</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Dobrich</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2561255</ctml:wikiDataId>
+    <ctml:latitude>43.88333000</ctml:latitude>
+    <ctml:longitude>27.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9587" kind="city">
+    <ctml:name>Obshtina Shabla</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Dobrich</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-08</ctml:parentRef>
+    <ctml:wikiDataId>Q2548849</ctml:wikiDataId>
+    <ctml:latitude>43.61667000</ctml:latitude>
+    <ctml:longitude>28.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9611" kind="city">
+    <ctml:name>Obshtina Tervel</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Dobrich</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-08</ctml:parentRef>
+    <ctml:wikiDataId>Q680608</ctml:wikiDataId>
+    <ctml:latitude>43.75000000</ctml:latitude>
+    <ctml:longitude>27.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9690" kind="admin2">
+    <ctml:name>Shabla</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Dobrich</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-08</ctml:parentRef>
+    <ctml:wikiDataId>Q326312</ctml:wikiDataId>
+    <ctml:latitude>43.53983000</ctml:latitude>
+    <ctml:longitude>28.53429000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9720" kind="admin2">
+    <ctml:name>Tervel</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Dobrich</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-08</ctml:parentRef>
+    <ctml:wikiDataId>Q185114</ctml:wikiDataId>
+    <ctml:latitude>43.74789000</ctml:latitude>
+    <ctml:longitude>27.40911000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9318" kind="city">
+    <ctml:name>Dryanovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Gabrovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-07</ctml:parentRef>
+    <ctml:wikiDataId>Q406050</ctml:wikiDataId>
+    <ctml:latitude>42.97897000</ctml:latitude>
+    <ctml:longitude>25.47850000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9465" kind="city">
+    <ctml:name>Obshtina Dryanovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Gabrovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2476900</ctml:wikiDataId>
+    <ctml:latitude>43.00000000</ctml:latitude>
+    <ctml:longitude>25.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9474" kind="city">
+    <ctml:name>Obshtina Gabrovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Gabrovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2652942</ctml:wikiDataId>
+    <ctml:latitude>42.90000000</ctml:latitude>
+    <ctml:longitude>25.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9586" kind="city">
+    <ctml:name>Obshtina Sevlievo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Gabrovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1749330</ctml:wikiDataId>
+    <ctml:latitude>43.01667000</ctml:latitude>
+    <ctml:longitude>25.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9615" kind="city">
+    <ctml:name>Obshtina Tryavna</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Gabrovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-07</ctml:parentRef>
+    <ctml:wikiDataId>Q568005</ctml:wikiDataId>
+    <ctml:latitude>42.85000000</ctml:latitude>
+    <ctml:longitude>25.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9689" kind="city">
+    <ctml:name>Sevlievo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Gabrovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-07</ctml:parentRef>
+    <ctml:wikiDataId>Q326312</ctml:wikiDataId>
+    <ctml:latitude>43.02583000</ctml:latitude>
+    <ctml:longitude>25.11361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9726" kind="city">
+    <ctml:name>Tryavna</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Gabrovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-07</ctml:parentRef>
+    <ctml:wikiDataId>Q405136</ctml:wikiDataId>
+    <ctml:latitude>42.86667000</ctml:latitude>
+    <ctml:longitude>25.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9308" kind="city">
+    <ctml:name>Dimitrovgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q331048</ctml:wikiDataId>
+    <ctml:latitude>42.05824930</ctml:latitude>
+    <ctml:longitude>25.59164660</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9342" kind="city">
+    <ctml:name>Harmanli</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q406239</ctml:wikiDataId>
+    <ctml:latitude>41.93333000</ctml:latitude>
+    <ctml:longitude>25.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9350" kind="city">
+    <ctml:name>Ivaylovgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q407390</ctml:wikiDataId>
+    <ctml:latitude>41.52672000</ctml:latitude>
+    <ctml:longitude>26.12490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9392" kind="city">
+    <ctml:name>Lyubimets</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q405367</ctml:wikiDataId>
+    <ctml:latitude>41.83333000</ctml:latitude>
+    <ctml:longitude>26.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9394" kind="city">
+    <ctml:name>Madzharovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q407352</ctml:wikiDataId>
+    <ctml:latitude>41.63461000</ctml:latitude>
+    <ctml:longitude>25.86439000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9401" kind="city">
+    <ctml:name>Mineralni Bani</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q2350241</ctml:wikiDataId>
+    <ctml:latitude>41.91667000</ctml:latitude>
+    <ctml:longitude>25.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9455" kind="city">
+    <ctml:name>Obshtina Dimitrovgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q2606948</ctml:wikiDataId>
+    <ctml:latitude>42.05000000</ctml:latitude>
+    <ctml:longitude>25.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9486" kind="city">
+    <ctml:name>Obshtina Harmanli</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q2400127</ctml:wikiDataId>
+    <ctml:latitude>41.93333000</ctml:latitude>
+    <ctml:longitude>25.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9487" kind="city">
+    <ctml:name>Obshtina Haskovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q2454587</ctml:wikiDataId>
+    <ctml:latitude>41.88333000</ctml:latitude>
+    <ctml:longitude>25.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9493" kind="city">
+    <ctml:name>Obshtina Ivaylovgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q2608264</ctml:wikiDataId>
+    <ctml:latitude>41.48333000</ctml:latitude>
+    <ctml:longitude>26.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9527" kind="city">
+    <ctml:name>Obshtina Madzharovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q2399931</ctml:wikiDataId>
+    <ctml:latitude>41.68333000</ctml:latitude>
+    <ctml:longitude>25.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9532" kind="city">
+    <ctml:name>Obshtina Mineralni Bani</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q2400676</ctml:wikiDataId>
+    <ctml:latitude>41.90000000</ctml:latitude>
+    <ctml:longitude>25.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9598" kind="city">
+    <ctml:name>Obshtina Stambolovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q2400143</ctml:wikiDataId>
+    <ctml:latitude>41.73333000</ctml:latitude>
+    <ctml:longitude>25.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9607" kind="city">
+    <ctml:name>Obshtina Svilengrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q2657322</ctml:wikiDataId>
+    <ctml:latitude>41.86667000</ctml:latitude>
+    <ctml:longitude>26.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9613" kind="city">
+    <ctml:name>Obshtina Topolovgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q2444114</ctml:wikiDataId>
+    <ctml:latitude>42.08333000</ctml:latitude>
+    <ctml:longitude>26.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9693" kind="city">
+    <ctml:name>Simeonovgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q5474197</ctml:wikiDataId>
+    <ctml:latitude>42.03333000</ctml:latitude>
+    <ctml:longitude>25.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9716" kind="city">
+    <ctml:name>Svilengrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q405789</ctml:wikiDataId>
+    <ctml:latitude>41.76667000</ctml:latitude>
+    <ctml:longitude>26.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9722" kind="city">
+    <ctml:name>Topolovgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Haskovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-26</ctml:parentRef>
+    <ctml:wikiDataId>Q405440</ctml:wikiDataId>
+    <ctml:latitude>42.08473970</ctml:latitude>
+    <ctml:longitude>26.33207030</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9257" kind="city">
+    <ctml:name>Ardino</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kardzhali</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-09</ctml:parentRef>
+    <ctml:wikiDataId>Q407347</ctml:wikiDataId>
+    <ctml:latitude>41.58333000</ctml:latitude>
+    <ctml:longitude>25.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9323" kind="admin2">
+    <ctml:name>Dzhebel</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kardzhali</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-09</ctml:parentRef>
+    <ctml:wikiDataId>Q405778</ctml:wikiDataId>
+    <ctml:latitude>41.49566000</ctml:latitude>
+    <ctml:longitude>25.30363000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9362" kind="admin2">
+    <ctml:name>Kirkovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kardzhali</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1743521</ctml:wikiDataId>
+    <ctml:latitude>41.32715000</ctml:latitude>
+    <ctml:longitude>25.36379000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9377" kind="admin2">
+    <ctml:name>Krumovgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kardzhali</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-09</ctml:parentRef>
+    <ctml:wikiDataId>Q406057</ctml:wikiDataId>
+    <ctml:latitude>41.47127000</ctml:latitude>
+    <ctml:longitude>25.65485000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9416" kind="city">
+    <ctml:name>Obshtina Ardino</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kardzhali</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-09</ctml:parentRef>
+    <ctml:wikiDataId>Q3621889</ctml:wikiDataId>
+    <ctml:latitude>41.60000000</ctml:latitude>
+    <ctml:longitude>25.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9448" kind="city">
+    <ctml:name>Obshtina Chernoochene</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kardzhali</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-09</ctml:parentRef>
+    <ctml:wikiDataId>Q929927</ctml:wikiDataId>
+    <ctml:latitude>41.78333000</ctml:latitude>
+    <ctml:longitude>25.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9469" kind="city">
+    <ctml:name>Obshtina Dzhebel</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kardzhali</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1748256</ctml:wikiDataId>
+    <ctml:latitude>41.50000000</ctml:latitude>
+    <ctml:longitude>25.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9496" kind="city">
+    <ctml:name>Obshtina Kardzhali</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kardzhali</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2452987</ctml:wikiDataId>
+    <ctml:latitude>41.68333000</ctml:latitude>
+    <ctml:longitude>25.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9502" kind="city">
+    <ctml:name>Obshtina Kirkovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kardzhali</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2619800</ctml:wikiDataId>
+    <ctml:latitude>41.35816000</ctml:latitude>
+    <ctml:longitude>25.33731000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9535" kind="city">
+    <ctml:name>Obshtina Momchilgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kardzhali</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-09</ctml:parentRef>
+    <ctml:wikiDataId>Q2401727</ctml:wikiDataId>
+    <ctml:latitude>41.53333000</ctml:latitude>
+    <ctml:longitude>25.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9276" kind="city">
+    <ctml:name>Boboshevo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q405726</ctml:wikiDataId>
+    <ctml:latitude>42.15296000</ctml:latitude>
+    <ctml:longitude>23.00146000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9277" kind="admin2">
+    <ctml:name>Bobov Dol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q405175</ctml:wikiDataId>
+    <ctml:latitude>42.36256000</ctml:latitude>
+    <ctml:longitude>23.00324000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9321" kind="city">
+    <ctml:name>Dupnitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q405279</ctml:wikiDataId>
+    <ctml:latitude>42.26667000</ctml:latitude>
+    <ctml:longitude>23.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9367" kind="city">
+    <ctml:name>Kocherinovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q407307</ctml:wikiDataId>
+    <ctml:latitude>42.08439000</ctml:latitude>
+    <ctml:longitude>23.05710000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9407" kind="admin2">
+    <ctml:name>Nevestino</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2994062</ctml:wikiDataId>
+    <ctml:latitude>42.25551000</ctml:latitude>
+    <ctml:longitude>22.85175000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9430" kind="city">
+    <ctml:name>Obshtina Boboshevo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2401745</ctml:wikiDataId>
+    <ctml:latitude>42.18333000</ctml:latitude>
+    <ctml:longitude>23.02731000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9431" kind="city">
+    <ctml:name>Obshtina Bobov Dol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2401761</ctml:wikiDataId>
+    <ctml:latitude>42.31667000</ctml:latitude>
+    <ctml:longitude>22.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9467" kind="city">
+    <ctml:name>Obshtina Dupnitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2401780</ctml:wikiDataId>
+    <ctml:latitude>42.28333000</ctml:latitude>
+    <ctml:longitude>23.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9504" kind="city">
+    <ctml:name>Obshtina Kocherinovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q944028</ctml:wikiDataId>
+    <ctml:latitude>42.09909000</ctml:latitude>
+    <ctml:longitude>23.02942000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9518" kind="city">
+    <ctml:name>Obshtina Kyustendil</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1003231</ctml:wikiDataId>
+    <ctml:latitude>42.28333000</ctml:latitude>
+    <ctml:longitude>22.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9539" kind="city">
+    <ctml:name>Obshtina Nevestino</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2401796</ctml:wikiDataId>
+    <ctml:latitude>42.16667000</ctml:latitude>
+    <ctml:longitude>22.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9572" kind="city">
+    <ctml:name>Obshtina Rila</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2403120</ctml:wikiDataId>
+    <ctml:latitude>42.15000000</ctml:latitude>
+    <ctml:longitude>23.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9583" kind="city">
+    <ctml:name>Obshtina Sapareva Banya</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q543012</ctml:wikiDataId>
+    <ctml:latitude>42.28333000</ctml:latitude>
+    <ctml:longitude>23.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9614" kind="city">
+    <ctml:name>Obshtina Treklyano</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2994074</ctml:wikiDataId>
+    <ctml:latitude>42.55000000</ctml:latitude>
+    <ctml:longitude>22.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9671" kind="city">
+    <ctml:name>Rila</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q406517</ctml:wikiDataId>
+    <ctml:latitude>42.13333000</ctml:latitude>
+    <ctml:longitude>23.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9682" kind="city">
+    <ctml:name>Sapareva Banya</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Kyustendil</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-10</ctml:parentRef>
+    <ctml:wikiDataId>Q405166</ctml:wikiDataId>
+    <ctml:latitude>42.28333000</ctml:latitude>
+    <ctml:longitude>23.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9256" kind="city">
+    <ctml:name>Apriltsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Lovech</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-11</ctml:parentRef>
+    <ctml:wikiDataId>Q405223</ctml:wikiDataId>
+    <ctml:latitude>42.84142000</ctml:latitude>
+    <ctml:longitude>24.91759000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9385" kind="city">
+    <ctml:name>Letnitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Lovech</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-11</ctml:parentRef>
+    <ctml:wikiDataId>Q405774</ctml:wikiDataId>
+    <ctml:latitude>43.31167000</ctml:latitude>
+    <ctml:longitude>25.07333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9390" kind="city">
+    <ctml:name>Lukovit</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Lovech</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-11</ctml:parentRef>
+    <ctml:wikiDataId>Q405585</ctml:wikiDataId>
+    <ctml:latitude>43.20000000</ctml:latitude>
+    <ctml:longitude>24.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9523" kind="city">
+    <ctml:name>Obshtina Lovech</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Lovech</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2596788</ctml:wikiDataId>
+    <ctml:latitude>43.16667000</ctml:latitude>
+    <ctml:longitude>24.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9612" kind="city">
+    <ctml:name>Obshtina Teteven</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Lovech</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2652918</ctml:wikiDataId>
+    <ctml:latitude>42.91667000</ctml:latitude>
+    <ctml:longitude>24.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9621" kind="city">
+    <ctml:name>Obshtina Ugarchin</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Lovech</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2561155</ctml:wikiDataId>
+    <ctml:latitude>43.10000000</ctml:latitude>
+    <ctml:longitude>24.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9721" kind="city">
+    <ctml:name>Teteven</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Lovech</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-11</ctml:parentRef>
+    <ctml:wikiDataId>Q185114</ctml:wikiDataId>
+    <ctml:latitude>42.91782620</ctml:latitude>
+    <ctml:longitude>24.26511380</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9725" kind="city">
+    <ctml:name>Troyan</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Lovech</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-11</ctml:parentRef>
+    <ctml:wikiDataId>Q851855</ctml:wikiDataId>
+    <ctml:latitude>42.89427000</ctml:latitude>
+    <ctml:longitude>24.71589000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9732" kind="city">
+    <ctml:name>Ugarchin</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Lovech</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-11</ctml:parentRef>
+    <ctml:wikiDataId>Q405567</ctml:wikiDataId>
+    <ctml:latitude>43.09601710</ctml:latitude>
+    <ctml:longitude>24.42099190</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9743" kind="city">
+    <ctml:name>Yablanitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Lovech</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-11</ctml:parentRef>
+    <ctml:wikiDataId>Q405874</ctml:wikiDataId>
+    <ctml:latitude>43.03139000</ctml:latitude>
+    <ctml:longitude>24.11278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9274" kind="admin2">
+    <ctml:name>Berkovitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q407314</ctml:wikiDataId>
+    <ctml:latitude>43.23581000</ctml:latitude>
+    <ctml:longitude>23.12738000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9283" kind="admin2">
+    <ctml:name>Boychinovtsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q405184</ctml:wikiDataId>
+    <ctml:latitude>43.47222000</ctml:latitude>
+    <ctml:longitude>23.33583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9290" kind="admin2">
+    <ctml:name>Brusartsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q405868</ctml:wikiDataId>
+    <ctml:latitude>43.66075000</ctml:latitude>
+    <ctml:longitude>23.06732000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9301" kind="city">
+    <ctml:name>Chiprovtsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q405361</ctml:wikiDataId>
+    <ctml:latitude>43.38417000</ctml:latitude>
+    <ctml:longitude>22.88083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9387" kind="admin2">
+    <ctml:name>Lom</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q237254</ctml:wikiDataId>
+    <ctml:latitude>43.82106000</ctml:latitude>
+    <ctml:longitude>23.23677000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9398" kind="admin2">
+    <ctml:name>Medkovets</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2994103</ctml:wikiDataId>
+    <ctml:latitude>43.62403000</ctml:latitude>
+    <ctml:longitude>23.16876000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9437" kind="city">
+    <ctml:name>Obshtina Boychinovtsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2719430</ctml:wikiDataId>
+    <ctml:latitude>43.53333000</ctml:latitude>
+    <ctml:longitude>23.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9450" kind="city">
+    <ctml:name>Obshtina Chiprovtsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2545392</ctml:wikiDataId>
+    <ctml:latitude>43.41667000</ctml:latitude>
+    <ctml:longitude>22.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9478" kind="city">
+    <ctml:name>Obshtina Georgi Damyanovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2548560</ctml:wikiDataId>
+    <ctml:latitude>43.35000000</ctml:latitude>
+    <ctml:longitude>23.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9522" kind="city">
+    <ctml:name>Obshtina Lom</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q288100</ctml:wikiDataId>
+    <ctml:latitude>43.81667000</ctml:latitude>
+    <ctml:longitude>23.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9536" kind="city">
+    <ctml:name>Obshtina Montana</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2016122</ctml:wikiDataId>
+    <ctml:latitude>43.46667000</ctml:latitude>
+    <ctml:longitude>23.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9622" kind="city">
+    <ctml:name>Obshtina Valchedram</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1032683</ctml:wikiDataId>
+    <ctml:latitude>43.71667000</ctml:latitude>
+    <ctml:longitude>23.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9625" kind="city">
+    <ctml:name>Obshtina Varshets</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2608803</ctml:wikiDataId>
+    <ctml:latitude>43.21667000</ctml:latitude>
+    <ctml:longitude>23.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9632" kind="admin2">
+    <ctml:name>Obshtina Yakimovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2609055</ctml:wikiDataId>
+    <ctml:latitude>43.63333000</ctml:latitude>
+    <ctml:longitude>23.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9733" kind="admin2">
+    <ctml:name>Valchedram</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q405620</ctml:wikiDataId>
+    <ctml:latitude>43.69281000</ctml:latitude>
+    <ctml:longitude>23.44518000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9736" kind="admin2">
+    <ctml:name>Varshets</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q404958</ctml:wikiDataId>
+    <ctml:latitude>43.19356000</ctml:latitude>
+    <ctml:longitude>23.28680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9744" kind="city">
+    <ctml:name>Yakimovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Montana</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2994055</ctml:wikiDataId>
+    <ctml:latitude>43.63472000</ctml:latitude>
+    <ctml:longitude>23.35350000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9267" kind="admin2">
+    <ctml:name>Batak</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1756874</ctml:wikiDataId>
+    <ctml:latitude>41.94225000</ctml:latitude>
+    <ctml:longitude>24.21843000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9273" kind="city">
+    <ctml:name>Belovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q407705</ctml:wikiDataId>
+    <ctml:latitude>42.21239000</ctml:latitude>
+    <ctml:longitude>24.02081000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9286" kind="city">
+    <ctml:name>Bratsigovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q405842</ctml:wikiDataId>
+    <ctml:latitude>42.01667000</ctml:latitude>
+    <ctml:longitude>24.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9384" kind="city">
+    <ctml:name>Lesichovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2597240</ctml:wikiDataId>
+    <ctml:latitude>42.35626000</ctml:latitude>
+    <ctml:longitude>24.11190000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9423" kind="city">
+    <ctml:name>Obshtina Batak</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q8019066</ctml:wikiDataId>
+    <ctml:latitude>41.86667000</ctml:latitude>
+    <ctml:longitude>24.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9428" kind="city">
+    <ctml:name>Obshtina Belovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2254259</ctml:wikiDataId>
+    <ctml:latitude>42.20000000</ctml:latitude>
+    <ctml:longitude>23.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9440" kind="city">
+    <ctml:name>Obshtina Bratsigovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2403879</ctml:wikiDataId>
+    <ctml:latitude>42.00000000</ctml:latitude>
+    <ctml:longitude>24.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9520" kind="city">
+    <ctml:name>Obshtina Lesichovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1749195</ctml:wikiDataId>
+    <ctml:latitude>42.36667000</ctml:latitude>
+    <ctml:longitude>24.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9547" kind="city">
+    <ctml:name>Obshtina Panagyurishte</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2628864</ctml:wikiDataId>
+    <ctml:latitude>42.50000000</ctml:latitude>
+    <ctml:longitude>24.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9551" kind="city">
+    <ctml:name>Obshtina Pazardzhik</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q764056</ctml:wikiDataId>
+    <ctml:latitude>42.20000000</ctml:latitude>
+    <ctml:longitude>24.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9554" kind="city">
+    <ctml:name>Obshtina Peshtera</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1749334</ctml:wikiDataId>
+    <ctml:latitude>42.03333000</ctml:latitude>
+    <ctml:longitude>24.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9568" kind="admin2">
+    <ctml:name>Obshtina Rakitovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1749198</ctml:wikiDataId>
+    <ctml:latitude>41.99965000</ctml:latitude>
+    <ctml:longitude>24.10877000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9585" kind="city">
+    <ctml:name>Obshtina Septemvri</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1749330</ctml:wikiDataId>
+    <ctml:latitude>42.26667000</ctml:latitude>
+    <ctml:longitude>24.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9602" kind="city">
+    <ctml:name>Obshtina Strelcha</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1749338</ctml:wikiDataId>
+    <ctml:latitude>42.46667000</ctml:latitude>
+    <ctml:longitude>24.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9627" kind="city">
+    <ctml:name>Obshtina Velingrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q655383</ctml:wikiDataId>
+    <ctml:latitude>41.96667000</ctml:latitude>
+    <ctml:longitude>23.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9644" kind="admin2">
+    <ctml:name>Panagyurishte</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q406222</ctml:wikiDataId>
+    <ctml:latitude>42.49518000</ctml:latitude>
+    <ctml:longitude>24.19021000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9652" kind="admin2">
+    <ctml:name>Peshtera</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q407570</ctml:wikiDataId>
+    <ctml:latitude>42.03372000</ctml:latitude>
+    <ctml:longitude>24.29995000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9666" kind="admin2">
+    <ctml:name>Rakitovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q405554</ctml:wikiDataId>
+    <ctml:latitude>41.99012000</ctml:latitude>
+    <ctml:longitude>24.08730000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9684" kind="admin2">
+    <ctml:name>Sarnitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q405972</ctml:wikiDataId>
+    <ctml:latitude>41.73835000</ctml:latitude>
+    <ctml:longitude>24.02435000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9685" kind="city">
+    <ctml:name>Sarnitsa Obshtina</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q405972</ctml:wikiDataId>
+    <ctml:latitude>41.73333000</ctml:latitude>
+    <ctml:longitude>24.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9688" kind="admin2">
+    <ctml:name>Septemvri</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q406523</ctml:wikiDataId>
+    <ctml:latitude>42.21138000</ctml:latitude>
+    <ctml:longitude>24.12946000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9710" kind="city">
+    <ctml:name>Strelcha</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q405507</ctml:wikiDataId>
+    <ctml:latitude>42.50000000</ctml:latitude>
+    <ctml:longitude>24.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9738" kind="admin2">
+    <ctml:name>Velingrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pazardzhik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-13</ctml:parentRef>
+    <ctml:wikiDataId>Q405114</ctml:wikiDataId>
+    <ctml:latitude>42.02754000</ctml:latitude>
+    <ctml:longitude>23.99155000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9268" kind="city">
+    <ctml:name>Batanovtsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pernik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-14</ctml:parentRef>
+    <ctml:wikiDataId>Q407198</ctml:wikiDataId>
+    <ctml:latitude>42.59692000</ctml:latitude>
+    <ctml:longitude>22.95634000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9288" kind="city">
+    <ctml:name>Breznik</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pernik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-14</ctml:parentRef>
+    <ctml:wikiDataId>Q390361</ctml:wikiDataId>
+    <ctml:latitude>42.74085000</ctml:latitude>
+    <ctml:longitude>22.90723000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9509" kind="city">
+    <ctml:name>Obshtina Kovachevtsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pernik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-14</ctml:parentRef>
+    <ctml:wikiDataId>Q2405644</ctml:wikiDataId>
+    <ctml:latitude>42.55000000</ctml:latitude>
+    <ctml:longitude>22.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9552" kind="city">
+    <ctml:name>Obshtina Pernik</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pernik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-14</ctml:parentRef>
+    <ctml:wikiDataId>Q4351615</ctml:wikiDataId>
+    <ctml:latitude>42.61667000</ctml:latitude>
+    <ctml:longitude>23.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9567" kind="city">
+    <ctml:name>Obshtina Radomir</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pernik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1749664</ctml:wikiDataId>
+    <ctml:latitude>42.46667000</ctml:latitude>
+    <ctml:longitude>23.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9636" kind="city">
+    <ctml:name>Obshtina Zemen</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pernik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-14</ctml:parentRef>
+    <ctml:wikiDataId>Q4191007</ctml:wikiDataId>
+    <ctml:latitude>42.55067000</ctml:latitude>
+    <ctml:longitude>22.71440000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9665" kind="city">
+    <ctml:name>Radomir</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pernik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-14</ctml:parentRef>
+    <ctml:wikiDataId>Q405742</ctml:wikiDataId>
+    <ctml:latitude>42.54565000</ctml:latitude>
+    <ctml:longitude>22.96553000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9724" kind="admin2">
+    <ctml:name>Tran</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pernik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-14</ctml:parentRef>
+    <ctml:wikiDataId>Q406863</ctml:wikiDataId>
+    <ctml:latitude>42.83528000</ctml:latitude>
+    <ctml:longitude>22.65167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9748" kind="city">
+    <ctml:name>Zemen</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pernik</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-14</ctml:parentRef>
+    <ctml:wikiDataId>Q405329</ctml:wikiDataId>
+    <ctml:latitude>42.47889000</ctml:latitude>
+    <ctml:longitude>22.74917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9269" kind="admin2">
+    <ctml:name>Belene</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q407198</ctml:wikiDataId>
+    <ctml:latitude>43.64594000</ctml:latitude>
+    <ctml:longitude>25.12627000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9300" kind="admin2">
+    <ctml:name>Cherven Bryag</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q407330</ctml:wikiDataId>
+    <ctml:latitude>43.26667000</ctml:latitude>
+    <ctml:longitude>24.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9312" kind="city">
+    <ctml:name>Dolna Mitropolia</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q405829</ctml:wikiDataId>
+    <ctml:latitude>43.46667000</ctml:latitude>
+    <ctml:longitude>24.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9314" kind="city">
+    <ctml:name>Dolni Dabnik</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q407302</ctml:wikiDataId>
+    <ctml:latitude>43.40000000</ctml:latitude>
+    <ctml:longitude>24.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9337" kind="admin2">
+    <ctml:name>Gulyantsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q457141</ctml:wikiDataId>
+    <ctml:latitude>43.64109000</ctml:latitude>
+    <ctml:longitude>24.69368000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9347" kind="city">
+    <ctml:name>Iskar</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q405712</ctml:wikiDataId>
+    <ctml:latitude>43.45000000</ctml:latitude>
+    <ctml:longitude>24.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9366" kind="city">
+    <ctml:name>Knezha</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q405731</ctml:wikiDataId>
+    <ctml:latitude>43.50000000</ctml:latitude>
+    <ctml:longitude>24.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9372" kind="city">
+    <ctml:name>Koynare</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q406343</ctml:wikiDataId>
+    <ctml:latitude>43.35000000</ctml:latitude>
+    <ctml:longitude>24.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9386" kind="city">
+    <ctml:name>Levski</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q405610</ctml:wikiDataId>
+    <ctml:latitude>43.36667000</ctml:latitude>
+    <ctml:longitude>25.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9409" kind="admin2">
+    <ctml:name>Nikopol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q409102</ctml:wikiDataId>
+    <ctml:latitude>43.70528000</ctml:latitude>
+    <ctml:longitude>24.89521000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9424" kind="city">
+    <ctml:name>Obshtina Belene</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2657351</ctml:wikiDataId>
+    <ctml:latitude>43.63333000</ctml:latitude>
+    <ctml:longitude>25.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9449" kind="city">
+    <ctml:name>Obshtina Cherven Bryag</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2560800</ctml:wikiDataId>
+    <ctml:latitude>43.33333000</ctml:latitude>
+    <ctml:longitude>24.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9460" kind="city">
+    <ctml:name>Obshtina Dolna Mitropolia</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2721258</ctml:wikiDataId>
+    <ctml:latitude>43.58333000</ctml:latitude>
+    <ctml:longitude>24.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9462" kind="city">
+    <ctml:name>Obshtina Dolni Dabnik</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2561191</ctml:wikiDataId>
+    <ctml:latitude>43.36667000</ctml:latitude>
+    <ctml:longitude>24.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9484" kind="city">
+    <ctml:name>Obshtina Gulyantsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2721295</ctml:wikiDataId>
+    <ctml:latitude>43.68333000</ctml:latitude>
+    <ctml:longitude>24.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9490" kind="city">
+    <ctml:name>Obshtina Iskar</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2721004</ctml:wikiDataId>
+    <ctml:latitude>43.50000000</ctml:latitude>
+    <ctml:longitude>24.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9503" kind="city">
+    <ctml:name>Obshtina Knezha</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2721276</ctml:wikiDataId>
+    <ctml:latitude>43.50000000</ctml:latitude>
+    <ctml:longitude>24.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9521" kind="city">
+    <ctml:name>Obshtina Levski</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2561243</ctml:wikiDataId>
+    <ctml:latitude>43.43333000</ctml:latitude>
+    <ctml:longitude>25.10000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9541" kind="city">
+    <ctml:name>Obshtina Nikopol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q596766</ctml:wikiDataId>
+    <ctml:latitude>43.60000000</ctml:latitude>
+    <ctml:longitude>24.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9557" kind="admin2">
+    <ctml:name>Obshtina Pleven</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2407089</ctml:wikiDataId>
+    <ctml:latitude>43.40000000</ctml:latitude>
+    <ctml:longitude>24.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9562" kind="city">
+    <ctml:name>Obshtina Pordim</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q2721267</ctml:wikiDataId>
+    <ctml:latitude>43.38333000</ctml:latitude>
+    <ctml:longitude>24.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9660" kind="city">
+    <ctml:name>Pordim</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q405579</ctml:wikiDataId>
+    <ctml:latitude>43.38333000</ctml:latitude>
+    <ctml:longitude>24.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9696" kind="city">
+    <ctml:name>Slavyanovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Pleven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-15</ctml:parentRef>
+    <ctml:wikiDataId>Q405978</ctml:wikiDataId>
+    <ctml:latitude>43.46667000</ctml:latitude>
+    <ctml:longitude>24.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9259" kind="city">
+    <ctml:name>Asenovgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q191871</ctml:wikiDataId>
+    <ctml:latitude>42.01667000</ctml:latitude>
+    <ctml:longitude>24.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9289" kind="city">
+    <ctml:name>Brezovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q405203</ctml:wikiDataId>
+    <ctml:latitude>42.35000000</ctml:latitude>
+    <ctml:longitude>25.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9345" kind="city">
+    <ctml:name>Hisarya</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q239989</ctml:wikiDataId>
+    <ctml:latitude>42.50000000</ctml:latitude>
+    <ctml:longitude>24.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9351" kind="city">
+    <ctml:name>Kalofer</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q405351</ctml:wikiDataId>
+    <ctml:latitude>42.61667000</ctml:latitude>
+    <ctml:longitude>24.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9352" kind="city">
+    <ctml:name>Kaloyanovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q405351</ctml:wikiDataId>
+    <ctml:latitude>42.35000000</ctml:latitude>
+    <ctml:longitude>24.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9355" kind="city">
+    <ctml:name>Karlovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q316841</ctml:wikiDataId>
+    <ctml:latitude>42.63333000</ctml:latitude>
+    <ctml:longitude>24.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9365" kind="city">
+    <ctml:name>Klisura</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q405893</ctml:wikiDataId>
+    <ctml:latitude>42.70000000</ctml:latitude>
+    <ctml:longitude>24.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9375" kind="city">
+    <ctml:name>Krichim</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q406822</ctml:wikiDataId>
+    <ctml:latitude>42.05000000</ctml:latitude>
+    <ctml:longitude>24.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9383" kind="city">
+    <ctml:name>Laki</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q405602</ctml:wikiDataId>
+    <ctml:latitude>41.85000000</ctml:latitude>
+    <ctml:longitude>24.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9417" kind="city">
+    <ctml:name>Obshtina Asenovgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q191871</ctml:wikiDataId>
+    <ctml:latitude>41.95000000</ctml:latitude>
+    <ctml:longitude>24.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9489" kind="city">
+    <ctml:name>Obshtina Hisarya</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1750679</ctml:wikiDataId>
+    <ctml:latitude>42.50000000</ctml:latitude>
+    <ctml:longitude>24.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9494" kind="city">
+    <ctml:name>Obshtina Kaloyanovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2561213</ctml:wikiDataId>
+    <ctml:latitude>42.38333000</ctml:latitude>
+    <ctml:longitude>24.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9497" kind="city">
+    <ctml:name>Obshtina Karlovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2015223</ctml:wikiDataId>
+    <ctml:latitude>42.68333000</ctml:latitude>
+    <ctml:longitude>24.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9512" kind="city">
+    <ctml:name>Obshtina Krichim</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2662531</ctml:wikiDataId>
+    <ctml:latitude>42.00439000</ctml:latitude>
+    <ctml:longitude>24.47235000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9516" kind="city">
+    <ctml:name>Obshtina Kuklen</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1750685</ctml:wikiDataId>
+    <ctml:latitude>42.03725000</ctml:latitude>
+    <ctml:longitude>24.77949000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9519" kind="city">
+    <ctml:name>Obshtina Laki</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2408601</ctml:wikiDataId>
+    <ctml:latitude>41.81667000</ctml:latitude>
+    <ctml:longitude>24.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9530" kind="city">
+    <ctml:name>Obshtina Maritsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q162565</ctml:wikiDataId>
+    <ctml:latitude>42.23333000</ctml:latitude>
+    <ctml:longitude>24.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9548" kind="city">
+    <ctml:name>Obshtina Parvomay</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2721288</ctml:wikiDataId>
+    <ctml:latitude>42.03333000</ctml:latitude>
+    <ctml:longitude>25.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9553" kind="city">
+    <ctml:name>Obshtina Perushtitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q15101506</ctml:wikiDataId>
+    <ctml:latitude>42.06667000</ctml:latitude>
+    <ctml:longitude>24.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9558" kind="city">
+    <ctml:name>Obshtina Plovdiv</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q4365146</ctml:wikiDataId>
+    <ctml:latitude>42.15000000</ctml:latitude>
+    <ctml:longitude>24.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9569" kind="city">
+    <ctml:name>Obshtina Rakovski</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1750681</ctml:wikiDataId>
+    <ctml:latitude>42.26667000</ctml:latitude>
+    <ctml:longitude>24.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9573" kind="city">
+    <ctml:name>Obshtina Rodopi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1500386</ctml:wikiDataId>
+    <ctml:latitude>42.03333000</ctml:latitude>
+    <ctml:longitude>24.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9578" kind="city">
+    <ctml:name>Obshtina Sadovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2408574</ctml:wikiDataId>
+    <ctml:latitude>42.13333000</ctml:latitude>
+    <ctml:longitude>25.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9579" kind="city">
+    <ctml:name>Obshtina Saedinenie</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q523537</ctml:wikiDataId>
+    <ctml:latitude>42.31667000</ctml:latitude>
+    <ctml:longitude>24.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9595" kind="city">
+    <ctml:name>Obshtina Sopot</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q2219349</ctml:wikiDataId>
+    <ctml:latitude>42.65214000</ctml:latitude>
+    <ctml:longitude>24.74310000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9597" kind="city">
+    <ctml:name>Obshtina Stamboliyski</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1750926</ctml:wikiDataId>
+    <ctml:latitude>42.11667000</ctml:latitude>
+    <ctml:longitude>24.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9645" kind="admin2">
+    <ctml:name>Parvomay</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q406222</ctml:wikiDataId>
+    <ctml:latitude>42.10000000</ctml:latitude>
+    <ctml:longitude>25.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9651" kind="city">
+    <ctml:name>Perushtitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q407483</ctml:wikiDataId>
+    <ctml:latitude>42.05000000</ctml:latitude>
+    <ctml:longitude>24.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9667" kind="city">
+    <ctml:name>Rakovski</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q167953</ctml:wikiDataId>
+    <ctml:latitude>42.27408000</ctml:latitude>
+    <ctml:longitude>24.94083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9677" kind="city">
+    <ctml:name>Sadovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q405215</ctml:wikiDataId>
+    <ctml:latitude>42.13178000</ctml:latitude>
+    <ctml:longitude>24.93999000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9678" kind="city">
+    <ctml:name>Saedinenie</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q405965</ctml:wikiDataId>
+    <ctml:latitude>42.26667000</ctml:latitude>
+    <ctml:longitude>24.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9704" kind="city">
+    <ctml:name>Stamboliyski</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q405708</ctml:wikiDataId>
+    <ctml:latitude>42.13333000</ctml:latitude>
+    <ctml:longitude>24.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9723" kind="city">
+    <ctml:name>Topolovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Plovdiv</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-16</ctml:parentRef>
+    <ctml:wikiDataId>Q405440</ctml:wikiDataId>
+    <ctml:latitude>41.90000000</ctml:latitude>
+    <ctml:longitude>25.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9348" kind="city">
+    <ctml:name>Isperih</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Razgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-17</ctml:parentRef>
+    <ctml:wikiDataId>Q405797</ctml:wikiDataId>
+    <ctml:latitude>43.71687240</ctml:latitude>
+    <ctml:longitude>26.83014190</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9379" kind="admin2">
+    <ctml:name>Kubrat</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Razgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-17</ctml:parentRef>
+    <ctml:wikiDataId>Q406545</ctml:wikiDataId>
+    <ctml:latitude>43.79658000</ctml:latitude>
+    <ctml:longitude>26.50063000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9389" kind="city">
+    <ctml:name>Loznitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Razgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-17</ctml:parentRef>
+    <ctml:wikiDataId>Q405880</ctml:wikiDataId>
+    <ctml:latitude>43.36667000</ctml:latitude>
+    <ctml:longitude>26.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9399" kind="city">
+    <ctml:name>Medovene</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Razgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2018323</ctml:wikiDataId>
+    <ctml:latitude>43.76667000</ctml:latitude>
+    <ctml:longitude>26.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9491" kind="city">
+    <ctml:name>Obshtina Isperih</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Razgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2220241</ctml:wikiDataId>
+    <ctml:latitude>43.71667000</ctml:latitude>
+    <ctml:longitude>26.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9515" kind="city">
+    <ctml:name>Obshtina Kubrat</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Razgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-17</ctml:parentRef>
+    <ctml:wikiDataId>Q406545</ctml:wikiDataId>
+    <ctml:latitude>43.86667000</ctml:latitude>
+    <ctml:longitude>26.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9524" kind="city">
+    <ctml:name>Obshtina Loznitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Razgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2717061</ctml:wikiDataId>
+    <ctml:latitude>43.41667000</ctml:latitude>
+    <ctml:longitude>26.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9570" kind="city">
+    <ctml:name>Obshtina Razgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Razgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2609683</ctml:wikiDataId>
+    <ctml:latitude>43.53333000</ctml:latitude>
+    <ctml:longitude>26.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9581" kind="city">
+    <ctml:name>Obshtina Samuil</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Razgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2011302</ctml:wikiDataId>
+    <ctml:latitude>43.60000000</ctml:latitude>
+    <ctml:longitude>26.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9616" kind="city">
+    <ctml:name>Obshtina Tsar Kaloyan</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Razgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2609383</ctml:wikiDataId>
+    <ctml:latitude>43.60000000</ctml:latitude>
+    <ctml:longitude>26.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9635" kind="city">
+    <ctml:name>Obshtina Zavet</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Razgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2716740</ctml:wikiDataId>
+    <ctml:latitude>43.76667000</ctml:latitude>
+    <ctml:longitude>26.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9680" kind="city">
+    <ctml:name>Samuil</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Razgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-17</ctml:parentRef>
+    <ctml:wikiDataId>Q388070</ctml:wikiDataId>
+    <ctml:latitude>43.51667000</ctml:latitude>
+    <ctml:longitude>26.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9727" kind="city">
+    <ctml:name>Tsar Kaloyan</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Razgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-17</ctml:parentRef>
+    <ctml:wikiDataId>Q407121</ctml:wikiDataId>
+    <ctml:latitude>43.61667000</ctml:latitude>
+    <ctml:longitude>26.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9747" kind="admin2">
+    <ctml:name>Zavet</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Razgrad</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-17</ctml:parentRef>
+    <ctml:wikiDataId>Q2995730</ctml:wikiDataId>
+    <ctml:latitude>43.76036000</ctml:latitude>
+    <ctml:longitude>26.68063000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9281" kind="admin2">
+    <ctml:name>Borovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Ruse</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-18</ctml:parentRef>
+    <ctml:wikiDataId>Q405846</ctml:wikiDataId>
+    <ctml:latitude>43.50086000</ctml:latitude>
+    <ctml:longitude>25.80992000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9322" kind="admin2">
+    <ctml:name>Dve Mogili</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Ruse</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-18</ctml:parentRef>
+    <ctml:wikiDataId>Q407228</ctml:wikiDataId>
+    <ctml:latitude>43.59258000</ctml:latitude>
+    <ctml:longitude>25.87486000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9349" kind="admin2">
+    <ctml:name>Ivanovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Ruse</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-18</ctml:parentRef>
+    <ctml:wikiDataId>Q935789</ctml:wikiDataId>
+    <ctml:latitude>43.68568000</ctml:latitude>
+    <ctml:longitude>25.95565000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9435" kind="city">
+    <ctml:name>Obshtina Borovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Ruse</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2652921</ctml:wikiDataId>
+    <ctml:latitude>43.60000000</ctml:latitude>
+    <ctml:longitude>25.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9443" kind="city">
+    <ctml:name>Obshtina Byala</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Ruse</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-18</ctml:parentRef>
+    <ctml:wikiDataId>Q132395</ctml:wikiDataId>
+    <ctml:latitude>43.41667000</ctml:latitude>
+    <ctml:longitude>25.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9492" kind="city">
+    <ctml:name>Obshtina Ivanovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Ruse</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2721303</ctml:wikiDataId>
+    <ctml:latitude>43.70000000</ctml:latitude>
+    <ctml:longitude>25.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9576" kind="city">
+    <ctml:name>Obshtina Ruse</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Ruse</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2652929</ctml:wikiDataId>
+    <ctml:latitude>43.85000000</ctml:latitude>
+    <ctml:longitude>26.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9593" kind="city">
+    <ctml:name>Obshtina Slivo Pole</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Ruse</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2609442</ctml:wikiDataId>
+    <ctml:latitude>43.96667000</ctml:latitude>
+    <ctml:longitude>26.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9617" kind="city">
+    <ctml:name>Obshtina Tsenovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Ruse</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2609662</ctml:wikiDataId>
+    <ctml:latitude>43.58333000</ctml:latitude>
+    <ctml:longitude>25.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9628" kind="city">
+    <ctml:name>Obshtina Vetovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Ruse</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-18</ctml:parentRef>
+    <ctml:wikiDataId>Q2716767</ctml:wikiDataId>
+    <ctml:latitude>43.71667000</ctml:latitude>
+    <ctml:longitude>26.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9687" kind="city">
+    <ctml:name>Senovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Ruse</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-18</ctml:parentRef>
+    <ctml:wikiDataId>Q404734</ctml:wikiDataId>
+    <ctml:latitude>43.65000000</ctml:latitude>
+    <ctml:longitude>26.36667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9699" kind="admin2">
+    <ctml:name>Slivo Pole</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Ruse</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-18</ctml:parentRef>
+    <ctml:wikiDataId>Q406747</ctml:wikiDataId>
+    <ctml:latitude>43.94248000</ctml:latitude>
+    <ctml:longitude>26.20464000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9729" kind="admin2">
+    <ctml:name>Tsenovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Ruse</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-18</ctml:parentRef>
+    <ctml:wikiDataId>Q147938</ctml:wikiDataId>
+    <ctml:latitude>43.53588000</ctml:latitude>
+    <ctml:longitude>25.65764000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9739" kind="city">
+    <ctml:name>Vetovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Ruse</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-18</ctml:parentRef>
+    <ctml:wikiDataId>Q405114</ctml:wikiDataId>
+    <ctml:latitude>43.70000000</ctml:latitude>
+    <ctml:longitude>26.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9253" kind="admin2">
+    <ctml:name>Alfatar</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Silistra</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-19</ctml:parentRef>
+    <ctml:wikiDataId>Q407325</ctml:wikiDataId>
+    <ctml:latitude>43.94525000</ctml:latitude>
+    <ctml:longitude>27.28751000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9319" kind="city">
+    <ctml:name>Dulovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Silistra</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-19</ctml:parentRef>
+    <ctml:wikiDataId>Q407319</ctml:wikiDataId>
+    <ctml:latitude>43.81667000</ctml:latitude>
+    <ctml:longitude>27.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9331" kind="city">
+    <ctml:name>Glavinitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Silistra</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-19</ctml:parentRef>
+    <ctml:wikiDataId>Q405390</ctml:wikiDataId>
+    <ctml:latitude>43.91667000</ctml:latitude>
+    <ctml:longitude>26.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9358" kind="admin2">
+    <ctml:name>Kaynardzha</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Silistra</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-19</ctml:parentRef>
+    <ctml:wikiDataId>Q2346358</ctml:wikiDataId>
+    <ctml:latitude>43.99278000</ctml:latitude>
+    <ctml:longitude>27.50713000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9413" kind="city">
+    <ctml:name>Obshtina Alfatar</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Silistra</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-19</ctml:parentRef>
+    <ctml:wikiDataId>Q587507</ctml:wikiDataId>
+    <ctml:latitude>43.90000000</ctml:latitude>
+    <ctml:longitude>27.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9466" kind="city">
+    <ctml:name>Obshtina Dulovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Silistra</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-19</ctml:parentRef>
+    <ctml:wikiDataId>Q2387177</ctml:wikiDataId>
+    <ctml:latitude>43.81667000</ctml:latitude>
+    <ctml:longitude>27.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9479" kind="city">
+    <ctml:name>Obshtina Glavinitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Silistra</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-19</ctml:parentRef>
+    <ctml:wikiDataId>Q303082</ctml:wikiDataId>
+    <ctml:latitude>43.95000000</ctml:latitude>
+    <ctml:longitude>26.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9500" kind="city">
+    <ctml:name>Obshtina Kaynardzha</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Silistra</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-19</ctml:parentRef>
+    <ctml:wikiDataId>Q921737</ctml:wikiDataId>
+    <ctml:latitude>43.95000000</ctml:latitude>
+    <ctml:longitude>27.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9588" kind="city">
+    <ctml:name>Obshtina Silistra</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Silistra</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-19</ctml:parentRef>
+    <ctml:wikiDataId>Q2219334</ctml:wikiDataId>
+    <ctml:latitude>44.03333000</ctml:latitude>
+    <ctml:longitude>27.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9590" kind="city">
+    <ctml:name>Obshtina Sitovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Silistra</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-19</ctml:parentRef>
+    <ctml:wikiDataId>Q2609678</ctml:wikiDataId>
+    <ctml:latitude>44.01667000</ctml:latitude>
+    <ctml:longitude>27.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9619" kind="city">
+    <ctml:name>Obshtina Tutrakan</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Silistra</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-19</ctml:parentRef>
+    <ctml:wikiDataId>Q2609628</ctml:wikiDataId>
+    <ctml:latitude>44.00000000</ctml:latitude>
+    <ctml:longitude>26.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9695" kind="admin2">
+    <ctml:name>Sitovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Silistra</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-19</ctml:parentRef>
+    <ctml:wikiDataId>Q1897942</ctml:wikiDataId>
+    <ctml:latitude>44.02730000</ctml:latitude>
+    <ctml:longitude>27.01982000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9730" kind="admin2">
+    <ctml:name>Tutrakan</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Silistra</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-19</ctml:parentRef>
+    <ctml:wikiDataId>Q404939</ctml:wikiDataId>
+    <ctml:latitude>44.04906000</ctml:latitude>
+    <ctml:longitude>26.61206000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9360" kind="city">
+    <ctml:name>Kermen</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sliven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-20</ctml:parentRef>
+    <ctml:wikiDataId>Q2469089</ctml:wikiDataId>
+    <ctml:latitude>42.50000000</ctml:latitude>
+    <ctml:longitude>26.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9371" kind="city">
+    <ctml:name>Kotel</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sliven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-20</ctml:parentRef>
+    <ctml:wikiDataId>Q404822</ctml:wikiDataId>
+    <ctml:latitude>42.88737760</ctml:latitude>
+    <ctml:longitude>26.44915980</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9410" kind="city">
+    <ctml:name>Nova Zagora</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sliven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-20</ctml:parentRef>
+    <ctml:wikiDataId>Q405317</ctml:wikiDataId>
+    <ctml:latitude>42.48333000</ctml:latitude>
+    <ctml:longitude>26.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9508" kind="city">
+    <ctml:name>Obshtina Kotel</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sliven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-20</ctml:parentRef>
+    <ctml:wikiDataId>Q13554376</ctml:wikiDataId>
+    <ctml:latitude>42.88333000</ctml:latitude>
+    <ctml:longitude>26.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9542" kind="city">
+    <ctml:name>Obshtina Nova Zagora</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sliven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-20</ctml:parentRef>
+    <ctml:wikiDataId>Q1749545</ctml:wikiDataId>
+    <ctml:latitude>42.45000000</ctml:latitude>
+    <ctml:longitude>26.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9591" kind="city">
+    <ctml:name>Obshtina Sliven</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sliven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-20</ctml:parentRef>
+    <ctml:wikiDataId>Q4423406</ctml:wikiDataId>
+    <ctml:latitude>42.66667000</ctml:latitude>
+    <ctml:longitude>26.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9620" kind="city">
+    <ctml:name>Obshtina Tvarditsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sliven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-20</ctml:parentRef>
+    <ctml:wikiDataId>Q1749531</ctml:wikiDataId>
+    <ctml:latitude>42.73333000</ctml:latitude>
+    <ctml:longitude>26.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9731" kind="city">
+    <ctml:name>Tvarditsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sliven</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-20</ctml:parentRef>
+    <ctml:wikiDataId>Q405445</ctml:wikiDataId>
+    <ctml:latitude>42.70000000</ctml:latitude>
+    <ctml:longitude>25.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9264" kind="city">
+    <ctml:name>Banite</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2444193</ctml:wikiDataId>
+    <ctml:latitude>41.61667000</ctml:latitude>
+    <ctml:longitude>25.01667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9279" kind="admin2">
+    <ctml:name>Borino</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2469110</ctml:wikiDataId>
+    <ctml:latitude>41.68408000</ctml:latitude>
+    <ctml:longitude>24.29300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9298" kind="city">
+    <ctml:name>Chepelare</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q405807</ctml:wikiDataId>
+    <ctml:latitude>41.73333000</ctml:latitude>
+    <ctml:longitude>24.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9306" kind="city">
+    <ctml:name>Devin</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q405341</ctml:wikiDataId>
+    <ctml:latitude>41.74327000</ctml:latitude>
+    <ctml:longitude>24.40003000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9315" kind="admin2">
+    <ctml:name>Dospat</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q406089</ctml:wikiDataId>
+    <ctml:latitude>41.64462000</ctml:latitude>
+    <ctml:longitude>24.15857000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9339" kind="city">
+    <ctml:name>Gyovren</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3623055</ctml:wikiDataId>
+    <ctml:latitude>41.66326000</ctml:latitude>
+    <ctml:longitude>24.37557000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9393" kind="admin2">
+    <ctml:name>Madan</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q405449</ctml:wikiDataId>
+    <ctml:latitude>41.49869000</ctml:latitude>
+    <ctml:longitude>24.93973000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9405" kind="admin2">
+    <ctml:name>Nedelino</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q405716</ctml:wikiDataId>
+    <ctml:latitude>41.45602000</ctml:latitude>
+    <ctml:longitude>25.08008000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9421" kind="city">
+    <ctml:name>Obshtina Banite</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1890848</ctml:wikiDataId>
+    <ctml:latitude>41.70000000</ctml:latitude>
+    <ctml:longitude>25.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9433" kind="admin2">
+    <ctml:name>Obshtina Borino</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1749527</ctml:wikiDataId>
+    <ctml:latitude>41.64834000</ctml:latitude>
+    <ctml:longitude>24.31694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9447" kind="city">
+    <ctml:name>Obshtina Chepelare</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q3627159</ctml:wikiDataId>
+    <ctml:latitude>41.80000000</ctml:latitude>
+    <ctml:longitude>24.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9453" kind="city">
+    <ctml:name>Obshtina Devin</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2011314</ctml:wikiDataId>
+    <ctml:latitude>41.74346000</ctml:latitude>
+    <ctml:longitude>24.40192000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9463" kind="city">
+    <ctml:name>Obshtina Dospat</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2715784</ctml:wikiDataId>
+    <ctml:latitude>41.63228000</ctml:latitude>
+    <ctml:longitude>24.18765000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9526" kind="city">
+    <ctml:name>Obshtina Madan</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1749535</ctml:wikiDataId>
+    <ctml:latitude>41.53333000</ctml:latitude>
+    <ctml:longitude>24.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9537" kind="city">
+    <ctml:name>Obshtina Nedelino</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1749550</ctml:wikiDataId>
+    <ctml:latitude>41.46894000</ctml:latitude>
+    <ctml:longitude>25.09481000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9575" kind="city">
+    <ctml:name>Obshtina Rudozem</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q2405118</ctml:wikiDataId>
+    <ctml:latitude>41.45439000</ctml:latitude>
+    <ctml:longitude>24.83690000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9594" kind="city">
+    <ctml:name>Obshtina Smolyan</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1749684</ctml:wikiDataId>
+    <ctml:latitude>41.57516000</ctml:latitude>
+    <ctml:longitude>24.71302000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9639" kind="city">
+    <ctml:name>Obshtina Zlatograd</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q7497979</ctml:wikiDataId>
+    <ctml:latitude>41.40028000</ctml:latitude>
+    <ctml:longitude>25.04591000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9673" kind="admin2">
+    <ctml:name>Rudozem</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q405334</ctml:wikiDataId>
+    <ctml:latitude>41.48751000</ctml:latitude>
+    <ctml:longitude>24.84945000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9752" kind="admin2">
+    <ctml:name>Zlatograd</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Smolyan</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-21</ctml:parentRef>
+    <ctml:wikiDataId>Q1790862</ctml:wikiDataId>
+    <ctml:latitude>41.37950000</ctml:latitude>
+    <ctml:longitude>25.09605000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9254" kind="city">
+    <ctml:name>Anton</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q7511879</ctml:wikiDataId>
+    <ctml:latitude>42.75000000</ctml:latitude>
+    <ctml:longitude>24.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9282" kind="city">
+    <ctml:name>Botevgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q405426</ctml:wikiDataId>
+    <ctml:latitude>42.90000000</ctml:latitude>
+    <ctml:longitude>23.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9285" kind="city">
+    <ctml:name>Bozhurishte</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q404811</ctml:wikiDataId>
+    <ctml:latitude>42.75000000</ctml:latitude>
+    <ctml:longitude>23.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9296" kind="city">
+    <ctml:name>Chavdar</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q405228</ctml:wikiDataId>
+    <ctml:latitude>42.65000000</ctml:latitude>
+    <ctml:longitude>24.05000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9297" kind="city">
+    <ctml:name>Chelopech</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2418971</ctml:wikiDataId>
+    <ctml:latitude>42.70000000</ctml:latitude>
+    <ctml:longitude>24.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9311" kind="city">
+    <ctml:name>Dolna Banya</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q405248</ctml:wikiDataId>
+    <ctml:latitude>42.31082460</ctml:latitude>
+    <ctml:longitude>23.76450190</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9316" kind="admin2">
+    <ctml:name>Dragoman</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q405373</ctml:wikiDataId>
+    <ctml:latitude>42.92191000</ctml:latitude>
+    <ctml:longitude>22.93109000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9326" kind="city">
+    <ctml:name>Elin Pelin</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q406042</ctml:wikiDataId>
+    <ctml:latitude>42.66911320</ctml:latitude>
+    <ctml:longitude>23.60214260</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9327" kind="city">
+    <ctml:name>Etropole</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q406064</ctml:wikiDataId>
+    <ctml:latitude>42.83333000</ctml:latitude>
+    <ctml:longitude>24.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9332" kind="admin2">
+    <ctml:name>Godech</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q405420</ctml:wikiDataId>
+    <ctml:latitude>43.01682000</ctml:latitude>
+    <ctml:longitude>23.04852000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9333" kind="city">
+    <ctml:name>Gorna Malina</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2994088</ctml:wikiDataId>
+    <ctml:latitude>42.68333000</ctml:latitude>
+    <ctml:longitude>23.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9346" kind="city">
+    <ctml:name>Ihtiman</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q405712</ctml:wikiDataId>
+    <ctml:latitude>42.43333000</ctml:latitude>
+    <ctml:longitude>23.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9369" kind="city">
+    <ctml:name>Koprivshtitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q251439</ctml:wikiDataId>
+    <ctml:latitude>42.63333000</ctml:latitude>
+    <ctml:longitude>24.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9370" kind="city">
+    <ctml:name>Kostinbrod</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q671522</ctml:wikiDataId>
+    <ctml:latitude>42.81667000</ctml:latitude>
+    <ctml:longitude>23.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9382" kind="city">
+    <ctml:name>Lakatnik</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2017393</ctml:wikiDataId>
+    <ctml:latitude>43.05000000</ctml:latitude>
+    <ctml:longitude>23.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9402" kind="city">
+    <ctml:name>Mirkovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2994069</ctml:wikiDataId>
+    <ctml:latitude>42.70000000</ctml:latitude>
+    <ctml:longitude>23.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9414" kind="city">
+    <ctml:name>Obshtina Anton</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2012997</ctml:wikiDataId>
+    <ctml:latitude>42.76667000</ctml:latitude>
+    <ctml:longitude>24.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9436" kind="city">
+    <ctml:name>Obshtina Botevgrad</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q1750337</ctml:wikiDataId>
+    <ctml:latitude>42.95000000</ctml:latitude>
+    <ctml:longitude>23.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9439" kind="city">
+    <ctml:name>Obshtina Bozhurishte</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2011235</ctml:wikiDataId>
+    <ctml:latitude>42.78333000</ctml:latitude>
+    <ctml:longitude>23.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9445" kind="city">
+    <ctml:name>Obshtina Chavdar</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q1750661</ctml:wikiDataId>
+    <ctml:latitude>42.61667000</ctml:latitude>
+    <ctml:longitude>24.08333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9446" kind="city">
+    <ctml:name>Obshtina Chelopech</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q3627159</ctml:wikiDataId>
+    <ctml:latitude>42.71667000</ctml:latitude>
+    <ctml:longitude>24.06667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9459" kind="city">
+    <ctml:name>Obshtina Dolna Banya</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q4165080</ctml:wikiDataId>
+    <ctml:latitude>42.31139020</ctml:latitude>
+    <ctml:longitude>23.76568090</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9464" kind="city">
+    <ctml:name>Obshtina Dragoman</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2476900</ctml:wikiDataId>
+    <ctml:latitude>42.93333000</ctml:latitude>
+    <ctml:longitude>22.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9472" kind="city">
+    <ctml:name>Obshtina Elin Pelin</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q1750672</ctml:wikiDataId>
+    <ctml:latitude>42.66667000</ctml:latitude>
+    <ctml:longitude>23.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9473" kind="city">
+    <ctml:name>Obshtina Etropole</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q771640</ctml:wikiDataId>
+    <ctml:latitude>42.85000000</ctml:latitude>
+    <ctml:longitude>24.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9480" kind="city">
+    <ctml:name>Obshtina Gorna Malina</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q1750531</ctml:wikiDataId>
+    <ctml:latitude>42.71667000</ctml:latitude>
+    <ctml:longitude>23.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9505" kind="city">
+    <ctml:name>Obshtina Koprivshtitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q4232394</ctml:wikiDataId>
+    <ctml:latitude>42.61667000</ctml:latitude>
+    <ctml:longitude>24.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9506" kind="city">
+    <ctml:name>Obshtina Kostenets</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2560787</ctml:wikiDataId>
+    <ctml:latitude>42.30000000</ctml:latitude>
+    <ctml:longitude>23.86667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9507" kind="city">
+    <ctml:name>Obshtina Kostinbrod</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q13554376</ctml:wikiDataId>
+    <ctml:latitude>42.88333000</ctml:latitude>
+    <ctml:longitude>23.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9533" kind="city">
+    <ctml:name>Obshtina Mirkovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q1750534</ctml:wikiDataId>
+    <ctml:latitude>42.66667000</ctml:latitude>
+    <ctml:longitude>23.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9556" kind="city">
+    <ctml:name>Obshtina Pirdop</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2407089</ctml:wikiDataId>
+    <ctml:latitude>42.70000000</ctml:latitude>
+    <ctml:longitude>24.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9563" kind="city">
+    <ctml:name>Obshtina Pravets</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2012325</ctml:wikiDataId>
+    <ctml:latitude>42.96667000</ctml:latitude>
+    <ctml:longitude>23.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9580" kind="city">
+    <ctml:name>Obshtina Samokov</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2011302</ctml:wikiDataId>
+    <ctml:latitude>42.33333000</ctml:latitude>
+    <ctml:longitude>23.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9592" kind="city">
+    <ctml:name>Obshtina Slivnitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2408489</ctml:wikiDataId>
+    <ctml:latitude>42.85000000</ctml:latitude>
+    <ctml:longitude>22.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9609" kind="city">
+    <ctml:name>Obshtina Svoge</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2715418</ctml:wikiDataId>
+    <ctml:latitude>43.00000000</ctml:latitude>
+    <ctml:longitude>23.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9638" kind="city">
+    <ctml:name>Obshtina Zlatitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q2407916</ctml:wikiDataId>
+    <ctml:latitude>42.70000000</ctml:latitude>
+    <ctml:longitude>24.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9654" kind="city">
+    <ctml:name>Pirdop</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q405654</ctml:wikiDataId>
+    <ctml:latitude>42.70000000</ctml:latitude>
+    <ctml:longitude>24.18333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9661" kind="city">
+    <ctml:name>Pravets</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q387864</ctml:wikiDataId>
+    <ctml:latitude>42.88333000</ctml:latitude>
+    <ctml:longitude>23.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9679" kind="city">
+    <ctml:name>Samokov</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q388070</ctml:wikiDataId>
+    <ctml:latitude>42.33700000</ctml:latitude>
+    <ctml:longitude>23.55280000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9698" kind="admin2">
+    <ctml:name>Slivnitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q406470</ctml:wikiDataId>
+    <ctml:latitude>42.85182000</ctml:latitude>
+    <ctml:longitude>23.03792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9718" kind="city">
+    <ctml:name>Svoge</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q406143</ctml:wikiDataId>
+    <ctml:latitude>42.96667000</ctml:latitude>
+    <ctml:longitude>23.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9750" kind="city">
+    <ctml:name>Zlatitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-23</ctml:parentRef>
+    <ctml:wikiDataId>Q405262</ctml:wikiDataId>
+    <ctml:latitude>42.71667000</ctml:latitude>
+    <ctml:longitude>24.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9291" kind="city">
+    <ctml:name>Buhovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia City</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-22</ctml:parentRef>
+    <ctml:wikiDataId>Q2597688</ctml:wikiDataId>
+    <ctml:latitude>42.76667000</ctml:latitude>
+    <ctml:longitude>23.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9701" kind="city">
+    <ctml:name>Sofia</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia City</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-22</ctml:parentRef>
+    <ctml:wikiDataId>Q472</ctml:wikiDataId>
+    <ctml:latitude>42.69751000</ctml:latitude>
+    <ctml:longitude>23.32415000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9707" kind="city">
+    <ctml:name>Stolichna Obshtina</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Sofia City</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-22</ctml:parentRef>
+    <ctml:wikiDataId>Q4442915</ctml:wikiDataId>
+    <ctml:latitude>42.68647000</ctml:latitude>
+    <ctml:longitude>23.30561000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9258" kind="city">
+    <ctml:name>Asen</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q2011103</ctml:wikiDataId>
+    <ctml:latitude>42.65000000</ctml:latitude>
+    <ctml:longitude>25.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9302" kind="city">
+    <ctml:name>Chirpan</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q407340</ctml:wikiDataId>
+    <ctml:latitude>42.20000000</ctml:latitude>
+    <ctml:longitude>25.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9340" kind="city">
+    <ctml:name>Gŭlŭbovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q405736</ctml:wikiDataId>
+    <ctml:latitude>42.13333000</ctml:latitude>
+    <ctml:longitude>25.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9338" kind="city">
+    <ctml:name>Gurkovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q407207</ctml:wikiDataId>
+    <ctml:latitude>42.66667000</ctml:latitude>
+    <ctml:longitude>25.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9359" kind="city">
+    <ctml:name>Kazanlak</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q192926</ctml:wikiDataId>
+    <ctml:latitude>42.61667000</ctml:latitude>
+    <ctml:longitude>25.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9395" kind="city">
+    <ctml:name>Maglizh</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q405916</ctml:wikiDataId>
+    <ctml:latitude>42.60000000</ctml:latitude>
+    <ctml:longitude>25.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9408" kind="city">
+    <ctml:name>Nikolaevo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q405821</ctml:wikiDataId>
+    <ctml:latitude>42.63333000</ctml:latitude>
+    <ctml:longitude>25.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9441" kind="city">
+    <ctml:name>Obshtina Bratya Daskalovi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q1749540</ctml:wikiDataId>
+    <ctml:latitude>42.30000000</ctml:latitude>
+    <ctml:longitude>25.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9451" kind="city">
+    <ctml:name>Obshtina Chirpan</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q1749678</ctml:wikiDataId>
+    <ctml:latitude>42.23333000</ctml:latitude>
+    <ctml:longitude>25.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9475" kind="city">
+    <ctml:name>Obshtina Galabovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q953742</ctml:wikiDataId>
+    <ctml:latitude>42.15000000</ctml:latitude>
+    <ctml:longitude>25.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9485" kind="city">
+    <ctml:name>Obshtina Gurkovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q2721295</ctml:wikiDataId>
+    <ctml:latitude>42.71667000</ctml:latitude>
+    <ctml:longitude>25.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9501" kind="city">
+    <ctml:name>Obshtina Kazanlŭk</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q1750050</ctml:wikiDataId>
+    <ctml:latitude>42.61943000</ctml:latitude>
+    <ctml:longitude>25.39885000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9528" kind="city">
+    <ctml:name>Obshtina Maglizh</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q2405076</ctml:wikiDataId>
+    <ctml:latitude>42.63333000</ctml:latitude>
+    <ctml:longitude>25.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9540" kind="city">
+    <ctml:name>Obshtina Nikolaevo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q535085</ctml:wikiDataId>
+    <ctml:latitude>42.60000000</ctml:latitude>
+    <ctml:longitude>25.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9545" kind="city">
+    <ctml:name>Obshtina Opan</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q2609370</ctml:wikiDataId>
+    <ctml:latitude>42.21667000</ctml:latitude>
+    <ctml:longitude>25.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9549" kind="city">
+    <ctml:name>Obshtina Pavel Banya</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q2405088</ctml:wikiDataId>
+    <ctml:latitude>42.63333000</ctml:latitude>
+    <ctml:longitude>25.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9566" kind="city">
+    <ctml:name>Obshtina Radnevo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q1750036</ctml:wikiDataId>
+    <ctml:latitude>42.30000000</ctml:latitude>
+    <ctml:longitude>25.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9599" kind="city">
+    <ctml:name>Obshtina Stara Zagora</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q534046</ctml:wikiDataId>
+    <ctml:latitude>42.41667000</ctml:latitude>
+    <ctml:longitude>25.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9647" kind="city">
+    <ctml:name>Pavel Banya</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q407336</ctml:wikiDataId>
+    <ctml:latitude>42.60000000</ctml:latitude>
+    <ctml:longitude>25.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9664" kind="city">
+    <ctml:name>Radnevo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q407383</ctml:wikiDataId>
+    <ctml:latitude>42.28904770</ctml:latitude>
+    <ctml:longitude>25.93387240</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9691" kind="city">
+    <ctml:name>Shipka</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Stara Zagora</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-24</ctml:parentRef>
+    <ctml:wikiDataId>Q133961</ctml:wikiDataId>
+    <ctml:latitude>42.71667000</ctml:latitude>
+    <ctml:longitude>25.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9255" kind="city">
+    <ctml:name>Antonovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Targovishte</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-25</ctml:parentRef>
+    <ctml:wikiDataId>Q405852</ctml:wikiDataId>
+    <ctml:latitude>43.15000000</ctml:latitude>
+    <ctml:longitude>26.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9415" kind="city">
+    <ctml:name>Obshtina Antonovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Targovishte</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-25</ctml:parentRef>
+    <ctml:wikiDataId>Q2633034</ctml:wikiDataId>
+    <ctml:latitude>43.11667000</ctml:latitude>
+    <ctml:longitude>26.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9543" kind="city">
+    <ctml:name>Obshtina Omurtag</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Targovishte</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-25</ctml:parentRef>
+    <ctml:wikiDataId>Q3882332</ctml:wikiDataId>
+    <ctml:latitude>43.08333000</ctml:latitude>
+    <ctml:longitude>26.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9544" kind="city">
+    <ctml:name>Obshtina Opaka</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Targovishte</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-25</ctml:parentRef>
+    <ctml:wikiDataId>Q3882809</ctml:wikiDataId>
+    <ctml:latitude>43.46667000</ctml:latitude>
+    <ctml:longitude>26.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9561" kind="city">
+    <ctml:name>Obshtina Popovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Targovishte</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-25</ctml:parentRef>
+    <ctml:wikiDataId>Q3908413</ctml:wikiDataId>
+    <ctml:latitude>43.35000000</ctml:latitude>
+    <ctml:longitude>26.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9610" kind="city">
+    <ctml:name>Obshtina Targovishte</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Targovishte</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-25</ctml:parentRef>
+    <ctml:wikiDataId>Q3515689</ctml:wikiDataId>
+    <ctml:latitude>43.25000000</ctml:latitude>
+    <ctml:longitude>26.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9641" kind="city">
+    <ctml:name>Omurtag</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Targovishte</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-25</ctml:parentRef>
+    <ctml:wikiDataId>Q406243</ctml:wikiDataId>
+    <ctml:latitude>43.10000000</ctml:latitude>
+    <ctml:longitude>26.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9642" kind="city">
+    <ctml:name>Opaka</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Targovishte</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-25</ctml:parentRef>
+    <ctml:wikiDataId>Q404756</ctml:wikiDataId>
+    <ctml:latitude>43.45000000</ctml:latitude>
+    <ctml:longitude>26.16667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9659" kind="city">
+    <ctml:name>Popovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Targovishte</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-25</ctml:parentRef>
+    <ctml:wikiDataId>Q406068</ctml:wikiDataId>
+    <ctml:latitude>43.34814730</ctml:latitude>
+    <ctml:longitude>26.22719670</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9252" kind="city">
+    <ctml:name>Aksakovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q405433</ctml:wikiDataId>
+    <ctml:latitude>43.25615000</ctml:latitude>
+    <ctml:longitude>27.82105000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9260" kind="city">
+    <ctml:name>Asparuhovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q191871</ctml:wikiDataId>
+    <ctml:latitude>43.18067000</ctml:latitude>
+    <ctml:longitude>27.88823000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9263" kind="city">
+    <ctml:name>Balgarevo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2653330</ctml:wikiDataId>
+    <ctml:latitude>43.40296000</ctml:latitude>
+    <ctml:longitude>28.41189000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9272" kind="admin2">
+    <ctml:name>Beloslav</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q405825</ctml:wikiDataId>
+    <ctml:latitude>43.18960000</ctml:latitude>
+    <ctml:longitude>27.70429000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9293" kind="admin2">
+    <ctml:name>Byala</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2043641</ctml:wikiDataId>
+    <ctml:latitude>42.87426000</ctml:latitude>
+    <ctml:longitude>27.88865000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9304" kind="city">
+    <ctml:name>Dalgopol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2380966</ctml:wikiDataId>
+    <ctml:latitude>43.05261570</ctml:latitude>
+    <ctml:longitude>27.34600790</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9307" kind="city">
+    <ctml:name>Devnya</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q405640</ctml:wikiDataId>
+    <ctml:latitude>43.22222000</ctml:latitude>
+    <ctml:longitude>27.56944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9313" kind="city">
+    <ctml:name>Dolni Chiflik</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q407302</ctml:wikiDataId>
+    <ctml:latitude>42.99296000</ctml:latitude>
+    <ctml:longitude>27.71596000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9364" kind="city">
+    <ctml:name>Kiten</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1993655</ctml:wikiDataId>
+    <ctml:latitude>43.08333000</ctml:latitude>
+    <ctml:longitude>27.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9412" kind="city">
+    <ctml:name>Obshtina Aksakovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2381026</ctml:wikiDataId>
+    <ctml:latitude>43.31667000</ctml:latitude>
+    <ctml:longitude>27.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9418" kind="admin2">
+    <ctml:name>Obshtina Avren</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2715453</ctml:wikiDataId>
+    <ctml:latitude>43.10000000</ctml:latitude>
+    <ctml:longitude>27.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9427" kind="city">
+    <ctml:name>Obshtina Beloslav</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2254259</ctml:wikiDataId>
+    <ctml:latitude>43.20000000</ctml:latitude>
+    <ctml:longitude>27.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9444" kind="city">
+    <ctml:name>Obshtina Byala</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2609691</ctml:wikiDataId>
+    <ctml:latitude>42.88333000</ctml:latitude>
+    <ctml:longitude>27.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9452" kind="city">
+    <ctml:name>Obshtina Dalgopol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2609410</ctml:wikiDataId>
+    <ctml:latitude>43.05000000</ctml:latitude>
+    <ctml:longitude>27.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9454" kind="city">
+    <ctml:name>Obshtina Devnya</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2715422</ctml:wikiDataId>
+    <ctml:latitude>43.22056000</ctml:latitude>
+    <ctml:longitude>27.60052000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9461" kind="admin2">
+    <ctml:name>Obshtina Dolni Chiflik</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2715362</ctml:wikiDataId>
+    <ctml:latitude>42.96667000</ctml:latitude>
+    <ctml:longitude>27.68333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9565" kind="city">
+    <ctml:name>Obshtina Provadia</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2407014</ctml:wikiDataId>
+    <ctml:latitude>43.18333000</ctml:latitude>
+    <ctml:longitude>27.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9606" kind="city">
+    <ctml:name>Obshtina Suvorovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2609434</ctml:wikiDataId>
+    <ctml:latitude>43.33333000</ctml:latitude>
+    <ctml:longitude>27.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9623" kind="city">
+    <ctml:name>Obshtina Valchidol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q596101</ctml:wikiDataId>
+    <ctml:latitude>43.45000000</ctml:latitude>
+    <ctml:longitude>27.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9624" kind="city">
+    <ctml:name>Obshtina Varna</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q748965</ctml:wikiDataId>
+    <ctml:latitude>43.21667000</ctml:latitude>
+    <ctml:longitude>27.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9629" kind="city">
+    <ctml:name>Obshtina Vetrino</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2609648</ctml:wikiDataId>
+    <ctml:latitude>43.31667000</ctml:latitude>
+    <ctml:longitude>27.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9663" kind="city">
+    <ctml:name>Provadia</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q405801</ctml:wikiDataId>
+    <ctml:latitude>43.18333000</ctml:latitude>
+    <ctml:longitude>27.43333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9714" kind="city">
+    <ctml:name>Suvorovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q405550</ctml:wikiDataId>
+    <ctml:latitude>43.33058000</ctml:latitude>
+    <ctml:longitude>27.59908000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9734" kind="city">
+    <ctml:name>Valchidol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q405620</ctml:wikiDataId>
+    <ctml:latitude>43.40000000</ctml:latitude>
+    <ctml:longitude>27.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9740" kind="city">
+    <ctml:name>Vetrino</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q405114</ctml:wikiDataId>
+    <ctml:latitude>43.34100650</ctml:latitude>
+    <ctml:longitude>27.38611080</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9751" kind="city">
+    <ctml:name>Zlatni Pyasatsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Varna</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-03</ctml:parentRef>
+    <ctml:wikiDataId>Q1026748</ctml:wikiDataId>
+    <ctml:latitude>43.28500000</ctml:latitude>
+    <ctml:longitude>28.04180000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9294" kind="city">
+    <ctml:name>Byala Cherkva</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q407239</ctml:wikiDataId>
+    <ctml:latitude>43.20000000</ctml:latitude>
+    <ctml:longitude>25.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9305" kind="city">
+    <ctml:name>Debelets</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q405899</ctml:wikiDataId>
+    <ctml:latitude>43.03333000</ctml:latitude>
+    <ctml:longitude>25.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9324" kind="city">
+    <ctml:name>Elena</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q408077</ctml:wikiDataId>
+    <ctml:latitude>42.93333000</ctml:latitude>
+    <ctml:longitude>25.88333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9334" kind="city">
+    <ctml:name>Gorna Oryahovitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q115998</ctml:wikiDataId>
+    <ctml:latitude>43.12778000</ctml:latitude>
+    <ctml:longitude>25.70167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9361" kind="city">
+    <ctml:name>Kilifarevo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q406624</ctml:wikiDataId>
+    <ctml:latitude>42.98333000</ctml:latitude>
+    <ctml:longitude>25.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9391" kind="city">
+    <ctml:name>Lyaskovets</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q405585</ctml:wikiDataId>
+    <ctml:latitude>43.11111000</ctml:latitude>
+    <ctml:longitude>25.72833000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9470" kind="city">
+    <ctml:name>Obshtina Elena</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2653757</ctml:wikiDataId>
+    <ctml:latitude>42.91667000</ctml:latitude>
+    <ctml:longitude>25.95000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9481" kind="city">
+    <ctml:name>Obshtina Gorna Oryahovitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2603553</ctml:wikiDataId>
+    <ctml:latitude>43.21667000</ctml:latitude>
+    <ctml:longitude>25.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9525" kind="city">
+    <ctml:name>Obshtina Lyaskovets</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2609666</ctml:wikiDataId>
+    <ctml:latitude>43.13333000</ctml:latitude>
+    <ctml:longitude>25.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9550" kind="city">
+    <ctml:name>Obshtina Pavlikeni</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2715489</ctml:wikiDataId>
+    <ctml:latitude>43.28333000</ctml:latitude>
+    <ctml:longitude>25.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9559" kind="city">
+    <ctml:name>Obshtina Polski Trambesh</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2609698</ctml:wikiDataId>
+    <ctml:latitude>43.35000000</ctml:latitude>
+    <ctml:longitude>25.58333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9601" kind="city">
+    <ctml:name>Obshtina Strazhitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q959929</ctml:wikiDataId>
+    <ctml:latitude>43.26667000</ctml:latitude>
+    <ctml:longitude>25.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9604" kind="city">
+    <ctml:name>Obshtina Suhindol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2609717</ctml:wikiDataId>
+    <ctml:latitude>43.16667000</ctml:latitude>
+    <ctml:longitude>25.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9608" kind="city">
+    <ctml:name>Obshtina Svishtov</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q600639</ctml:wikiDataId>
+    <ctml:latitude>43.53333000</ctml:latitude>
+    <ctml:longitude>25.35000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9626" kind="city">
+    <ctml:name>Obshtina Veliko Tŭrnovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2991314</ctml:wikiDataId>
+    <ctml:latitude>43.08241000</ctml:latitude>
+    <ctml:longitude>25.63202000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9637" kind="city">
+    <ctml:name>Obshtina Zlataritsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2609640</ctml:wikiDataId>
+    <ctml:latitude>43.06667000</ctml:latitude>
+    <ctml:longitude>25.98333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9646" kind="city">
+    <ctml:name>Parvomaytsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q406222</ctml:wikiDataId>
+    <ctml:latitude>43.15000000</ctml:latitude>
+    <ctml:longitude>25.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9648" kind="city">
+    <ctml:name>Pavlikeni</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q405663</ctml:wikiDataId>
+    <ctml:latitude>43.24278000</ctml:latitude>
+    <ctml:longitude>25.32194000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9657" kind="city">
+    <ctml:name>Polski Trambesh</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q405905</ctml:wikiDataId>
+    <ctml:latitude>43.37233000</ctml:latitude>
+    <ctml:longitude>25.63525000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9709" kind="city">
+    <ctml:name>Strazhitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q404981</ctml:wikiDataId>
+    <ctml:latitude>43.23333000</ctml:latitude>
+    <ctml:longitude>25.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9712" kind="city">
+    <ctml:name>Suhindol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q405562</ctml:wikiDataId>
+    <ctml:latitude>43.19167000</ctml:latitude>
+    <ctml:longitude>25.18111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9717" kind="city">
+    <ctml:name>Svishtov</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q193082</ctml:wikiDataId>
+    <ctml:latitude>43.61875000</ctml:latitude>
+    <ctml:longitude>25.35033000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9749" kind="city">
+    <ctml:name>Zlataritsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Veliko Tarnovo</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-04</ctml:parentRef>
+    <ctml:wikiDataId>Q405323</ctml:wikiDataId>
+    <ctml:latitude>43.05000000</ctml:latitude>
+    <ctml:longitude>25.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9271" kind="admin2">
+    <ctml:name>Belogradchik</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q407234</ctml:wikiDataId>
+    <ctml:latitude>43.62722000</ctml:latitude>
+    <ctml:longitude>22.68361000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9284" kind="admin2">
+    <ctml:name>Boynitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2469067</ctml:wikiDataId>
+    <ctml:latitude>43.95650000</ctml:latitude>
+    <ctml:longitude>22.53255000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9287" kind="admin2">
+    <ctml:name>Bregovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q405383</ctml:wikiDataId>
+    <ctml:latitude>44.15167000</ctml:latitude>
+    <ctml:longitude>22.64250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9303" kind="admin2">
+    <ctml:name>Chuprene</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2380966</ctml:wikiDataId>
+    <ctml:latitude>43.51806000</ctml:latitude>
+    <ctml:longitude>22.66611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9309" kind="admin2">
+    <ctml:name>Dimovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q407222</ctml:wikiDataId>
+    <ctml:latitude>43.74167000</ctml:latitude>
+    <ctml:longitude>22.72694000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9317" kind="city">
+    <ctml:name>Drenovets</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1078511</ctml:wikiDataId>
+    <ctml:latitude>43.69134000</ctml:latitude>
+    <ctml:longitude>22.97365000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9320" kind="city">
+    <ctml:name>Dunavtsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q405856</ctml:wikiDataId>
+    <ctml:latitude>43.92111000</ctml:latitude>
+    <ctml:longitude>22.82111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9336" kind="admin2">
+    <ctml:name>Gramada</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q457141</ctml:wikiDataId>
+    <ctml:latitude>43.83738000</ctml:latitude>
+    <ctml:longitude>22.65279000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9380" kind="admin2">
+    <ctml:name>Kula</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q404762</ctml:wikiDataId>
+    <ctml:latitude>43.88833000</ctml:latitude>
+    <ctml:longitude>22.52139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9396" kind="admin2">
+    <ctml:name>Makresh</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2381003</ctml:wikiDataId>
+    <ctml:latitude>43.76794000</ctml:latitude>
+    <ctml:longitude>22.66406000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9411" kind="admin2">
+    <ctml:name>Novo Selo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2381026</ctml:wikiDataId>
+    <ctml:latitude>44.16214000</ctml:latitude>
+    <ctml:longitude>22.78376000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9426" kind="city">
+    <ctml:name>Obshtina Belogradchik</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2254259</ctml:wikiDataId>
+    <ctml:latitude>43.65000000</ctml:latitude>
+    <ctml:longitude>22.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9438" kind="city">
+    <ctml:name>Obshtina Boynitsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2542152</ctml:wikiDataId>
+    <ctml:latitude>44.00000000</ctml:latitude>
+    <ctml:longitude>22.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9456" kind="admin2">
+    <ctml:name>Obshtina Dimovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2715394</ctml:wikiDataId>
+    <ctml:latitude>43.75000000</ctml:latitude>
+    <ctml:longitude>22.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9483" kind="admin2">
+    <ctml:name>Obshtina Gramada</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2615666</ctml:wikiDataId>
+    <ctml:latitude>43.83333000</ctml:latitude>
+    <ctml:longitude>22.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9517" kind="city">
+    <ctml:name>Obshtina Kula</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2715384</ctml:wikiDataId>
+    <ctml:latitude>43.90000000</ctml:latitude>
+    <ctml:longitude>22.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9577" kind="city">
+    <ctml:name>Obshtina Ruzhintsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2715178</ctml:wikiDataId>
+    <ctml:latitude>43.65000000</ctml:latitude>
+    <ctml:longitude>22.90000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9630" kind="city">
+    <ctml:name>Obshtina Vidin</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q263709</ctml:wikiDataId>
+    <ctml:latitude>44.00000000</ctml:latitude>
+    <ctml:longitude>22.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9676" kind="admin2">
+    <ctml:name>Ruzhintsi</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vidin</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-05</ctml:parentRef>
+    <ctml:wikiDataId>Q160173</ctml:wikiDataId>
+    <ctml:latitude>43.62179000</ctml:latitude>
+    <ctml:longitude>22.83286000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9280" kind="city">
+    <ctml:name>Borovan</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2565618</ctml:wikiDataId>
+    <ctml:latitude>43.44635800</ctml:latitude>
+    <ctml:longitude>23.73543160</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9295" kind="city">
+    <ctml:name>Byala Slatina</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q405228</ctml:wikiDataId>
+    <ctml:latitude>43.46667000</ctml:latitude>
+    <ctml:longitude>23.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9344" kind="admin2">
+    <ctml:name>Hayredin</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2597198</ctml:wikiDataId>
+    <ctml:latitude>43.60193000</ctml:latitude>
+    <ctml:longitude>23.66135000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9373" kind="admin2">
+    <ctml:name>Kozloduy</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q405157</ctml:wikiDataId>
+    <ctml:latitude>43.77864000</ctml:latitude>
+    <ctml:longitude>23.72058000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9376" kind="city">
+    <ctml:name>Krivodol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q405697</ctml:wikiDataId>
+    <ctml:latitude>43.37444000</ctml:latitude>
+    <ctml:longitude>23.48444000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9400" kind="city">
+    <ctml:name>Mezdra</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q406500</ctml:wikiDataId>
+    <ctml:latitude>43.15000000</ctml:latitude>
+    <ctml:longitude>23.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9403" kind="admin2">
+    <ctml:name>Mizia</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q406481</ctml:wikiDataId>
+    <ctml:latitude>43.68623000</ctml:latitude>
+    <ctml:longitude>23.85371000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9434" kind="city">
+    <ctml:name>Obshtina Borovan</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2015266</ctml:wikiDataId>
+    <ctml:latitude>43.43333000</ctml:latitude>
+    <ctml:longitude>23.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9488" kind="city">
+    <ctml:name>Obshtina Hayredin</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2426275</ctml:wikiDataId>
+    <ctml:latitude>43.58333000</ctml:latitude>
+    <ctml:longitude>23.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9510" kind="city">
+    <ctml:name>Obshtina Kozloduy</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1032807</ctml:wikiDataId>
+    <ctml:latitude>43.71667000</ctml:latitude>
+    <ctml:longitude>23.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9513" kind="city">
+    <ctml:name>Obshtina Krivodol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q948145</ctml:wikiDataId>
+    <ctml:latitude>43.38333000</ctml:latitude>
+    <ctml:longitude>23.48333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9531" kind="city">
+    <ctml:name>Obshtina Mezdra</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2426251</ctml:wikiDataId>
+    <ctml:latitude>43.13333000</ctml:latitude>
+    <ctml:longitude>23.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9534" kind="city">
+    <ctml:name>Obshtina Mizia</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1032677</ctml:wikiDataId>
+    <ctml:latitude>43.63333000</ctml:latitude>
+    <ctml:longitude>23.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9546" kind="city">
+    <ctml:name>Obshtina Oryahovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2628864</ctml:wikiDataId>
+    <ctml:latitude>43.69038000</ctml:latitude>
+    <ctml:longitude>23.98643000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9574" kind="city">
+    <ctml:name>Obshtina Roman</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2723443</ctml:wikiDataId>
+    <ctml:latitude>43.15000000</ctml:latitude>
+    <ctml:longitude>23.91667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9631" kind="city">
+    <ctml:name>Obshtina Vratsa</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q263709</ctml:wikiDataId>
+    <ctml:latitude>43.28333000</ctml:latitude>
+    <ctml:longitude>23.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:BGR-9643" kind="admin2">
+    <ctml:name>Oryahovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q407296</ctml:wikiDataId>
+    <ctml:latitude>43.73618000</ctml:latitude>
+    <ctml:longitude>23.96052000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9672" kind="city">
+    <ctml:name>Roman</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Vratsa</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-06</ctml:parentRef>
+    <ctml:wikiDataId>Q406506</ctml:wikiDataId>
+    <ctml:latitude>43.14637670</ctml:latitude>
+    <ctml:longitude>23.92549080</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9278" kind="city">
+    <ctml:name>Bolyarovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Yambol</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-28</ctml:parentRef>
+    <ctml:wikiDataId>Q406618</ctml:wikiDataId>
+    <ctml:latitude>42.14962000</ctml:latitude>
+    <ctml:longitude>26.81116000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9325" kind="city">
+    <ctml:name>Elhovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Yambol</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-28</ctml:parentRef>
+    <ctml:wikiDataId>Q406613</ctml:wikiDataId>
+    <ctml:latitude>42.16667000</ctml:latitude>
+    <ctml:longitude>26.56667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9432" kind="city">
+    <ctml:name>Obshtina Bolyarovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Yambol</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-28</ctml:parentRef>
+    <ctml:wikiDataId>Q2653282</ctml:wikiDataId>
+    <ctml:latitude>42.15000000</ctml:latitude>
+    <ctml:longitude>26.85000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9471" kind="city">
+    <ctml:name>Obshtina Elhovo</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Yambol</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-28</ctml:parentRef>
+    <ctml:wikiDataId>Q2653243</ctml:wikiDataId>
+    <ctml:latitude>42.11667000</ctml:latitude>
+    <ctml:longitude>26.61667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9600" kind="city">
+    <ctml:name>Obshtina Straldzha</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Yambol</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-28</ctml:parentRef>
+    <ctml:wikiDataId>Q2454975</ctml:wikiDataId>
+    <ctml:latitude>42.48333000</ctml:latitude>
+    <ctml:longitude>26.78333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9618" kind="city">
+    <ctml:name>Obshtina Tundzha</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Yambol</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-28</ctml:parentRef>
+    <ctml:wikiDataId>Q20432553</ctml:wikiDataId>
+    <ctml:latitude>42.35000000</ctml:latitude>
+    <ctml:longitude>26.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9634" kind="city">
+    <ctml:name>Obshtina Yambol</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Yambol</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-28</ctml:parentRef>
+    <ctml:wikiDataId>Q775710</ctml:wikiDataId>
+    <ctml:latitude>42.48333000</ctml:latitude>
+    <ctml:longitude>26.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:BGR-9708" kind="city">
+    <ctml:name>Straldzha</ctml:name>
+    <ctml:country>BGR</ctml:country>
+    <ctml:admin1>Yambol</ctml:admin1>
+    <ctml:parentRef>place:admin1:BG-28</ctml:parentRef>
+    <ctml:wikiDataId>Q404981</ctml:wikiDataId>
+    <ctml:latitude>42.60000000</ctml:latitude>
+    <ctml:longitude>26.68333000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

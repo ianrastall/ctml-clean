@@ -1,0 +1,1850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MYS-76416" kind="city">
+    <ctml:name>Bakri</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2251637</ctml:wikiDataId>
+    <ctml:latitude>2.04410000</ctml:latitude>
+    <ctml:longitude>102.65270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76424" kind="city">
+    <ctml:name>Batu Pahat</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2891912</ctml:wikiDataId>
+    <ctml:latitude>1.85480000</ctml:latitude>
+    <ctml:longitude>102.93250000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76433" kind="city">
+    <ctml:name>Buloh Kasap</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2158697</ctml:wikiDataId>
+    <ctml:latitude>2.55360000</ctml:latitude>
+    <ctml:longitude>102.76400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76435" kind="city">
+    <ctml:name>Chaah</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1018159</ctml:wikiDataId>
+    <ctml:latitude>2.24900000</ctml:latitude>
+    <ctml:longitude>103.04800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76437" kind="city">
+    <ctml:name>Daerah Batu Pahat</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2306850</ctml:wikiDataId>
+    <ctml:latitude>1.93333000</ctml:latitude>
+    <ctml:longitude>103.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76438" kind="city">
+    <ctml:name>Daerah Johor Baharu</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2193190</ctml:wikiDataId>
+    <ctml:latitude>1.65000000</ctml:latitude>
+    <ctml:longitude>103.60000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76439" kind="city">
+    <ctml:name>Daerah Keluang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q12683379</ctml:wikiDataId>
+    <ctml:latitude>2.20000000</ctml:latitude>
+    <ctml:longitude>103.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76440" kind="city">
+    <ctml:name>Daerah Kota Tinggi</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q12683379</ctml:wikiDataId>
+    <ctml:latitude>1.81667000</ctml:latitude>
+    <ctml:longitude>103.96667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76441" kind="city">
+    <ctml:name>Daerah Mersing</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q12683379</ctml:wikiDataId>
+    <ctml:latitude>2.31667000</ctml:latitude>
+    <ctml:longitude>103.71667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76442" kind="city">
+    <ctml:name>Daerah Muar</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q12683379</ctml:wikiDataId>
+    <ctml:latitude>2.25000000</ctml:latitude>
+    <ctml:longitude>102.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76443" kind="city">
+    <ctml:name>Daerah Pontian</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q12683379</ctml:wikiDataId>
+    <ctml:latitude>1.50000000</ctml:latitude>
+    <ctml:longitude>103.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76444" kind="city">
+    <ctml:name>Daerah Segamat</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q12683379</ctml:wikiDataId>
+    <ctml:latitude>2.60000000</ctml:latitude>
+    <ctml:longitude>102.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76473" kind="city">
+    <ctml:name>Kampung Pasir Gudang Baru</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>1.47260000</ctml:latitude>
+    <ctml:longitude>103.87800000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76474" kind="city">
+    <ctml:name>Kampung Simpang Renggam</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>1.82780000</ctml:latitude>
+    <ctml:longitude>103.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76480" kind="city">
+    <ctml:name>Kelapa Sawit</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2228374</ctml:wikiDataId>
+    <ctml:latitude>1.66980000</ctml:latitude>
+    <ctml:longitude>103.53270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76487" kind="city">
+    <ctml:name>Kluang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1200738</ctml:wikiDataId>
+    <ctml:latitude>2.03046000</ctml:latitude>
+    <ctml:longitude>103.31689000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76491" kind="city">
+    <ctml:name>Kota Tinggi</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q935184</ctml:wikiDataId>
+    <ctml:latitude>1.73810000</ctml:latitude>
+    <ctml:longitude>103.89990000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76508" kind="city">
+    <ctml:name>Kulai</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q12492866</ctml:wikiDataId>
+    <ctml:latitude>1.65610000</ctml:latitude>
+    <ctml:longitude>103.60320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76510" kind="city">
+    <ctml:name>Labis</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q12492866</ctml:wikiDataId>
+    <ctml:latitude>2.38500000</ctml:latitude>
+    <ctml:longitude>103.02100000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76524" kind="city">
+    <ctml:name>Mersing</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1344433</ctml:wikiDataId>
+    <ctml:latitude>2.43120000</ctml:latitude>
+    <ctml:longitude>103.84050000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76526" kind="city">
+    <ctml:name>Muar</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1832744</ctml:wikiDataId>
+    <ctml:latitude>2.04420000</ctml:latitude>
+    <ctml:longitude>102.56890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76535" kind="city">
+    <ctml:name>Parit Raja</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q4567855</ctml:wikiDataId>
+    <ctml:latitude>1.86810000</ctml:latitude>
+    <ctml:longitude>103.11240000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76538" kind="city">
+    <ctml:name>Pekan Nenas</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1951088</ctml:wikiDataId>
+    <ctml:latitude>1.51000000</ctml:latitude>
+    <ctml:longitude>103.51410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76544" kind="city">
+    <ctml:name>Pontian Kechil</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q864965</ctml:wikiDataId>
+    <ctml:latitude>1.48660000</ctml:latitude>
+    <ctml:longitude>103.38960000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76556" kind="city">
+    <ctml:name>Segamat</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1861984</ctml:wikiDataId>
+    <ctml:latitude>2.51480000</ctml:latitude>
+    <ctml:longitude>102.81580000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76565" kind="city">
+    <ctml:name>Skudai</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q5254191</ctml:wikiDataId>
+    <ctml:latitude>1.53741000</ctml:latitude>
+    <ctml:longitude>103.65779000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76573" kind="city">
+    <ctml:name>Taman Senai</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1059565</ctml:wikiDataId>
+    <ctml:latitude>1.60060000</ctml:latitude>
+    <ctml:longitude>103.64190000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76576" kind="city">
+    <ctml:name>Tangkak</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1187522</ctml:wikiDataId>
+    <ctml:latitude>2.26730000</ctml:latitude>
+    <ctml:longitude>102.54530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76586" kind="city">
+    <ctml:name>Ulu Tiram</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q1905342</ctml:wikiDataId>
+    <ctml:latitude>1.60000000</ctml:latitude>
+    <ctml:longitude>103.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76587" kind="city">
+    <ctml:name>Yong Peng</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Johor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-01</ctml:parentRef>
+    <ctml:wikiDataId>Q2680825</ctml:wikiDataId>
+    <ctml:latitude>2.01360000</ctml:latitude>
+    <ctml:longitude>103.06590000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76412" kind="city">
+    <ctml:name>Ayer Hangat</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kedah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q474868</ctml:wikiDataId>
+    <ctml:latitude>6.42062000</ctml:latitude>
+    <ctml:longitude>99.82199000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76426" kind="city">
+    <ctml:name>Bedong</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kedah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2261703</ctml:wikiDataId>
+    <ctml:latitude>5.72743000</ctml:latitude>
+    <ctml:longitude>100.50876000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76449" kind="city">
+    <ctml:name>Gurun</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kedah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q3096534</ctml:wikiDataId>
+    <ctml:latitude>5.81717000</ctml:latitude>
+    <ctml:longitude>100.47381000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76454" kind="city">
+    <ctml:name>Jitra</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kedah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q4129994</ctml:wikiDataId>
+    <ctml:latitude>6.26812000</ctml:latitude>
+    <ctml:longitude>100.42167000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76470" kind="city">
+    <ctml:name>Kampung Kilim</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kedah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>6.40550000</ctml:latitude>
+    <ctml:longitude>99.85020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76471" kind="city">
+    <ctml:name>Kampung Kok</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kedah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>6.36759000</ctml:latitude>
+    <ctml:longitude>99.68252000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MYS-76492" kind="admin2">
+    <ctml:name>Kuah</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kedah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q935184</ctml:wikiDataId>
+    <ctml:latitude>6.32649000</ctml:latitude>
+    <ctml:longitude>99.84320000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76495" kind="city">
+    <ctml:name>Kuala Kedah</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kedah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q1078157</ctml:wikiDataId>
+    <ctml:latitude>6.10000000</ctml:latitude>
+    <ctml:longitude>100.30000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76503" kind="city">
+    <ctml:name>Kuala Teriang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kedah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q846502</ctml:wikiDataId>
+    <ctml:latitude>6.36377000</ctml:latitude>
+    <ctml:longitude>99.71532000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76509" kind="city">
+    <ctml:name>Kulim</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kedah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q12492866</ctml:wikiDataId>
+    <ctml:latitude>5.36499000</ctml:latitude>
+    <ctml:longitude>100.56177000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76514" kind="city">
+    <ctml:name>Langkawi</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kedah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q273303</ctml:wikiDataId>
+    <ctml:latitude>6.35608000</ctml:latitude>
+    <ctml:longitude>99.78375000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76529" kind="city">
+    <ctml:name>Padang Mat Sirat</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kedah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q848853</ctml:wikiDataId>
+    <ctml:latitude>6.35423000</ctml:latitude>
+    <ctml:longitude>99.73404000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76569" kind="city">
+    <ctml:name>Sungai Petani</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kedah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-02</ctml:parentRef>
+    <ctml:wikiDataId>Q939738</ctml:wikiDataId>
+    <ctml:latitude>5.64700000</ctml:latitude>
+    <ctml:longitude>100.48772000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76448" kind="city">
+    <ctml:name>Gua Musang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kelantan</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q3096534</ctml:wikiDataId>
+    <ctml:latitude>4.88441000</ctml:latitude>
+    <ctml:longitude>101.96857000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76460" kind="city">
+    <ctml:name>Kampong Kadok</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kelantan</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q231318</ctml:wikiDataId>
+    <ctml:latitude>6.00000000</ctml:latitude>
+    <ctml:longitude>102.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76462" kind="city">
+    <ctml:name>Kampong Pangkal Kalong</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kelantan</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q231318</ctml:wikiDataId>
+    <ctml:latitude>5.91667000</ctml:latitude>
+    <ctml:longitude>102.21667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MYS-76536" kind="admin2">
+    <ctml:name>Pasir Mas</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kelantan</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q4567855</ctml:wikiDataId>
+    <ctml:latitude>6.04934000</ctml:latitude>
+    <ctml:longitude>102.13987000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76541" kind="city">
+    <ctml:name>Peringat</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kelantan</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q11155122</ctml:wikiDataId>
+    <ctml:latitude>6.03333000</ctml:latitude>
+    <ctml:longitude>102.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MYS-76585" kind="admin2">
+    <ctml:name>Tumpat</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kelantan</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-03</ctml:parentRef>
+    <ctml:wikiDataId>Q2180590</ctml:wikiDataId>
+    <ctml:latitude>6.19775000</ctml:latitude>
+    <ctml:longitude>102.17098000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76497" kind="city">
+    <ctml:name>Kuala Lumpur</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Kuala Lumpur</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-14</ctml:parentRef>
+    <ctml:wikiDataId>Q1865</ctml:wikiDataId>
+    <ctml:latitude>3.14120000</ctml:latitude>
+    <ctml:longitude>101.68653000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76409" kind="city">
+    <ctml:name>Alor Gajah</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Malacca</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2251607</ctml:wikiDataId>
+    <ctml:latitude>2.38040000</ctml:latitude>
+    <ctml:longitude>102.20890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76421" kind="city">
+    <ctml:name>Batu Berendam</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Malacca</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2621054</ctml:wikiDataId>
+    <ctml:latitude>2.24870000</ctml:latitude>
+    <ctml:longitude>102.24600000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76427" kind="city">
+    <ctml:name>Bemban</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Malacca</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2261703</ctml:wikiDataId>
+    <ctml:latitude>2.26840000</ctml:latitude>
+    <ctml:longitude>102.37460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76432" kind="city">
+    <ctml:name>Bukit Rambai</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Malacca</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2158697</ctml:wikiDataId>
+    <ctml:latitude>2.25940000</ctml:latitude>
+    <ctml:longitude>102.18380000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76461" kind="city">
+    <ctml:name>Kampong Masjid Tanah</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Malacca</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q231318</ctml:wikiDataId>
+    <ctml:latitude>2.35000000</ctml:latitude>
+    <ctml:longitude>102.11667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76463" kind="city">
+    <ctml:name>Kampung Ayer Keroh</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Malacca</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>2.26540000</ctml:latitude>
+    <ctml:longitude>102.28010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76464" kind="city">
+    <ctml:name>Kampung Ayer Molek</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Malacca</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>2.21390000</ctml:latitude>
+    <ctml:longitude>102.32780000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76468" kind="city">
+    <ctml:name>Kampung Bukit Baharu</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Malacca</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>2.21520000</ctml:latitude>
+    <ctml:longitude>102.28510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76486" kind="city">
+    <ctml:name>Klebang Besar</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Malacca</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q856003</ctml:wikiDataId>
+    <ctml:latitude>2.21860000</ctml:latitude>
+    <ctml:longitude>102.19950000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76501" kind="city">
+    <ctml:name>Kuala Sungai Baru</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Malacca</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2643150</ctml:wikiDataId>
+    <ctml:latitude>2.35940000</ctml:latitude>
+    <ctml:longitude>102.03530000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76546" kind="city">
+    <ctml:name>Pulau Sebang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Malacca</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2454787</ctml:wikiDataId>
+    <ctml:latitude>2.45500000</ctml:latitude>
+    <ctml:longitude>102.23290000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76570" kind="city">
+    <ctml:name>Sungai Udang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Malacca</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-04</ctml:parentRef>
+    <ctml:wikiDataId>Q2253266</ctml:wikiDataId>
+    <ctml:latitude>2.26900000</ctml:latitude>
+    <ctml:longitude>102.14270000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76415" kind="city">
+    <ctml:name>Bahau</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Negeri Sembilan</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2246812</ctml:wikiDataId>
+    <ctml:latitude>2.80790000</ctml:latitude>
+    <ctml:longitude>102.40490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76465" kind="city">
+    <ctml:name>Kampung Baharu Nilai</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Negeri Sembilan</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>2.80330000</ctml:latitude>
+    <ctml:longitude>101.79720000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76499" kind="city">
+    <ctml:name>Kuala Pilah</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Negeri Sembilan</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q2929940</ctml:wikiDataId>
+    <ctml:latitude>2.73890000</ctml:latitude>
+    <ctml:longitude>102.24870000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MYS-76545" kind="admin2">
+    <ctml:name>Port Dickson</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Negeri Sembilan</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q653801</ctml:wikiDataId>
+    <ctml:latitude>2.53718000</ctml:latitude>
+    <ctml:longitude>101.80571000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76574" kind="city">
+    <ctml:name>Tampin</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Negeri Sembilan</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-05</ctml:parentRef>
+    <ctml:wikiDataId>Q1059565</ctml:wikiDataId>
+    <ctml:latitude>2.47010000</ctml:latitude>
+    <ctml:longitude>102.23020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76428" kind="city">
+    <ctml:name>Bentong Town</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Pahang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2261703</ctml:wikiDataId>
+    <ctml:latitude>3.52229000</ctml:latitude>
+    <ctml:longitude>101.90866000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76452" kind="city">
+    <ctml:name>Jerantut</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Pahang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-06</ctml:parentRef>
+    <ctml:wikiDataId>Q271619</ctml:wikiDataId>
+    <ctml:latitude>3.93600000</ctml:latitude>
+    <ctml:longitude>102.36260000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76469" kind="city">
+    <ctml:name>Kampung Bukit Tinggi Bentong</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Pahang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>3.34944000</ctml:latitude>
+    <ctml:longitude>101.82631000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76477" kind="city">
+    <ctml:name>Kampung Tekek</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Pahang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>2.81470000</ctml:latitude>
+    <ctml:longitude>104.15920000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76496" kind="city">
+    <ctml:name>Kuala Lipis</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Pahang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2240800</ctml:wikiDataId>
+    <ctml:latitude>4.18420000</ctml:latitude>
+    <ctml:longitude>102.04680000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76523" kind="city">
+    <ctml:name>Mentekab</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Pahang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2944710</ctml:wikiDataId>
+    <ctml:latitude>3.48540000</ctml:latitude>
+    <ctml:longitude>102.34840000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76537" kind="city">
+    <ctml:name>Pekan</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Pahang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-06</ctml:parentRef>
+    <ctml:wikiDataId>Q4567855</ctml:wikiDataId>
+    <ctml:latitude>3.48360000</ctml:latitude>
+    <ctml:longitude>103.39960000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76551" kind="city">
+    <ctml:name>Raub</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Pahang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2352205</ctml:wikiDataId>
+    <ctml:latitude>3.78990000</ctml:latitude>
+    <ctml:longitude>101.85700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MYS-76575" kind="admin2">
+    <ctml:name>Tanah Rata</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Pahang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-06</ctml:parentRef>
+    <ctml:wikiDataId>Q2678458</ctml:wikiDataId>
+    <ctml:latitude>4.46361000</ctml:latitude>
+    <ctml:longitude>101.37630000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76584" kind="city">
+    <ctml:name>Temerluh</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Pahang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-06</ctml:parentRef>
+    <ctml:wikiDataId>Q1317145</ctml:wikiDataId>
+    <ctml:latitude>3.45060000</ctml:latitude>
+    <ctml:longitude>102.41760000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76422" kind="city">
+    <ctml:name>Batu Feringgi</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Penang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-07</ctml:parentRef>
+    <ctml:wikiDataId>Q4873309</ctml:wikiDataId>
+    <ctml:latitude>5.47090000</ctml:latitude>
+    <ctml:longitude>100.24529000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76431" kind="city">
+    <ctml:name>Bukit Mertajam</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Penang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2158697</ctml:wikiDataId>
+    <ctml:latitude>5.36301000</ctml:latitude>
+    <ctml:longitude>100.46670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76434" kind="city">
+    <ctml:name>Butterworth</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Penang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1018159</ctml:wikiDataId>
+    <ctml:latitude>5.39910000</ctml:latitude>
+    <ctml:longitude>100.36382000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76456" kind="city">
+    <ctml:name>Juru</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Penang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-07</ctml:parentRef>
+    <ctml:wikiDataId>Q231318</ctml:wikiDataId>
+    <ctml:latitude>5.31201000</ctml:latitude>
+    <ctml:longitude>100.44229000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76467" kind="city">
+    <ctml:name>Kampung Batu Feringgi</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Penang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>5.46948000</ctml:latitude>
+    <ctml:longitude>100.24449000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76475" kind="city">
+    <ctml:name>Kampung Sungai Ara</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Penang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-07</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>5.32699000</ctml:latitude>
+    <ctml:longitude>100.27348000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76482" kind="city">
+    <ctml:name>Kepala Batas</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Penang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1299852</ctml:wikiDataId>
+    <ctml:latitude>5.51707000</ctml:latitude>
+    <ctml:longitude>100.42650000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76528" kind="city">
+    <ctml:name>Nibong Tebal</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Penang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-07</ctml:parentRef>
+    <ctml:wikiDataId>Q848853</ctml:wikiDataId>
+    <ctml:latitude>5.16586000</ctml:latitude>
+    <ctml:longitude>100.47793000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76540" kind="city">
+    <ctml:name>Perai</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Penang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-07</ctml:parentRef>
+    <ctml:wikiDataId>Q11155122</ctml:wikiDataId>
+    <ctml:latitude>5.38333000</ctml:latitude>
+    <ctml:longitude>100.38333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76542" kind="city">
+    <ctml:name>Permatang Kuching</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Penang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-07</ctml:parentRef>
+    <ctml:wikiDataId>Q11155122</ctml:wikiDataId>
+    <ctml:latitude>5.46339000</ctml:latitude>
+    <ctml:longitude>100.38144000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76555" kind="city">
+    <ctml:name>Seberang Perai</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Penang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1861984</ctml:wikiDataId>
+    <ctml:latitude>5.38770000</ctml:latitude>
+    <ctml:longitude>100.42603000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76578" kind="city">
+    <ctml:name>Tanjung Tokong</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Penang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1187522</ctml:wikiDataId>
+    <ctml:latitude>5.46061000</ctml:latitude>
+    <ctml:longitude>100.30742000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76580" kind="city">
+    <ctml:name>Tasek Glugor</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Penang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-07</ctml:parentRef>
+    <ctml:wikiDataId>Q1187522</ctml:wikiDataId>
+    <ctml:latitude>5.48032000</ctml:latitude>
+    <ctml:longitude>100.49849000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76582" kind="city">
+    <ctml:name>Telaga Batu</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Penang</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-07</ctml:parentRef>
+    <ctml:wikiDataId>Q995163</ctml:wikiDataId>
+    <ctml:latitude>5.46667000</ctml:latitude>
+    <ctml:longitude>100.23333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76414" kind="city">
+    <ctml:name>Bagan Serai</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-08</ctml:parentRef>
+    <ctml:wikiDataId>Q474868</ctml:wikiDataId>
+    <ctml:latitude>5.01080000</ctml:latitude>
+    <ctml:longitude>100.54101000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76423" kind="city">
+    <ctml:name>Batu Gajah</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1917064</ctml:wikiDataId>
+    <ctml:latitude>4.46916000</ctml:latitude>
+    <ctml:longitude>101.04107000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76429" kind="city">
+    <ctml:name>Bidur</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1010806</ctml:wikiDataId>
+    <ctml:latitude>4.11667000</ctml:latitude>
+    <ctml:longitude>101.28333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76457" kind="city">
+    <ctml:name>Kampar</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-08</ctml:parentRef>
+    <ctml:wikiDataId>Q231318</ctml:wikiDataId>
+    <ctml:latitude>4.30000000</ctml:latitude>
+    <ctml:longitude>101.15000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76459" kind="city">
+    <ctml:name>Kampong Dungun</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-08</ctml:parentRef>
+    <ctml:wikiDataId>Q231318</ctml:wikiDataId>
+    <ctml:latitude>3.21667000</ctml:latitude>
+    <ctml:longitude>101.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76494" kind="city">
+    <ctml:name>Kuala Kangsar</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1790832</ctml:wikiDataId>
+    <ctml:latitude>4.76667000</ctml:latitude>
+    <ctml:longitude>100.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76519" kind="city">
+    <ctml:name>Lumut</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1511484</ctml:wikiDataId>
+    <ctml:latitude>4.23230000</ctml:latitude>
+    <ctml:longitude>100.62980000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76532" kind="city">
+    <ctml:name>Pantai Remis</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1923195</ctml:wikiDataId>
+    <ctml:latitude>4.45570000</ctml:latitude>
+    <ctml:longitude>100.62880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76534" kind="city">
+    <ctml:name>Parit Buntar</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1973063</ctml:wikiDataId>
+    <ctml:latitude>5.12671000</ctml:latitude>
+    <ctml:longitude>100.49316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76564" kind="city">
+    <ctml:name>Simpang Empat</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1048700</ctml:wikiDataId>
+    <ctml:latitude>4.95000000</ctml:latitude>
+    <ctml:longitude>100.63333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76571" kind="city">
+    <ctml:name>Taiping</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1011190</ctml:wikiDataId>
+    <ctml:latitude>4.85000000</ctml:latitude>
+    <ctml:longitude>100.73333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76579" kind="city">
+    <ctml:name>Tapah Road</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1187522</ctml:wikiDataId>
+    <ctml:latitude>4.16667000</ctml:latitude>
+    <ctml:longitude>101.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76583" kind="city">
+    <ctml:name>Teluk Intan</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-08</ctml:parentRef>
+    <ctml:wikiDataId>Q1317145</ctml:wikiDataId>
+    <ctml:latitude>4.02219000</ctml:latitude>
+    <ctml:longitude>101.02083000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76498" kind="city">
+    <ctml:name>Kuala Perlis</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perlis</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1938412</ctml:wikiDataId>
+    <ctml:latitude>6.40000000</ctml:latitude>
+    <ctml:longitude>100.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76531" kind="city">
+    <ctml:name>Pantai Cenang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Perlis</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-09</ctml:parentRef>
+    <ctml:wikiDataId>Q1923195</ctml:wikiDataId>
+    <ctml:latitude>6.29369000</ctml:latitude>
+    <ctml:longitude>99.72786000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76549" kind="city">
+    <ctml:name>Putrajaya</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Putrajaya</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-16</ctml:parentRef>
+    <ctml:wikiDataId>Q1011949</ctml:wikiDataId>
+    <ctml:latitude>2.93527000</ctml:latitude>
+    <ctml:longitude>101.69112000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76417" kind="city">
+    <ctml:name>Bandar Labuan</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2251637</ctml:wikiDataId>
+    <ctml:latitude>5.28883000</ctml:latitude>
+    <ctml:longitude>115.26924000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76425" kind="city">
+    <ctml:name>Beaufort</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2891912</ctml:wikiDataId>
+    <ctml:latitude>5.34730000</ctml:latitude>
+    <ctml:longitude>115.74550000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76446" kind="city">
+    <ctml:name>Donggongon</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q989415</ctml:wikiDataId>
+    <ctml:latitude>5.90702000</ctml:latitude>
+    <ctml:longitude>116.10146000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76481" kind="city">
+    <ctml:name>Keningau</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1299852</ctml:wikiDataId>
+    <ctml:latitude>5.33780000</ctml:latitude>
+    <ctml:longitude>116.16020000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76484" kind="city">
+    <ctml:name>Kinarut</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q989407</ctml:wikiDataId>
+    <ctml:latitude>5.82310000</ctml:latitude>
+    <ctml:longitude>116.04660000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76488" kind="city">
+    <ctml:name>Kota Belud</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1785358</ctml:wikiDataId>
+    <ctml:latitude>6.35100000</ctml:latitude>
+    <ctml:longitude>116.43050000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76507" kind="city">
+    <ctml:name>Kudat</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q23041</ctml:wikiDataId>
+    <ctml:latitude>6.88732000</ctml:latitude>
+    <ctml:longitude>116.82364000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76513" kind="city">
+    <ctml:name>Lahad Datu</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1018501</ctml:wikiDataId>
+    <ctml:latitude>5.02298000</ctml:latitude>
+    <ctml:longitude>118.32897000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76533" kind="city">
+    <ctml:name>Papar</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1025365</ctml:wikiDataId>
+    <ctml:latitude>5.73333000</ctml:latitude>
+    <ctml:longitude>115.93333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76547" kind="city">
+    <ctml:name>Putatan</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1011949</ctml:wikiDataId>
+    <ctml:latitude>5.92580000</ctml:latitude>
+    <ctml:longitude>116.06094000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76550" kind="city">
+    <ctml:name>Ranau</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1185989</ctml:wikiDataId>
+    <ctml:latitude>5.95380000</ctml:latitude>
+    <ctml:longitude>116.66410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76553" kind="city">
+    <ctml:name>Sandakan</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q137203</ctml:wikiDataId>
+    <ctml:latitude>5.84020000</ctml:latitude>
+    <ctml:longitude>118.11790000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76558" kind="city">
+    <ctml:name>Semporna</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q2140804</ctml:wikiDataId>
+    <ctml:latitude>4.48178000</ctml:latitude>
+    <ctml:longitude>118.61119000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76572" kind="city">
+    <ctml:name>Taman Rajawali</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q1011190</ctml:wikiDataId>
+    <ctml:latitude>5.89477000</ctml:latitude>
+    <ctml:longitude>118.04576000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76581" kind="city">
+    <ctml:name>Tawau</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sabah</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-12</ctml:parentRef>
+    <ctml:wikiDataId>Q995163</ctml:wikiDataId>
+    <ctml:latitude>4.24482000</ctml:latitude>
+    <ctml:longitude>117.89115000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76430" kind="city">
+    <ctml:name>Bintulu</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sarawak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q594209</ctml:wikiDataId>
+    <ctml:latitude>3.16667000</ctml:latitude>
+    <ctml:longitude>113.03333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76445" kind="city">
+    <ctml:name>Data Kakus</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sarawak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q12683379</ctml:wikiDataId>
+    <ctml:latitude>2.65465000</ctml:latitude>
+    <ctml:longitude>113.62249000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76479" kind="city">
+    <ctml:name>Kapit</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sarawak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2219731</ctml:wikiDataId>
+    <ctml:latitude>1.99546000</ctml:latitude>
+    <ctml:longitude>112.93254000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76515" kind="city">
+    <ctml:name>Lawas</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sarawak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q6503576</ctml:wikiDataId>
+    <ctml:latitude>4.86040000</ctml:latitude>
+    <ctml:longitude>115.40900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76516" kind="city">
+    <ctml:name>Lidung Jelo</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sarawak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q6503576</ctml:wikiDataId>
+    <ctml:latitude>2.64848000</ctml:latitude>
+    <ctml:longitude>114.78653000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76517" kind="city">
+    <ctml:name>Limbang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sarawak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2181642</ctml:wikiDataId>
+    <ctml:latitude>4.75000000</ctml:latitude>
+    <ctml:longitude>115.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76518" kind="city">
+    <ctml:name>Long Ampan Aing or Abanang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sarawak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2181642</ctml:wikiDataId>
+    <ctml:latitude>2.65671000</ctml:latitude>
+    <ctml:longitude>114.73675000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76522" kind="city">
+    <ctml:name>Marudi</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sarawak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1005701</ctml:wikiDataId>
+    <ctml:latitude>4.18333000</ctml:latitude>
+    <ctml:longitude>114.31667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76525" kind="city">
+    <ctml:name>Miri</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sarawak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q986803</ctml:wikiDataId>
+    <ctml:latitude>4.39928000</ctml:latitude>
+    <ctml:longitude>113.99163000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76527" kind="city">
+    <ctml:name>Mukah</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sarawak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q2219702</ctml:wikiDataId>
+    <ctml:latitude>2.89435000</ctml:latitude>
+    <ctml:longitude>112.09145000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76554" kind="city">
+    <ctml:name>Sarikei</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sarawak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q7424083</ctml:wikiDataId>
+    <ctml:latitude>2.11667000</ctml:latitude>
+    <ctml:longitude>111.51667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76562" kind="city">
+    <ctml:name>Sibu</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sarawak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1048700</ctml:wikiDataId>
+    <ctml:latitude>2.30000000</ctml:latitude>
+    <ctml:longitude>111.81667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76563" kind="city">
+    <ctml:name>Simanggang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Sarawak</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-13</ctml:parentRef>
+    <ctml:wikiDataId>Q1048700</ctml:wikiDataId>
+    <ctml:latitude>1.24722000</ctml:latitude>
+    <ctml:longitude>111.45278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76411" kind="city">
+    <ctml:name>Ampang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q474868</ctml:wikiDataId>
+    <ctml:latitude>3.15000000</ctml:latitude>
+    <ctml:longitude>101.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161559" kind="city">
+    <ctml:name>Ampang Jaya</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.15000000</ctml:latitude>
+    <ctml:longitude>101.76667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161560" kind="city">
+    <ctml:name>Assam Jawa</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.05000000</ctml:latitude>
+    <ctml:longitude>101.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76413" kind="city">
+    <ctml:name>Bagan Pulau Ketam</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q474868</ctml:wikiDataId>
+    <ctml:latitude>3.01667000</ctml:latitude>
+    <ctml:longitude>101.26667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161561" kind="city">
+    <ctml:name>Bandar Baru Selayang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.26900000</ctml:latitude>
+    <ctml:longitude>101.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161562" kind="city">
+    <ctml:name>Bandar Kundang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.25500000</ctml:latitude>
+    <ctml:longitude>101.54700000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161563" kind="city">
+    <ctml:name>Bangi</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>2.98000000</ctml:latitude>
+    <ctml:longitude>101.78400000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76418" kind="city">
+    <ctml:name>Banting</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1106689</ctml:wikiDataId>
+    <ctml:latitude>2.81360000</ctml:latitude>
+    <ctml:longitude>101.50185000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76419" kind="city">
+    <ctml:name>Batang Berjuntai</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1106689</ctml:wikiDataId>
+    <ctml:latitude>3.38333000</ctml:latitude>
+    <ctml:longitude>101.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161564" kind="city">
+    <ctml:name>Batang Kali</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.45870100</ctml:latitude>
+    <ctml:longitude>101.65953100</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76420" kind="city">
+    <ctml:name>Batu Arang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2155680</ctml:wikiDataId>
+    <ctml:latitude>3.31667000</ctml:latitude>
+    <ctml:longitude>101.46667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161565" kind="city">
+    <ctml:name>Batu Caves</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.23788400</ctml:latitude>
+    <ctml:longitude>101.68403800</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161566" kind="city">
+    <ctml:name>Beranang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>2.98400000</ctml:latitude>
+    <ctml:longitude>101.81900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161567" kind="city">
+    <ctml:name>Bestari Jaya</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.37795300</ctml:latitude>
+    <ctml:longitude>101.40623700</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161568" kind="city">
+    <ctml:name>Broga</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>2.84000000</ctml:latitude>
+    <ctml:longitude>101.93000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161569" kind="city">
+    <ctml:name>Bukit Rotan</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.45000000</ctml:latitude>
+    <ctml:longitude>101.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161570" kind="city">
+    <ctml:name>Cyberjaya</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>2.92000000</ctml:latitude>
+    <ctml:longitude>101.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161571" kind="city">
+    <ctml:name>Gombak</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.27425000</ctml:latitude>
+    <ctml:longitude>101.57072200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161572" kind="city">
+    <ctml:name>Jenjarom</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>2.83000000</ctml:latitude>
+    <ctml:longitude>101.23000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76451" kind="city">
+    <ctml:name>Jenjarum</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q271619</ctml:wikiDataId>
+    <ctml:latitude>2.87240000</ctml:latitude>
+    <ctml:longitude>101.49484000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161573" kind="city">
+    <ctml:name>Kajang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>2.98330000</ctml:latitude>
+    <ctml:longitude>101.78780000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76458" kind="city">
+    <ctml:name>Kampong Baharu Balakong</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q231318</ctml:wikiDataId>
+    <ctml:latitude>3.03333000</ctml:latitude>
+    <ctml:longitude>101.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76466" kind="city">
+    <ctml:name>Kampung Baru Subang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>3.15000000</ctml:latitude>
+    <ctml:longitude>101.53333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161574" kind="city">
+    <ctml:name>Kampung Kuantan</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.34500000</ctml:latitude>
+    <ctml:longitude>101.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76476" kind="city">
+    <ctml:name>Kampung Tanjung Karang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>3.42420000</ctml:latitude>
+    <ctml:longitude>101.18490000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161575" kind="city">
+    <ctml:name>Kapar</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.10000000</ctml:latitude>
+    <ctml:longitude>101.42000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76485" kind="city">
+    <ctml:name>Klang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q856003</ctml:wikiDataId>
+    <ctml:latitude>3.03667000</ctml:latitude>
+    <ctml:longitude>101.44333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161576" kind="city">
+    <ctml:name>Kuala Kubu Bharu</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.56093200</ctml:latitude>
+    <ctml:longitude>101.65854600</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76500" kind="city">
+    <ctml:name>Kuala Selangor</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q3267302</ctml:wikiDataId>
+    <ctml:latitude>3.35000000</ctml:latitude>
+    <ctml:longitude>101.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161577" kind="city">
+    <ctml:name>Kuala Sungai Buloh</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.22000000</ctml:latitude>
+    <ctml:longitude>101.57000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76504" kind="city">
+    <ctml:name>Kuang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2499720</ctml:wikiDataId>
+    <ctml:latitude>3.25940000</ctml:latitude>
+    <ctml:longitude>101.55410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76512" kind="city">
+    <ctml:name>Ladang Seri Kundang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2363616</ctml:wikiDataId>
+    <ctml:latitude>3.28560000</ctml:latitude>
+    <ctml:longitude>101.51900000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161578" kind="city">
+    <ctml:name>Lagong</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.15000000</ctml:latitude>
+    <ctml:longitude>101.40000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161579" kind="city">
+    <ctml:name>Meru</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.08000000</ctml:latitude>
+    <ctml:longitude>101.45000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161580" kind="city">
+    <ctml:name>Mutiara Damansara</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.18000000</ctml:latitude>
+    <ctml:longitude>101.62000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161581" kind="city">
+    <ctml:name>Padang Jawa</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.03000000</ctml:latitude>
+    <ctml:longitude>101.58000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161582" kind="city">
+    <ctml:name>Pandamaran</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.01000000</ctml:latitude>
+    <ctml:longitude>101.42000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161583" kind="city">
+    <ctml:name>Paya Jaras</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.17000000</ctml:latitude>
+    <ctml:longitude>101.61000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76539" kind="city">
+    <ctml:name>Pelabuhan Klang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q11155122</ctml:wikiDataId>
+    <ctml:latitude>2.99959000</ctml:latitude>
+    <ctml:longitude>101.39287000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:MYS-76543" kind="admin2">
+    <ctml:name>Petaling Jaya</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q864965</ctml:wikiDataId>
+    <ctml:latitude>3.10726000</ctml:latitude>
+    <ctml:longitude>101.60671000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161584" kind="city">
+    <ctml:name>Port Klang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.00507000</ctml:latitude>
+    <ctml:longitude>101.40887000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-153725" kind="city">
+    <ctml:name>Puchong</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q7258228</ctml:wikiDataId>
+    <ctml:latitude>3.03270000</ctml:latitude>
+    <ctml:longitude>101.61880000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76548" kind="city">
+    <ctml:name>Putra Heights</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1011949</ctml:wikiDataId>
+    <ctml:latitude>2.99361000</ctml:latitude>
+    <ctml:longitude>101.57255000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76552" kind="city">
+    <ctml:name>Rawang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q2352205</ctml:wikiDataId>
+    <ctml:latitude>3.32130000</ctml:latitude>
+    <ctml:longitude>101.57670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161585" kind="city">
+    <ctml:name>Sabak</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.77000000</ctml:latitude>
+    <ctml:longitude>100.99000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161586" kind="city">
+    <ctml:name>Salak Tinggi</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>2.77000000</ctml:latitude>
+    <ctml:longitude>101.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161587" kind="city">
+    <ctml:name>Sekinchan</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.50400000</ctml:latitude>
+    <ctml:longitude>101.10300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161588" kind="city">
+    <ctml:name>Selayang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.25000000</ctml:latitude>
+    <ctml:longitude>101.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76557" kind="city">
+    <ctml:name>Semenyih</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q737705</ctml:wikiDataId>
+    <ctml:latitude>2.95160000</ctml:latitude>
+    <ctml:longitude>101.84300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161589" kind="city">
+    <ctml:name>Sepang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>2.70000000</ctml:latitude>
+    <ctml:longitude>101.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76560" kind="city">
+    <ctml:name>Serendah</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q847610</ctml:wikiDataId>
+    <ctml:latitude>3.36460000</ctml:latitude>
+    <ctml:longitude>101.60410000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161590" kind="city">
+    <ctml:name>Seri Kembangan</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.03700000</ctml:latitude>
+    <ctml:longitude>101.69500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76561" kind="city">
+    <ctml:name>Shah Alam</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q500033</ctml:wikiDataId>
+    <ctml:latitude>3.08507000</ctml:latitude>
+    <ctml:longitude>101.53281000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76566" kind="city">
+    <ctml:name>Subang Jaya</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q876876</ctml:wikiDataId>
+    <ctml:latitude>3.04384000</ctml:latitude>
+    <ctml:longitude>101.58062000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161591" kind="city">
+    <ctml:name>Sungai Air Tawar</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.68000000</ctml:latitude>
+    <ctml:longitude>101.14000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76567" kind="city">
+    <ctml:name>Sungai Besar</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q876876</ctml:wikiDataId>
+    <ctml:latitude>3.67460000</ctml:latitude>
+    <ctml:longitude>100.98670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161592" kind="city">
+    <ctml:name>Sungai Buaya</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.36000000</ctml:latitude>
+    <ctml:longitude>101.62000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161593" kind="city">
+    <ctml:name>Sungai Burong</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.45000000</ctml:latitude>
+    <ctml:longitude>101.23000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161594" kind="city">
+    <ctml:name>Sungai Choh</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.25000000</ctml:latitude>
+    <ctml:longitude>101.65000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161595" kind="city">
+    <ctml:name>Sungai Pelek</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>2.65000000</ctml:latitude>
+    <ctml:longitude>101.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76568" kind="city">
+    <ctml:name>Sungai Pelek New Village</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q876876</ctml:wikiDataId>
+    <ctml:latitude>2.65000000</ctml:latitude>
+    <ctml:longitude>101.70000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161596" kind="city">
+    <ctml:name>Sungai Pelong</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.45000000</ctml:latitude>
+    <ctml:longitude>101.20000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161597" kind="city">
+    <ctml:name>Sungai Tengi</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.28000000</ctml:latitude>
+    <ctml:longitude>101.47000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161598" kind="city">
+    <ctml:name>Taman Melawati</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.27000000</ctml:latitude>
+    <ctml:longitude>101.74000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161599" kind="city">
+    <ctml:name>Taman Tasik Semenyih</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>2.95000000</ctml:latitude>
+    <ctml:longitude>101.84000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76577" kind="city">
+    <ctml:name>Tanjung Sepat</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:wikiDataId>Q1187522</ctml:wikiDataId>
+    <ctml:latitude>2.65790000</ctml:latitude>
+    <ctml:longitude>101.56290000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161600" kind="city">
+    <ctml:name>Teluk Datok</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.00000000</ctml:latitude>
+    <ctml:longitude>101.39000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-161601" kind="city">
+    <ctml:name>Ulu Yam</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Selangor</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-10</ctml:parentRef>
+    <ctml:latitude>3.40000000</ctml:latitude>
+    <ctml:longitude>101.55000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76436" kind="city">
+    <ctml:name>Cukai</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Terengganu</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2546441</ctml:wikiDataId>
+    <ctml:latitude>4.25000000</ctml:latitude>
+    <ctml:longitude>103.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76453" kind="city">
+    <ctml:name>Jertih</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Terengganu</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q271619</ctml:wikiDataId>
+    <ctml:latitude>5.73360000</ctml:latitude>
+    <ctml:longitude>102.48970000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76472" kind="city">
+    <ctml:name>Kampung Kuala Besut</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Terengganu</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q2802663</ctml:wikiDataId>
+    <ctml:latitude>5.83297000</ctml:latitude>
+    <ctml:longitude>102.55061000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76483" kind="city">
+    <ctml:name>Kertih</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Terengganu</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1299852</ctml:wikiDataId>
+    <ctml:latitude>4.51410000</ctml:latitude>
+    <ctml:longitude>103.44830000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76493" kind="city">
+    <ctml:name>Kuala Besut</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Terengganu</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q935184</ctml:wikiDataId>
+    <ctml:latitude>5.83303000</ctml:latitude>
+    <ctml:longitude>102.55514000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76521" kind="city">
+    <ctml:name>Marang</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Terengganu</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q61089</ctml:wikiDataId>
+    <ctml:latitude>5.20560000</ctml:latitude>
+    <ctml:longitude>103.20590000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MYS-76530" kind="city">
+    <ctml:name>Paka</ctml:name>
+    <ctml:country>MYS</ctml:country>
+    <ctml:admin1>Terengganu</ctml:admin1>
+    <ctml:parentRef>place:admin1:MY-11</ctml:parentRef>
+    <ctml:wikiDataId>Q1923195</ctml:wikiDataId>
+    <ctml:latitude>4.63740000</ctml:latitude>
+    <ctml:longitude>103.43680000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

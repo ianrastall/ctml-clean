@@ -1,0 +1,2685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:ARM-286" kind="city">
+    <ctml:name>Agarakavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q2667087</ctml:wikiDataId>
+    <ctml:latitude>40.33069000</ctml:latitude>
+    <ctml:longitude>44.07233000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-303" kind="admin2">
+    <ctml:name>Aparan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q39618</ctml:wikiDataId>
+    <ctml:latitude>40.59323000</ctml:latitude>
+    <ctml:longitude>44.35890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-305" kind="city">
+    <ctml:name>Aragats</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q2670427</ctml:wikiDataId>
+    <ctml:latitude>40.48889000</ctml:latitude>
+    <ctml:longitude>44.35290000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-329" kind="city">
+    <ctml:name>Arteni</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q959197</ctml:wikiDataId>
+    <ctml:latitude>40.29730000</ctml:latitude>
+    <ctml:longitude>43.76672000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-334" kind="city">
+    <ctml:name>Ashnak</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q2535262</ctml:wikiDataId>
+    <ctml:latitude>40.33069000</ctml:latitude>
+    <ctml:longitude>43.91669000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-361" kind="city">
+    <ctml:name>Byurakan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q2305036</ctml:wikiDataId>
+    <ctml:latitude>40.33894000</ctml:latitude>
+    <ctml:longitude>44.27275000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-412" kind="city">
+    <ctml:name>Hnaberd</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q2591402</ctml:wikiDataId>
+    <ctml:latitude>40.63721000</ctml:latitude>
+    <ctml:longitude>44.14058000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-428" kind="city">
+    <ctml:name>Karbi</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q2632471</ctml:wikiDataId>
+    <ctml:latitude>40.33069000</ctml:latitude>
+    <ctml:longitude>44.37793000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-430" kind="city">
+    <ctml:name>Kasakh</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q549736</ctml:wikiDataId>
+    <ctml:latitude>40.53697000</ctml:latitude>
+    <ctml:longitude>44.41046000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-434" kind="city">
+    <ctml:name>Kosh</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q2414638</ctml:wikiDataId>
+    <ctml:latitude>40.30011000</ctml:latitude>
+    <ctml:longitude>44.16107000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-486" kind="city">
+    <ctml:name>Nor Yerznka</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q1920915</ctml:wikiDataId>
+    <ctml:latitude>40.30011000</ctml:latitude>
+    <ctml:longitude>44.38892000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-497" kind="city">
+    <ctml:name>Oshakan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q1777770</ctml:wikiDataId>
+    <ctml:latitude>40.26392000</ctml:latitude>
+    <ctml:longitude>44.31671000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-512" kind="city">
+    <ctml:name>Sasunik</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q1528514</ctml:wikiDataId>
+    <ctml:latitude>40.25012000</ctml:latitude>
+    <ctml:longitude>44.34448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-520" kind="city">
+    <ctml:name>Shenavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q2535621</ctml:wikiDataId>
+    <ctml:latitude>40.48328000</ctml:latitude>
+    <ctml:longitude>44.38348000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-546" kind="city">
+    <ctml:name>T’alin</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q2636211</ctml:wikiDataId>
+    <ctml:latitude>40.39172000</ctml:latitude>
+    <ctml:longitude>43.87793000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-538" kind="admin2">
+    <ctml:name>Tsaghkahovit</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q2535670</ctml:wikiDataId>
+    <ctml:latitude>40.63428000</ctml:latitude>
+    <ctml:longitude>44.22241000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-548" kind="city">
+    <ctml:name>Ushi</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q2535317</ctml:wikiDataId>
+    <ctml:latitude>40.34729000</ctml:latitude>
+    <ctml:longitude>44.37512000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-570" kind="city">
+    <ctml:name>Voskevaz</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q2535641</ctml:wikiDataId>
+    <ctml:latitude>40.27508000</ctml:latitude>
+    <ctml:longitude>44.30011000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-588" kind="city">
+    <ctml:name>Zovuni</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Aragatsotn</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AG</ctml:parentRef>
+    <ctml:wikiDataId>Q8074687</ctml:wikiDataId>
+    <ctml:latitude>40.51111000</ctml:latitude>
+    <ctml:longitude>44.43890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-282" kind="city">
+    <ctml:name>Abovyan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2379896</ctml:wikiDataId>
+    <ctml:latitude>40.04851000</ctml:latitude>
+    <ctml:longitude>44.54742000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-307" kind="city">
+    <ctml:name>Aralez</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q338107</ctml:wikiDataId>
+    <ctml:latitude>39.90008000</ctml:latitude>
+    <ctml:longitude>44.65570000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-309" kind="city">
+    <ctml:name>Ararat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q39504</ctml:wikiDataId>
+    <ctml:latitude>39.83069000</ctml:latitude>
+    <ctml:longitude>44.70569000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-314" kind="city">
+    <ctml:name>Arevabuyr</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2630431</ctml:wikiDataId>
+    <ctml:latitude>40.03607000</ctml:latitude>
+    <ctml:longitude>44.46948000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-319" kind="city">
+    <ctml:name>Arevshat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q1994619</ctml:wikiDataId>
+    <ctml:latitude>40.03963000</ctml:latitude>
+    <ctml:longitude>44.54179000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-324" kind="city">
+    <ctml:name>Armash</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2667041</ctml:wikiDataId>
+    <ctml:latitude>39.76672000</ctml:latitude>
+    <ctml:longitude>44.81110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-337" kind="city">
+    <ctml:name>Avshar</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q1446028</ctml:wikiDataId>
+    <ctml:latitude>39.85553000</ctml:latitude>
+    <ctml:longitude>44.65832000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-338" kind="city">
+    <ctml:name>Aygavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2631545</ctml:wikiDataId>
+    <ctml:latitude>39.87327000</ctml:latitude>
+    <ctml:longitude>44.66984000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-341" kind="city">
+    <ctml:name>Aygepat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2535569</ctml:wikiDataId>
+    <ctml:latitude>39.95845000</ctml:latitude>
+    <ctml:longitude>44.59981000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-343" kind="city">
+    <ctml:name>Aygestan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2667073</ctml:wikiDataId>
+    <ctml:latitude>40.00293000</ctml:latitude>
+    <ctml:longitude>44.55829000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-344" kind="city">
+    <ctml:name>Aygezard</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2535651</ctml:wikiDataId>
+    <ctml:latitude>39.95436000</ctml:latitude>
+    <ctml:longitude>44.60229000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-351" kind="city">
+    <ctml:name>Bardzrashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2222235</ctml:wikiDataId>
+    <ctml:latitude>40.08533000</ctml:latitude>
+    <ctml:longitude>44.57957000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-356" kind="city">
+    <ctml:name>Berk’anush</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2631503</ctml:wikiDataId>
+    <ctml:latitude>39.97790000</ctml:latitude>
+    <ctml:longitude>44.51672000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-359" kind="city">
+    <ctml:name>Burastan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2635578</ctml:wikiDataId>
+    <ctml:latitude>39.99157000</ctml:latitude>
+    <ctml:longitude>44.49681000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-362" kind="city">
+    <ctml:name>Byuravan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2631973</ctml:wikiDataId>
+    <ctml:latitude>40.01604000</ctml:latitude>
+    <ctml:longitude>44.51889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-366" kind="city">
+    <ctml:name>Dalar</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2631533</ctml:wikiDataId>
+    <ctml:latitude>39.97653000</ctml:latitude>
+    <ctml:longitude>44.52649000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-368" kind="city">
+    <ctml:name>Darakert</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2313566</ctml:wikiDataId>
+    <ctml:latitude>40.10553000</ctml:latitude>
+    <ctml:longitude>44.41388000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-370" kind="city">
+    <ctml:name>Dashtavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2632039</ctml:wikiDataId>
+    <ctml:latitude>40.10010000</ctml:latitude>
+    <ctml:longitude>44.39172000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-373" kind="city">
+    <ctml:name>Dimitrov</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2455209</ctml:wikiDataId>
+    <ctml:latitude>40.00848000</ctml:latitude>
+    <ctml:longitude>44.49170000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-377" kind="city">
+    <ctml:name>Dvin</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q1774051</ctml:wikiDataId>
+    <ctml:latitude>40.01984000</ctml:latitude>
+    <ctml:longitude>44.58376000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-395" kind="city">
+    <ctml:name>Getazat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2631570</ctml:wikiDataId>
+    <ctml:latitude>40.03844000</ctml:latitude>
+    <ctml:longitude>44.56369000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-396" kind="city">
+    <ctml:name>Ghukasavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2631582</ctml:wikiDataId>
+    <ctml:latitude>40.12793000</ctml:latitude>
+    <ctml:longitude>44.41669000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-401" kind="city">
+    <ctml:name>Goravan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2658136</ctml:wikiDataId>
+    <ctml:latitude>39.90832000</ctml:latitude>
+    <ctml:longitude>44.73328000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-409" kind="city">
+    <ctml:name>Hayanist</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2631943</ctml:wikiDataId>
+    <ctml:latitude>40.12231000</ctml:latitude>
+    <ctml:longitude>44.37793000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-415" kind="city">
+    <ctml:name>Hovtashat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q958476</ctml:wikiDataId>
+    <ctml:latitude>40.09729000</ctml:latitude>
+    <ctml:longitude>44.34448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-416" kind="city">
+    <ctml:name>Hovtashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2456540</ctml:wikiDataId>
+    <ctml:latitude>40.02508000</ctml:latitude>
+    <ctml:longitude>44.45007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-421" kind="city">
+    <ctml:name>Jrahovit</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2631560</ctml:wikiDataId>
+    <ctml:latitude>40.04730000</ctml:latitude>
+    <ctml:longitude>44.47510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-449" kind="city">
+    <ctml:name>Lusarrat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2221651</ctml:wikiDataId>
+    <ctml:latitude>39.87403000</ctml:latitude>
+    <ctml:longitude>44.58678000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-455" kind="city">
+    <ctml:name>Marmarashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2631949</ctml:wikiDataId>
+    <ctml:latitude>40.05829000</ctml:latitude>
+    <ctml:longitude>44.47229000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-458" kind="city">
+    <ctml:name>Masis</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q1993763</ctml:wikiDataId>
+    <ctml:latitude>40.06542000</ctml:latitude>
+    <ctml:longitude>44.41618000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-472" kind="city">
+    <ctml:name>Mrganush</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2631920</ctml:wikiDataId>
+    <ctml:latitude>40.02857000</ctml:latitude>
+    <ctml:longitude>44.55831000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-475" kind="city">
+    <ctml:name>Mrgavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2632073</ctml:wikiDataId>
+    <ctml:latitude>39.97251000</ctml:latitude>
+    <ctml:longitude>44.53565000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-476" kind="city">
+    <ctml:name>Mrgavet</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2668107</ctml:wikiDataId>
+    <ctml:latitude>40.02789000</ctml:latitude>
+    <ctml:longitude>44.48328000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-482" kind="city">
+    <ctml:name>Nizami</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2668122</ctml:wikiDataId>
+    <ctml:latitude>40.09168000</ctml:latitude>
+    <ctml:longitude>44.40570000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-487" kind="city">
+    <ctml:name>Norabats’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q588901</ctml:wikiDataId>
+    <ctml:latitude>40.10553000</ctml:latitude>
+    <ctml:longitude>44.43329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-489" kind="city">
+    <ctml:name>Noramarg</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2634323</ctml:wikiDataId>
+    <ctml:latitude>40.02228000</ctml:latitude>
+    <ctml:longitude>44.42511000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-491" kind="city">
+    <ctml:name>Norashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2634389</ctml:wikiDataId>
+    <ctml:latitude>40.00130000</ctml:latitude>
+    <ctml:longitude>44.59296000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-493" kind="city">
+    <ctml:name>Noyakert</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2634363</ctml:wikiDataId>
+    <ctml:latitude>39.83069000</ctml:latitude>
+    <ctml:longitude>44.66949000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-495" kind="city">
+    <ctml:name>Nshavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2634379</ctml:wikiDataId>
+    <ctml:latitude>40.02787000</ctml:latitude>
+    <ctml:longitude>44.52565000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-513" kind="city">
+    <ctml:name>Sayat’-Nova</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2222503</ctml:wikiDataId>
+    <ctml:latitude>40.07507000</ctml:latitude>
+    <ctml:longitude>44.40008000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-516" kind="city">
+    <ctml:name>Shahumyan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2636202</ctml:wikiDataId>
+    <ctml:latitude>39.94171000</ctml:latitude>
+    <ctml:longitude>44.57233000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-525" kind="city">
+    <ctml:name>Sis</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2462773</ctml:wikiDataId>
+    <ctml:latitude>40.05829000</ctml:latitude>
+    <ctml:longitude>44.38892000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-526" kind="city">
+    <ctml:name>Sisavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2634735</ctml:wikiDataId>
+    <ctml:latitude>39.90802000</ctml:latitude>
+    <ctml:longitude>44.66721000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-531" kind="city">
+    <ctml:name>Surenavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q645308</ctml:wikiDataId>
+    <ctml:latitude>39.79449000</ctml:latitude>
+    <ctml:longitude>44.77508000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-560" kind="admin2">
+    <ctml:name>Vedi</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q750689</ctml:wikiDataId>
+    <ctml:latitude>39.91388000</ctml:latitude>
+    <ctml:longitude>44.72510000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-561" kind="city">
+    <ctml:name>Verin Artashat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2634738</ctml:wikiDataId>
+    <ctml:latitude>39.99731000</ctml:latitude>
+    <ctml:longitude>44.58893000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-562" kind="admin2">
+    <ctml:name>Verin Dvin</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2670412</ctml:wikiDataId>
+    <ctml:latitude>40.02434000</ctml:latitude>
+    <ctml:longitude>44.59038000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-568" kind="city">
+    <ctml:name>Vosketap’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2670061</ctml:wikiDataId>
+    <ctml:latitude>39.88114000</ctml:latitude>
+    <ctml:longitude>44.64917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-571" kind="city">
+    <ctml:name>Vostan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2634772</ctml:wikiDataId>
+    <ctml:latitude>39.96515000</ctml:latitude>
+    <ctml:longitude>44.55937000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-574" kind="city">
+    <ctml:name>Yeghegnavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2634744</ctml:wikiDataId>
+    <ctml:latitude>39.83893000</ctml:latitude>
+    <ctml:longitude>44.61951000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-582" kind="city">
+    <ctml:name>Zangakatun</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2634728</ctml:wikiDataId>
+    <ctml:latitude>39.82233000</ctml:latitude>
+    <ctml:longitude>45.04169000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-585" kind="city">
+    <ctml:name>Zorak</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Ararat</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AR</ctml:parentRef>
+    <ctml:wikiDataId>Q2388034</ctml:wikiDataId>
+    <ctml:latitude>40.09168000</ctml:latitude>
+    <ctml:longitude>44.39447000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-289" kind="city">
+    <ctml:name>Aghavnatun</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2626777</ctml:wikiDataId>
+    <ctml:latitude>40.23330000</ctml:latitude>
+    <ctml:longitude>44.25295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-292" kind="city">
+    <ctml:name>Aknalich</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q1144641</ctml:wikiDataId>
+    <ctml:latitude>40.14728000</ctml:latitude>
+    <ctml:longitude>44.16669000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-293" kind="city">
+    <ctml:name>Aknashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2630421</ctml:wikiDataId>
+    <ctml:latitude>40.09551000</ctml:latitude>
+    <ctml:longitude>44.28604000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-297" kind="city">
+    <ctml:name>Alashkert</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222204</ctml:wikiDataId>
+    <ctml:latitude>40.10712000</ctml:latitude>
+    <ctml:longitude>44.05108000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-302" kind="city">
+    <ctml:name>Apaga</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222226</ctml:wikiDataId>
+    <ctml:latitude>40.09729000</ctml:latitude>
+    <ctml:longitude>44.25293000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-306" kind="city">
+    <ctml:name>Arak’s</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q1142800</ctml:wikiDataId>
+    <ctml:latitude>40.05548000</ctml:latitude>
+    <ctml:longitude>44.30292000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-310" kind="city">
+    <ctml:name>Arazap’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q1142763</ctml:wikiDataId>
+    <ctml:latitude>40.04169000</ctml:latitude>
+    <ctml:longitude>44.14728000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-311" kind="city">
+    <ctml:name>Arbat’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2626761</ctml:wikiDataId>
+    <ctml:latitude>40.13892000</ctml:latitude>
+    <ctml:longitude>44.40289000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-315" kind="city">
+    <ctml:name>Arevashat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2667172</ctml:wikiDataId>
+    <ctml:latitude>40.14447000</ctml:latitude>
+    <ctml:longitude>44.37512000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-317" kind="city">
+    <ctml:name>Arevik</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2639886</ctml:wikiDataId>
+    <ctml:latitude>40.10010000</ctml:latitude>
+    <ctml:longitude>44.09448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-322" kind="city">
+    <ctml:name>Argavand</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q1142775</ctml:wikiDataId>
+    <ctml:latitude>40.06110000</ctml:latitude>
+    <ctml:longitude>44.09448000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-327" kind="city">
+    <ctml:name>Arshaluys</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2221680</ctml:wikiDataId>
+    <ctml:latitude>40.16949000</ctml:latitude>
+    <ctml:longitude>44.21393000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-330" kind="city">
+    <ctml:name>Artimet</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q1142786</ctml:wikiDataId>
+    <ctml:latitude>40.15008000</ctml:latitude>
+    <ctml:longitude>44.26672000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-340" kind="city">
+    <ctml:name>Aygek</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q1142804</ctml:wikiDataId>
+    <ctml:latitude>40.18890000</ctml:latitude>
+    <ctml:longitude>44.38611000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-342" kind="city">
+    <ctml:name>Aygeshat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q764724</ctml:wikiDataId>
+    <ctml:latitude>40.07507000</ctml:latitude>
+    <ctml:longitude>44.06110000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-347" kind="city">
+    <ctml:name>Baghramyan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q1142982</ctml:wikiDataId>
+    <ctml:latitude>40.19452000</ctml:latitude>
+    <ctml:longitude>44.36951000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-350" kind="city">
+    <ctml:name>Bambakashat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q744617</ctml:wikiDataId>
+    <ctml:latitude>40.10828000</ctml:latitude>
+    <ctml:longitude>44.01947000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-367" kind="city">
+    <ctml:name>Dalarik</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2272491</ctml:wikiDataId>
+    <ctml:latitude>40.22790000</ctml:latitude>
+    <ctml:longitude>43.87793000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-374" kind="city">
+    <ctml:name>Doghs</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222192</ctml:wikiDataId>
+    <ctml:latitude>40.22229000</ctml:latitude>
+    <ctml:longitude>44.27228000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-388" kind="city">
+    <ctml:name>Gay</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2001183</ctml:wikiDataId>
+    <ctml:latitude>40.08444000</ctml:latitude>
+    <ctml:longitude>44.30528000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-389" kind="admin2">
+    <ctml:name>Geghakert</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2389968</ctml:wikiDataId>
+    <ctml:latitude>40.18516000</ctml:latitude>
+    <ctml:longitude>44.24331000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-392" kind="city">
+    <ctml:name>Geghanist</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q633723</ctml:wikiDataId>
+    <ctml:latitude>40.14587000</ctml:latitude>
+    <ctml:longitude>44.43048000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-394" kind="city">
+    <ctml:name>Getashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q1144653</ctml:wikiDataId>
+    <ctml:latitude>40.04449000</ctml:latitude>
+    <ctml:longitude>43.94171000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-398" kind="city">
+    <ctml:name>Gmbet’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2536608</ctml:wikiDataId>
+    <ctml:latitude>40.22369000</ctml:latitude>
+    <ctml:longitude>44.25409000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-403" kind="city">
+    <ctml:name>Griboyedov</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222094</ctml:wikiDataId>
+    <ctml:latitude>40.11307000</ctml:latitude>
+    <ctml:longitude>44.27169000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-410" kind="city">
+    <ctml:name>Haykashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2530823</ctml:wikiDataId>
+    <ctml:latitude>40.07233000</ctml:latitude>
+    <ctml:longitude>44.30829000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-414" kind="city">
+    <ctml:name>Hovtamej</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222182</ctml:wikiDataId>
+    <ctml:latitude>40.18329000</ctml:latitude>
+    <ctml:longitude>44.25848000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-419" kind="city">
+    <ctml:name>Janfida</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222119</ctml:wikiDataId>
+    <ctml:latitude>40.04449000</ctml:latitude>
+    <ctml:longitude>44.02789000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-433" kind="city">
+    <ctml:name>Khoronk’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2221709</ctml:wikiDataId>
+    <ctml:latitude>40.13611000</ctml:latitude>
+    <ctml:longitude>44.24731000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-440" kind="city">
+    <ctml:name>Lenughi</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222166</ctml:wikiDataId>
+    <ctml:latitude>40.12512000</ctml:latitude>
+    <ctml:longitude>43.96393000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-448" kind="city">
+    <ctml:name>Lukashin</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2221651</ctml:wikiDataId>
+    <ctml:latitude>40.18726000</ctml:latitude>
+    <ctml:longitude>44.00390000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-454" kind="city">
+    <ctml:name>Margara</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2634781</ctml:wikiDataId>
+    <ctml:latitude>40.03332000</ctml:latitude>
+    <ctml:longitude>44.18048000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-461" kind="city">
+    <ctml:name>Mayisyan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q21403652</ctml:wikiDataId>
+    <ctml:latitude>40.15701000</ctml:latitude>
+    <ctml:longitude>44.09192000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-465" kind="city">
+    <ctml:name>Merdzavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222146</ctml:wikiDataId>
+    <ctml:latitude>40.18140000</ctml:latitude>
+    <ctml:longitude>44.40033000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-469" kind="admin2">
+    <ctml:name>Metsamor</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q1828101</ctml:wikiDataId>
+    <ctml:latitude>40.14447000</ctml:latitude>
+    <ctml:longitude>44.11670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-473" kind="city">
+    <ctml:name>Mrgashat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2221694</ctml:wikiDataId>
+    <ctml:latitude>40.13068000</ctml:latitude>
+    <ctml:longitude>44.08069000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-477" kind="city">
+    <ctml:name>Musalerr</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2636195</ctml:wikiDataId>
+    <ctml:latitude>40.15570000</ctml:latitude>
+    <ctml:longitude>44.37793000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-478" kind="city">
+    <ctml:name>Myasnikyan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222067</ctml:wikiDataId>
+    <ctml:latitude>40.18048000</ctml:latitude>
+    <ctml:longitude>43.91949000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-479" kind="city">
+    <ctml:name>Nalbandyan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q513202</ctml:wikiDataId>
+    <ctml:latitude>40.06390000</ctml:latitude>
+    <ctml:longitude>43.98889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-483" kind="city">
+    <ctml:name>Nor Armavir</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222055</ctml:wikiDataId>
+    <ctml:latitude>40.08612000</ctml:latitude>
+    <ctml:longitude>43.99451000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-488" kind="city">
+    <ctml:name>Norakert</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222682</ctml:wikiDataId>
+    <ctml:latitude>40.19733000</ctml:latitude>
+    <ctml:longitude>44.35010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-504" kind="city">
+    <ctml:name>P’shatavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q770615</ctml:wikiDataId>
+    <ctml:latitude>40.03888000</ctml:latitude>
+    <ctml:longitude>44.06671000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-502" kind="city">
+    <ctml:name>Ptghunk’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222622</ctml:wikiDataId>
+    <ctml:latitude>40.16388000</ctml:latitude>
+    <ctml:longitude>44.36389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-509" kind="city">
+    <ctml:name>Sardarapat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2412883</ctml:wikiDataId>
+    <ctml:latitude>40.13206000</ctml:latitude>
+    <ctml:longitude>44.00969000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-519" kind="city">
+    <ctml:name>Shenavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222632</ctml:wikiDataId>
+    <ctml:latitude>40.05548000</ctml:latitude>
+    <ctml:longitude>43.93048000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-532" kind="city">
+    <ctml:name>Tandzut</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222614</ctml:wikiDataId>
+    <ctml:latitude>40.06952000</ctml:latitude>
+    <ctml:longitude>44.07788000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-533" kind="city">
+    <ctml:name>Taronik</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q765949</ctml:wikiDataId>
+    <ctml:latitude>40.13367000</ctml:latitude>
+    <ctml:longitude>44.19957000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-539" kind="city">
+    <ctml:name>Tsaghkunk’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q615784</ctml:wikiDataId>
+    <ctml:latitude>40.18048000</ctml:latitude>
+    <ctml:longitude>44.27228000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-540" kind="city">
+    <ctml:name>Tsiatsan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q737741</ctml:wikiDataId>
+    <ctml:latitude>40.18610000</ctml:latitude>
+    <ctml:longitude>44.26947000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-549" kind="admin2">
+    <ctml:name>Vagharshapat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2535317</ctml:wikiDataId>
+    <ctml:latitude>40.16557000</ctml:latitude>
+    <ctml:longitude>44.29462000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-567" kind="city">
+    <ctml:name>Voskehat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222609</ctml:wikiDataId>
+    <ctml:latitude>40.14172000</ctml:latitude>
+    <ctml:longitude>44.33069000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-575" kind="city">
+    <ctml:name>Yeghegnut</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2639831</ctml:wikiDataId>
+    <ctml:latitude>40.08893000</ctml:latitude>
+    <ctml:longitude>44.16669000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-579" kind="city">
+    <ctml:name>Yeraskhahun</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Armavir</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-AV</ctml:parentRef>
+    <ctml:wikiDataId>Q2222448</ctml:wikiDataId>
+    <ctml:latitude>40.07233000</ctml:latitude>
+    <ctml:longitude>44.21948000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-296" kind="city">
+    <ctml:name>Akunk’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q590913</ctml:wikiDataId>
+    <ctml:latitude>40.15886000</ctml:latitude>
+    <ctml:longitude>45.72568000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-336" kind="city">
+    <ctml:name>Astghadzor</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2636216</ctml:wikiDataId>
+    <ctml:latitude>40.12231000</ctml:latitude>
+    <ctml:longitude>45.35553000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-364" kind="city">
+    <ctml:name>Chambarak</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1024822</ctml:wikiDataId>
+    <ctml:latitude>40.59655000</ctml:latitude>
+    <ctml:longitude>45.35498000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-371" kind="city">
+    <ctml:name>Ddmashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1528594</ctml:wikiDataId>
+    <ctml:latitude>40.57028000</ctml:latitude>
+    <ctml:longitude>44.82295000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-375" kind="city">
+    <ctml:name>Drakhtik</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1024548</ctml:wikiDataId>
+    <ctml:latitude>40.56497000</ctml:latitude>
+    <ctml:longitude>45.23670000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-380" kind="city">
+    <ctml:name>Dzoragyugh</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2636104</ctml:wikiDataId>
+    <ctml:latitude>40.16957000</ctml:latitude>
+    <ctml:longitude>45.18337000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-384" kind="city">
+    <ctml:name>Gagarin</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q5516814</ctml:wikiDataId>
+    <ctml:latitude>40.54026000</ctml:latitude>
+    <ctml:longitude>44.86962000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-385" kind="city">
+    <ctml:name>Gandzak</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1528536</ctml:wikiDataId>
+    <ctml:latitude>40.31472000</ctml:latitude>
+    <ctml:longitude>45.11139000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-390" kind="city">
+    <ctml:name>Geghamasar</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q930125</ctml:wikiDataId>
+    <ctml:latitude>40.31091000</ctml:latitude>
+    <ctml:longitude>45.67924000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-391" kind="city">
+    <ctml:name>Geghamavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1528439</ctml:wikiDataId>
+    <ctml:latitude>40.56250000</ctml:latitude>
+    <ctml:longitude>44.88892000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-427" kind="city">
+    <ctml:name>Karanlukh</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2636125</ctml:wikiDataId>
+    <ctml:latitude>40.10444000</ctml:latitude>
+    <ctml:longitude>45.28972000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-429" kind="city">
+    <ctml:name>Karchaghbyur</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q549736</ctml:wikiDataId>
+    <ctml:latitude>40.17048000</ctml:latitude>
+    <ctml:longitude>45.57785000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-437" kind="city">
+    <ctml:name>Lanjaghbyur</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1528076</ctml:wikiDataId>
+    <ctml:latitude>40.26947000</ctml:latitude>
+    <ctml:longitude>45.14447000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-438" kind="city">
+    <ctml:name>Lchap’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1529772</ctml:wikiDataId>
+    <ctml:latitude>40.45569000</ctml:latitude>
+    <ctml:longitude>45.07507000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-439" kind="city">
+    <ctml:name>Lchashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1528531</ctml:wikiDataId>
+    <ctml:latitude>40.51947000</ctml:latitude>
+    <ctml:longitude>44.93048000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-446" kind="city">
+    <ctml:name>Lichk’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2636159</ctml:wikiDataId>
+    <ctml:latitude>40.15933000</ctml:latitude>
+    <ctml:longitude>45.23467000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-450" kind="city">
+    <ctml:name>Madina</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2392033</ctml:wikiDataId>
+    <ctml:latitude>40.07637000</ctml:latitude>
+    <ctml:longitude>45.25507000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-457" kind="city">
+    <ctml:name>Martuni</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q39603</ctml:wikiDataId>
+    <ctml:latitude>40.08333000</ctml:latitude>
+    <ctml:longitude>45.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-467" kind="city">
+    <ctml:name>Mets Masrik</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2650143</ctml:wikiDataId>
+    <ctml:latitude>40.21948000</ctml:latitude>
+    <ctml:longitude>45.76391000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-481" kind="city">
+    <ctml:name>Nerk’in Getashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2670399</ctml:wikiDataId>
+    <ctml:latitude>40.14172000</ctml:latitude>
+    <ctml:longitude>45.27087000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-492" kind="city">
+    <ctml:name>Noratus</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1528182</ctml:wikiDataId>
+    <ctml:latitude>40.37793000</ctml:latitude>
+    <ctml:longitude>45.18048000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-511" kind="city">
+    <ctml:name>Sarukhan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1528514</ctml:wikiDataId>
+    <ctml:latitude>40.29169000</ctml:latitude>
+    <ctml:longitude>45.13068000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-514" kind="admin2">
+    <ctml:name>Sevan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q39625</ctml:wikiDataId>
+    <ctml:latitude>40.54730000</ctml:latitude>
+    <ctml:longitude>44.94171000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-541" kind="city">
+    <ctml:name>Tsovagyugh</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1528222</ctml:wikiDataId>
+    <ctml:latitude>40.63348000</ctml:latitude>
+    <ctml:longitude>44.96112000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-542" kind="city">
+    <ctml:name>Tsovak</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2639716</ctml:wikiDataId>
+    <ctml:latitude>40.18254000</ctml:latitude>
+    <ctml:longitude>45.63286000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-543" kind="city">
+    <ctml:name>Tsovasar</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2639716</ctml:wikiDataId>
+    <ctml:latitude>40.13820000</ctml:latitude>
+    <ctml:longitude>45.19096000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-544" kind="city">
+    <ctml:name>Tsovazard</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1528427</ctml:wikiDataId>
+    <ctml:latitude>40.47510000</ctml:latitude>
+    <ctml:longitude>45.05011000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-545" kind="city">
+    <ctml:name>Tsovinar</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2636211</ctml:wikiDataId>
+    <ctml:latitude>40.15959000</ctml:latitude>
+    <ctml:longitude>45.46786000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-550" kind="city">
+    <ctml:name>Vaghashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2635853</ctml:wikiDataId>
+    <ctml:latitude>40.13611000</ctml:latitude>
+    <ctml:longitude>45.33069000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-552" kind="city">
+    <ctml:name>Vahan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1024185</ctml:wikiDataId>
+    <ctml:latitude>40.57549000</ctml:latitude>
+    <ctml:longitude>45.39769000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-556" kind="city">
+    <ctml:name>Vardenik</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2636186</ctml:wikiDataId>
+    <ctml:latitude>40.13348000</ctml:latitude>
+    <ctml:longitude>45.44311000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-557" kind="admin2">
+    <ctml:name>Vardenis</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q39542</ctml:wikiDataId>
+    <ctml:latitude>40.18329000</ctml:latitude>
+    <ctml:longitude>45.73053000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-558" kind="city">
+    <ctml:name>Varser</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1528210</ctml:wikiDataId>
+    <ctml:latitude>40.55548000</ctml:latitude>
+    <ctml:longitude>44.90832000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-563" kind="city">
+    <ctml:name>Verin Getashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q1121968</ctml:wikiDataId>
+    <ctml:latitude>40.13068000</ctml:latitude>
+    <ctml:longitude>45.25293000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-578" kind="city">
+    <ctml:name>Yeranos</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Gegharkunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-GR</ctml:parentRef>
+    <ctml:wikiDataId>Q2636149</ctml:wikiDataId>
+    <ctml:latitude>40.20428000</ctml:latitude>
+    <ctml:longitude>45.19209000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-281" kind="admin2">
+    <ctml:name>Abovyan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q31493</ctml:wikiDataId>
+    <ctml:latitude>40.27368000</ctml:latitude>
+    <ctml:longitude>44.63348000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-287" kind="city">
+    <ctml:name>Aghavnadzor</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2303688</ctml:wikiDataId>
+    <ctml:latitude>40.58195000</ctml:latitude>
+    <ctml:longitude>44.69581000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-295" kind="city">
+    <ctml:name>Akunk’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q590561</ctml:wikiDataId>
+    <ctml:latitude>40.26672000</ctml:latitude>
+    <ctml:longitude>44.68610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-308" kind="city">
+    <ctml:name>Aramus</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2006361</ctml:wikiDataId>
+    <ctml:latitude>40.25095000</ctml:latitude>
+    <ctml:longitude>44.66351000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-323" kind="city">
+    <ctml:name>Argel</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2006382</ctml:wikiDataId>
+    <ctml:latitude>40.37793000</ctml:latitude>
+    <ctml:longitude>44.60010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-332" kind="city">
+    <ctml:name>Arzakan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2670437</ctml:wikiDataId>
+    <ctml:latitude>40.45007000</ctml:latitude>
+    <ctml:longitude>44.60828000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-333" kind="admin2">
+    <ctml:name>Arzni</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2595265</ctml:wikiDataId>
+    <ctml:latitude>40.29730000</ctml:latitude>
+    <ctml:longitude>44.59869000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-349" kind="city">
+    <ctml:name>Balahovit</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1921847</ctml:wikiDataId>
+    <ctml:latitude>40.25153000</ctml:latitude>
+    <ctml:longitude>44.60828000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-357" kind="city">
+    <ctml:name>Bjni</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1280781</ctml:wikiDataId>
+    <ctml:latitude>40.45831000</ctml:latitude>
+    <ctml:longitude>44.65008000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-360" kind="city">
+    <ctml:name>Buzhakan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1922515</ctml:wikiDataId>
+    <ctml:latitude>40.45569000</ctml:latitude>
+    <ctml:longitude>44.51947000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-363" kind="city">
+    <ctml:name>Byureghavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1752731</ctml:wikiDataId>
+    <ctml:latitude>40.31417000</ctml:latitude>
+    <ctml:longitude>44.59333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-379" kind="city">
+    <ctml:name>Dzoraghbyur</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2636363</ctml:wikiDataId>
+    <ctml:latitude>40.20412000</ctml:latitude>
+    <ctml:longitude>44.64150000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-382" kind="city">
+    <ctml:name>Fantan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2485210</ctml:wikiDataId>
+    <ctml:latitude>40.39447000</ctml:latitude>
+    <ctml:longitude>44.68610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-386" kind="city">
+    <ctml:name>Garrni</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1010273</ctml:wikiDataId>
+    <ctml:latitude>40.11931000</ctml:latitude>
+    <ctml:longitude>44.73442000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-400" kind="city">
+    <ctml:name>Goght’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1519141</ctml:wikiDataId>
+    <ctml:latitude>40.13470000</ctml:latitude>
+    <ctml:longitude>44.78332000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-426" kind="city">
+    <ctml:name>Kaputan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1921689</ctml:wikiDataId>
+    <ctml:latitude>40.32507000</ctml:latitude>
+    <ctml:longitude>44.70007000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-435" kind="city">
+    <ctml:name>Kotayk’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q970959</ctml:wikiDataId>
+    <ctml:latitude>40.27789000</ctml:latitude>
+    <ctml:longitude>44.66388000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-442" kind="city">
+    <ctml:name>Lerrnanist</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2222168</ctml:wikiDataId>
+    <ctml:latitude>40.46676000</ctml:latitude>
+    <ctml:longitude>44.79249000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-459" kind="city">
+    <ctml:name>Mayakovski</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q3302935</ctml:wikiDataId>
+    <ctml:latitude>40.25293000</ctml:latitude>
+    <ctml:longitude>44.63892000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-462" kind="city">
+    <ctml:name>Meghradzor</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2222193</ctml:wikiDataId>
+    <ctml:latitude>40.60611000</ctml:latitude>
+    <ctml:longitude>44.65147000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-474" kind="city">
+    <ctml:name>Mrgashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q733549</ctml:wikiDataId>
+    <ctml:latitude>40.28607000</ctml:latitude>
+    <ctml:longitude>44.54449000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-484" kind="admin2">
+    <ctml:name>Nor Geghi</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q934995</ctml:wikiDataId>
+    <ctml:latitude>40.32233000</ctml:latitude>
+    <ctml:longitude>44.58331000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-485" kind="city">
+    <ctml:name>Nor Gyugh</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q3343429</ctml:wikiDataId>
+    <ctml:latitude>40.26672000</ctml:latitude>
+    <ctml:longitude>44.65832000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-500" kind="city">
+    <ctml:name>Prroshyan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2222307</ctml:wikiDataId>
+    <ctml:latitude>40.24731000</ctml:latitude>
+    <ctml:longitude>44.41949000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-501" kind="city">
+    <ctml:name>Ptghni</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1920828</ctml:wikiDataId>
+    <ctml:latitude>40.25568000</ctml:latitude>
+    <ctml:longitude>44.58612000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-527" kind="city">
+    <ctml:name>Solak</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2015768</ctml:wikiDataId>
+    <ctml:latitude>40.46252000</ctml:latitude>
+    <ctml:longitude>44.70709000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-537" kind="admin2">
+    <ctml:name>Tsaghkadzor</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q140342</ctml:wikiDataId>
+    <ctml:latitude>40.53259000</ctml:latitude>
+    <ctml:longitude>44.72025000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-577" kind="admin2">
+    <ctml:name>Yeghvard</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1649945</ctml:wikiDataId>
+    <ctml:latitude>40.32507000</ctml:latitude>
+    <ctml:longitude>44.48608000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-583" kind="city">
+    <ctml:name>Zarr</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q2471296</ctml:wikiDataId>
+    <ctml:latitude>40.25848000</ctml:latitude>
+    <ctml:longitude>44.73328000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-586" kind="city">
+    <ctml:name>Zoravan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1920843</ctml:wikiDataId>
+    <ctml:latitude>40.35553000</ctml:latitude>
+    <ctml:longitude>44.52228000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-587" kind="city">
+    <ctml:name>Zovaber</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Kotayk</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-KT</ctml:parentRef>
+    <ctml:wikiDataId>Q1528217</ctml:wikiDataId>
+    <ctml:latitude>40.56671000</ctml:latitude>
+    <ctml:longitude>44.79028000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-283" kind="city">
+    <ctml:name>Agarak</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q590469</ctml:wikiDataId>
+    <ctml:latitude>41.01072000</ctml:latitude>
+    <ctml:longitude>44.46845000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-290" kind="city">
+    <ctml:name>Akht’ala</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q7921347</ctml:wikiDataId>
+    <ctml:latitude>41.16838000</ctml:latitude>
+    <ctml:longitude>44.75811000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-298" kind="city">
+    <ctml:name>Alaverdi</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q39545</ctml:wikiDataId>
+    <ctml:latitude>41.09766000</ctml:latitude>
+    <ctml:longitude>44.67316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-316" kind="city">
+    <ctml:name>Arevashogh</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q2222733</ctml:wikiDataId>
+    <ctml:latitude>40.86039000</ctml:latitude>
+    <ctml:longitude>44.27438000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-353" kind="city">
+    <ctml:name>Bazum</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q785295</ctml:wikiDataId>
+    <ctml:latitude>40.86763000</ctml:latitude>
+    <ctml:longitude>44.43978000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-365" kind="city">
+    <ctml:name>Chochkan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q1921917</ctml:wikiDataId>
+    <ctml:latitude>41.18118000</ctml:latitude>
+    <ctml:longitude>44.83217000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-369" kind="city">
+    <ctml:name>Darpas</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q1920811</ctml:wikiDataId>
+    <ctml:latitude>40.83674000</ctml:latitude>
+    <ctml:longitude>44.42494000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-376" kind="city">
+    <ctml:name>Dsegh</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q2636324</ctml:wikiDataId>
+    <ctml:latitude>40.96170000</ctml:latitude>
+    <ctml:longitude>44.65003000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-383" kind="admin2">
+    <ctml:name>Fioletovo</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q640674</ctml:wikiDataId>
+    <ctml:latitude>40.72241000</ctml:latitude>
+    <ctml:longitude>44.71769000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-399" kind="city">
+    <ctml:name>Gogaran</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q1922548</ctml:wikiDataId>
+    <ctml:latitude>40.89255000</ctml:latitude>
+    <ctml:longitude>44.19915000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-404" kind="city">
+    <ctml:name>Gugark’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q2682375</ctml:wikiDataId>
+    <ctml:latitude>40.80460000</ctml:latitude>
+    <ctml:longitude>44.54025000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-405" kind="admin2">
+    <ctml:name>Gyulagarak</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q693771</ctml:wikiDataId>
+    <ctml:latitude>40.96715000</ctml:latitude>
+    <ctml:longitude>44.47144000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-423" kind="city">
+    <ctml:name>Jrashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q2016848</ctml:wikiDataId>
+    <ctml:latitude>40.79028000</ctml:latitude>
+    <ctml:longitude>44.18664000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-443" kind="city">
+    <ctml:name>Lerrnants’k’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q3230250</ctml:wikiDataId>
+    <ctml:latitude>40.79532000</ctml:latitude>
+    <ctml:longitude>44.27435000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-444" kind="city">
+    <ctml:name>Lerrnapat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q33199423</ctml:wikiDataId>
+    <ctml:latitude>40.81538000</ctml:latitude>
+    <ctml:longitude>44.39344000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-445" kind="city">
+    <ctml:name>Lerrnavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q1922504</ctml:wikiDataId>
+    <ctml:latitude>40.78820000</ctml:latitude>
+    <ctml:longitude>44.16024000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-447" kind="city">
+    <ctml:name>Lorut</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q687064</ctml:wikiDataId>
+    <ctml:latitude>40.93717000</ctml:latitude>
+    <ctml:longitude>44.77142000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-453" kind="city">
+    <ctml:name>Margahovit</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q648909</ctml:wikiDataId>
+    <ctml:latitude>40.73381000</ctml:latitude>
+    <ctml:longitude>44.68474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-468" kind="city">
+    <ctml:name>Mets Parni</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q2223160</ctml:wikiDataId>
+    <ctml:latitude>40.83472000</ctml:latitude>
+    <ctml:longitude>44.11108000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-470" kind="city">
+    <ctml:name>Metsavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q1921873</ctml:wikiDataId>
+    <ctml:latitude>41.20156000</ctml:latitude>
+    <ctml:longitude>44.22877000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-490" kind="city">
+    <ctml:name>Norashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q1921697</ctml:wikiDataId>
+    <ctml:latitude>41.18886000</ctml:latitude>
+    <ctml:longitude>44.33336000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-496" kind="city">
+    <ctml:name>Odzun</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q2300267</ctml:wikiDataId>
+    <ctml:latitude>41.05321000</ctml:latitude>
+    <ctml:longitude>44.61341000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-506" kind="city">
+    <ctml:name>Sarahart’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q2223140</ctml:wikiDataId>
+    <ctml:latitude>40.87043000</ctml:latitude>
+    <ctml:longitude>44.21407000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-507" kind="city">
+    <ctml:name>Saramej</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q543774</ctml:wikiDataId>
+    <ctml:latitude>40.77487000</ctml:latitude>
+    <ctml:longitude>44.22220000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-517" kind="city">
+    <ctml:name>Shahumyan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q2222776</ctml:wikiDataId>
+    <ctml:latitude>40.77482000</ctml:latitude>
+    <ctml:longitude>44.54596000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-523" kind="city">
+    <ctml:name>Shirakamut</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q1922530</ctml:wikiDataId>
+    <ctml:latitude>40.86056000</ctml:latitude>
+    <ctml:longitude>44.15278000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-524" kind="city">
+    <ctml:name>Shnogh</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q2642758</ctml:wikiDataId>
+    <ctml:latitude>41.14693000</ctml:latitude>
+    <ctml:longitude>44.84043000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-529" kind="admin2">
+    <ctml:name>Spitak</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q430887</ctml:wikiDataId>
+    <ctml:latitude>40.83221000</ctml:latitude>
+    <ctml:longitude>44.26731000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-530" kind="city">
+    <ctml:name>Step’anavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q39678</ctml:wikiDataId>
+    <ctml:latitude>41.00995000</ctml:latitude>
+    <ctml:longitude>44.38531000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-534" kind="admin2">
+    <ctml:name>Tashir</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q598741</ctml:wikiDataId>
+    <ctml:latitude>41.12072000</ctml:latitude>
+    <ctml:longitude>44.28462000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-536" kind="city">
+    <ctml:name>Tsaghkaber</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q1921827</ctml:wikiDataId>
+    <ctml:latitude>40.79849000</ctml:latitude>
+    <ctml:longitude>44.10144000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-547" kind="city">
+    <ctml:name>Urrut</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q2223173</ctml:wikiDataId>
+    <ctml:latitude>41.06778000</ctml:latitude>
+    <ctml:longitude>44.39628000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-551" kind="city">
+    <ctml:name>Vahagni</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q2222868</ctml:wikiDataId>
+    <ctml:latitude>40.90698000</ctml:latitude>
+    <ctml:longitude>44.60873000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-554" kind="city">
+    <ctml:name>Vardablur</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q1921520</ctml:wikiDataId>
+    <ctml:latitude>40.97083000</ctml:latitude>
+    <ctml:longitude>44.50889000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-576" kind="city">
+    <ctml:name>Yeghegnut</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Lori</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-LO</ctml:parentRef>
+    <ctml:wikiDataId>Q2222668</ctml:wikiDataId>
+    <ctml:latitude>40.90302000</ctml:latitude>
+    <ctml:longitude>44.63155000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-291" kind="admin2">
+    <ctml:name>Akhuryan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q1958096</ctml:wikiDataId>
+    <ctml:latitude>40.78003000</ctml:latitude>
+    <ctml:longitude>43.90027000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-299" kind="admin2">
+    <ctml:name>Amasia</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2672566</ctml:wikiDataId>
+    <ctml:latitude>40.95442000</ctml:latitude>
+    <ctml:longitude>43.78720000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-301" kind="city">
+    <ctml:name>Anushavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2222886</ctml:wikiDataId>
+    <ctml:latitude>40.65008000</ctml:latitude>
+    <ctml:longitude>43.98053000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-318" kind="city">
+    <ctml:name>Arevik</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2639707</ctml:wikiDataId>
+    <ctml:latitude>40.74170000</ctml:latitude>
+    <ctml:longitude>43.90430000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-320" kind="city">
+    <ctml:name>Arevshat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2222710</ctml:wikiDataId>
+    <ctml:latitude>40.65345000</ctml:latitude>
+    <ctml:longitude>44.04419000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-326" kind="city">
+    <ctml:name>Arrap’i</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2640112</ctml:wikiDataId>
+    <ctml:latitude>40.78276000</ctml:latitude>
+    <ctml:longitude>43.80583000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-346" kind="city">
+    <ctml:name>Azatan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2657939</ctml:wikiDataId>
+    <ctml:latitude>40.71959000</ctml:latitude>
+    <ctml:longitude>43.82727000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-352" kind="city">
+    <ctml:name>Basen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q738164</ctml:wikiDataId>
+    <ctml:latitude>40.75767000</ctml:latitude>
+    <ctml:longitude>43.99274000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-378" kind="city">
+    <ctml:name>Dzit’hank’ov</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2017927</ctml:wikiDataId>
+    <ctml:latitude>40.50848000</ctml:latitude>
+    <ctml:longitude>43.82092000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-411" kind="city">
+    <ctml:name>Haykavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q537524</ctml:wikiDataId>
+    <ctml:latitude>40.80312000</ctml:latitude>
+    <ctml:longitude>43.75173000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-413" kind="city">
+    <ctml:name>Horrom</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2223275</ctml:wikiDataId>
+    <ctml:latitude>40.65973000</ctml:latitude>
+    <ctml:longitude>43.89032000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-424" kind="city">
+    <ctml:name>Kamo</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2017455</ctml:wikiDataId>
+    <ctml:latitude>40.82572000</ctml:latitude>
+    <ctml:longitude>43.95071000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-441" kind="city">
+    <ctml:name>Lerrnakert</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2223354</ctml:wikiDataId>
+    <ctml:latitude>40.56250000</ctml:latitude>
+    <ctml:longitude>43.93890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-452" kind="admin2">
+    <ctml:name>Maralik</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q1613499</ctml:wikiDataId>
+    <ctml:latitude>40.57507000</ctml:latitude>
+    <ctml:longitude>43.87231000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-456" kind="city">
+    <ctml:name>Marmashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q1110040</ctml:wikiDataId>
+    <ctml:latitude>40.83486000</ctml:latitude>
+    <ctml:longitude>43.77790000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-460" kind="city">
+    <ctml:name>Mayisyan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2017875</ctml:wikiDataId>
+    <ctml:latitude>40.84715000</ctml:latitude>
+    <ctml:longitude>43.83938000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-463" kind="city">
+    <ctml:name>Meghrashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q614997</ctml:wikiDataId>
+    <ctml:latitude>40.67230000</ctml:latitude>
+    <ctml:longitude>43.95831000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-466" kind="city">
+    <ctml:name>Mets Mant’ash</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2223248</ctml:wikiDataId>
+    <ctml:latitude>40.64376000</ctml:latitude>
+    <ctml:longitude>44.05653000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-503" kind="city">
+    <ctml:name>P’ok’r Mant’ash</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2223066</ctml:wikiDataId>
+    <ctml:latitude>40.64026000</ctml:latitude>
+    <ctml:longitude>44.04666000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-499" kind="city">
+    <ctml:name>Pemzashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2671137</ctml:wikiDataId>
+    <ctml:latitude>40.58612000</ctml:latitude>
+    <ctml:longitude>43.94311000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-508" kind="city">
+    <ctml:name>Saratak</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2222975</ctml:wikiDataId>
+    <ctml:latitude>40.67090000</ctml:latitude>
+    <ctml:longitude>43.87231000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-522" kind="city">
+    <ctml:name>Shirak</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2643853</ctml:wikiDataId>
+    <ctml:latitude>40.84042000</ctml:latitude>
+    <ctml:longitude>43.91582000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-528" kind="city">
+    <ctml:name>Spandaryan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q430887</ctml:wikiDataId>
+    <ctml:latitude>40.66105000</ctml:latitude>
+    <ctml:longitude>44.01551000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-566" kind="city">
+    <ctml:name>Voskehask</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2222820</ctml:wikiDataId>
+    <ctml:latitude>40.76426000</ctml:latitude>
+    <ctml:longitude>43.77474000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-580" kind="city">
+    <ctml:name>Yerazgavors</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Shirak</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SH</ctml:parentRef>
+    <ctml:wikiDataId>Q2222448</ctml:wikiDataId>
+    <ctml:latitude>40.69505000</ctml:latitude>
+    <ctml:longitude>43.74722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-284" kind="city">
+    <ctml:name>Agarak</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Syunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2059513</ctml:wikiDataId>
+    <ctml:latitude>39.20684000</ctml:latitude>
+    <ctml:longitude>46.54460000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-294" kind="city">
+    <ctml:name>Akner</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Syunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2630421</ctml:wikiDataId>
+    <ctml:latitude>39.53491000</ctml:latitude>
+    <ctml:longitude>46.30732000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-300" kind="city">
+    <ctml:name>Angeghakot’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Syunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q590508</ctml:wikiDataId>
+    <ctml:latitude>39.56952000</ctml:latitude>
+    <ctml:longitude>45.94452000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-358" kind="city">
+    <ctml:name>Brrnakot’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Syunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q713488</ctml:wikiDataId>
+    <ctml:latitude>39.49742000</ctml:latitude>
+    <ctml:longitude>45.97241000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-381" kind="admin2">
+    <ctml:name>Dzorastan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Syunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2701470</ctml:wikiDataId>
+    <ctml:latitude>39.27059000</ctml:latitude>
+    <ctml:longitude>46.35720000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-402" kind="admin2">
+    <ctml:name>Goris</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Syunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2658136</ctml:wikiDataId>
+    <ctml:latitude>39.51111000</ctml:latitude>
+    <ctml:longitude>46.34168000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-408" kind="city">
+    <ctml:name>Hats’avan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Syunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q590465</ctml:wikiDataId>
+    <ctml:latitude>39.46405000</ctml:latitude>
+    <ctml:longitude>45.97047000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-432" kind="city">
+    <ctml:name>Khndzoresk</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Syunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2640140</ctml:wikiDataId>
+    <ctml:latitude>39.50568000</ctml:latitude>
+    <ctml:longitude>46.43610000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-464" kind="admin2">
+    <ctml:name>Meghri</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Syunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q39549</ctml:wikiDataId>
+    <ctml:latitude>38.90292000</ctml:latitude>
+    <ctml:longitude>46.24458000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-515" kind="city">
+    <ctml:name>Shaghat</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Syunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q640486</ctml:wikiDataId>
+    <ctml:latitude>39.55698000</ctml:latitude>
+    <ctml:longitude>45.90727000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-521" kind="city">
+    <ctml:name>Shinuhayr</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Syunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2670154</ctml:wikiDataId>
+    <ctml:latitude>39.43670000</ctml:latitude>
+    <ctml:longitude>46.31787000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-535" kind="admin2">
+    <ctml:name>Tegh</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Syunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2670423</ctml:wikiDataId>
+    <ctml:latitude>39.55826000</ctml:latitude>
+    <ctml:longitude>46.48054000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-564" kind="city">
+    <ctml:name>Verishen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Syunik</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-SU</ctml:parentRef>
+    <ctml:wikiDataId>Q2095757</ctml:wikiDataId>
+    <ctml:latitude>39.53543000</ctml:latitude>
+    <ctml:longitude>46.32063000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-312" kind="city">
+    <ctml:name>Archis</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q33901</ctml:wikiDataId>
+    <ctml:latitude>41.16351000</ctml:latitude>
+    <ctml:longitude>44.87631000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-331" kind="city">
+    <ctml:name>Artsvaberd</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q2672592</ctml:wikiDataId>
+    <ctml:latitude>40.83947000</ctml:latitude>
+    <ctml:longitude>45.47033000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-339" kind="city">
+    <ctml:name>Aygehovit</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q2672616</ctml:wikiDataId>
+    <ctml:latitude>40.97951000</ctml:latitude>
+    <ctml:longitude>45.25033000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-345" kind="city">
+    <ctml:name>Azatamut</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q2536393</ctml:wikiDataId>
+    <ctml:latitude>40.98204000</ctml:latitude>
+    <ctml:longitude>45.18551000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-348" kind="city">
+    <ctml:name>Bagratashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q33812</ctml:wikiDataId>
+    <ctml:latitude>41.24358000</ctml:latitude>
+    <ctml:longitude>44.81737000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-354" kind="admin2">
+    <ctml:name>Berd</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q1886688</ctml:wikiDataId>
+    <ctml:latitude>40.88135000</ctml:latitude>
+    <ctml:longitude>45.38901000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-355" kind="city">
+    <ctml:name>Berdavan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q33876</ctml:wikiDataId>
+    <ctml:latitude>41.20503000</ctml:latitude>
+    <ctml:longitude>44.99967000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-372" kind="city">
+    <ctml:name>Dilijan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q39569</ctml:wikiDataId>
+    <ctml:latitude>40.74170000</ctml:latitude>
+    <ctml:longitude>44.85010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-407" kind="city">
+    <ctml:name>Haghartsin</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q2536499</ctml:wikiDataId>
+    <ctml:latitude>40.77614000</ctml:latitude>
+    <ctml:longitude>44.96847000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-431" kind="city">
+    <ctml:name>Khasht’arrak</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q69477</ctml:wikiDataId>
+    <ctml:latitude>40.93668000</ctml:latitude>
+    <ctml:longitude>45.18210000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-471" kind="city">
+    <ctml:name>Mosesgegh</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q33808</ctml:wikiDataId>
+    <ctml:latitude>40.90534000</ctml:latitude>
+    <ctml:longitude>45.48838000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-480" kind="city">
+    <ctml:name>Navur</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q33922</ctml:wikiDataId>
+    <ctml:latitude>40.86695000</ctml:latitude>
+    <ctml:longitude>45.34179000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-494" kind="admin2">
+    <ctml:name>Noyemberyan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q34372</ctml:wikiDataId>
+    <ctml:latitude>41.17244000</ctml:latitude>
+    <ctml:longitude>44.99917000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-498" kind="city">
+    <ctml:name>Parravak’ar</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q2536571</ctml:wikiDataId>
+    <ctml:latitude>40.98248000</ctml:latitude>
+    <ctml:longitude>45.36696000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-510" kind="city">
+    <ctml:name>Sarigyugh</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q69271</ctml:wikiDataId>
+    <ctml:latitude>41.03531000</ctml:latitude>
+    <ctml:longitude>45.14486000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-569" kind="city">
+    <ctml:name>Voskevan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Tavush</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-TV</ctml:parentRef>
+    <ctml:wikiDataId>Q33809</ctml:wikiDataId>
+    <ctml:latitude>41.12081000</ctml:latitude>
+    <ctml:longitude>45.06381000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-285" kind="city">
+    <ctml:name>Agarakadzor</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Vayots Dzor</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q1955941</ctml:wikiDataId>
+    <ctml:latitude>39.73608000</ctml:latitude>
+    <ctml:longitude>45.35553000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-288" kind="city">
+    <ctml:name>Aghavnadzor</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Vayots Dzor</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q2422770</ctml:wikiDataId>
+    <ctml:latitude>39.78607000</ctml:latitude>
+    <ctml:longitude>45.22790000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-313" kind="admin2">
+    <ctml:name>Areni</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Vayots Dzor</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q207291</ctml:wikiDataId>
+    <ctml:latitude>39.71668000</ctml:latitude>
+    <ctml:longitude>45.18329000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-393" kind="city">
+    <ctml:name>Getap’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Vayots Dzor</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q2536601</ctml:wikiDataId>
+    <ctml:latitude>39.76392000</ctml:latitude>
+    <ctml:longitude>45.30829000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-397" kind="city">
+    <ctml:name>Gladzor</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Vayots Dzor</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q2536608</ctml:wikiDataId>
+    <ctml:latitude>39.78070000</ctml:latitude>
+    <ctml:longitude>45.34729000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-420" kind="admin2">
+    <ctml:name>Jermuk</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Vayots Dzor</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q39556</ctml:wikiDataId>
+    <ctml:latitude>39.84168000</ctml:latitude>
+    <ctml:longitude>45.66949000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-451" kind="city">
+    <ctml:name>Malishka</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Vayots Dzor</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q949136</ctml:wikiDataId>
+    <ctml:latitude>39.74731000</ctml:latitude>
+    <ctml:longitude>45.40570000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-505" kind="city">
+    <ctml:name>Rrind</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Vayots Dzor</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q2710126</ctml:wikiDataId>
+    <ctml:latitude>39.76111000</ctml:latitude>
+    <ctml:longitude>45.17792000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-518" kind="city">
+    <ctml:name>Shatin</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Vayots Dzor</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q2536626</ctml:wikiDataId>
+    <ctml:latitude>39.83612000</ctml:latitude>
+    <ctml:longitude>45.30292000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-559" kind="city">
+    <ctml:name>Vayk’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Vayots Dzor</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q1253628</ctml:wikiDataId>
+    <ctml:latitude>39.68890000</ctml:latitude>
+    <ctml:longitude>45.46668000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-565" kind="city">
+    <ctml:name>Vernashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Vayots Dzor</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q2536525</ctml:wikiDataId>
+    <ctml:latitude>39.79236000</ctml:latitude>
+    <ctml:longitude>45.36389000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:ARM-572" kind="admin2">
+    <ctml:name>Yeghegis</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Vayots Dzor</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q610325</ctml:wikiDataId>
+    <ctml:latitude>39.87231000</ctml:latitude>
+    <ctml:longitude>45.35010000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-584" kind="city">
+    <ctml:name>Zarrit’ap’</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Vayots Dzor</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-VD</ctml:parentRef>
+    <ctml:wikiDataId>Q554368</ctml:wikiDataId>
+    <ctml:latitude>39.63892000</ctml:latitude>
+    <ctml:longitude>45.51111000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-304" kind="city">
+    <ctml:name>Arabkir</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Yerevan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q39618</ctml:wikiDataId>
+    <ctml:latitude>40.20549000</ctml:latitude>
+    <ctml:longitude>44.50699000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-321" kind="city">
+    <ctml:name>Argavand</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Yerevan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q1142867</ctml:wikiDataId>
+    <ctml:latitude>40.15289000</ctml:latitude>
+    <ctml:longitude>44.43890000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-422" kind="city">
+    <ctml:name>Jrashen</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Yerevan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q2222156</ctml:wikiDataId>
+    <ctml:latitude>40.05275000</ctml:latitude>
+    <ctml:longitude>44.51259000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-436" kind="city">
+    <ctml:name>K’anak’erravan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Yerevan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q1922496</ctml:wikiDataId>
+    <ctml:latitude>40.24739000</ctml:latitude>
+    <ctml:longitude>44.53511000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-555" kind="city">
+    <ctml:name>Vardadzor</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Yerevan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q2636168</ctml:wikiDataId>
+    <ctml:latitude>40.18701000</ctml:latitude>
+    <ctml:longitude>45.19212000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:ARM-581" kind="city">
+    <ctml:name>Yerevan</ctml:name>
+    <ctml:country>ARM</ctml:country>
+    <ctml:admin1>Yerevan</ctml:admin1>
+    <ctml:parentRef>place:admin1:AM-ER</ctml:parentRef>
+    <ctml:wikiDataId>Q2222448</ctml:wikiDataId>
+    <ctml:latitude>40.18111000</ctml:latitude>
+    <ctml:longitude>44.51361000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

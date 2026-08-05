@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:MLT-67764" kind="city">
+    <ctml:name>Fgura</ctml:name>
+    <ctml:country>MLT</ctml:country>
+    <ctml:admin1>Fgura</ctml:admin1>
+    <ctml:parentRef>place:admin1:MT-08</ctml:parentRef>
+    <ctml:wikiDataId>Q44388</ctml:wikiDataId>
+    <ctml:latitude>35.87028000</ctml:latitude>
+    <ctml:longitude>14.51333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLT-67791" kind="city">
+    <ctml:name>Mġarr</ctml:name>
+    <ctml:country>MLT</ctml:country>
+    <ctml:admin1>Kalkara</ctml:admin1>
+    <ctml:parentRef>place:admin1:MT-21</ctml:parentRef>
+    <ctml:wikiDataId>Q737590</ctml:wikiDataId>
+    <ctml:latitude>36.02528000</ctml:latitude>
+    <ctml:longitude>14.29500000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLT-153737" kind="city">
+    <ctml:name>Manikata</ctml:name>
+    <ctml:country>MLT</ctml:country>
+    <ctml:admin1>Mellieħa</ctml:admin1>
+    <ctml:parentRef>place:admin1:MT-30</ctml:parentRef>
+    <ctml:wikiDataId>Q821200</ctml:wikiDataId>
+    <ctml:latitude>35.94000000</ctml:latitude>
+    <ctml:longitude>14.35333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLT-67797" kind="city">
+    <ctml:name>Qala</ctml:name>
+    <ctml:country>MLT</ctml:country>
+    <ctml:admin1>Qala</ctml:admin1>
+    <ctml:parentRef>place:admin1:MT-42</ctml:parentRef>
+    <ctml:wikiDataId>Q1088033</ctml:wikiDataId>
+    <ctml:latitude>36.03611000</ctml:latitude>
+    <ctml:longitude>14.30944000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLT-67805" kind="city">
+    <ctml:name>San Ġiljan (St. Julian's)</ctml:name>
+    <ctml:country>MLT</ctml:country>
+    <ctml:admin1>San Ġwann</ctml:admin1>
+    <ctml:parentRef>place:admin1:MT-49</ctml:parentRef>
+    <ctml:wikiDataId>Q20922925</ctml:wikiDataId>
+    <ctml:latitude>35.91839000</ctml:latitude>
+    <ctml:longitude>14.48977000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLT-153739" kind="city">
+    <ctml:name>Qawra</ctml:name>
+    <ctml:country>MLT</ctml:country>
+    <ctml:admin1>St. Paul's Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:MT-51</ctml:parentRef>
+    <ctml:wikiDataId>Q1038990</ctml:wikiDataId>
+    <ctml:latitude>35.95416700</ctml:latitude>
+    <ctml:longitude>14.42000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLT-67802" kind="city">
+    <ctml:name>Santa Luċija</ctml:name>
+    <ctml:country>MLT</ctml:country>
+    <ctml:admin1>St. Paul's Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:MT-51</ctml:parentRef>
+    <ctml:wikiDataId>Q1256169</ctml:wikiDataId>
+    <ctml:latitude>36.04306000</ctml:latitude>
+    <ctml:longitude>14.21722000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLT-67807" kind="city">
+    <ctml:name>Santa Luċija, Gozo</ctml:name>
+    <ctml:country>MLT</ctml:country>
+    <ctml:admin1>St. Paul's Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:MT-51</ctml:parentRef>
+    <ctml:wikiDataId>Q20922931</ctml:wikiDataId>
+    <ctml:latitude>35.86278000</ctml:latitude>
+    <ctml:longitude>14.50750000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLT-153743" kind="city">
+    <ctml:name>Wardija</ctml:name>
+    <ctml:country>MLT</ctml:country>
+    <ctml:admin1>St. Paul's Bay</ctml:admin1>
+    <ctml:parentRef>place:admin1:MT-51</ctml:parentRef>
+    <ctml:wikiDataId>Q29413612</ctml:wikiDataId>
+    <ctml:latitude>35.93795800</ctml:latitude>
+    <ctml:longitude>14.39254200</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLT-67815" kind="city">
+    <ctml:name>Valletta</ctml:name>
+    <ctml:country>MLT</ctml:country>
+    <ctml:admin1>Valletta</ctml:admin1>
+    <ctml:parentRef>place:admin1:MT-60</ctml:parentRef>
+    <ctml:wikiDataId>Q23800</ctml:wikiDataId>
+    <ctml:latitude>35.89972000</ctml:latitude>
+    <ctml:longitude>14.51472000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:MLT-67800" kind="city">
+    <ctml:name>Rabat</ctml:name>
+    <ctml:country>MLT</ctml:country>
+    <ctml:admin1>Victoria</ctml:admin1>
+    <ctml:parentRef>place:admin1:MT-45</ctml:parentRef>
+    <ctml:wikiDataId>Q44381</ctml:wikiDataId>
+    <ctml:latitude>35.88152000</ctml:latitude>
+    <ctml:longitude>14.39872000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

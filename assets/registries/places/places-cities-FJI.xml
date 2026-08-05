@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:FJI-39145" kind="city">
+    <ctml:name>Naitasiri</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1365284</ctml:wikiDataId>
+    <ctml:latitude>-17.83333000</ctml:latitude>
+    <ctml:longitude>178.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39146" kind="city">
+    <ctml:name>Namosi</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1365295</ctml:wikiDataId>
+    <ctml:latitude>-18.05000000</ctml:latitude>
+    <ctml:longitude>178.13333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39149" kind="city">
+    <ctml:name>Rewa</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1365257</ctml:wikiDataId>
+    <ctml:latitude>-18.08333000</ctml:latitude>
+    <ctml:longitude>178.33333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39150" kind="city">
+    <ctml:name>Serua</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1208362</ctml:wikiDataId>
+    <ctml:latitude>-18.16667000</ctml:latitude>
+    <ctml:longitude>178.00000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39151" kind="city">
+    <ctml:name>Suva</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-C</ctml:parentRef>
+    <ctml:wikiDataId>Q38807</ctml:wikiDataId>
+    <ctml:latitude>-18.14161000</ctml:latitude>
+    <ctml:longitude>178.44149000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39152" kind="city">
+    <ctml:name>Tailevu</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Central</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-C</ctml:parentRef>
+    <ctml:wikiDataId>Q1365322</ctml:wikiDataId>
+    <ctml:latitude>-17.83333000</ctml:latitude>
+    <ctml:longitude>178.50000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39137" kind="city">
+    <ctml:name>Kadavu</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-E</ctml:parentRef>
+    <ctml:wikiDataId>Q676046</ctml:wikiDataId>
+    <ctml:latitude>-18.99331000</ctml:latitude>
+    <ctml:longitude>178.22021000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39139" kind="city">
+    <ctml:name>Lau</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-E</ctml:parentRef>
+    <ctml:wikiDataId>Q513104</ctml:wikiDataId>
+    <ctml:latitude>-18.20488000</ctml:latitude>
+    <ctml:longitude>-178.79251000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39142" kind="city">
+    <ctml:name>Lomaiviti</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Eastern</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-E</ctml:parentRef>
+    <ctml:wikiDataId>Q2144922</ctml:wikiDataId>
+    <ctml:latitude>-17.66667000</ctml:latitude>
+    <ctml:longitude>178.80000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39135" kind="city">
+    <ctml:name>Bua</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1365265</ctml:wikiDataId>
+    <ctml:latitude>-16.83333000</ctml:latitude>
+    <ctml:longitude>178.75000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39136" kind="city">
+    <ctml:name>Cakaudrove</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-N</ctml:parentRef>
+    <ctml:wikiDataId>Q676046</ctml:wikiDataId>
+    <ctml:latitude>-16.66667000</ctml:latitude>
+    <ctml:longitude>179.41667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39143" kind="city">
+    <ctml:name>Macuata</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Northern</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-N</ctml:parentRef>
+    <ctml:wikiDataId>Q1365304</ctml:wikiDataId>
+    <ctml:latitude>-16.50000000</ctml:latitude>
+    <ctml:longitude>179.25000000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:admin2:FJI-39133" kind="admin2">
+    <ctml:name>Ba</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-W</ctml:parentRef>
+    <ctml:wikiDataId>Q26713</ctml:wikiDataId>
+    <ctml:latitude>-17.53430000</ctml:latitude>
+    <ctml:longitude>177.67407000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39134" kind="city">
+    <ctml:name>Ba Province</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-W</ctml:parentRef>
+    <ctml:wikiDataId>Q797434</ctml:wikiDataId>
+    <ctml:latitude>-17.66667000</ctml:latitude>
+    <ctml:longitude>177.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39144" kind="city">
+    <ctml:name>Nadi</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-W</ctml:parentRef>
+    <ctml:wikiDataId>Q619443</ctml:wikiDataId>
+    <ctml:latitude>-17.80309000</ctml:latitude>
+    <ctml:longitude>177.41617000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39147" kind="city">
+    <ctml:name>Nandronga and Navosa</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-W</ctml:parentRef>
+    <ctml:wikiDataId>Q952528</ctml:wikiDataId>
+    <ctml:latitude>-18.00000000</ctml:latitude>
+    <ctml:longitude>177.66667000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:FJI-39148" kind="city">
+    <ctml:name>Ra</ctml:name>
+    <ctml:country>FJI</ctml:country>
+    <ctml:admin1>Western</ctml:admin1>
+    <ctml:parentRef>place:admin1:FJ-W</ctml:parentRef>
+    <ctml:wikiDataId>Q1208350</ctml:wikiDataId>
+    <ctml:latitude>-17.50000000</ctml:latitude>
+    <ctml:longitude>178.16667000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>

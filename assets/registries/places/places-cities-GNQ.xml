@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ctml:placeRegistry xmlns:ctml="urn:ctml:2.0" ctmlVersion="2.0" source="dr5hn/countries-states-cities-database">
+  <ctml:place ref="place:city:GNQ-52387" kind="city">
+    <ctml:name>Malabo</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Bioko Norte</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-BN</ctml:parentRef>
+    <ctml:wikiDataId>Q3818</ctml:wikiDataId>
+    <ctml:latitude>3.75578000</ctml:latitude>
+    <ctml:longitude>8.78166000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52395" kind="city">
+    <ctml:name>Rebola</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Bioko Norte</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-BN</ctml:parentRef>
+    <ctml:wikiDataId>Q2720928</ctml:wikiDataId>
+    <ctml:latitude>3.71667000</ctml:latitude>
+    <ctml:longitude>8.83333000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52398" kind="city">
+    <ctml:name>Santiago de Baney</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Bioko Norte</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-BN</ctml:parentRef>
+    <ctml:wikiDataId>Q962164</ctml:wikiDataId>
+    <ctml:latitude>3.69920000</ctml:latitude>
+    <ctml:longitude>8.90840000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52376" kind="city">
+    <ctml:name>Acurenam</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Centro Sur</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-CS</ctml:parentRef>
+    <ctml:wikiDataId>Q2249718</ctml:wikiDataId>
+    <ctml:latitude>1.03225000</ctml:latitude>
+    <ctml:longitude>10.64882000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52380" kind="city">
+    <ctml:name>Bicurga</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Centro Sur</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-CS</ctml:parentRef>
+    <ctml:wikiDataId>Q3639735</ctml:wikiDataId>
+    <ctml:latitude>1.58113000</ctml:latitude>
+    <ctml:longitude>10.46716000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52390" kind="city">
+    <ctml:name>Mikomeseng</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Kié-Ntem</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-KN</ctml:parentRef>
+    <ctml:wikiDataId>Q2720623</ctml:wikiDataId>
+    <ctml:latitude>2.13609000</ctml:latitude>
+    <ctml:longitude>10.61322000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52392" kind="city">
+    <ctml:name>Ncue</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Kié-Ntem</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-KN</ctml:parentRef>
+    <ctml:wikiDataId>Q3874055</ctml:wikiDataId>
+    <ctml:latitude>2.01643000</ctml:latitude>
+    <ctml:longitude>10.47066000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52393" kind="city">
+    <ctml:name>Nsang</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Kié-Ntem</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-KN</ctml:parentRef>
+    <ctml:wikiDataId>Q3879165</ctml:wikiDataId>
+    <ctml:latitude>2.02475000</ctml:latitude>
+    <ctml:longitude>10.94599000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52381" kind="city">
+    <ctml:name>Bitica</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Litoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q3640495</ctml:wikiDataId>
+    <ctml:latitude>1.42610000</ctml:latitude>
+    <ctml:longitude>9.62316000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52382" kind="city">
+    <ctml:name>Cogo</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Litoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q2549060</ctml:wikiDataId>
+    <ctml:latitude>1.08425000</ctml:latitude>
+    <ctml:longitude>9.69300000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52386" kind="city">
+    <ctml:name>Machinda</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Litoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q924793</ctml:wikiDataId>
+    <ctml:latitude>1.88262000</ctml:latitude>
+    <ctml:longitude>9.95133000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52388" kind="city">
+    <ctml:name>Mbini</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Litoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q980895</ctml:wikiDataId>
+    <ctml:latitude>1.58267000</ctml:latitude>
+    <ctml:longitude>9.61478000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52396" kind="city">
+    <ctml:name>Río Campo</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Litoral</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-LI</ctml:parentRef>
+    <ctml:wikiDataId>Q15273982</ctml:wikiDataId>
+    <ctml:latitude>2.33812000</ctml:latitude>
+    <ctml:longitude>9.82212000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52375" kind="city">
+    <ctml:name>Aconibe</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Wele-Nzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-WN</ctml:parentRef>
+    <ctml:wikiDataId>Q2549481</ctml:wikiDataId>
+    <ctml:latitude>1.29683000</ctml:latitude>
+    <ctml:longitude>10.93691000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52378" kind="city">
+    <ctml:name>Añisoc</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Wele-Nzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-WN</ctml:parentRef>
+    <ctml:wikiDataId>Q2720938</ctml:wikiDataId>
+    <ctml:latitude>1.86580000</ctml:latitude>
+    <ctml:longitude>10.76892000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52377" kind="city">
+    <ctml:name>Ayene</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Wele-Nzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-WN</ctml:parentRef>
+    <ctml:wikiDataId>Q1647475</ctml:wikiDataId>
+    <ctml:latitude>1.85592000</ctml:latitude>
+    <ctml:longitude>10.68994000</ctml:longitude>
+  </ctml:place>
+  <ctml:place ref="place:city:GNQ-52394" kind="city">
+    <ctml:name>Nsok</ctml:name>
+    <ctml:country>GNQ</ctml:country>
+    <ctml:admin1>Wele-Nzas</ctml:admin1>
+    <ctml:parentRef>place:admin1:GQ-WN</ctml:parentRef>
+    <ctml:wikiDataId>Q2604881</ctml:wikiDataId>
+    <ctml:latitude>1.12985000</ctml:latitude>
+    <ctml:longitude>11.26603000</ctml:longitude>
+  </ctml:place>
+</ctml:placeRegistry>
